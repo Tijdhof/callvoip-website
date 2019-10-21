@@ -9,10 +9,10 @@ newclient:
     pretty: callvoip@callvoip.nl
     email: callvoip@callvoip.nl
 helpdesk:
-  title: Bent u ergens specifiek naar op zoek?<br> Gebruik onze zoekfunctie
+  title: Ben je ergens specifiek naar op zoek?<br> Gebruik onze zoekfunctie
   content: Zoeken in de website
 social:
-  title: Natuurlijk kunt u ons ook <br />volgen op je favoriete social kanaal
+  title: Natuurlijk kun je ons ook <br />volgen op je favoriete social kanaal
   items:
   - title: Volg Callvoip op YouTube
     link: https://www.youtube.com/channel/UCc6smCXLNIdHLKS2bORq0SQ
