@@ -1,7 +1,7 @@
 {{ with .Params.textblocks }}
 
 {{ range $index, $item := . }}
-{{ $title := .top_title }} {{ . | markdownify }}
+{{ $title := .top_title }}
 {{ $content := .top_content }}
 <div
     class="{{if (modBool $index 2)}} bg-grey-lightest {{ end }} py-12 lg:pt-20  {{ if .show_vshape}} lg:pb-0 {{ else }} lg:pb-12  {{ end }}">
