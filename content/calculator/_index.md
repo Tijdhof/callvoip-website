@@ -127,4 +127,4 @@ offerte:
     offerte op basis van bovenstaande wensen.
 
 ---
-Met deze calculator worden de maandelijkse en eenmalige kosten van onze oplossing eenvoudig berekend. We zitten klaar voor jou om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo belangrijk om te weten wat onze oplossing kan opleveren. Vraag een vrijblijvende offerte aan en we geven graag een toelichting bij de kosten en mogelijkheden voor jouw situatie.
+Met deze calculator worden de maandelijkse en eenmalige kosten van onze oplossing eenvoudig berekend. We zitten klaar om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo belangrijk om te weten wat onze oplossing kan opleveren. Vraag een vrijblijvende offerte aan en we geven graag een toelichting bij de kosten en mogelijkheden voor jouw situatie.
