@@ -10,7 +10,7 @@ outputs:
 - JSON
 basic:
 - name: Telefooncentrale
-  description: Onze online telefooncentrale
+  description: De Callvoip online telefooncentrale
   min: 1
   max: 1
   price_monthly: 7.5
@@ -127,4 +127,4 @@ offerte:
     offerte op basis van bovenstaande wensen.
 
 ---
-Bereken hieronder eenvoudig de abonnementskosten passend bij uw situatie. Helaas hebben wij niet alles kunnen integreren in deze calculator. Wilt u dus een offerte op maat? klik dan onderaan op de knop en ontvang binnen 1 dag een vrijblijvende offerte.
+Bereken hieronder eenvoudig de abonnementskosten passend bij jouw situatie. Aan de hand van deze eenvoudige offerte kunnen wij een offerte op maat opstellen. Wilt u dus een offerte op maat? klik dan onderaan op de knop en ontvang binnen 1 dag een vrijblijvende offerte.
