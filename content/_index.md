@@ -74,12 +74,13 @@ usps:
       kun je gemiste gesprekken opvangen. De beller kan, na de door jou ingestelde
       melding, een bericht inspreken.
 - title: Nog meer functies
-  content: 'Elke bedrijf is uniek. De standaard functionaliteit van onze centrale
-    kan eenvoudig worden uitgebreid voor de finishing touch.<br><br> Zo kan een keuzemenu
-    worden toegevoegd voor efficiënte gespreksafhandeling. Per gebruiker kan call
-    recording worden geactiveerd.  Ook de mogelijkheid om onze gratis smartphone app
-    Qaller uit te breiden baar een betaalde variant waarmee ook gebeld kan worden,
-    wordt dagelijks reeds door ruim 1.000 gebruiker  '
+  content: Elk bedrijf is uniek. De standaard functionaliteit van onze centrale kan
+    eenvoudig verder worden uitgebreid voor de finishing touch.<br><br> Zo kan een
+    keuzemenu worden toegevoegd voor efficiënte gespreksafhandeling. Per gebruiker
+    kan call recording worden geactiveerd. De meest gebruikte optie is Qaller Plus,
+    de uitbreiding van Qaller naar een betaalde variant waarmee ook gebeld kan worden.
+    Inmiddels is Qaller Plus een onmisbare geworden op de smartphone van ruim 1.000
+    gebruikers.
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
