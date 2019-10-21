@@ -14,8 +14,8 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content2: '
-      <p>Laat je gegevens achter en we gaan direct...</p>
+- content2: '<div id="aandeslag">
+      <p>Laat je gegevens achter en we gaan direct...</p></div>
           <form class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="proberenformulier" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
@@ -51,7 +51,7 @@ textblocks:
     ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
-  top_title: '<div id="aandeslag">Druk met leven, en toch zakelijk alles onder controle?</div>'
+  top_title: 'Druk met leven, en toch zakelijk alles onder controle?'
 blocks:
 - title: Dé modernste Telefooncentrale
   content: |-
