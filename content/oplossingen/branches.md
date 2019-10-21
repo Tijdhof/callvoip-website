@@ -4,10 +4,10 @@ type: page
 layout: default
 logos: true
 hero:
-  title: Kennis van jouw branch
+  title: Kennis van jouw branche
   content: 'De leukste uitdaging voor ons is het optimaal inzetten van onze kennis
     op het gebied van hosted telefonie bij onze klanten. Met ruim 10 jaar ervaring
-    en inmiddels duizenden klanten, zijn we actief in nagenoeg elke branch. Die ervaring
+    en inmiddels duizenden klanten, zijn we actief in nagenoeg elke branche. Die ervaring
     delen we graag zodat ook jouw bedrijf optimaal gebruik kan maken van de slimme
     communicatiemogelijkheden die we bieden.
 
