@@ -1,5 +1,5 @@
 ---
-title: Ontdek hoeveel u bespaart
+title: Een kostenindicatie in een paar klikken
 type: page
 layout: calculator
 hero:
