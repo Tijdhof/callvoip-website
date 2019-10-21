@@ -73,9 +73,11 @@ usps:
     content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
       kunt u gemiste gesprekken opvangen. De beller kan, na de door u ingestelde melding,
       een bericht inspreken.
-- title: Nog meer functies
-  content: 'Elke telefoniesituatie is anders. Het zou dus kunnen dat u de basis telefooncentrale
-    wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
+- title: Nog meer functies!
+  content: De standaard functionaliteit van de centrale kan eenvoudig worden uitgebreid
+    specifieke modules. Zo kan een keuzemenu worden toegevoegd voor efficiënte gespreksafhandeling,
+    kan call recording per gebruiker worden geactiveerd en kan onze gratis smartphone
+    app worden uitgebreid naar een betaalde variant waarmee ook gebeld kan worden..
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
