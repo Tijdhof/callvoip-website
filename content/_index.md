@@ -79,7 +79,7 @@ usps:
     toegevoegd voor efficiënte gespreksafhandeling of kan per gebruiker call recording
     worden geactiveerd. De meest gebruikte optie is echte Qaller Plus: de uitbreiding
     van Qaller naar de betaalde variant waarmee ook gebeld kan worden. Inmiddels is
-    Qaller Plus onmisbaar op de smartphone van ruim 1.000 gebruikers.'
+    Qaller Plus een onmisbare app op de smartphone van ruim 1.000 gebruikers.'
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
