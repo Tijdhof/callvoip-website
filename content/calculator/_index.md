@@ -127,4 +127,4 @@ offerte:
     offerte op basis van bovenstaande wensen.
 
 ---
-Bereken hieronder eenvoudig de abonnementskosten passend bij jouw situatie. Aan de hand van deze eenvoudige offerte kunnen wij een offerte op maat opstellen. Wilt u dus een offerte op maat? klik dan onderaan op de knop en ontvang binnen 1 dag een vrijblijvende offerte.
+Met deze calculator worden de maandelijkse en eenmalige kosten van onze oplossing eenvoudig berekend. We zitten klaar voor jou om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo belangrijk om te weten wat onze oplossing kan opleveren. Vraag een vrijblijvende offerte aan en we geven graag een toelichting bij de kosten en mogelijkheden voor jouw situatie.
