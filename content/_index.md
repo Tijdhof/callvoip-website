@@ -77,7 +77,7 @@ usps:
   content: 'Elk bedrijf is uniek. De standaard functionaliteit van onze centrale kan
     eenvoudig modulair verder worden uitgebreid.<br><br> Zo kan een keuzemenu worden
     toegevoegd voor efficiënte gespreksafhandeling of kan per gebruiker call recording
-    worden geactiveerd. <BR>De meest gebruikte optie is echte Qaller Plus: de uitbreiding
+    worden geactiveerd. <BR>De meest populaire optie is Qaller Plus: de uitbreiding
     van Qaller naar de betaalde variant waarmee ook gebeld kan worden. Inmiddels is
     <a href="/telefonie/qaller/">Qaller Plus</a> een onmisbare app op de smartphone
     van ruim 1.000 gebruikers.'
@@ -133,9 +133,9 @@ usps:
 options:
   image: "/v1565688921/test-home3_xea1m2.png"
   title: Geen gedoe, alles onder één dak!
-  content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent, dat
+  content: 'Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen telefonie. Wij verzorgen betrouwbaar internet, geschikte
-    apparatuur en desgewenst de installatie hiervan.
+    apparatuur en de installatie hiervan. En voor vragen of hulp: Callvoip!'
   items:
   - icon: fa-cloud
     title: Jouw eigen centrale in de cloud
@@ -143,7 +143,7 @@ options:
     link: "/telefonie/hostedvoip/"
     tab: true
   - icon: fa-wifi
-    title: Kabel, DSL of toch glasvezel?
+    title: Kabel, DSL, glasvezel of misschien wel 4G?
     content: Samen kijken we wat het beste bij jouw situatie past. Kabel, ADSL of
       toch glasvezel?
     link: "/internet/postcodecheck/"

@@ -78,5 +78,5 @@ fields:
     label: Button
   label: Hero
 pages:
-- content/ondersteuning/_index.md
 - content/ondersteuning/algemeen/_index.md
+- content/ondersteuning/_index.md
