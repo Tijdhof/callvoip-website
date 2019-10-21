@@ -52,8 +52,8 @@ usps:
   - icon: fa-arrows-h
     title: Doorverbinden
     content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
-      zet je eenvoudig inkomende belletjes door naar een toestel bij jou op kantoor
-      of naar een extern nummer.
+      zet je eenvoudig inkomende belletjes door naar een toestel bij jou op kantoor of
+      naar een extern nummer.
   - icon: fa-users
     title: Belgroep | Huntgroup
     content: De <a href="/telefonie/functionaliteiten/belgroep/">belgroep-app</a>
@@ -71,15 +71,11 @@ usps:
   - icon: fa-file-audio
     title: Voicemailbox
     content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
-      kun je gemiste gesprekken opvangen. De beller kan, na de door jou ingestelde
-      melding, een bericht inspreken..
+      kun je gemiste gesprekken opvangen. De beller kan, na de door jou ingestelde melding,
+      een bericht inspreken.
 - title: Nog meer functies
-  content: 'Elke bedrijf is uniek. De standaard functionaliteit van onze centrale
-    kan eenvoudig worden uitgebreid voor de finishing touch.<br><br> Zo kan een keuzemenu
-    worden toegevoegd voor efficiënte gespreksafhandeling. Per gebruiker kan call
-    recording worden geactiveerd.  Ook de mogelijkheid om onze gratis smartphone app
-    Qaller uit te breiden baar een betaalde variant waarmee ook gebeld kan worden,
-    wordt dagelijks reeds door ruim 1.000 gebruiker  '
+  content: 'Elke telefoniesituatie is anders. Het zou dus kunnen dat je de basis telefooncentrale
+    wenst uit te breiden met één van de volgende betaalde functionaliteiten:'
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
@@ -143,8 +139,8 @@ options:
     tab: true
   - icon: fa-wifi
     title: Kabel, DSL of toch glasvezel?
-    content: Samen kijken we wat het beste bij jouw situatie past. Kabel, ADSL of
-      toch glasvezel?
+    content: Samen kijken we wat het beste bij jouw situatie past. Kabel, ADSL of toch
+      glasvezel?
     link: "/internet/postcodecheck/"
     tab: true
   - icon: fa-tty
