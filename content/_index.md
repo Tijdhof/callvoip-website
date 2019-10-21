@@ -75,11 +75,10 @@ usps:
       melding, een bericht inspreken.
 - title: Nog meer functies
   content: 'Elk bedrijf is uniek. De standaard functionaliteit van onze centrale kan
-    eenvoudig modulair verder worden uitgebreid.<br><br> Zo kan een keuzemenu worden
-    toegevoegd voor efficiënte gespreksafhandeling of kan per gebruiker call recording
-    worden geactiveerd. <BR>De meest populaire optie is <a href="/telefonie/qaller/">Qaller
-    Plus</a>: de uitbreiding van Qaller naar de betaalde variant waarmee ook gebeld
-    kan worden. Inmiddels is Qaller Plus een onmisbare app op ruim 1.000 smartphones.'
+    eenvoudig modulair worden uitgebreid zodat onze oplossing past als maatwerk.<br><br>De
+    meest populaire optie is <a href="/telefonie/qaller/">Qaller Plus</a>: de uitbreiding
+    van Qaller naar de betaalde variant waarmee ook gebeld kan worden. Inmiddels is
+    Qaller Plus een onmisbare app op ruim 1.000 smartphones.'
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
