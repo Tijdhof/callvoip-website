@@ -4,12 +4,13 @@ type: page
 layout: calculator
 hero:
   image: "/v1562160476/callvoip-website-calculator.png"
+  disable_image_on_mobile: false
 outputs:
 - HTML
 - JSON
 basic:
 - name: Telefooncentrale
-  description: Simmpl, onze online telefooncentrale, krijgt u standaard.
+  description: Onze online telefooncentrale
   min: 1
   max: 1
   price_monthly: 7.5
@@ -17,21 +18,21 @@ basic:
   required: true
 - name: Telefoonnummer
   description: Hoeveel telefoon- & faxnummers gaat u gebruiken?
-  min: 0
+  min: 
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
 - name: Toestelaccounts
   description: Elk toestel dat u gebruikt heeft een account nodig.
-  min: 0
+  min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Qaller-accounts
   description: Met hoeveel mobiele apparaten wilt u bellen?
-  min: 0
+  min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
@@ -81,7 +82,7 @@ options:
   items:
   - name: Wachtrij
     description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
-    min: 0
+    min: 
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -89,7 +90,7 @@ options:
   - name: Keuzemenu
     description: Wenst u de beller meteen te begeleiden naar de juiste persoon en/of
       afdeling?
-    min: 0
+    min: 
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -97,7 +98,7 @@ options:
   - name: Faxbox
     description: Wilt u met één van uw nummers faxen ontvangen en versturen? Kies
       dan voor een faxbox!
-    min: 0
+    min: 
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -108,14 +109,14 @@ callrecording:
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 0
+    min: 
     max: 999
     price_monthly: 5
     price_onetime: 5
     required: false
 crm:
 - name: Koppeling CRM-pakket (aantal gebruikers)
-  min: 0
+  min: 
   max: 999
   price_monthly: 5
   price_onetime: 150
