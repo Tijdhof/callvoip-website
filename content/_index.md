@@ -74,10 +74,11 @@ usps:
       kun je gemiste gesprekken opvangen. De beller kan, na de door jou ingestelde
       melding, een bericht inspreken.
 - title: Nog meer functies
-  content: 'Elke bedrijf is uniek waardoor verschillende eisen worden gesteld aan
-    de telefonie: wel of keuzemenu, een wachtrij of wellicht gespreksopname? De meestOok
-    de mogelijkheid om onze gratis smartphone app Qaller uit te breiden baar een betaalde
-    variant waarmee ook gebeld kan worden, wordt dagelijks reeds door ruim 1.000 gebruiker  '
+  content: 'Elke bedrijf is uniek en binnen elk bedrijf waardoor verschillende eisen
+    worden gesteld aan de telefonie: wel of keuzemenu, een wachtrij of wellicht gespreksopname?
+    De meestOok de mogelijkheid om onze gratis smartphone app Qaller uit te breiden
+    baar een betaalde variant waarmee ook gebeld kan worden, wordt dagelijks reeds
+    door ruim 1.000 gebruiker  '
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
