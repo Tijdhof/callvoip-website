@@ -16,8 +16,8 @@ basic:
   price_monthly: 7.5
   price_onetime: 15
   required: true
-- name: Telefoonnummer
-  description: Hoeveel telefoon- & faxnummers gaat u gebruiken?
+- name: Nummers
+  description: Aantal telefoon- en faxnummers
   min: 
   max: 999
   price_monthly: 2
