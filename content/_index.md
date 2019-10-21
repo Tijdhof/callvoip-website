@@ -52,8 +52,8 @@ usps:
   - icon: fa-arrows-h
     title: Doorverbinden
     content: Met de <a href="/telefonie/functionaliteiten/doorverbinden/">doorverbinden-app</a>
-      zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of
-      naar een extern nummer.
+      zet je eenvoudig inkomende belletjes door naar een toestel bij jou op kantoor
+      of naar een extern nummer.
   - icon: fa-users
     title: Belgroep | Huntgroup
     content: De <a href="/telefonie/functionaliteiten/belgroep/">belgroep-app</a>
@@ -66,19 +66,20 @@ usps:
       nummer omleidingen aanmaken.
   - icon: fa-bell
     title: Meldteksten
-    content: Met deze functionaliteit kunt u verschillende <a href="/telefonie/functionaliteiten/meldtekst/">meldteksten</a>
-      in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomsttekst.
+    content: Met deze functionaliteit kun je verschillende <a href="/telefonie/functionaliteiten/meldtekst/">meldteksten</a>
+      in je belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomsttekst.
   - icon: fa-file-audio
     title: Voicemailbox
     content: Met de <a href="/telefonie/functionaliteiten/voicemail/">voicemailbox</a>
-      kunt u gemiste gesprekken opvangen. De beller kan, na de door u ingestelde melding,
-      een bericht inspreken.
-- title: Nog meer functies!
-  content: Elke bedrijf is uniek. De standaard functionaliteit van onze centrale kan
-    eenvoudig worden uitgebreid voor de finishing touch. Zo kan een keuzemenu worden
-    toegevoegd voor efficiënte gespreksafhandeling.  Per gebruiker kan call recording
-    worden geactiveerd.  en kan onze gratis smartphone app worden uitgebreid naar
-    een betaalde variant waarmee ook gebeld kan worden..
+      kun je gemiste gesprekken opvangen. De beller kan, na de door jou ingestelde
+      melding, een bericht inspreken.
+- title: Nog meer functies
+  content: 'Elke bedrijf is uniek. De standaard functionaliteit van onze centrale
+    kan eenvoudig worden uitgebreid voor de finishing touch.<br><br> Zo kan een keuzemenu
+    worden toegevoegd voor efficiënte gespreksafhandeling. Per gebruiker kan call
+    recording worden geactiveerd.  Ook de mogelijkheid om onze gratis smartphone app
+    Qaller uit te breiden baar een betaalde variant waarmee ook gebeld kan worden,
+    wordt dagelijks reeds door ruim 1.000 gebruiker  '
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
@@ -94,17 +95,17 @@ usps:
   - icon: fa-file-pdf
     title: Faxbox
     content: Inkomende <a href="/telefonie/functionaliteiten/fax/">faxberichten</a>
-      komen als PDF-bericht per email op één of meer e-mailadressen binnen. Ook kunt
-      u eenvoudig faxen versturen.
+      komen als PDF-bericht per email op één of meer e-mailadressen binnen. Ook kun
+      je eenvoudig faxen versturen.
   - icon: fa-deaf
     title: Gespreksopname
     content: 'Met <a href="/telefonie/functionaliteiten/gespreksopname/">gespreksopname</a>
-      kunt u uw telefoongesprekken opnemen en terugluisteren. U kunt het zelf per
+      kun je jouw telefoongesprekken opnemen en terugluisteren. Je kunt het zelf per
       gebruiker in- en uitschakelen. '
   - icon: fa-unlock
     title: Versleutelde gesprekken
     content: Privacy is belangrijk bij ons, hier kun je op vertrouwen. Wij bieden
-      de mogelijkheid om gesprekken te versleutelen en zo uw privacy te waarborgen.
+      de mogelijkheid om gesprekken te versleutelen en zo jouw privacy te waarborgen.
       Dit doen we door middel van <a href="/telefonie/versleutelde-telefoongesprekken/">SRTP</a>
       en TLS.
   - icon: fa-mobile
@@ -136,19 +137,19 @@ options:
     mogen daarbij niet ontbreken.
   items:
   - icon: fa-cloud
-    title: Uw eigen centrale in de cloud
+    title: Jouw eigen centrale in de cloud
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
     link: "/telefonie/hostedvoip/"
     tab: true
   - icon: fa-wifi
     title: Kabel, DSL of toch glasvezel?
-    content: Samen kijken we wat het beste bij uw situatie past. Kabel, ADSL of toch
-      glasvezel?
+    content: Samen kijken we wat het beste bij jouw situatie past. Kabel, ADSL of
+      toch glasvezel?
     link: "/internet/postcodecheck/"
     tab: true
   - icon: fa-tty
     title: Nieuwe apparatuur nodig?
-    content: Geen opdringerige verkopers. Met onze specialist kijkt u samen of uw
+    content: Geen opdringerige verkopers. Met onze specialist kijk je samen of jouw
       huidige apparatuur geschikt is.
     link: https://callvoip.shop/
     tab: true
