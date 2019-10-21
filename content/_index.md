@@ -150,9 +150,9 @@ options:
     tab: true
   - icon: fa-tty
     title: Nieuwe apparatuur nodig?
-    content: Geen opdringerige verkopers. Met onze specialist kijk je samen of jouw
-      huidige apparatuur geschikt is.
-    link: https://callvoip.shop/
+    content: Met onze specialist kijk je samen of jouw huidige apparatuur geschikt
+      is.
+    link: "/pages/webshop/"
     tab: true
   - icon: fa-headset
     title: Hulp nodig? We staan voor je klaar
