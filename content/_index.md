@@ -77,9 +77,10 @@ usps:
   content: 'Elk bedrijf is uniek. De standaard functionaliteit van onze centrale kan
     eenvoudig modulair verder worden uitgebreid.<br><br> Zo kan een keuzemenu worden
     toegevoegd voor efficiënte gespreksafhandeling of kan per gebruiker call recording
-    worden geactiveerd. De meest gebruikte optie is echte Qaller Plus: de uitbreiding
+    worden geactiveerd. <BR>De meest gebruikte optie is echte Qaller Plus: de uitbreiding
     van Qaller naar de betaalde variant waarmee ook gebeld kan worden. Inmiddels is
-    Qaller Plus een onmisbare app op de smartphone van ruim 1.000 gebruikers.'
+    <a href="/telefonie/qaller/">Qaller Plus</a> een onmisbare app op de smartphone
+    van ruim 1.000 gebruikers.'
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
