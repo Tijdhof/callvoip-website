@@ -74,10 +74,11 @@ usps:
       kunt u gemiste gesprekken opvangen. De beller kan, na de door u ingestelde melding,
       een bericht inspreken.
 - title: Nog meer functies!
-  content: De standaard functionaliteit van de centrale kan eenvoudig worden uitgebreid
-    specifieke modules. Zo kan een keuzemenu worden toegevoegd voor efficiënte gespreksafhandeling,
-    kan call recording per gebruiker worden geactiveerd en kan onze gratis smartphone
-    app worden uitgebreid naar een betaalde variant waarmee ook gebeld kan worden..
+  content: Elke bedrijf is uniek. De standaard functionaliteit van onze centrale kan
+    eenvoudig worden uitgebreid voor de finishing touch. Zo kan een keuzemenu worden
+    toegevoegd voor efficiënte gespreksafhandeling.  Per gebruiker kan call recording
+    worden geactiveerd.  en kan onze gratis smartphone app worden uitgebreid naar
+    een betaalde variant waarmee ook gebeld kan worden..
   items:
   - icon: fa-bars
     title: Keuzemenu (IVR)
