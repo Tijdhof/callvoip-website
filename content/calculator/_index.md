@@ -39,7 +39,7 @@ basic:
   required: false
 callminutes:
   title: Belbundel
-  description: Belt u veel? Kies dan voor één van de belbundels.
+  description: Geen verrassingen, kies een belbundel
   items:
   - name: Geen belminuten
     value: 
@@ -51,12 +51,12 @@ callminutes:
     price_monthly: 10
     price_onetime: 
     required: false
-  - name: Belminuten 1500
+  - name: Belminuten 1.500
     value: 1
     price_monthly: 12.5
     price_onetime: 
     required: false
-  - name: Belminuten 5000
+  - name: Belminuten 5.000
     value: 1
     price_monthly: 25
     price_onetime: 
