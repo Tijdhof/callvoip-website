@@ -135,7 +135,7 @@ options:
   title: Geen gedoe, alles onder één dak!
   content: 'Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen telefonie. Wij verzorgen betrouwbaar internet, geschikte
-    apparatuur en de installatie hiervan. En voor vragen of hulp: Callvoip!'
+    apparatuur en de installatie hiervan.<BR><BR>En voor vragen of hulp: Callvoip!'
   items:
   - icon: fa-cloud
     title: Jouw eigen centrale in de cloud
