@@ -23,15 +23,15 @@ basic:
   price_monthly: 2
   price_onetime: 15
   required: true
-- name: Toestelaccounts
-  description: Elk toestel dat u gebruikt heeft een account nodig.
+- name: Gebruikers
+  description: Aantal gebruikers met een vast toestel
   min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Qaller-accounts
-  description: Met hoeveel mobiele apparaten wilt u bellen?
+- name: App gebruikers
+  description: Aantal gebruikers met een mobiele app (Qaller Plus)
   min: 
   max: 999
   price_monthly: 4
