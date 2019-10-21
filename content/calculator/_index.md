@@ -30,7 +30,7 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: App gebruikers
+- name: Mobiele app gebruikers
   description: Aantal gebruikers met een mobiele app (Qaller Plus)
   min: 
   max: 999
