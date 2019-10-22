@@ -1,5 +1,5 @@
 ---
-title: Ontdek hoeveel u bespaart
+title: Een kostenindicatie in een paar klikken
 type: page
 layout: calculator
 hero:
@@ -126,4 +126,6 @@ offerte:
     offerte op basis van bovenstaande wensen.
 
 ---
-Bereken hieronder eenvoudig de abonnementskosten passend bij uw situatie. Helaas hebben wij niet alles kunnen integreren in deze calculator. Wilt u dus een offerte op maat? klik dan onderaan op de knop en ontvang binnen 1 dag een vrijblijvende offerte.
+We zitten klaar om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo
+belangrijk om te weten wat onze oplossing kan opleveren. Vraag een vrijblijvende offerte aan en we geven graag een toelichting bij de
+kosten en mogelijkheden voor jouw situatie.
