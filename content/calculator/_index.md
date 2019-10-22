@@ -29,7 +29,7 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Qaller-accounts
+- name: Qaller-Plus-accounts
   description: Met hoeveel mobiele apparaten wilt u bellen?
   min: 0
   max: 999
