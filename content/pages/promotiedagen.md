@@ -54,7 +54,7 @@ textblocks:
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
   top_title: Druk met leven, en toch zakelijk alles onder controle?
-    content: Test
+      content: Test
 blocks:
 - title: Dé modernste Telefooncentrale
   content: |-
