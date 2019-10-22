@@ -8,9 +8,9 @@ hero:
   title: Slimme smartphone app
   content: Met onze gratis smartphone app Qaller kun je de telefooncentrale eenvoudig
     zelf bedienen. Even niet bereikbaar? Met één klik stel je in Qaller een doorschakeling
-    in. Met de betaalde Plus variant fungeert jouw smartphone als volwaardig kantoortoestel
-    en kun je bellen en gebeld worden op het vaste telefoonnummer, zie je of collega's
-    in gesprek zijn en kun je zelfs doorverbinden.
+    of een meldtekst in. Met de betaalde Plus variant fungeert jouw smartphone als
+    volwaardig kantoortoestel en kun je bellen en gebeld worden op het vaste telefoonnummer,
+    zie je of collega's in gesprek zijn en kun je zelfs doorverbinden.
   button:
     content: Handleiding Qaller
     link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
