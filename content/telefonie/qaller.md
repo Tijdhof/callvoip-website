@@ -27,7 +27,7 @@ blocks:
   title: De slimme afstandsbediening
   image_position: center
 - content: Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als
-    belangrijke extra functie kan met de de Plus variant worden gebeld en kunnen gesprekken
+    belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken
     worden ontvangen op het zakelijke vaste nummer. Hiermee wordt de smartphone gepromoveerd
     tot volwaardig kantoortoestel.<BR> De licentieprijs van Qaller Plus is gelijk
     aan de prijs van een toestelaccount.
