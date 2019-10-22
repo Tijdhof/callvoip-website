@@ -37,12 +37,11 @@ intro:
     content: Tot wel 50% voordeliger dan traditionele telefonie.
 usps:
 - title: Vanaf 1 tot 100+ gebruikers
-  content: <p>De hosted telefooncentrale van Callvoip biedt standaard alle belangrijke
-    functies voor optimale bereikbaarheid én een professionele uitstraling. En dat
-    met een ongekend bedieningsgemak. <br></br> Van automatische meldteksten tot slimme
-    doorschakelingen, instelling hiervan is een fluitje van een cent. Benieuwd naar
-    alle mogelijkheden?</p>  <a href="/telefonie/functionaliteiten/" class="button">Overzicht
-    functionaliteiten</a>
+  content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies
+    voor optimale bereikbaarheid én een professionele uitstraling. En dat met een
+    ongekend bedieningsgemak. <br></br> Van automatische meldteksten tot slimme doorschakelingen,
+    instelling hiervan is een fluitje van een cent. Benieuwd naar alle mogelijkheden?</p>  <a
+    href="/telefonie/functionaliteiten/" class="button">Overzicht functionaliteiten</a>
   items:
   - icon: fa-clock
     title: Tijdscondities
