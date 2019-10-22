@@ -15,7 +15,7 @@ hero:
     content: Handleiding Qaller
     link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
-  image_position: start
+  image_position: center
   disable_image_on_mobile: false
 blocks:
 - content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
