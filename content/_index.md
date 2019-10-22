@@ -136,7 +136,7 @@ options:
     apparatuur en de installatie hiervan.
   items:
   - icon: fa-cloud
-    title: Jouw eigen telefooncentrale, veilig in de cloud
+    title: Jouw eigen centrale, veilig in de cloud
     content: 'Bepaal zelf eenvoudig wanneer en waar je bereikbaar bent. '
     link: "/telefonie/hostedvoip/"
     tab: true
