@@ -1,16 +1,18 @@
 ---
-title: Qaller | de mobiele app voor uw Simmpl telefooncentrale
+title: Qaller | de slimme mobiele app
 type: page
 layout: default
 logos: true
 aliases: "/qaller"
 hero:
-  title: Qaller (mobiele app)
-  content: |-
-    Met Qaller wordt uw mobiele telefoon onderdeel van de online telefooncentrale.
-    Bedien de telefooncentrale vanaf uw smartphone én gebruik uw smartphone alsof het een kantoortoestel is (bellen en gebeld worden).
+  title: Slimme smartphone app
+  content: Met onze gratis smartphone app Qaller kun je de telefooncentrale eenvoudig
+    zelf bedienen. Even niet bereikbaar? Met één klik stel je in Qaller een doorschakeling
+    in. Met de betaalde Plus variant fungeert jouw smartphone als volwaardig kantoortoestel
+    en kun je bellen en gebeld worden op het vaste telefoonnummer, zie je of collega's
+    in gesprek zijn en kun je zelfs doorverbinden.
   button:
-    content: Qaller Handleiding
+    content: Handleiding Qaller
     link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   image_position: start
@@ -88,7 +90,7 @@ prijzen:
   button:
     title: Bereken het zelf
     link: "/calculator/"
-description: Met Qaller bent u inkomend bereikbaar op- en belt u uit met het zakelijk
+description: Met Qaller ben je inkomend bereikbaar op- en belt u uit met het zakelijk
   nummer. Tevens bedient u eenvoudig de online telefooncentrale.
 images: []
 hideinsearch: false
