@@ -4,7 +4,6 @@ type: page
 layout: calculator
 hero:
   image: "/v1562160476/callvoip-website-calculator.png"
-  disable_image_on_mobile: false
 outputs:
 - HTML
 - JSON
@@ -18,21 +17,21 @@ basic:
   required: true
 - name: Telefoonnummer
   description: Aantal telefoon- en faxnummers.
-  min: 
+  min: 0
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
-- name: Gebruikers
+- name: Toestelaccounts
   description: Aantal gebruikers met een vast toestel.
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Qaller-Plus-accounts
   description: Aantal gebruikers met een mobiele app (Qaller Plus)
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
@@ -82,7 +81,7 @@ options:
   items:
   - name: Wachtrij
     description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -90,7 +89,7 @@ options:
   - name: Keuzemenu
     description: Wenst u de beller meteen te begeleiden naar de juiste persoon en/of
       afdeling?
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -98,7 +97,7 @@ options:
   - name: Faxbox
     description: Wilt u met één van uw nummers faxen ontvangen en versturen? Kies
       dan voor een faxbox!
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -109,14 +108,14 @@ callrecording:
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 
+    min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
     required: false
 crm:
 - name: Koppeling CRM-pakket (aantal gebruikers)
-  min: 
+  min: 0
   max: 999
   price_monthly: 5
   price_onetime: 150
