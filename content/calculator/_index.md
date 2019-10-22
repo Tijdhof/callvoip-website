@@ -22,7 +22,7 @@ basic:
   price_monthly: 2
   price_onetime: 15
   required: true
-- name: Gebruikers
+- name: Toestelaccounts
   description: Aantal gebruikers met een vast toestel.
   min: 0
   max: 999
