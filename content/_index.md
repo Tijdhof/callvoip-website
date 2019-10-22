@@ -147,9 +147,9 @@ options:
     link: "/internet/postcodecheck/"
     tab: true
   - icon: fa-tty
-    title: Nieuwe apparatuur nodig?
-    content: Met onze specialist kijk je samen of jouw huidige apparatuur geschikt
-      is.
+    title: Kennis van de juiste apparaatur
+    content: Of het nu gaat om IP toestellen, routers of accesspoint, wij geven gratis
+      advies en kunnen de apparatuur plug and play leveren.
     link: "/pages/webshop/"
     tab: true
   - icon: fa-headset
