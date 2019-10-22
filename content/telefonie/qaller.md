@@ -18,12 +18,12 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: Met de <b>gratis</b> variant van Qaller kunt u uw telefooncentrale beheren
-    en bedienen via uw smartphone. Wanneer dan ook, waar dan ook. Snel en gemakkelijk.
-    Dat biedt vrijheid en onafhankelijkheid.
+- content: Hoe bedien je een TV zonder afstandsbediening? De Callvoip telefooncentrale
+    kan gelukkig ook via de browser worden bediend maar de mogelijkheid om dit via
+    de smartphone te doen is wel superhandig.
   image: "/v1568875791/phone_new_rkvuby.png"
   position: image_left
-  title: Bedien de telefooncentrale (Qaller)
+  title: De slimme afstandsbediening
   image_position: center
 - content: "Met de <b>betaalde</b> variant van Qaller:<br> \n* Bedient u de telefooncentrale</br>\n*
     Belt u vanaf uw smartphone met uw zakelijke telefoonnummer</br>\n* Zien relaties
@@ -34,29 +34,30 @@ blocks:
   title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
   image_position: ''
 usps:
-  title: Welke voordelen heeft Qaller?
+  title: De belangrijkste kenmerken van Qaller op een rij
   content: ''
   items:
   - icon: fa-cloud
     title: Flexibel
-    content: Met de mobiele app Qaller heeft u altijd en overal toegang tot uw telefooncentrale.
+    content: Altijd en overal toegang tot de telefooncentrale via de smartphone.
   - icon: fa-user-lock
     title: Veilig
-    content: U bepaalt welke werknemers toegang krijgen tot gebruik van de gratis
-      en betaalde variant.
+    content: Bepaal zelf wie toegang krijgt tot het gebruik van de gratis en de betaalde
+      variant.
   - icon: fa-comment-alt-smile
     title: Eenvoudig
-    content: U wijzigt gemakkelijk de belroute van uw toestel of nummers in ad hoc
-      situaties.
+    content: Het wijzigen van een belroute of het activeren van een meldtekst kan
+      met één klik.
   - icon: fa-trophy
     title: Professioneel
-    content: Bel uit met uw smartphone en stuur uw vaste (zaak-)telefoonnummer mee!
+    content: Gebruik de smartphone als kantoortoestel en bel met het zakelijke nummer
+      uit.
   - icon: fa-spinner
     title: Bereikbaar
-    content: Overal inkomend bereikbaar voor uw klanten (extern) en collega’s (intern).
+    content: Bepaal zelf hoe je bereikbaar bent.
   - icon: fa-file-contract
     title: Schaalbaar
-    content: Qaller is eenvoudig aan- & uit te zetten én is maandelijks opzegbaar.
+    content: Qaller is eenvoudig aan- en uit te zetten én is maandelijks opzegbaar.
 intro:
   title: Waar download ik de app?
   content: |-
