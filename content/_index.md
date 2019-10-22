@@ -136,7 +136,7 @@ options:
     apparatuur en de installatie hiervan.
   items:
   - icon: fa-cloud
-    title: Jouw eigen centrale in de cloud
+    title: De modernste hosted telefooncentrale overal bereikbaar
     content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
     link: "/telefonie/hostedvoip/"
     tab: true
@@ -148,8 +148,8 @@ options:
     tab: true
   - icon: fa-tty
     title: Kennis van de juiste apparaatur
-    content: Of het nu gaat om IP toestellen, routers of accesspoint, wij geven gratis
-      advies en kunnen de apparatuur plug and play leveren.
+    content: Of het nu gaat om IP toestellen, headsets, routers of accesspoint. Wij
+      geven gratis advies en kunnen de apparatuur plug and play leveren.
     link: "/pages/webshop/"
     tab: true
   - icon: fa-headset
