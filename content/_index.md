@@ -142,8 +142,8 @@ options:
     tab: true
   - icon: fa-wifi
     title: Kabel, DSL, glasvezel of misschien wel 4G?
-    content: Internet is een belangrijke basis van de werkplak.   basis Samen kijken
-      we wat het beste bij jouw situatie past. Kabel, ADSL of toch glasvezel?
+    content: Internet is een belangrijke basis van de werkplek. Wij verzorgen snelle
+      en stabiele verbindingen voor jouw situatie.
     link: "/internet/postcodecheck/"
     tab: true
   - icon: fa-tty
