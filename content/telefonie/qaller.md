@@ -28,9 +28,9 @@ blocks:
   image_position: center
 - content: Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als
     belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken
-    worden ontvangen op het zakelijke vaste nummer. Hiermee wordt de smartphone gepromoveerd
-    tot volwaardig kantoortoestel.<BR> De licentieprijs van Qaller Plus is gelijk
-    aan de prijs van een toestelaccount.
+    worden ontvangen op het zakelijke vaste nummer. Hiermee kan elke smartphone worden
+    ingezet als volwaardig kantoortoestel.<BR> De prijs van <B>Qaller Plus</B> is
+    gelijk aan de prijs van een toestelaccount.
   image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
   title: De smartphone als kantoortoestel
