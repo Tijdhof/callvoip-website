@@ -26,13 +26,13 @@ blocks:
   position: image_left
   title: De slimme afstandsbediening
   image_position: center
-- content: "Met de <b>betaalde</b> variant van Qaller:<br> \n* Bedient u de telefooncentrale</br>\n*
-    Belt u vanaf uw smartphone met uw zakelijke telefoonnummer</br>\n* Zien relaties
-    uw mobiele telefoonnummer niet</br>\n* Loopt zakelijk belverkeer via de telefooncentrale</br>\n*
-    Bent u inkomend bereikbaar, zowel intern als extern</br>"
+- content: Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als
+    belangrijke extra functie kan met de de Plus variant worden gebeld en kunnen gesprekken
+    worden ontvangen op het zakelijke vaste nummer. Hiermee wordt de smartphone gepromoveerd
+    tot volwaardig kantoortoestel.
   image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
-  title: Bel met uw zakelijke telefoonnummer (Qaller Plus)
+  title: De smartphone als kantoortoestel
   image_position: ''
 usps:
   title: De belangrijkste kenmerken van Qaller op een rij
