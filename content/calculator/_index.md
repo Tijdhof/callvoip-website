@@ -9,28 +9,28 @@ outputs:
 - JSON
 basic:
 - name: Telefooncentrale
-  description: Simmpl, onze online telefooncentrale, krijgt u standaard.
+  description: De Callvoip online telefooncentrale.
   min: 1
   max: 1
   price_monthly: 7.5
   price_onetime: 15
   required: true
 - name: Telefoonnummer
-  description: Hoeveel telefoon- & faxnummers gaat u gebruiken?
+  description: Aantal telefoon- en faxnummers.
   min: 0
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
 - name: Toestelaccounts
-  description: Elk toestel dat u gebruikt heeft een account nodig.
+  description: Aantal gebruikers met een vast toestel.
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Qaller-Plus-accounts
-  description: Met hoeveel mobiele apparaten wilt u bellen?
+  description: Aantal gebruikers met een mobiele app (Qaller Plus)
   min: 0
   max: 999
   price_monthly: 4
@@ -38,7 +38,7 @@ basic:
   required: false
 callminutes:
   title: Belbundel
-  description: Belt u veel? Kies dan voor één van de belbundels.
+  description: Geen verrassingen, kies een belbundel
   items:
   - name: Geen belminuten
     value: 
