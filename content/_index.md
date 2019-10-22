@@ -153,9 +153,9 @@ options:
     link: "/pages/webshop/"
     tab: true
   - icon: fa-headset
-    title: Hulp nodig? We staan voor je klaar
-    content: Geen lange wachttijden of doorverbinden. Bij Callvoip spreek je altijd
-      direct met een specialist.
+    title: Hulp nodig? We zijn blij als je belt!
+    content: Geen lange wachttijden of eindeloze menu's. Bij ons spreek je direct
+      met een specials, dat is wel zo prettig.
     link: "/ondersteuning/"
     tab: true
 prefooter:
