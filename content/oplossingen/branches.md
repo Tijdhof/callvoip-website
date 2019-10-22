@@ -33,7 +33,7 @@ blocks:
   image_position: ''
 - title: Recruitment
   image: "/v1565857793/recruiter_swtpbu.png"
-  content: Test <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier
+  content: <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier
     de brancheoplossing</a>
   position: image_left
   image_position: ''
