@@ -1,45 +1,44 @@
 ---
-title: Een kostenindicatie in een paar klikken
+title: Ontdek hoeveel u bespaart
 type: page
 layout: calculator
 hero:
   image: "/v1562160476/callvoip-website-calculator.png"
-  disable_image_on_mobile: false
 outputs:
 - HTML
 - JSON
 basic:
 - name: Telefooncentrale
-  description: De Callvoip online telefooncentrale
+  description: Simmpl, onze online telefooncentrale, krijgt u standaard.
   min: 1
   max: 1
   price_monthly: 7.5
   price_onetime: 15
   required: true
-- name: Nummers
-  description: Aantal telefoon- en faxnummers
-  min: 
+- name: Telefoonnummer
+  description: Hoeveel telefoon- & faxnummers gaat u gebruiken?
+  min: 0
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
-- name: Gebruikers
-  description: Aantal gebruikers met een vast toestel
-  min: 
+- name: Toestelaccounts
+  description: Elk toestel dat u gebruikt heeft een account nodig.
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Mobiele app gebruikers
-  description: Aantal gebruikers met een mobiele app (Qaller Plus)
-  min: 
+- name: Qaller-accounts
+  description: Met hoeveel mobiele apparaten wilt u bellen?
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 callminutes:
   title: Belbundel
-  description: Geen verrassingen, kies een belbundel
+  description: Belt u veel? Kies dan voor één van de belbundels.
   items:
   - name: Geen belminuten
     value: 
@@ -51,12 +50,12 @@ callminutes:
     price_monthly: 10
     price_onetime: 
     required: false
-  - name: Belminuten 1.500
+  - name: Belminuten 1500
     value: 1
     price_monthly: 12.5
     price_onetime: 
     required: false
-  - name: Belminuten 5.000
+  - name: Belminuten 5000
     value: 1
     price_monthly: 25
     price_onetime: 
@@ -82,7 +81,7 @@ options:
   items:
   - name: Wachtrij
     description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -90,7 +89,7 @@ options:
   - name: Keuzemenu
     description: Wenst u de beller meteen te begeleiden naar de juiste persoon en/of
       afdeling?
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -98,7 +97,7 @@ options:
   - name: Faxbox
     description: Wilt u met één van uw nummers faxen ontvangen en versturen? Kies
       dan voor een faxbox!
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -109,14 +108,14 @@ callrecording:
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 
+    min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
     required: false
 crm:
 - name: Koppeling CRM-pakket (aantal gebruikers)
-  min: 
+  min: 0
   max: 999
   price_monthly: 5
   price_onetime: 150
@@ -127,4 +126,4 @@ offerte:
     offerte op basis van bovenstaande wensen.
 
 ---
-We zitten klaar om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo belangrijk om te weten wat onze oplossing kan opleveren. Vraag een vrijblijvende offerte aan en we geven graag een toelichting bij de kosten en mogelijkheden voor jouw situatie.
+Bereken hieronder eenvoudig de abonnementskosten passend bij uw situatie. Helaas hebben wij niet alles kunnen integreren in deze calculator. Wilt u dus een offerte op maat? klik dan onderaan op de knop en ontvang binnen 1 dag een vrijblijvende offerte.
