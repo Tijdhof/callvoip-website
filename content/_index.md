@@ -138,7 +138,7 @@ options:
   - icon: fa-cloud
     title: Jouw eigen centrale, veilig in de cloud
     content: Onbeperkt schaalbaar, boordevol handige functies en geen lange contracten.
-      Bepaal zelf eenvoudig hoe je bereikbaar bent.
+      Bepaal simpel zèlf hoe je bereikbaar bent.
     link: "/telefonie/hostedvoip/"
     tab: true
   - icon: fa-wifi
