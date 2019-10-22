@@ -20,7 +20,7 @@ hero:
 blocks:
 - content: Hoe bedien je een TV zonder afstandsbediening? De Callvoip telefooncentrale
     kan gelukkig ook via de browser worden bediend maar de mogelijkheid om dit via
-    de smartphone te doen is wel superhandig.<BR> Het gebruikt van Qaller is standaard
+    de smartphone te doen is wel superhandig.<BR> Het gebruik van Qaller is standaard
     inbegrepen en is gratis.
   image: "/v1568875791/phone_new_rkvuby.png"
   position: image_left
@@ -29,7 +29,8 @@ blocks:
 - content: Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als
     belangrijke extra functie kan met de de Plus variant worden gebeld en kunnen gesprekken
     worden ontvangen op het zakelijke vaste nummer. Hiermee wordt de smartphone gepromoveerd
-    tot volwaardig kantoortoestel.
+    tot volwaardig kantoortoestel.<BR> De licentieprijs van Qaller Plus is gelijk
+    aan de prijs van een toestelaccount.
   image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
   title: De smartphone als kantoortoestel
