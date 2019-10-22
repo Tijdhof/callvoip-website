@@ -30,7 +30,7 @@ blocks:
     belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken
     worden ontvangen op het zakelijke vaste nummer. Hiermee kan elke smartphone worden
     ingezet als volwaardig kantoortoestel.<BR> De prijs van <B>Qaller Plus</B> is
-    gelijk aan de prijs van een toestelaccount.
+    gelijk aan de <B>prijs van een toestelaccount</B>.
   image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
   title: De smartphone als kantoortoestel
