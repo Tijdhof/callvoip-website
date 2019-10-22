@@ -136,8 +136,8 @@ options:
     apparatuur en de installatie hiervan.
   items:
   - icon: fa-cloud
-    title: De modernste hosted telefooncentrale overal bereikbaar
-    content: Geen telefooncentrale op locatie, maar een moderne centrale in de cloud.
+    title: Jouw eigen centrale, veilig in de cloud
+    content: Ontdek het gemak van de eenvoudige bediening
     link: "/telefonie/hostedvoip/"
     tab: true
   - icon: fa-wifi
@@ -154,8 +154,8 @@ options:
     tab: true
   - icon: fa-headset
     title: Hulp nodig? We zijn blij als je belt!
-    content: Geen lange wachttijden of eindeloze menu's. Bij ons spreek je direct
-      met een specials, dat is wel zo prettig.
+    content: Geen lange wachttijden of eindeloze menu's. Bij ons ben je geen nummer
+      en spreek je direct met een specials, dat is wel zo prettig.
     link: "/ondersteuning/"
     tab: true
 prefooter:
