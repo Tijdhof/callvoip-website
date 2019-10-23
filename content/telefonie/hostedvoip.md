@@ -5,7 +5,7 @@ layout: default
 aliases: "/voip"
 logos: true
 hero:
-  title: De power van Hosted VoIP
+  title: Hosted VoIP voordelen
   content: 'Met Hosted VoIP wordt telefonie naar de cloud verplaatst. Op het eerste
     gezicht lijken alle Hosted VoIP centrales op elkaar: via elke oplossing kan prima
     worden gebeld en kunnen zaken worden ingesteld.<BR>Toch zijn er ook belangrijke
