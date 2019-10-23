@@ -9,8 +9,8 @@ hero:
   content: Met onze gratis smartphone app Qaller kun je de telefooncentrale eenvoudig
     zelf bedienen. Even niet bereikbaar? Met één klik stel je in Qaller een doorschakeling
     of meldtekst in. <BR><BR>Met de betaalde Plus variant fungeert jouw smartphone
-    als volwaardig kantoortoestel en kun je bellen en gebeld worden op het vaste telefoonnummer,
-    zie je of collega's in gesprek zijn en kun je zelfs doorverbinden.
+    als volwaardig kantoortoestel. Je kunt bellen en gebeld worden op het vaste telefoonnummer,
+    ziet of collega's in gesprek zijn en zelfs doorverbinden is mogelijk.
   button:
     content: Handleiding Qaller
     link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
