@@ -129,9 +129,8 @@ usps:
 options:
   image: "/v1565688921/test-home3_xea1m2.png"
   title: Geen gedoe, alles onder één dak!
-  content: Callvoip zorgt voor slimme zakelijke telefonische bereikbaarheid.  dat
-    gaat verder dan alleen telefonie. Wij verzorgen betrouwbaar internet, geschikte
-    apparatuur en de installatie hiervan.
+  content: Onze dienstverlening reikt verder dan alleen telefonie. Wij verzorgen betrouwbaar
+    internet, geschikte apparatuur en de installatie hiervan.
   items:
   - icon: fa-cloud
     title: Jouw eigen centrale, veilig in de cloud
