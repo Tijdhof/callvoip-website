@@ -11,7 +11,7 @@ hero:
     worden gebeld en kunnen zaken worden ingesteld.<BR><BR>Toch zijn er ook belangrijke
     verschillen. Met Callvoip profiteer je van een ongeëvenaard gebruiksgemak. En
     belangrijker nog, we beschikken over een schat aan ervaring om de bereikbaarheid
-    en uitstraling van onze klanten te optimaliseren.'
+    en uitstraling van onze klanten te optimaliseren. We staan voor je klaar!'
   button:
     content: Ik ben geïnteresseerd!
     link: "/offerte"
