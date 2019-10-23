@@ -27,13 +27,15 @@ blocks:
   position: image_left
   title: Upgrade de smartphone met Callvoip
   image_position: center
-- content: |-
-    Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele <a href="/telefonie/functionaliteiten/">functionaliteiten</a> en uitblinkt in bedieningsgemak.
-
-    Met alle professionele functies maken we u écht beter bereikbaar. Alles kunt u eenvoudig instellen en mocht u er toch even niet uitkomen, dan helpen wij u graag!
+- content: De belangrijkste basis bij ons is het belplan, dit bepaalt hoe en wanneer
+    je bereikbaar bent. Dit belplan is zo ontwikkeld dat iedereen dit zelf eenvoudig
+    kan samenstellen. Uiteraard zijn we altijd bereikbaar voor handige tips en ondersteuning.<BR><BR>
+    Door een simpele drag and drop kunnen alle <a href="/telefonie/functionaliteiten/">bouwstenen</a>
+    in het belplan worden gesleept. Je zult er versteld staan van de hoeveelheid mogelijkheden
+    en de eenvoud hoe hiermee op eenvoudige wijze een belplan kan worden gebouwd.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_right
-  title: Functionaliteiten van de online telefooncentrale
+  title: Hoe leuk kan het instellen van een belplan zijn
   image_position: ''
 usps:
   title: Veelgestelde vragen over VoIP
