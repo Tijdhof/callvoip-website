@@ -21,7 +21,7 @@ hero:
 blocks:
 - content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
     vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
-    toestel, op de smartphone of of beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
+    toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
     of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
@@ -36,7 +36,7 @@ blocks:
     gebouwd.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_right
-  title: Hoe leuk kan het instellen van een belplan zijn
+  title: Hoe leuk kan het instellen van een belplan zijn?
   image_position: ''
 usps:
   title: Veelgestelde vragen over VoIP
