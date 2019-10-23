@@ -32,7 +32,7 @@ blocks:
     eenvoudig kan samenstellen. Uiteraard zijn we altijd bereikbaar voor handige tips
     en ondersteuning.<BR><BR> Door een simpele drag and drop kunnen alle <a href="/telefonie/functionaliteiten/">bouwstenen</a>
     in het belplan worden gesleept. Je zult versteld staan van de hoeveelheid mogelijkheden
-    en toch de eenvoud waarmee op eenvoudige wijze een eigen  belplan kan worden gebouwd.
+    en toch de eenvoud waarmee een eigen  belplan kan worden gebouwd.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_right
   title: Hoe leuk kan het instellen van een belplan zijn?
