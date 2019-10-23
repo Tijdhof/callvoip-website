@@ -40,7 +40,7 @@ usps:
     voor optimale bereikbaarheid én een professionele uitstraling. En dat met een
     ongekend bedieningsgemak. <br></br> Van automatische meldteksten tot slimme doorschakelingen,
     instelling hiervan is een fluitje van een cent. Benieuwd naar alle mogelijkheden?</p>  <a
-    href="/telefonie/functionaliteiten/" class="button">Overzicht functionaliteiten</a>
+    href="/telefonie/functionaliteiten/" class="button">Alle functies op een rij</a>
   items:
   - icon: fa-clock
     title: Tijdscondities
