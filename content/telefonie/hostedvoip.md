@@ -9,8 +9,8 @@ hero:
   content: 'Met Hosted VoIP wordt telefonie naar de cloud verplaatst. Op het eerste
     gezicht lijken alle Hosted VoIP centrales op elkaar: via elke oplossing kan prima
     worden gebeld en kunnen zaken worden ingesteld.<BR><BR>Toch zijn er ook belangrijke
-    verschillen. Met onze oplossing profiteer je van een ongeëvenaard gebruiksgemak.
-    En belangrijker nog, we beschikken over een schat aan ervaring om de bereikbaarheid
+    verschillen. Met Callvoip profiteer je van een ongeëvenaard gebruiksgemak. En
+    belangrijker nog, we beschikken over een schat aan ervaring om de bereikbaarheid
     en uitstraling van onze klanten te optimaliseren.'
   button:
     content: Ik ben geïnteresseerd!
