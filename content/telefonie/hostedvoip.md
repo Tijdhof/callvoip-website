@@ -19,13 +19,13 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie via vaste toestellen. Ook op uw mobiele
-    telefoon bent u altijd bereikbaar met <a href="/telefonie/qaller/">Qaller</a>
-    en <a href="/telefonie/vastmobielintegratie/">Vamos</a>.
+- content: Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
+    vaste toestellen. Met Callvoip bepaal je zelf hoe je bereikbaar bent, op het vaste
+    toestel, op de smartphone of of beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
+    of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
-  title: Altijd bereikbaar met Callvoip, ook met uw mobiel!
+  title: Upgrade de smartphone met Callvoip
   image_position: center
 - content: |-
     Bij CallvoipTelefonie krijgt u toegang tot de modernste online telefooncentrale, Simmpl. Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele <a href="/telefonie/functionaliteiten/">functionaliteiten</a> en uitblinkt in bedieningsgemak.
