@@ -8,12 +8,12 @@ hero:
   title: Hosted VoIP voordelen
   content: 'Met Hosted VoIP wordt telefonie naar de cloud verplaatst. Op het eerste
     gezicht lijken alle Hosted VoIP centrales op elkaar: via elke oplossing kan prima
-    worden gebeld en kunnen zaken worden ingesteld.<BR>Toch zijn er ook belangrijke
+    worden gebeld en kunnen zaken worden ingesteld.<BR><BR>Toch zijn er ook belangrijke
     verschillen. Met onze oplossing profiteer je van een ongeëvenaard gebruiksgemak.
-    En belangrijker nog, we beschikken over een enorme schat aan ervaring die we graag
-    inzetten om de bereikbaarheid en uitstraling van onze klanten te optimaliseren.'
+    En belangrijker nog, we beschikken over een schat aan ervaring om de bereikbaarheid
+    en uitstraling van onze klanten te optimaliseren.'
   button:
-    content: Bereken je kosten
+    content: Ik ben geïnteresseerd!
     link: "/offerte"
   image: "/v1565688921/test-home3_xea1m2.png"
   image_position: start
