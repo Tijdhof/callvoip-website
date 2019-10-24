@@ -36,6 +36,7 @@ new Vue({
       filter: '',
       resultsOriginal: [],
       results: [],
+      arrowCounter: -1
   },
 
   computed: {
@@ -90,6 +91,30 @@ new Vue({
               this.results = this.copyObj(response.body)
               this.resultsOriginal = this.copyObj(this.results)
           })
+      },
+
+      onArrowDown() {
+        if (this.arrowCounter < this.results.length) {
+          this.arrowCounter = this.arrowCounter + 1;
+        }
+      },
+      onArrowUp() {
+        if (this.arrowCounter > 0) {
+          this.arrowCounter = this.arrowCounter - 1;
+        }
+      },
+      onEnter(event) {
+
+        if (this.arrowCounter === -1) {
+          this.submitForm();
+          return;
+        }
+
+        event.preventDefault();
+        const result = this.getPosts[this.arrowCounter];
+        window.location.href = result.permalink;
+        this.arrowCounter = -1;
+        
       },
 
 

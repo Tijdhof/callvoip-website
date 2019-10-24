@@ -11,14 +11,14 @@
           <button type="button" class="absolute inset-y-0 right-0 mr-2 flex items-center px-2 text-gray-700">
             <i class="fal fa-search"></i>
           </button>
-          <div v-if="filter" class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen" >
+          <div v-if="filter" class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen overflow-y-scroll" >
 
 
             <div v-for="posts in getPosts" class="border-t border-grey-light py-3">
               <h5 class="text-lg lg:text-xl font-medium mb-1 px-4">{{ " {{ posts.title | markdownify }}" }}</h5>
 
-              <div v-for="post in posts.items" class="">
-                <a :href='post.uri' class="block w-full px-4 py-1 font-medium text-grey-medium mb-1 hover:text-blue hover:bg-grey-lightest">
+              <div v-for="(post, i) in posts.items" class="">
+                <a :href='post.uri' :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }" class="block w-full px-4 py-1 font-medium text-grey-medium mb-1 hover:text-blue hover:bg-grey-lightest">
                 {{ " {{ post.title }}" }}
                </a>
               </div>
