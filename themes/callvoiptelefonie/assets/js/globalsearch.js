@@ -2,6 +2,10 @@ Vue.use(VueResource);
 
 var content = '/index.json';
 
+function param(name) {
+    return decodeURIComponent((location.search.split(name + '=')[1] || '').split('&')[0]).replace(/\+/g, ' ');
+}
+
 var fuseOptions = {
   include: ["score","matches"],
   shouldSort: true,
@@ -30,19 +34,31 @@ const store = new Vuex.Store({
   }
 })
 
-new Vue({
+const searchQuery = param("globalsearch");
+
+new Vue({ 
   el: '#globalsearch',
   data: {
       fuse: false,
       filter: '',
       resultsOriginal: [],
       results: [],
+      hasSearchQuery: false,
+      searchQuery: null,
+      searchQueryResults: [],
+      hideResults: false,
+      arrowCounter: -1
   },
   mounted() {
     let input = document.querySelector('[autofocus]');
     if (input) {
         input.focus()
     }
+
+    if(searchQuery.length) {
+        this.showsearchQueryResults(searchQuery)
+    }
+
 },
   computed: {
 
@@ -58,10 +74,30 @@ new Vue({
       getPosts () {
           this.results = this.copyObj(this.resultsOriginal)
           return (this.filter === '') ? this.results : this.filteredPosts
+      },
+      
+      showPageResults() {
+        if(this.searchQuery !== this.filter ) {
+          this.searchQuery = null;
+          return true;
+        }
+      },
+     
+
+      showInlineResults() {
+        if(!this.filter) {
+          return false;
+        }
+
+        if(this.searchQuery !== this.filter ) {
+          this.searchQuery = null;
+          return true;
+        }
       }
+
   },
   created () {
-      this.loadData()
+      this.loadData();
   },
   watch: {
     filter: _.debounce(function () {
@@ -71,6 +107,13 @@ new Vue({
     }, 500)
   },
   methods: {
+    
+      showsearchQueryResults(query) {
+        this.hasSearchQuery = true;
+        this.searchQuery = query;
+        this.filter = query;
+      },
+
       namespace (object, path) {
           return path.split('.').reduce((value, index) => {
               return value[index]
@@ -98,6 +141,32 @@ new Vue({
           })
       },
 
+      onArrowDown() {
+        if (this.arrowCounter < this.results.length) {
+          this.arrowCounter = this.arrowCounter + 1;
+        }
+      },
+      onArrowUp() {
+        if (this.arrowCounter > 0) {
+          this.arrowCounter = this.arrowCounter - 1;
+        }
+      },
+      onEnter(event) {
 
+        if (this.arrowCounter === -1) {
+          this.submitForm();
+          return;
+        }
+
+        event.preventDefault();
+        const result = this.getPosts[this.arrowCounter];
+        window.location.href = result.permalink;
+        this.arrowCounter = -1;
+        
+      },
+
+      submitForm() {
+        this.$refs.form.submit();
+      }
   }
 })
