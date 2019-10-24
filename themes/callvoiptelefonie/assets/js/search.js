@@ -11,6 +11,7 @@ var fuseOptions = {
   keys: [
       "title",
       "content",
+      "searchtags",
       "blocks",
       "blocks.title",
       "blocks.content",
