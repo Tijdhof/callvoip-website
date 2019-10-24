@@ -22,35 +22,54 @@
           </a>
           {{ end }}
         </div>
-        <div class="bg-grey-dark pb-4 pt-8 px-4 md:px-8 rounded-lg">
-          <div id="globalsearch">
-            <form action="">
-              <div class="mb-4 max-w-lg mx-auto relative">
-                <input type="text" id="globalsearch" name="globalsearch" placeholder="Type uw zoekterm in..."
+        <div id="globalsearch" v-cloak>
+          <div class="bg-grey-dark pb-4 pt-8 px-4 md:px-8  rounded-lg">
+            <form @submit.prevent="submit" ref="form">
+              <div class="mb-4  mx-auto relative">
+                <input type="text" id="globalsearchinput" name="globalsearch" placeholder="Type uw zoekterm in..."
                   class="w-full border border-grey-light focus:outline-none bg-white rounded-lg px-4 py-4 relative z-30"
-                  v-model="filter" autocomplete="off"  autofocus :autofocus="'autofocus'" >
+                  v-model="filter" autocomplete="off" autofocus :autofocus="'autofocus'" @keyup.down="onArrowDown"
+                  @keyup.up="onArrowUp" @keyup.enter.stop="onEnter(event)">
                 <button type="button" class="absolute inset-y-0 right-0 mr-2 flex items-center px-2 text-gray-700">
                   <i class="fal fa-search"></i>
                 </button>
-                <div v-if="filter"
+                <div v-if="showInlineResults"
+                  
                   class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen overflow-y-scroll">
-
-                  <div v-for="posts in getPosts" class="border-t border-grey-light">
-
+                  <div v-for="(posts, i) in getPosts" class="border-t border-grey-light">
                     <a :href='posts.permalink'
+                    :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }"
                       class="block w-full px-4 py-1 font-medium text-grey-medium  py-3  hover:text-blue hover:bg-grey-lightest">
                       {{ " {{ posts.title | markdownify }}" }}
                     </a>
-
-
-
                   </div>
                 </div>
               </div>
             </form>
           </div>
+
+          <div v-if="!showPageResults" class="mt-8">
+            <h2 class="text-lg lg:text-2xl font-medium mb-4">Zoekresultaten voor {{ " {{ searchQuery }}" }}</h2>
+            <div v-for="posts in getPosts"
+              class="border-t border-grey-light bg-grey-lightest px-4 lg:px-8  py-4 lg:py-6">
+
+              <h4 class="text-lg lg:text-xl font-medium mb-2">{{ " {{ posts.title | markdownify }}" }}</h4>
+
+              <div class="">
+                {{ " {{ posts.description | markdownify }}" }}
+              </div>
+
+              <a :href='posts.permalink'
+                class="block w-full py-1 mb-2 font-medium text-blue  py-3  hover:text-blue hover:bg-grey-lightest">
+                Bekijk de pagina
+              </a>
+            </div>
+            <div v-if="!getPosts.length">Geen resultaten, probeer een andere zoekterm</div>
+          </div>
         </div>
-   
+
+
+
 
       </div>
       <div class="w-full md:px-4 md:w-1/3">
