@@ -40,7 +40,7 @@ blocks:
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
 - title: Altijd bereikbaar met Qaller
-  content:'<div id="aandeslag">
+  content: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct...</p>
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
