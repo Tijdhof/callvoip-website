@@ -29,8 +29,8 @@ textblocks:
   show_vshape: true
   top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
-- title: Slim zakelijk internet & telefonie regelen
-  content: '<h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
+- title: Dit is hoe we het gaan doen:
+  content: '<div class="usp-list"><ul><li>Pak
     een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
     versie van de online centrale...</li><li>... én een gratis testnummer gedurende
     jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
@@ -73,7 +73,7 @@ blocks:
   position: image_right
   image: ""
 intro:
-  content: ''
+  title: 'Slim zakelijk internet & telefonie regelen'
  
 
 ---
