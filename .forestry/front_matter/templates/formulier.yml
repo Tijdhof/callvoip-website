@@ -28,7 +28,6 @@ pages:
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
 - content/formulier/opzegging-verzonden.md
-- content/formulier/aanvragen-nummer.md
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/0900-servicenummer-aanvragen.md
 - content/formulier/abonnement-opzeggen.md
@@ -58,3 +57,4 @@ pages:
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-opzeggen.md
 - content/formulier/serviceplus-opzeggen.md
 - content/formulier/vast-mobiel-vamos-aanvragen.md
+- content/formulier/aanvragen-nummer.md
