@@ -60,8 +60,8 @@ usps:
     title: Is VoIP betrouwbaar?
     content: Geen internet, geen telefonie? Dit is gelukkig niet het geval, ook zonder
       internetverbinding kan via de Callvoip hosted centrale worden doorgeschakeld
-      naar een ander (mobiel) nummer. Steeds meer bedrijven kiezen voor een backup
-      internetverbinding, dit biedt nog meer zekerheid.
+      naar een ander (mobiel) nummer. Veel bedrijven kiezen voor een tweede internetverbinding,
+      dat biedt nog meer zekerheid.
   - icon: fa-money-bill
     title: Kan ik mijn eigen centrale nog gebruiken?
     content: 'Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is
