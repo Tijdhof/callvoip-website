@@ -39,9 +39,9 @@ blocks:
   image_position: ''
 usps:
   title: Veelgestelde vragen over VoIP
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent. Dat
-    doen we graag met onze Hosted VoIP oplossing, maar wat is dat eigenlijk? En hoe
-    betrouwbaar is het?
+  content: Callvoip zorgt ervoor dat je bereikbaar bent zoals jij dat wilt. Dat doen
+    we graag met onze Hosted VoIP oplossing, maar wat is dat eigenlijk? En hoe betrouwbaar
+    is het?
   items:
   - icon: fa-heartbeat
     title: Wat heb ik nodig?
