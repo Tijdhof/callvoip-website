@@ -19,8 +19,8 @@ textblocks:
     De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
     Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
     Je kunt de centrale ontdekken en gratis uitproberen.'
-  title2: ''
-  title1: Slim zakelijk internet & telefonie regelen
+  title2: 'Dé modernste Telefooncentrale'
+  title1: 'Altijd bereikbaar met Qaller'
   content1: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
@@ -29,7 +29,7 @@ textblocks:
   show_vshape: true
   top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
-- title: Dé modernste Telefooncentrale
+- title: Slim zakelijk internet & telefonie regelen
   content: '<h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
     een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
     versie van de online centrale...</li><li>... én een gratis testnummer gedurende
@@ -39,7 +39,7 @@ blocks:
   image_position: center
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
-- title: Altijd bereikbaar met Qaller
+- title: Direct uitproberen
   content: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct...</p>
       <div>
