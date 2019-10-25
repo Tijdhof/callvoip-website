@@ -6,8 +6,8 @@ hero:
     op de knop. Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud!
     Neem zelf plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
   button:
-    content: Bekijk ons aanbod
-    link: "/aanbod"
+    content: Ontdek hosted VoIP
+    link: "/telefonie/hostedvoip"
   items:
   - icon: fa-cloud
     title: Maatwerk op de plank voor elke branche
