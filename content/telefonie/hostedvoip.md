@@ -75,9 +75,8 @@ usps:
     content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
       te missen. Zo zijn zaken als doorverbinden, beschikbaarheidsindicatie op het
       toestel, voicemail etc. allemaal standaard inbegrepen. Maar ook slimme koppelingen
-      met software en vast mobiel integratie zijn mogelijk.<BR>Een belangrijk voordeel
-      bij hosted VoIP is dat ontwikkelingen nooit stil staan, zo zullen we binnenkort
-      browser based bellen introduceren.
+      met software en vast mobiel integratie zijn mogelijk.<BR>Bij Callvoip staan
+      de ontwikkelingen nooit stil, zo zullen we binnenkort browser based bellen introduceren.
   - icon: fa-wifi
     title: Welk internet is geschikt?
     content: 'Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
