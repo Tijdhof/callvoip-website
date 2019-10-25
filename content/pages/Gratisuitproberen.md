@@ -72,8 +72,5 @@ blocks:
   image_position: center
   position: image_right
   image: ""
-intro:
-  title: ''
-  content: '' 
 
 ---
