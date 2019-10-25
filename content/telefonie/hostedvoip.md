@@ -25,7 +25,7 @@ blocks:
     of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
-  title: Upgrade de smartphone met Callvoip
+  title: Slimme smartphone upgrade
   image_position: center
 - content: De belangrijkste basis bij ons is het belplan, hiermee bepaal je hoe en
     wanneer je bereikbaar bent. Dit belplan is zo ontwikkeld dat iedereen dit zelf
