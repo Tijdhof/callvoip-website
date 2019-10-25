@@ -71,7 +71,7 @@ blocks:
   </div>'
   image_position: center
   position: image_right
-  image: g"
+  image: ""
 intro:
   title: ''
   content: ''' 
