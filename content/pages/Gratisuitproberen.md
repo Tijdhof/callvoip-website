@@ -68,8 +68,7 @@ blocks:
     versie van de online centrale...</li><li>... én een gratis testnummer gedurende
     jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
     ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
-    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>?\n<br>\n</br>\n<a href=\"#aandeslag\" class=\"button\">Dit wil
-    ik</a>'
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
   image_position: center
   position: image_right
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
