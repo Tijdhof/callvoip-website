@@ -73,7 +73,7 @@ blocks:
   position: image_right
   image: ""
 intro:
-  title: 'Slim zakelijk internet & telefonie regelen'
+  title: 'Slim zakelijk internet & telefonie regelen...'
  
 
 ---
