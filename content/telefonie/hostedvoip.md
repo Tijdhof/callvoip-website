@@ -64,10 +64,9 @@ usps:
       dat biedt nog meer zekerheid.
   - icon: fa-money-bill
     title: Is mijn eigen centrale nog geschikt?
-    content: 'Ook voor een bestaande centrale op locatie bieden we een oplossing.
-      Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is Callvoip
-      zeer flexibel inzetbaar (denk aan thuiswerken en verhuizen) en uiteraard stukken
-      goedkoper. <a href="/calculator/">Bereken het zelf!</a> '
+    content: Ook voor een bestaande centrale op locatie bieden we een oplossing. Met
+      behulp van een SIP trunk kan blijft deze centrale met bijbehorende toestellen
+      behouden. Zelfs voor ISDN centrales hebben we geschikte oplossingen.
   - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
     content: Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
