@@ -14,7 +14,24 @@ images:
 layout: landing
 hideinsearch: false
 textblocks:
-- content2: '<div id="aandeslag">
+- content2: 'Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
+    Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
+    De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
+    Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
+    Je kunt de centrale ontdekken en gratis uitproberen.
+  title2: ''
+  title1: Slim zakelijk internet & telefonie regelen
+  content1: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
+    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
+    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
+    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
+    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
+  show_vshape: true
+  top_title: Druk met leven, en toch zakelijk alles onder controle?
+blocks:
+- title: Dé modernste Telefooncentrale
+  content: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct...</p>
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/uitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
@@ -43,24 +60,6 @@ textblocks:
           </form>
       </div>
   </div>'
-  title2: ''
-  title1: Slim zakelijk internet & telefonie regelen
-  content1: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
-    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
-    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
-    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
-    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
-    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
-  show_vshape: true
-  top_title: Druk met leven, en toch zakelijk alles onder controle?
-blocks:
-- title: Dé modernste Telefooncentrale
-  content: |-
-    Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
-    Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
-    De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
-    Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
-    Je kunt de centrale ontdekken en gratis uitproberen.
   image_position: center
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
