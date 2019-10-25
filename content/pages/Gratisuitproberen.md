@@ -29,7 +29,7 @@ textblocks:
   show_vshape: true
   top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
-- title: Dit is hoe we het gaan doen:
+- title: 'Dit is hoe we het gaan doen:'
   content: '<div class="usp-list"><ul><li>Pak
     een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
     versie van de online centrale...</li><li>... én een gratis testnummer gedurende
