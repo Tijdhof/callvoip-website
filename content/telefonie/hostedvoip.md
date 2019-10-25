@@ -24,8 +24,8 @@ blocks:
     eenvoudig kan samenstellen. Uiteraard staan we voor je klaar voor handige tips
     en ondersteuning.<BR><BR> Met een simpele drag and drop kunnen alle bouwstenen
     in het belplan worden gesleept. Je zult versteld staan van de vele mogelijkheden
-    en toch de eenvoud waarmee een eigen  belplan kan worden gebouwd. Benieuwd? Bouw
-    zelf in onze <a href="https://files.callvoip.nl/">live demo</a>.
+    en toch de eenvoud waarmee een eigen  belplan kan worden gebouwd.<BR><BR>Benieuwd?
+    Bouw zelf in onze <a href="https://files.callvoip.nl/">live demo</a>.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_left
   title: Bepaal je eigen bereikbaarheid
