@@ -43,13 +43,6 @@ usps:
     hiervoor gebruik van onze Hosted VoIP oplossing. Maar wat is dat eigenlijk? En
     hoe betrouwbaar is het?
   items:
-  - icon: fa-heartbeat
-    title: Wat heb ik nodig?
-    content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
-      Om bereikbaar te zijn is een <a href="/telefonie/telefoonnummers/">telefoonnummer
-      </a>van belang, dit kan een nieuw maar ook een bestaand nummer zijn. Verder
-      kan gekozen worden uit diverse <a href="/pages/webshop/">VoIP apparatuur</a>,
-      hierin adviseren we je graag.
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) staat voor bellen over internet.
@@ -63,6 +56,13 @@ usps:
       internetverbinding kan via de Callvoip hosted centrale worden doorgeschakeld
       naar een ander (mobiel) nummer. Veel bedrijven kiezen voor een tweede <a href="/internet/postcodecheck/">internetverbinding</a>,
       dat biedt nog meer zekerheid.
+  - icon: fa-heartbeat
+    title: Wat heb ik nodig?
+    content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
+      Om bereikbaar te zijn is een <a href="/telefonie/telefoonnummers/">telefoonnummer
+      </a>van belang, dit kan een nieuw maar ook een bestaand nummer zijn. Verder
+      kan gekozen worden uit diverse <a href="/pages/webshop/">VoIP apparatuur</a>,
+      hierin adviseren we je graag.
   - icon: fa-money-bill
     title: Is mijn apparatuur nog geschikt?
     content: Standaard inventariseren we welke apparatuur aanwezig is, en of deze
@@ -70,13 +70,6 @@ usps:
       voor een bestaande telefooncentrale op locatie bieden we een oplossing. Met
       behulp van een <a href="/oplossingen/trunk/">SIP trunk</a> kan een centrale
       met bijbehorende toestellen blijven behouden.
-  - icon: fa-cloud
-    title: Biedt VoIP voldoende functies?
-    content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
-      te missen. Zo zijn zaken als doorverbinden, beschikbaarheidsindicatie op het
-      toestel, voicemail etc. allemaal standaard inbegrepen. Maar ook slimme koppelingen
-      met software en vast mobiel integratie zijn mogelijk.<BR>Bij Callvoip staan
-      de ontwikkelingen nooit stil, zo zullen we binnenkort browser based bellen introduceren.
   - icon: fa-wifi
     title: Welk internet is geschikt?
     content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
@@ -84,6 +77,13 @@ usps:
       de kabel</a>. Wij gaan graag voor je aan de slag voor  de beste internetverbinding.<BR>Bij
       een snelle internetverbinding hoort geschikte apparatuur, wij beschikken over
       ruime kennis voor een goed advies.
+  - icon: fa-cloud
+    title: Biedt VoIP voldoende functies?
+    content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
+      te missen. Zo zijn zaken als doorverbinden, beschikbaarheidsindicatie op het
+      toestel, voicemail etc. allemaal standaard inbegrepen. Maar ook slimme koppelingen
+      met software en vast mobiel integratie zijn mogelijk.<BR>Bij Callvoip staan
+      de ontwikkelingen nooit stil, zo zullen we binnenkort browser based bellen introduceren.
 intro:
   title: Wat kost bellen met Callvoip?
   content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
@@ -92,7 +92,9 @@ intro:
     href=\"/calculator\">calculator</a></u></b>."
 prijzen:
 - title: Zelfstandigen
-  content: Online telefooncentrale, geen poespas én bereikbaar op één toestel.
+  content: De maandelijkse kosten bij Callvoip beginnen bij 13,50 per maand. Hiervoor
+    krijg je de beschikking over onze online centrale, 1 telefoonnumer en 1 gebruikersaccount
+    voor Qaller of een toestel.
   button:
     title: Oplossingen voor het ZZP
     link: "/oplossingen/zelfstandigen/"
