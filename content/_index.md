@@ -25,7 +25,7 @@ intro:
   content: Callvoip zorgt voor slimme zakelijke telefonische bereikbaarheid. Op kantoor
     via een vast toestel of onderweg via je eigen mobiel. En dat tegen scherpe tarieven!
   button:
-    content: Benieuwd hoeveel je kan besparen?
+    content: Benieuwd hoeveel je kunt besparen?
     link: "/calculator"
   items:
   - icon: fa-file-contract
