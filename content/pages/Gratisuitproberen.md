@@ -26,7 +26,7 @@ textblocks:
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
     Mooi werk toch?'
-  show_vshape: false
+  show_vshape: true
   top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
 - title: Slim zakelijk internet & telefonie regelen
