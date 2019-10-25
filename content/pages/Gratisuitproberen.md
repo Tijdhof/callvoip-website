@@ -27,7 +27,7 @@ textblocks:
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
     Mooi werk toch?'
   show_vshape: true
-  top_title:
+  top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
 - title: Slim zakelijk internet & telefonie regelen
   content: '<h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
