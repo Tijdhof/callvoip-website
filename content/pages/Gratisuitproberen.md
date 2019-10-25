@@ -41,7 +41,7 @@ blocks:
   image: "/v1570098498/wolk_pklb2v.png"
 - title: Direct uitproberen
   content: '<div id="aandeslag">
-      <p>Laat je gegevens achter en we gaan direct...</p>
+      <p>Laat je gegevens achter en we gaan direct..</p>
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="proberenformulier" />
