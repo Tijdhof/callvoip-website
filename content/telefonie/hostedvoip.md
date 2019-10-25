@@ -58,8 +58,10 @@ usps:
       is al geschikt voor zo'n 8-10 gesprekken.
   - icon: fa-exclamation-circle
     title: Is VoIP betrouwbaar?
-    content: Geen internet? Dan schakelt de telefooncentrale door naar uw mobiele
-      nummer. Zeer afhankelijk van uw internet? Overweeg dan een backup verbinding.
+    content: Geen internet, geen telefonie? Dit is gelukkig niet het geval, ook zonder
+      internetverbinding kan via de Callvoip hosted centrale worden doorgeschakeld
+      naar een ander (mobiel) nummer. Steeds meer bedrijven kiezen voor een backup
+      internetverbinding, dit biedt nog meer zekerheid.
   - icon: fa-money-bill
     title: Is VoIP een alternatief voor ISDN?
     content: 'Callvoip biedt u een volwaardig alternatief voor ISDN. Bovendien is
