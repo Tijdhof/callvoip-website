@@ -52,7 +52,10 @@ usps:
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
-      Voorheen had u ISDN lijnen nodig, voortaan sluit u een toestel aan op uw internetverbinding.
+      Waar voorheen ISDN of analoge lijnen werden gebruikt, wordt nu een klein gedeelte
+      van de internetverbinding gebruikt voor spraak. Als vuistregel hanteren we dat
+      per gesprek 100Kb aan data wordt gebruikt. Een eenvoudige 20/2 DSL verbinding
+      is al geschikt voor zo'n 8-10 gesprekken.
   - icon: fa-exclamation-circle
     title: Is VoIP betrouwbaar?
     content: Geen internet? Dan schakelt de telefooncentrale door naar uw mobiele
