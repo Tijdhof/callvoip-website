@@ -68,8 +68,8 @@ usps:
     content: Standaard inventariseren we welke apparatuur aanwezig is, en of deze
       nog geschikt en veilig is. Waar mogelijk maken we gebruik van bestaande apparatuur.<BR>Zelfs
       voor een bestaande telefooncentrale op locatie bieden we een oplossing. Met
-      behulp van een SIP trunk kan een centrale met bijbehorende toestellen blijven
-      behouden.
+      behulp van een <a href="/oplossingen/trunk/">SIP trunk</a> kan een centrale
+      met bijbehorende toestellen blijven behouden.
   - icon: fa-cloud
     title: Biedt VoIP voldoende functionaliteiten?
     content: Bij Callvoip hoeft u echt niets aan functionaliteiten in te leveren.
