@@ -35,7 +35,7 @@ blocks:
     en toch de eenvoud waarmee een eigen  belplan kan worden gebouwd.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_right
-  title: Hoe leuk kan het instellen van een belplan zijn?
+  title: Bepaal je eigen bereikbaarheid
   image_position: ''
 usps:
   title: Veelgestelde vragen over VoIP
