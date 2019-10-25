@@ -31,7 +31,7 @@ blocks:
     wanneer je bereikbaar bent. Dit belplan is zo ontwikkeld dat iedereen dit zelf
     eenvoudig kan samenstellen. Uiteraard zijn we altijd bereikbaar voor handige tips
     en ondersteuning.<BR><BR> Met een simpele drag and drop kunnen alle <a href="/telefonie/functionaliteiten/">bouwstenen</a>
-    in het belplan worden gesleept. Je zult versteld staan van de hoeveelheid mogelijkheden
+    in het belplan worden gesleept. Je zult versteld staan van de vele mogelijkheden
     en toch de eenvoud waarmee een eigen  belplan kan worden gebouwd.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_right
