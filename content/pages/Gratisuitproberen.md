@@ -18,7 +18,7 @@ textblocks:
     Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
     De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
     Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
-    Je kunt de centrale ontdekken en gratis uitproberen.
+    Je kunt de centrale ontdekken en gratis uitproberen.'
   title2: ''
   title1: Slim zakelijk internet & telefonie regelen
   content1: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
