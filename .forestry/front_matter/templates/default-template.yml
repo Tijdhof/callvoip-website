@@ -200,8 +200,8 @@ pages:
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
 - content/telefonie/operator-console.md
-- content/telefonie/hostedvoip.md
 - content/telefonie/qaller.md
 - content/internet/kabel.md
 - content/oplossingen/branches.md
 - content/telefonie/bereikbaarheidsmonitor.md
+- content/telefonie/hostedvoip.md
