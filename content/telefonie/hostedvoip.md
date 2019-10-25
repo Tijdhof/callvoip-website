@@ -46,10 +46,9 @@ usps:
   - icon: fa-heartbeat
     title: Wat heb ik nodig?
     content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
-      Om bereikbaar te zijn is een <a href="/telefonie/telefoonnummers/">telefoonnummer</a>van
-      belang, dit kan een nieuwe telefoonnummer zijn maar we kunnen ook bestaande
-      nummers porteren. Verder kan gekozen worden uit diverse apparatuur, we adviseren
-      je graag.
+      Om bereikbaar te zijn is een <a href="/telefonie/telefoonnummers/">telefoonnummer
+      </a>van belang, dit kan een nieuw maar ook een bestaand nummer zijn. Verder
+      kan gekozen worden uit diverse apparatuur, we adviseren je graag.
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) is kort gezegd bellen over internet.
