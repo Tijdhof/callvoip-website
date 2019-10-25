@@ -59,7 +59,7 @@ usps:
       10 gelijktijdige gesprekken.
   - icon: fa-exclamation-circle
     title: Is VoIP betrouwbaar?
-    content: Geen internet, geen telefonie? Dit is gelukkig niet het geval, ook zonder
+    content: Geen internet, geen telefonie? Dat is gelukkig niet het geval, ook zonder
       internetverbinding kan via de Callvoip hosted centrale worden doorgeschakeld
       naar een ander (mobiel) nummer. Veel bedrijven kiezen voor een tweede <a href="/internet/postcodecheck/">internetverbinding</a>,
       dat biedt nog meer zekerheid.
@@ -79,9 +79,11 @@ usps:
       de ontwikkelingen nooit stil, zo zullen we binnenkort browser based bellen introduceren.
   - icon: fa-wifi
     title: Welk internet is geschikt?
-    content: 'Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
+    content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
       <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
-      de kabel</a>. Wij gaan graag voor je aan de slag voor  de beste internetverbinding. '
+      de kabel</a>. Wij gaan graag voor je aan de slag voor  de beste internetverbinding.<BR>Bij
+      een snelle internetverbinding hoort geschikte apparatuur, wij beschikken over
+      ruime kennis voor een goed advies.
 intro:
   title: Wat kost bellen met Callvoip?
   content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
