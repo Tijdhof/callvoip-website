@@ -19,8 +19,8 @@ textblocks:
     De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
     Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
     Je kunt de centrale ontdekken en gratis uitproberen.'
-  title2: 'Dé modernste Telefooncentrale'
-  title1: 'Altijd bereikbaar met Qaller'
+  title1: 'Dé modernste Telefooncentrale'
+  title2: 'Altijd bereikbaar met Qaller'
   content2: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
