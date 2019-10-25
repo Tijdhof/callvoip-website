@@ -75,15 +75,14 @@ usps:
     content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
       te missen. Zo zijn zaken als doorverbinden, beschikbaarheidsindicatie op het
       toestel, voicemail etc. allemaal standaard inbegrepen. Maar ook slimme koppelingen
-      met software en vast mobiel integratie zijn mogelijk.<BR><BR>Een belangrijk
-      voordeel bij hosted VoIP is dat ontwikkelingen nooit stil staan, zo zullen we
-      binnenkort browser based bellen introduceren.
+      met software en vast mobiel integratie zijn mogelijk.<BR>Een belangrijk voordeel
+      bij hosted VoIP is dat ontwikkelingen nooit stil staan, zo zullen we binnenkort
+      browser based bellen introduceren.
   - icon: fa-wifi
-    title: Welke internetverbinding is het meest geschikt?
+    title: Welk internet is geschikt?
     content: 'Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
       <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
-      de kabel</a>. Echter is netwerkapparatuur zeer belangrijk bij de werking van
-      VoIP. '
+      de kabel</a>. Wij gaan graag voor je aan de slag voor  de beste internetverbinding. '
 intro:
   title: Wat kost bellen met Callvoip?
   content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
