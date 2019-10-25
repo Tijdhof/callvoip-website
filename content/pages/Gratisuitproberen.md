@@ -74,6 +74,6 @@ blocks:
   image: ""
 intro:
   title: ''
-  content: ''' 
+  content: '' 
 
 ---
