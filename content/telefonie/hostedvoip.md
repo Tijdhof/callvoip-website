@@ -48,7 +48,8 @@ usps:
     content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
       Om bereikbaar te zijn is een <a href="/telefonie/telefoonnummers/">telefoonnummer
       </a>van belang, dit kan een nieuw maar ook een bestaand nummer zijn. Verder
-      kan gekozen worden uit diverse VoIP apparatuur, hierin adviseren we je graag.
+      kan gekozen worden uit diverse <a href="/pages/webshop/">VoIP apparatuur</a>,
+      hierin adviseren we je graag.
   - icon: fa-cog
     title: Hoe werkt VoIP?
     content: VoIP (Voice over Internet Protocol) staat voor bellen over internet.
