@@ -133,7 +133,7 @@ p a:hover {
 }
 
 .user-content {
-  @apply text-grey-medium;
+  @apply text-blue-dark font-normal leading-normal;
 }
 
 .user-content strong {
