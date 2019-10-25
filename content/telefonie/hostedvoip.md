@@ -60,7 +60,7 @@ usps:
     title: Is VoIP betrouwbaar?
     content: Geen internet, geen telefonie? Dit is gelukkig niet het geval, ook zonder
       internetverbinding kan via de Callvoip hosted centrale worden doorgeschakeld
-      naar een ander (mobiel) nummer. Veel bedrijven kiezen voor een tweede internetverbinding,
+      naar een ander (mobiel) nummer. Veel bedrijven kiezen voor een tweede <a href="/internet/postcodecheck/">internetverbinding</a>,
       dat biedt nog meer zekerheid.
   - icon: fa-money-bill
     title: Is mijn eigen centrale nog geschikt?
