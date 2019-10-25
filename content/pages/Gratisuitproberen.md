@@ -27,7 +27,7 @@ textblocks:
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
     Mooi werk toch?'
   show_vshape: true
-  top_title: Druk met leven, en toch zakelijk alles onder controle?
+  top_title:
 blocks:
 - title: Slim zakelijk internet & telefonie regelen
   content: '<h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
@@ -38,7 +38,7 @@ blocks:
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
   image_position: center
   position: image_left
-  image: "/v1570098498/wolk_pklb2v.png"
+  image: ""
 - title: Direct uitproberen
   content: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct...</p>
@@ -71,10 +71,9 @@ blocks:
   </div>'
   image_position: center
   position: image_right
-  image: "/v1570106000/arm_met_qaller_zfdh3x.png"
+  image: g"
 intro:
-  title: Concreet is dit wat je van ons krijgt
-  content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App
-    met een testnummer, en alle assistentie die nodig is
+  title: ''
+  content: ''' 
 
 ---
