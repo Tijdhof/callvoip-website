@@ -72,9 +72,12 @@ usps:
       met bijbehorende toestellen blijven behouden.
   - icon: fa-cloud
     title: Biedt VoIP voldoende functies?
-    content: Bij Callvoip hoef je geen enkele functie te missen.  hoeft u echt niets
-      aan functionaliteiten in te leveren. Via de online telefooncentrale beschikt
-      u over tal van <a href="/telefonie/functionaliteiten/">professionele functionaliteiten</a>.
+    content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
+      te missen. Zo zijn zaken als doorverbinden, beschikbaarheidsindicatie op het
+      toestel, voicemail etc. allemaal standaard inbegrepen. Maar ook slimme koppelingen
+      met software en vast mobiel integratie zijn mogelijk.<BR><BR>Een belangrijk
+      voordeel bij hosted VoIP is dat ontwikkelingen nooit stil staan, zo zullen we
+      binnenkort browser based bellen introduceren.
   - icon: fa-wifi
     title: Welke internetverbinding is het meest geschikt?
     content: 'Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
