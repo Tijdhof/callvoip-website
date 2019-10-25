@@ -73,7 +73,7 @@ blocks:
   position: image_right
   image: ""
 intro:
-  title: ''
+  content: ''
  
 
 ---
