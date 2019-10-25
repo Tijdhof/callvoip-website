@@ -12,7 +12,7 @@ description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
-hideinsearch: false
+hideinsearch: true
 textblocks:
 - content2: 'Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
     Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
