@@ -19,14 +19,6 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
-    vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
-    toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
-    of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.'
-  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
-  position: image_left
-  title: Slimme smartphone upgrade
-  image_position: center
 - content: De belangrijkste basis bij ons is het belplan, hiermee bepaal je hoe en
     wanneer je bereikbaar bent. Dit belplan is zo ontwikkeld dat iedereen dit zelf
     eenvoudig kan samenstellen. Uiteraard staan we voor je klaar voor handige tips
@@ -34,9 +26,17 @@ blocks:
     in het belplan worden gesleept. Je zult versteld staan van de vele mogelijkheden
     en toch de eenvoud waarmee een eigen  belplan kan worden gebouwd.
   image: "/v1566993176/lego_yv1a3b.png"
-  position: image_right
+  position: image_left
   title: Bepaal je eigen bereikbaarheid
   image_position: ''
+- content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
+    vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
+    toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
+    of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.'
+  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
+  position: image_right
+  title: Slimme smartphone upgrade
+  image_position: center
 usps:
   title: Veelgestelde vragen over VoIP
   content: Callvoip zorgt ervoor dat je bereikbaar bent zoals jij dat wilt. We maken
