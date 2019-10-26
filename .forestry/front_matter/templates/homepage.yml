@@ -128,43 +128,6 @@ fields:
     default: ''
   hidden: false
   default: ''
-- name: usps
-  label: Usps
-  type: field_group_list
-  fields:
-  - name: title
-    label: Title
-    type: text
-    hidden: false
-    default: ''
-  - name: content
-    label: Content
-    type: text
-    hidden: false
-    default: ''
-  - name: items
-    label: Items
-    type: field_group_list
-    fields:
-    - name: icon
-      label: Icon
-      type: text
-      hidden: false
-      default: ''
-    - name: title
-      label: Title
-      type: text
-      hidden: false
-      default: ''
-    - name: content
-      label: Content
-      type: textarea
-      hidden: false
-      default: ''
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
 - name: options
   label: Options
   type: field_group
@@ -204,6 +167,43 @@ fields:
     - name: link
       label: Link
       type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: usps
+  label: Usps
+  type: field_group_list
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: content
+    label: Content
+    type: text
+    hidden: false
+    default: ''
+  - name: items
+    label: Items
+    type: field_group_list
+    fields:
+    - name: icon
+      label: Icon
+      type: text
+      hidden: false
+      default: ''
+    - name: title
+      label: Title
+      type: text
+      hidden: false
+      default: ''
+    - name: content
+      label: Content
+      type: textarea
       hidden: false
       default: ''
     hidden: false
