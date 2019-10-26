@@ -35,7 +35,6 @@ intro:
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan traditionele telefonie.
 options:
-  image: "/v1565688921/test-home3_xea1m2.png"
   title: Geen gedoe, alles onder één dak!
   content: Onze dienstverlening reikt verder dan alleen telefonie. Wij verzorgen betrouwbaar
     internet, geschikte apparatuur en de installatie hiervan.
