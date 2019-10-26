@@ -34,6 +34,36 @@ intro:
     content: Flexibel en schaalbaar. Eenvoudig via jouw eigen beveiligde omgeving.
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan traditionele telefonie.
+options:
+  image: "/v1565688921/test-home3_xea1m2.png"
+  title: Geen gedoe, alles onder één dak!
+  content: Onze dienstverlening reikt verder dan alleen telefonie. Wij verzorgen betrouwbaar
+    internet, geschikte apparatuur en de installatie hiervan.
+  items:
+  - icon: fa-cloud
+    title: Jouw eigen centrale, veilig in de cloud
+    content: Onbeperkt schaalbaar, boordevol handige functies en geen lange contracten.
+      Bepaal simpel zèlf hoe je bereikbaar bent.
+    link: "/telefonie/hostedvoip/"
+    tab: true
+  - icon: fa-wifi
+    title: Kabel, DSL, glasvezel of misschien wel 4G?
+    content: Internet is een belangrijke basis van de werkplek. Wij verzorgen stabiele
+      razendsnelle verbindingen voor jouw situatie.
+    link: "/internet/postcodecheck/"
+    tab: true
+  - icon: fa-tty
+    title: Kennis van de juiste apparaatur
+    content: Of het nu gaat om IP toestellen, headsets, routers of accesspoint. Wij
+      geven gratis advies en kunnen de apparatuur plug and play leveren.
+    link: "/pages/webshop/"
+    tab: true
+  - icon: fa-headset
+    title: Hulp nodig? We zijn blij als je belt!
+    content: Geen lange wachttijden of eindeloze menu's. Bij ons ben je geen nummer
+      en spreek je direct met een specialist, dat is wel zo prettig.
+    link: "/ondersteuning/"
+    tab: true
 usps:
 - title: Vanaf 1 tot 100+ gebruikers
   content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies
@@ -126,36 +156,6 @@ usps:
       de mogelijkheid om honderden pakketten te koppelen met Callvoip. Bedenk eens
       hoe fijn het zou zijn als de gegevens van de beller direct in beeld verschijnen
       bij een inkomende oproep.
-options:
-  image: "/v1565688921/test-home3_xea1m2.png"
-  title: Geen gedoe, alles onder één dak!
-  content: Onze dienstverlening reikt verder dan alleen telefonie. Wij verzorgen betrouwbaar
-    internet, geschikte apparatuur en de installatie hiervan.
-  items:
-  - icon: fa-cloud
-    title: Jouw eigen centrale, veilig in de cloud
-    content: Onbeperkt schaalbaar, boordevol handige functies en geen lange contracten.
-      Bepaal simpel zèlf hoe je bereikbaar bent.
-    link: "/telefonie/hostedvoip/"
-    tab: true
-  - icon: fa-wifi
-    title: Kabel, DSL, glasvezel of misschien wel 4G?
-    content: Internet is een belangrijke basis van de werkplek. Wij verzorgen stabiele
-      razendsnelle verbindingen voor jouw situatie.
-    link: "/internet/postcodecheck/"
-    tab: true
-  - icon: fa-tty
-    title: Kennis van de juiste apparaatur
-    content: Of het nu gaat om IP toestellen, headsets, routers of accesspoint. Wij
-      geven gratis advies en kunnen de apparatuur plug and play leveren.
-    link: "/pages/webshop/"
-    tab: true
-  - icon: fa-headset
-    title: Hulp nodig? We zijn blij als je belt!
-    content: Geen lange wachttijden of eindeloze menu's. Bij ons ben je geen nummer
-      en spreek je direct met een specialist, dat is wel zo prettig.
-    link: "/ondersteuning/"
-    tab: true
 prefooter:
   title: Wil jij ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk
