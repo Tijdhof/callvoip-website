@@ -1,5 +1,5 @@
 ---
-title: Callvoip - de modernste zakelijke telefonieprovider van Nederland
+title: Callvoip - Succes begint met slimme telefonie
 hero:
   title: Succes begint met slimme telefonie
   content: Met de hosted telefonieoplossing van Callvoip bereik je dat met één druk
