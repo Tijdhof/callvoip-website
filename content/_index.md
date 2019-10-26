@@ -63,6 +63,7 @@ options:
       en spreek je direct met een specialist, dat is wel zo prettig.
     link: "/ondersteuning/"
     tab: true
+  image: ''
 usps:
 - title: Vanaf 1 tot 100+ gebruikers
   content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies
