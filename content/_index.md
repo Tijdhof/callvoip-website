@@ -31,7 +31,7 @@ intro:
   - icon: fa-file-contract
     content: Geen een lange moeilijke contracten, maandelijks opzegbaar
   - icon: fa-boxes-alt
-    content: Flexibel en schaalbaar. Eenvoudig via jouw eigen beveiligde omgeving.
+    content: Flexibel en schaalbaar. Eenvoudige bediening via een eigen veilige omgeving.
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan traditionele telefonie.
 options:
