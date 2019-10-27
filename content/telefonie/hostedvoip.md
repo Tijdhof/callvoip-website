@@ -1,5 +1,5 @@
 ---
-title: Hosted VoIP | modernste online telefooncentrale
+title: Hosted VoIP | Slimme online telefooncentrale
 type: page
 layout: default
 aliases: "/voip"
