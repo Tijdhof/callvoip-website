@@ -29,7 +29,7 @@ intro:
     link: "/calculator"
   items:
   - icon: fa-file-contract
-    content: Geen een lange moeilijke contracten, maandelijks opzegbaar
+    content: Geen lange moeilijke contracten, maandelijks opzegbaar
   - icon: fa-boxes-alt
     content: Flexibel en schaalbaar. Eenvoudige bediening via een eigen veilige omgeving.
   - icon: fa-piggy-bank
