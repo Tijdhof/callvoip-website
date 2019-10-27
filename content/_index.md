@@ -40,7 +40,7 @@ options:
     internet, geschikte apparatuur en de installatie hiervan.
   items:
   - icon: fa-cloud
-    title: Jouw eigen centrale, veilig in de cloud
+    title: Slimme telefonie, veilig in de cloud
     content: Onbeperkt schaalbaar, boordevol handige functies en geen lange contracten.
       Bepaal simpel zèlf hoe je bereikbaar bent.
     link: "/telefonie/hostedvoip/"
