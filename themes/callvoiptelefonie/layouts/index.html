@@ -62,6 +62,32 @@
     </div>
   </div>
   {{ end }}
+  
+    {{ with .Params.options}}
+  <div class="container px-4 mb-24 lg:pb-12">
+    {{ with .image }}
+    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20 cld-responsive max-w-full lg:max-w-2xl" alt="Callvoip - Bellen en Internet" />
+    {{ end }}
+    <div class="text-center mb-12 xl:mb-16">
+      {{ with .title }}
+        <h2 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ . }}</h2>
+      {{ end }}
+      {{ with .content }}
+      <p class="mx-auto max-w-xl lg:text-lg xl:text-xl font-medium opacity-75">{{ . }}</p>
+      {{ end }}
+    </div>
+    {{ with .items }}
+    <div class="md:flex md:flex-wrap md:-mx-4 lg:-mx-8">
+      {{ range . }}
+      <div class="md:w-1/2 md:px-4 lg:px-8">
+        {{- partial "components/card.html" . -}}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
 
   <div class="container px-4">
     {{ range .Params.usps }}
@@ -96,33 +122,6 @@
     </div>
     {{ end }}
   </div>
-
-
-  {{ with .Params.options}}
-  <div class="container px-4 mb-24 lg:pb-12">
-    {{ with .image }}
-    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="mb-12 mx-auto block md:mb-20 cld-responsive max-w-full lg:max-w-2xl" alt="Callvoip - Bellen en Internet" />
-    {{ end }}
-    <div class="text-center mb-12 xl:mb-16">
-      {{ with .title }}
-        <h2 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ . }}</h2>
-      {{ end }}
-      {{ with .content }}
-      <p class="mx-auto max-w-xl lg:text-lg xl:text-xl font-medium opacity-75">{{ . }}</p>
-      {{ end }}
-    </div>
-    {{ with .items }}
-    <div class="md:flex md:flex-wrap md:-mx-4 lg:-mx-8">
-      {{ range . }}
-      <div class="md:w-1/2 md:px-4 lg:px-8">
-        {{- partial "components/card.html" . -}}
-      </div>
-      {{ end }}
-    </div>
-    {{ end }}
-  </div>
-  {{ end }}
-
 
   <div class="bg-grey-lightest clearfix pt-12 md:pt-20">
     <div class="container px-4 pt-8">
