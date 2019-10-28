@@ -14,14 +14,14 @@ images:
 layout: landing
 hideinsearch: true
 textblocks:
-- content1: 'Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
+- content2: 'Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
     Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
     De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
     Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
     Je kunt de centrale ontdekken en gratis uitproberen.'
-  title1: 'Dé modernste Telefooncentrale'
-  title2: 'Altijd bereikbaar met Qaller'
-  content2: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
+  title2: 'Dé modernste Telefooncentrale'
+  title1: 'Altijd bereikbaar met Qaller'
+  content1: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
     te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
     te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
     app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
