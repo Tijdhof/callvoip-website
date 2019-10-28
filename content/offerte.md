@@ -15,7 +15,7 @@ hideinsearch: false
 hideingoogle: false
 
 ---
-Ontvang **binnen één werkdag** een vrijblijvende offerte. Als je informatie hebt over de internetverbinding en apparatuur, dan nemen we dat mee in de offerte. We zullen altijd samen kijken naar de mogelijkheden voor internet en apparatuur zodat je een volledig beeld krijgt.
+Ontvang **binnen één werkdag** een vrijblijvende offerte. Als je informatie hebt over de internetverbinding en apparatuur, dan nemen we dat mee in de offerte. We zullen altijd samen kijken naar de mogelijkheden voor internet en apparatuur.
 
 {{< form "Offerte formulier" "/offerte/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
