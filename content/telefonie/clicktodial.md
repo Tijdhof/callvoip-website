@@ -90,7 +90,7 @@ Helemaal niets! De Click-to-Dial is gratis voor klanten van Callvoip.
 
 <br>
 
-<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a>&nbsp;&nbsp;<a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">H_ndleiding</a>&nbsp;_&nbsp;<a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf" class="button">Yealink adresboek</a>
+<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a>  <a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a>  <a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf" class="button">Yealink adresboek</a>
 
 <br>
 
