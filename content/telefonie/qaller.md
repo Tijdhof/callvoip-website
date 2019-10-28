@@ -12,12 +12,7 @@ hero:
     als volwaardig kantoortoestel. Je kunt bellen en gebeld worden op het vaste telefoonnummer,
     ziet of collega's in gesprek zijn en zelfs doorverbinden is mogelijk.
     <a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" class="button">Handleiding Qaller</a>
-  button:
-    content: Handleiding Qaller
-    link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
-  button:
-    content: Offerte aanvragen
-    link: "/offerte/"
+    <a href="/offerte/" class="button">Offerte aanvragen</a>
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   image_position: center
   disable_image_on_mobile: false
