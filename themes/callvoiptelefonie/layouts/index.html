@@ -12,7 +12,7 @@
         <div class="font-medium lg:text-lg xxl:text-xl max-w-lg text-grey-medium mb-4 md:mb-8 lg:leading-loose">{{ . | markdownify }}</div>
         {{ end }}
         {{ with .button }}
-        <a href="{{ .link }}" class="button md:text-lg">{{ .content }}</a>
+        <a href="{{ .link }}" class="button md:text-lg">{{ .content | emojify  }}</a>
         {{ end }}
       </div>
       {{ with .items }}
