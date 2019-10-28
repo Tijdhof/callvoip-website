@@ -7,10 +7,10 @@
     <div class="md:w-1/2 md:px-8">
       {{ $title := .title }}
       {{ with $title }}
-      <h2 class="text-3xl xl:text-4xl font-medium mb-2 xxl:mb-6 leading-tight">{{ . }}</h2>
+      <h2 class="text-3xl xl:text-4xl  mb-2 xxl:mb-6 leading-tight">{{ . }}</h2>
       {{ end }}
       {{ with .content }}
-      <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
+      <div class="lg:text-lg xl:text-xl mb-4 leading-loose user-content ">
         {{ . | markdownify }}
       </div>
       {{ end }}

@@ -11,10 +11,10 @@
           <div class="md:w-1/2 md:px-8">
             {{ $title := .title }}
             {{ with $title }}
-            <h2 class="font-medium text-lg xxl:text-2xl block mb-1">{{ . }}</h2>
+            <h2 class="font-normal text-lg xxl:text-2xl block mb-1">{{ . }}</h2>
             {{ end }}
             {{ with .content }}
-            <div class="lg:text-lg mb-4 font-medium leading-loose">
+            <div class="lg:text-lg mb-4 font-normal leading-loose">
               {{ . | markdownify }}
             </div>
             {{ end }}
