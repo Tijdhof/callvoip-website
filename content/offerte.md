@@ -5,19 +5,17 @@ type: page
 hero:
   image: "/v1569926792/offerte_gcg11h.png"
   title: ''
+  disable_image_on_mobile: false
 description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offerte
   op maat? Vraag dan een offerte aan bij Callvoip en ontvang deze binnen 1 dag.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: ''
 hideinsearch: false
+hideingoogle: false
 
 ---
-Vul hieronder uw gegevens in en u ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **internetverbindingen** of aanvullende **apparatuur**? Laat het ons weten in de toelichting, want ook deze **kennis** hebben wij in huis.
-
-### Ontvang een vrijblijvende offerte
-
-Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0001**](tel:+31508200001).
+Ontvang **binnen één werkdag** een vrijblijvende offerte. Als je informatie hebt over de internetverbinding en apparatuur, dan nemen we dat mee in de offerte. We zullen altijd samen kijken naar de mogelijkheden voor internet en apparatuur zodat je een volledig beeld krijgt.
 
 {{< form "Offerte formulier" "/offerte/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
