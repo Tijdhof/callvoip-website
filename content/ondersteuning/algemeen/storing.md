@@ -7,11 +7,11 @@ description: ''
 images: []
 update: true
 nieuw: true
-hideinsearch: false
+hideinsearch: true
 Nieuw: false
 Update: false
 pdf: ''
-hideingoogle: false
+hideingoogle: true
 
 ---
 Voor actuele storingen en meldingen moet u op onze status-pagina zijn:
