@@ -11,6 +11,7 @@ hero:
     of meldtekst in. <BR><BR>Met de betaalde Plus variant fungeert jouw smartphone
     als volwaardig kantoortoestel. Je kunt bellen en gebeld worden op het vaste telefoonnummer,
     ziet of collega's in gesprek zijn en zelfs doorverbinden is mogelijk.
+    <a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" class="button">Handleiding Qaller</a>
   button:
     content: Handleiding Qaller
     link: https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/
