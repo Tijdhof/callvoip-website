@@ -33,6 +33,10 @@ Vul het formulier in en stuur deze met uw ACM beschikking. Controleer de bevesti
 
 {{< form/email "Email" required >}}
 
+{{< form/fileupload "KVK uittreksel" required >}}
+
+Mag niet ouder zijn dan 6 maanden
+
 {{</ form/fieldset >}}
 
 {{< form/fieldset "Aanvraag 0900-nummer" >}}
