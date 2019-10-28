@@ -16,13 +16,15 @@ hero:
     link: "/calculator/"
   image: "/v1566312817/bereikbaar_okmkfs.png"
   image_position: start
+  disable_image_on_mobile: false
 blocks:
 - title: Wat toont de bereikbaarheidsmonitor?
   image: "/v1563354632/callvoip-website-bereikbaarheidsmonitor-stats.png"
   content: |-
     <b>Aangenomen gesprekken</b>: u ziet per uur, dag, week hoeveel gesprekken er totaal waren en welk deel daarvan is aangenomen. Dit wordt uitgedrukt in een aantal en een percentage. U kunt de beantwoorde gesprekken bekijken voor het totaal en elke individuele nummer.<br><br>
     <b>Gespreksduur</b>: het dashboard toont de gemiddelde duur van gesprekken in de gewenste periode (uur, dag, week) en toont bovendien de totale gespreksduur per uur, dag en week en berekent ook de gemiddelde gespreksduur. Waardevolle stuurinformatie voor het management!<br><br>
-    <b>Piekuur / piekdag</b>: de managementbalk aan de rechterzijde van het dashboard toont u op welk uur van de dag cq. op welke dag van de week er de meeste telefoondrukte is. Een simpel feit, maar toch waardevol te weten en ook hoe dit zich ontwikkelt in uw activiteitenseizoenen.
+    <b>Piekuur / piekdag</b>: de managementbalk aan de rechterzijde van het dashboard toont u op welk uur van de dag cq. op welke dag van de week er de meeste telefoondrukte is. Een simpel feit, maar toch waardevol te weten en ook hoe dit zich ontwikkelt in uw activiteitenseizoenen.<BR><BR>
+    <a href="https://www.callvoip.nl/ondersteuning/extra-features/bereikbaarheidsmonitor/" class="button">Hoe werkt het?</a>
   position: image_right
   image_position: center
 - title: Bereikbaarheidsmonitor, wat monitort het precies?
@@ -54,8 +56,9 @@ intro:
   content: ''
 prijzen: []
 hideinsearch: false
+hideingoogle: false
 
 ---
 ## Wat kost het?
 
-**Niets!** De Bereikbaarheidsmonitor maakt gratis deel uit van de Simmpl telefooncentrale. Gewoon, om het Simmpl te houden.
+**Niets!** De Bereikbaarheidsmonitor maakt gratis deel uit van de Callvoip-telefooncentrale. Geen meerkosten, in één oogopslag zicht op uw bereikbaarheid! 
