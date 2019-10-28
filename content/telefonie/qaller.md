@@ -25,11 +25,10 @@ blocks:
   position: image_left
   title: De slimme afstandsbediening
   image_position: center
-- content: Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als
-    belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken
-    worden ontvangen op het zakelijke vaste nummer. Hiermee kan elke smartphone worden
-    ingezet als volwaardig kantoortoestel.<BR> De prijs van <B>Qaller Plus</B> is
-    gelijk aan de <B>prijs van een toestelaccount</B>.
+- content: |-
+    Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken worden ontvangen op het zakelijke vaste nummer. Hiermee kan elke smartphone worden ingezet als volwaardig kantoortoestel.<BR> De prijs van <B>Qaller Plus</B> is gelijk aan de <B>prijs van een toestelaccount</B>.
+    <br><br>
+    <a target="_blank" href="https://www.callvoip.nl/calculator/" class="button">Wat kost dat?</a>
   image: "/v1566556835/mock_up_phone_oneplus3_i8lww0.png"
   position: ''
   title: De smartphone als kantoortoestel
