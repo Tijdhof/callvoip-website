@@ -48,7 +48,7 @@ options:
   - icon: fa-wifi
     title: Kabel, DSL, glasvezel of misschien wel 4G?
     content: Internet is een belangrijke basis van de werkplek. Wij verzorgen stabiele
-      razendsnelle verbindingen voor jouw situatie.
+      razendsnelle verbindingen voor elke situatie.
     link: "/internet/postcodecheck/"
     tab: true
   - icon: fa-tty
