@@ -11,7 +11,7 @@ hero:
   items:
   - icon: fa-cloud
     title: Maatwerk op de plank voor elke branche
-    content: "Hosted telefonie vanaf 1 tot 100+ gebruikers :office: "
+    content: "Hosted telefonie vanaf 1 tot 100+ gebruikers"
     link: oplossingen/branches/
     id: cta-mkb
   - icon: fa-tty
