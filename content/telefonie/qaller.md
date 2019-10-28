@@ -10,7 +10,7 @@ hero:
     zelf bedienen. Even niet bereikbaar? Met één klik stel je in Qaller een doorschakeling
     of meldtekst in. <BR><BR>Met de betaalde Plus variant fungeert jouw smartphone
     als volwaardig kantoortoestel. Je kunt bellen en gebeld worden op het vaste telefoonnummer,
-    ziet of collega's in gesprek zijn en zelfs doorverbinden is mogelijk.<BR> <a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/"
+    ziet of collega's in gesprek zijn en zelfs doorverbinden is mogelijk.<a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/"
     class="button">Handleiding Qaller</a> <a href="/offerte/" class="button">Offerte
     aanvragen</a>
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
