@@ -7,17 +7,19 @@ images:
 type: page
 layout: default
 logos: false
-aliases: '/clicktodial'
+aliases: "/clicktodial"
 hero:
   title: Click-to-Dial
-  content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in uw Chrome
+  content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
     webbrowser klikbaar. Één klik op het nummer en uw toestel belt uit. Is dit alles?
     Nee! Zo krijgt u bij inkomende oproepen een notificatie, ziet u de beschikbaarheid
     van uw collega's, kunt u gesprekken doorverbinden en heeft u een telefoonboek.
-    <a href="/ondersteuning/integraties/click-to-dial/" class="button">Handleiding</a>
-    <a href="/offerte/" class="button">Offerte aanvragen</a>
+  button:
+    content: Offerte aanvragen
+    link: "/offerte/"
   image: "/v1567498458/clicktdial_bweq3w.png"
   image_position: start
+  disable_image_on_mobile: false
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1569232681/clicktodial_3_afbeeldingen_oxbpxq.png"
@@ -69,6 +71,7 @@ intro:
   content: ''
 prijzen: []
 hideinsearch: false
+hideingoogle: false
 menu:
   main:
     weight: 4
@@ -87,7 +90,7 @@ Helemaal niets! De Click-to-Dial is gratis voor klanten van Callvoip.
 
 <br>
 
-<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a><a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a><a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf" class="button">Yealink adresboek</a>
+<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a>&nbsp;<a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a>&nbsp;<a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf" class="button">Yealink adresboek</a>
 
 <br>
 
