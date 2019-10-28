@@ -39,4 +39,4 @@ Ontvang **binnen één werkdag** een vrijblijvende offerte. Als je informatie he
 
 {{</ layout/split >}}
 
-{{< form/textarea "Uw wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
+{{< form/textarea "Specifieke wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
