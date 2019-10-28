@@ -14,7 +14,7 @@ hero:
     webbrowser klikbaar. Één klik op het nummer en uw toestel belt uit. Is dit alles?
     Nee! Zo krijgt u bij inkomende oproepen een notificatie, ziet u de beschikbaarheid
     van uw collega's, kunt u gesprekken doorverbinden en heeft u een telefoonboek.
-    <a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/" class="button">Handleiding</a>
+    <a href="/ondersteuning/integraties/click-to-dial/" class="button">Handleiding</a>
     <a href="/offerte/" class="button">Offerte aanvragen</a>
   image: "/v1567498458/clicktdial_bweq3w.png"
   image_position: start
