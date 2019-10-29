@@ -14,7 +14,7 @@ images:
 layout: landing
 hideinsearch: true
 textblocks:
-- content1: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even door naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf. Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!'
+- content1: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!'
   title1: 'Slimme telefonie, veilig in de cloud'
   title2: 'Altijd bereikbaar met de Qaller app'
   content2: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?'
