@@ -6,12 +6,12 @@ aliases: "/voip"
 logos: true
 hero:
   title: Callvoip  Hosted VoIP
-  content: 'Hosted VoIP biedt veel voordelen, met name flexibiliteit en schaalbaarheid.
-    Op het eerste gezicht lijken alle Hosted VoIP centrales op elkaar: er kan prima
-    worden gebeld en er kunnen veel zaken worden ingesteld.<BR><BR>Toch zijn er ook
-    belangrijke verschillen. Met Callvoip profiteer je van een ongeëvenaard gebruiksgemak.
-    En belangrijker nog, we beschikken over een schat aan ervaring om de bereikbaarheid
-    en uitstraling van onze klanten te optimaliseren. We staan voor je klaar!'
+  content: 'Hosted VoIP biedt veel voordelen. Op het eerste gezicht lijken alle Hosted
+    VoIP centrales op elkaar: er kan prima worden gebeld en er kunnen veel zaken worden
+    ingesteld.<BR><BR>Toch zijn er ook belangrijke verschillen. Met Callvoip profiteer
+    je van een ongeëvenaard gebruiksgemak. En belangrijker nog, we beschikken over
+    een schat aan ervaring om de bereikbaarheid en uitstraling van onze klanten te
+    optimaliseren. We staan voor je klaar!'
   button:
     content: Ik ben geïnteresseerd!
     link: "/offerte"
