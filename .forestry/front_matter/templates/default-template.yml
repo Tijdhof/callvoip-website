@@ -195,7 +195,6 @@ pages:
 - content/oplossingen/mkb.md
 - content/oplossingen/trunk.md
 - content/internet/dsl.md
-- content/internet/managed-4g-oplossing.md
 - content/internet/glasvezel.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
@@ -204,4 +203,5 @@ pages:
 - content/internet/kabel.md
 - content/oplossingen/branches.md
 - content/telefonie/bereikbaarheidsmonitor.md
+- content/internet/managed-4g-oplossing.md
 - content/telefonie/hostedvoip.md
