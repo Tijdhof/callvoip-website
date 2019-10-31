@@ -23,31 +23,55 @@ social:
   - title: Volg Callvoip op Twitter
     link: https://twitter.com/callvoip
     icon: fa-twitter
-blocks1:
+blocks:
   - title: VoIP telefonie
     links:
       - title: Hosted VoIp
         url: /telefonie/hostedvoip/
       - title: Voip Trunk
-        url: https://www.callvoip.nl
+        url: /oplossingen/trunk/
+      - title: Vast mobiel integratie
+        url: /telefonie/vastmobielintegratie/
+      - title: Click to Dial
+        url: /telefonie/clicktodial/
+      - title: Software integratie
+        url: /telefonie/integratiemetcrm/
+      - title: VoIP tarieven
+        url: /
   - title: Telefoonnummers
     links:
-      - title: Hosted VoIp
-        url: https://www.callvoip.nl
-      - title: Voip Trunk
-        url: https://www.callvoip.nl
+      - title: Regionale nummers
+        url: /telefonie/telefoonnummers/
+      - title: Landelijke nummers (085/088)
+        url: /telefonie/telefoonnummers/
+      - title: Internationale nummers
+        url: /telefonie/telefoonnummers/
+      - title: Servicenummers (0900/0800)
+        url: /telefonie/telefoonnummers/
   - title: Internet
     links:
-      - title: Hosted VoIp
-        url: https://www.callvoip.nl
-      - title: Voip Trunk
-        url: https://www.callvoip.nl
+      - title: DSL
+        url: /internet/dsl/
+      - title: Kabel
+        url: /internet/kabel/
+      - title: Glasvezel
+        url: /internet/glasvezel/
+      - title: 4G
+        url: /internet/managed-4g-oplossing/
   - title: Callvoip
     links:
-      - title: Hosted VoIp
-        url: https://www.callvoip.nl
-      - title: Voip Trunk
-        url: https://www.callvoip.nl
+      - title: Over Callvoip
+        url: /overons/hetbedrijf/
+      - title: Team
+        url: /overons/team/
+      - title: Nieuws
+        url: /nieuws/
+      - title: Support
+        url: /ondersteuning/
+      - title: Webshop
+        url: /pages/webshop/
+      - title: Contact
+        url: /contact/
   - title: Contact
     content: <p class="mb-4">Koldingweg 19-1 <br> 9723 HL Groningen</p><p><a href="tel:+31508200000">050 - 820 00 00</a></p>
       
