@@ -2,16 +2,16 @@
 title: Callvoip - Succes begint met slimme telefonie
 hero:
   title: Succes begint met slimme telefonie
-  content: Met de hosted telefonieoplossing van Callvoip bereik je dat met één druk
-    op de knop. Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud!
-    Neem zelf plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
+  content: Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
+    Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
+    plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
   button:
     content: Ontdek onze oplossing
     link: "/telefonie/hostedvoip"
   items:
   - icon: fa-cloud
     title: Maatwerk op de plank voor elke branche
-    content: "Hosted telefonie vanaf :house: 1 tot 100+ :office: gebruikers"
+    content: 'Hosted telefonie vanaf :house: 1 tot 100+ :office: gebruikers'
     link: oplossingen/branches/
     id: cta-mkb
   - icon: fa-tty
