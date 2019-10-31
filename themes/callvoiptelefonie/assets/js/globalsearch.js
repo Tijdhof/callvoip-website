@@ -18,6 +18,7 @@ var fuseOptions = {
       "blocks",
       "blocks.title",
       "blocks.content",
+      "searchtags",
       "description",
       "usps.items.items.title",
       "usps.items.title",

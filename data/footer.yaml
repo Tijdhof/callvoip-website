@@ -23,3 +23,31 @@ social:
   - title: Volg Callvoip op Twitter
     link: https://twitter.com/callvoip
     icon: fa-twitter
+blocks1:
+  - title: VoIP telefonie
+    links:
+      - title: Hosted VoIp
+        url: /telefonie/hostedvoip/
+      - title: Voip Trunk
+        url: https://www.callvoip.nl
+  - title: Telefoonnummers
+    links:
+      - title: Hosted VoIp
+        url: https://www.callvoip.nl
+      - title: Voip Trunk
+        url: https://www.callvoip.nl
+  - title: Internet
+    links:
+      - title: Hosted VoIp
+        url: https://www.callvoip.nl
+      - title: Voip Trunk
+        url: https://www.callvoip.nl
+  - title: Callvoip
+    links:
+      - title: Hosted VoIp
+        url: https://www.callvoip.nl
+      - title: Voip Trunk
+        url: https://www.callvoip.nl
+  - title: Contact
+    content: <p class="mb-4">Koldingweg 19-1 <br> 9723 HL Groningen</p><p><a href="tel:+31508200000">050 - 820 00 00</a></p>
+      
