@@ -12,7 +12,7 @@
         <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-normal leading-tight mb-4 md:mb-6">{{ . }}</h1>
         {{ end }}
         {{ with .content }}
-        <div class="font-normal lg:text-lg xxl:text-xl max-w-md opacity-75 mb-4 md:mb-8 lg:leading-loose">{{ . | markdownify }}</div>
+        <div class="font-normal lg:text-lg xxl:text-xl max-w-md text-grey-medium mb-4 md:mb-8">{{ . | markdownify }}</div>
         {{ end }}
         {{ with .button }}
         <a href="{{ .link }}" class="button md:text-lg">{{ .content }}</a>
