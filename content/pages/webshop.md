@@ -17,5 +17,6 @@ menu:
   top:
     name: Webshop
     weight: 3
-
+searchtags:
+- yealink
 ---
