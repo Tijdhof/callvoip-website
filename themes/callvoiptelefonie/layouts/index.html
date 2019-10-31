@@ -6,10 +6,10 @@
     <div class="md:flex md:-mx- lg:-mx-12 md:items-center pt-6 sm:pt-8 md:pt-12 md:pt-16 mb-12">
       <div class="mb-12 md:w-1/2 md:px-4 lg:px-12">
         {{ with .title }}
-        <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
+        <h1 class="text-3xl lg:text-4xl xxl:text-5xl font-medium leading-tight mb-4 md:mb-6">{{ . | emojify }}</h1>
         {{ end }}
         {{ with .content }}
-        <div class="font-medium lg:text-lg xxl:text-xl max-w-lg text-grey-medium mb-4 md:mb-8 lg:leading-loose">{{ . | markdownify }}</div>
+        <div class="font-medium lg:text-lg xxl:text-xl max-w-lg text-grey-medium mb-4 md:mb-8 lg:leading-loose">{{ . | markdownify | emojify }}</div>
         {{ end }}
         {{ with .button }}
         <a href="{{ .link }}" class="button md:text-lg">{{ .content | emojify  }}</a>
