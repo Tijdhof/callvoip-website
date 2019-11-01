@@ -23,7 +23,7 @@ blocks:
     - Een mobiel gesprek in de wacht zetten en weer terugnemen
     - Een mobiel gesprek overnemen op uw vaste toestel, of andersom
     - Een mobiel gesprek opnemen als u gespreksopname aan heeft staan
-  image: "/v1557906588/Vamos.png"
+  image: "/v1565690795/Vamos_mobiel_smsovp.png"
   position: image_right
   title: 'Vamos update april 2019:'
   image_position: ''
@@ -62,7 +62,7 @@ hero:
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
-  image: "/v1565690795/Vamos_mobiel_smsovp.png"
+  image: "/v1565690795/vamos_evpkkg.png"
   image_position: start
 intro:
   title: Wat zijn de kosten?
