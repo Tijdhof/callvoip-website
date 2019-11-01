@@ -55,10 +55,11 @@ images:
 - "/v1559635655/Vamos-logo.png"
 logos: false
 hero:
-  title: Vast Mobiel Integratie (Vamos)
-  content: Vamos staat voor Vast-Mobiel integratie op Simmpl. Met Vamos maakt óók
-    uw Smartphone deel uit van de Simmpl Hosted VoIP centrale, gewoon met uw vaste
-    zaaknummer.
+  title: Vast Mobiel Integratie - Vamos
+  content: Callvoip biedt pure vast-mobiel integratie op basis van het netwerk van
+    T-Mobile. Wij noemen dit Vamos. Met Vamos wordt een smartphone onderdeel van de
+    Callvoip centrale. Je bepaalt via de Vamos app welk nummer je meezendt, vast of
+    mobiel of geen.
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
