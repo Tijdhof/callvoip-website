@@ -13,7 +13,7 @@ blocks:
     is <b>Vamos</b> iets voor u: u krijgt een SIM kaart met daarop uw eigen of een
     nieuw 06-nummer en 2, 5 of 10 GB data. Samen met onze Vamos SIM is uw mobiele
     nummer dan volledig geïntegreerd in Simmpl.\n"
-  image: "/v1566550416/callvoip-website-mobiel-tabel2_ydwvsx.png"
+  image: ''
   position: image_left
   title: Overzicht vast-mobiel integratie
   image_position: center
