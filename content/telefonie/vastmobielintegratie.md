@@ -13,9 +13,9 @@ blocks:
     is <b>Vamos</b> iets voor u: u krijgt een SIM kaart met daarop uw eigen of een
     nieuw 06-nummer en 2, 5 of 10 GB data. Samen met onze Vamos SIM is uw mobiele
     nummer dan volledig geïntegreerd in Simmpl.\n"
-  image: ''
+  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
-  title: Overzicht vast-mobiel integratie
+  title: De vast-mobiel mogelijkheden op een rij
   image_position: center
 - content: |-
     - Telefoonboek met statusindicatie (BLF): zie of collega's vrij of in gesprek zijn
