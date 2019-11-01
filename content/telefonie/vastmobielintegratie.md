@@ -14,7 +14,7 @@ blocks:
     worden gebeld met het vaste nummer en kunnen gesprekken op het vaste nummer kunnen
     worden ontvangen.<BR><BR>\n- wel vaste maandelijkse kosten<BR>\n- bellen gaat
     via een app<BR>\n+ onafhankelijk van de mobiele provider of telefoon<BR>\n+ geen
-    doorschakelkosten<BR><BR>\n\n<b>Vamos</b><br>\nMet een <b>Vamos<b/> SIM is de
+    doorschakelkosten<BR><BR>\n\n<b>Vamos</b><br>\nMet een <b>Vamos</b> SIM is de
     smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<BR><BR>\n- abonnementskosten
     zijn hoger dan bij Qaller Plus<BR>\n- geen databundel met onbeperkt data<BR>\n+
     bellen via de native dialer<BR>\n+ onbeperkt bellen binnen EU is inbegrepen"
