@@ -3,7 +3,7 @@ title: Offerte aanvragen
 slug: offerte
 type: page
 hero:
-  image: "/v1572604004/header_uitproberen_pw9g8p.png"
+  image: "/v1572604004/offerte_gcg11h.png"
   title: ''
   disable_image_on_mobile: false
 description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offerte
