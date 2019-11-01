@@ -10,8 +10,8 @@ hero:
     VoIP centrales op elkaar: er kan prima worden gebeld en er kunnen veel zaken worden
     ingesteld.<BR><BR>Toch zijn er ook belangrijke verschillen. Met Callvoip profiteer
     je van een ongeëvenaard gebruiksgemak. En belangrijker nog, we beschikken over
-    een schat aan ervaring om de bereikbaarheid en uitstraling van onze klanten te
-    optimaliseren. We staan voor je klaar!'
+    een schat aan ervaring en slimme tips om de bereikbaarheid en uitstraling van
+    onze klanten te optimaliseren.<BR><BR>We staan voor je klaar!'
   button:
     content: Ik ben geïnteresseerd!
     link: "/offerte"
