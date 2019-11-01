@@ -13,7 +13,7 @@ hero:
     een schat aan ervaring en slimme tips om de bereikbaarheid en uitstraling van
     onze klanten te optimaliseren.<BR><BR>We staan voor je klaar!'
   button:
-    content: Ik ben geïnteresseerd!
+    content: Hier wil ik meer over weten
     link: "/offerte"
   image: "/v1565688921/test-home3_xea1m2.png"
   image_position: start
