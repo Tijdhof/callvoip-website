@@ -55,11 +55,13 @@ images:
 - "/v1559635655/Vamos-logo.png"
 logos: false
 hero:
-  title: Vast Mobiel Integratie - Vamos
-  content: Callvoip biedt pure vast-mobiel integratie op basis van het netwerk van
-    T-Mobile. Wij noemen dit Vamos. Met Vamos wordt een smartphone onderdeel van de
-    Callvoip centrale. Je bepaalt via de Vamos app welk nummer je meezendt, vast of
-    mobiel of geen.
+  title: VaMo Integratie - Vamos
+  content: 'Callvoip biedt pure vast-mobiel integratie op basis van het mobiele netwerk
+    van T-Mobile. Wij noemen dit Vamos.<BR><BR>Met Vamos wordt een smartphone onderdeel
+    van de Callvoip centrale. Met deze oplossing bel je met de native dialer maar
+    de smartphone biedt dezelfde mogelijkheden als een vast IP toestel. Je bepaalt
+    via de Vamos app welk nummer je meezendt, vast, mobiel of geen en je kunt gesprekken
+    doorverbinden.<BR><BR>Wij zouden zeggen, Vamos! '
   button:
     content: Vraag nu een offerte aan
     link: "/offerte"
