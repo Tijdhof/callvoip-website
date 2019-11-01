@@ -1,8 +1,8 @@
 ---
-title: Vast Mobiel Integratie (Vamos) | altijd & overal bereikbaar
+title: Vast Mobiel Integratie | altijd en overal bereikbaar
 type: page
 layout: default
-aliases: '/vamos'
+aliases: "/vamos"
 blocks:
 - content: "Welke vorm van vast mobiel past bij u?\n\n<b>1. Ik wil mijn vaste nummer
     kunnen doorschakelen naar mobiel</b><br>\nDan is een <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorschakeling</a>
@@ -49,7 +49,7 @@ usps:
   - icon: fa-comment-alt-smile
     title: Keuzevrijheid
     content: U kunt uitbellen met zaak- of mobiel nummer, óf anoniem.
-description: Met de Vast Mobiel Integratie (fixed mobile) van Callvoip bent u altijd
+description: Met de Vast Mobiel Integratie (fixed mobile) van Callvoip ben je altijd
   & overal bereikbaar. Bekijk de mogelijkheden van Vamos.
 images:
 - "/v1559635655/Vamos-logo.png"
@@ -64,6 +64,7 @@ hero:
     link: "/offerte"
   image: "/v1565690795/vamos_evpkkg.png"
   image_position: start
+  disable_image_on_mobile: false
 intro:
   title: Wat zijn de kosten?
   content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in drie verschillende
@@ -109,6 +110,7 @@ prijzen:
     - title: Eenmalig
       price: '25.00'
 hideinsearch: false
+hideingoogle: false
 menu:
   main:
     weight: 2
