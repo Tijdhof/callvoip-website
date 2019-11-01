@@ -5,7 +5,7 @@ hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: ''
 hideinsearch: true
-hideingooge: true
+hideingoogle: true
 
 ---
 Je aanvraag voor een rondleiding is ontvangen. Nog even wachten en dan nemen zo snel mogelijk contact met je op.
