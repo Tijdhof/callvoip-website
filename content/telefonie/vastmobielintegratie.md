@@ -4,7 +4,7 @@ type: page
 layout: default
 aliases: "/vamos"
 blocks:
-- content: "Welke vorm van vast mobiel past bij u?\n\n<b>Doorschakeling naar mobiel</b><br>\nDit
+- content: "Welke vorm van vast mobiel past bij jou?\n\n<b>Doorschakeling naar mobiel</b><br>\nDit
     is de meest eenvoudige variant. Gesprekken naar het vaste nummer kunnen worden
     doorverbonden naar een mobiel nummer. Dit doe je via de \n <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorverbind
     app</a>. Dit kan ook eenvoudig via Qaller worden ingesteld.<BR<BR>\n- doorschakelkosten
@@ -19,7 +19,7 @@ blocks:
     data<BR>\n+ bellen via de native dialer<BR>\n+ onbeperkt bellen binnen EU is inbegrepen"
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
-  title: De vast-mobiel mogelijkheden op een rij
+  title: Het vast-mobiel landschap
   image_position: center
 - content: |-
     - Telefoonboek met statusindicatie (BLF): zie of collega's vrij of in gesprek zijn
