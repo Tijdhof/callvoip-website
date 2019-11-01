@@ -4,10 +4,9 @@ type: page
 layout: default
 aliases: "/vamos"
 blocks:
-- content: "Welke vorm van vast mobiel past bij jou?\n\n<b>Doorschakeling naar mobiel</b><br>\nDe
+- content: "De plussen en minnen op een rij\n\n<b>Doorschakeling naar mobiel</b><br>\nDe
     meest eenvoudige variant. Gesprekken naar het vaste nummer kunnen worden doorverbonden
-    naar een mobiel nummer. Dit kan via de \n <a href=\"/telefonie/functionaliteiten/doorverbinden/\">doorverbind
-    app</a> maar ook eenvoudig via Qaller.<BR><BR>\n- doorschakelkosten naar mobiel
+    naar een mobiel nummer.<BR><BR>\n- doorschakelkosten naar mobiel
     bij inkomende gesprekken<BR>\n- niet mogelijk om terug te bellen met het vaste
     nummer<BR>\n+ geen vaste kosten<BR>\n+ eenvoudig in te stellen via Qaller<BR><BR>\n\n\n<b>Qaller
     Plus</b>\n<a href=\"/telefonie/qaller/\">Qaller Plus</a> is een app waarmee kan
