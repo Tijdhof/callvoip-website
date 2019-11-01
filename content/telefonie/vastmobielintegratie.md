@@ -64,7 +64,7 @@ hero:
     worden meegezonden: vast, mobiel of geen nummer en kun je gesprekken doorverbinden.<BR><BR>Wij
     zouden zeggen, Vamos! '
   button:
-    content: Vraag nu een offerte aan
+    content: Hier wil ik meer over weten
     link: "/offerte"
   image: "/v1565690795/vamos_evpkkg.png"
   image_position: start
