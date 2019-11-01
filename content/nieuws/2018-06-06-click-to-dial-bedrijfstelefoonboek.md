@@ -1,5 +1,5 @@
 ---
-title: 'Weer een functie toegevoegd aan Click-to-Dial: het (bedrijfs)telefoonboek'
+title: 'Weer een functie toegevoegd aan Click-to-Dial: het (bedrijfs-)telefoonboek'
 author: Robert Tijdhof
 type: post
 date: 2018-06-06T10:14:53.000+00:00

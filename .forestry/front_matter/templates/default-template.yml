@@ -190,6 +190,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/telefonie/vastmobielintegratie.md
 - content/telefonie/bereikbaarheidsmonitor.md
 - content/internet/managed-4g-oplossing.md
 - content/telefonie/hostedvoip.md
@@ -199,7 +200,6 @@ pages:
 - content/telefonie/integratiemetcrm.md
 - content/internet/glasvezel.md
 - content/internet/kabel.md
-- content/telefonie/vastmobielintegratie.md
 - content/internet/dsl.md
 - content/telefonie/operator-console.md
 - content/oplossingen/trunk.md
