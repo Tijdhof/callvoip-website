@@ -9,5 +9,8 @@ logo: "/v1555508013/On%20Dark%20Background.svg"
 name: Germ Wijnia
 draft: true
 website: #
+hideinsearch: true
+hideingoogle: true
+
 ---
 “Korte lijnen, duidelijke communicatie en altijd nieuwe innovaties”
