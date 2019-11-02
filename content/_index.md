@@ -11,7 +11,7 @@ hero:
   items:
   - icon: fa-cloud
     title: Maatwerk op de plank voor elke branche
-    content: "Hosted telefonie vanaf :house: 1 tot 100+ :office: gebruikers"
+    content: 'Hosted telefonie vanaf :house: 1 tot 100+ :office: gebruikers'
     link: oplossingen/branches/
     id: cta-mkb
   - icon: fa-tty
@@ -58,7 +58,7 @@ options:
     link: "/pages/webshop/"
     tab: true
   - icon: fa-headset
-    title: Hulp nodig? We zijn blij als je belt!
+    title: 'Hulp nodig? We zijn blij :smile: als je belt!'
     content: Geen lange wachttijden of eindeloze menu's. Bij ons ben je geen nummer
       en spreek je direct met een specialist, dat is wel zo prettig.
     link: "/ondersteuning/"
