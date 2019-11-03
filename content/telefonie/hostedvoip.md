@@ -146,8 +146,8 @@ prijzen:
       price: '2.00'
     - title: Extra kanalen (6x)
       price: '15.00'
-description: Welkom in de wereld van Voice over IP (VoIP). Bekijk alle mogelijkheden
-  en ontdek onze interessante abonnementskosten.
+description: Ontdek de volgende fase in hosted voip. Slim bereikbaar vanuit de cloud,
+  wanneer en waar je wilt. Bekijk alle mogelijkheden en onze interessante abonnementen.
 images: []
 hideinsearch: false
 hideingoogle: false
