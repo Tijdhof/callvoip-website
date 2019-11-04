@@ -11,7 +11,7 @@ blocks:
     - doorschakelkosten naar mobiel bij inkomende gesprekken<BR>
     - niet mogelijk om terug te bellen met het vaste nummer<BR>
     + geen vaste kosten<BR>
-    + eenvoudig in te stellen via Qaller<BR><BR><b>Qaller Plus</b> is een app op de smartphone waarmee kan worden gebeld gesprekken kunnen worden ontvangen op het vaste nummer.<BR>
+    + eenvoudig in te stellen via Qaller<BR><BR><b>Qaller Plus</b> is een app op de smartphone waarmee kan worden gebeld en gesprekken kunnen worden ontvangen op het vaste nummer.<BR>
     - wel vaste maandelijkse kosten (4 Euro/gebruiker)<BR>
     - bellen gaat via een app<BR>
     + onafhankelijk van de mobiele provider of telefoon<BR>
