@@ -61,11 +61,10 @@ team:
 - function: ''
   name: Roy Liezen
   linkedin: ''
-  image: "/v1570532524/roy_seqvec.png"
+  image: "/v1570532524/roy_ugofnc.png"
   content: |-
-    Marketing man pur sang.
-    Praat hier ook graag over en praat ook graag over andere dingen.
-    Zit weleens op de racefiets.
+    'Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
+    zichtbaar plezier uit inspireren en motiveren. Zit weleens op de racefiets. En voedt ook nog een dochter op. '
 - content: Is breed inzetbaar want heeft veel kennis van marketing maar ook een gezond
     boerenverstand om de techniek met logica te benaderen. Komt op het werk met zo'n
     pedelec waardoor Leens - Groningen - Leens een eitje wordt met zonder auto. Thuis
