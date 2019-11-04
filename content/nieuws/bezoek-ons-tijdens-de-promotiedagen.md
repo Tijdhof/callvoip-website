@@ -31,4 +31,4 @@ Zien we je daar?
 
 Dat kunnen we voor je regelen! Klik op onderstaande banner en vraag ze aan. En niet vergeten even langs **stand 6038** te lopen. 
 
-<a href="https://www.promotiedagen.nl/toegangskaart/callvoiptelefonie/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/emailbanner1.png" alt="promotiedagen" /></a>
+<a href="https://www.promotiedagen.nl/toegangskaart/callvoip/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/emailbanner1.png" alt="promotiedagen" /></a>
