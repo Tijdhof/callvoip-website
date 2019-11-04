@@ -25,6 +25,8 @@ Zien we je daar?
 
 **Wanneer**: 5 & 6 november 2019
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1572879992/b0476ab8-90c8-4fad-b29c-0d7f465b177d-original_nvwlfz.jpg)
+
 ### Gratis toegangskaarten?
 
 Dat kunnen we voor je regelen! Klik op onderstaande banner en vraag ze aan. En niet vergeten even langs **stand 6038** te lopen. 
