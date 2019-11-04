@@ -16,9 +16,9 @@ hideingoogle: false
 ---
 Wil jij meer informatie over Hosted VoIP? Laat je gegevens achter en een Callvoip medewerker belt je terug wanneer het jou uitkomt en beantwoordt al je vragen over VoIP m.b.t. jouw situatie.
 
-{{< form "Offerte formulier" "/terugbellen/verzonden" >}}  
+{{< form "Terugbellen" "/terugbellen/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
-{{< form/to "offerte">}}
+{{< form/to "terugbellen">}}
 
 {{< layout/split >}}
 
