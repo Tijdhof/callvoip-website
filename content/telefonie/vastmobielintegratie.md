@@ -4,19 +4,25 @@ type: page
 layout: default
 aliases: "/vamos"
 blocks:
-- content: "De plussen en minnen op een rij\n\n<b>Doorschakeling naar mobiel</b>. De
-    meest eenvoudige variant. Gesprekken naar het vaste nummer kunnen worden doorverbonden
-    naar een mobiel nummer.<BR>\n- doorschakelkosten naar mobiel
-    bij inkomende gesprekken<BR>\n- niet mogelijk om terug te bellen met het vaste
-    nummer<BR>\n+ geen vaste kosten<BR>\n+ eenvoudig in te stellen via Qaller<BR><BR><b>Qaller
-    Plus</b> is een app waarmee kan worden gebeld met het vaste nummer en kunnen gesprekken op het vaste nummer kunnen
-    worden ontvangen.<BR>\n- wel vaste maandelijkse kosten (4 Euro/gebruiker)<BR>\n- bellen gaat
-    via een app<BR>\n+ onafhankelijk van de mobiele provider of telefoon<BR>\n+ geen
-    doorschakelkosten<BR>\n+ doorverbinden van gesprekken is mogelijk<BR>\n+beschikbaarheid van collega's is zichtbaar<BR><BR>Met een <b>Vamos</b> SIM is de
-    smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<BR>\n- abonnementskosten
-    zijn hoger dan bij Qaller Plus<BR>\n- geen databundel met onbeperkt data<BR>\n+
-    alle mogelijkheden van Qaller Plus<BR>\n+
-    bellen via de native dialer<BR>\n+ onbeperkt bellen binnen EU is inbegrepen"
+- content: |-
+    De plussen en minnen op een rij
+
+    <b>Doorschakeling naar mobiel</b>. De meest eenvoudige variant. Gesprekken naar het vaste nummer kunnen worden doorverbonden naar een mobiel nummer.<BR>
+    - doorschakelkosten naar mobiel bij inkomende gesprekken<BR>
+    - niet mogelijk om terug te bellen met het vaste nummer<BR>
+    + geen vaste kosten<BR>
+    + eenvoudig in te stellen via Qaller<BR><BR><b>Qaller Plus</b> is een app op de smartphone waarmee kan worden gebeld gesprekken kunnen worden ontvangen op het vaste nummer.<BR>
+    - wel vaste maandelijkse kosten (4 Euro/gebruiker)<BR>
+    - bellen gaat via een app<BR>
+    + onafhankelijk van de mobiele provider of telefoon<BR>
+    + geen doorschakelkosten<BR>
+    + doorverbinden van gesprekken is mogelijk<BR>
+    + beschikbaarheid van collega's is zichtbaar<BR><BR>Met een <b>Vamos</b> SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<BR>
+    - abonnementskosten zijn hoger dan bij Qaller Plus<BR>
+    - geen databundel met onbeperkt data<BR>
+    + alle mogelijkheden van Qaller Plus<BR>
+    + bellen via de native dialer<BR>
+    + onbeperkt bellen binnen EU is inbegrepen
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
   title: Het vast-mobiel landschap
