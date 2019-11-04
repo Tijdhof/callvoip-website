@@ -21,7 +21,7 @@ blocks:
 - content: |-
     Hoe bedien je een TV zonder afstandsbediening? De Callvoip telefooncentrale kan gelukkig ook via de browser worden bediend maar de mogelijkheid om dit via de smartphone te doen is wel superhandig.<BR> Het gebruik van <B>Qaller</B> is standaard inbegrepen en is <B>gratis</B>.<BR><BR>
     <a target="_blank" href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" class="button">Hoe werkt het?</a>
-  image: "/v1568875791/phone_new_rkvuby.png"
+  image: "/v1572861318/qaller_uitleg_pijltjes_cmzthl.png"
   position: image_left
   title: De slimme afstandsbediening
   image_position: center
