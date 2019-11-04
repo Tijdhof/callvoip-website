@@ -24,7 +24,7 @@ Wil jij meer informatie over Hosted VoIP? Laat je gegevens achter en een Callvoi
 
 {{< form/input "Voor- en achternaam" required >}}
 
-{{< form/input "Telefoonnummer" >}}
+{{< form/input "Telefoonnummer" required >}}
 
 {{</ layout/split >}}
 
