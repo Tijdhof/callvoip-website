@@ -19,7 +19,7 @@ blocks:
     + doorverbinden van gesprekken is mogelijk<BR>
     + beschikbaarheid van collega's is zichtbaar<BR><BR>Met een <b>Vamos</b> SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<BR>
     - abonnementskosten zijn hoger dan bij Qaller Plus<BR>
-    - geen databundel met onbeperkt data<BR>
+    - databundel vanaf 0 t/m 10GB maar niet onbeperkt<BR>
     + alle mogelijkheden van Qaller Plus<BR>
     + bellen via de native dialer<BR>
     + onbeperkt bellen binnen EU is inbegrepen
