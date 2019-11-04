@@ -28,4 +28,4 @@ Wil jij meer informatie over Hosted VoIP? Laat je gegevens achter en een Callvoi
 
 {{</ layout/split >}}
 
-{{< form/textarea "Specifieke wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
+{{< form/textarea "Specifieke wensen" >}} {{< form/button "Bel mij terug" >}}{{</ form >}}
