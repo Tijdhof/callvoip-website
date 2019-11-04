@@ -12,9 +12,10 @@ blocks:
     Plus</b> is een app waarmee kan worden gebeld met het vaste nummer en kunnen gesprekken op het vaste nummer kunnen
     worden ontvangen.<BR>\n- wel vaste maandelijkse kosten<BR>\n- bellen gaat
     via een app<BR>\n+ onafhankelijk van de mobiele provider of telefoon<BR>\n+ geen
-    doorschakelkosten<BR><BR>Met een <b>Vamos</b> SIM is de
+    doorschakelkosten<BR>\n+doorverbinden van gesprekken is mogelijk<BR>\n+beschikbaarheid van collega's is zichtbaar<BR><BR>Met een <b>Vamos</b> SIM is de
     smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<BR>\n- abonnementskosten
     zijn hoger dan bij Qaller Plus<BR>\n- geen databundel met onbeperkt data<BR>\n+
+    alle mogelijkheden van Qaller Plus<BR>\n+
     bellen via de native dialer<BR>\n+ onbeperkt bellen binnen EU is inbegrepen"
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
