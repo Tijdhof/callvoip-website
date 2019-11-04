@@ -60,7 +60,7 @@ team:
   linkedin: ''
 - function: ''
   name: Roy Liezen
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/roy-liezen-83675952/'
   image: "/v1570532524/roy_ugofnc.png"
   content: |-
     'Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
