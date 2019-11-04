@@ -10,7 +10,7 @@ blocks:
     bij inkomende gesprekken<BR>\n- niet mogelijk om terug te bellen met het vaste
     nummer<BR>\n+ geen vaste kosten<BR>\n+ eenvoudig in te stellen via Qaller<BR><BR><b>Qaller
     Plus</b> is een app waarmee kan worden gebeld met het vaste nummer en kunnen gesprekken op het vaste nummer kunnen
-    worden ontvangen.<BR>\n- wel vaste maandelijkse kosten<BR>\n- bellen gaat
+    worden ontvangen.<BR>\n- wel vaste maandelijkse kosten (4 Euro/gebruiker)<BR>\n- bellen gaat
     via een app<BR>\n+ onafhankelijk van de mobiele provider of telefoon<BR>\n+ geen
     doorschakelkosten<BR>\n+ doorverbinden van gesprekken is mogelijk<BR>\n+beschikbaarheid van collega's is zichtbaar<BR><BR>Met een <b>Vamos</b> SIM is de
     smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<BR>\n- abonnementskosten
