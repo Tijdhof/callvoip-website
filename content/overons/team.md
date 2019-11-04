@@ -3,6 +3,7 @@ layout: team
 title: Team
 hero:
   image: "/v1566567124/het_team.jpg_jk6jgm.png"
+  disable_image_on_mobile: false
 intro:
   content: Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal
     staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
@@ -57,16 +58,27 @@ team:
     Vermoedelijk een gamer. Typt in vreemde talen. '
   function: Marketingmedewerker
   linkedin: ''
-- name: Roy Liezen
-  image: "/v1567149481/roy_ugofnc.png"
-  content: 'Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
-    zichtbaar plezier uit inspireren en motiveren. Zit weleens op de racefiets. En voedt ook nog een dochter op. '
-  function: Interim Marketing Manager
-  linkedin: 'https://www.linkedin.com/in/roy-liezen-83675952/'
-description: 'Maak kennis met het team van Callvoip: Tim, Roy, Dion, Remco, Lynn,
+- function: ''
+  name: Roy Liezen
+  linkedin: ''
+  image: "/v1570532524/roy_seqvec.png"
+  content: |-
+    Marketing man pur sang.
+    Praat hier ook graag over en praat ook graag over andere dingen.
+    Zit weleens op de racefiets.
+- content: Is breed inzetbaar want heeft veel kennis van marketing maar ook een gezond
+    boerenverstand om de techniek met logica te benaderen. Komt op het werk met zo'n
+    pedelec waardoor Leens - Groningen - Leens een eitje wordt met zonder auto. Thuis
+    ook druk met een gezin waar sinds kort ook katten bij horen.
+  function: Support/Marketing
+  linkedin: ''
+  image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
+  name: Tim Schouwenaar
+description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
 hideinsearch: false
+hideingoogle: false
 menu:
   main:
     parent: Over ons
