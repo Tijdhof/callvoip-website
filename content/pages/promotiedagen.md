@@ -38,7 +38,7 @@ blocks:
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
   image_position: center
   position: image_left
-  image: "/v1570098498/wolk_ma68mo.png"
+  image: "/v1570098498/wolk_z44yvn.png"
 - title: Direct uitproberen
   content: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct..</p>
