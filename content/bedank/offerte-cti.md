@@ -3,7 +3,7 @@ title: Offerte aanvraag verzonden
 url: "/offerte-cti/verzonden"
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
-slug: "/offerte/verzonden/"
+slug: "/offerte-cti/verzonden/"
 hideinsearch: true
 hideingoogle: true
 
