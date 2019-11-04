@@ -63,8 +63,8 @@ team:
   linkedin: 'https://www.linkedin.com/in/roy-liezen-83675952/'
   image: "/v1570532524/roy_ugofnc.png"
   content: |-
-    'Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
-    zichtbaar plezier uit inspireren en motiveren. Zit weleens op de racefiets. En voedt ook nog een dochter op. '
+    Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
+    zichtbaar plezier uit inspireren en motiveren. Zit weleens op de racefiets. En voedt ook nog een dochter op.
 - content: Is breed inzetbaar want heeft veel kennis van marketing maar ook een gezond
     boerenverstand om de techniek met logica te benaderen. Komt op het werk met zo'n
     pedelec waardoor Leens - Groningen - Leens een eitje wordt met zonder auto. Thuis
