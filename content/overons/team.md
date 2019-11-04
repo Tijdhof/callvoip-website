@@ -58,7 +58,7 @@ team:
     Vermoedelijk een gamer. Typt in vreemde talen. '
   function: Marketingmedewerker
   linkedin: ''
-- function: ''
+- function: 'Interim Marketing Manager'
   name: Roy Liezen
   linkedin: 'https://www.linkedin.com/in/roy-liezen-83675952/'
   image: "/v1570532524/roy_ugofnc.png"
