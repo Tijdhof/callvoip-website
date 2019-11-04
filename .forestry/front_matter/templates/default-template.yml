@@ -190,8 +190,8 @@ fields:
         name: price
         label: Price
 pages:
-- content/telefonie/qaller.md
 - content/telefonie/vastmobielintegratie.md
+- content/telefonie/qaller.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/bereikbaarheidsmonitor.md
 - content/internet/managed-4g-oplossing.md
