@@ -71,7 +71,7 @@ team:
     pedelec waardoor Leens - Groningen - Leens een eitje wordt met zonder auto. Thuis
     ook druk met een gezin waar sinds kort ook katten bij horen.
   function: Support/Marketing
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/timschouwenaar/?locale=nl_NL
   image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
   name: Tim Schouwenaar
 description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
