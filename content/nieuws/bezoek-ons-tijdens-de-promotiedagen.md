@@ -2,27 +2,31 @@
 title: Bezoek ons tijdens de Promotiedagen!
 author: Milan Littooy
 type: post
-date: 2018-10-17T09:37:18.000+00:00
+date: 2019-11-03T23:00:00+00:00
 url: "/bezoek-ons-tijdens-de-promotiedagen/"
 contactpersoon:
 - 9358
 categories:
 - Evenement
 images: []
-description: Wij nodigen u van harte uit om onze stand te bezoeken
-hideinsearch: true
-hideingoogle: true
+description: Zien we jou op de Promotiedagen in Groningen?
+hideinsearch: false
+hideingoogle: false
 draft: true
 
 ---
-Wij zijn 6 en 7 november aanwezig op 32ste editie van de Promotiedagen in MartiniPlaza Groningen. De Promotiedagen is het zakelijk ontmoetingspunt van Noord-Nederland. Tijdens deze twee dagen zijn er 600 bedrijven aanwezig en meer dan 25000 bezoekers. <!--more-->
+Morgen gaan ze weer van start: **de Promotiedagen**! 5 en 6 november bruist Martiniplaza van de activiteit en daar ontbreken wij natuurlijk niet. Samen met meer dan 600 deelnemende bedrijven en dik 25.000 bezoekers horen we in 2 dagen weer alles wat er speelt in Noord-Nederland.
 
-Tijdens de promotiedagen kunt u de verschillende bedrijven ontmoeten op 25 verschillende pleinen. Daarnaast zijn er verschillende workshops, presentaties, colleges, netwerkborrels en meer!
+Wij zijn aanwezig op **standnummer 6038** en wat zou het leuk zijn om elkaar daar te ontmoeten! Naast een bezoekje aan ons kun je jezelf helemaal laten bijpraten over allerlei onderwerpen. Denk aan marketing, (internationaal) ondernemen en nog veel meer thema’s passeren de revue in workshops, presentaties, borrels en debatten.
+
+Zien we je daar?
 
 **Waar**: MartiniPlaza Groningen
-**Wanneer**: 6 & 7 november 2018
 
-### Wilt u ook aanwezig zijn?
-Dan nodigen wij u van harte uit om onze stand te bezoeken, **standnummer 6043**. U kunt via onderstaande afbeelding een gratis toegangskaart aanvragen. Het gaan twee mooie dagen worden en hopelijk zie ik u daar!
+**Wanneer**: 5 & 6 november 2019
+
+### Gratis toegangskaarten?
+
+Dat kunnen we voor je regelen! Klik op onderstaande banner en vraag ze aan. En niet vergeten even langs **stand 6038** te lopen. 
 
 <a href="https://www.promotiedagen.nl/toegangskaart/callvoiptelefonie/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1556647042/emailbanner1.png" alt="promotiedagen" /></a>
