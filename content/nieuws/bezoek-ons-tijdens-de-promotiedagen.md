@@ -3,7 +3,7 @@ title: Bezoek ons tijdens de Promotiedagen!
 author: Milan Littooy
 type: post
 date: 2019-11-04T23:00:00+00:00
-url: "/bezoek-ons-tijdens-de-promotiedagen/"
+url: "/bezoek-ons-tijdens-de-promotiedagen2019/"
 contactpersoon:
 - 9358
 categories:
