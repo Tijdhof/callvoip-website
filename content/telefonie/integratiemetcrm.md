@@ -2,7 +2,7 @@
 title: Integratie met uw CRM-pakket (VoIP CTI)
 type: page
 layout: default
-aliases: '/cti'
+aliases: "/cti"
 logos: false
 hero:
   title: VoIP CTI
@@ -13,6 +13,7 @@ hero:
     link: "/calculator"
   image: "/v1565001373/Callvoip-website-voipctisimmpl_cyzmc3.png"
   image_position: center
+  disable_image_on_mobile: false
 blocks:
 - content: |-
     <br> Voor VoIP CTI heeft u nodig:
@@ -41,7 +42,8 @@ blocks:
     dan de click-to-dial.\n\nWilt u nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
     API</a> van de Simmpl-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
-    die de kunst van programmeren verstaan én de Simmpl API kennen. "
+    die de kunst van programmeren verstaan én de Simmpl API kennen. \n\n<a href=\"/ondersteuning/integraties/voip-cti-handleiding/\"
+    class=\"button\">Hoe werkt het?</a>"
   position: image_right
   image_position: center
 usps:
@@ -81,6 +83,7 @@ prijzen:
       price: '150.00'
     title: Kosten VoIP CTI
 hideinsearch: false
+hideingoogle: false
 menu:
   main:
     weight: 3
