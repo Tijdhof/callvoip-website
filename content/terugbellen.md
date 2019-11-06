@@ -4,7 +4,7 @@ slug: terugbellen
 type: page
 hero:
   image: "/v1572604004/Untitled-1_azss5q.png"
-  title: ' '
+  title: ''
   disable_image_on_mobile: false
 description: Bent jij op zoek naar de beste zakelijke telefonie? Wil jij informatie over Hosted VoIP voor jouw sitautie? Laat je gegevens achter en een Callvoip medewerker neemt contact met je op.
 images:
