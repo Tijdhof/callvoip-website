@@ -68,7 +68,7 @@ prijzen:
   content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br>
   button:
     title: Meer informatie
-    link: https://callvoiptelefoniewebsite.netlify.com/ondersteuning/simmpl-functionaliteiten/qaller-plus-app/
+    link: /ondersteuning/simmpl-functionaliteiten/qaller-app/
   tarieven:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
