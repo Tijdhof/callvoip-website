@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 Als klant van Callvoip informeren we je graag dat wij wijzigingen hebben aangebracht in de <a href="https://www.callvoip.nl/voorwaarden/" rel="noopener" target="_blank">Algemene Voorwaarden</a> en de <a href="https://www.callvoip.nl/privacy/" rel="noopener" target="_blank_>_Privacyverklaring</a>. Dit in verband met de Algemene verordening gegevensbescherming (AVG) die per 25 mei geldt.

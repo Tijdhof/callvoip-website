@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 De carnavalstijd breekt weer aan! Voor veel van onze klanten betekent dat: een wijziging in de bereikbaarheid. Geldt dat ook voor u? Hoe stelt u de wijzigingen dan op de telefooncentrale in?

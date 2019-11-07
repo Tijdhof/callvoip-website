@@ -7,7 +7,7 @@ url: "/een-tipje-van-de-sluier/"
 categories:
 - Nieuwsbrieven
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 De komende weken krijgt onze <b>smartphone-app Qaller</b> een revolutionaire update. <br /> Ook de wachtrij (queue) in de Simmpl telefooncentrale krijgt er enkele mooie nieuwe features bij.

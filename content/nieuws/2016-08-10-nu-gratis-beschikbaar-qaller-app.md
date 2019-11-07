@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Updates
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 Met trots presenteren wij onze langverwachte nieuwe app: Qaller!

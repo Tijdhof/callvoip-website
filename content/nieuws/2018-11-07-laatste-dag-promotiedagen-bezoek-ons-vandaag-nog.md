@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Nieuwsbrieven
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 De eerste dag zit er weer op en dus maar één dag te gaan. Verschillende collega’s kon u gisteren begroeten. Het was een geslaagde eerste dag van de Promotiedagen en wij kijken uit naar dag 2. Vanaf 12.00 kunt u ons weer bezoeken op standnummer 6043!<!--more-->

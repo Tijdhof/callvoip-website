@@ -11,68 +11,71 @@
         {{ $currentTitle := .Page.Title }}
         <h5 class="text-2xl  mb-2">Pagina's</h5>
         <ul class="list-reset mb-6">
-            {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "page") }}
-            {{ if ne .Title $currentTitle }}
-              {{ if ne .Params.seo.index "noindex" }}
-              <li>
-                <a href="{{.Permalink}}">{{.Title}}</a>
-              </li>
-              {{ end }}
-            {{ end }}
+          {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "page") }}
+          {{ if ne .Title $currentTitle }}
+          {{ if ne .Params.hideingoogle true }}
+          <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+          </li>
+          {{ end }}
+          {{ end }}
           {{ end }}
         </ul>
 
         <h5 class="text-2xl  mb-2">Formulieren</h5>
         <ul class="list-reset mb-6">
-            {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "formulier") }}
-            {{ if ne .Title $currentTitle }}
-              {{ if ne .Params.index "noindex" }}
-              <li>
-                <a href="{{.Permalink}}">{{.Title}}</a>
-              </li>
-              {{ end }}
-            {{ end }}
+          {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "formulier") }}
+          {{ if ne .Title $currentTitle }}
+          {{ if ne .Params.hideingoogle true }}
+          <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+          </li>
+          {{ end }}
+          {{ end }}
           {{ end }}
         </ul>
 
         <h5 class="text-2xl  mb-2">Nieuws</h5>
         <ul class="list-reset mb-6">
-            {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "post") }}
-            {{ if ne .Title $currentTitle }}
-              {{ if ne .Params.index "noindex" }}
-              <li>
-                <a href="{{.Permalink}}">{{.Title}}</a>
-              </li>
-              {{ end }}
-            {{ end }}
+          {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "post") }}
+          {{ if ne .Title $currentTitle }}
+  
+          {{ if ne .Params.hideingoogle true }}
+          <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+          </li>
           {{ end }}
-          </ul>
+          {{ end }}
+          {{ end }}
+        </ul>
 
-          <h5 class="text-2xl  mb-2">Ondersteuning</h5>
-          <ul class="list-reset mb-6">
-            {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "ondersteuning") }}
-            {{ if ne .Title $currentTitle }}
-              {{ if ne .Params.index "noindex" }}
-                <li>
-                  <a href="{{.Permalink}}">{{.Title}}</a>
-                </li>
-              {{ end }}
-            {{ end }}
+        <h5 class="text-2xl  mb-2">Ondersteuning</h5>
+        <ul class="list-reset mb-6">
+          {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "ondersteuning") }}
+          {{ if ne .Title $currentTitle }}
+  
+          {{ if ne .Params.hideingoogle true }}
+          <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+          </li>
           {{ end }}
-          </ul>
+          {{ end }}
+          {{ end }}
+        </ul>
 
-          <h5 class="text-2xl  mb-2">Testimonials</h5>
-          <ul class="list-reset mb-6">
-            {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "testimonial") }}
-            {{ if ne .Title $currentTitle }}
-              {{ if ne .Params.index "noindex" }}
-              <li>
-                <a href="{{.Permalink}}">{{.Title}}</a>
-              </li>
-              {{ end }}
-            {{ end }}
+        <h5 class="text-2xl  mb-2">Testimonials</h5>
+        <ul class="list-reset mb-6">
+          {{range  (where (where .Site.Pages.ByTitle  "Kind" "page") "Type" "testimonial") }}
+          {{ if ne .Title $currentTitle }}
+  
+          {{ if ne .Params.hideingoogle true }}
+          <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+          </li>
           {{ end }}
-          </ul>
+          {{ end }}
+          {{ end }}
+        </ul>
       </div>
 
       {{- partial "components/share.html" . -}}

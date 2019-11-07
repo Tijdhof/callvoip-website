@@ -13,7 +13,7 @@ contactpersoon: []
 categories: []
 tags: []
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 Met een prachtige online telefooncentrale, een misschien nog wel mooiere roadmap én de uitfasering van ISDN, staat ons veel leuks te wachten dit jaar. Robert en Marieke vertellen u er graag meer over.<!--more-->

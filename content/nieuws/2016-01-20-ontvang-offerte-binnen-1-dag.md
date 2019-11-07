@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Meldingen
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 KPN heeft dan eindelijk maar toch definitief bekend gemaakt te stoppen met het aanbieden van het verouderde ISDN. Het telecombedrijf stopt op <a href="https://www.kpn-wholesale.com/kpn-wholesale/nieuws/laatste-nieuws/end-of-life-wba-adsl_isdn-en-adsl2_isdn-per-1-maart-2020.htm" target="_blank">1 september 2019</a> helemaal met zijn ADSL\_ISDN en ADSL2+\_ISDN dienstverlening. KPN volgt hiermee het voorbeeld van CallvoipTelefonie dat al ruim tien jaar het bellen over internet aanbiedt aan de zakelijke markt.

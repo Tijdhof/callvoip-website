@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Updates
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 _Groningen, 19 juni 2014_ – CallvoipTelefonie lanceert onder de naam Simmpl een nieuwe innovatieve online telefooncentrale voor de zakelijke markt.

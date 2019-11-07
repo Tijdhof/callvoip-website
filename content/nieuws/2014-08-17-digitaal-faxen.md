@@ -9,7 +9,7 @@ contactpersoon:
 categories:
 - Updates
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 Vanaf de Simmpl telefooncentrale kunt u voortaan ook digitaal faxen versturen. Met deze uitbreiding van de fax-functionaliteit is het fysieke faxapparaat met bijbehorende telefoonlijn overbodig geworden. Eerder was het al mogelijk om faxen per email (PDF) te ontvangen. Nu kunt u ook digitaal faxen verzenden.

@@ -13,7 +13,7 @@ footer_block_1:
 categories:
 - Updates
 hideinsearch: true
-hideingoogle: true
+hideingoogle: false
 
 ---
 &#8220;Faxen? Dat is toch iets van vroeger?&#8221;
