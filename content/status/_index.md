@@ -1,7 +1,7 @@
 ---
 title: Status
 hero:
-  image: "/v1566566520/status_nftqin.png"
+  image: "/v1566566520/status_jq3tzw.png"
 items:
 - title: Online telefooncentrale
   status: true
