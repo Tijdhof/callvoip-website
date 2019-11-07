@@ -3,7 +3,7 @@ title: ''
 url: Gratisuitproberen
 type: page
 hero:
-  image: "/v1570097106/PHPQMF1_as5rix.png"
+  image: "/v1570097106/uitproberen_wo3l7p.png"
   title: Gratis uitproberen
   disable_image_on_mobile: true
   link: ''
