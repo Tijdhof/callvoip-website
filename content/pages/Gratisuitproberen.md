@@ -19,7 +19,6 @@ textblocks:
   title2: 'Altijd bereikbaar met de Qaller app'
   content2: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?'
   show_vshape: true
-  top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
 - title: 'Dit is hoe we het gaan doen:'
   content: '<div class="usp-list"><ul><li>Pak
