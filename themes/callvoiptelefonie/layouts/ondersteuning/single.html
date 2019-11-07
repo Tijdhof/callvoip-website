@@ -9,7 +9,7 @@
         <h1 class="text-3xl lg:text-4xl font-normal mb-4 leading-tight">{{ . }}</h1>
         {{ end }}
         {{ with .Content }}
-        <div class="user-content opacity-85 lg:text-lg font-normal leading-loose" id="page-content">
+        <div class="user-content text-grey-medium lg:text-lg font-normal leading-loose" id="page-content">
           {{ . | markdownify }}
         </div>
         <div id="editor"></div>

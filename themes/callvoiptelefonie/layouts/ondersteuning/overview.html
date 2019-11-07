@@ -7,7 +7,7 @@
             <h1 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">{{ . }}</h1>
             {{ end }}
             {{ with .Content }}
-            <div class="user-content opacity-85 lg:text-lg ">
+            <div class="user-content text-grey-medium lg:text-lg ">
               {{ . | markdownify }}
             </div>
             {{ end }}

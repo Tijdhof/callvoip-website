@@ -9,7 +9,7 @@
 
 
       {{ with .Params.contentTop }}
-      <div class="user-content opacity-85 lg:text-lg font-medium leading-loose mb-6 ">
+      <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose mb-6 ">
         {{ . | markdownify }}
       </div>
       {{ end }}
@@ -31,7 +31,7 @@
             <h4 class="text-lg lg:text-xl font-medium">{{.Params.title}}</h4>
 
           </div>
-          <div class="user-content opacity-85 lg:text-lg font-medium leading-loose pt-2 pb-1 px-4">
+          <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose pt-2 pb-1 px-4">
             {{ .Content }}
           </div>
         </div>
@@ -41,7 +41,7 @@
 
 
       {{ with .Params.contentMiddle }}
-      <div class="user-content opacity-85 lg:text-lg font-medium leading-loose mb-6 ">
+      <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose mb-6 ">
         {{ . | markdownify }}
       </div>
       {{ end }}
@@ -67,7 +67,7 @@
       </div>
 
       {{ with .Content }}
-      <div class="user-content opacity-85 lg:text-lg font-medium leading-loose pt-6">
+      <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose pt-6">
         {{ . | markdownify }}
       </div>
       {{ end }}
