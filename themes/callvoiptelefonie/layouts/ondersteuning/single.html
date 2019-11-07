@@ -22,12 +22,13 @@
       <div class="md:px-4 w-full md:w-1/3 md:-mt-16 pt-12 md:pt-0">
 
 
-          <div class="pt-8 lg:pt-24 hidden md:block sticky top-0 z-20">
+          <div class="pt-8 lg:pt-24 hidden md:block sticky top-0 z-20" id="page-summary-wrap">
             <div class="mb-8 bg-grey-lightest rounded-lg py-8 px-6 shadow ">
               <h4 class="text-lg lg:text-2xl font-normal mb-2">Inhoudsopgave</h4>
               <div id="page-summary"></div>
             </div>
           </div>
+
           <div class="mb-8">
           {{ with .Params.pdf }}
             <a href="{{ . }}" target="_blank" class="button xl:text-lg font-normal mb-4" download><i class="fal fa-file-pdf text-2xl mr-2"></i> Download als PDF</a>

@@ -291,14 +291,20 @@ function pageSummary() {
 
   if(!document.getElementById('page-content')) return;
   if(!document.getElementById('page-summary')) return;
+  if(!document.getElementById('page-summary-wrap')) return;
 
   const pageContent = document.getElementById('page-content');
   const pageSummary = document.getElementById('page-summary');
+  const pageSummaryWrap = document.getElementById('page-summary-wrap');
 
   const elements = pageContent.querySelectorAll('h2, h3');
   const summaryElements = [];
 
-  console.log('elements', elements)
+
+  if(elements.length === 0) {
+    pageSummaryWrap.classList.remove('md:block')
+    return;
+  }
 
   elements.forEach( function(element) {
     const id = element.outerText.replace(/\s+/g, '-').toLowerCase();
@@ -313,7 +319,6 @@ function pageSummary() {
 
   })
 
-  console.log('summeryelements', summaryElements)
 
   if(!summaryElements) return;
 
