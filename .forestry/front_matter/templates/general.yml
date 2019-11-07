@@ -14,6 +14,9 @@ fields:
 - type: boolean
   name: hideingoogle
   label: Hide in Google
+- type: boolean
+  name: hidesocialshare
+  label: Hide Social Share options
 - type: field_group
   name: clients
   label: Clients

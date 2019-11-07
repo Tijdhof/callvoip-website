@@ -10,6 +10,9 @@ fields:
   label: type
   hidden: true
   default: testimonial
+- type: boolean
+  name: hidesocialshare
+  label: Hide Social Share options
 - type: field_group
   name: hero
   label: hero

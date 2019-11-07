@@ -28,6 +28,9 @@ fields:
   name: hideingoogle
   label: Hide in Google
 - type: boolean
+  name: hidesocialshare
+  label: Hide Social Share options
+- type: boolean
   name: Nieuw
   label: nieuw
 - type: boolean

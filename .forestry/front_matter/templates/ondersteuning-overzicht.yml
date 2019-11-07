@@ -27,6 +27,9 @@ fields:
 - type: boolean
   name: hideingoogle
   label: Hide in Google
+- type: boolean
+  name: hidesocialshare
+  label: Hide Social Share options
 - name: layout
   type: text
   config:

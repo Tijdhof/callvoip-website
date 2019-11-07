@@ -30,6 +30,9 @@ fields:
   name: hideingoogle
   label: Hide in Google
 - type: boolean
+  name: hidesocialshare
+  label: Hide Social Share options
+- type: boolean
   name: logos
   label: logos
 - type: field_group

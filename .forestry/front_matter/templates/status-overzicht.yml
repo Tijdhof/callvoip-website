@@ -5,6 +5,9 @@ fields:
 - type: text
   name: title
   label: title
+- type: boolean
+  name: hidesocialshare
+  label: Hide Social Share options
 - type: textarea
   name: contentTop
   label: Content Top
