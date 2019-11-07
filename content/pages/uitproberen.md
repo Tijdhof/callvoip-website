@@ -3,7 +3,7 @@ title: ''
 url: uitproberen
 type: page
 hero:
-  image: "/v1570097106/header_uitproberen_pw9g8p.png"
+  image: "/v1570097106/uitproberen_wo3l7p.png"
   title: Gratis uitproberen
   disable_image_on_mobile: true
   link: ''
@@ -52,7 +52,6 @@ textblocks:
     ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
-  top_title: Druk met leven, en toch zakelijk alles onder controle?
 blocks:
 - title: Dé modernste Telefooncentrale
   content: |-
