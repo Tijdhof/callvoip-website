@@ -30,7 +30,7 @@ blocks:
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
 intro:
-  title: 'Start met de grand tour? We staan voor je klaar'
+  title: 'Start met de grand tour! Wij staan voor je klaar'
   content: '<div id="aandeslag">
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
