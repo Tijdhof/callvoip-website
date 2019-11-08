@@ -3,7 +3,7 @@ title: ''
 url: Gratisuitproberen
 type: page
 hero:
-  image: "/v1570097106/1900x400_nieuwe_banner_soxohk.png"
+  image: "/v1570097106/gratisuitproberen_xvoc3f.png"
   title: Gratis uitproberen
   disable_image_on_mobile: true
   link: ''
