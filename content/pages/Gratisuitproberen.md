@@ -27,12 +27,8 @@ blocks:
     jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
     ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
-  image_position: center
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
-  image_position: center
-  position: image_right
-  image: ""
 intro:
   title: 'Vul je gegevens in en we gaan direct..'
   content: '<div id="aandeslag">
