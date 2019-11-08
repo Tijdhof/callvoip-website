@@ -193,6 +193,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/oplossingen/branches.md
 - content/telefonie/qaller.md
 - content/telefonie/integratiemetcrm.md
 - content/telefonie/hostedvoip.md
@@ -200,7 +201,6 @@ pages:
 - content/telefonie/bereikbaarheidsmonitor.md
 - content/internet/managed-4g-oplossing.md
 - content/telefonie/clicktodial.md
-- content/oplossingen/branches.md
 - content/internet/glasvezel.md
 - content/internet/kabel.md
 - content/internet/dsl.md

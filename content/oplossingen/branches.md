@@ -84,6 +84,7 @@ logo: ''
 name: ''
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: Branches
@@ -93,3 +94,4 @@ menu:
     post: fa-globe
 
 ---
+Test
