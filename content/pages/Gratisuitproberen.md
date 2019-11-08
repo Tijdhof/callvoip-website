@@ -30,7 +30,6 @@ blocks:
   image_position: center
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
-- title: Direct uitproberen
   image_position: center
   position: image_right
   image: ""
