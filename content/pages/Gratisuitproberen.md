@@ -30,7 +30,7 @@ blocks:
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
 intro:
-  title: 'Alvast bedankt, wij zijn blij met jou. Oprecht'
+  title: 'Alvast bedankt, jij bent slim bezig..'
   content: '<div id="aandeslag">
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
