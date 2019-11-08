@@ -34,9 +34,8 @@ blocks:
   position: image_right
   image: ""
 intro:
-  title: 'Slim zakelijk internet & telefonie regelen...'
+  title: 'Vul je gegevens in en we gaan direct..'
   content: '<div id="aandeslag">
-      <p>Laat je gegevens achter en we gaan direct..</p>
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="proberenformulier" />
