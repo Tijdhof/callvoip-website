@@ -31,6 +31,11 @@ blocks:
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
 - title: Direct uitproberen
+  image_position: center
+  position: image_right
+  image: ""
+intro:
+  title: 'Slim zakelijk internet & telefonie regelen...'
   content: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct..</p>
       <div>
@@ -60,11 +65,6 @@ blocks:
           </form>
       </div>
   </div>'
-  image_position: center
-  position: image_right
-  image: ""
-intro:
-  title: 'Slim zakelijk internet & telefonie regelen...'
  
 
 ---
