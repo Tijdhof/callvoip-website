@@ -13,7 +13,8 @@ let colors = {
   'blue-dark': '#203a83',
   'red': '#ff3131',
   'orange': '#f3a620',
-  'bronze': '#B79C7E'
+  'bronze': '#B79C7E',
+  'amber': '#9f0100'
 }
 
 module.exports = {
