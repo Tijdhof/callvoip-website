@@ -125,7 +125,7 @@ p a:hover {
 }
 
 .user-content p, .user-content ul, .user-content ol {
-  @apply mb-6 text-grey-medium;
+  @apply mb-6 text-grey-dark;
 }
 
 .user-content p:empty {
