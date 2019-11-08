@@ -55,7 +55,7 @@ intro:
                           id="telefoonnummer" name="telefoonnummer"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
-              <p> <button type="submit" class="button button-secondary">Aan de slag</button> </p>
+              <p> <button type="submit" class="button button-secondary">Neem contact met mij op</button> </p>
           </form>
       </div>
   </div>'
