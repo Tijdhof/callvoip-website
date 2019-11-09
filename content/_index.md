@@ -15,7 +15,7 @@ hero:
     link: oplossingen/branches/
     id: cta-mkb
   - icon: fa-tty
-    title: Uitgekiende Vast Mobiel oplossingen
+    title: Uitgekiende Vast Mobiel integratie
     content: Upgrade de smartphone naar volwaardige IP telefoon
     link: telefonie/qaller/
     id: cta-vamos
