@@ -10,7 +10,7 @@ hero:
     link: "/telefonie/hostedvoip"
   items:
   - icon: fa-cloud
-    title: 'Hosted telefonie vanaf :house: 1 tot 100+ :office: gebruikers'
+    title: 'Hosted voip vanaf :house: 1 tot 100+ :office: gebruikers'
     content: Maatwerk op de plank voor elke branche
     link: oplossingen/branches/
     id: cta-mkb
