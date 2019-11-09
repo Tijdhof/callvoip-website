@@ -10,8 +10,8 @@ hero:
     link: "/telefonie/hostedvoip"
   items:
   - icon: fa-cloud
-    title: Maatwerk op de plank voor elke branche
-    content: 'Hosted telefonie vanaf :house: 1 tot 100+ :office: gebruikers'
+    title: 'Hosted telefonie vanaf :house: 1 tot 100+ :office: gebruikers'
+    content: Maatwerk op de plank voor elke branche
     link: oplossingen/branches/
     id: cta-mkb
   - icon: fa-tty
@@ -171,5 +171,6 @@ description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op
 images: []
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 
 ---
