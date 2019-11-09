@@ -16,7 +16,7 @@ hero:
     id: cta-mkb
   - icon: fa-tty
     title: Uitgekiende Vast Mobiel oplossingen
-    content: De smartphone als basis voor het vaste nummer
+    content: Upgrade de smartphone naar volwaardige IP telefoon
     link: telefonie/qaller/
     id: cta-vamos
 intro:
