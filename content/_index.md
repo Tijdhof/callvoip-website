@@ -15,7 +15,7 @@ hero:
     link: oplossingen/branches/
     id: cta-mkb
   - icon: fa-tty
-    title: Overal bereikbaar op het vaste nummer
+    title: Uitgekiende oplossingen voor vast nummer op mobiel
     content: De smartphone als basis voor zakelijke bereikbaarheid
     link: telefonie/qaller/
     id: cta-vamos
