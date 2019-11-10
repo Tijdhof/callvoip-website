@@ -44,9 +44,11 @@ blocks:
   position: image_right
   image_position: ''
 usps:
-  title: Zit u in een andere branche?
-  content: Wij hebben kennis in alle branches, staat uw branche hieronder er niet
-    bij? Neem dan contact met ons op! Wij bespreken graag de mogelijkheden met u.
+  title: Mijn branche staat er niet bij
+  content: Dat is heel goed mogelijk. Dit slechts een greep uit de branches waarin
+    we actief zijn. We leveren telefonie bij de leukste organisaties, variërend van
+    <b>A</b>utobedrijven tot <b>Z</b>orginstellingen. We staan klaar om te laten zien
+    wat wij voor jouw bedrijf kunnen betekenen.
   items:
   - title: ICT
     content: <a href="/oplossingen/branches/ict/" class="button">Bekijk hier de brancheoplossing</a>
