@@ -47,7 +47,8 @@ blocks:
     professionele bereikbaarheid worden persoonlijke meldteksten gebruikt in combinatie
     met een <b>wachtrij</b> en/of <b>keuzemenu</b>. Met slimme schakelaars op het
     toestel of via onze app Qaller kan de bereikbaarheid op elk moment worden aangepast.<BR><BR><a
-    href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier de brancheoplossing</a>
+    href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier onze onze
+    oplossing voor fysiotheariepraktijken</a>
   position: image_right
   image_position: ''
 usps:
