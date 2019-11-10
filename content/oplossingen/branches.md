@@ -74,7 +74,7 @@ usps:
       past bij ons</a>
   - icon: fa-tooth
     content: De juiste boodschap op het juiste moment als patiënten bellen.<BR><BR><a
-      href="/oplossingen/branches/tandarts/" class="button">Optimaliseer mijn bereikbaarheid</a>
+      href="/oplossingen/branches/tandarts/" class="button">Oplossing voor tandartspraktijken</a>
     title: Tandartsprakijk
   - title: Assurantie
     content: <a href="/oplossingen/branches/assurantie/" class="button">Bekijk hier
