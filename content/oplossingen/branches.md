@@ -69,7 +69,7 @@ usps:
       is de oplossing.<BR><BR><a href="/oplossingen/branches/kapsalon/" class="button">Hoe
       werkt slimme bereikbaarheid?</a>
   - icon: fa-ad
-    title: Marketing
+    title: Wij zijn een kei in marketing
     content: Je kunt thuis werken, bij een klant of op kantoor. Flexibiliteit is het
       toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button">Flexibiliteit
       past bij ons</a>
