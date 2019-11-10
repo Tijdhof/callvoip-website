@@ -59,9 +59,9 @@ usps:
     jouw bedrijf kunnen betekenen.
   items:
   - title: Ik werk in de ICT-sector
-    content: Je zult versteld staan van de mogelijkheden die onze hosted voip oplossing
-      biedt.<BR><BR><a href="/oplossingen/branches/ict/" class="button">Bekijk onze
-      oplossing voor de ICT branche</a>
+    content: Je kent hosted telefonie. Toch zul je versteld staan van het gemak van
+      onze hosted voip oplossing.<BR><BR><a href="/oplossingen/branches/ict/" class="button">Onze
+      oplossing voor ICT</a>
     icon: fa-server
   - icon: fa-cut
     title: Ik heb een kapsalon
@@ -70,8 +70,8 @@ usps:
       meer over slimme bereikbaarheid</a>
   - icon: fa-ad
     title: Marketing
-    content: <a href="/oplossingen/branches/marketing/" class="button">Bekijk hier
-      de brancheoplossing</a>
+    content: Je kunt thuis werken, bij een klant of op kantoor. Flexibiliteit is het
+      toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button"></a>
   - icon: fa-tooth
     content: <a href="/oplossingen/branches/tandarts/" class="button">Bekijk hier
       de brancheoplossing</a>
