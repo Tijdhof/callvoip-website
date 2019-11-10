@@ -42,11 +42,12 @@ blocks:
   image_position: ''
 - title: Fysiotherapie
   image: "/v1565858000/fysio_ec1wak.png"
-  content: Binnen een fysiotherapiepraktijk zien we vaak een combinatie van een vast
-    toestel en meerder draadloze DECT toestellen voor de therapeuten.  Voor een professionele
-    bereikbaarheid worden slimme meldteksten gebruikt, samen met afhankelijk van de
-    wensen, een wachtrij en in andere gevallen een keuzemenu of beide.<BR><BR><a href="/oplossingen/branches/fysiotherapie/"
-    class="button">Bekijk hier de brancheoplossing</a>
+  content: Binnen een fysiotherapiepraktijk zien we vaak een configuratie met een
+    vast toestel en meerdere draadloze DECT toestellen voor de therapeuten. Voor een
+    professionele bereikbaarheid worden persoonlijke meldteksten gebruikt in combinatie
+    met een wachtrij en/of keuzemenu. Met slimme schakelaars op het toestel of via
+    onze app Qaller kan de bereikbaarheid op elk moment worden aangepast.<BR><BR><a
+    href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier de brancheoplossing</a>
   position: image_right
   image_position: ''
 usps:
