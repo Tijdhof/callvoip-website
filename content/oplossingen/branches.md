@@ -29,7 +29,7 @@ blocks:
 - title: Makelaardij
   image: "/v1565857411/makelaardij_h9bdwk.png"
   content: |-
-    Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme vast mobiel integratie. Voor het kantoor bieden we efficiënte koppelingen met de software.<BR><BR>
+    Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme vast mobiel integratie. De smartphone wordt hiermee een volwaardig IP toestel waarmee kan worden doorverbonden en het vaste nummer kan worden meegezonden. Voor het kantoor bieden we efficiënte koppelingen met de software.<BR><BR>
     <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk onze oplossing voor makelaars</a>
   position: image_right
   image_position: ''
