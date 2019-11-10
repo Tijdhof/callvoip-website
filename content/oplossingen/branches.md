@@ -22,7 +22,7 @@ blocks:
 - title: Advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
   content: |-
-    We bieden telefonie aan zelfstandige advocaten en aan grotere praktijken met vaak meer dan 20 medewerkers. In elke situatie vormt een professionele bereikbaarheid vaak de basis. Daarnaast staan zaken als veiligheid en de mogelijkheid om elektronisch faxen te kunnen versturen en ontvangen hoog op de lijst met vereiste functionaliteit. Onze oplossing sluit hier naadloos op aan.<BR><BR>
+    We bieden telefonie aan zelfstandige advocaten en aan grotere praktijken met vaak meer dan 20 medewerkers. In elke situatie vormt een professionele bereikbaarheid vaak de basis. Daarnaast staan zaken als veiligheid en de mogelijkheid om elektronisch faxen te kunnen versturen/ontvangen hoog op de lijst met vereiste functionaliteiten. Onze hosted telefonieoplossing sluit hier naadloos op aan.<BR><BR>
     <a href="/oplossingen/branches/advocatuur/" class="button">Bekijk onze oplossing voor advocaten</a>
   position: image_left
   image_position: ''
