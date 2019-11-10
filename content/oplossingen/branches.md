@@ -21,8 +21,12 @@ hero:
 blocks:
 - title: Advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
-  content: <a href="/oplossingen/branches/advocatuur/" class="button">Bekijk hier
-    de brancheoplossing</a>
+  content: "We bieden telefonie aan zelfstandige advocaten en aan grotere praktijken
+    met vaak meer dan 20 medewerkers. In elke situatie vormt een professionele bereikbaarheid
+    vaak de basis. Daarnaast staan zaken als veiligheid en de mogelijkheid om elektronisch
+    faxen te kunnen versturen en ontvangen hoog op de lijst met vereiste functionaliteit.
+    Onze oplossing sluit hier naadloos op aan.<BR> \n<a href=\"/oplossingen/branches/advocatuur/\"
+    class=\"button\">Bekijk hier de brancheoplossing</a>"
   position: image_left
   image_position: ''
 - title: Makelaardij
