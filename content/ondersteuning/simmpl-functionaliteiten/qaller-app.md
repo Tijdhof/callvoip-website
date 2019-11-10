@@ -7,7 +7,8 @@ hideinsearch: false
 Nieuw: false
 Update: true
 pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30.pdf
-draft: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 ***
@@ -18,26 +19,24 @@ draft: false
 
 Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip telefooncentrale. Upgrade Qaller naar Qaller Plus en maak van je smartphone je kantoortelefoon. Hoe bereikbaar wil jíj zijn?
 
-**Qaller is vernieuwd**. Log opnieuw in en wen even aan de nieuwe look én nieuwe mogelijkheden. Hieronder een introductie. Vragen? bel, mail of chat met ons!  
-  
-[English Qaller manual? Click here!](http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30_ENG.pdf "Qaller Smartphone App english manual")
+**Qaller is vernieuwd**. Log opnieuw in en wen even aan de nieuwe look én nieuwe mogelijkheden. Hieronder een introductie. Vragen? bel, mail of chat met ons!
 
-**1. Qaller Plus (beheerders): afstandbediening én telefoonfunctie:**  
-  
+<h3>[English Qaller manual? Click here!](http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30_ENG.pdf "Qaller Smartphone App english manual")</h3>
+
+<h3>**1. Qaller Plus: afstandbediening én telefoon:**</h3>****
+
 ![](https://res.cloudinary.com/callvoip/image/upload/v1570901823/Qaller_plus_admin_wbtab1.jpg)
 
-**2. Qaller (beheerders): afstandbediening zonder telefoonfunctie:**![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/Qaller_admin_xbvvwv.jpg)
+**<h3>2. Qaller: alleen afstandbediening, geen telefoon</h3>**![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/Qaller_admin_xbvvwv.jpg)
 
-<b>Beheer van je bedrijfsnummers met Qaller</b>
-
-Klik op \[bewerk mijn persoonlijk belplan\] en kies het nummer dat je wilt beheren:  
+<b>Beheer van je bedrijfsnummers met Qaller</b>Klik op \[bewerk mijn persoonlijk belplan\] en kies het nummer dat je wilt beheren:  
 TIP: bookmark een belplan door op de ster te klikken; hij blijft dan bovenaan staan.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1568973781/qaller_plus2_nl_em5r6u.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1573415527/Qaller_afstandsbediening_752x412_az8ouz.jpg)
 
-<b>Bedien de Omleidingen / Flow Controls</b>
+<h3><b>Schakel je omleidingen aan en uit</b></h3>
 
-Heb je het nujmemr gevonden? Scroll dan n aar beneden tot je ziet staan: Omleidingen of Flow control. Zet ze via de Qaller app aan of uit.
+Heb je het nummer gevonden? Scroll dan naar beneden tot je ziet staan: **Omleidingen** of **Flow control**. Zet ze via de Qaller app aan of uit.
 
 <b>Welk nummer wilt u meesturen?</b>
 
@@ -45,18 +44,16 @@ Met Multiple Caller ID kun je instellen welke nummers je wilt kunnen meesturen b
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1568974023/qaller_plus3_nl_rsnyyr.png)
 
-<h3>Bellen met de Qaller app via internet WiFi/4G</h3>
+<h3>Bellen met de Qaller Plus app</h3>
 
-Om te bellen, klik op TELEFOONBOEK of op het DIALPAD icoon.
-
-1\. Telefoonboek - klik op één van de categorieën, bv collega’s: hier zie je alle collega’s en hun actuele belstatus terug.
+Om te bellen, klik op TELEFOONBOEK of op het DIALPAD icoon.1. Telefoonboek - klik op één van de categorieën, bv collega’s: hier zie je alle collega’s en hun actuele belstatus terug.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1570967083/doorverbinden_m14bet.jpg)
 
 2\. Dialpad - Klik op de toets met het toetsenbordje (dialpad) om een nummer in te toetsen. Handig: je kunt ook een nummer plakken, bv vanuit whatsapp of internet.  
-Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1569239112/qaller_plus6_nl_lu8nsz.png)
+Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:   
+  
+![](https://res.cloudinary.com/callvoip/image/upload/v1573414896/Qaller_call-controls_652x425_zvygrq.jpg)
 
 3\. Call controls - Tijdens een gesprek heeft u de volgende call controls:
 
@@ -68,3 +65,7 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 * DOORVERBINDEN | TRANSFER: verbind het gesprek door naar een collega
 
 \* _hiervoor dient gespreksopname te zijn ingeschakeld, dit is een dienst met een meerprijs._
+
+<h3>Op Smartphones werkt Qaller Plus?</h3>
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1573416725/Qaller_supported_OS_versions_tabel_1103x624_fp2ntj.jpg)
