@@ -21,19 +21,16 @@ hero:
 blocks:
 - title: Advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
-  content: "We bieden telefonie aan zelfstandige advocaten en aan grotere praktijken
-    met vaak meer dan 20 medewerkers. In elke situatie vormt een professionele bereikbaarheid
-    vaak de basis. Daarnaast staan zaken als veiligheid en de mogelijkheid om elektronisch
-    faxen te kunnen versturen en ontvangen hoog op de lijst met vereiste functionaliteit.
-    Onze oplossing sluit hier naadloos op aan.<BR> \n<a href=\"/oplossingen/branches/advocatuur/\"
-    class=\"button\">Bekijk hier de brancheoplossing</a>"
+  content: |-
+    We bieden telefonie aan zelfstandige advocaten en aan grotere praktijken met vaak meer dan 20 medewerkers. In elke situatie vormt een professionele bereikbaarheid vaak de basis. Daarnaast staan zaken als veiligheid en de mogelijkheid om elektronisch faxen te kunnen versturen en ontvangen hoog op de lijst met vereiste functionaliteit. Onze oplossing sluit hier naadloos op aan.<BR><BR>
+    <a href="/oplossingen/branches/advocatuur/" class="button">Bekijk onze oplossing voor advocaten</a>
   position: image_left
   image_position: ''
 - title: Makelaardij
   image: "/v1565857411/makelaardij_h9bdwk.png"
   content: |-
-    Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme vast mobiel integratie. Voor het kantoor bieden we efficiënte koppelingen met de software.
-    <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk hier de brancheoplossing</a>
+    Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme vast mobiel integratie. Voor het kantoor bieden we efficiënte koppelingen met de software.<BR><BR>
+    <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk onze oplossing voor makelaars</a>
   position: image_right
   image_position: ''
 - title: Recruitment
