@@ -21,7 +21,7 @@ Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip tele
 
 **Qaller is vernieuwd**. Log opnieuw in en wen even aan de nieuwe look én nieuwe mogelijkheden. Hieronder een introductie. Vragen? bel, mail of chat met ons!
 
-<h3>[English Qaller manual? Click here!](http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30_ENG.pdf "Qaller Smartphone App english manual")</h3>
+[English Qaller manual? Click here!](http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30_ENG.pdf "Qaller Smartphone App english manual")
 
 <h3>**1. Qaller Plus: afstandbediening én telefoon:**</h3>****
 
