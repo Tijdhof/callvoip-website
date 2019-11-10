@@ -66,12 +66,13 @@ usps:
   - icon: fa-cut
     title: Ik heb een kapsalon
     content: Bellen en knippen gaat vaak niet tegelijkertijd. Slimme bereikbaarheid
-      is de oplossing.<BR><BR><a href="/oplossingen/branches/kapsalon/" class="button">Ontdek
-      meer over slimme bereikbaarheid</a>
+      is de oplossing.<BR><BR><a href="/oplossingen/branches/kapsalon/" class="button">Hoe
+      werkt slimme bereikbaarheid?</a>
   - icon: fa-ad
     title: Marketing
     content: Je kunt thuis werken, bij een klant of op kantoor. Flexibiliteit is het
-      toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button"></a>
+      toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button">Flexibiliteit
+      past bij ons</a>
   - icon: fa-tooth
     content: <a href="/oplossingen/branches/tandarts/" class="button">Bekijk hier
       de brancheoplossing</a>
