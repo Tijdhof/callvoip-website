@@ -36,8 +36,8 @@ blocks:
 - title: Recruitment
   image: "/v1565857793/recruiter_swtpbu.png"
   content: |-
-    Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we <b>belbundels</b> zodat de maandelijkse kosten voor belverkeer naar vast en mobiel verkeer binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis <b>click to dial app</b> ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek en de naam van de beller direct in beeld.<BR><BR>
-    <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier de brancheoplossing</a>
+    Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we <b>belbundels</b> zodat de maandelijkse kosten voor belverkeer naar vast en mobiel verkeer binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis <b>click to dial app</b> ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek via de browser en de naam van de beller direct in beeld.<BR><BR>
+    <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier onze recruitment oplossing</a>
   position: image_left
   image_position: ''
 - title: Fysiotherapie
