@@ -46,8 +46,8 @@ blocks:
     vast toestel en meerdere draadloze DECT toestellen voor de therapeuten. Voor een
     professionele bereikbaarheid worden persoonlijke meldteksten gebruikt in combinatie
     met een <b>wachtrij</b> en/of <b>keuzemenu</b>. Met slimme schakelaars op het
-    toestel of via onze app Qaller kan de bereikbaarheid op elk moment worden aangepast.<BR><BR><a
-    href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier onze onze
+    toestel of via onze app <b>Qaller</b> kan de bereikbaarheid op elk moment worden
+    aangepast.<BR><BR><a href="/oplossingen/branches/fysiotherapie/" class="button">Onze
     oplossing voor fysiotheariepraktijken</a>
   position: image_right
   image_position: ''
