@@ -31,8 +31,9 @@ blocks:
   image_position: ''
 - title: Makelaardij
   image: "/v1565857411/makelaardij_h9bdwk.png"
-  content: <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk hier
-    de brancheoplossing</a>
+  content: |-
+    Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme vast mobiel integratie. Voor het kantoor bieden we efficiënte koppelingen met de software.
+    <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk hier de brancheoplossing</a>
   position: image_right
   image_position: ''
 - title: Recruitment
