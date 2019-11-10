@@ -52,9 +52,9 @@ blocks:
   image_position: ''
 usps:
   title: Mijn branche staat er niet bij
-  content: Dat is heel goed mogelijk. Dit slechts een greep uit de branches waarin
+  content: Dat is heel goed mogelijk. Dit is slechts een greep uit de branches waarin
     we actief zijn. We leveren telefonie bij de leukste organisaties, variërend van
-    Autobedrijven tot Zorginstellingen. We staan klaar om te laten zien wat wij voor
+    Autobedrijven tot Zorginstellingen. We staan klaar om te laten zien wat we voor
     jouw bedrijf kunnen betekenen.
   items:
   - title: ICT
