@@ -36,7 +36,7 @@ blocks:
 - title: Recruitment
   image: "/v1565857793/recruiter_swtpbu.png"
   content: |-
-    Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we belbundels zodat de maandelijkse kosten voor belverkeer naar vast en mobiel verkeer binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis click to dial app ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek en de naam van de beller direct in beeld.<BR><BR>
+    Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we <b>belbundels</b> zodat de maandelijkse kosten voor belverkeer naar vast en mobiel verkeer binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis <b>click to dial app</b> ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek en de naam van de beller direct in beeld.<BR><BR>
     <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier de brancheoplossing</a>
   position: image_left
   image_position: ''
@@ -45,8 +45,8 @@ blocks:
   content: Binnen een fysiotherapiepraktijk zien we vaak een configuratie met een
     vast toestel en meerdere draadloze DECT toestellen voor de therapeuten. Voor een
     professionele bereikbaarheid worden persoonlijke meldteksten gebruikt in combinatie
-    met een wachtrij en/of keuzemenu. Met slimme schakelaars op het toestel of via
-    onze app Qaller kan de bereikbaarheid op elk moment worden aangepast.<BR><BR><a
+    met een <b>wachtrij</b> en/of <b>keuzemenu</b>. Met slimme schakelaars op het
+    toestel of via onze app Qaller kan de bereikbaarheid op elk moment worden aangepast.<BR><BR><a
     href="/oplossingen/branches/fysiotherapie/" class="button">Bekijk hier de brancheoplossing</a>
   position: image_right
   image_position: ''
