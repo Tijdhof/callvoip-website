@@ -27,7 +27,9 @@ Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip tele
 
 **![](https://res.cloudinary.com/callvoip/image/upload/v1570901823/Qaller_plus_admin_wbtab1.jpg)**
 
-<h3>Qaller: alleen afstandbediening, geen telefoon</h3>![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/Qaller_admin_xbvvwv.jpg)
+<h3>Qaller: alleen afstandbediening, geen telefoon</h3>
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/Qaller_admin_xbvvwv.jpg)
 
 <b>Beheer van je bedrijfsnummers met Qaller</b>Klik op \[bewerk mijn persoonlijk belplan\] en kies het nummer dat je wilt beheren:  
 TIP: bookmark een belplan door op de ster te klikken; hij blijft dan bovenaan staan.
