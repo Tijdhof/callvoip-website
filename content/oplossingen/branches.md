@@ -58,8 +58,10 @@ usps:
     Autobedrijven tot Zorginstellingen. We staan klaar om te laten zien wat we voor
     jouw bedrijf kunnen betekenen.
   items:
-  - title: ICT
-    content: <a href="/oplossingen/branches/ict/" class="button">Bekijk hier de brancheoplossing</a>
+  - title: Ik werk in de ICT-sector
+    content: Je zult versteld staan van de mogelijkheden die onze hosted voip oplossing
+      biedt.<a href="/oplossingen/branches/ict/" class="button">Bekijk onze oplossing
+      voor de ICT branche</a>
     icon: fa-server
   - icon: fa-cut
     title: Kapsalon
