@@ -60,13 +60,14 @@ usps:
   items:
   - title: Ik werk in de ICT-sector
     content: Je zult versteld staan van de mogelijkheden die onze hosted voip oplossing
-      biedt.<a href="/oplossingen/branches/ict/" class="button">Bekijk onze oplossing
-      voor de ICT branche</a>
+      biedt.<BR><BR><a href="/oplossingen/branches/ict/" class="button">Bekijk onze
+      oplossing voor de ICT branche</a>
     icon: fa-server
   - icon: fa-cut
-    title: Kapsalon
-    content: <a href="/oplossingen/branches/kapsalon/" class="button">Bekijk hier
-      de brancheoplossing</a>
+    title: Ik heb een kapsalon
+    content: Bellen en knippen gaat vaak niet tegelijkertijd. Slimme bereikbaarheid
+      is de oplossing.<BR><BR><a href="/oplossingen/branches/kapsalon/" class="button">Ontdek
+      meer over slimme bereikbaarheid</a>
   - icon: fa-ad
     title: Marketing
     content: <a href="/oplossingen/branches/marketing/" class="button">Bekijk hier
