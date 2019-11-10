@@ -23,18 +23,18 @@ Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip tele
 
 [English Qaller manual? Click here!](http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30_ENG.pdf "Qaller Smartphone App english manual")
 
-<h3>**Qaller Plus: afstandbediening én telefoon:**</h3>
+<h3>Qaller Plus: afstandbediening én telefoon:</h3>
 
 **![](https://res.cloudinary.com/callvoip/image/upload/v1570901823/Qaller_plus_admin_wbtab1.jpg)**
 
-**<h3>Qaller: alleen afstandbediening, geen telefoon</h3>**![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/Qaller_admin_xbvvwv.jpg)
+<h3>Qaller: alleen afstandbediening, geen telefoon</h3>![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/Qaller_admin_xbvvwv.jpg)
 
 <b>Beheer van je bedrijfsnummers met Qaller</b>Klik op \[bewerk mijn persoonlijk belplan\] en kies het nummer dat je wilt beheren:  
 TIP: bookmark een belplan door op de ster te klikken; hij blijft dan bovenaan staan.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1573415527/Qaller_afstandsbediening_752x412_az8ouz.jpg)
 
-<h3>**Omleidingen aan en uitschakelen met Qaller**</h3>
+<h3>Omleidingen aan en uitschakelen met Qaller</h3>
 
 Heb je het nummer gevonden? Scroll dan naar beneden tot je ziet staan: **Omleidingen** of **Flow control**. Zet ze via de Qaller app aan of uit.
 
@@ -66,7 +66,7 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 
 \* _hiervoor dient gespreksopname te zijn ingeschakeld, dit is een dienst met een meerprijs._
 
-<h3>**Op welke Smartphones werkt Qaller Plus?**</h3>
+<h3>Op welke Smartphones werkt de Qaller App?</h3>
 
 Hieronder een overzicht van Android en iOS versies en of zij geschikt zijn voor het gebruik van Qaller. 
 
