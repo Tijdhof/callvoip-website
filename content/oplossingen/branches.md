@@ -59,16 +59,15 @@ usps:
     jouw bedrijf kunnen betekenen.
   items:
   - title: Ik werk in de ICT-sector
-    content: Je kent hosted telefonie. Toch zul je versteld staan van het gemak van
-      onze hosted voip oplossing.<BR><BR><a href="/oplossingen/branches/ict/" class="button">Onze
-      oplossing voor ICT</a>
+    content: Je kent hosted telefonie. Toch zul je versteld staan van onze oplossing.<BR><BR><a
+      href="/oplossingen/branches/ict/" class="button">Onze oplossing voor ICT</a>
     icon: fa-server
   - icon: fa-cut
     title: Ik heb een kapsalon
     content: Bellen en knippen gaan vaak niet samen. Slimme bereikbaarheid is de oplossing.<BR><BR><a
       href="/oplossingen/branches/kapsalon/" class="button">Hoe werkt slimme bereikbaarheid?</a>
   - icon: fa-ad
-    title: Wij zijn een kei in marketing
+    title: Voor de toppers in marketing
     content: Je kunt thuis werken, bij een klant of op kantoor. Flexibiliteit is het
       toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button">Flexibiliteit
       past bij ons</a>
