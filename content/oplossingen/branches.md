@@ -77,7 +77,7 @@ usps:
     content: Een rooster aanpassen? Stel eenvoudig de juiste boodschap op het juiste
       moment in.<BR><BR><a href="/oplossingen/branches/tandarts/" class="button">Oplossing
       voor tandartspraktijken</a>
-    title: Tandartsprakijk
+    title: Speciaal voor tandartsen
   - title: Assurantiekantoor
     content: De telefonie en internetverbinding piekfijn in order maar meer verstand
       van verzekeren.<BR><BR><a href="/oplossingen/branches/assurantie/" class="button">Ontdek
