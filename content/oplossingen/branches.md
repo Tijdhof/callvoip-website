@@ -74,11 +74,11 @@ usps:
       toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button">Ja,
       flexibiliteit past bij ons</a>
   - icon: fa-tooth
-    content: Eenvoudig rooster kunnenDe juiste boodschap op het juiste moment als
-      patiënten bellen.<BR><BR><a href="/oplossingen/branches/tandarts/" class="button">Oplossing
+    content: Een rooster aanpassen? Stel eenvoudig de juiste boodschap op het juiste
+      moment in.<BR><BR><a href="/oplossingen/branches/tandarts/" class="button">Oplossing
       voor tandartspraktijken</a>
     title: Tandartsprakijk
-  - title: Assurantie
+  - title: Assurantiekantoor
     content: <a href="/oplossingen/branches/assurantie/" class="button">Bekijk hier
       de brancheoplossing</a>
     icon: fa-abacus
