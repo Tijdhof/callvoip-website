@@ -49,3 +49,10 @@ Door het CRM pakket (doorgaans Simplex of Exquise) met onze telefooncentrale te 
 _“We zijn al jaren heel bij met Callvoip. Ze blijven vernieuwen – zo hebben we nu ook ons CRM pakket kunnen integreren met de telefonie – en verbeteren._  
 _Ook de spoeddienst voor Groningse tandartsen hebben we bij hen ondergebracht en met hun centrale werkt dit hartstikke soepel en bovendien betrouwbaar.”_  
 **- _Jelle Krans,Tandarts Krans_**
+
+
+### Benieuwd naar de mogelijkheden voor uw situatie?
+
+<br>
+
+<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
