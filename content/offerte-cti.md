@@ -11,8 +11,8 @@ description: Bent u op zoek naar de beste zakelijke telefonie? Wilt u een offert
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: ''
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 
 ---
 Ontvang **binnen één werkdag** een vrijblijvende offerte. Als je informatie hebt over de internetverbinding en apparatuur, dan nemen we dat mee in de offerte. We zullen altijd samen kijken naar de mogelijkheden voor internet en apparatuur
