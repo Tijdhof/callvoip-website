@@ -59,8 +59,9 @@ usps:
     jouw bedrijf kunnen betekenen.
   items:
   - title: Ik werk in de ICT-sector
-    content: Je kent hosted telefonie. Toch zul je versteld staan van onze oplossing.<BR><BR><a
-      href="/oplossingen/branches/ict/" class="button">Onze oplossing voor ICT</a>
+    content: Je kent hosted telefonie. Toch zul je versteld staan van de mogelijkheden
+      die we bieden.<BR><BR><a href="/oplossingen/branches/ict/" class="button">Onze
+      oplossing voor de ICT</a>
     icon: fa-server
   - icon: fa-cut
     title: Ik heb een kapsalon
