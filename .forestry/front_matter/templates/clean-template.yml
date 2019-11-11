@@ -49,6 +49,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/oplossingen/Branches/tandartspraktijk.md
 - content/offerte.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/bedank/wijziging-verzonden.md
@@ -80,7 +81,6 @@ pages:
 - content/oplossingen/Branches/kapsalon.md
 - content/oplossingen/Branches/autodealer.md
 - content/oplossingen/Branches/makelaardij.md
-- content/oplossingen/Branches/tandartspraktijk.md
 - content/oplossingen/Branches/assurantie.md
 - content/oplossingen/Branches/fysiotherapie.md
 - content/oplossingen/Branches/recruitment.md

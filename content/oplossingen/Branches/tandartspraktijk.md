@@ -9,50 +9,45 @@ slug: tandarts
 hero:
   image: "/v1560762783/callvoip-website-branches-tandarts.png"
   title: ''
+  disable_image_on_mobile: false
 layout: ''
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Als tandartspraktijk is het belangrijk dat u altijd bereikbaar bent voor uw patiënten. Binnen werktijd moet op drukke momenten de beller worden opgevangen & buiten werktijd moet de beller in contact gebracht worden met de dienstdoende tandarts.
+# Tandartspraktijk
+
+Als tandartspraktijk is het belangrijk dat u altijd bereikbaar bent voor uw patiënten. Binnen werktijd moet op drukke momenten de beller worden opgevangen en buiten werktijd moet de beller bij spoedgevallen in contact gebracht worden met de dienstdoende tandarts.
 
 ### Situatiebeschrijving
 
 De tandarts merkt dat er veel inkomende belletjes gemist worden door de beperking van het aantal lijnen. Deze bellers komen in de voicemail terecht en laten hier vervolgens een bericht achter. Het kost veel tijd om al die voicemails af te luisteren, daarnaast is tijdens het afluisteren meteen weer een toestel bezet.
 
-Ook moest de tandarts elk weekend weer een nieuwe voicemail in te spreken om de dienstdoende tandarts te vermelden en op welk telefoonnummer deze tandarts bereikbaar is.
+Ook moet de tandarts elk weekend weer een nieuwe voicemail inspreken om de dienstdoende tandarts te vermelden en op welk telefoonnummer deze tandarts bereikbaar is.
+
+Bij inkomend telefoonverkeer is het steeds weer zoeken naar de juiste patiëntgegevens in het klantenbestand Simplex of Exquise, wat tijd kost. Bovendien is een foutje zo gemaakt.
 
 ### De oplossing van Callvoip
 
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de tandarts beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet bij de tandarts:
 
-#### Wachtrij
+**Keuzemenu**
 
-{{< layout/columns >}}
+In de welkomsttekst kan direct een aantal keuzes voorgedragen worden, waardoor de patiënt meteen bij de juiste medewerker uitkomt. Indien van toepassing kunnen nieuwe patiënten naar de website doorverwezen worden om zich daar aan te melden. Op deze manier kan de telefoniedruk verlaagd worden.
 
- {{< layout/column2 >}}
+**Wachtrij**
 
-Inkomende belletjes worden opgevangen door een wachtrij. In de wachtrij krijgt de beller eerst een meldtekst gevolgd door een wachtmuziek. Mocht één van de receptietoestellen weer beschikbaar zijn, dan wordt de beller hier op aangeboden.
+Inkomende belletjes worden opgevangen door een wachtrij. In de wachtrij krijgt de beller eerst een meldtekst gevolgd door wachtmuziek. Mocht één van de receptietoestellen weer beschikbaar zijn, dan wordt de beller hier op aangeboden.
 
-#### Openingstijden + weekenddiensten
+**Openingstijden + weekenddiensten**
 
 De tandarts heeft voor het gehele jaar de dienstdoende tandartsen al ingesteld dankzij de tijdsconditie-app.
 
-#### Meldteksten
+**Meldteksten**
 
 Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer wordt vermeld. Deze meldtekst wordt afgespeeld als de desbetreffende tijdsconditie actief is.
 
- {{</ layout/column2 >}}
-
- {{< layout/column2 >}}
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1562335607/callvoip-website-belplan-tijdscondities.png)
-
- {{</ layout/column2 >}}
-
-{{</ layout/columns >}}
-
-### Benieuwd naar de mogelijkheden voor uw situatie?
-
-<br>
-
-<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
+**CRM integratie  
+ **  
+ Door het CRM pakket (doorgaans Simplex of Exquise) met onze telefooncentrale te koppelen krijgt de receptie een pop-up te zien wanneer een patiënt belt. Eén muisklik hierop en direct is de hele klantkaart inzichtelijk. Bovendien kan nu uitgebeld worden door simpelweg op het telefoonnummer te klikken vanuit het CRM pakket. \[>hier naast de tekst een screenshot met voorbeeld van CTI koppeling\]
