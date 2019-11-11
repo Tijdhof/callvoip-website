@@ -85,9 +85,9 @@ usps:
     icon: fa-abacus
   - icon: fa-shopping-cart
     title: Wij hebben een webwinkel
-    content: Efficiënt klantcontact is essentieel. Met een slim keuzemenu komt de
-      klant direct terecht bij de juiste persoon.<a href="/oplossingen/branches/webshop/"
-      class="button">Bekijk hier de E-commerce oplossing</a>
+    content: Met een slim keuzemenu komt de klant direct terecht bij de juiste persoon.<BR><BR><a
+      href="/oplossingen/branches/webshop/" class="button">Bekijk onze E-commerce
+      oplossing</a>
 intro:
   title: ''
   content: ''
