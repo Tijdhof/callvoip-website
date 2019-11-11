@@ -80,7 +80,7 @@ usps:
     title: Speciaal voor tandartsen
   - title: Assurantiekantoor
     content: De telefonie en internetverbinding piekfijn in orde maar meer verstand
-      van verzekeren.<BR><BR><a href="/oplossingen/branches/assurantie/" class="button">Ontdek
+      van verzekeren?<BR><BR><a href="/oplossingen/branches/assurantie/" class="button">Ontdek
       hoe we dit regelen</a>
     icon: fa-abacus
   - icon: fa-shopping-cart
