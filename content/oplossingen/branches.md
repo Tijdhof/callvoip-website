@@ -79,11 +79,12 @@ usps:
       voor tandartspraktijken</a>
     title: Tandartsprakijk
   - title: Assurantiekantoor
-    content: <a href="/oplossingen/branches/assurantie/" class="button">Bekijk hier
-      de brancheoplossing</a>
+    content: De telefonie en internetverbinding piekfijn in order maar meer verstand
+      van verzekeren.<BR><BR><a href="/oplossingen/branches/assurantie/" class="button">Bekijk
+      hoe we dit regelen</a>
     icon: fa-abacus
   - icon: fa-shopping-cart
-    title: Webwinkel
+    title: E-commerce
     content: <a href="/oplossingen/branches/webshop/" class="button">Bekijk hier de
       brancheoplossing</a>
 intro:
