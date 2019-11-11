@@ -32,21 +32,16 @@ Bij inkomend telefoonverkeer is het steeds weer zoeken naar de juiste patiëntge
 Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de tandarts beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet bij de tandarts:
 
 **Keuzemenu**
-
 In de welkomsttekst kan direct een aantal keuzes voorgedragen worden, waardoor de patiënt meteen bij de juiste medewerker uitkomt. Indien van toepassing kunnen nieuwe patiënten naar de website doorverwezen worden om zich daar aan te melden. Op deze manier kan de telefoniedruk verlaagd worden.
 
 **Wachtrij**
-
 Inkomende belletjes worden opgevangen door een wachtrij. In de wachtrij krijgt de beller eerst een meldtekst gevolgd door wachtmuziek. Mocht één van de receptietoestellen weer beschikbaar zijn, dan wordt de beller hier op aangeboden.
 
 **Openingstijden + weekenddiensten**
-
 De tandarts heeft voor het gehele jaar de dienstdoende tandartsen al ingesteld dankzij de tijdsconditie-app.
 
 **Meldteksten**
-
 Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer wordt vermeld. Deze meldtekst wordt afgespeeld als de desbetreffende tijdsconditie actief is.
 
 **CRM integratie**
-
  Door het CRM pakket (doorgaans Simplex of Exquise) met onze telefooncentrale te koppelen krijgt de receptie een pop-up te zien wanneer een patiënt belt. Eén muisklik hierop en direct is de hele klantkaart inzichtelijk. Bovendien kan nu uitgebeld worden door simpelweg op het telefoonnummer te klikken vanuit het CRM pakket. \[>hier naast de tekst een screenshot met voorbeeld van CTI koppeling\]
