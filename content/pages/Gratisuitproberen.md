@@ -2,6 +2,7 @@
 title: ''
 url: Gratisuitproberen
 type: page
+disable_image_on_mobile: true
 aliases: "/promotiedagen"
 hero:
   image: "/v1570097106/gratisuitproberen_gwzdfz.png"
