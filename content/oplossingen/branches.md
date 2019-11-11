@@ -48,7 +48,7 @@ blocks:
     met een <b>wachtrij</b> en/of <b>keuzemenu</b>. Met slimme schakelaars op het
     toestel of via onze app <b>Qaller</b> kan de bereikbaarheid op elk moment worden
     aangepast.<BR><BR><a href="/oplossingen/branches/fysiotherapie/" class="button">Onze
-    oplossing voor fysiotheariepraktijken</a>
+    oplossing voor fysiotherapie</a>
   position: image_right
   image_position: ''
 usps:
@@ -85,8 +85,8 @@ usps:
     icon: fa-abacus
   - icon: fa-shopping-cart
     title: E-commerce
-    content: <a href="/oplossingen/branches/webshop/" class="button">Bekijk hier de
-      brancheoplossing</a>
+    content: Efficiënte <a href="/oplossingen/branches/webshop/" class="button">Bekijk
+      hier de brancheoplossing</a>
 intro:
   title: ''
   content: ''
