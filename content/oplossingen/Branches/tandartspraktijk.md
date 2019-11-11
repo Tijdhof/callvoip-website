@@ -44,4 +44,5 @@ De tandarts heeft voor het gehele jaar de dienstdoende tandartsen al ingesteld d
 Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer wordt vermeld. Deze meldtekst wordt afgespeeld als de desbetreffende tijdsconditie actief is.
 
 **CRM integratie**
- Door het CRM pakket (doorgaans Simplex of Exquise) met onze telefooncentrale te koppelen krijgt de receptie een pop-up te zien wanneer een patiënt belt. Eén muisklik hierop en direct is de hele klantkaart inzichtelijk. Bovendien kan nu uitgebeld worden door simpelweg op het telefoonnummer te klikken vanuit het CRM pakket.
+
+Door het CRM pakket (doorgaans Simplex of Exquise) met onze telefooncentrale te koppelen krijgt de receptie een pop-up te zien wanneer een patiënt belt. Eén muisklik hierop en direct is de hele klantkaart inzichtelijk. Bovendien kan nu uitgebeld worden door simpelweg op het telefoonnummer te klikken vanuit het CRM pakket.
