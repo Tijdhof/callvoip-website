@@ -73,8 +73,9 @@ usps:
       toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button">Flexibiliteit
       past bij ons</a>
   - icon: fa-tooth
-    content: De juiste boodschap op het juiste moment als patiënten bellen.<BR><BR><a
-      href="/oplossingen/branches/tandarts/" class="button">Oplossing voor tandartspraktijken</a>
+    content: 'Eenvoudig roosters kunnen aanpassen: de juiste boodschap op het juiste
+      moment.<BR><BR><a href="/oplossingen/branches/tandarts/" class="button">Oplossing
+      voor tandartspraktijken</a>'
     title: Tandartsprakijk
   - title: Assurantie
     content: <a href="/oplossingen/branches/assurantie/" class="button">Bekijk hier
