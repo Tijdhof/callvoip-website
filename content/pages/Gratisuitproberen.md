@@ -2,7 +2,6 @@
 title: ''
 url: Gratisuitproberen
 type: page
-disable_image_on_mobile: true
 aliases: "/promotiedagen"
 hero:
   image: "/v1570097106/gratisuitproberen_gwzdfz.png"
@@ -13,6 +12,7 @@ description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
+disable_image_on_mobile: true
 textblocks:
 - content1: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!'
   title1: 'Zakelijke telefonie, veilig in de cloud'
