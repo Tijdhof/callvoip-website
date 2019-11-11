@@ -1,6 +1,7 @@
 ---
 type: page
 title: Tandartspraktijk
+aliases: "/tandarts"
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor uw tandartspraktijk.
 images:
@@ -16,8 +17,6 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-# Tandartspraktijk
-
 Als tandartspraktijk is het belangrijk dat u altijd bereikbaar bent voor uw patiënten. Binnen werktijd moet op drukke momenten de beller worden opgevangen en buiten werktijd moet de beller bij spoedgevallen in contact gebracht worden met de dienstdoende tandarts.
 
 ### Situatiebeschrijving
@@ -48,6 +47,6 @@ De tandarts heeft voor het gehele jaar de dienstdoende tandartsen al ingesteld d
 
 Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer wordt vermeld. Deze meldtekst wordt afgespeeld als de desbetreffende tijdsconditie actief is.
 
-**CRM integratie  
- **  
+**CRM integratie**
+
  Door het CRM pakket (doorgaans Simplex of Exquise) met onze telefooncentrale te koppelen krijgt de receptie een pop-up te zien wanneer een patiënt belt. Eén muisklik hierop en direct is de hele klantkaart inzichtelijk. Bovendien kan nu uitgebeld worden door simpelweg op het telefoonnummer te klikken vanuit het CRM pakket. \[>hier naast de tekst een screenshot met voorbeeld van CTI koppeling\]
