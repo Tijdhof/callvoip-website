@@ -33,7 +33,7 @@ blocks:
     <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk onze oplossing voor makelaars</a>
   position: image_right
   image_position: ''
-- title: Recruitment
+- title: Slimme integratie voor recruitment
   image: "/v1565857793/recruiter_swtpbu.png"
   content: |-
     Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we <b>belbundels</b> zodat de maandelijkse kosten voor belverkeer naar vast en mobiel binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis <b>click to dial app</b> ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek via de browser en de naam van de beller direct in beeld.<BR><BR>
