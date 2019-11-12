@@ -5,12 +5,13 @@ layout: default
 logos: true
 aliases: "/qaller"
 hero:
-  title: Slimme smartphone app
-  content: Met onze gratis smartphone app Qaller kun je de telefooncentrale eenvoudig
-    zelf bedienen. Even niet bereikbaar? Met één klik stel je in Qaller een doorschakeling
-    of meldtekst in. <BR><BR>Met de betaalde Plus variant fungeert jouw smartphone
-    als volwaardig kantoortoestel. Je kunt bellen en gebeld worden op het vaste telefoonnummer,
-    ziet of collega's in gesprek zijn en zelfs doorverbinden is mogelijk.
+  title: De slimme smartphone app
+  content: Met onze gratis smartphone app <b>Qaller</b> kun je de telefooncentrale
+    eenvoudig zelf bedienen. Even niet bereikbaar? Met één klik stel je in Qaller
+    een doorschakeling of meldtekst in. <BR><BR>Met de betaalde <b>Plus variant</b>
+    fungeert jouw smartphone als volwaardig kantoortoestel. Je kunt bellen en gebeld
+    worden op het vaste telefoonnummer, ziet of collega's in gesprek zijn en zelfs
+    doorverbinden is mogelijk.
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   image_position: center
   disable_image_on_mobile: false
@@ -23,7 +24,7 @@ blocks:
     <a target="_blank" href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/qaller_uitleg_pijltjes_cmzthl.png"
   position: image_left
-  title: De slimme afstandsbediening
+  title: 'Qaller: de slimme afstandsbediening'
   image_position: center
 - content: |-
     Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken worden ontvangen op het zakelijke vaste nummer. Hiermee kan elke smartphone worden ingezet als volwaardig kantoortoestel.<BR> De prijs van <B>Qaller Plus</B> is gelijk aan de <B>prijs van een toestelaccount</B>.
@@ -68,7 +69,7 @@ prijzen:
   content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br>
   button:
     title: Meer informatie
-    link: /ondersteuning/simmpl-functionaliteiten/qaller-app/
+    link: "/ondersteuning/simmpl-functionaliteiten/qaller-app/"
   tarieven:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
@@ -96,5 +97,6 @@ description: Met Qaller ben je inkomend bereikbaar op- en belt u uit met het zak
 images: []
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 
 ---
