@@ -19,7 +19,7 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: De belangrijkste basis bij ons is het belplan, hiermee bepaal je hoe en
+- content: Een belangrijke basis bij ons is het belplan, hiermee bepaal je hoe en
     wanneer je bereikbaar bent. Dit belplan is zo ontwikkeld dat iedereen dit zelf
     eenvoudig kan samenstellen. Uiteraard staan we voor je klaar voor handige tips
     en ondersteuning.<BR><BR> Met een simpele drag and drop kunnen alle bouwstenen
@@ -28,7 +28,7 @@ blocks:
     Bouw zelf in onze <a href="https://files.callvoip.nl/">live demo</a>.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_left
-  title: Bepaal je eigen bereikbaarheid
+  title: Bepaal je eigen bereikbaarheid via drag and drop
   image_position: ''
 - content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
     vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste

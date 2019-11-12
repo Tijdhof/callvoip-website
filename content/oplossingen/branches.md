@@ -19,7 +19,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- title: Advocatuur
+- title: Hosted telefonie voor de advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
   content: |-
     We bieden telefonie aan zelfstandige advocaten en aan grotere praktijken met vaak meer dan 20 medewerkers. In elke situatie vormt een professionele bereikbaarheid vaak de basis. Daarnaast staan zaken als <b>veiligheid</b> en de mogelijkheid om <b>elektronisch faxen</b> te kunnen versturen/ontvangen hoog op de lijst met vereiste functionaliteiten. Onze hosted telefonieoplossing sluit hier naadloos op aan.<BR><BR>
@@ -40,7 +40,7 @@ blocks:
     <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier onze recruitment oplossing</a>
   position: image_left
   image_position: ''
-- title: Fysiotherapie
+- title: Hosted VoIP voor Fysiotherapie
   image: "/v1565858000/fysio_ec1wak.png"
   content: Binnen een fysiotherapiepraktijk zien we vaak een configuratie met een
     vast toestel en meerdere draadloze DECT toestellen voor de therapeuten. Voor een
