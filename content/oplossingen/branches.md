@@ -40,7 +40,7 @@ blocks:
     <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier onze recruitment oplossing</a>
   position: image_left
   image_position: ''
-- title: Hosted VoIP voor Fysiotherapie
+- title: Hosted VoIP voor fysiotherapie
   image: "/v1565858000/fysio_ec1wak.png"
   content: Binnen een fysiotherapiepraktijk zien we vaak een configuratie met een
     vast toestel en meerdere draadloze DECT toestellen voor de therapeuten. Voor een
