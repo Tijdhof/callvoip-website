@@ -32,7 +32,7 @@ blocks:
     <a target="_blank" href="https://www.callvoip.nl/calculator/" class="button">Wat kost dat?</a>
   image: "/v1572860986/mock_up_phone_oneplus_tckuxa.png"
   position: ''
-  title: De smartphone als kantoortoestel
+  title: 'Qaller Plus: de smartphone als kantoortoestel'
   image_position: ''
 usps:
   title: De belangrijkste kenmerken van Qaller op een rij
