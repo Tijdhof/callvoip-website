@@ -36,7 +36,7 @@ blocks:
     of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
-  title: Slimme smartphone upgrade
+  title: Upgrade je smartphone naar IP toestel
   image_position: center
 usps:
   title: Veelgestelde vragen over VoIP
@@ -151,6 +151,7 @@ description: Ontdek de volgende fase in hosted voip. Slim bereikbaar vanuit de c
 images: []
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     weight: 1
