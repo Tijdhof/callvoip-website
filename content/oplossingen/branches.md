@@ -26,7 +26,7 @@ blocks:
     <a href="/oplossingen/branches/advocatuur/" class="button">Ontdek onze oplossing voor advocaten</a>
   position: image_left
   image_position: ''
-- title: Makelaardij
+- title: VaMo oplossing voor de makelaardij
   image: "/v1565857411/makelaardij_h9bdwk.png"
   content: |-
     Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme <b>vast mobiel integratie</b>. De smartphone wordt hiermee een volwaardig IP toestel waarmee kan worden doorverbonden en het vaste nummer kan worden meegezonden. Voor het kantoor bieden we <b>efficiënte koppelingen</b> met de software.<BR><BR>
