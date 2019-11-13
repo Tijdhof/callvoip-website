@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Gratis uitproberen'
 url: uitproberen
 type: page
 hero:
