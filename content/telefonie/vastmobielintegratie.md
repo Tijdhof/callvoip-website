@@ -28,10 +28,11 @@ blocks:
   position: image_left
   title: Het vast-mobiel landschap
   image_position: center
-- content: Met Qaller Plus wordt vast mobiel integratie wel heel eenvoudig. Inmiddels
-    is deze app op ruim 1.000 smartphones geïnstalleerd. In sommige gevallen wordt
-    Qaller Plus gebruikt als vervanger van een vast toestel, in andere gevallen als
-    extra toestel voor onderweg. Meer informatie over Qaller Plus vind je <a href="/telefonie/qaller/">hier</a>.
+- content: 'Met Qaller Plus wordt vast mobiel integratie wel heel eenvoudig: met het
+    vaste nummer uitbellen en intern kunnen doorverbinden is erg handig. Inmiddels
+    is deze app op ruim 1.000 smartphones geïnstalleerd. <BR><BR> In sommige gevallen
+    wordt Qaller Plus gebruikt als vervanger van een vast toestel, in andere gevallen
+    als extra toestel voor onderweg. Meer informatie over Qaller Plus vind je <a href="/telefonie/qaller/">hier</a>.'
   image: "/v1572860761/mock_up_phone_oneplus_duxzvn.png"
   position: image_right
   title: 'Qaller Plus: de gulden middenweg'
