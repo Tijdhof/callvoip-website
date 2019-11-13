@@ -34,10 +34,10 @@ blocks:
     - Een mobiel gesprek in de wacht zetten en weer terugnemen
     - Een mobiel gesprek overnemen op uw vaste toestel, of andersom
     - Een mobiel gesprek opnemen als u gespreksopname aan heeft staan
-  image: "/v1565690795/Vamos_mobiel_smsovp.png"
+  image: "/v1572860761/mock_up_phone_oneplus_duxzvn.png"
   position: image_right
-  title: 'Vamos update april 2019:'
-  image_position: ''
+  title: 'Qaller Plus: de gulden middenweg'
+  image_position: center
 usps:
   title: Geniet van een beter telefoongesprek
   content: 'Enkele voordelen van Vast-Mobiel (Vamos) op een rijtje:'
