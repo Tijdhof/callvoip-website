@@ -28,12 +28,10 @@ blocks:
   position: image_left
   title: Het vast-mobiel landschap
   image_position: center
-- content: |-
-    - Telefoonboek met statusindicatie (BLF): zie of collega's vrij of in gesprek zijn
-    - Een mobiel gesprek doorverbinden vanaf uw smartphone naar collega's
-    - Een mobiel gesprek in de wacht zetten en weer terugnemen
-    - Een mobiel gesprek overnemen op uw vaste toestel, of andersom
-    - Een mobiel gesprek opnemen als u gespreksopname aan heeft staan
+- content: Met Qaller Plus wordt vast mobiel integratie wel heel eenvoudig. Inmiddels
+    is deze app op ruim 1.000 smartphones geïnstalleerd. In sommige gevallen wordt
+    Qaller Plus gebruikt als vervanger van een vast toestel, in andere gevallen als
+    extra toestel voor onderweg.
   image: "/v1572860761/mock_up_phone_oneplus_duxzvn.png"
   position: image_right
   title: 'Qaller Plus: de gulden middenweg'
