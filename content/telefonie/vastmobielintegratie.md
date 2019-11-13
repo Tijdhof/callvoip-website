@@ -16,6 +16,7 @@ blocks:
     - bellen gaat via een app<BR>
     + onafhankelijk van de mobiele provider of telefoon<BR>
     + geen doorschakelkosten<BR>
+    + zelf bepalen welk (vaste) nummer wordt meegezonden<BR>
     + doorverbinden van gesprekken is mogelijk<BR>
     + beschikbaarheid van collega's is zichtbaar<BR><BR>Met een <b>Vamos</b> SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<BR>
     - abonnementskosten zijn hoger dan bij Qaller Plus<BR>
@@ -125,6 +126,7 @@ prijzen:
       price: '25.00'
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     weight: 2
