@@ -41,11 +41,11 @@ blocks:
   image_position: center
 usps:
   title: Geniet van een beter telefoongesprek
-  content: 'Enkele voordelen van Vast-Mobiel (Vamos) op een rijtje:'
+  content: De voordelen van vast mobiel integratie
   items:
   - icon: fa-spinner
     title: Bereikbaarheid
-    content: Vergroot de bereikbaarheid van uw organisatie en medewerkers.
+    content: Vergroot de bereikbaarheid van jouw bedrijf en jouw collega's
   - icon: fa-user-lock
     title: Integratie
     content: Uw mobiele telefoon onderdeel van de Simmpl Hosted VoIP oplossing.
