@@ -1,8 +1,6 @@
 ---
 title: '088-nummerblok activatie aanvragen'
 url: "/aanvragen/088-blok-activatie/"
-hideinsearch: true
-hideingoogle: true
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
