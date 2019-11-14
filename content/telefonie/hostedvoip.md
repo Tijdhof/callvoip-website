@@ -28,12 +28,15 @@ blocks:
     Bouw zelf in onze <a href="https://files.callvoip.nl/">live demo</a>.
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_left
-  title: Bepaal je eigen bereikbaarheid via drag and drop
+  title: Bepaal je bereikbaarheid via drag and drop
   image_position: ''
 - content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
     vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
     toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
     of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.'
+  button:
+    content: Offerte aanvragen
+    link: "/offerte"
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
   title: Upgrade je smartphone naar IP toestel
