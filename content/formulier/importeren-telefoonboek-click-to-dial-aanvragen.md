@@ -1,8 +1,6 @@
 ---
 title: Importeren telefoonboek Click-to-Dial aanvragen
 url: "/aanvragen/importeren-telefoonboek-c2d/"
-hideinsearch: true
-hideingoogle: true
 
 ---
 Met onze Click-to-Dial krijgt u er meteen een bedrijfstelefoonboek bij. U kunt uw contacten zelf toevoegen, echter mocht u een (te) grote contactenlijst hebben, dan is het ook mogelijk dat wij deze voor u importeren.
