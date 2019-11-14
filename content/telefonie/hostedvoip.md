@@ -34,13 +34,13 @@ blocks:
     vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
     toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
     of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.'
-  button:
-    content: Offerte aanvragen
-    link: "/offerte"
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
   title: Upgrade je smartphone naar IP toestel
   image_position: center
+  button:
+    content: Offerte aanvragen
+    link: "/offerte"
 usps:
   title: Veelgestelde vragen over VoIP
   content: Callvoip zorgt ervoor dat je bereikbaar bent zoals jij dat wilt. We maken
