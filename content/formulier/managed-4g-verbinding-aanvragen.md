@@ -1,9 +1,6 @@
 ---
 title: Managed 4G verbinding aanvragen
 url: "/aanvragen/managed-4g/"
-hideinsearch: true
-hideingoogle: true
-
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
 
