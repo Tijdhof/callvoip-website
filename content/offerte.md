@@ -13,6 +13,7 @@ images:
 layout: ''
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: true
 
 ---
 Ontvang **binnen één werkdag** een vrijblijvende offerte. Als je informatie hebt over de internetverbinding en apparatuur, dan nemen we dat mee in de offerte. We zullen altijd samen kijken naar de mogelijkheden voor internet en apparatuur
