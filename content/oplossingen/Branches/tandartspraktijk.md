@@ -55,7 +55,7 @@ _Ook de spoeddienst voor Groningse tandartsen hebben we bij hen ondergebracht en
 _“Voor ons als tandartspraktijk is het heel belangrijk dat wij permanent een goede telefoonverbinding hebben en dat er een snelle service is wanneer nodig en dat biedt Callvoip. Wij bevelen Callvoip zeker aan, want ze hebben een **goede service**, zijn behulpzaam en denken altijd met je mee."  
 \-_ **R. Tideman, Tandartspraktijk de Wolvenstraat**
 
-#### Benieuwd naar de mogelijkheden voor uw situatie?
+##### **Benieuwd naar de mogelijkheden voor uw situatie?**
 
 <br>
 
