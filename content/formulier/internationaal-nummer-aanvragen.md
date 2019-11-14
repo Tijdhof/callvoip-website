@@ -27,6 +27,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/input "Straat" >}}
 {{< form/input "Huisnummer" >}}
 {{< form/input "Postcode" >}}
+{{< form/input "Plaatsnaam" >}}
 {{< form/input "Land" >}}
 {{</ form/fieldset >}}
 
