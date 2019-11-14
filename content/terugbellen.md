@@ -12,6 +12,7 @@ images:
 layout: ''
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: true
 
 ---
 Wil jij meer informatie over Hosted VoIP? Laat je gegevens achter en een Callvoip medewerker belt je terug wanneer het jou uitkomt en beantwoordt al je vragen over VoIP m.b.t. jouw situatie.
