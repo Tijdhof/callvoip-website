@@ -44,9 +44,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/option "9" >}}
 {{< form/option "10-blok" >}}
 {{</ form/select >}}
-{{< form/input "Land" >}}
-{{< form/input "Plaats" >}}
-{{< form/input "Netnummer" >}}
+{{< form/input "Land- + netnummer" >}}
 {{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
 
