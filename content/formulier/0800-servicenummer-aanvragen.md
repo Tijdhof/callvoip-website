@@ -1,8 +1,6 @@
 ---
 title: '0800-servicenummer activatie aanvragen'
 url: "/aanvragen/0800-activatie/"
-hideinsearch: true
-hideingoogle: true
 
 ---
 Een 0800-servicenummer is een servicenummer waar mensen u kosteloos op kunnen bellen. Het nummer is in heel Nederland actief. U, de servicenummerhouder, betaalt de kosten voor inkomende gesprekken. De kosten voor het ontvangen van gesprekken worden bij u in rekening gebracht. U kunt het servicenummer rechtstreeks bij de ACM aanvragen en vervolgens laten koppelen aan uw telefooncentrale.
