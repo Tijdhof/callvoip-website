@@ -13,7 +13,7 @@ hero:
     om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
     klaar!
   button:
-    content: Hier wil ik meer over weten
+    content: Liever telefonisch advies?
     link: "/terugbellen"
   image: "/v1565688921/test-home3_xea1m2.png"
   image_position: start
