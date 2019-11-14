@@ -46,12 +46,16 @@ Voor elke tandarts is een aparte meldtekst ingesproken waarin het telefoonnummer
 **CRM integratie**  
 Door het CRM pakket (doorgaans Simplex of Exquise) met onze telefooncentrale te koppelen krijgt de receptie een pop-up te zien wanneer een patiënt belt. Eén muisklik hierop en direct is de hele klantkaart inzichtelijk. Bovendien kan nu uitgebeld worden door simpelweg op het telefoonnummer te klikken vanuit het CRM pakket.
 
+### Onze succesverhalen
+
 _“We zijn al jaren heel bij met Callvoip. Ze blijven vernieuwen – zo hebben we nu ook ons CRM pakket kunnen integreren met de telefonie – en verbeteren._  
 _Ook de spoeddienst voor Groningse tandartsen hebben we bij hen ondergebracht en met hun centrale werkt dit hartstikke soepel en bovendien betrouwbaar.”_  
 **- _Jelle Krans,Tandarts Krans_**
 
+_“Voor ons als tandartspraktijk is het heel belangrijk dat wij permanent een goede telefoonverbinding hebben en dat er een snelle service is wanneer nodig en dat biedt Callvoip. Wij bevelen Callvoip zeker aan, want ze hebben een **goede service**, zijn behulpzaam en denken altijd met je mee."  
+\-_ **R. Tideman, Tandartspraktijk de Wolvenstraat**
 
-### Benieuwd naar de mogelijkheden voor uw situatie?
+#### Benieuwd naar de mogelijkheden voor uw situatie?
 
 <br>
 
