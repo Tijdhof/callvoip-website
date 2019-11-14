@@ -8,10 +8,10 @@ hero:
   title: Callvoip  Hosted VoIP
   content: Hosted VoIP biedt veel voordelen. Flexibiliteit, heldere geluidskwaliteit,
     schaalbaarheid en integratie met software zijn er nog maar een paar.<BR><BR>Callvoip
-    gaat verder. Met Callvoip profiteer je van een ongeëvenaard gebruiksgemak. Een
-    aanpassing kan vaak met 1 druk op de knop worden gerealiseerd. En minstens zo
-    belangrijk, we beschikken over een schat aan ervaring en slimme tips om de bereikbaarheid
-    en uitstraling van onze klanten te optimaliseren.<BR><BR>We staan voor je klaar!
+    gaat verder. Met Callvoip profiteer je van een ongeëvenaard gebruiksgemak. En
+    minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips
+    om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
+    klaar!
   button:
     content: Hier wil ik meer over weten
     link: "/terugbellen"

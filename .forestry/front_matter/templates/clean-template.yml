@@ -49,8 +49,8 @@ fields:
   label: layout
   hidden: true
 pages:
-- content/oplossingen/Branches/tandartspraktijk.md
 - content/offerte.md
+- content/oplossingen/Branches/tandartspraktijk.md
 - content/bedank/offerte-aanvraag-ontvangen.md
 - content/bedank/wijziging-verzonden.md
 - content/bedank/opzegging-verzonden.md
