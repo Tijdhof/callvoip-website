@@ -1,8 +1,6 @@
 ---
 title: '0900-servicenummer activatie aanvragen'
 url: "/aanvragen/0900-activatie/"
-hideinsearch: true
-hideingoogle: true
 
 ---
 Een 0900-servicenummer is een nummer waar mensen u tegen betaling op kunnen bereiken: de beller betaalt een bepaald tarief per minuut of een vast bedrag per gesprek. U kunt zelf een 0900- nummer bij de ACM aanvragen.
