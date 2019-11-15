@@ -26,9 +26,9 @@ social:
 blocks:
   - title: VoIP telefonie
     links:
-      - title: Hosted VoIp
+      - title: Hosted VoIP
         url: /telefonie/hostedvoip/
-      - title: Voip Trunk
+      - title: VoIP Trunk
         url: /oplossingen/trunk/
       - title: Vast mobiel integratie
         url: /telefonie/vastmobielintegratie/
