@@ -22,6 +22,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/aanvragen-nummer.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/serviceplus-aanvragen.md
@@ -34,7 +35,6 @@ pages:
 - content/formulier/0800-servicenummer-aanvragen.md
 - content/formulier/0900-servicenummer-aanvragen.md
 - content/formulier/internationaal-nummer-aanvragen.md
-- content/formulier/aanvragen-nummer.md
 - content/formulier/klantgegevens-wijzigen.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
 - content/formulier/wijziging-verzonden.md

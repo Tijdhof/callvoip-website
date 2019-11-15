@@ -49,6 +49,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/oplossingen/Branches/tandartspraktijk.md
 - content/offerte.md
 - content/bedank/offerte-aanvraag-ontvangen.md
@@ -64,7 +65,6 @@ pages:
 - content/telefonie/Functionaliteiten/prefix.md
 - content/telefonie/Functionaliteiten/voorwaarde-filter.md
 - content/telefonie/Functionaliteiten/e-mail.md
-- content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/oplossingen/Branches/advocatuur.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/telefonie/conference-service.md

@@ -7,10 +7,13 @@ images:
 - "/v1566995669/Wachtrij-app_bp3bak.png"
 slug: wachtrij
 hero:
-  image: "/v1560261248/callvoip-website-wachtrij.png"
+  image: "/v1573818167/wachtrij_qfnwpi.png"
   title: Wachtrij (Queue)
+  disable_image_on_mobile: false
 layout: ''
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 Heeft u veel inkomend verkeer of wenst u een professionele uitstraling? Met een wachtrij kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld begroet met een meldtekst en vervolgens in de wacht gezet. Tijdens deze wachtperiode hoort de beller een toon of wachtmuziek totdat hij/zij zelf aan de beurt is.
