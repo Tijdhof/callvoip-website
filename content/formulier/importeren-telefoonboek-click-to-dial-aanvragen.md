@@ -33,11 +33,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-**_Instructie telefoonboek_**_: 
-Stuurt u ons een Excel-bestand met 2 kolommen.
-1) naam van de relatie. 
-2) telefoonnummer in formaat +31… 
-Wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd in ca 1 week._
+**Instructie telefoonboek**: <br>
+Stuurt u ons een Excel-bestand met 2 kolommen.<br>
+1) naam van de relatie. <br>
+2) telefoonnummer in formaat +31… <br>
+Wij importeren uw telefoonboek in Click-to-Dial, doorlooptijd in ca 1 week.<br>
 
 {{< form/fieldset "Aanvraag importeren telefoonboek" >}}
 
