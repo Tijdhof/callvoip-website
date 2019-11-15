@@ -7,7 +7,7 @@ images:
 - "/v1566995669/Wachtrij-app_bp3bak.png"
 slug: wachtrij
 hero:
-  image: "/v1573818814/wachtrij_x5rgtv.png"
+  image: "/v1573825274/wachtrij_zjtdkz.png"
   title: Wachtrij (Queue)
   disable_image_on_mobile: false
 layout: ''
