@@ -15,7 +15,7 @@ hero:
   button:
     content: Liever telefonisch advies?
     link: "/terugbellen"
-  image: "/v1574085703/hostedvoip_qxqr7s.jpg"
+  image: "/v1574085945/hostedvoip_wna0uu.png"
   image_position: start
   disable_image_on_mobile: false
 blocks:
