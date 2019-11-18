@@ -42,10 +42,10 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
 - content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
-- content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
 - content/ondersteuning/vast-mobiel/vast-mobiel-handleiding.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md

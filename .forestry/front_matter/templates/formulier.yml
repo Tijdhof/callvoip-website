@@ -22,13 +22,13 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/aanvragen-nummer.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/vast-mobiel-vamos-aanvragen.md
 - content/formulier/conference-service-aanvragen.md
-- content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/088-nummerblok-activatie-aanvragen.md
