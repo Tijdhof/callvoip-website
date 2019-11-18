@@ -5,8 +5,7 @@ description: ''
 images: []
 pdf: ''
 hideinsearch: false
-aliases: "/hulp"
-         "/help"
+aliases: "/hulp" "/help"
 Nieuw: false
 Update: false
 
