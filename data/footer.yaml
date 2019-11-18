@@ -30,13 +30,13 @@ blocks:
         url: /telefonie/hostedvoip/
       - title: VoIP Trunk
         url: /oplossingen/trunk/
-      - title: Vast mobiel integratie
+      - title: Vast-mobiel integratie
         url: /telefonie/vastmobielintegratie/
-      - title: Click to Dial
+      - title: Click-to-Dial
         url: /telefonie/clicktodial/
-      - title: Software integratie
+      - title: Software-integratie
         url: /telefonie/integratiemetcrm/
-      - title: VoIP tarieven
+      - title: VoIP-tarieven
         url: /
   - title: Telefoonnummers
     links:
@@ -50,13 +50,13 @@ blocks:
         url: /telefonie/telefoonnummers/
   - title: Internet
     links:
-      - title: DSL
+      - title: Callvoip Business DSL
         url: /internet/dsl/
-      - title: Kabel
+      - title: ZIGGO Kabelinternet
         url: /internet/kabel/
-      - title: Glasvezel
+      - title: Internet via Glasvezel
         url: /internet/glasvezel/
-      - title: 4G
+      - title: Managed 4G internet
         url: /internet/managed-4g-oplossing/
   - title: Callvoip
     links:
@@ -73,5 +73,5 @@ blocks:
       - title: Contact
         url: /contact/
   - title: Contact
-    content: <p class="mb-4">Koldingweg 19-1 <br> 9723 HL Groningen</p><p><a href="tel:+31508200000">050 - 820 00 00</a></p>
+    content: <p class="mb-4">Callvoip <br> Koldingweg 19-1 <br> 9723 HL Groningen</p><p><a href="tel:+31508200000">050 - 820 00 00</a> <br> <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a> </p>
       
