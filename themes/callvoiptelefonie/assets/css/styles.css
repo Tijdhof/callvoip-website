@@ -4,6 +4,9 @@
 
 @import "tailwindcss/utilities";
 
+@import "modules/pricingtable.css";
+
+
 @keyframes shadow-pulse
 {
      0% {
