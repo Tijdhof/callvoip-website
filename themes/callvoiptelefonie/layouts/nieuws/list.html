@@ -26,8 +26,9 @@
             {{ end }}
             {{ end }}
             {{ with .Params.title }}
-            <span class="block font-medium text-lg xxl:text-2xl block mb-2">{{ . | markdownify }}</span>
+            <h2 class="block font-medium text-lg xxl:text-2xl block ">{{ . | markdownify }}</h2>
             {{ end }}
+            <span class="font-medium block mb-3 text-grey-medium">Geplaatst op: {{ .Date.Format "2/1/2006" }}</span>
             {{ with .Params.excerpt }}
               <span class="block lg:text-lg mb-4 lg:mb-8">{{ . }}</span>
             {{ else }}
