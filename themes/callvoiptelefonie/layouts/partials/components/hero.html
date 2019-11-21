@@ -1,6 +1,7 @@
 {{$title := .Title }}
 {{$link := .Params.hero.link }}
 {{$disableImageOnMobile := .Params.hero.disable_image_on_mobile}}
+{{$mobile := .Params.hero.mobile}}
 
 {{ with .Params.hero.image}}
 
@@ -9,8 +10,16 @@
     <a href="{{$link}}">
     {{ end}}
 
-  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive" style="object-fit: cover;" alt="{{$title}}" />
+    {{ if $mobile }}
 
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{$mobile}}" class="h-full w-full cld-responsive block md:hidden" style="object-fit: cover;" alt="{{$title}}" />
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive hidden md:block" style="object-fit: cover;" alt="{{$title}}" />
+  
+  {{ else }}
+  
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive " style="object-fit: cover;" alt="{{$title}}" />
+ 
+      {{ end }}
   {{ if $link }}
       </a>
 

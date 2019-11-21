@@ -30,6 +30,9 @@ fields:
   - type: file
     name: image
     label: image
+  - type: file
+    name: mobile
+    label: Mobile image
   - type: text
     name: link
     label: Link

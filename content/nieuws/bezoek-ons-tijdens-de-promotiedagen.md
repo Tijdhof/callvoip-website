@@ -8,7 +8,11 @@ contactpersoon:
 - 9358
 categories:
 - Evenement
-images: []
+hero:
+    image: /v1572879992/b0476ab8-90c8-4fad-b29c-0d7f465b177d-original_nvwlfz.jpg
+    mobile: /v1572879992/b0476ab8-90c8-4fad-b29c-0d7f465b177d-original_nvwlfz.jpg
+images:
+    - /v1572879992/b0476ab8-90c8-4fad-b29c-0d7f465b177d-original_nvwlfz.jpg
 description: Zien we jou op de Promotiedagen in Groningen?
 hideinsearch: false
 hideingoogle: false

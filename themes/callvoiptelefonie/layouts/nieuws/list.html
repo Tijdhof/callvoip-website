@@ -14,17 +14,26 @@
 
     <div class="md:flex md:flex-wrap md:-mx-2 lg:-mx-4 mb-12 md:mb-0">
         {{ $paginator := .Paginate (where (where .Data.Pages.ByDate.Reverse "Type" "post") "Params.featured" "!=" true  ) 6 }}
+        
         {{ range $paginator.Pages }}
+        {{ $permalink := .Permalink }}
         <div class="md:w-1/2 md:px-2 lg:px-4  mb-6 lg:mb-8">
           <div class="flex flex-col items-start bg-white font-medium min-h-full shadow no-underline py-6 lg:py-12 px-6 lg:px-8 xl:px-10 rounded-lg text-grey-dark">
             <div class="flex-1">
-            {{ $taxo := "categories" }}
-            {{ range .Param $taxo }}
-            {{ $name := . }}
-            {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
-              <a class="block  text-grey-dark no-underline lg:text-lg mb-4 lg:mb-6" href="{{ .Permalink }}">{{ $name }}</a>
-            {{ end }}
-            {{ end }}
+
+        
+           
+              {{ with .Params.images }}
+                {{ range first 1 . }}
+              <div class="mb-4 -pm-6 lg:-mx-8 xl:-mx-10 -mt-6 lg:-mt-12">
+                <a href="{{$permalink}}">
+                    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{ . }}" class="w-full h-64 lg:h-96 object-cover cld-responsive" alt="">
+                  </a>
+                  </div>
+                {{ end }}
+  
+              {{ end }}
+
             {{ with .Params.title }}
             <h2 class="block font-medium text-lg xxl:text-2xl block ">{{ . | markdownify }}</h2>
             {{ end }}
@@ -35,7 +44,16 @@
               <span  class="block lg:text-lg mb-4 lg:mb-8 user-content">{{.Summary | markdownify }}</span>
             {{ end }}
             </div>
-            <a href="{{.Permalink}}" class="button">Lees verder</a>
+            <div class="flex justify-between w-full items-end">
+              <a href="{{.Permalink}}" class="button">Lees verder</a>
+              {{ $taxo := "categories" }}
+              {{ range .Param $taxo }}
+              {{ $name := . }}
+              {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
+                <a class="block  text-grey-dark no-underline  bg-grey-lightest text-sm  p-2 rounded-lg mb-1" href="{{ .Permalink }}">{{ $name }}</a>
+              {{ end }}
+              {{ end }}
+            </div>
           </div>
         </div>
       {{ end }}
