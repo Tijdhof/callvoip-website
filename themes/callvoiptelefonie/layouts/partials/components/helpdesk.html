@@ -3,32 +3,49 @@
 
     <h4 class="text-3xl lg:text-3xl font-normal mb-8 leading-tight  text-white ">Waarmee kunnen we je helpen?</h4>
 
-    <div id="pagesearch">
-      <form action="">
-        <div class="mb-4 max-w-lg mx-auto relative">
-          <input type="text" id="pagesearch" name="pagesearch" placeholder="Type hier uw vraag..."
-            class="w-full border border-grey-light focus:outline-none bg-white rounded-lg px-4 py-4 relative z-30" v-model="filter">
-          <button type="button" class="absolute inset-y-0 right-0 mr-2 flex items-center px-2 text-gray-700">
-            <i class="fal fa-search"></i>
-          </button>
-          <div v-if="filter" class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen overflow-y-scroll" >
+    <div id="pagesearch" v-cloak>
+      <div class="bg-grey-dark pb-4 pt-8 px-4 md:px-8  rounded-lg">
+        <form @submit.prevent="submit" ref="form">
+          <div class="mb-4  mx-auto relative">
+            <input type="text" id="globalsearchinput" name="globalsearch" placeholder="Type uw zoekterm in..."
+              class="w-full border border-grey-light focus:outline-none bg-white rounded-lg px-4 py-4 relative z-30"
+              v-model="filter" autocomplete="off"   @keyup.enter.stop="onEnter(event)">
+            <button type="button" class="absolute inset-y-0 right-0 mr-2 flex items-center px-2 text-gray-700">
+              <i class="fal fa-search"></i>
+            </button>
+            <div v-if="showInlineResults" class="bg-white absolute rounded-b-lg w-full z-20 shadow-lg -mt-2 pt-1 text-left max-h-small-screen overflow-y-scroll" >
+                <div v-for="posts in getPosts" class="border-t border-grey-light py-3">
+                  <h5 class="text-lg lg:text-xl font-medium mb-1 px-4">{{ " {{ posts.title | markdownify }}" }}</h5>
+    
+                  <div v-for="(post, i) in posts.items" class="">
 
-
-            <div v-for="posts in getPosts" class="border-t border-grey-light py-3">
-              <h5 class="text-lg lg:text-xl font-medium mb-1 px-4">{{ " {{ posts.title | markdownify }}" }}</h5>
-
-              <div v-for="(post, i) in posts.items" class="">
-                <a :href='post.uri' :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }" class="block w-full px-4 py-1 font-medium text-grey-medium mb-1 hover:text-blue hover:bg-grey-lightest">
-                {{ " {{ post.title }}" }}
-               </a>
+                    <a :href='post.uri' :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }" class="block w-full px-4 py-1 font-medium text-grey-medium mb-1 hover:text-blue hover:bg-grey-lightest">
+                    {{ " {{ post.title }}" }}
+                   </a>
+                  </div>
+                </div>
               </div>
+          </div>
+        </form>
+      </div>
 
+      <div v-if="!showPageResults" class="mt-8">
+        <div id="results">
+        <h2 class="text-lg lg:text-2xl font-medium mb-4">Zoekresultaten voor {{ " {{ searchQuery }}" }}</h2>
+        <div v-for="posts in getPosts" class="border-t border-grey-light py-3 bg-white">
+            <h5 class="text-lg lg:text-xl font-medium mb-1 px-4">{{ " {{ posts.title | markdownify }}" }}</h5>
+
+            <div v-for="(post, i) in posts.items" class="">
+
+              <a :href='post.uri' :class="{ 'bg-grey-lightest text-blue': i === arrowCounter }" class="block w-full px-4 py-1 font-medium text-grey-medium mb-1 hover:text-blue hover:bg-grey-lightest">
+              {{ " {{ post.title }}" }}
+             </a>
             </div>
           </div>
-        </div>
-      </form>
+        <div v-if="!getPosts.length">Geen resultaten, probeer een andere zoekterm</div>
+      </div>
+      </div>
     </div>
-
 
   </div>
 </div>
@@ -54,10 +71,10 @@
             <i class="fal fa-file mr-2"></i>
             {{ .Title }}
             {{ if .Params.update }}
-              <span class="text-xs bg-orange text-white px-1 py-1 rounded-lg uppercase">Update</span>
+            <span class="text-xs bg-orange text-white px-1 py-1 rounded-lg uppercase">Update</span>
             {{ end }}
             {{ if .Params.nieuw }}
-              <span class="text-xs bg-green text-white px-1 py-1 rounded-lg uppercase">Nieuw</span>
+            <span class="text-xs bg-green text-white px-1 py-1 rounded-lg uppercase">Nieuw</span>
             {{ end }}
           </a>
         </li>
