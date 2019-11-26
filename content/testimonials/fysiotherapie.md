@@ -11,6 +11,5 @@ website: https://www.losmaken.nl/
 hideinsearch: true
 hideingoogle: true
 
-
 ---
-“Wij van Kirchhoff Fysio bellen al sinds 2011 er zijn **erg tevreden** over CallvoipTelefonie. Samengevat kiezen wij voor CallvoipTelefonie als telefonieprovider vanwege: de kosten, de service en de klantgerichtheid."
+“Wij van Kirchhoff Fysio bellen al sinds 2011 en zijn **erg tevreden** over CallvoipTelefonie. Samengevat kiezen wij voor CallvoipTelefonie als telefonieprovider vanwege: de kosten, de service en de klantgerichtheid."
