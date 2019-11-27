@@ -12,6 +12,7 @@ hero:
   image: ''
   link: ''
   disable_image_on_mobile: false
+  mobile: ''
 author: ''
 date: 2019-11-18T23:00:00.000+00:00
 url: 5-mythen-over-voip
@@ -25,9 +26,9 @@ Aan bellen via internet (we noemen dat VoIP, Voice over Internet Protocol) kleve
 
 ### “Als internet eruit ligt, ben ik onbereikbaar.”
 
-In Nederland hebben we de ongelooflijke luxe van betrouwbare internetverbindingen. KPN bijvoorbeeld is volgens de statistieken minstens 99% van de tijd online. In die schaarse 1% van de tijd dat de internetverbinding jou in de steek laat, is de VoIP dienst in de cloud gewoon nog online. Zij kan dus alle telefoontjes gewoon ontvangen en verwerken zoals jij wilt. Stel daarom eenvoudigweg een doorschakeling naar één of meerdere mobiele nummers in (dat kan met een druk op de knop in onze app) en je bereikbaarheid blijft ten alle tijde gegarandeerd.
+In Nederland hebben we de ongelooflijke luxe van betrouwbare internetverbindingen. KPN bijvoorbeeld is volgens de statistieken minstens 99% van de tijd online. In die schaarse 1% van de tijd dat de internetverbinding jou in de steek laat, is de VoIP dienst in de cloud gewoon nog online. Zij kan dus alle telefoontjes gewoon ontvangen en verwerken zoals jij wilt. Stel daarom eenvoudigweg een doorschakeling naar één of meerdere mobiele nummers in (dat kan met een druk op de knop in [onze app](https://www.callvoip.nl/telefonie/qaller/)) en je bereikbaarheid blijft ten alle tijde gegarandeerd.
 
-Omdat internet tegenwoordig noodzakelijk is voor de continuïteit van vrijwel elk bedrijf, kiezen veel organisaties voor een tweede internetverbinding bij een andere provider zodat ze in geval van storing online blijven. Dat kan ook een 4G verbinding zijn om afhankelijkheid van draden weg te nemen. Als je als bedrijf zo’n backup hebt geregeld, is je telefonie dus simpelweg ook altijd bereikbaar.
+Omdat internet tegenwoordig noodzakelijk is voor de continuïteit van vrijwel elk bedrijf, kiezen veel organisaties voor een tweede internetverbinding bij een andere provider zodat ze in geval van storing online blijven. Dat kan ook een [4G verbinding](https://www.callvoip.nl/internet/managed-4g-oplossing/) zijn om afhankelijkheid van draden weg te nemen. Als je als bedrijf zo’n backup hebt geregeld, is je telefonie dus simpelweg ook altijd bereikbaar.
 
 ### “De geluidskwaliteit van VoIP is niet goed.”
 
@@ -37,15 +38,15 @@ Sterker nog: de techniek en internetverbindingen van nu geven de mogelijkheid om
 
 ### “Ik heb maar 1 nummer en een paar toestellen. VoIP is voor mij veel te groots en meeslepend.”
 
-Ja, omdat de techniek niet stilstaat en we alles in een uitgekiende clouddienst verpakken kunnen we de mooiste dingen met telefonie. Honderden nummers, internationaal bereikbaar, noem het maar op. Maar dit is zeker geen voorwaarde om te profiteren van de mogelijkheden.
+Ja, omdat de techniek niet stilstaat en we alles in een [uitgekiende clouddienst](https://www.callvoip.nl/telefonie/hostedvoip/) verpakken kunnen we de mooiste dingen met telefonie. Honderden nummers, internationaal bereikbaar, noem het maar op. Maar dit is zeker geen voorwaarde om te profiteren van de mogelijkheden.
 
-Met een menukaart vol mogelijkheden kun je zelf bepalen wat je gebruikt en in welke mate. Ook voor jou als ZZP-er geeft bellen met een vast nummer een professionele uitstraling, al gebeurt dat lekker makkelijk gewoon op je mobiel. En wij vinden het leuk om dat samen in te vullen. Of je nu die ZZP-er bent of een autogarage met een werkplaats en afdeling verkoop. Of een multinational met een hoge kantoortoren en flexibele werkplekken.
+Met een menukaart vol mogelijkheden kun je zelf bepalen wat je gebruikt en in welke mate. Ook voor een ZZP-er geeft bellen met een vast nummer een professionele uitstraling, al gebeurt dat lekker makkelijk gewoon op je mobiel. En wij vinden het leuk om dat samen in te vullen. Of je nu die ZZP-er bent of een autogarage met een werkplaats en afdeling verkoop. Of een multinational met een hoge kantoortoren en flexibele werkplekken.
 
 ### “Is dat niet ontzettend ingewikkeld, VoIP?”
 
 Jazeker! VoIP is een ontzettend complexe, technische dienst om te maken en in de lucht te houden. Gelukkig hoef jij als klant je daar geen zorgen om te maken, dat doet jouw provider (wij dus ;-)) wel. Wat telt is de bediening en ondersteuning. Een moderne auto is ook een vreselijk ingewikkeld, technisch ding, maar met een rond stuur, een set pedalen en wat knopjes valt dat voor jou, als bestuurder, ineens reuze mee.
 
-Dat principe geldt ook voor VoIP. Wij maken het met onze slimme online centrale gemakkelijk om die complexe techniek voor jou te laten werken. En het Callvoip team zit 1 telefoontje van je af om je te ondersteunen waar nodig.
+Dat principe geldt ook voor VoIP. Wij maken het met onze slimme online centrale gemakkelijk om die complexe techniek voor jou te laten werken. En het Callvoip team zit [1 telefoontje](https://www.callvoip.nl/contact/) van je af om je te ondersteunen waar nodig.
 
 ### “Dan moet ik zeker allemaal nieuwe toestellen gaan kopen?”
 
