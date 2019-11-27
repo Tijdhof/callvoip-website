@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
   mobile: ''
 author: ''
-date: 2019-11-28T23:00:00+00:00
+date: 2019-11-28T23:00:00.000+00:00
 url: 5-mythen-over-voip
 contactpersoon: []
 categories: []
@@ -22,6 +22,8 @@ tags: []
 draft: true
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1574867648/2019-11-27_y1krlg.png)
+
 Aan bellen via internet (we noemen dat VoIP, Voice over Internet Protocol) kleven gek genoeg nog wel wat vooroordelen. Gek? Ja beetje wel, want we vertrouwen anno nu al zoveel toe aan het internet. Waar zitten dan die drempels voor bellen via internet? En zijn ze eigenlijk wel terecht? Wij maakten een overzicht van de meest voorkomende mythen die wij op feestjes en partijen horen en laten je vooral ook zien dat deze vaak niet kloppen.
 
 ### “Als internet eruit ligt, ben ik onbereikbaar.”
