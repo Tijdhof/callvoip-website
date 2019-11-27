@@ -3,5 +3,5 @@ title: Meldingen
 error: false
 
 ---
-**Geen meldingen  
-**De telefoondienst werkt naar behoren. 
+**Geen meldingen**  
+De telefoondienst werkt naar behoren. 
