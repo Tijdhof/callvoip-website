@@ -58,11 +58,11 @@ Daarnaast zijn de belkosten een stuk lager dan op de analoge lijn: voorbeeld: no
 
 Er zijn nog veel meer vragen en vooroordelen te noemen en ze hebben 1 ding gemeen: het antwoord is “Ja, dat kan”.
 
-* Kan ik dan mijn nummer meenemen?
-* Kan ik ook meerdere nummers gebruiken?
+* Kan ik dan [mijn nummer](https://www.callvoip.nl/telefonie/telefoonnummers/) meenemen?
+* Kan ik ook [meerdere nummers](https://www.callvoip.nl/telefonie/telefoonnummers/) gebruiken?
 * Kan ik ook bellen als mijn PC uitstaat?
-* Kan ik ook met mijn mobiel via VoIP bellen?
+* Kan ik ook met [mijn mobiel via VoIP bellen](https://www.callvoip.nl/telefonie/qaller/)?
 * Kan ik mijn ISDN centrale blijven gebruiken?
 * Kan ik met 1 nummer meerdere gesprekken tegelijk voeren?
 
-Wij vinden het leuk om over VoIP te vertellen en nodigen je daarom vooral uit om eens te bellen als je nog meer vragen of vooroordelen hebt.
+Wij vinden het leuk om over VoIP te vertellen en nodigen je daarom vooral uit om [eens te bellen](https://www.callvoip.nl/contact/) als je nog meer vragen of vooroordelen hebt.
