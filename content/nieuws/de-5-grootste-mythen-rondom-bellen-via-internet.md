@@ -3,7 +3,8 @@ type: post
 title: De 5 grootste mythen rondom bellen via internet
 description: Waar zitten dan die drempels voor bellen via internet? En zijn ze eigenlijk
   wel terecht? Wij maakten een overzicht van de meest voorkomende mythen.
-images: []
+images:
+- "/v1574867648/2019-11-27_y1krlg.png"
 featured: true
 hideinsearch: false
 hideingoogle: false
