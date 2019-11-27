@@ -49,6 +49,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- content/telefonie/telefoonnummers.md
 - content/telefonie/Functionaliteiten/wachtrij-queue.md
 - content/oplossingen/Branches/tandartspraktijk.md
 - content/offerte.md
@@ -68,7 +69,6 @@ pages:
 - content/oplossingen/Branches/advocatuur.md
 - content/telefonie/versleutelde-telefoongesprekken-met-srtp.md
 - content/telefonie/conference-service.md
-- content/telefonie/telefoonnummers.md
 - content/telefonie/bedrijfstelefoonboek.md
 - content/telefonie/gesprekskosten.md
 - content/telefonie/Functionaliteiten/keuzemenu-ivr.md
