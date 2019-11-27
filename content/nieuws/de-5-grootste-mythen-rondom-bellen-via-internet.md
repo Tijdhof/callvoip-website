@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
   mobile: ''
 author: ''
-date: 2019-11-18T23:00:00.000+00:00
+date: 2019-11-28T23:00:00+00:00
 url: 5-mythen-over-voip
 contactpersoon: []
 categories: []
