@@ -56,6 +56,9 @@ fields:
   - type: file
     name: image
     label: Image
+  - type: file
+    name: mobile
+    label: Mobile Image
   - name: image_position
     type: select
     default: start

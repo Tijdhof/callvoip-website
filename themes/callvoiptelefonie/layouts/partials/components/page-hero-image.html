@@ -2,6 +2,7 @@
 {{ $title := .Title }}
 {{ $link := .link }}
 {{ $disableImageOnMobile := .hero.disable_image_on_mobile }}
+{{ $mobile := .Params.hero.mobile }}
 
 <div class="bg-grey-lightest clearfix">
   <header class="clearfix ">
@@ -19,11 +20,25 @@
           {{ end }}
         </div>
       </div>
+
+
       {{ with .image }}
-        <a href="{{ $link }} " target="_blank" class="{{ if $disableImageOnMobile }} hidden md:block {{ end }}"> 
-        <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}"
-          class="w-full cld-responsive max-h-screen" style="object-fit: cover;" alt="{{ $title }}" />
+      <div class="{{ if $disableImageOnMobile }} hidden md:block {{ end }}">     
+         {{ if $link}}
+        <a href="{{$link}}"  target="_blank">
+      {{ end}}
+
+      {{ if $mobile }}
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{$mobile}}" class="h-full w-full cld-responsive block md:hidden" style="object-fit: cover;" alt="{{$title}}" />
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="w-full cld-responsive max-h-screen hidden md:block" style="object-fit: cover;" alt="{{$title}}" />
+  {{ else }}
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="w-full cld-responsive max-h-screen" style="object-fit: cover;" alt="{{$title}}" />
+      {{ end }}
+
+          {{ if $link }}
         </a>
+    {{ end }}
+      </div>
       {{ end }}
 
   </header>
