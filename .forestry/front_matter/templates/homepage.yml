@@ -61,6 +61,11 @@ fields:
       type: text
       hidden: false
       default: ''
+    - name: iconimage
+      label: Icon Image
+      type: image
+      hidden: false
+      default: ''
     - name: title
       label: Title
       type: text
@@ -122,6 +127,11 @@ fields:
       type: text
       hidden: false
       default: ''
+    - name: iconimage
+      label: Icon Image
+      type: image
+      hidden: false
+      default: ''
     - name: content
       label: Content
       type: text
@@ -155,6 +165,11 @@ fields:
     - name: icon
       label: Icon
       type: text
+      hidden: false
+      default: ''
+    - name: iconimage
+      label: Icon Image
+      type: image
       hidden: false
       default: ''
     - name: title
@@ -197,6 +212,11 @@ fields:
     - name: icon
       label: Icon
       type: text
+      hidden: false
+      default: ''
+    - name: iconimage
+      label: Icon Image
+      type: image
       hidden: false
       default: ''
     - name: title
