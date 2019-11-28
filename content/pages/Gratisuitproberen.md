@@ -26,7 +26,7 @@ blocks:
     versie van de online centrale...</li><li>... én een gratis testnummer gedurende
     jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
     ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
-    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul> <p> <button type="button" id="triggerFreePopupSmall">Gratis uitproberen</button> </p> </div>'
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
 intro:
