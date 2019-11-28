@@ -14,7 +14,7 @@ hero:
     content: 'Hosted telefonie van :house: 1 tot 100+ :office: gebruikers'
     link: oplossingen/branches/
     id: cta-mkb
-  - icon: fa-tty
+  - iconimage: /icons/qaller-icon.svg
     title: Uitgekiende Vast Mobiel integratie
     content: Upgrade de smartphone naar volwaardige IP telefoon
     link: telefonie/qaller/
