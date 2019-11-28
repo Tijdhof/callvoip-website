@@ -35,7 +35,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Opzeggegevens" >}}
 
-{{< form/fieldset "Mobiel nummer die u wilt opzeggen" >}}
+{{< form/input "Mobiel nummer die u wilt opzeggen" >}}
 
 {{< form/input "Wensdatum opzegging" >}}
 
