@@ -292,11 +292,13 @@ window.addEventListener('scroll', stickyNavigation);
 function freePopup() {
 
   if(!document.getElementById('triggerFreePopup')) return;
+  if(!document.getElementById('triggerFreePopupSmall')) return;
   if(!document.getElementById('freePopup')) return;
   if(!document.getElementById('freePopupBG')) return;
   if(!document.getElementById('closeFreePopup')) return;
   
   const trigger = document.getElementById('triggerFreePopup');
+  const triggerSmall = document.getElementById('triggerFreePopupSmall');
   const freePopup = document.getElementById('freePopup');
   const freePopupBG = document.getElementById('freePopupBG');
   const closeFreePopup = document.getElementById('closeFreePopup');
@@ -305,6 +307,11 @@ function freePopup() {
   localStorage.setItem("oldlocation",location);
 
   trigger.onclick = function(event) {
+    event.preventDefault();
+    freePopup.classList.remove('hidden-popup');
+  }
+  
+  triggerSmall.onclick = function(event) {
     event.preventDefault();
     freePopup.classList.remove('hidden-popup');
   }
