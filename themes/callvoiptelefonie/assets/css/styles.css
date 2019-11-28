@@ -274,3 +274,12 @@ html {
 	border-right: 50vw solid transparent;
 	border-top: 64px solid #ebf2f7;
 }
+
+
+.popupbackground {
+  background: rgba(60, 66, 72, .16);
+}
+
+.hidden-popup {
+  display: none;
+}
