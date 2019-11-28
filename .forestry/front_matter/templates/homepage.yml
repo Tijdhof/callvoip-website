@@ -63,7 +63,7 @@ fields:
       default: ''
     - name: iconimage
       label: Icon Image
-      type: image
+      type: file
       hidden: false
       default: ''
     - name: title
@@ -129,7 +129,7 @@ fields:
       default: ''
     - name: iconimage
       label: Icon Image
-      type: image
+      type: file
       hidden: false
       default: ''
     - name: content
@@ -169,7 +169,7 @@ fields:
       default: ''
     - name: iconimage
       label: Icon Image
-      type: image
+      type: file
       hidden: false
       default: ''
     - name: title
@@ -216,7 +216,7 @@ fields:
       default: ''
     - name: iconimage
       label: Icon Image
-      type: image
+      type: file
       hidden: false
       default: ''
     - name: title
