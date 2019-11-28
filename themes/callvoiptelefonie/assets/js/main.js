@@ -293,10 +293,12 @@ function freePopup() {
 
   if(!document.getElementById('triggerFreePopup')) return;
   if(!document.getElementById('freePopup')) return;
+  if(!document.getElementById('freePopupBG')) return;
   if(!document.getElementById('closeFreePopup')) return;
   
   const trigger = document.getElementById('triggerFreePopup');
   const freePopup = document.getElementById('freePopup');
+  const freePopupBG = document.getElementById('freePopupBG');
   const closeFreePopup = document.getElementById('closeFreePopup');
 
   const location = window.location.href;
@@ -307,9 +309,9 @@ function freePopup() {
     freePopup.classList.remove('hidden-popup');
   }
 
-  // freePopup.onclick = function(event) {
-  //   freePopup.classList.add('hidden-popup');
-  // }
+  freePopupBG.onclick = function(event) {
+    freePopup.classList.add('hidden-popup');
+  }
 
   closeFreePopup.onclick = function(event) {
     freePopup.classList.add('hidden-popup');
