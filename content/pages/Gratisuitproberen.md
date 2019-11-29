@@ -32,13 +32,6 @@ blocks:
   content: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?'
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   position: image_left
-- title: 'Dit is hoe we het gaan doen:'
-  content: '<div class="usp-list"><ul><li>Pak
-    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
-    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
-    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
-    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
-    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
 intro:
   title: 'Start met de grand tour! Wij staan voor je klaar'
   content: '<div id="aandeslag">
