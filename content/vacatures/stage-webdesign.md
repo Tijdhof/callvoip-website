@@ -9,7 +9,7 @@ card:
   content: Hebben we op dit moment geen passen de vacature, maar wil je wel graag
     bij ons komen werken? Stuur ons dan een open sollicitatie!
   link:
-    url: mailto:callvoip@callvoip.nl
+    url: /sollicitatiebrief
     content: Soliciteer nu
 
 ---
