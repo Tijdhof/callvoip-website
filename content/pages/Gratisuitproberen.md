@@ -4,7 +4,7 @@ url: Gratisuitproberen
 type: page
 aliases: "/promotiedagen"
 hero:
-  image: "/v1570097106/uitgekiende_banner2_jftsby.png"
+  image: "/v1570097106/gratisuitproberen_echt_vrijblijvend2_eebeyo.png"
   title: Gratis uitproberen
   mobile: "/v1570097106/mobile_only_ckerz3.png"
   link: ''
@@ -25,12 +25,12 @@ textblocks:
   show_vshape: true
 blocks:
 - title: 'Zakelijke telefonie, veilig in de cloud'
-  content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!<br>
+  content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!<br><br>
   <a href="/telefonie/hostedvoip" class="button">Meer Hosted VoIP</a>'
   position: image_right
   image: "/v1570098498/wolk_pklb2v.png"
 - title: 'Altijd bereikbaar met de Qaller app'
-  content: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?<br>
+  content: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?<br><br>
   <a href="/telefonie/qaller" class="button">Word fan van de Qaller app</a>'
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   position: image_left
