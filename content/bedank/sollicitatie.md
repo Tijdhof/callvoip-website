@@ -3,7 +3,7 @@ type: page
 title: sollicitatie
 description: ''
 images: []
-slug: "/bedank/sollicitatie/"
+url: "/sollicitatie/verzonden/"
 hero:
   image: ''
 layout: ''
