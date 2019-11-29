@@ -30,6 +30,8 @@ blocks:
   image: "/v1570098498/wolk_pklb2v.png"
 - title: 'Altijd bereikbaar met de Qaller app'
   content: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?'
+  image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
+  position: image_right
 - title: 'Dit is hoe we het gaan doen:'
   content: '<div class="usp-list"><ul><li>Pak
     een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
