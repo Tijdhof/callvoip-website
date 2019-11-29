@@ -60,7 +60,7 @@ intro:
       </div>
   </div>'
   
-  intro-top:
+  intro:
   title: Daag ons uit!
   content: "Wedden dat we ook jou fan maken? ontdek het gemak van Callvoip en werk met onze slimme Qaller app. Test onze online centrale
   en grenzeloze dienstverlening daarom gratis 1 week en dan zijn wij erg benieuwd naar jouw ervaring! Geen zorgen: stopt vanzelf na 7
