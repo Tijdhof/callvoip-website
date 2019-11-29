@@ -25,7 +25,9 @@ draft: true
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1574867648/2019-11-27_y1krlg.png)
 
-Aan bellen via internet (we noemen dat VoIP, Voice over Internet Protocol) kleven gek genoeg nog wel wat vooroordelen. Gek? Ja beetje wel, want we vertrouwen anno nu al zoveel toe aan het internet. Waar zitten dan die drempels voor bellen via internet? En zijn ze eigenlijk wel terecht? Wij maakten een overzicht van de meest voorkomende mythen die wij op feestjes en partijen horen en laten je vooral ook zien dat deze vaak niet kloppen.
+Alweer 2 maanden geleden begon ik bij Callvoip en zoals dat gaat bij een nieuwe baan was iedereen in mijn omgeving reuze benieuwd. En al vertellend over wat Callvoip zoal doet komen dan meteen een hoop vragen los. Want wat blijkt: aan bellen via internet (we noemen dat VoIP, Voice over Internet Protocol) kleven gek genoeg nog wel wat vooroordelen. Gek? Ja beetje wel, want we vertrouwen anno nu al zoveel toe aan het internet. Waar zitten dan die drempels voor bellen via internet? En zijn ze eigenlijk wel terecht?
+
+Dus ik tikte een overzicht van de meest voorkomende mythen die ik in die eerste maanden op feestjes en partijen hoorde. En je raadt het al een beetje: nee, ze zijn meestal helemaal niet terecht.
 
 ### “Als internet eruit ligt, ben ik onbereikbaar.”
 
