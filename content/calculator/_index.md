@@ -4,6 +4,7 @@ type: page
 layout: calculator
 hero:
   image: "/v1562160476/callvoip-website-calculator.png"
+  disable_image_on_mobile: false
 outputs:
 - HTML
 - JSON
@@ -17,21 +18,21 @@ basic:
   required: true
 - name: Telefoonnummer
   description: Aantal telefoon- en faxnummers.
-  min: 0
+  min: 
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
 - name: Toestelaccounts
   description: Aantal gebruikers met een vast toestel.
-  min: 0
+  min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Qaller-Plus-accounts
   description: Aantal gebruikers met een mobiele app (Qaller Plus)
-  min: 0
+  min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
@@ -62,7 +63,7 @@ callminutes:
     required: false
 security:
   title: Beveiligd bellen (SRTP)
-  description: De gesprekken zijn versleuteld tussen uw telefoons en de telefooncentrale.
+  description: De gesprekken zijn versleuteld tussen de telefoons en de telefooncentrale.
   items:
   - name: Normaal bellen
     value: 
@@ -80,42 +81,41 @@ options:
     dan eenvoudig uit met:'
   items:
   - name: Wachtrij
-    description: Heeft u veel inkomend telefonieverkeer en wilt u elke beller beantwoorden?
-    min: 0
+    description: Heb je veel inkomend telefonieverkeer en wil je elke beller beantwoorden?
+    min: 
     max: 999
     price_monthly: 4
     price_onetime: 5
     required: false
   - name: Keuzemenu
-    description: Wenst u de beller meteen te begeleiden naar de juiste persoon en/of
-      afdeling?
-    min: 0
+    description: Begeleid de beller meteen naar de juiste persoon en/of afdeling?
+    min: 
     max: 999
     price_monthly: 4
     price_onetime: 5
     required: false
   - name: Faxbox
-    description: Wilt u met één van uw nummers faxen ontvangen en versturen? Kies
+    description: Wil je met één van je nummers faxen ontvangen en versturen? Kies
       dan voor een faxbox!
-    min: 0
+    min: 
     max: 999
     price_monthly: 4
     price_onetime: 5
     required: false
 callrecording:
   title: Gesprekken opnemen
-  description: 'Met gespreksopname neemt u al uw inkomende & uitgaande gesprekken
+  description: 'Met gespreksopname neem je al jouw inkomende & uitgaande gesprekken
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 0
+    min: 
     max: 999
     price_monthly: 5
     price_onetime: 5
     required: false
 crm:
 - name: Koppeling CRM-pakket (aantal gebruikers)
-  min: 0
+  min: 
   max: 999
   price_monthly: 5
   price_onetime: 150
@@ -124,6 +124,7 @@ offerte:
   title: Vrijblijvende offerte ontvangen?
   description: Vul hier onder je gegevens in en ontvang van onze medewerkers een vrijblijvende
     offerte op basis van bovenstaande wensen.
+hidesocialshare: false
 
 ---
 We zitten klaar om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo
