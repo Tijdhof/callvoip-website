@@ -33,6 +33,15 @@ blocks:
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
+- title: 'Dit is hoe we het gaan doen:'
+  content: '<div class="usp-list"><ul><li>Pak
+    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
+    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
+    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
+    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
+  position: image_left
+  image: "/v1570098498/wolk_pklb2v.png"
 intro:
   title: 'Start met de grand tour! Wij staan voor je klaar'
   content: '<div id="aandeslag">
