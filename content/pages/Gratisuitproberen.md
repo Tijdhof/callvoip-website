@@ -4,7 +4,7 @@ url: Gratisuitproberen
 type: page
 aliases: "/promotiedagen"
 hero:
-  image: "/v1570097106/uitproberenbanner_rr8t2j.png"
+  image: "/v1570097106/uitproberenbanner_kn0zto.png"
   title: Gratis uitproberen
   mobile: "/v1570097106/mobile_only_ckerz3.png"
   link: ''
