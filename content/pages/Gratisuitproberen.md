@@ -15,7 +15,9 @@ images:
 layout: landing
 intro_top:
   title: Daag ons uit!
-  content: "Wedden dat we ook jou fan maken?"
+  content: "Wedden dat we ook jou fan maken? Ontdek het gemak van Callvoip en werk met onze slimme Qaller app. Test onze online centrale
+  en grenzeloze dienstverlening daarom gratis 1 week en dan zijn wij erg benieuwd naar jouw ervaring! <br> Geen zorgen: stopt vanzelf na
+  7 dagen, geen kleine lettertjes."
 textblocks:
 - content1: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!'
   title1: 'Zakelijke telefonie, veilig in de cloud'
