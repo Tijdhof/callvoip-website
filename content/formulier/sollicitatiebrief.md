@@ -10,6 +10,7 @@ Denk jij dat Callvoip bij jou past en wil je graag bij ons komen werken of stage
 {{< form/to "vacature">}}
 
 {{< form/fieldset "Sollicitatie" >}}
+
 {{< form/input "Voor- en achternaam" required >}}
 
 {{< form/input "E-mailadres" required >}}
