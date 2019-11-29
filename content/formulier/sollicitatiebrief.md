@@ -9,8 +9,7 @@ Denk jij dat Callvoip jou past en wil je graag bij ons komen werken of stage lop
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
 {{< form/to "vacature">}}
 
-Sollicitatie
-{{< form/fieldset "Voor- en achternaam" required >}}
+{{< form/input "Voor- en achternaam" required >}}
 
 {{< form/input "E-mailadres" required >}}
 
