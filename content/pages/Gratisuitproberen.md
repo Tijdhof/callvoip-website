@@ -24,6 +24,10 @@ textblocks:
   content2: ''
   show_vshape: true
 blocks:
+- title: 'Zakelijke telefonie, veilig in de cloud'
+  content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!'
+- title: 'Altijd bereikbaar met de Qaller app'
+  content: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?'
 - title: 'Dit is hoe we het gaan doen:'
   content: '<div class="usp-list"><ul><li>Pak
     een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
@@ -33,10 +37,6 @@ blocks:
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
   position: image_left
   image: "/v1570098498/wolk_pklb2v.png"
-- title: 'Zakelijke telefonie, veilig in de cloud'
-  content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!'
-- title: 'Altijd bereikbaar met de Qaller app'
-  content: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?'
 intro:
   title: 'Start met de grand tour! Wij staan voor je klaar'
   content: '<div id="aandeslag">
