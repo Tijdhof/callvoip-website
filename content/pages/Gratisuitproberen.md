@@ -6,7 +6,7 @@ aliases: "/promotiedagen"
 hero:
   image: "/v1570097106/uitgekiende_banner2_jftsby.png"
   title: Gratis uitproberen
-  mobile: "/v1570097106/mobile_only_wlxyw6.png"
+  mobile: "/v1570097106/mobile_only_tgv4rq.png"
   link: ''
 description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
   Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
