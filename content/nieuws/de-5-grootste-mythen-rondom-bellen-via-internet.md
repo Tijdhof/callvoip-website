@@ -71,3 +71,5 @@ Er zijn nog veel meer vragen en vooroordelen te noemen en ze hebben 1 ding gemee
 * Kan ik met 1 nummer meerdere gesprekken tegelijk voeren?
 
 Wij vinden het leuk om over VoIP te vertellen en nodigen je daarom vooral uit om [eens te bellen](https://www.callvoip.nl/contact/) als je nog meer vragen of vooroordelen hebt.
+
+_Geschreven door Tim Schouwenaar_
