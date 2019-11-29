@@ -40,11 +40,6 @@ p a:hover {
   @apply bg-blue text-white no-underline;
 }
 
-.button-amber {
-  @apply bg-amber border-amber text-white;
-  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
-}
-
 .button-outline-secondary {
   @apply bg-amber border-amber text-white;
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
