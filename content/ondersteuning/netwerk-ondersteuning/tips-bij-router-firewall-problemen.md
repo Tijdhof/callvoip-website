@@ -8,17 +8,19 @@ hideinsearch: false
 Nieuw: false
 Update: false
 aliases: "/firewall"
+hideingoogle: false
+hidesocialshare: false
 
 ---
-   Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale:  
-   \- UDP **van** alle poorten in bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
-   \- UDP **naar** alle poorten in bereik: 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
-   Afhankelijk van uw situatie:  
-   \- Poort 80 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
-   \- Poort 443 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
-   Gedeeltelijke openstelling van het uitgaande audio-verkeer:  
-   \- 5060 UDP > SIP (signaleringspoort > maakt registratie mogelijk)  
-   \- 10000 - 60000 UDP > RTP (NB: deze instellingen zijn niet meer nodig als u regel 1 en 2 al heeft ingesteld)
+**Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale:**  
+\- UDP **van** alle poorten in bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
+\- UDP **naar** alle poorten in bereik: 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
+Afhankelijk van uw situatie:  
+\- Poort 80 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
+\- Poort 443 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
+Gedeeltelijke openstelling van het uitgaande audio-verkeer:  
+\- 5060 UDP > SIP (signaleringspoort > maakt registratie mogelijk)  
+\- 10000 - 60000 UDP > RTP (NB: deze instellingen zijn niet meer nodig als u regel 1 en 2 al heeft ingesteld)
 
 U maakt gebruik van internettelefonie van Callvoip via de Simmpl telefooncentrale en u ervaart problemen met uw telefoons. Vervelend! Met deze ondersteuningspagina hopen wij u te kunnen assisteren bij het vinden van de oorzaak en het wegnemen ervan.
 
