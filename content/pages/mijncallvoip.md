@@ -31,8 +31,8 @@ usps:
     items:
     - title: Callvoip Business DSL
       link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
-    - title: Glasvezel (via Callvoip)
-      link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    - title: Callvoip FTTH Glasvezel
+      link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
     - title: Managed 4G-oplossing
       link: "/aanvragen/managed-4g/"
     - title: Ziggo Zakelijk Internet - PDF
@@ -64,8 +64,8 @@ usps:
     - title: Gidsvermelding
       link: "/aanvragen/gidsvermelding/"
 - title: Wijzigen
-  content: Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Zo
-    kunt u uw gidsvermelding en uw klantgegevens wijzigen.
+  content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
+    Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
   items:
   - title: Algemeen
     items:
@@ -80,8 +80,8 @@ usps:
     - title: Rekeningnummer
       link: "/wijzigen/rekeningnummer/"
 - title: Opzeggen
-  content: Als bestaande klant van Callvoip kunt u altijd diensten opzeggen. Kies
-    hieronder wat u wilt opzeggen en wij zullen uw wijzigingen maandelijks doorvoeren.
+  content: 'Wil je één van de diensten beeïndigen? Kies rechts de dienst die je wilt
+    opzeggen en wij zullen de opzegging verwerken en bevestigen. '
   items:
   - title: Nummers
     items:
