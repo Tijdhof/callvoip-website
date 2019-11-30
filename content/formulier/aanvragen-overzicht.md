@@ -69,7 +69,7 @@ hidesocialshare: false
 [CallvoipDSL](https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf "Callvoip Business DSL")
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
-[Glasvezel (via Callvoip)](https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
+[Glasvezel (via Callvoip)](https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf)
 {{</ layout/column2 >}}
 {{</ layout/columns >}}
 
