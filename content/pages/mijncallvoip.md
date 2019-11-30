@@ -29,8 +29,8 @@ usps:
       link: "/aanvragen/splitsing-10-blok/"
   - title: Internet
     items:
-    - title: CallvoipDSL
-      link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
+    - title: Callvoip Business DSL
+      link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
     - title: Glasvezel (via Callvoip)
       link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
     - title: Managed 4G-oplossing
@@ -115,6 +115,6 @@ menu:
     weight: 2
 
 ---
-Als bestaande klant van Callvoip kunt altijd uw abonnement wijzigen. Ook kunt u extra diensten aanvragen of opzeggen. Bent u nog geen klant?
+Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen. Ben je nog geen klant?
 
 <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a> <a href="http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
