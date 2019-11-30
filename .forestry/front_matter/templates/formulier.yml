@@ -22,6 +22,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/managed-4g-verbinding-aanvragen.md
 - content/formulier/aanvragen-overzicht.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
@@ -32,7 +33,6 @@ pages:
 - content/formulier/serviceplus-aanvragen.md
 - content/formulier/vast-mobiel-vamos-aanvragen.md
 - content/formulier/conference-service-aanvragen.md
-- content/formulier/managed-4g-verbinding-aanvragen.md
 - content/formulier/belbundel-aanvragen.md
 - content/formulier/088-nummerblok-activatie-aanvragen.md
 - content/formulier/0800-servicenummer-aanvragen.md

@@ -1,8 +1,12 @@
 ---
-title: Managed 4G verbinding aanvragen
+title: Vraag een Managed 4G verbinding aan
 url: "/aanvragen/managed-4g/"
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+
 ---
-Vul het formulier in, controleer de bevestigingsmail en stuur deze per mail naar ons ter bevestiging van uw opdracht. Wij nemen dan z.s.m. met u contact op!
+Vul het formulier in, controleer de bevestigingsmail en geef daarop een reply naar ons terug. Wij nemen dan z.s.m. met je contact op!
 
 {{< form "aanvragen-managed4g" "/aanvragen/verzonden/" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -49,7 +53,7 @@ Maandelijks
 {{</ layout/columns >}}
 {{< layout/columns >}}
 {{< layout/column3 >}}
-Snel 4G internet, 100GB data/mnd
+4G internet, 100GB data/mnd
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
 Ca € 350,00
@@ -60,7 +64,7 @@ Ca € 350,00
 {{</ layout/columns >}}
 {{< layout/columns >}}
 {{< layout/column3 >}}
-Snel 4G internet met onbeperkt data
+4G internet met onbeperkt data
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
 Ca € 350,00
