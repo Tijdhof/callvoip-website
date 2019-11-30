@@ -67,9 +67,9 @@ prijzen:
       price: '65.00'
 - title: Ziggo Zakelijk Internet Pro
   content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
-    5 vaste IP-adressen. Dan is Ziggo Zakelijk Internet Pro de juiste keuze. U beschikt
-    over snelheden tot 600 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid, gecombineerd
-    met bandbreedtegarantie en zakelijke SLA. '
+    1 vast IP-adres (uitbreidbaar naar 5). Een professionele basis voor uw bedrijfsnetwerk.
+    U beschikt over snelheden tot 600 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid,
+    gecombineerd met bandbreedtegarantie en zakelijke SLA. '
   button:
     title: Vraag ZIGGO Zakelijk internet aan
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
