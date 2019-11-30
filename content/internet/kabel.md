@@ -71,7 +71,7 @@ prijzen:
     over snelheden tot 600 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid, gecombineerd
     met bandbreedtegarantie en zakelijke SLA. '
   button:
-    title: Aanvragen
+    title: Vraag ZIGGO Zakelijk internet aan
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
   tarieven:
     title: Maandelijkse kosten
