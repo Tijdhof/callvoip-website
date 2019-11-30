@@ -2,7 +2,7 @@
 title: Kabel | Supersnel internet van een betrouwbare leverancier
 type: page
 layout: default
-aliases: '/kabel'
+aliases: "/kabel"
 logos: false
 hero:
   title: Kabelinternet
@@ -15,6 +15,8 @@ hero:
     link: "/internet/postcodecheck/"
   image: "/v1565000079/callvoip-website-internet-kabel2_n2llz0.png"
   image_position: start
+  mobile: ''
+  disable_image_on_mobile: false
 blocks:
 - content: |-
     - Supersnel zakelijk internet tot 600 Mbps
@@ -51,7 +53,7 @@ prijzen:
     voor u de basis om succesvol te ondernemen. Ziggo Zakelijk Internet wordt kosteloos
     geïnstalleerd door een monteur en wordt geleverd zonder vaste IP-adressen. '
   button:
-    title: Aanvragen
+    title: Vraag ZIGGO Zakelijk internet aan
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
   tarieven:
     title: Maandelijkse kosten
@@ -85,6 +87,8 @@ description: Met kabelinternet (Coax) van Ziggo heeft u een perfect basis voor V
   Geen groene kabel? Wij bekijken graag of dit alsnog mogelijk is.
 images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: Kabelinternet
