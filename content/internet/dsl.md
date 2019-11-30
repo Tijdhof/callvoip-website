@@ -2,7 +2,7 @@
 title: DSL | Callvoip biedt een ruim scala aan eigen verbindingen
 type: page
 layout: default
-aliases: '/dsl'
+aliases: "/dsl"
 blocks:
 - content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
     ingrediënt. Callvoip biedt daarom een ruim scala aan verbindingen. Situaties en
@@ -25,6 +25,8 @@ hero:
   image: "/v1565000079/callvoip-website-internet-dsl2_n3dfgo.png"
   position: image_center
   image_position: start
+  mobile: ''
+  disable_image_on_mobile: false
 usps:
   title: Waarom kiezen voor CallvoipDSL
   content: ''
@@ -53,11 +55,11 @@ intro:
   content: ''
 prijzen:
 - title: ADSL
-  content: Tot 20/1 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen tegoed
-    ter besteding in onze shops.
+  content: Tot 20-om-1 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
+    tegoed ter besteding in onze shops.
   button:
     title: Vraag een ADSL verbinding aan
-    link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
+    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
   tarieven:
     title: 'Als u klant bent van Callvoip:'
     items:
@@ -69,7 +71,7 @@ prijzen:
 - title: VDSL
   button:
     title: Vraag een VDSL verbinding aan
-    link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
+    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     title: 'U bent klant van Callvoip:'
@@ -78,14 +80,14 @@ prijzen:
       price: '29.00'
     - title: Eenmalig
       price: '50.00'
-  content: 'Tot 50/5 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
+  content: 'Tot 50-om-5 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
     tegoed ter besteding in onze shops. '
 - title: VVDSL
-  content: Tot 100/20 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
+  content: Tot 110-om-30 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
     tegoed ter besteding in onze shops.
   button:
     title: Vraag een VVDSL verbinding aan
-    link: https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf
+    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
   tarieven:
     title: 'U bent klant van Callvoip:'
     footer: Prijzen zijn excl. BTW
@@ -98,6 +100,8 @@ description: 'DSL internetverbindingen van Callvoip komen er in vele soorten en 
   ADSL, ADSL2+, VDSL en VVDSL. Doe de postcodecheck.'
 images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: DSL

@@ -196,6 +196,7 @@ fields:
         name: price
         label: Price
 pages:
+- content/internet/dsl.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
@@ -206,7 +207,6 @@ pages:
 - content/telefonie/clicktodial.md
 - content/internet/glasvezel.md
 - content/internet/kabel.md
-- content/internet/dsl.md
 - content/telefonie/operator-console.md
 - content/oplossingen/trunk.md
 - content/oplossingen/mkb.md
