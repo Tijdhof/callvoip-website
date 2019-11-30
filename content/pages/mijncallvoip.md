@@ -5,8 +5,8 @@ type: page
 url: "/mijncallvoip"
 usps:
 - title: Aanvragen
-  content: "<p>Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden.
-    Zo kunt u extra diensten afnemen zoals de Conference Service, buitenlandse nummers
+  content: "<p>Als bestaande klant van Callvoip kunt je altijd je abonnement uitbreiden.
+    Zo kun je extra diensten afnemen zoals de Conference Service, buitenlandse nummers
     aanvragen of servicenummers.</p>"
   items:
   - title: Nummers
