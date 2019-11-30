@@ -4,7 +4,7 @@ description: Met de managed 4G-oplossing van Callvoip bent u altijd en overal be
   Bekijk hier snel de mogelijkheden en de bijbehorende tarieven.
 images: []
 type: page
-aliases: '/4g'
+aliases: "/4g"
 layout: default
 logos: false
 hero:
@@ -17,6 +17,8 @@ hero:
     link: "/internet/postcodecheck/"
   image: "/v1565000291/Callvoip-website-internet-4g_mpec8y.png"
   image_position: start
+  mobile: ''
+  disable_image_on_mobile: false
 blocks:
 - title: Hoe werkt het?
   image: "/v1566554585/4g_antenne_vf6z4r.png"
@@ -57,7 +59,7 @@ prijzen:
 - title: Snel 4G internet
   content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
-    title: Aanvragen
+    title: Vraag Managed 4G internet aan
     link: "/aanvragen/managed-4g"
   tarieven:
     items:
@@ -70,7 +72,7 @@ prijzen:
 - title: Snel 4G internet met onbeperkt data
   content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
-    title: Aanvragen
+    title: Vraag Managed 4G internet aan
     link: "/aanvragen/managed-4g"
   tarieven:
     title: Snel 4G internet met onbeperkt data
@@ -81,6 +83,8 @@ prijzen:
       price: '350.00'
     footer: Prijzen zijn excl. BTW
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: 4G Oplossingen
@@ -90,14 +94,11 @@ menu:
     post: fa-wifi
 
 ---
-Let op: 
+Aanvullende informatie:
 
-– Installatiekosten kunnen variëren o.b.v. wensen, dit wordt met u besproken 
-
-– De abonnementskosten worden per 12 maanden vooraf in rekening gebracht. 
-
-– Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen 
-
-– Alle bedragen zijn excl. BTW. 
-
-– Vragen of meer informatie? Neem contact met ons op!
+* Kostenloze locatiecheck (PDF) en indien gewenst onsite meting
+* De installatiekosten kunnen variëren o.b.v. wensen, dit wordt met u besproken
+* De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.
+* Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen
+* Alle bedragen zijn excl. BTW.
+* Vragen of meer informatie? Neem contact met ons op!
