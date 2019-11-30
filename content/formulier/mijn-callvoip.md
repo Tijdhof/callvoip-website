@@ -3,6 +3,7 @@ title: Mijn Callvoip
 url: "/mijncallvoipoud/"
 hideinsearch: true
 hideingoogle: true
+hidesocialshare: false
 draft: true
 
 ---
@@ -83,7 +84,7 @@ Als bestaande klant van Callvoip kunt u altijd uw abonnement uitbreiden. Zo kunt
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)
+[CallvoipDSL](https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf "Callvoip Business DSL")
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 [Glasvezel (via Callvoip)](https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
