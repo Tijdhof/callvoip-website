@@ -22,6 +22,7 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/aanvragen-overzicht.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
@@ -43,7 +44,6 @@ pages:
 - content/formulier/opzegging-verzonden.md
 - content/formulier/belbundel-opzeggen.md
 - content/formulier/srtp-vesleutelde-gesprekken-opzeggen.md
-- content/formulier/aanvragen-overzicht.md
 - content/formulier/postcodecheck-verzonden.md
 - content/formulier/splitsing-10-blok-aanvragen.md
 - content/formulier/nummer-opzeggen.md

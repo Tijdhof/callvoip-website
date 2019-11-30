@@ -3,6 +3,7 @@ title: Aanvragen (overzicht)
 url: "/aanvragen/"
 hideinsearch: true
 hideingoogle: true
+hidesocialshare: false
 
 ---
 {{< layout/columns >}}
@@ -65,7 +66,7 @@ hideingoogle: true
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-[CallvoipDSL](https://www.callvoip.nl/download/callvoip/callvoip-adsl-vdsl_aanvraagformulier.pdf)
+[CallvoipDSL](https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf "Callvoip Business DSL")
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 [Glasvezel (via Callvoip)](https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf)
