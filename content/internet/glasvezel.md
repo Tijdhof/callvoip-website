@@ -2,7 +2,7 @@
 title: FTTH Glasvezel | U heeft uw eigen lijn en een stabiele snelheid
 type: page
 layout: default
-aliases: '/glasvezel'
+aliases: "/glasvezel"
 logos: false
 hero:
   title: FTTH Glasvezel
@@ -15,6 +15,8 @@ hero:
     link: "/internet/postcodecheck/"
   image: "/v1565000133/callvoip-website-internet-glasvezel2_mvvorj.png"
   image_position: start
+  mobile: ''
+  disable_image_on_mobile: false
 blocks:
 - title: Callvoip Glasvezel – dé beste basis voor VoIP!
   image: "/v1565858744/glasvezel_xgeang.png"
@@ -45,8 +47,8 @@ prijzen:
 - title: 60-om-60 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
-    title: Direct bestellen
-    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    title: Vraag Callvoip Glasvezel aan
+    link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     items:
@@ -58,8 +60,8 @@ prijzen:
 - title: 100-om-100 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
-    title: Direct bestellen
-    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    title: Vraag Callvoip Glasvezel aan
+    link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
   tarieven:
     footer: Prijzen zijn excl. BTW
     items:
@@ -71,8 +73,8 @@ prijzen:
 - title: 500-om-500 Mbit/s
   content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
   button:
-    title: Direct bestellen
-    link: https://www.simmpl.nl/downloads/callvoip_ftth_aanvraagformulier.pdf
+    title: Vraag Callvoip Glasvezel aan
+    link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
   tarieven:
     items:
     - title: Maandelijks
@@ -85,6 +87,8 @@ description: Met een glasvezel verbinding zijn de download- als uploadsnelheid a
   elkaar gelijk. U beschikt over een eigen verbinding als perfecte basis voor uw VoIP.
 images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: Glasvezel
