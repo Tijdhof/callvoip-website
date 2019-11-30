@@ -1,5 +1,5 @@
 ---
-title: Vraag een Managed 4G verbinding aan
+title: Vraag Managed 4G internet aan
 url: "/aanvragen/managed-4g/"
 hideinsearch: false
 hideingoogle: false
