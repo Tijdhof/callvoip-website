@@ -2,9 +2,9 @@
 title: Internet-check
 
 ---
-Vul hieronder uw gegevens in en u wij zoeken de mogelijkheden qua internet voor u uit.
+Vul hieronder uw gegevens in en u wij sturen u een overzicht welke soorten internet op uw adres mogelijk zijn.
 
-U ontvangt **binnen één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Laat het ons weten in de toelichting!
+U ontvangt binnen **één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Laat het ons weten in de toelichting!
 
 ### Ontvang een vrijblijvende internetcheck
 
