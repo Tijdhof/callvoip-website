@@ -1,13 +1,15 @@
 ---
-title: Nieuw telefoonnummer aanvragen
+title: Nieuwe nummer(s) / nummerblok(ken) aanvragen
 url: "/aanvragen/nummer"
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 
 ---
-Vraag hieronder eenvoudig een nieuw nummer aan (telefoon of fax). Uw nieuwe nummer is binnen 24 uur beschikbaar en actief. Wilt u een extra mooi telefoonnummer? Kies dan voor een Premium nummer. U ontvangt een lijst met telefoonnummers waar u uit kunt kiezen.
+Vraag hieronder eenvoudig een of meer nieuwe nummers aan (telefoon of fax). Nieuwe nummers zijn binnen 24 uur beschikbaar en actief.   
+**Wil je een extra mooi telefoonnummer?** Kies dan voor een premium-nummer: je ontvangt een lijst met telefoonnummers waaruit je kunt kiezen.
 
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akkoord per mail naar ons ter bevestiging van uw opdracht.
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akkoord per mail naar ons ter bevestiging van je aanvraag.
 
 {{< form "aanvragen-nummer" "/aanvragen/verzonden" >}}
 

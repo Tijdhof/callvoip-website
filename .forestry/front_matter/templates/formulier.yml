@@ -22,12 +22,12 @@ fields:
     required: false
   label: URL
 pages:
+- content/formulier/aanvragen-nummer.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
 - content/formulier/aanvragen-overzicht.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
 - content/formulier/importeren-telefoonboek-click-to-dial-aanvragen.md
-- content/formulier/aanvragen-nummer.md
 - content/formulier/voip-cti-koppeling-met-uw-crm-pakket-aanvragen.md
 - content/formulier/srtp-vesleutelde-gesprekken-aanvragen.md
 - content/formulier/serviceplus-aanvragen.md
