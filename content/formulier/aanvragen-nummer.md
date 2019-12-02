@@ -1,5 +1,5 @@
 ---
-title: Nieuwe nummer(s) / nummerblok(ken) aanvragen
+title: Nieuwe nummers / nummerblokken aanvragen
 url: "/aanvragen/nummer"
 hideinsearch: false
 hideingoogle: false
