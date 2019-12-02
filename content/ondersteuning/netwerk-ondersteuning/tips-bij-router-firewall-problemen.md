@@ -12,15 +12,18 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-**Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale:**  
-\- UDP **van** alle poorten in bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
-\- UDP **naar** alle poorten in bereik: 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)  
-Afhankelijk van uw situatie:  
-\- Poort 80 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
-\- Poort 443 TCP naar 185.19.236.0 - 185.19.239.255 (webinterface en provisioning)  
-Gedeeltelijke openstelling van het uitgaande audio-verkeer:  
-\- 5060 UDP > SIP (signaleringspoort > maakt registratie mogelijk)  
-\- 10000 - 60000 UDP > RTP (NB: deze instellingen zijn niet meer nodig als u regel 1 en 2 al heeft ingesteld)
+**Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale:**
+
+Veel problemen worden opgelost als je de router zo instelt dat er vrij verkeer van en naar onze telefonie-servers mogelijk is. Alle apparatuur staat in dit subnet: 
+
+* UDP **van** bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)
+* UDP **naar** bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)
+
+   
+* 5060 UDP > SIP (nodig om te registeren)
+* 10000 - 60000 UDP > RTP (nodig voor 2-zijdige audio)
+
+***
 
 U maakt gebruik van internettelefonie van Callvoip via de Simmpl telefooncentrale en u ervaart problemen met uw telefoons. Vervelend! Met deze ondersteuningspagina hopen wij u te kunnen assisteren bij het vinden van de oorzaak en het wegnemen ervan.
 
