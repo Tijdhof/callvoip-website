@@ -42,9 +42,9 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
 - content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
-- content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
 - content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/algemeen/nieuwsbrieven-overzicht.md
 - content/ondersteuning/simmpl-functionaliteiten/omleidings-app.md
