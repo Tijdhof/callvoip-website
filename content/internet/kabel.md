@@ -2,9 +2,9 @@
 title: Kabel | Supersnel internet van een betrouwbare leverancier
 type: page
 layout: default
-aliases: "/kabel"
- "/ziggo"
-logos: false
+aliases:
+- "/kabel"
+- "/ziggo"
 hero:
   title: Kabelinternet
   content: VodafoneZiggo is de grootste leverancier van zakelijk internet via de kabel.
