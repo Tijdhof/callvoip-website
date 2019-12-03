@@ -89,7 +89,7 @@ Telefoonummer
 
 {{< layout/column3 >}}
 
-Toeslag premium
+Toeslag premium los nummer
 
 {{</ layout/column3 >}}
 
@@ -102,6 +102,72 @@ n.v.t.
 {{< layout/column3 >}}
 
 € 50,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+10-blok
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 20,- excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 100,- excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+100-blok
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 30,- excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 100,- excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+Toeslag premium 10-/100-blok
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+n.v.t.
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 100,- excl. BTW
 
 {{</ layout/column3 >}}
 
