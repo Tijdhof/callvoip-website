@@ -42,6 +42,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/netwerk-ondersteuning/tips-bij-router-firewall-problemen.md
 - content/ondersteuning/simmpl-functionaliteiten/qaller-app.md
 - content/ondersteuning/hulp-op-afstand.md
@@ -68,7 +69,6 @@ pages:
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
 - content/ondersteuning/algemeen/contact.md
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
-- content/ondersteuning/Integraties/voip-cti.md
 - content/ondersteuning/internet/callvoip-business-vdsl-instellen.md
 - content/ondersteuning/call-pickup.md
 - content/ondersteuning/simmpl-functionaliteiten/email-app.md
