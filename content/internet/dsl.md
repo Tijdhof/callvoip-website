@@ -2,7 +2,9 @@
 title: DSL | Callvoip biedt een ruim scala aan eigen verbindingen
 type: page
 layout: default
-aliases: "/dsl"
+aliases:
+- "/dsl"
+- "/adsl"
 blocks:
 - content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
     ingrediënt. Callvoip biedt daarom een ruim scala aan verbindingen. Situaties en
