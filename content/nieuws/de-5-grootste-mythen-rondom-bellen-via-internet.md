@@ -52,6 +52,8 @@ Met een menukaart vol mogelijkheden kun je zelf bepalen wat je gebruikt en in we
 
 Jazeker! VoIP is een ontzettend complexe, technische dienst om te maken en in de lucht te houden. Gelukkig hoef jij als klant je daar geen zorgen om te maken, dat doet jouw provider (wij dus ;-)) wel. Wat telt is de bediening en ondersteuning. Een moderne auto is ook een vreselijk ingewikkeld, technisch ding, maar met een rond stuur, een set pedalen en wat knopjes valt dat voor jou, als bestuurder, ineens reuze mee.
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1575373390/ingewikkeld_uallxd.png)
+
 Dat principe geldt ook voor VoIP. Wij maken het met onze slimme online centrale gemakkelijk om die complexe techniek voor jou te laten werken. En het Callvoip team zit [1 telefoontje](https://www.callvoip.nl/contact/) van je af om je te ondersteunen waar nodig.
 
 ### “Dan moet ik zeker allemaal nieuwe toestellen gaan kopen?”
