@@ -2,7 +2,8 @@
 title: Kabel | Supersnel internet van een betrouwbare leverancier
 type: page
 layout: default
-aliases: "/kabel" "/ziggo"
+aliases: "/kabel"
+ "/ziggo"
 logos: false
 hero:
   title: Kabelinternet
