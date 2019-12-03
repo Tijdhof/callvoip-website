@@ -27,7 +27,7 @@ Vul het formulier in, controleer de bevestigingsmail en geef daarop een reply na
 {{< form/fieldset "Aanvraag Managed 4G" >}}
 {{< form/select "Type verbinding" >}}
 {{< form/option "Snel internet 4G" >}}
-{{< form/option "Snel internet 4G met onbeperkt data" >}}
+{{< form/option "4G internet, onbeperkt data" >}}
 {{< form/option "Snelle back-up voor glas/kabelinternet" >}}
 {{< form/option "Tijdelijke internet op locatie" >}}
 {{</ form/select >}}
