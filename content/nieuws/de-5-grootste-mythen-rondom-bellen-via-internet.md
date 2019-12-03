@@ -23,11 +23,12 @@ tags: []
 draft: true
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1574867648/2019-11-27_y1krlg.png)
 
-Alweer 2 maanden geleden begon ik bij Callvoip en zoals dat gaat bij een nieuwe baan was iedereen in mijn omgeving reuze benieuwd. En al vertellend over wat Callvoip zoal doet komen dan meteen een hoop vragen los. Want wat blijkt: aan bellen via internet (we noemen dat VoIP, Voice over Internet Protocol) kleven gek genoeg nog wel wat vooroordelen. Gek? Ja beetje wel, want we vertrouwen anno nu al zoveel toe aan het internet. Waar zitten dan die drempels voor bellen via internet? En zijn ze eigenlijk wel terecht?
+Na ruim 10 jaar in diverse rollen in de (online-) marketing mocht ik mij zo'n 2 maanden geleden voegen bij het Callvoip Expertteam. Zoals dat gaat bij een nieuwe baan was iedereen in mijn omgeving reuze benieuwd. En al vertellend over wat Callvoip doet komen dan meteen een hoop vragen los. Want wat blijkt: aan bellen via internet (we noemen dat VoIP, Voice over Internet Protocol) kleven gek genoeg nog wel wat vooroordelen. Gek? Ja beetje wel, want we vertrouwen anno nu al zoveel toe aan het internet. Waar zitten dan die drempels voor bellen via internet? En zijn ze eigenlijk wel terecht?
 
 Dus ik tikte een overzicht van de meest voorkomende mythen die ik in die eerste maanden op feestjes en partijen hoorde. En je raadt het al een beetje: nee, ze zijn meestal helemaal niet terecht.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1574867648/2019-11-27_y1krlg.png)
 
 ### “Als internet eruit ligt, ben ik onbereikbaar.”
 
@@ -57,7 +58,7 @@ Dat principe geldt ook voor VoIP. Wij maken het met onze slimme online centrale 
 
 Overstappen van de analoge lijn naar VoIP betekent inderdaad nieuwe toestellen of adapters voor je huidige toestellen. En ja, we weten wat dat kost. Tegenover kosten staan ook opbrengsten. Slimme telefonie met een uitgekiende belroute levert je een efficiëntieslag op bij het afhandelen van het belverkeer.
 
-Daarnaast zijn de belkosten een stuk lager dan op de analoge lijn: voorbeeld: nog geen 2 cent per minuut naar vaste nummers, tegenover 11 cent op ISDN lijn van KPN. Dat is nog eens besparen!
+Daarnaast zijn de belkosten een stuk lager dan op de analoge lijn: voorbeeld: nog geen 2 cent per minuut naar vaste nummers, tegenover 11 cent op een ISDN lijn van KPN. Dat is nog eens besparen!
 
 ### “Ja, dat kan ook.”
 
