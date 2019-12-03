@@ -22,8 +22,8 @@ fields:
     required: false
   label: URL
 pages:
-- content/formulier/aanvragen-nummer.md
 - content/formulier/managed-4g-verbinding-aanvragen.md
+- content/formulier/aanvragen-nummer.md
 - content/formulier/aanvragen-overzicht.md
 - content/formulier/mijn-callvoip.md
 - content/formulier/vast-mobiel-vamos-opzeggen.md
