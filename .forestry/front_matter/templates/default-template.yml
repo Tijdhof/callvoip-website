@@ -196,10 +196,10 @@ fields:
         name: price
         label: Price
 pages:
-- content/internet/managed-4g-oplossing.md
-- content/internet/kabel.md
-- content/internet/glasvezel.md
 - content/internet/dsl.md
+- content/internet/kabel.md
+- content/internet/managed-4g-oplossing.md
+- content/internet/glasvezel.md
 - content/telefonie/hostedvoip.md
 - content/telefonie/vastmobielintegratie.md
 - content/telefonie/integratiemetcrm.md
