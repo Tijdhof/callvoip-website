@@ -132,7 +132,7 @@ menu:
   main:
     weight: 2
     parent: Telefonie
-    pre: Integreer eenvoudig uw vaste en mobiele telefonie.
+    pre: Integreer eenvoudig vaste en mobiele telefonie
     post: fa-mobile-alt
 
 ---
