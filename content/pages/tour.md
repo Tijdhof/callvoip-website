@@ -33,7 +33,7 @@ blocks:
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   position: image_left
 intro:
-  title: 'Start met de grand tour! Wij staan voor je klaar'
+  title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
   content: '<div id="aandeslag">
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
