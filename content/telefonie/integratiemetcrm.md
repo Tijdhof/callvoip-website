@@ -1,5 +1,5 @@
 ---
-title: Integratie met uw CRM-pakket (VoIP CTI)
+title: Integratie met jouw CRM-pakket (VoIP CTI)
 type: page
 layout: default
 aliases: "/cti /voipcti"
@@ -88,7 +88,7 @@ menu:
   main:
     weight: 3
     parent: Telefonie
-    pre: Verbind uw klantsysteem met uw telefooncentrale.
+    pre: Verbind jouw klantsysteem met de telefooncentrale.
     post: fa-comment-alt-smile
 
 ---
