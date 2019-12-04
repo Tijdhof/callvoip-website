@@ -17,7 +17,8 @@ textblocks:
   title1: ''
   title2: ''
   top_title: Daag ons uit!
-  top_content: "Zullen we samen kort kijken wat voor jouw specifieke situatie de beste telefonieoplossing is? Doen we meteen de Grand Tour door onze centrale. Geef ons een half uurtje en we laten jou zien waarom wij zo enthousiast zijn."
+  top_content: "Zullen we samen kort kijken wat voor jouw specifieke situatie de beste telefonieoplossing is? Doen we meteen de grand
+  tour door onze centrale. Geef ons een half uurtje en we laten jou zien waarom wij zo enthousiast zijn."
   content2: ''
   show_vshape: true
 blocks:
