@@ -14,12 +14,10 @@ hidesocialshare: false
 ---
 **Onbelemmerd verkeer tussen uw netwerk en de Simmpl centrale:**
 
-Veel problemen worden opgelost als je de router zo instelt dat er vrij verkeer van en naar onze telefonie-servers mogelijk is. Alle apparatuur staat in dit subnet: 
+Veel problemen worden opgelost als je de router zo instelt dat er vrij verkeer van en naar onze telefonie-servers mogelijk is. Alle apparatuur staat in dit subnet:
 
 * UDP **van** bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)
 * UDP **naar** bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)
-
-   
 * 5060 UDP > SIP (nodig om te registeren)
 * 10000 - 60000 UDP > RTP (nodig voor 2-zijdige audio)
 
