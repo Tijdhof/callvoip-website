@@ -17,9 +17,8 @@ textblocks:
   title1: ''
   title2: ''
   top_title: Daag ons uit!
-  top_content: "Wedden dat we ook jou fan maken? <br>Ontdek het gemak van Callvoip en werk met onze slimme Qaller app. Test onze online
-  centrale en grenzeloze dienstverlening daarom gratis 1 week en dan zijn wij erg benieuwd naar jouw ervaring!<br><br>
-  Geen zorgen: stopt vanzelf na 7 dagen, geen kleine lettertjes."
+  top_content: "Zullen we samen kort kijken wat voor jouw specifieke situatie de beste telefonieoplossing is? Doen we meteen de grand
+  tour door onze centrale. Geef ons een half uurtje en we laten jou zien waarom wij zo enthousiast zijn."
   content2: ''
   show_vshape: true
 blocks:
