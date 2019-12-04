@@ -33,7 +33,8 @@ blocks:
   position: image_left
 intro:
   title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
-  content: "Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: 050 82 00 000. Wij maken altijd tijd voor je!"
+  content: "Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: 050 82 00 000. Wij maken altijd tijd
+  voor je!"
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="proberenformulier" />
