@@ -47,7 +47,7 @@ intro:
                   <div class="mb-4"> <label for="naam" class="block">Voor- en achternaam</label> <input type="text"
                           id="naam" name="naam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
                   </div>
-                  <div class="mb-4"> <label for="telefoonnummer" class="block">telefoonnummer <span class="text-red">*</span></label> <input
+                  <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer <span class="text-red">*</span></label> <input
                           type="telefoonnummer" id="telefoonnummer" name="telefoonnummer"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
               </div>
@@ -55,8 +55,8 @@ intro:
                   <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
                           id="telefoonnummer" name="telefoonnummer"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
-                  <div class="mb-4"> <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label> <input type="text"
-                          id="bedrijfsnaam" name="bedrijfsnaam"
+                  <div class="mb-4"> <label for="Gewenste terugbelmoment" class="block">Gewenste terugbelmoment</label> <input type="text"
+                          id="Gewenste terugbelmoment" name="Gewenste terugbelmoment"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
               <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
