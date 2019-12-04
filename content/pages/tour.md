@@ -3,7 +3,7 @@ title: ''
 url: Tour
 type: page
 hero:
-  image: "/v1570097106/tour_banner_ewgo39.png"
+  image: "/v1570097106/tour_banner_d1pxgf.png"
   title: Tour in de online centrale
   mobile: "/v1570097106/mobile_tour_qwvurb.png"
   link: ''
