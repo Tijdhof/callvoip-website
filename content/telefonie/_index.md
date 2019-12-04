@@ -6,7 +6,7 @@ menu:
     weight: 1
     pre: <p class="mb-6">De beste telefonieoplossing voor jouw bedrijf? Kies voor de
       zakelijke telefonie van Callvoip én professionaliseer jouw bereikbaarheid.</p>
-      <a href="/offerte" class="button">De online centrale zien?</a>
+      <a href="/tour" class="button">De online centrale zien?</a>
 items:
   - title: Hosted VoIP | modernste online telefooncentrale
     content: "De meeste moderne telefooncentrale in de wereld: Simmpl"
