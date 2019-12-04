@@ -1,6 +1,6 @@
 ---
 type: post
-title: De 5 grootste mythen over bellen via internet
+title: Tim en de 5 grootste mythen over bellen via internet
 description: Waar zitten de drempels voor bellen via internet? En zijn ze eigenlijk
   wel terecht? Wij maakten een overzicht van de meest voorkomende vooroordelen over
   VoIP telefonie.
@@ -16,12 +16,11 @@ hero:
   disable_image_on_mobile: false
   mobile: ''
 author: ''
-date: 2019-12-02T23:00:00+00:00
+date: 2019-12-02T23:00:00.000+00:00
 url: 5-mythen-over-voip
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
 Na ruim 10 jaar in allerlei rollen in de (online-) marketing mocht ik mij zo'n 2 maanden geleden voegen bij het Callvoip Expertteam. Zoals dat gaat bij een nieuwe baan was iedereen in mijn omgeving reuze benieuwd. En al vertellend over wat Callvoip doet komen dan meteen een hoop vragen los. Want wat blijkt: aan bellen via internet (we noemen dat VoIP, Voice over Internet Protocol) kleven gek genoeg nog wel wat vooroordelen. Gek? Ja beetje wel, want we vertrouwen anno nu al zoveel toe aan het internet. Waar zitten dan die drempels voor bellen via internet? En zijn ze eigenlijk wel terecht?

@@ -13,8 +13,8 @@ hero:
     om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
     klaar!
   button:
-    content: Liever telefonisch advies?
-    link: "/terugbellen"
+    content: Met eigen ogen zien?
+    link: "/tour"
   image: "/v1574088232/hostedvoip_u8trwp.png"
   image_position: start
   disable_image_on_mobile: false
