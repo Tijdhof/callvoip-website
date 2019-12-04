@@ -35,8 +35,8 @@ blocks:
 intro:
   title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: 050 82 00 000. Wij maken altijd tijd
-  voor je!<br>
-      <div>
+  voor je!
+      <br><br><div>
           <form class="mb-6" name="tourformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="tourformulier" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
