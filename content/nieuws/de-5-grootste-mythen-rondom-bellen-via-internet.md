@@ -1,6 +1,6 @@
 ---
 type: post
-title: De 5 grootste mythen over bellen via internet
+title: Tim en de 5 grootste mythen over bellen via internet
 description: Waar zitten de drempels voor bellen via internet? En zijn ze eigenlijk
   wel terecht? Wij maakten een overzicht van de meest voorkomende vooroordelen over
   VoIP telefonie.
@@ -16,7 +16,7 @@ hero:
   disable_image_on_mobile: false
   mobile: ''
 author: ''
-date: 2019-12-02T23:00:00+00:00
+date: 2019-12-02T23:00:00.000+00:00
 url: 5-mythen-over-voip
 contactpersoon: []
 categories: []
