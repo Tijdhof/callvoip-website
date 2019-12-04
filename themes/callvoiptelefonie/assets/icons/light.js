@@ -70,8 +70,9 @@ import { faCommentAltDots } from "@fortawesome/pro-light-svg-icons/faCommentAltD
 import { faDesktopAlt } from "@fortawesome/pro-light-svg-icons/faDesktopAlt";
 import { faDotCircle } from "@fortawesome/pro-light-svg-icons/faDotCircle";
 import { faTimes } from "@fortawesome/pro-light-svg-icons/faTimes";
+import { faCheck } from "@fortawesome/pro-light-svg-icons/faCheck";
 
-library.add(faCloud, faClock, faHeartbeat, faDotCircle, faLaptop, faTimes, faTty, faIdCard, faCheckCircle, faWindowRestore, faNetworkWired, faCommentAltDots, faDesktopAlt, faCut, faAd, faTooth, faAbacus, faShoppingCart, faTimesCircle, faServer, faMobileAndroid,faMobileAndroidAlt, faAngleDown, faWindowRestore, faMousePointer, faHandPointer,  faRandom, faDeaf, faSortNumericDown, faArrowsH, faUsers, faFilePdf, faBell, faUnlock, faFileAudio, faCog, faSpinner, faMoneyBill, faExclamationCircle, faFax, faCalculator, faTrophy, faRocket, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
+library.add(faCloud, faClock, faHeartbeat, faDotCircle, faLaptop, faCheck, faTimes, faTty, faIdCard, faCheckCircle, faWindowRestore, faNetworkWired, faCommentAltDots, faDesktopAlt, faCut, faAd, faTooth, faAbacus, faShoppingCart, faTimesCircle, faServer, faMobileAndroid,faMobileAndroidAlt, faAngleDown, faWindowRestore, faMousePointer, faHandPointer,  faRandom, faDeaf, faSortNumericDown, faArrowsH, faUsers, faFilePdf, faBell, faUnlock, faFileAudio, faCog, faSpinner, faMoneyBill, faExclamationCircle, faFax, faCalculator, faTrophy, faRocket, faSearch, faEnvelope, faFile, faMobile, faGlobe, faWifi, faBars, faUser, faMegaphone, faBoxOpen, faCommentAlt, faUserLock, faMobileAlt, faPhoneVolume, faCodeBranch, faCommentAltSmile, faFileSignature, faPiggyBank, faFileContract, faBoxesAlt, faAngleRight, faHome, faBuilding, faComments, faPhone, faDesktop, faTabletAlt,faHeadset);
 
 
 dom.watch();
