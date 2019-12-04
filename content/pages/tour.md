@@ -17,7 +17,9 @@ textblocks:
   title1: ''
   title2: ''
   top_title: Daag ons uit!
-  top_content: 
+  top_content: "Wedden dat we ook jou fan maken? <br>Ontdek het gemak van Callvoip en werk met onze slimme Qaller app. Test onze online
+  centrale en grenzeloze dienstverlening daarom gratis 1 week en dan zijn wij erg benieuwd naar jouw ervaring!<br><br>
+  Geen zorgen: stopt vanzelf na 7 dagen, geen kleine lettertjes."
   content2: ''
   show_vshape: true
 blocks:
@@ -32,8 +34,8 @@ blocks:
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   position: image_left
 intro:
-  title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
-  content:
+  title: 'Start met de grand tour! Wij staan voor je klaar'
+  content: '<div id="aandeslag">
       <div>
           <form class="mb-6" name="proberenformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="proberenformulier" />
