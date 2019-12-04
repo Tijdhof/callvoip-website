@@ -18,7 +18,7 @@ textblocks:
   title2: ''
   top_title: ' '
   top_content: "Zullen we samen kort kijken wat voor jouw specifieke situatie de beste telefonieoplossing is? Doen we meteen de grand
-  tour door onze centrale. Geef ons een half uurtje en we laten jou zien waarom wij zo enthousiast zijn."
+  tour door onze centrale.<br>Geef ons een half uurtje en we laten jou zien waarom wij zo enthousiast zijn."
   content2: ''
   show_vshape: true
 blocks:
@@ -35,7 +35,7 @@ blocks:
 intro:
   title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: 050 82 00 000. Wij maken altijd tijd
-  voor je! 
+  voor je!<br>
       <div>
           <form class="mb-6" name="tourformulier" action="/bedank/gratisuitproberen/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="tourformulier" />
@@ -59,7 +59,7 @@ intro:
                           id="Gewenste terugbelmoment" name="Gewenste terugbelmoment"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
-              <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
+              <br><p> <button type="submit" class="button">Neem contact met mij op</button> </p>
           </form>
       </div>
   </div>'
