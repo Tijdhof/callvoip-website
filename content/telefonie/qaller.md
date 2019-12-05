@@ -16,8 +16,8 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Offerte aanvragen
-    link: "/offerte"
+    content: In het echt zien?
+    link: "/tour"
 blocks:
 - content: |-
     Hoe bedien je een TV zonder afstandsbediening? De Callvoip telefooncentrale kan gelukkig ook via de browser worden bediend maar de mogelijkheid om dit via de smartphone te doen is wel superhandig. Het activeren van een meldtekst of het instellen van een doorschakeling: het kan met één simpele klik worden gedaan, waar je ook bent<BR> Het gebruik van <B>Qaller</B> is standaard inbegrepen en is <B>gratis</B>.<BR><BR>
