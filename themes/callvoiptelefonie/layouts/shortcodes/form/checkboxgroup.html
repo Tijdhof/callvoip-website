@@ -1,9 +1,10 @@
 {{ $name := default "Provide input name" (.Get 0) }}
 {{ $type := default "Provide type" (.Get 1) }}
 {{ $required := default false (.Get 2) }}
-<div class="mb-4">
-  <label for="{{ $name | urlize }}" class="block">{{ $name }} {{ if $required}} <span class="text-red">*</span> {{ end }}</label>
-  <div class="flex items-center">
-    {{ .Inner | markdownify }}
-  </div>
-</div>
+
+<fieldset class="mb-4">
+    <legend class="block">{{ $name }} {{ if $required}} <span class="text-red">*</span> {{ end }}</legend>
+    <div class="flex items-center">
+      {{ .Inner | markdownify }}
+    </div>
+  </fieldset>
