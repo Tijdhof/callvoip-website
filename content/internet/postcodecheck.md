@@ -1,5 +1,6 @@
 ---
 title: Internet-check
+hidesocialshare: true
 
 ---
 Vul hieronder uw gegevens in en u wij sturen u een overzicht welke soorten internet op uw adres mogelijk zijn.
