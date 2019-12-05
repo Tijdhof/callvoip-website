@@ -11,7 +11,7 @@ aliases:
 Nieuw: false
 Update: false
 hideingoogle: false
-hidesocialshare: false
+hidesocialshare: true
 
 ---
 Heeft u hulp nodig bij het instellen van uw telefoons of andere apparatuur? Laat Team Callvoip dan met u meekijken via onze remote software. Wij nemen dan uw scherm en muis over. 
