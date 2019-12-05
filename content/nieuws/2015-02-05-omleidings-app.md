@@ -1,7 +1,7 @@
 ---
 title: 'Simmpl introduceert: Omleidings-app'
 author: oN0rp-q9oY@DEh
-type: post
+type: nieuws
 date: 2015-02-05T09:20:14.000+00:00
 url: "/intro-omleidings-app/"
 contactpersoon:

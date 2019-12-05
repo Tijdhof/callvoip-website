@@ -1,7 +1,7 @@
 ---
 title: Nieuwsbrief januari 2016 – CallPickup
 author: Ralf Gerrits
-type: post
+type: nieuws
 date: 2016-01-05T09:55:13.000+00:00
 url: "/nieuwsbrief-januari-2016-callpickup/"
 contactpersoon:

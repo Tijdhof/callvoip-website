@@ -1,5 +1,5 @@
 ---
-type: post
+type: nieuws
 title: 'Callvoip Click-to-Dial: van nummer naar slimme toepassingen'
 description: ''
 images: []

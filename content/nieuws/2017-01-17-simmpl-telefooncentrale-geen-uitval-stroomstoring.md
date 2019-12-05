@@ -1,7 +1,7 @@
 ---
 title: Simmpl telefooncentrale geen uitval door stroomstoring
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2017-01-17T08:53:48.000+00:00
 url: "/simmpl-telefooncentrale-geen-uitval-stroomstoring/"
 contactpersoon:

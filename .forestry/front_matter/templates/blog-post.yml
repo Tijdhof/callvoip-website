@@ -23,6 +23,9 @@ fields:
 - type: boolean
   name: hidesocialshare
   label: Hide Social Share options
+- type: file
+  name: image_uitgelicht
+  label: Image uitgelicht
 - type: field_group
   name: hero
   label: Hero
@@ -48,7 +51,7 @@ fields:
   name: type
   label: type
   hidden: true
-  default: post
+  default: nieuws
 - type: datetime
   name: date
   label: Date

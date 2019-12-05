@@ -1,7 +1,7 @@
 ---
 title: 'Simmpl-app uitgelicht: Geluid'
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2019-02-06T13:36:56.000+00:00
 url: "/simmpl-app-uitgelicht-geluid/"
 contactpersoon:

@@ -1,7 +1,7 @@
 ---
 title: Met een gerust gevoel op vakantie
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2017-07-20T07:38:42.000+00:00
 url: "/zomervakantie-belroute/"
 contactpersoon:

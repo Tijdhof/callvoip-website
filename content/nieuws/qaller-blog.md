@@ -1,5 +1,5 @@
 ---
-type: post
+type: nieuws
 title: Download de nieuwste Qaller app
 description: Qaller is een mobiele Smartphone App voor uw telefooncentrale in de cloud
   waarmee je altijd en overal bereikbaar bent.

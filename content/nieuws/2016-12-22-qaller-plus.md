@@ -1,7 +1,7 @@
 ---
 title: Nieuw! Uitbellen met de Qaller-app
 author: Ralf Gerrits
-type: post
+type: nieuws
 date: 2016-12-22T08:27:42.000+00:00
 url: "/intro-qaller-plus/"
 contactpersoon:

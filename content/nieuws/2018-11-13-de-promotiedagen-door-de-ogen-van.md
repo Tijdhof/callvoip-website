@@ -1,7 +1,7 @@
 ---
 title: De Promotiedagen door de ogen van…
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2018-11-13T09:52:49.000+00:00
 url: "/de-promotiedagen-door-de-ogen-van/"
 contactpersoon:

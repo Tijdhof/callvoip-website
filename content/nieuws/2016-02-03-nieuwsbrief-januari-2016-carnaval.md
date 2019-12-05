@@ -1,7 +1,7 @@
 ---
 title: Nieuwsbrief februari 2016 – Carnaval
 author: Ralf Gerrits
-type: post
+type: nieuws
 date: 2016-02-03T09:32:27.000+00:00
 url: "/nieuwsbrief-januari-2016-carnaval/"
 contactpersoon:

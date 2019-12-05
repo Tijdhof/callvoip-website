@@ -1,7 +1,7 @@
 ---
 title: Omleiding aan of uit? Voortaan zichtbaar via BLF LED op uw toestel
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2017-08-11T16:42:51.000+00:00
 url: "/status-omleiding-flow-control-zichtbaar-blf-led-op-telefoon/"
 categories:

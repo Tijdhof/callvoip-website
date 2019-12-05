@@ -1,7 +1,7 @@
 ---
 title: Gelukkig nieuwjaar!
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2017-01-01T14:59:56.000+00:00
 url: "/gelukkig-nieuwjaar/"
 contactpersoon:

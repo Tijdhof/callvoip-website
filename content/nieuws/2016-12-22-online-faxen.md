@@ -1,7 +1,7 @@
 ---
 title: Digitaal faxen
 author: Ralf Gerrits
-type: post
+type: nieuws
 date: 2016-12-22T08:41:09.000+00:00
 url: "/online-faxen/"
 contactpersoon:

@@ -1,7 +1,7 @@
 ---
 title: Click-to-Dial over grens vijfhonderd gebruikers heen
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2017-08-24T10:38:45.000+00:00
 url: "/click-to-dial-grens-vijfhonderd-gebruikers-heen/"
 contactpersoon:

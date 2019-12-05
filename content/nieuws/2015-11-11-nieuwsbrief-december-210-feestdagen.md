@@ -1,7 +1,7 @@
 ---
 title: Nieuwsbrief december 2015 – Feestdagen
 author: Ralf Gerrits
-type: post
+type: nieuws
 date: 2015-11-11T10:05:26.000+00:00
 url: "/nieuwsbrief-december-210-feestdagen/"
 contactpersoon:

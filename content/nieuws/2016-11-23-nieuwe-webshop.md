@@ -1,7 +1,7 @@
 ---
 title: Nieuwe webshop CallvoipTelefonie
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2016-11-23T15:10:01+00:00
 draft: true
 private: true

@@ -1,5 +1,5 @@
 ---
-type: post
+type: nieuws
 title: Nieuwe website!
 description: ''
 images: []

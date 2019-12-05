@@ -1,7 +1,7 @@
 ---
 title: 'Simmpl introduceert: Prefix App'
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2014-07-06T09:02:31.000+00:00
 url: "/intro-prefix-app/"
 contactpersoon:

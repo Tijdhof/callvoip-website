@@ -1,7 +1,7 @@
 ---
 title: Encrypted Calls (beveiligde gesprekken)
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2016-10-24T09:51:47.000+00:00
 url: "/encrypted-calls/"
 contactpersoon:

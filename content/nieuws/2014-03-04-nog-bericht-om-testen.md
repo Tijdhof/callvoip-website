@@ -1,7 +1,7 @@
 ---
 title: Service (met een) Plus
 author: oN0rp-q9oY@DEh
-type: post
+type: nieuws
 date: 2014-03-04T11:36:57.000+00:00
 url: "/nog-bericht-om-testen/"
 contactpersoon:

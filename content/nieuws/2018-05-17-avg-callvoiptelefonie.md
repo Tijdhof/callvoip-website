@@ -1,7 +1,7 @@
 ---
 title: AVG & CallvoipTelefonie
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2018-05-17T09:41:52.000+00:00
 url: "/avg-callvoiptelefonie/"
 contactpersoon:

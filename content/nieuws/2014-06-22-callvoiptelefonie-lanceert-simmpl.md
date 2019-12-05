@@ -1,7 +1,7 @@
 ---
 title: CallvoipTelefonie lanceert Simmpl
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2014-06-22T08:53:36.000+00:00
 url: "/callvoiptelefonie-lanceert-simmpl/"
 contactpersoon:

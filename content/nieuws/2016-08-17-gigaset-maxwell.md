@@ -1,7 +1,7 @@
 ---
 title: Gigaset Maxwell-portfolio gecertificeerd voor Simmpl
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2016-08-17T04:41:15.000+00:00
 url: "/gigaset-maxwell/"
 contactpersoon:

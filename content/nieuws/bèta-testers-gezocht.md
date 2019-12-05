@@ -1,5 +1,5 @@
 ---
-type: post
+type: nieuws
 title: Bèta testers gezocht!
 description: ''
 images: []

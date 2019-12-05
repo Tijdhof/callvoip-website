@@ -1,7 +1,7 @@
 ---
 title: Nieuw! Email-App
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2017-07-30T12:06:40.000+00:00
 url: "/nieuw-email-app/"
 categories:

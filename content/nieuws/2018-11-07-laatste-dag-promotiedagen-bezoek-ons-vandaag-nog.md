@@ -1,7 +1,7 @@
 ---
 title: Laatste dag Promotiedagen, bezoek ons vandaag nog!
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2018-11-07T08:34:13.000+00:00
 url: "/laatste-dag-promotiedagen-bezoek-ons-vandaag-nog/"
 contactpersoon:

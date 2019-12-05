@@ -1,5 +1,5 @@
 ---
-type: post
+type: nieuws
 title: Sorteer uw klanten op Postcode(gebied)
 description: ''
 images: []

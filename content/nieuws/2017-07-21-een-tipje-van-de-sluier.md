@@ -1,7 +1,7 @@
 ---
 title: Een tipje van de sluier….
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2017-07-21T17:43:14.000+00:00
 url: "/een-tipje-van-de-sluier/"
 categories:

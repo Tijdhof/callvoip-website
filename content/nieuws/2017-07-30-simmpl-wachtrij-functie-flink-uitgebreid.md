@@ -1,7 +1,7 @@
 ---
 title: De Simmpl Wachtrij functie flink uitgebreid!
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2017-07-30T12:20:59.000+00:00
 url: "/simmpl-wachtrij-functie-flink-uitgebreid/"
 categories:

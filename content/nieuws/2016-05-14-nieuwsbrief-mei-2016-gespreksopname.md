@@ -1,7 +1,7 @@
 ---
 title: Nieuwsbrief mei 2016 – Gespreksopname
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2016-05-14T21:54:52.000+00:00
 url: "/nieuwsbrief-mei-2016-gespreksopname/"
 contactpersoon:

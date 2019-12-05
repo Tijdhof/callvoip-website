@@ -1,7 +1,7 @@
 ---
 title: 'NIEUW: Callvoip Click-to-Dial voor Chrome'
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2017-03-06T11:56:40.000+00:00
 url: "/nieuw-click-to-dial/"
 contactpersoon:

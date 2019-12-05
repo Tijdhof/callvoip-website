@@ -1,7 +1,7 @@
 ---
 title: 'Nieuw: fax versturen zonder fax!'
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2014-08-17T09:08:51.000+00:00
 url: "/intro-digitaal-faxen/"
 contactpersoon:

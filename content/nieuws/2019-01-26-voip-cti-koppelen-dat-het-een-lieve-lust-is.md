@@ -1,7 +1,7 @@
 ---
 title: 'VoIP CTI: Koppelen dat het een lieve lust is'
 author: Marieke Timmer
-type: post
+type: nieuws
 date: 2019-01-26T20:31:51.000+00:00
 url: "/voip-cti-koppelen-dat-het-een-lieve-lust-is/"
 contactpersoon:

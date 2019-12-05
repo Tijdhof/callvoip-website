@@ -1,7 +1,7 @@
 ---
 title: User Panel vernieuwd! Probeer de beta nu uit.
 author: Milan Littooy
-type: post
+type: nieuws
 date: 2018-10-23T07:35:15.000+00:00
 url: "/user-panel-vernieuwd/"
 contactpersoon:

@@ -1,5 +1,5 @@
 ---
-type: post
+type: nieuws
 title: Update platform (05-07-19)
 description: ''
 images: []

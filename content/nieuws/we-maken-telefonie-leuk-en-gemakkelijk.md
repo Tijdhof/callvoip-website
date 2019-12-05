@@ -1,5 +1,5 @@
 ---
-type: post
+type: nieuws
 title: "‘We maken telefonie leuk en gemakkelijk’"
 description: ''
 images: []

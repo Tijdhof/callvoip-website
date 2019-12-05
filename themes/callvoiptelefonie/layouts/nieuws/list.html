@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article>
-  {{ range first 1 (where (where .Site.Pages.ByDate.Reverse "Type" "post")  "Params.featured" true) }}
+  {{ range first 1 (where (where .Site.Pages.ByDate.Reverse "Type" "nieuws")  "Params.featured" true) }}
     {{- partial "components/post-featured.html" . -}}
   {{ end }}
 
@@ -13,7 +13,7 @@
     {{- partial "components/page-intro.html" . -}}
 
     <div class="md:flex md:flex-wrap md:-mx-2 lg:-mx-4 mb-12 md:mb-0">
-        {{ $paginator := .Paginate (where (where .Data.Pages.ByDate.Reverse "Type" "post") "Params.featured" "!=" true  ) 6 }}
+        {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "nieuws") 6 }}
         
         {{ range $paginator.Pages }}
         {{ $permalink := .Permalink }}
