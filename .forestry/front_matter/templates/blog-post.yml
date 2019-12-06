@@ -69,10 +69,11 @@ fields:
   name: tags
   label: tags
 pages:
-- content/nieuws/de-5-grootste-mythen-rondom-bellen-via-internet.md
-- content/nieuws/callvoip-click-to-dial-van-nummer-naar-slimme-toepassingen.md
-- content/nieuws/we-maken-telefonie-leuk-en-gemakkelijk.md
+- content/nieuws/tim-s-tools-whatsapp-business.md
+- content/nieuws/bèta-testers-gezocht.md
 - content/nieuws/update-platform-05-07-19.md
 - content/nieuws/sorteer-uw-klanten-op-postcode-gebied.md
-- content/nieuws/bèta-testers-gezocht.md
+- content/nieuws/de-5-grootste-mythen-rondom-bellen-via-internet.md
 - content/nieuws/nieuwe-website.md
+- content/nieuws/callvoip-click-to-dial-van-nummer-naar-slimme-toepassingen.md
+- content/nieuws/we-maken-telefonie-leuk-en-gemakkelijk.md
