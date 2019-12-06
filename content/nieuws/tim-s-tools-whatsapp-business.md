@@ -22,9 +22,9 @@ tags: []
 draft: true
 
 ---
-We whatsappen wat af met elkaar. Honderden berichten in vriendengroepen, foto’s van de kleinkinderen naar Opa en Oma of het avondeten afstemmen met je partner, we gebruiken Whatsapp voor allerhande berichten. De berichtenapp heeft in Nederland dan ook zijn weg gevonden naar 94% van de smartphones. En voor bedrijven ligt hier dus een kans om in contact te komen met jouw klanten via de app waar we met z’n allen zoveel gebruik van maken.
+We whatsappen wat af met elkaar. Honderden berichten in vriendengroepen, foto’s van de kleinkinderen naar Opa en Oma of het avondeten afstemmen met je partner, we gebruiken Whatsapp voor allerhande berichten. De berichtenapp heeft in Nederland dan ook zijn weg gevonden naar [94% van de smartphones](https://www.emerce.nl/nieuws/facebook-domineert-nederlands-speelveld-apps-berichten-sociale-media). En voor bedrijven ligt hier dus een kans om in contact te komen met jouw klanten via de app waar we met z’n allen zoveel gebruik van maken.
 
-Dit is eigenlijk ook al niet meer nieuw. We kunnen al lang whatsappen met veel grote organisaties als KLM, Interpolis etc. Maar wist je dat Whatsapp Business voor iedereen beschikbaar is? Dus niet alleen voor de KLMs van deze wereld, ook voor jou, als ondernemer die zijn zakelijke en privé Whatsapp nu héél misschien wel een beetje door elkaar heeft lopen. (Geef maar toe! ;-))
+Dit is eigenlijk ook al niet meer nieuw. We kunnen al lang whatsappen met veel grote organisaties als KLM, Interpolis etc. Maar wist je dat [Whatsapp Business](https://www.whatsapp.com/business/) voor iedereen beschikbaar is? Dus niet alleen voor de KLMs van deze wereld, ook voor jou, als ondernemer die zijn zakelijke en privé Whatsapp nu héél misschien wel een beetje door elkaar heeft lopen. (Geef maar toe! ;-))
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1575627200/whatsapp-business-web_i8itfl.png)
 
@@ -48,11 +48,13 @@ Als je jouw klanten de mogelijkheid geeft tot whatsappen, zou het kunnen dat er 
 
 Natuurlijk heeft Whatsapp dat ook allang bedacht en biedt een oplossing vergelijkbaar met de e-mailbox: Labels. Maak zelf labels aan die je aan de conversaties kunt hangen. Zo pas je de indeling aan op jouw business en kun je gemakkelijk alle conversaties doorzoeken.
 
-En het allermooiste: alles wat ik hierboven omschrijf kost je helemaal niets!
+En het allermooiste: alles wat ik hierboven omschrijf, **kost je helemaal niets**!
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1575627317/whatsapp-business-cartoon-web_alkoud.png)
 
 Na het lezen van deze lofzang hoor ik je denken: die Tim heeft aandelen daar of Callvoip krijgt op zijn minst een dikke kick-back voor elke nieuwe Whatsapp Business gebruiker. Nee! Dat is niet zo. We houden er gewoon van mensen te helpen met de communicatie. We zitten niet voor niets in de telefonie. En als er dan een mooi product is als dit, zien we het als meerwaarde om daar de aandacht aan te geven en de voordelen te belichten. Heb jij als fan mooi het voordeel van!
+
+Meer lezen over hoe je dat allemaal moet doen? Kan [hier](DUMMY LINK).
 
 \--
 
