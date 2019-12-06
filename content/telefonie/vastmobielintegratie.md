@@ -91,6 +91,16 @@ prijzen:
     title: Nu aanvragen
     link: "/aanvragen/vamos/"
   tarieven:
+- title: 0 GB Data
+  content: Onbeperkt bellen in EU, zonder data
+  tarieven:
+    title: Per SIM-kaart
+    footer: Prijzen zijn excl. BTW
+    items:
+    - title: Maandelijks
+      price: '35.00'
+    - title: Eenmalig
+      price: '25.00'
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
     items:
