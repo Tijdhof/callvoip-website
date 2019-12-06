@@ -2,7 +2,8 @@
 title: 'Tim’s Tools: Whatsapp Business'
 description: Er ligt ook voor jou een kans om in contact te komen met jouw klanten
   via Whatsapp Business.
-images: []
+images:
+- "/v1575627317/whatsapp-business-cartoon-web_alkoud.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -14,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2019-12-11T23:00:00+00:00
+date: 2019-12-11T23:00:00.000+00:00
 url: whatsapp-business-blog
 contactpersoon: []
 categories: []
