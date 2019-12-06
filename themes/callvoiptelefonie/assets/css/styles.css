@@ -175,6 +175,16 @@ p a:hover {
   }
 }
 
+.user-content h4 {
+  @apply text-lg font-medium mb-2 leading-tight;
+}
+
+@screen lg {
+  .user-content h4 {
+    @apply text-xl;
+  }
+}
+
 p .button + .button {
   @apply mt-2;
 }
