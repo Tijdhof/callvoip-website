@@ -1,0 +1,490 @@
+<div class="max-w-3xl mx-auto">
+  <div class="flex flex-wrap items-center">
+    <div class="w-full hidden md:block md:w-1/4 self-middle">
+      <div class="bg-blue-dark text-center py-4 pl-2 mt-32">
+        <div class="bg-white px-4 py-8 flex flex-col items-between">
+          <div class="mb-8 mt-2">
+            <div class="text-3xl text-blue-dark font-bold leading-none">
+              <p id="compare-title"></p>
+            </div>
+            <div class="text-xl font-medium"><p id="compare-desc"></p></div>
+          </div>
+          <div class="mb-12">
+            <ul class="border-t-2 border-blue-dark">
+              <li class="border-b-2 border-blue-dark text-2xl font-medium py-6">
+                <p id="compare-USP1"></p>
+              </li>
+              <li class="border-b-2 border-blue-dark text-2xl font-medium py-6">
+                <p id="compare-USP2"></p>
+              </li>
+              <li class="border-b-2 border-blue-dark text-2xl font-medium py-6">
+                <p id="compare-USP3"></p>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="w-full md:w-1/4 mb-4 md:mb-0">
+      <div class="bg-blue-dark text-center py-4 px-2 md:pl-2">
+        <div class="px-4 pt-4">
+          <div
+                  class="border-2 border-white text-center px-4 py-1 text-white text-3xl font-medium mb-6"
+          >
+            <p id="title-1"></p>
+          </div>
+          <img
+                  class="w-24 mx-auto opacity-50"
+                  src="/images/callvoip-circle.svg"
+                  alt=""
+          />
+        </div>
+        <div class="bg-white px-4 py-8 flex flex-col items-between">
+          <img
+                  class="w-24 mx-auto -mt-8 relative"
+                  src="/images/callvoip-ruit-dark.svg"
+                  alt=""
+                  style="top: -1px;"
+          />
+          <div class="mb-8 mt-2">
+            <div class="text-3xl text-blue-dark font-bold leading-none">
+              <p id="price-1"></p>
+            </div>
+            <div class="text-xl font-medium"><p id="desc-1"></p></div>
+            <div class="font-medium"><p id="eenmalig-1"></p></div>
+          </div>
+
+          <div class="mb-12">
+            <ul class="border-t-2 border-blue-dark">
+              <li
+                      class="border-b-2 border-blue-dark text-2xl font-medium py-6 relative"
+              >
+                <p id="table-1-USP1"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue-dark absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+              <li
+                      class="border-b-2 border-blue-dark text-2xl font-medium py-6 relative"
+              >
+                <p id="table-1-USP2"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue-dark absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+              <li
+                      class="border-b-2 border-blue-dark text-2xl font-medium py-6 relative"
+              >
+                <p id="table-1-USP3"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue-dark absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+                <div
+                        class="w-6 h-6 -ml-3 -mb-3 rounded-full bg-blue-dark absolute bottom-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <a
+
+                  class="bg-blue-dark hover:bg-blue text-white text-center px-4 py-4 text-lg w-full font-medium" id="button-1"
+          ><p id="button-1"></p></a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="w-full md:w-1/4 relative z-10 mb-4 md:mb-0">
+      <div class="bg-blue text-center py-4 px-2 shadow-xl">
+        <div class="px-4 pt-4 relative">
+          <div
+                  class="border-2 border-white text-center px-4 py-1 text-white text-3xl font-medium mb-6"
+          >
+            <p id="title-2"></p>
+          </div>
+          <div
+                  class="font-medium text-2xl md:text-base lg:text-lg xl:text-2xl text-white absolute right-0 mr-2 -mt-2"
+                  style="transform: rotate(-30deg);"
+          >
+            <p id="favo"></p>
+          </div>
+          <img
+                  class="w-24 mx-auto opacity-100"
+                  src="/images/callvoip-circle.svg"
+                  alt=""
+          />
+        </div>
+        <div class="bg-white px-4 py-8 flex flex-col items-between">
+          <img
+                  class="w-24 mx-auto -mt-8 relative"
+                  src="/images/callvoip-ruit-light.svg"
+                  alt=""
+                  style="top: -1px;"
+          />
+          <div class="mb-8 mt-2">
+            <div class="text-3xl text-blue-dark font-bold leading-none">
+              <p id="price-2"></p>
+            </div>
+            <div class="text-xl font-medium"><p id="desc-2"></p></div>
+            <div class="font-medium"><p id="eenmalig-2"></p></div>
+          </div>
+
+          <div class="mb-20">
+            <ul class="border-t-2 border-blue">
+              <li
+                      class="border-b-2 border-blue text-2xl font-medium py-6 relative"
+              >
+                <p id="table-2-USP1"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+              <li
+                      class="border-b-2 border-blue text-2xl font-medium py-6 relative"
+              >
+                <p id="table-2-USP2"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+              <li
+                      class="border-b-2 border-blue text-2xl font-medium py-6 relative"
+              >
+                <p id="table-2-USP3"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+                <div
+                        class="w-6 h-6 -ml-3 -mb-3 rounded-full bg-blue absolute bottom-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <a
+
+                  class="bg-blue hover:bg-blue-dark text-white text-center px-4 py-4 text-lg w-full font-medium" id="button-2"
+          ><p id="button-2"></p></a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="w-full md:w-1/4 mb-4 md:mb-0">
+      <div class="bg-blue-dark text-center py-4 px-2 md:pr-2">
+        <div class="px-4 pt-4">
+          <div
+                  class="border-2 border-white text-center px-4 py-1 text-white text-3xl font-medium mb-6"
+          >
+            <p id="title-3"></p>
+          </div>
+          <img
+                  class="w-24 mx-auto opacity-50"
+                  src="/images/callvoip-circle.svg"
+                  alt=""
+          />
+        </div>
+        <div class="bg-white px-4 py-8 flex flex-col items-between">
+          <img
+                  class="w-24 mx-auto -mt-8 relative"
+                  src="/images/callvoip-ruit-dark.svg"
+                  alt=""
+                  style="top: -1px;"
+          />
+          <div class="mb-8 mt-2">
+            <div class="text-3xl text-blue-dark font-bold leading-none">
+              <p id="price-3"></p>
+            </div>
+            <div class="text-xl font-medium"><p id="desc-3"></p></div>
+            <div class="font-medium"><p id="eenmalig-3"></p></div>
+          </div>
+
+          <div class="mb-12">
+            <ul class="border-t-2 border-blue-dark">
+              <li
+                      class="border-b-2 border-blue-dark text-2xl font-medium py-6 relative"
+              >
+                <p id="table-3-USP1"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue-dark absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+              <li
+                      class="border-b-2 border-blue-dark text-2xl font-medium py-6 relative"
+              >
+                <p id="table-3-USP2"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue-dark absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+              <li
+                      class="border-b-2 border-blue-dark text-2xl font-medium py-6 relative"
+              >
+                <p id="table-3-USP3"></p>
+                <div
+                        class="w-6 h-6 -ml-3 -mt-3 rounded-full bg-blue-dark absolute top-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+                <div
+                        class="w-6 h-6 -ml-3 -mb-3 rounded-full bg-blue-dark absolute bottom-0 left-0 flex items-center justify-center text-white text-sm"
+                        style="left: 50%;"
+                >
+                  <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="fas"
+                          data-icon="check"
+                          class="svg-inline--fa fa-check fa-w-16"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                  >
+                    <path
+                            fill="currentColor"
+                            d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
+                    ></path>
+                  </svg>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <a
+
+                  class="bg-blue-dark hover:bg-blue text-white text-center px-4 py-4 text-lg w-full font-medium" id="button-3"
+          ><p id="button-3"></p></a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>	//------Om content aantepassen, pas de text aan die tussen de  = " "; staat vlak voor de //    De // geeft aan wat je aanpast </script>
+
+
+<script> //---------------------Vergelijkings tabel--------------------- </script>
+<script>document.getElementById("compare-title").innerHTML = "Kosten"; //Title boven</script>
+<script>document.getElementById("compare-desc").innerHTML = "Desc"; //Text onder title - plaats geen tekst tussen de "" als je geen text wilt onder de title</script>
+<script>document.getElementById("compare-USP1").innerHTML = "Snelheid"; //Vergelijking 1</script>
+<script>document.getElementById("compare-USP2").innerHTML = "Wifi"; //Vergelijking 2</script>
+<script>document.getElementById("compare-USP3").innerHTML = "Extra Feature"; //Vergelijking 3</script>
+
+
+<script> //---------------------Linker tabel--------------------- </script>
+<script>document.getElementById("title-1").innerHTML = "DSL"; //Title boven</script>
+<script>document.getElementById("price-1").innerHTML = "10.00"; //Prijs</script>
+<script>document.getElementById("desc-1").innerHTML = "Per Maand"; //Text onder prijs</script>
+<script>document.getElementById("eenmalig-1").innerHTML ="Eenmalig 30,-"; //Eenmalige prijs - plaats geen tekst tussen de "" als je geen eenmalige prijs wilt</script>
+<script>document.getElementById("table-1-USP1").innerHTML = "100mb"; //USP 1</script>
+<script>document.getElementById("table-1-USP2").innerHTML = "met wifi"; //USP 2</script>
+<script>document.getElementById("table-1-USP3").innerHTML = "table1-USP3"; //USP 3</script>
+<script>document.getElementById("button-1").innerHTML = "Offerte"; //Text in button</script>
+<script>document.getElementById("button-1").href = "https://www.callvoip.nl/uitproberen/"; //Link van de button</script>
+
+
+<script> //---------------------Middelste tabel--------------------- </script>
+<script>document.getElementById("title-2").innerHTML = "Glasvezel";</script>
+<script>document.getElementById("favo").innerHTML ="Favoriet";</script>
+<script>document.getElementById("price-2").innerHTML = "25.00";</script>
+<script>document.getElementById("desc-2").innerHTML = "Per Maand";</script>
+<script>document.getElementById("eenmalig-2").innerHTML ="Eenmalig 10,-";</script>
+<script>document.getElementById("table-2-USP1").innerHTML = "300mb";</script>
+<script>document.getElementById("table-2-USP2").innerHTML = "met wifi";</script>
+<script>document.getElementById("table-2-USP3").innerHTML = "table1-USP3";</script>
+<script>document.getElementById("button-2").innerHTML = "Offerte aanvragen";</script>
+<script>document.getElementById("button-2").href = "https://www.callvoip.nl/uitproberen/";</script>
+
+
+<script> //---------------------Rechter tabel--------------------- </script>
+<script>document.getElementById("title-3").innerHTML = "Kabel";</script>
+<script>document.getElementById("price-3").innerHTML = "15.00";</script>
+<script>document.getElementById("desc-3").innerHTML = "Per Maand";</script>
+<script>document.getElementById("eenmalig-3").innerHTML ="Eenmalig 30,-";</script>
+<script>document.getElementById("table-3-USP1").innerHTML = "200mb";</script>
+<script>document.getElementById("table-3-USP2").innerHTML = "met wifi";</script>
+<script>document.getElementById("table-3-USP3").innerHTML = "table1-USP3";</script>
+<script>document.getElementById("button-3").innerHTML = "Offerte aanvragen";</script>
+<script>document.getElementById("button-3").href = "https://www.callvoip.nl/uitproberen/";</script>
