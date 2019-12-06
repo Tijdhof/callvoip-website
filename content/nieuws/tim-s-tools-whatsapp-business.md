@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2019-12-11T23:00:00+00:00
 url: whatsapp-business-blog
 contactpersoon: []
 categories: []
