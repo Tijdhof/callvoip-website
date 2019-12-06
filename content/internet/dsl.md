@@ -113,7 +113,7 @@ menu:
     post: fa-wifi
 
 ---
-{{< tabel-dsl >}}
+{{< dsl-tabel >}}
 
 ## Extra mogelijkheden CallvoipDSL
 
