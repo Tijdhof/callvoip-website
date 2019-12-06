@@ -199,8 +199,8 @@ pages:
 - content/oplossingen/zelfstandigen.md
 - content/oplossingen/mkb.md
 - content/oplossingen/trunk.md
-- content/internet/glasvezel.md
 - content/internet/dsl.md
+- content/internet/glasvezel.md
 - content/telefonie/integratiemetcrm.md
 - content/telefonie/operator-console.md
 - content/telefonie/qaller.md
