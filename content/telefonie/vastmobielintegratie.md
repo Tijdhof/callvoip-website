@@ -86,13 +86,11 @@ intro:
   content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in drie verschillende
     abonnementen:'
 prijzen:
-- content: Onbeperkt bellen in EU + 2GB data
+- title: 0 GB data
+  content: Onbeperkt bellen in EU, zonder data
   button:
     title: Nu aanvragen
     link: "/aanvragen/vamos/"
-  tarieven:
-- title: 0 GB Data
-  content: Onbeperkt bellen in EU, zonder data
   tarieven:
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
@@ -101,6 +99,11 @@ prijzen:
       price: '35.00'
     - title: Eenmalig
       price: '25.00'
+- content: Onbeperkt bellen in EU + 2GB data
+  button:
+    title: Nu aanvragen
+    link: "/aanvragen/vamos/"
+  tarieven:
     title: Per SIM-kaart
     footer: Prijzen zijn excl. BTW
     items:
