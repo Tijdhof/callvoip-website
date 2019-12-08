@@ -19,7 +19,7 @@ hidesocialshare: false
 * <a href="https://mailchi.mp/callvoip/sep19-nieuwewebsite" target="_blank">Nieuwsbrief 09-09-19 | Yes! Nieuw logo, nieuwe website!</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_juli-2019.pdf" target="_blank">Simmpl Feature Update - juli 2019</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-juli19-bereikbaarheid" target="_blank">Nieuwsbrief 17-07-19: Uw bereikbaarheid in beeld</a>
-* <a href="https://mailchi.mlvoip/simmpl-juli19-aankondiging" target="_blank">Nieuwsbrief 04-07-19: aankondiging onderhoud en nieuwe features!</a>
+* <a href="https://mailchi.mp/callvoip/simmpl-juli19-aankondiging" target="_blank">Nieuwsbrief 04-07-19: aankondiging onderhoud en nieuwe features!</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-mei19" target="_blank">CallvoipTelefonie nieuwsbrief 28-05-19: Teamnieuws, Feature Roadmap en feestdagen</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-april19" target="_blank">CallvoipTelefonie nieuwsbrief 16-04-19: Vamos Primeur! … en meer mooi nieuws</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-feb19" target="_blank">CallvoipTelefonie nieuwsbrief 27-02-19: 4G internet, Click to Dial, Carnaval!</a>
