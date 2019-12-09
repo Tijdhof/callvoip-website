@@ -36,8 +36,6 @@ blocks:
         url: /telefonie/clicktodial/
       - title: Software-integratie
         url: /telefonie/integratiemetcrm/
-      - title: VoIP-tarieven
-        url: /
   - title: Telefoonnummers
     links:
       - title: Regionale nummers
@@ -46,8 +44,10 @@ blocks:
         url: /telefonie/telefoonnummers/
       - title: Internationale nummers
         url: /telefonie/telefoonnummers/
-      - title: Servicenummers (0900/0800)
+      - title: Service nummers (0900/0800)
         url: /telefonie/telefoonnummers/
+      - title: Mobiele nummers
+        url: /telefonie/vastmobielintegratie/
   - title: Oplossingen
     links:
       - title: Telefonie-oplossingen
