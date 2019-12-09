@@ -60,18 +60,18 @@ blocks:
         url: /telefonie/integratiemetcrm/
       - title: Vast Mobiel
         url: /telefonie/vastmobielintegratie/
-      - title: 5 Mythen over VoIP
-        url: /5-mythen-over-voip/
   - title: Kenniscentrum
     links:
       - title: Status
         url: /status/
       - title: Support
         url: /ondersteuning/
-      - title: Mijn Callvoip (formulieren)
-        url: /mijncallvoip/
       - title: Webshop
         url: /pages/webshop/
+      - title: Mijn Callvoip (formulieren)
+        url: /mijncallvoip/
+      - title: 5 Mythen over VoIP
+        url: /5-mythen-over-voip/
   - title: Callvoip
     links:
       - title: Over ons
