@@ -48,30 +48,40 @@ blocks:
         url: /telefonie/telefoonnummers/
       - title: Servicenummers (0900/0800)
         url: /telefonie/telefoonnummers/
-  - title: Internet
+  - title: Oplossingen
     links:
-      - title: Callvoip Business DSL
-        url: /internet/dsl/
-      - title: ZIGGO Kabelinternet
-        url: /internet/kabel/
-      - title: Internet via Glasvezel
-        url: /internet/glasvezel/
-      - title: Managed 4G internet
-        url: /internet/managed-4g-oplossing/
+      - title: Telefonie-oplossingen
+        url: /telefonie/
+      - title: Internet-oplossingen
+        url: /internet/
+      - title: Branche-oplossingen
+        url: /oplossingen/branches/
+      - title: Software-integratie
+        url: /telefonie/integratiemetcrm/
+      - title: Vast Mobiel
+        url: /telefonie/vastmobielintegratie/
+      - title: 5 Mythen over VoIP
+        url: /5-mythen-over-voip/
+  - title: Kenniscentrum
+    links:
+      - title: Status
+        url: /status/
+      - title: Support
+        url: /ondersteuning/
+      - title: Mijn Callvoip (formulieren)
+        url: /mijncallvoip/
+      - title: Webshop
+        url: /pages/webshop/
   - title: Callvoip
     links:
-      - title: Over Callvoip
+      - title: Over ons
         url: /overons/hetbedrijf/
       - title: Team
         url: /overons/team/
       - title: Nieuws
         url: /nieuws/
-      - title: Support
-        url: /ondersteuning/
-      - title: Webshop
-        url: /pages/webshop/
+      - title: Testimonials
+        url: /testimonials/
       - title: Contact
         url: /contact/
-  - title: Contact
-    content: <p class="mb-4">Callvoip <br> Koldingweg 19-1 <br> 9723 HL Groningen</p><p><a href="tel:+31508200000">050 - 820 00 00</a> <br> <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a> </p>
-      
+    content: <p class="mb-4"><br><b>Callvoip</b><br>Koldingweg 19-1 <br> 9723 HL Groningen</p><p><a href="tel:+31508200000">050 - 820 00 00</a> <br> <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a> </p>
