@@ -50,13 +50,13 @@ blocks:
         url: /telefonie/vastmobielintegratie/
   - title: Oplossingen
     links:
-      - title: Telefonie-oplossingen
+      - title: Uitgekiende telefonie
         url: /telefonie/
-      - title: Internet-oplossingen
+      - title: Zakelijk internet
         url: /internet/
-      - title: Branche-oplossingen
+      - title: Branche oplossingen
         url: /oplossingen/branches/
-      - title: Software-integratie
+      - title: Software integratie
         url: /telefonie/integratiemetcrm/
       - title: Vast Mobiel
         url: /telefonie/vastmobielintegratie/
@@ -66,8 +66,8 @@ blocks:
         url: /status/
       - title: Support
         url: /ondersteuning/
-      - title: Webshop
-        url: /pages/webshop/
+      - title: Nieuws
+        url: /nieuws/
       - title: Mijn Callvoip (formulieren)
         url: /mijncallvoip/
       - title: 5 Mythen over VoIP
@@ -78,8 +78,8 @@ blocks:
         url: /overons/hetbedrijf/
       - title: Team
         url: /overons/team/
-      - title: Nieuws
-        url: /nieuws/
+      - title: Webshop
+        url: /pages/webshop/
       - title: Testimonials
         url: /testimonials/
       - title: Contact
