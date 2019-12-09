@@ -14,11 +14,13 @@ hero:
     content: 'Hosted telefonie van :house: 1 tot 100+ :office: gebruikers'
     link: oplossingen/branches/
     id: cta-mkb
-  - iconimage: /icons/qaller-icon.svg
+    iconimage: ''
+  - iconimage: "/icons/qaller-icon.svg"
     title: Uitgekiende Vast Mobiel integratie
     content: Upgrade de smartphone naar volwaardige IP telefoon
     link: telefonie/qaller/
     id: cta-vamos
+    icon: ''
 intro:
   image: "/v1571400615/home_omkizz.png"
   title: Voordelig bellen vanuit de cloud
@@ -30,10 +32,13 @@ intro:
   items:
   - icon: fa-file-contract
     content: Geen lange moeilijke contracten, maandelijks opzegbaar
+    iconimage: ''
   - icon: fa-boxes-alt
     content: Flexibel en schaalbaar. Eenvoudige bediening via een eigen veilige omgeving.
+    iconimage: ''
   - icon: fa-piggy-bank
     content: Tot wel 50% voordeliger dan traditionele telefonie.
+    iconimage: ''
 options:
   title: Geen gedoe, alles onder één dak!
   content: Onze dienstverlening reikt verder dan alleen telefonie. Wij verzorgen betrouwbaar
@@ -45,67 +50,89 @@ options:
       Bepaal simpel zèlf hoe je bereikbaar bent.
     link: "/telefonie/hostedvoip/"
     tab: true
+    iconimage: ''
   - icon: fa-wifi
     title: Kabel, DSL, glasvezel of misschien wel 4G?
     content: Internet is een belangrijke basis van de werkplek. Wij verzorgen stabiele
       razendsnelle verbindingen voor elke situatie.
     link: "/internet/postcodecheck/"
     tab: true
+    iconimage: ''
   - icon: fa-tty
     title: Kennis van de juiste apparaatur
     content: Of het nu gaat om IP toestellen, headsets, routers of accesspoint. Wij
       geven gratis advies en kunnen de apparatuur plug and play leveren.
     link: "/pages/webshop/"
     tab: true
+    iconimage: ''
   - icon: fa-headset
     title: 'Hulp nodig? We zijn blij :smile: als je belt!'
     content: Geen lange wachttijden of eindeloze menu's. Bij ons ben je geen nummer
       en spreek je direct met een specialist, dat is wel zo prettig.
     link: "/ondersteuning/"
     tab: true
+    iconimage: ''
   image: ''
 usps:
 - title: Vanaf 1 tot 100+ gebruikers
-  content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies voor optimale bereikbaarheid én een professionele uitstraling. En dat met een ongekend bedieningsgemak.
-              <br><br>Van automatische meldteksten tot slimme doorschakelingen, instelling hiervan is een fluitje van een cent. Benieuwd naar alle mogelijkheden?</p> <br> <a
-    href="/telefonie/functionaliteiten/" class="button">Alle functies op een rij</a>
+  content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies
+    voor optimale bereikbaarheid én een professionele uitstraling. En dat met een
+    ongekend bedieningsgemak. <br><br>Van automatische meldteksten tot slimme doorschakelingen,
+    instelling hiervan is een fluitje van een cent. Benieuwd naar alle mogelijkheden?</p>
+    <br> <a href="/telefonie/functionaliteiten/" class="button">Alle functies op een
+    rij</a>
   items:
   - icon: fa-clock
     title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
-    content: Definieer vooraf tijden waarin bepaalde acties worden uitgevoerd (bijv. tijdens de Feestdagen)
+    content: Definieer vooraf tijden waarin bepaalde acties worden uitgevoerd (bijv.
+      tijdens de feestdagen)
+    iconimage: ''
   - icon: fa-arrows-h
     title: <a href="/telefonie/functionaliteiten/doorverbinden/">Doorverbinden</a>
     content: Inkomende oproep doorzetten naar een intern of extern nummer.
+    iconimage: ''
   - icon: fa-users
     title: <a href="/telefonie/functionaliteiten/belgroep/">Belgroep</a>
     content: Inkomende oproep op een groep van toestellen laten overgaan.
+    iconimage: ''
   - icon: fa-random
     title: <a href="/telefonie/functionaliteiten/omleiding/">Slimme aan/uitschakelaars</a>
     content: Aan-/uitschakelaar om belroute (bijv. ad hoc) te wijzigen.
+    iconimage: ''
   - icon: fa-bell
     title: <a href="/telefonie/functionaliteiten/meldtekst/">Meldteksten</a>
     content: Voeg ingesproken tesksten toe aan de inkomende belroute (bijv. welkom).
+    iconimage: ''
   - icon: fa-file-audio
     title: <a href="/telefonie/functionaliteiten/voicemail/">Voicemailbox</a>
     content: Vang inkomende oproep op en geef mogelijkheid tot inspreken.
+    iconimage: ''
   - icon: fa-bars
     title: <a href="/telefonie/functionaliteiten/keuzemenu/">Keuzemenu</a>
     content: Professionele manier om uw klant naar de juiste route te begeleiden.
+    iconimage: ''
   - icon: fa-sort-numeric-down
     title: <a href="/telefonie/functionaliteiten/wachtrij/">Wachtrij</a>
     content: Vang inkomende oproepen op en voorzie deze van muziek en meldteksten.
+    iconimage: ''
   - icon: fa-file-pdf
     title: <a href="/telefonie/functionaliteiten/fax/">Faxbox</a>
     content: Digitaal ontvangen en versturen van faxberichten (incl. bevestiging).
+    iconimage: ''
   - icon: fa-deaf
     title: <a href="/telefonie/functionaliteiten/gespreksopname/">Gespreksopname</a>
-    content:  Jouw telefoongesprekken opnemen en terugluisteren. Je kunt het zelf per gebruiker in- en uitschakelen.
+    content: Jouw telefoongesprekken opnemen en terugluisteren. Je kunt het zelf per
+      gebruiker in- en uitschakelen.
+    iconimage: ''
   - icon: fa-mouse-pointer
     title: <a href="/telefonie/clicktodial/">Integratiemogelijkheden</a>
-    content: Koppel jouw telefonie met je overige applicaties en CRM-systeem met de handige gratis Click-to-Dial chrome plugin en de VoIP CTI koppeling. 
+    content: Koppel jouw telefonie met je overige applicaties en CRM-systeem met de
+      handige gratis Click-to-Dial chrome plugin en de VoIP CTI koppeling.
+    iconimage: ''
   - icon: fa-mobile
     title: <a href="/telefonie/qaller/">App met afstandsbediening</a>
     content: Bel uit met het zakelijke nummer en beheer de centrale via jouw smartphone
+    iconimage: ''
 prefooter:
   title: Wil jij ook zorgeloos bereikbaar zijn?
   content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk
