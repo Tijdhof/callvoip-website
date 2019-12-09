@@ -109,10 +109,10 @@
             </div>
             <div class="flex-1 pt-2">
               {{ with .title }}
-              <h4 class="text-lg lg:text-2xl font-medium mb-2">{{ . }}</h4>
+              <h4 class="text-lg text-grey-dark lg:text-2xl font-medium mb-2">{{ . | markdownify }} </h4>
               {{ end }}
               {{ with .content }}
-              <p class="font-medium text-grey-medium leading-large lg:text-lg">{{ . | markdownify }} </p>
+              <p class="font-normal text-grey-dark leading-large lg:text-lg">{{ . | markdownify }} </p>
               {{ end }}
             </div>
           </div>
