@@ -30,11 +30,11 @@ blocks:
         url: /telefonie/hostedvoip/
       - title: VoIP Trunk
         url: /oplossingen/trunk/
-      - title: Vast-mobiel integratie
+      - title: Vast Mobiel integratie
         url: /telefonie/vastmobielintegratie/
       - title: Click-to-Dial
         url: /telefonie/clicktodial/
-      - title: Software-integratie
+      - title: Software integratie
         url: /telefonie/integratiemetcrm/
   - title: Telefoonnummers
     links:
@@ -58,7 +58,7 @@ blocks:
         url: /oplossingen/branches/
       - title: Software integratie
         url: /telefonie/integratiemetcrm/
-      - title: Vast Mobiel
+      - title: Vast Mobiel integratie
         url: /telefonie/vastmobielintegratie/
   - title: Kenniscentrum
     links:
@@ -72,7 +72,7 @@ blocks:
         url: /nieuws/
       - title: Mijn Callvoip (formulieren)
         url: /mijncallvoip/
-      - title: Blog: 5 Mythen over VoIP
+      - title: Blog - 5 Mythen over VoIP
         url: /5-mythen-over-voip/
   - title: Callvoip
     links:
