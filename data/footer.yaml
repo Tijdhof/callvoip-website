@@ -64,13 +64,15 @@ blocks:
     links:
       - title: Status
         url: /status/
+      - title: Login
+        url: /login/
       - title: Support
         url: /ondersteuning/
       - title: Nieuws
         url: /nieuws/
       - title: Mijn Callvoip (formulieren)
         url: /mijncallvoip/
-      - title: 5 Mythen over VoIP
+      - title: Blog: 5 Mythen over VoIP
         url: /5-mythen-over-voip/
   - title: Callvoip
     links:
