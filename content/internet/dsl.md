@@ -113,7 +113,6 @@ menu:
     post: fa-wifi
 
 ---
-{{< tabelprijzen >}}
 
 ## Extra mogelijkheden CallvoipDSL
 
