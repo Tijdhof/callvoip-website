@@ -20,6 +20,7 @@ url: whatsapp-business-blog
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 draft: true
 
 ---
