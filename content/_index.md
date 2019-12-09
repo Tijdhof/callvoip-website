@@ -109,7 +109,7 @@ usps:
     iconimage: ''
   - icon: fa-bars
     title: <a href="/telefonie/functionaliteiten/keuzemenu/">Keuzemenu</a>
-    content: Professionele manier om uw klant naar de juiste route te begeleiden.
+    content: Professionele manier om jouw klant naar de juiste route te begeleiden.
     iconimage: ''
   - icon: fa-sort-numeric-down
     title: <a href="/telefonie/functionaliteiten/wachtrij/">Wachtrij</a>
@@ -131,7 +131,7 @@ usps:
     iconimage: ''
   - icon: fa-mobile
     title: <a href="/telefonie/qaller/">App met afstandsbediening</a>
-    content: Bel uit met het zakelijke nummer en beheer de centrale via jouw smartphone
+    content: Bel uit met het zakelijke nummer en beheer de centrale via jouw smartphone.
     iconimage: ''
 prefooter:
   title: Wil jij ook zorgeloos bereikbaar zijn?
