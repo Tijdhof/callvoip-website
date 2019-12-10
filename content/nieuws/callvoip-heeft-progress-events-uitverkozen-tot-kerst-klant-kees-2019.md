@@ -24,7 +24,7 @@ draft: true
 ---
 **Callvoip heeft Progress Events uitverkozen tot Kerst-Klant-Kees 2019!**
 
-**![](https://lh5.googleusercontent.com/6e8CbMDUjznbgAHXH7_VWMU_R238Q9kjGPqecPtHJTCv_VjLCVJMGiOEGAU_dmhCh2qU31W2hjDQQRx2uoX0tF09b30gckDuQdzQphwkwQ3sJVsTGxBjvEnVfIiC5gDxcYDBn2Kz =602x316)**
+**![](https://lh5.googleusercontent.com/6e8CbMDUjznbgAHXH7_VWMU_R238Q9kjGPqecPtHJTCv_VjLCVJMGiOEGAU_dmhCh2qU31W2hjDQQRx2uoX0tF09b30gckDuQdzQphwkwQ3sJVsTGxBjvEnVfIiC5gDxcYDBn2Kz "Progress Maik en Arianne" =602x316)**
 
 **Waarom dan?** [**Callvoip**](https://www.callvoip.nl/) **gaat met regelmaat inspirerende bedrijfsverhalen vertellen over haar klanten. De eerste is** [**Progress Events**](https://progressevents.nl/) **uit Groningen. Dit horeca- & evenementenbureau doet alles op basis van bewust maatschappelijk verantwoord ondernemen. Een duurzaam duo dus, als het gaat om mede-eigenaren en echtpaar Maik van Heerd & Arianne Vreeburg-van Heerd. Ook Callvoip heeft affiniteit met dat veelzijdige woord; duurzaamheid. Namelijk het onderhouden van een duurzame band met haar klanten. Door middel van betrokkenheid tonen om een klant echt te leren kennen.**
 
