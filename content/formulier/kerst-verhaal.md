@@ -11,7 +11,7 @@ hideingoogle: true
 <br>
 Leuke actie, Callvoip! Ik meld me aan voor de verloting van dat verrukkelijke speciaalbierpakket van Rockin' Ludina Brewery. <br>Laat ons ook weten of je het leuk vindt om met jouw verhaal als volgende op het Callvoip podium te verschijnen.</center>
 
-{{< form "Kerst-Verhaal-insturen" "/aanvragen/verzonden" >}}  
+{{< form "Kerst-Verhaal-insturen" "/aanvragen/kerst/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
 {{< form/to "aanvragen">}}
 
