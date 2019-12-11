@@ -5,7 +5,9 @@ hideinsearch: true
 hideingoogle: true
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1568809641/500_lux9iz.jpg)  
+<center>
+![](https://res.cloudinary.com/callvoip/image/upload/v1568809641/500_lux9iz.jpg)
+</center>
 
 
 Leuke actie, Callvoip! Ik meld me aan voor de verloting van dat verrukkelijke speciaalbierpakket van Rockin' Ludina Brewery. <br>Laat ons ook weten of je het leuk vindt om met jouw verhaal als volgende op het Callvoip podium te verschijnen.
