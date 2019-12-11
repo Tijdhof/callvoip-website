@@ -60,8 +60,9 @@ Dit soort essentiële vragen hebben eerlijke, afgemeten antwoorden nodig. Samenw
 
 ## Win een Rockin’ Ludina Kerstpakket!
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1575992580/Rockin_Ludina_Brewery_erzunl.png)  
-Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Arianne is dat zij hun eigen microbrouwerij, genaamd [‘Rockin' Ludina Brewery’](https://rockinludina.nl/), hebben opgericht. En Callvoip mag vijf zorgvuldig samengestelde speciaalbier-kerstpakketten van deze te gekke brouwerij weggeven, Met daarin onder andere het eerste alcoholvrije bier uit het Noorden, aan onze klanten. Meld je aan via onderstaande link om kans te maken op deze verrukkelijke bieren. We zouden het helemaal leuk vinden wanneer we jouw verhaal als volgende mogen optekenen. 
+![](https://res.cloudinary.com/callvoip/image/upload/v1576072687/500_lux9iz.jpg)
+
+Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Arianne is dat zij hun eigen microbrouwerij, genaamd [‘Rockin' Ludina Brewery’](https://rockinludina.nl/), hebben opgericht. En Callvoip mag vijf zorgvuldig samengestelde speciaalbier-kerstpakketten van deze te gekke brouwerij weggeven, Met daarin onder andere het eerste alcoholvrije bier uit het Noorden, aan onze klanten. Meld je aan via onderstaande link om kans te maken op deze verrukkelijke bieren. We zouden het helemaal leuk vinden wanneer we jouw verhaal als volgende mogen optekenen.
 
 > Dus alle succes en een fijn kerstfeest 2019 gewenst door Progress Events en Callvoip. Dat 2020 maar een inspirerend en duurzaam jaar mag worden voor iedereen!
 
