@@ -13,7 +13,7 @@ Leuke actie, Callvoip! Ik meld me aan voor de verloting van dat verrukkelijke sp
 
 {{< form "Kerst-Verhaal-insturen" "/aanvragen/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
-{{< form/to "info">}}
+{{< form/to "aanvragen">}}
 
 {{< form/fieldset " " >}}
 
