@@ -12,7 +12,7 @@ Leuke actie, Callvoip! Ik meld me aan voor de verloting van dat verrukkelijke sp
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
 {{< form/to "info">}}
 
-{{< form/fieldset "Meld je aan om een Ludina speciaalbier pakket te winnen" >}}
+{{< form/fieldset "" >}}
 
 {{< form/input "Bedrijfsnaam" >}}
 
