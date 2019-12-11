@@ -66,4 +66,4 @@ Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Ar
 
 > Dus alle succes en een fijn kerstfeest 2019 gewenst door Progress Events en Callvoip. Dat 2020 maar een inspirerend en duurzaam jaar mag worden voor iedereen!
 
-<a href="/kerst/" class="button">Ja, ik doe mee"</a>
+<a href="/kerst/" class="button">Ja, ik doe mee</a>
