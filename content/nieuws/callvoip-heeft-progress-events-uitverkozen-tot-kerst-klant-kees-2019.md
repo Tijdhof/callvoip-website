@@ -41,7 +41,7 @@ Stilzitten is voor Maik en Arianne geen optie. De successen van De Toeter waren 
 
 Maik en Arianne liepen naast hun passie voor whisky’s en speciaalbieren voorop met het organiseren van pubquizzen. Dit breidde zich uit tot het ontwikkelen van steeds meer leuke entertainment zoals; workshops, proeverijen en een keur aan binnen- en buitenactiviteiten voor grote en kleine groepen. De activiteiten vonden plaats in het Café de Toeter, Café het Catshuys, de binnenstad, de terrassen, verschillende rondvaart- en woonboten, het destijds braakliggende Ebbingekwartier en zelfs op een toen nog legale quizfiets.
 
-**_“Wat het brein kan bedenken, kan ook worden bereikt.”_** _bron - Napoleon Hill_
+> **_“Wat het brein kan bedenken, kan ook worden bereikt.”_** _bron - Napoleon Hill_
 
 Tegelijkertijd had het energieke duo dromen om spraakmakende en nieuwe Groningse events te organiseren. Deze events dienden jaarlijks te geschieden op unieke Groningse locaties. Ze moesten toegankelijk zijn voor een groot publiek en gekenmerkt worden door de kernwaarden van hun inmiddels hard groeiende bedrijf; water, horeca en entertainment. Dromen duren bij Maik en Arianne slechts een paar nachtjes. Ze jagen ze direct na. Uiteindelijk resultaat? Een drietal jaarlijks terugkerende Groningse evenementen waar duizenden bezoekers en participanten op afkomen. Dit zijn; Bierfestival Groningen en de Open Nederlandse Quiz Contest. Deze vinden beiden plaats in de fraaie Martinikerk. Tenslotte is er nog de Grachtenparade waarbij een rondje diepenring wordt gevaren met tientallen boten en aandacht wordt gevraagd voor water en duurzaamheid.
 
