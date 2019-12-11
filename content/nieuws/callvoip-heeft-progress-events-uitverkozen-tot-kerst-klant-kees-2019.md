@@ -1,9 +1,9 @@
 ---
-title: Callvoip heeft Progress Events uitverkozen tot Kerst-Klant-Kees 2019!
+title: Callvoip heeft Progress Events uitverkozen tot Kerst-Klant-Verhaal 2019!
 description: Callvoip vertelt inspirerende bedrijfsverhalen over haar klanten. De
   eerste is Progress Events uit Groningen.
 images:
-- "/v1575991770/Social-De-Toeter-1_u5mid2.jpg"
+- "/v1576072687/500_lux9iz.jpg"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -16,7 +16,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 2019-12-10T23:00:00.000+00:00
-url: kerst-klant-verhaal-2019
+url: kerst-klant-kees-2019
 contactpersoon: []
 categories: []
 tags: []
