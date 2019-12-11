@@ -60,7 +60,7 @@ Dit soort essentiële vragen hebben eerlijke, afgemeten antwoorden nodig. Samenw
 
 ## Win een Rockin’ Ludina Kerstpakket!
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1576072687/500_lux9iz.jpg)
+![](https://res.cloudinary.com/callvoip/image/upload/v1576077750/800_sz4vjh.jpg)
 
 Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Arianne is dat zij hun eigen microbrouwerij, genaamd [‘Rockin' Ludina Brewery’](https://rockinludina.nl/), hebben opgericht. En Callvoip mag vijf zorgvuldig samengestelde speciaalbier-kerstpakketten van deze te gekke brouwerij weggeven, Met daarin onder andere het eerste alcoholvrije bier uit het Noorden, aan onze klanten. Meld je aan via onderstaande link om kans te maken op deze verrukkelijke bieren. We zouden het helemaal leuk vinden wanneer we jouw verhaal als volgende mogen optekenen.
 
