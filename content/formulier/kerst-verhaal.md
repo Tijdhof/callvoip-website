@@ -31,6 +31,6 @@ Leuke actie, Callvoip! Ik meld me aan voor de verloting van dat verrukkelijke sp
 
 {{</ form/fieldset >}}
 
-{{< form/button "Doe mee" >}}
+<center>{{< form/button "Doe mee" >}}</center>
 
 {{</ form >}}
