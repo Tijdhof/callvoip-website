@@ -16,7 +16,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 2019-12-10T23:00:00.000+00:00
-url: kerst-klant-kees-2019
+url: kerst-klant-verhaal-2019
 contactpersoon: []
 categories: []
 tags: []
