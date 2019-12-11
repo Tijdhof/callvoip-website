@@ -23,9 +23,7 @@ tags: []
 draft: true
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1575991770/Social-De-Toeter-1_u5mid2.jpg)
-
-### _bron: grunnegerpower.nl_
+![](https://res.cloudinary.com/callvoip/image/upload/v1575991770/Social-De-Toeter-1_u5mid2.jpg)_bron: grunnegerpower.nl_
 
 **Waarom dan?** [**Callvoip**](https://www.callvoip.nl/) **gaat met regelmaat inspirerende bedrijfsverhalen vertellen over haar klanten. De eerste is** [**Progress Events**](https://progressevents.nl/) **uit Groningen. Dit horeca- & evenementenbureau doet alles op basis van bewust maatschappelijk verantwoord ondernemen. Een duurzaam duo dus, als het gaat om mede-eigenaren en echtpaar Maik van Heerd & Arianne Vreeburg-van Heerd. Ook Callvoip heeft affiniteit met dat veelzijdige woord; duurzaamheid. Namelijk het onderhouden van een duurzame band met onze klanten. Door middel van betrokkenheid tonen om een klant echt te leren kennen en beter te kunnen helpen.**
 
@@ -59,7 +57,8 @@ Ergens gedurende deze expansiedrift is de naam ‘Progress Events BV’ geboren.
 
 Dit soort essentiële vragen hebben eerlijke, afgemeten antwoorden nodig. Samenwerken met vakkundige partijen die naast je staan in plaats van tegenover je, zijn daarbij belangrijk. Progress Events en Callvoip verstaan elkaar op dat vlak. Een kennismakingsgesprek vond plaats en daarop volgde snel een proefperiode. Zo kon men de voordelen ervaren van onze zakelijke telefonie. Het resultaat is dat Maik en Arianne fan zijn van onze slimme aanpak, de aangeboden diensten en producten, plus onze no-nonsens mentaliteit volgens Maik zijn bewoordingen. Met dit bedrijfsverhaal willen wij laten zien dat wij ook fan zijn van Progress Events. En zo hoort het wat ons betreft. Je doet iets om te verbinden en te groeien. Tevreden klanten bedienen en op basis van gelijkwaardigheid samen streven naar het realiseren van mooie doelen. Elkaars ambassadeur willen zijn want niemand kan het tenslotte alleen. Een mooie kerstgedachte dachten wij zo.
 
-##   
+## 
+
 Win een Rockin’ Ludina Kerstpakket!
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1575992580/Rockin_Ludina_Brewery_erzunl.png)  
