@@ -5,7 +5,7 @@ hideinsearch: true
 hideingoogle: true
 
 ---
-<img src="/v1570097106/500_lux9iz.jpg">
+<img src="/v1570097106/500_lux9iz.jpg"></img>
 Leuke actie, Callvoip! Ik meld me aan voor de verloting van dat verrukkelijke speciaalbierpakket van Rockin' Ludina Brewery. Laat ons ook weten of je het leuk vindt om met jouw verhaal als volgende op het Callvoip podium te verschijnen.
 
 {{< form "Kerst-Verhaal-insturen" "/aanvragen/verzonden" >}}  
