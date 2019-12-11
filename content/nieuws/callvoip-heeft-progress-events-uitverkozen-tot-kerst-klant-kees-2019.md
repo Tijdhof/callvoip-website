@@ -53,15 +53,15 @@ De diepere zingeving die Maik en Arianne telkens beweegt tot het neerzetten van 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1575992396/Progress_Events_ebzts8.png)
 
+_bron: Google Streetview_
+
 Ergens gedurende deze expansiedrift is de naam ‘Progress Events BV’ geboren. Onder deze naam wordt kantoor gehouden op de hoek van De Turfsingel. Het organiseren en efficiënt bewaken van zoveel in- en uitgaande bedrijvigheid vergen geoliede en geautomatiseerde bedrijfsprocessen. Bijvoorbeeld een goed geregelde telefooncentrale die naadloos aansluit op deze tijd. Daar kwam Callvoip bij om de hoek kijken. Iedere slimme ondernemer wil en moet vooruitkijken. Waarom doe ik wat ik doe, wat is mijn ultieme doel hierin en wie of wat helpt mij om dit te bereiken? Welke processen kunnen beter, sneller en waar kan ik wellicht besparen of juist extra investeren? Wat levert mij dit op kijkende naar de toekomst?
 
 Dit soort essentiële vragen hebben eerlijke, afgemeten antwoorden nodig. Samenwerken met vakkundige partijen die naast je staan in plaats van tegenover je, zijn daarbij belangrijk. Progress Events en Callvoip verstaan elkaar op dat vlak. Een kennismakingsgesprek vond plaats en daarop volgde snel een proefperiode. Zo kon men de voordelen ervaren van onze zakelijke telefonie. Het resultaat is dat Maik en Arianne fan zijn van onze slimme aanpak, de aangeboden diensten en producten, plus onze no-nonsens mentaliteit volgens Maik zijn bewoordingen. Met dit bedrijfsverhaal willen wij laten zien dat wij ook fan zijn van Progress Events. En zo hoort het wat ons betreft. Je doet iets om te verbinden en te groeien. Tevreden klanten bedienen en op basis van gelijkwaardigheid samen streven naar het realiseren van mooie doelen. Elkaars ambassadeur willen zijn want niemand kan het tenslotte alleen. Een mooie kerstgedachte dachten wij zo.
 
-## 
-
-Win een Rockin’ Ludina Kerstpakket!
+## Win een Rockin’ Ludina Kerstpakket!
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1575992580/Rockin_Ludina_Brewery_erzunl.png)  
-Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Arianne is dat zij hun eigen microbrouwerij, genaamd [‘Rockin' Ludina Brewery’](https://rockinludina.nl/), hebben opgericht. En Callvoip mag een zorgvuldig samengesteld speciaalbier-kerstpakket, waarbij onder andere het eerste alcoholvrije bier uit het noorden, van deze te gekke brouwerij weggeven aan één van onze klanten. Voorwaarde is wel dat je bij de eerste 5 bedrijven zit die zich aanmelden bij ons, om door ons het volgende bedrijfsverhaal op te mogen tekenen. Wij zullen de verrukkelijke bieren dan verloten onder deze vijf bedrijven.
+Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Arianne is dat zij hun eigen microbrouwerij, genaamd [‘Rockin' Ludina Brewery’](https://rockinludina.nl/), hebben opgericht. En Callvoip mag vijf zorgvuldig samengestelde speciaalbier-kerstpakketten van deze te gekke brouwerij weggeven, Met daarin onder andere het eerste alcoholvrije bier uit het Noorden, aan onze klanten. Meld je aan via onderstaande link om kans te maken op deze verrukkelijke bieren. We zouden het helemaal leuk vinden wanneer we jouw verhaal als volgende mogen optekenen. 
 
-Dus alle succes en een fijn kerstfeest 2019 gewenst door Progress Events en Callvoip. Dat 2020 maar een inspirerend en duurzaam jaar mag worden voor iedereen!
+> Dus alle succes en een fijn kerstfeest 2019 gewenst door Progress Events en Callvoip. Dat 2020 maar een inspirerend en duurzaam jaar mag worden voor iedereen!
