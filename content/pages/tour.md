@@ -52,9 +52,9 @@ intro:
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
               </div>
               <div class="layout-split">
-                  <div class="mb-4"> <label for="email" class="block">email</label> <input type="text"
+                  <div class="mb-4"> <label for="email" class="block">Email</label> <input type="text"
                           id="email" name="email"
-                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
                   <div class="mb-4"> <label for="Gewenste terugbelmoment" class="block">Gewenste terugbelmoment</label> <input type="text"
                           id="Gewenste terugbelmoment" name="Gewenste terugbelmoment"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
