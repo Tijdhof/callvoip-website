@@ -13,7 +13,7 @@ hidesocialshare: false
 ---
 <h3>2019</h3>
 
-* <a href="https://us6.campaign-archive.com/?u=08692ad244c2648ffd651d0c5&id=2283c45b20" target="_blank">Nieuwsbrief 12-12-19 |Callvoips kerstgroet met: Progress Events</a>
+* <a href="https://us6.campaign-archive.com/?u=08692ad244c2648ffd651d0c5&id=2283c45b20" target="_blank">Nieuwsbrief 12-12-19 | Callvoip kerstgroet met: Progress Events</a>
 * <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl-317153" target="_blank">Nieuwsbrief 11-10-19 | Het is lekker werken met de Qaller App</a>
 * <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl" target="_blank">Nieuwsbrief 15-09-19 | Qaller geupdate | gratis internetcheck!</a>
 * <a href="https://mailchi.mp/callvoip/sep19-qallergeupdate" target="_blank">Nieuwsbrief 14-09-19 | Aankondiging: Qaller update!</a>
