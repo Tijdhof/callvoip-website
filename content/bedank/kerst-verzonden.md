@@ -2,7 +2,7 @@
 title: Kerst Verzonden
 url: "/aanvragen/kerst/verzonden"
 hero:
-  image: "/v1552991205/Team/logo-bord-breed.jpg"
+  image: "/v1552991205/banner_formaat_xqptws.jpg"
 slug: "/aanvragen/kerst/verzonden"
 hideinsearch: true
 hideingoogle: true
