@@ -21,7 +21,7 @@ Leuke actie, Callvoip! Ik ben Callvoip klant en meld me aan voor de verloting va
 
 {{< form/email "Email" required >}}
 
-{{< form/select "Mogen we je klantverhaal vertellen?" >}}
+{{< form/select "Mogen we je verhaal vertellen?" >}}
 
 {{< form/option "Ja" >}}
 
