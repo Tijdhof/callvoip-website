@@ -130,7 +130,7 @@ searchtags:
 - calculator
 - kosten
 - berekenen
-
+aliases: "/calc"
 
 ---
 We zitten klaar om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo
