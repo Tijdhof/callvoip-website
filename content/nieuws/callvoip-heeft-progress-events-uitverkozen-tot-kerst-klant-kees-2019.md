@@ -20,6 +20,7 @@ url: kerst-klant-verhaal-2019
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1575991770/Social-De-Toeter-1_u5mid2.jpg)_bron: grunnegerpower.nl_
@@ -62,7 +63,7 @@ Dit soort essentiële vragen hebben eerlijke, afgemeten antwoorden nodig. Samenw
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1576077750/800_sz4vjh.jpg)
 
-Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Arianne is dat zij hun eigen microbrouwerij, genaamd [‘Rockin' Ludina Brewery’](https://rockinludina.nl/), hebben opgericht. En Callvoip mag vijf zorgvuldig samengestelde speciaalbier-kerstpakketten van deze te gekke brouwerij weggeven, Met daarin onder andere het eerste alcoholvrije bier uit het Noorden, aan onze klanten. Meld je aan via onderstaande link om kans te maken op deze verrukkelijke bieren. We zouden het helemaal leuk vinden wanneer we jouw verhaal als volgende mogen optekenen.
+Eén van de meest recente hoogstandjes binnen het ondernemerschap van Maik en Arianne is dat zij hun eigen microbrouwerij, genaamd [‘Rockin' Ludina Brewery’](https://rockinludina.nl/), hebben opgericht. En Callvoip mag vijf zorgvuldig samengestelde speciaalbier-kerstpakketten van deze te gekke brouwerij aan onze klanten weggeven, Met daarin onder andere een alcoholarm bier. Meld je aan via onderstaande link om kans te maken op deze verrukkelijke bieren. We zouden het helemaal leuk vinden wanneer we jouw verhaal als volgende mogen optekenen.
 
 > Dus alle succes en een fijn kerstfeest 2019 gewenst door Progress Events en Callvoip. Dat 2020 maar een inspirerend en duurzaam jaar mag worden voor iedereen!
 
