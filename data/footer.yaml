@@ -70,6 +70,8 @@ blocks:
         url: /ondersteuning/
       - title: Nieuws
         url: /nieuws/
+      - title: Nieuwsbrieven
+        url: /ondersteuning/algemeen/nieuwsbrieven-overzicht/
       - title: Mijn Callvoip (formulieren)
         url: /mijncallvoip/
       - title: Blog - 5 Mythen over VoIP
