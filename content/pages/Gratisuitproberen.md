@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Gratis uitproberen'
 url: Gratisuitproberen
 type: page
 aliases: "/promotiedagen"
