@@ -125,6 +125,12 @@ offerte:
   description: Vul hier onder je gegevens in en ontvang van onze medewerkers een vrijblijvende
     offerte op basis van bovenstaande wensen.
 hidesocialshare: false
+hideinsearch: false
+searchtags:
+- calculator
+- kosten
+- berekenen
+
 
 ---
 We zitten klaar om aan de hand van deze calculatie een offerte voor jouw situatie op te stellen. Naast de kosten, is het minstens zo
