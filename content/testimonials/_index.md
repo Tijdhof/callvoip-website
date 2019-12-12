@@ -1,5 +1,5 @@
 ---
-title: Testimonials
+title: Succesverhalen
 intro:
   title: Succesverhalen
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
@@ -13,6 +13,6 @@ menu:
     parent: Over ons
   overons:
     weight: 5
-    Name: Testimonials
+    Name: Succesverhalen
 
 ---
