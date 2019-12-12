@@ -31,16 +31,6 @@ Leuke actie, Callvoip! Ik ben Callvoip klant en meld me aan voor de verloting va
 
 {{</ form/fieldset >}}
 
-{{< form/select "Ben je Callvoip klant?" >}}
-
-{{< form/option "Ja" >}}
-
-{{< form/option "Nee" >}}
-
-{{</ form/select >}}
-
-{{</ form/fieldset >}}
-
 <center>{{< form/button "Doe mee" >}}</center>
 
 {{</ form >}}
