@@ -101,7 +101,7 @@ usps:
     iconimage: ''
   - icon: fa-bell
     title: <a href="/telefonie/functionaliteiten/meldtekst/">Meldteksten</a>
-    content: Voeg ingesproken tesksten toe aan de inkomende belroute (bijv. welkom).
+    content: Voeg ingesproken teksten toe aan de inkomende belroute (bijv. welkom).
     iconimage: ''
   - icon: fa-file-audio
     title: <a href="/telefonie/functionaliteiten/voicemail/">Voicemailbox</a>
