@@ -52,12 +52,10 @@ intro:
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
               </div>
               <div class="layout-split">
-                  <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
-                          id="telefoonnummer" name="telefoonnummer"
-                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
-                  <div class="mb-4"> <label for="terugbelmoment" class="block">Gewenste terugbelmoment</label> <input type="text"
-                          id="terugbelmoment" name="terugbelmoment"
-                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+                  <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer <span class="text-red">*</span></label> <input
+                          type="text" id="telefoonnummer" name="telefoonnummer"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
+              </div>    class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
               <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
           </form>
