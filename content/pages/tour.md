@@ -44,24 +44,25 @@ intro:
                       class="hidden"> </p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
               <div class="layout-split">
-                  <div class="mb-4"> <label for="Bedrijfsnaam" class="block">Bedrijfsnaam</label> <input type="text"
-                          id="Bedrijfsnaam" name="Bedrijfsnaam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
+                  <div class="mb-4"> <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label> <input type="text"
+                          id="bedrijfsnaam" name="bedrijfsnaam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
                   </div>
-                  <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer <span class="text-red">*</span></label> <input
-                          type="telefoonnummer" id="telefoonnummer" name="telefoonnummer"
-                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
-              </div>
-              <div class="layout-split">
                   <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
                           type="email" id="email" name="email"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
-                  <div class="mb-4"> <label for="Gewenste terugbelmoment" class="block">Gewenste terugbelmoment</label> <input type="text"
-                          id="Gewenste terugbelmoment" name="Gewenste terugbelmoment"
+              </div>
+              <div class="layout-split">
+                  <div class="mb-4"> <label for="Telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
+                          id="Telefoonnummer" name="Telefoonnummer"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+                  <div class="mb-4"> <label for="terugbelmoment" class="block">Gewenste terugbelmoment</label> <input type="text"
+                          id="terugbelmoment" name="terugbelmoment"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
-              <br><p> <button type="submit" class="button">Neem contact met mij op</button> </p>
+              <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
           </form>
       </div>
+  </div>'
   </div>'
  
 
