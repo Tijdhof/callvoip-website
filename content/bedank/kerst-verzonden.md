@@ -4,7 +4,6 @@ url: "/aanvragen/kerst/verzonden"
 hero:
   image: "/v1552991205/Team/logo-bord-breed.jpg"
 slug: "/aanvragen/kerst/verzonden"
-draft: true
 hideinsearch: true
 hideingoogle: true
 ---
