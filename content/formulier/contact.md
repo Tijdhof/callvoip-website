@@ -19,12 +19,13 @@ description: Neem hier contact op met Team Callvoip en wij staan direct paraat m
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-**Adresgegevens** <br> Callvoip, Koldingweg 19 -1, 9723 HL Groningen
+**Adresgegevens** 
+<br> Callvoip, Koldingweg 19 -1, 9723 HL Groningen
 <br> Postbus 5236 9700 GE GRONINGEN
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
 **Overige informatie**
-IBAN: NL35RABO 0329402501 <br> KvK Groningen: 02066541 <br> BTW: NL1041.63.252.B01 <br>
+<br>IBAN: NL35RABO 0329402501 <br> KvK Groningen: 02066541 <br> BTW: NL1041.63.252.B01 <br>
 {{</ layout/column2 >}}
 {{</ layout/columns >}}<br>
 
