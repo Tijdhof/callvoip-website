@@ -114,8 +114,4 @@ menu:
 
 ---
 
-## Extra mogelijkheden CallvoipDSL
-
-* <b>PIN over IP</b> - €5,- per maand (excl. BTW)<br> Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
-* <b>Alarm over IP</b> - €5,- per maand (excl. BTW) <br> Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. U betaalt geen gesprekskosten meer.
-* <b>Extra vaste IP-adressen</b> - vanaf €5,- per maand (excl. BTW) <br> Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u een extra subnet aanvragen.
+{{< dsl-tabel >}}
