@@ -1,3 +1,5 @@
 # Redirects from what the browser requests to what we serve
 /login            https://panel.callvoip.nl/login/panel
-/review           https://search.google.com/local/writereview?placeid=ChIJf9BEWcbSyUcRUZsaQLzFikk 
+/review           https://search.google.com/local/writereview?placeid=ChIJf9BEWcbSyUcRUZsaQLzFikk
+/help            http://support.callvoip.nl:8040/
+/hulp            http://support.callvoip.nl:8040/
