@@ -21,7 +21,7 @@ items:
 - title: Qaller Smartphone app
   status: true
 - title: Vamos Vast-Mobiel
-  status: true
+  status: false
 contentTop: Op deze pagina vindt u de status van de verschillende onderdelen van Simmpl,
   de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
 contentMiddle: ''
