@@ -19,8 +19,8 @@ description: Neem hier contact op met Team Callvoip en wij staan direct paraat m
 
 {{< layout/columns >}}
 {{< layout/column2 >}}
-**Adresgegevens** 
-<br> Callvoip, Koldingweg 19 -1, 9723 HL Groningen
+**Adresgegevens** <br>
+Callvoip, Koldingweg 19 -1, 9723 HL Groningen
 <br> Postbus 5236 9700 GE GRONINGEN
 {{</ layout/column2 >}}
 {{< layout/column2 >}}
