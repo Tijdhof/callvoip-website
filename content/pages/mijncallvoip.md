@@ -7,7 +7,10 @@ usps:
 - title: Aanvragen
   content: "<p>Als bestaande klant van Callvoip kunt je altijd je abonnement uitbreiden.
     Zo kun je extra diensten afnemen zoals de Conference Service, buitenlandse nummers
-    aanvragen of servicenummers.</p>"
+    aanvragen of servicenummers.
+   <br>
+   <br>
+   <a href="http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Word klant</a></p>"
   items:
   - title: Nummers
     items:
@@ -117,4 +120,4 @@ menu:
 ---
 Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen. Ben je nog geen klant?
 
-<a href="/offerte/" class="button">Vraag dan nu een offerte aan</a> <a href="http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf" class="button">Of word klant!</a>
+<a href="/tour/" class="button">De grand tour starten? in 30 min fan!</a> <a href="/login" class="button">Panel Login</a>
