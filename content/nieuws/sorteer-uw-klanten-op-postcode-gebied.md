@@ -13,7 +13,7 @@ contactpersoon: []
 categories: []
 tags: []
 hideinsearch: true
-hideingoogle: false
+hideingoogle: true
 
 ---
 Als klant van Callvoip maakt u natuurlijk gebruik van de revolutionaire Simmpl telefooncentrale met zijn vele (power)features en ongekend gebruiksgemak. Een veel gebruikte feature onder onze klanten is het keuzemenu, waarmee u de klanten heel eenvoudig door middel van één of twee keuzes direct bij de juiste persoon / afdeling kan laten uitkomen.<!--more-->
