@@ -116,6 +116,6 @@ menu:
     weight: 2
 
 ---
-Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen. Ben je nog geen klant?
+Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen. 
 
-<a href="/tour/" class="button">De grand tour starten? in 30 min fan!</a> <a href="/login" class="button">Panel Login</a>
+<a href="/login" class="button">Login</a>
