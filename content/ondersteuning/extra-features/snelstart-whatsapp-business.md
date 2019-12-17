@@ -13,89 +13,87 @@ pdf: ''
 draft: true
 
 ---
-Met Whatsapp business kun je vanaf je vaste nummer whatsapp berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie. Op deze pagina leggen we je stap voor stap uit hoe je ook gebruik kunt maten van deze handige toevoeging op je communicatiemiddelen. 
+Met [Whatsapp business](https://www.whatsapp.com/business/) kun je vanaf je vaste nummer whatsapp berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie. Op deze pagina leggen we je stap voor stap uit hoe je ook gebruik kunt maten van deze handige toevoeging op je communicatiemiddelen.
 
 Met Whatsapp Business kun je:
 
-* Whatsapp berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer. 
-* media gebruiken, zoals foto’s, emoticons, etc.
-* Automatische antwoorden instellen, of welkomstberichten.
-* Een bedrijfsprofiel maken met websites, openingstijden, etc.
-* Conversaties ordenen met labels
-* Een productcatalogus aanmaken en gemakkelijk delen
+* berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer.
+* media gebruiken, zoals foto’s, emoticons, video.
+* automatische antwoorden instellen, of welkomstberichten.
+* een bedrijfsprofiel maken met websites, openingstijden, etc.
+* conversaties ordenen met labels.
+* een productcatalogus aanmaken en gemakkelijk delen.
 
 ### Hoe werkt dat?
 
 ##### 1. Installatie, verificatie en opstarten.
 
-Het begint allemaal met het downloaden van de Whatsapp Business-app. Dat kan via deze links: Android en iOS. 
+Het begint allemaal met het downloaden van de Whatsapp Business-app. Dat kan via deze links: [Android](https://play.google.com/store/apps/details?id=com.whatsapp.w4b) en [iOS](https://itunes.apple.com/app/whatsapp-business/id1386412985?mt=8).
 
-<<SCREEN 1>> IOS en Android
+Eenmaal geopend vraagt de app na het akkoord gaan met de voorwaarden om je telefoonnummer. iPhones kunnen eerst vragen nog of ze mogen koppelen met het mobiele nummer wat bij de smartphone hoort. Geef dan aan dat je een ander nummer wilt gebruiken.
 
-Eenmaal geopend vraagt de app na het akkoord gaan met de voorwaarden om je telefoonnummer. iPhones kunnen eerst vragen nog of ze mogen koppelen met het mobiele nummer wat bij de smartphone hoort. Geef dan aan dat je een ander nummer wilt gebruiken. 
-
-Voer jouw nummer in zonder de eerste 0. Dat kan dus ook een vast nummer zijn. In de volgende stap kun je aangeven dat de verificatie via een telefoontje moet verlopen en niet via SMS zoals in het beginscherm wordt aangegeven. 
+Voer jouw nummer in zonder de eerste 0. Dat kan dus ook een vast nummer zijn. In de volgende stap kun je aangeven dat de verificatie via een telefoontje moet verlopen en niet via SMS zoals in het beginscherm wordt aangegeven.
 
 <<SCREEN 2>>
 
-In de volgende stap gaat de app toch eerst proberen automatisch via een SMS te verifiëren. Wanneer je een vast nummer hebt ingevoerd, werkt dit aanvankelijk niet. Je ziet midden in beeld 2 timers aftellen. De bijbehorende knoppen zijn nog niet te selecteren. Pas aan het einde kun je kiezen voor de optie “Mij bellen”. 
+In de volgende stap gaat de app toch eerst proberen automatisch via een SMS te verifiëren. Wanneer je een vast nummer hebt ingevoerd, werkt dit aanvankelijk niet. Je ziet midden in beeld 2 timers aftellen. De bijbehorende knoppen zijn nog niet te selecteren. Pas aan het einde kun je kiezen voor de optie “Mij bellen”.
 
-Je wordt dan op het nummer wat je hebt opgegeven gebeld door een +44 (Groot Brittannië) nummer en je hoort een dame die meteen begint met het herhalend oplezen van jouw verificatiecode. 
+Je wordt dan op het nummer wat je hebt opgegeven gebeld door een +44 (Groot Brittannië) nummer en je hoort een dame die meteen begint met het herhalend oplezen van jouw verificatiecode.
 
 <<SCREEN 3>>
 
-Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bestanden. Eenmaal gegeven kun je beginnen met het opzetten van je bedrijfsprofiel. 
+Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bestanden. Eenmaal gegeven kun je beginnen met het opzetten van je bedrijfsprofiel.
 
-2\. Bedrijfsprofiel aanmaken
+##### 2. Bedrijfsprofiel aanmaken
 
-Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren. 
+Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren.
 
-Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden. 
+Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
 
 <<SCREEN>>
 
-3\. Functionaliteiten
+##### 3. Functionaliteiten
 
-De Whatsapp Business app biedt naast de standaard app een set aan extra functionaliteiten. We nemen ze kort door: 
+De Whatsapp Business app biedt naast de standaard app een set aan extra functionaliteiten. We nemen ze kort door:
 
-Automatische berichten
+###### Automatische berichten
 
 Dit kan een begroeting zijn of een afwezigheidsbericht. Ga vanuit het startscherm van de app naar het menu door op de 3 stippen rechtsboven te tikken en selecteer vervolgens instellingen en bedrijfsinstellingen. Daar vind je onderaan beide varianten van de automatische berichten. Ze zijn daar te activeren, aanpassen en zelfs op specifieke tijden naar specifieke mensen te sturen.
 
 <SCREENS>
 
-Snelle antwoorden
+###### Snelle antwoorden
 
-Een variant op de automatische berichten zijn de snelle antwoorden. Automatische berichten worden meteen vanzelf gestuurd, terwijl je de snelle antwoorden zelf in een conversatie selecteert. Ze zijn handig wanneer je merkt dat je vaak dezelfde vragen krijgt. Je kunt daar een standaard antwoord op definieren met een snelcode die je gemakkelijk kunt intypen in plaats van het volledige antwoord. 
-
-<SCREENS>
-
-Labels
-
-Schep orde in je Whatsapp Business account met labels, zoals je bijvoorbeeld ook in je e-mailbox kunt doen. Open de conversatie waar je een label op wilt toepassen, open het menu rechtsboven in beeld en kies ‘Chat labelen’. Whatsapp heeft al een aantal labels voor je bedacht maar je kunt er ook je eigen labels aan toevoegen. 
+Een variant op de automatische berichten zijn de snelle antwoorden. Automatische berichten worden meteen vanzelf gestuurd, terwijl je de snelle antwoorden zelf in een conversatie selecteert. Ze zijn handig wanneer je merkt dat je vaak dezelfde vragen krijgt. Je kunt daar een standaard antwoord op definieren met een snelcode die je gemakkelijk kunt intypen in plaats van het volledige antwoord.
 
 <SCREENS>
 
-Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren 
+###### Labels
+
+Schep orde in je Whatsapp Business account met labels, zoals je bijvoorbeeld ook in je e-mailbox kunt doen. Open de conversatie waar je een label op wilt toepassen, open het menu rechtsboven in beeld en kies ‘Chat labelen’. Whatsapp heeft al een aantal labels voor je bedacht maar je kunt er ook je eigen labels aan toevoegen.
 
 <SCREENS>
 
-Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken. Of ze allemaal hetzelfde bericht sturen. 
+Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren
 
-Statistieken
+<SCREENS>
+
+Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken. Of ze allemaal hetzelfde bericht sturen.
+
+###### Statistieken
 
 <screen>
 
-Leuke functionaliteit van de app zijn statistieken. Ze zijn niet uitgebreid maar je kunt zien hoeveel berichten je verstuurd hebt, of deze zijn afgeleverd en gelezen, en hoeveel berichten je ontvangen hebt. 
+Leuke functionaliteit van de app zijn statistieken. Ze zijn niet uitgebreid maar je kunt zien hoeveel berichten je verstuurd hebt, of deze zijn afgeleverd en gelezen, en hoeveel berichten je ontvangen hebt.
 
-Catalogus
+###### Catalogus
 
 Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakkelijk een catalogus aanmaken. Dit geeft je de mogelijkheid om in een gesprek heel gemakkelijk een kant en klare aanbieding aan jouw klanten te doen.
 
 <<screen>>
 
-Web Whatsapp
+###### Web Whatsapp
 
-Net als de reguliere Whatsapp kun je ook Whatsapp Business via je laptop of desktop gebruiken. Kies in het menu rechtsboven in je startscherm voor Whatsapp Web en scan daarna met je mobiel de QR code op het scherm van je computer. 
+Net als de reguliere Whatsapp kun je ook Whatsapp Business via je laptop of desktop gebruiken. Kies in het menu rechtsboven in je startscherm voor Whatsapp Web en scan daarna met je mobiel de QR code op het scherm van je computer.
 
 Via de web omgeving kun je berichten sturen en ontvangen, gebruik maken van labels en deze bewerken en de basisgegevens van je bedrijfsprofiel aanpassen. Helaas is het niet mogelijk om de catalogus via de web omgeving bij te werken. Hiervoor ben je dus op je smartphone aangewezen.
