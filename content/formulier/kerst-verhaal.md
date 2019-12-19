@@ -1,5 +1,5 @@
 ---
-title: Er kunnen er maar 35 de winnaar zijn
+title: Gefeliciteerd, er kunnen er maar 35 de winnaar zijn
 url: "/kerst"
 hideinsearch: true
 hideingoogle: true
