@@ -151,6 +151,10 @@ p a:hover {
   @apply list-inside list-disc;
 }
 
+.user-content ul.list-none {
+  @apply list-none;
+}
+
 .user-content li {
   @apply mb-3 leading-normal;
 }
