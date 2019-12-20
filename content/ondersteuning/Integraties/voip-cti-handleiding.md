@@ -11,7 +11,7 @@ Update: false
 ---
 <h3>Download VoIP CTI software:</h3>
 
-* [VoIP CTI Client Software](http://www.simmpl.nl/downloads/VoipCTIClientSetup.exe)
+* [VoIP CTI Client Software (Nieuw 20-12-2019)](http://files.callvoip.nl/downloads/voipcticlientsetup.exe)
 * [VoIP CTI Recognition Configuration Tool](http://www.simmpl.nl/downloads/VoipCTIRecognitionConfigToolSetup.exe)
 
 <h3>Wat is VoIP CTI?</h3>
