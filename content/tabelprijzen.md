@@ -5,4 +5,4 @@ type: page
 ---
 
 
-{{< tabelprijzen >}}
+{{< dsl-tabel >}}
