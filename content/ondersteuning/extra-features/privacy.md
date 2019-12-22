@@ -7,7 +7,7 @@ pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Operator-Console.pdf
 Update: true
 
 ---
-In de afgelopen maanden werd de start gemaakt met de ontwikkeling van het UC Panel, en de Operator Console is daarvan de eerste functionaliteit.  
+In de **afgelopen** maanden werd de start gemaakt met de ontwikkeling van het UC Panel, en de Operator Console is daarvan de eerste functionaliteit.  
 Het **Operator Console** is een dashboard voor receptionist/supervisor met realtime gespreksinformatie. Vanuit dit dashboard is het volgende mogelijk:
 
 1. **Zien van het realtime gespreksverkeer**
