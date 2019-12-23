@@ -55,51 +55,6 @@ usps:
 intro:
   title: Welke abonnementen zijn er?
   content: ''
-prijzen:
-- title: ADSL
-  content: Tot 20-om-1 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
-    tegoed ter besteding in onze shops.
-  button:
-    title: Vraag een ADSL verbinding aan
-    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
-  tarieven:
-    title: 'Als u klant bent van Callvoip:'
-    items:
-    - title: Maandelijks
-      price: '25.00'
-    - title: Eenmalig
-      price: '50.00'
-    footer: Prijzen zijn excl. BTW
-- title: VDSL
-  button:
-    title: Vraag een VDSL verbinding aan
-    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
-  tarieven:
-    footer: Prijzen zijn excl. BTW
-    title: 'U bent klant van Callvoip:'
-    items:
-    - title: Maandelijks
-      price: '29.00'
-    - title: Eenmalig
-      price: '50.00'
-  content: 'Tot 50-om-5 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
-    tegoed ter besteding in onze shops. '
-- title: VVDSL
-  content: Tot 110-om-30 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
-    tegoed ter besteding in onze shops.
-  button:
-    title: Vraag een VVDSL verbinding aan
-    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
-  tarieven:
-    title: 'U bent klant van Callvoip:'
-    footer: Prijzen zijn excl. BTW
-    items:
-    - title: Maandelijks
-      price: '35.00'
-    - title: Eenmalig
-      price: '50.00'
-description: 'DSL internetverbindingen van Callvoip komen er in vele soorten en maten:
-  ADSL, ADSL2+, VDSL en VVDSL. Doe de postcodecheck.'
 images: []
 hideinsearch: false
 hideingoogle: false
@@ -114,10 +69,10 @@ menu:
 
 ---
 
+{{< dsl-tabel >}}
+
 ## Extra mogelijkheden CallvoipDSL
 
 * <b>PIN over IP</b> - €5,- per maand (excl. BTW)<br> Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
 * <b>Alarm over IP</b> - €5,- per maand (excl. BTW) <br> Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. U betaalt geen gesprekskosten meer.
 * <b>Extra vaste IP-adressen</b> - vanaf €5,- per maand (excl. BTW) <br> Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u een extra subnet aanvragen.
-
-{{< dsl-tabel >}}
