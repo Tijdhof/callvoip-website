@@ -11,9 +11,10 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1565001373/Callvoip-website-voipctisimmpl_cyzmc3.png"
+  image: "/v1577105792/cti_new_zkrvij.png"
   image_position: center
   disable_image_on_mobile: false
+  mobile: ''
 blocks:
 - content: |-
     <br> Voor VoIP CTI heeft u nodig:
@@ -84,6 +85,7 @@ prijzen:
     title: Kosten VoIP CTI
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     weight: 3
