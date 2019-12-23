@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2019-12-22T23:00:00+00:00
+date: 2019-12-22T23:00:00.000+00:00
 url: whatsapp-business-blog
 contactpersoon: []
 categories: []
@@ -35,7 +35,7 @@ Met de business variant kun je uiteraard berichten en foto’s sturen met alle e
 
 #### Bedrijfsprofiel
 
-In de app die jij en ik gewend zijn, is een profiel niet veel meer dan een naam, nummer, status en foto. In de zakelijke variant is dit een stuk uitgebreider. Voeg ook je adres, openingstijden, website etc toe en maak zo een digitaal visitekaartje. Leuk ook: wanneer een klant jouw nummer opslaat komt al deze info vanzelf bij het contact in Whatsapp te staan. Maak je meteen een goede indruk!
+In de app die jij en ik gewend zijn, is een profiel niet veel meer dan een naam, nummer, status en foto. In de zakelijke variant is dit een stuk uitgebreider. Voeg ook je adres, openingstijden, website etc. toe en maak zo een digitaal visitekaartje. Leuk ook: wanneer een klant jouw nummer opslaat komt al deze info vanzelf bij het contact in Whatsapp te staan. Maak je meteen een goede indruk!
 
 #### Automatisch antwoorden en Quick Reply
 
