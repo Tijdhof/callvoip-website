@@ -41,7 +41,7 @@ In de app die jij en ik gewend zijn, is een profiel niet veel meer dan een naam,
 
 Soms kun je even niet antwoorden. Bij je e-mail zet je dan je afwezigheidsassistent aan. Kan ook bij je zakelijke Whatsapp! Erg handig, dan worden klanten ten minste wel even kort te woord gestaan. Of stel een automatisch welkomstbericht in om elke conversatie te beginnen. Scheelt weer typen.
 
-Soms merk je misschien dat je dagelijks meerdere keren hetzelfde antwoord moet geven. Daar is de Quick Reply functie handig voor. Definieer een aantal standaard antwoorden op vragen die vaak voorbij komen en geef dit antwoord met 1 druk op de knop in plaats van steeds opnieuw weer te typen.
+Merk je dat je dagelijks meerdere keren hetzelfde antwoord moet geven? Daar is de Quick Reply functie handig voor. Definieer een aantal standaard antwoorden op vragen die vaak voorbij komen en geef dit antwoord met 1 druk op de knop in plaats van steeds opnieuw weer te typen.
 
 #### Orde in de chaos met labels
 
