@@ -1,5 +1,4 @@
 ---
-type: nieuws
 title: Tim en de 5 grootste mythen over bellen via internet
 description: Waar zitten de drempels voor bellen via internet? En zijn ze eigenlijk
   wel terecht? Wij maakten een overzicht van de meest voorkomende vooroordelen over
@@ -7,7 +6,7 @@ description: Waar zitten de drempels voor bellen via internet? En zijn ze eigenl
 images:
 - "/v1574867648/2019-11-27_y1krlg.png"
 image_uitgelicht: "/v1574867648/2019-11-27_y1krlg.png"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
