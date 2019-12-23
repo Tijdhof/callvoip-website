@@ -23,7 +23,7 @@ tags: []
 type: ''
 
 ---
-We whatsappen wat af met elkaar. Honderden berichten in vriendengroepen, foto’s van de kleinkinderen naar Opa en Oma of het avondeten afstemmen met je partner, we gebruiken Whatsapp voor allerhande berichten. De berichtenapp heeft in Nederland dan ook zijn weg gevonden naar [94% van de smartphones](https://www.emerce.nl/nieuws/facebook-domineert-nederlands-speelveld-apps-berichten-sociale-media). En voor bedrijven ligt hier dus een kans om in contact te komen met jouw klanten via de app waar we met z’n allen zoveel gebruik van maken.
+We whatsappen wat af met elkaar. Honderden berichten in vriendengroepen, foto’s van de kleinkinderen naar opa en oma of het avondeten afstemmen met je partner: we gebruiken Whatsapp voor allerhande berichten. De berichtenapp heeft in Nederland dan ook zijn weg gevonden naar [94% van de smartphones](https://www.emerce.nl/nieuws/facebook-domineert-nederlands-speelveld-apps-berichten-sociale-media). En voor bedrijven ligt hier dus een kans om in contact te komen met jouw klanten via de app waar we met z’n allen zoveel gebruik van maken.
 
 Dit is eigenlijk ook al niet meer nieuw. We kunnen al lang whatsappen met veel grote organisaties als KLM, Interpolis etc. Maar wist je dat [Whatsapp Business](https://www.whatsapp.com/business/) voor iedereen beschikbaar is? Dus niet alleen voor de KLMs van deze wereld, ook voor jou, als ondernemer die zijn zakelijke en privé Whatsapp nu héél misschien wel een beetje door elkaar heeft lopen. (Geef maar toe! ;-))
 
