@@ -150,4 +150,4 @@ U heeft uw toestel nu gekoppeld met het nummer en kunt starten met bellen en geb
 
 <h3>FRITZ!Box kopen en/of support nodig?</h3>
 
-CallvoipTelefonie werkt al jaren met FRITZ!Boxen en kan u het gebruik hiervan van harte aanbevelen. Bezoek <a href="https://fritzshop.nl/" target="_blank">FRITZ!Shop</a> voor een ruim assortiment en veel tips. Voor uw supportvragen kunt u ook bij de <a href="[https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/](https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/)" target="_blank">officiële website van AVM</a> terecht.
+Callvoip werkt al jaren met FRITZ!Boxen en kan u het gebruik hiervan van harte aanbevelen. Bezoek <a href="https://fritzshop.nl/" target="_blank">FRITZ!Shop</a> voor een ruim assortiment en veel tips. Voor uw supportvragen kunt u ook bij de <a href="[https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/](https://nl.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/)" target="_blank">officiële website van AVM</a> terecht.
