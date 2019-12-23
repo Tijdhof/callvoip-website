@@ -52,54 +52,6 @@ usps:
     title: Beste apparatuur
     content: Wij informeren u graag welke apparatuur het beste past voor de beste
       resultaten.
-intro:
-  title: Welke abonnementen zijn er?
-  content: ''
-prijzen:
-- title: ADSL
-  content: Tot 20-om-1 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
-    tegoed ter besteding in onze shops.
-  button:
-    title: Vraag een ADSL verbinding aan
-    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
-  tarieven:
-    title: 'Als u klant bent van Callvoip:'
-    items:
-    - title: Maandelijks
-      price: '25.00'
-    - title: Eenmalig
-      price: '50.00'
-    footer: Prijzen zijn excl. BTW
-- title: VDSL
-  button:
-    title: Vraag een VDSL verbinding aan
-    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
-  tarieven:
-    footer: Prijzen zijn excl. BTW
-    title: 'U bent klant van Callvoip:'
-    items:
-    - title: Maandelijks
-      price: '29.00'
-    - title: Eenmalig
-      price: '50.00'
-  content: 'Tot 50-om-5 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
-    tegoed ter besteding in onze shops. '
-- title: VVDSL
-  content: Tot 110-om-30 Mbps. Bij 2 of 3 jaar looptijd krijgt u 1 of 3 maandbedragen
-    tegoed ter besteding in onze shops.
-  button:
-    title: Vraag een VVDSL verbinding aan
-    link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
-  tarieven:
-    title: 'U bent klant van Callvoip:'
-    footer: Prijzen zijn excl. BTW
-    items:
-    - title: Maandelijks
-      price: '35.00'
-    - title: Eenmalig
-      price: '50.00'
-description: 'DSL internetverbindingen van Callvoip komen er in vele soorten en maten:
-  ADSL, ADSL2+, VDSL en VVDSL. Doe de postcodecheck.'
 images: []
 hideinsearch: false
 hideingoogle: false
@@ -113,6 +65,7 @@ menu:
     post: fa-wifi
 
 ---
+{{< dsl-tabel >}}
 
 ## Extra mogelijkheden CallvoipDSL
 
