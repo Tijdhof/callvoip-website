@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2019-12-11T23:00:00.000+00:00
+date: 2019-12-22T23:00:00+00:00
 url: whatsapp-business-blog
 contactpersoon: []
 categories: []
@@ -36,11 +36,11 @@ Met de business variant kun je uiteraard berichten en foto’s sturen met alle e
 
 #### Bedrijfsprofiel
 
-In de app die jij en ik gewend zijn, is een profiel niet veel meer dan een naam, nummer, status en foto. In de Business variant is dit een stuk uitgebreider. Voeg ook je adres, openingstijden, website etc toe en maak zo een digitaal visitekaartje. Leuk ook: wanneer een klant jouw nummer opslaat komt al deze info vanzelf bij het contact in Whatsapp te staan. Maak je meteen een goede indruk!
+In de app die jij en ik gewend zijn, is een profiel niet veel meer dan een naam, nummer, status en foto. In de zakelijke variant is dit een stuk uitgebreider. Voeg ook je adres, openingstijden, website etc toe en maak zo een digitaal visitekaartje. Leuk ook: wanneer een klant jouw nummer opslaat komt al deze info vanzelf bij het contact in Whatsapp te staan. Maak je meteen een goede indruk!
 
 #### Automatisch antwoorden en Quick Reply
 
-Soms kun je even niet antwoorden. Bij je e-mail zet je dan je afwezigheidsassistent aan. Kan ook bij je Whatsapp! Erg handig, dan worden klanten ten minste wel even kort te woord gestaan. Of stel een automatisch welkomstbericht in om elke conversatie te beginnen. Scheelt weer typen.
+Soms kun je even niet antwoorden. Bij je e-mail zet je dan je afwezigheidsassistent aan. Kan ook bij je zakelijke Whatsapp! Erg handig, dan worden klanten ten minste wel even kort te woord gestaan. Of stel een automatisch welkomstbericht in om elke conversatie te beginnen. Scheelt weer typen.
 
 Soms merk je misschien dat je dagelijks meerdere keren hetzelfde antwoord moet geven. Daar is de Quick Reply functie handig voor. Definieer een aantal standaard antwoorden op vragen die vaak voorbij komen en geef dit antwoord met 1 druk op de knop in plaats van steeds opnieuw weer te typen.
 
