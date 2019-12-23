@@ -36,7 +36,7 @@ Met de business variant kun je uiteraard berichten en foto’s sturen met alle e
 
 #### Bedrijfsprofiel
 
-In de app die jij en ik gewend zijn, is een profiel niet veel meer dan een naam, nummer, status en foto. In de Business variant is dit een stuk uitgebreider. Voeg ook je adres, openingstijden, website etc toe en maak zo een digitaal visitekaartje. Leuk ook: wanneer een klant jouw nummer opslaat komt al deze info vanzelf bij het contact in Whatsapp te staan. Maak je meteen een goede indruk! 
+In de app die jij en ik gewend zijn, is een profiel niet veel meer dan een naam, nummer, status en foto. In de Business variant is dit een stuk uitgebreider. Voeg ook je adres, openingstijden, website etc toe en maak zo een digitaal visitekaartje. Leuk ook: wanneer een klant jouw nummer opslaat komt al deze info vanzelf bij het contact in Whatsapp te staan. Maak je meteen een goede indruk!
 
 #### Automatisch antwoorden en Quick Reply
 
@@ -55,8 +55,6 @@ En het allermooiste: alles wat ik hierboven omschrijf, **kost je helemaal niets*
 ![](https://res.cloudinary.com/callvoip/image/upload/v1575627317/whatsapp-business-cartoon-web_alkoud.png)
 
 Na het lezen van deze lofzang hoor ik je denken: die Tim heeft aandelen daar of Callvoip krijgt op zijn minst een dikke kick-back voor elke nieuwe Whatsapp Business gebruiker. Nee! Dat is niet zo. We houden er gewoon van mensen te helpen met de communicatie. We zitten niet voor niets in de telefonie. En als er dan een mooi product is als dit, zien we het als meerwaarde om daar de aandacht aan te geven en de voordelen te belichten. Heb jij als fan mooi het voordeel van!
-
-Meer lezen over hoe je dat allemaal moet doen? Kan [hier](DUMMY LINK).
 
 \--
 
