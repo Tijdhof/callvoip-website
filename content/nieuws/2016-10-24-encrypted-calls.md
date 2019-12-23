@@ -12,7 +12,7 @@ hideinsearch: true
 hideingoogle: false
 
 ---
-CallvoipTelefonie is erg trots om te melden dat wij als eerste provider in Nederland in staat zijn om versleutelde gesprekken (encrypted calls) te leveren! De gesprekken zijn beveiligd dankzij de technieken **SRTP** en **TLS**.
+Callvoip is erg trots om te melden dat wij als eerste provider in Nederland in staat zijn om versleutelde gesprekken (encrypted calls) te leveren! De gesprekken zijn beveiligd dankzij de technieken **SRTP** en **TLS**.
 
 <!--more-->
 
@@ -20,14 +20,14 @@ CallvoipTelefonie is erg trots om te melden dat wij als eerste provider in Neder
 
 Het kabinet is bezig met een wetsvoorstel dat de AIVD en MIVD meer bevoegdheden geeft voor het aftappen van gesprekken. Justitie en veiligheidsdiensten mogen in de huidige wetgeving al internetverkeer aftappen, maar slechts één tap tegelijk te plaatsen. Met dit nieuwe wetsvoorstel mogen justitie en de veiligheidsdiensten in bulk gesprekken aftappen. Dankzij SRTP is het niet meer mogelijk dat gesprekken in bulk worden afgetapt.</p>
 
-**CallvoipTelefonie biedt twee lagen van beveiliging**
+**Callvoip biedt twee lagen van beveiliging**
 
   * **TLS:** een soort HTTPS certificaat voor een beveiligde verbinding tussen de centrale en uw telefoon.
   * **SRTP:** de daadwerkelijke versleuteling van het gesprek vanaf uw toestel
 
 ### Wat is TLS?
 
-TLS (Transport Layer Security) is een soort HTTPS-certificaat over de verbinding tussen de centrale en uw telefoon. Alle internetverkeer van CallvoipTelefonie loopt via TLS en dit is standaard inbegrepen en is gratis voor alle klanten.
+TLS (Transport Layer Security) is een soort HTTPS-certificaat over de verbinding tussen de centrale en uw telefoon. Alle internetverkeer van Callvoip loopt via TLS en dit is standaard inbegrepen en is gratis voor alle klanten.
 
 ### Wat is SRTP?
 
