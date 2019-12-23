@@ -2,7 +2,7 @@
 title: Internet-check
 hidesocialshare: true
 hero:
-  image: "/v1570097106/Untitled-1_r99lyt.png"
+  image: "/v1570097106/Untitled-2_u9bfad.png"
 
 ---
 Vul hieronder uw gegevens in en u wij sturen u een overzicht welke soorten internet op uw adres mogelijk zijn.
