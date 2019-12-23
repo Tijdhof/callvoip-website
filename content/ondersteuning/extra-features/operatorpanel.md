@@ -5,6 +5,7 @@ description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Operator-Console.pdf
 Update: true
+aliases: "/ondersteuning/extra-features/privacy"
 
 ---
 In de **afgelopen** maanden werd de start gemaakt met de ontwikkeling van het UC Panel, en de Operator Console is daarvan de eerste functionaliteit.  
