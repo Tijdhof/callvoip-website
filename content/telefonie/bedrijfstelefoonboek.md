@@ -13,7 +13,7 @@ layout: ''
 hideinsearch: false
 
 ---
-Maakt u gebruik van onze [Click-to-Dial](https://www.callvoiptelefonie.nl/clicktodial/)? Dan kunt u ook gebruik van het bedrijfstelefoonboek! U voegt eenvoudig nummers toe aan het adresboek en deze contacten zijn meteen voor het gehele bedrijf zichtbaar.
+Maakt u gebruik van onze [Click-to-Dial](/clicktodial/)? Dan kunt u ook gebruik van het bedrijfstelefoonboek! U voegt eenvoudig nummers toe aan het adresboek en deze contacten zijn meteen voor het gehele bedrijf zichtbaar.
 
 ### De voordelen van een bedrijfstelefoonboek:
 
