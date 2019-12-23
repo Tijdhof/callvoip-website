@@ -21,7 +21,6 @@ contactpersoon: []
 categories: []
 tags: []
 type: ''
-draft: true
 
 ---
 We whatsappen wat af met elkaar. Honderden berichten in vriendengroepen, foto’s van de kleinkinderen naar Opa en Oma of het avondeten afstemmen met je partner, we gebruiken Whatsapp voor allerhande berichten. De berichtenapp heeft in Nederland dan ook zijn weg gevonden naar [94% van de smartphones](https://www.emerce.nl/nieuws/facebook-domineert-nederlands-speelveld-apps-berichten-sociale-media). En voor bedrijven ligt hier dus een kans om in contact te komen met jouw klanten via de app waar we met z’n allen zoveel gebruik van maken.
