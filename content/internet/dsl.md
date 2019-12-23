@@ -71,6 +71,7 @@ menu:
 
 {{< dsl-tabel >}}
 <br>
+*i.c.m. Draytek route
 
 ## Extra mogelijkheden CallvoipDSL
 
