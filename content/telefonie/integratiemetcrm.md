@@ -24,7 +24,7 @@ blocks:
 
     Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
 
-    In totaal kan er met meer dan 100 pakketten een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met uw pakket?
+    In totaal kan er met <a href="https://www.callvoip.nl/ondersteuning/integraties/voip-cti/">meer dan 100 pakketten</a> een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met uw pakket?
 
     <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
   image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
