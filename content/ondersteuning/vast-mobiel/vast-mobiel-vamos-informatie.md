@@ -60,11 +60,11 @@ Door Vamos neemt de noodzaak tot vaste toestellen af; zeker als er ook vanaf de 
 
 <h3>Nummerbehoud? Geen probleem!</h3>
 
-Het is mogelijk om een bestaand mobiel nummer naar CallvoipTelefonie te porteren. Uiteraard kan ook een nieuw mobiel nummer worden aangevraagd. Een nieuw nummer werkt binnen 24 uur.
+Het is mogelijk om een bestaand mobiel nummer naar Callvoip te porteren. Uiteraard kan ook een nieuw mobiel nummer worden aangevraagd. Een nieuw nummer werkt binnen 24 uur.
 
 <h3>Ongekend gebruiksgemak</h3>
 
-De Simmpl telefooncentrale van CallvoipTelefonie biedt uitgebreide schakelmogelijkheden op een ongekend intuïtieve en overzichtelijk manier. Dit ongekende gebruiksgemak is nu ook beschikbaar voor uw mobiele nummer.
+De Simmpl telefooncentrale van Callvoip biedt uitgebreide schakelmogelijkheden op een ongekend intuïtieve en overzichtelijk manier. Dit ongekende gebruiksgemak is nu ook beschikbaar voor uw mobiele nummer.
 
 <h3>Robuuste basis van T-Mobile</h3>
 
@@ -72,7 +72,7 @@ Vamos wordt aangeboden op het robuuste mobiele netwerk van T-Mobile. Dit netwerk
 
 <h3>Het nieuwe klantcontact via zakelijk WhatsApp</h3>
 
-Communiceer met uw klant op de manier die hij wenst! Het gebruik van WhatsApp voor de zaak biedt voordelen. Ook dat behoort tot de mogelijkheden met een zakelijk mobiel nummer van CallvoipTelefonie. Zakelijke Whatsapp kan gebruikt worden naast de privé WhatsApp en kan bediend worden via de computer. Zo kunt u nóg beter voorzien in de contactwensen van uw klant.
+Communiceer met uw klant op de manier die hij wenst! Het gebruik van WhatsApp voor de zaak biedt voordelen. Ook dat behoort tot de mogelijkheden met een zakelijk mobiel nummer van Callvoip. Zakelijke Whatsapp kan gebruikt worden naast de privé WhatsApp en kan bediend worden via de computer. Zo kunt u nóg beter voorzien in de contactwensen van uw klant.
 
 <h2>Hoe werkt Vamos?</h2>
 
