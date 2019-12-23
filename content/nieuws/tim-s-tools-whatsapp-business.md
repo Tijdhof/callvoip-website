@@ -32,7 +32,7 @@ Dit is eigenlijk ook al niet meer nieuw. We kunnen al lang whatsappen met veel g
 
 ### Wat houdt Whatsapp Business in?
 
-Met de business variant kun je uiteraard berichten en foto’s sturen met alle emoticons die je je maar kunt permitteren als organisatie. Het account is alleen gekoppeld aan jouw kantoornummer ipv mobiel. Ja, dat kan dus met je vaste nummer! Het is ook een aparte app op je smartphone. Maar Whatsapp Business biedt meer mogelijkheden ten opzichte van de ‘gewone’ app.
+Met de business variant kun je uiteraard berichten en foto’s sturen met alle emoticons die je je maar kunt permitteren als organisatie. Het account is alleen gekoppeld aan jouw kantoornummer ipv mobiel. Ja, dat kan dus met je vaste nummer! Het is ook een aparte app op je smartphone dus kan gewoon naast je eigen Whatsapp draaien. Maar Whatsapp Business biedt meer mogelijkheden ten opzichte van de ‘gewone’ app.
 
 #### Bedrijfsprofiel
 
