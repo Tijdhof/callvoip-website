@@ -1,6 +1,6 @@
 ---
 title: Tips bij router-/firewall problemen
-weight: 
+weight: 2
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_Router-en-Firewall-Issues.pdf
