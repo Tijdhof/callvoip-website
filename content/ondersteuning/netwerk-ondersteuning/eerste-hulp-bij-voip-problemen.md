@@ -1,6 +1,6 @@
 ---
 title: Eerste hulp bij VoIP-problemen
-weight: 
+weight: 1
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_Eerste-Hulp-bij-VoIP-problemen.pdf
