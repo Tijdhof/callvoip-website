@@ -41,7 +41,7 @@ blocks:
   image: "/v1565856543/clicktodial2_xvsnfd.png"
   content: |-
     Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
-    Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen! <br> <a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/" class="button">Handleiding</a>
+    Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen! <br> <br> <a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/" class="button">Handleiding</a>
   position: image_right
   image_position: ''
 usps:
