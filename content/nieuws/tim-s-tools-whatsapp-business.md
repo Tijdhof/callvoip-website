@@ -47,7 +47,7 @@ Merk je dat je dagelijks meerdere keren hetzelfde antwoord moet geven? Daar is d
 
 Als je jouw klanten de mogelijkheid geeft tot whatsappen, zou het kunnen dat er veel berichten binnen gaan komen. Je e-mailbox puilt tenslotte ook standaard uit, waarom zou je Whatsapp box daar een uitzondering op zijn?
 
-Natuurlijk heeft Whatsapp dat ook allang bedacht en biedt een oplossing vergelijkbaar met de e-mailbox: Labels. Maak zelf labels aan die je aan de conversaties kunt hangen. Zo pas je de indeling aan op jouw business en kun je gemakkelijk alle conversaties doorzoeken.
+Natuurlijk heeft Whatsapp dat ook allang bedacht en biedt een oplossing vergelijkbaar met de e-mailbox: labels. Maak zelf labels aan die je aan de conversaties kunt hangen. Zo pas je de indeling aan op jouw business en kun je gemakkelijk alle conversaties doorzoeken.
 
 En het allermooiste: alles wat ik hierboven omschrijf, **kost je voorlopig helemaal niets**!
 
