@@ -54,8 +54,8 @@ fields:
       - type: text
         name: text
         label: Text
-      - name: image_position
-        type: align
+      - name: align
+        type: select
         default: []
         config:
           required: false
