@@ -44,6 +44,29 @@ fields:
     type: boolean
     label: Disable image on mobile
     default: false
+  - type: field_group
+    name: content
+    label: Content
+    fields:
+      - type: text
+        name: title
+        label: Title
+      - type: text
+        name: text
+        label: Text
+      - name: image_position
+        type: align
+        default: []
+        config:
+          required: false
+          options:
+          - start
+          - center
+          - end
+      - name: overlay
+        type: boolean
+        label: Overlay
+        default: false
 - type: field_group_list
   name: blocks
   label: Blocks
@@ -54,6 +77,16 @@ fields:
   - type: file
     name: image
     label: Image
+  - type: field_group
+    name: extra
+    label: Extra
+    fields:
+      - type: text
+        name: title
+        label: Title
+      - type: text
+        name: content
+        label: Content
   - name: image_position
     type: select
     default: []
