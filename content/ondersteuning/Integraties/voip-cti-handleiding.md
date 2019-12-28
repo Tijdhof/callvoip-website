@@ -1,5 +1,5 @@
 ---
-title: Handleiding CRM-integratie (VoIP-CTI)
+title: Handleiding Voip CTI (CRM-integratie)
 weight: 
 description: ''
 images: []
@@ -7,12 +7,17 @@ pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_bij_VoIP-CTI_CRM-koppelin
 hideinsearch: false
 Nieuw: false
 Update: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 <h3>Download VoIP CTI software:</h3>
 
 * [VoIP CTI Client Software (Versie 20-12-2019)](http://files.callvoip.nl/downloads/voipcticlientsetup.exe)
 * [VoIP CTI Recognition Configuration Tool (Versie 24-12-2019)](http://files.callvoip.nl/downloads/voipcticonfigurationsetup.exe)
+
+<hr>
+
 <h3>Wat is VoIP CTI?</h3>
 
 Met VoIP CTI (= Computer Telephony Integration) verbindt u de Simmpl telefooncentrale met uw klantsysteem (**CRM-, ERP- of administratiepakketten**). Dit biedt gemak en bespaart tijd bij het bellen naar klanten (Click-to-Dial), en als de klant u belt verschijnt een **pop-up met klantinformatie op uw scherm**. Klik op de pop-up en de klantenkaart in uw CRM pakket wordt geopend.
