@@ -51,8 +51,8 @@ intro:
 prijzen:
 - title: Ziggo Zakelijk Internet
   content: 'Supersnel en betrouwbaar zakelijk internet tot wel 600 Mbit/s. Het is
-    voor u de basis om succesvol te ondernemen. Ziggo Zakelijk Internet wordt kosteloos
-    geïnstalleerd door een monteur en wordt geleverd zonder vaste IP-adressen. '
+    de basis om succesvol te ondernemen. Ziggo Zakelijk Internet wordt kosteloos geïnstalleerd
+    door een monteur en wordt geleverd zonder vaste IP-adressen. '
   button:
     title: Vraag ZIGGO Zakelijk internet aan
     link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
@@ -68,8 +68,8 @@ prijzen:
       price: '65.00'
 - title: Ziggo Zakelijk Internet Pro
   content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
-    1 vast IP-adres (uitbreidbaar naar 5). Een professionele basis voor uw bedrijfsnetwerk.
-    U beschikt over snelheden tot 600 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid,
+    1 vast IP-adres (uitbreidbaar naar 5). Een professionele basis voor je bedrijfsnetwerk.
+    Je beschikt over snelheden tot 600 Mbit/s downloadsnelheid en 50 Mbit/s uploadsnelheid,
     gecombineerd met bandbreedtegarantie en zakelijke SLA. '
   button:
     title: Vraag ZIGGO Zakelijk internet aan
@@ -84,12 +84,13 @@ prijzen:
       price: '80.00'
     - title: Max Pro (600-om-50)
       price: '100.00'
-description: Met kabelinternet (Coax) van Ziggo heeft u een perfect basis voor VoIP-telefonie.
+description: Met kabelinternet (Coax) van Ziggo heb je een perfecte basis voor VoIP-telefonie.
   Geen groene kabel? Wij bekijken graag of dit alsnog mogelijk is.
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+logos: false
 menu:
   main:
     name: Kabelinternet

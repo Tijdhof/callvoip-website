@@ -1,5 +1,5 @@
 ---
-title: FTTH Glasvezel | U heeft uw eigen lijn en een stabiele snelheid
+title: FTTH Glasvezel | Je hebt je eigen lijn en een stabiele snelheid
 type: page
 layout: default
 aliases: "/glasvezel"
@@ -84,7 +84,7 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     title: 'U bent klant van Callvoip:'
 description: Met een glasvezel verbinding zijn de download- als uploadsnelheid aan
-  elkaar gelijk. U beschikt over een eigen verbinding als perfecte basis voor uw VoIP.
+  elkaar gelijk. Je beschikt over een eigen verbinding als perfecte basis voor VoIP-telefonie.
 images: []
 hideinsearch: false
 hideingoogle: false
@@ -108,13 +108,13 @@ Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voort
 
 #### Alarm over IP
 
-Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. U betaalt geen gesprekskosten meer.
+Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. Je betaalt geen gesprekskosten meer.
 
 * Certificering € 5,00 p/mnd
 
 #### Vaste IP-adressen
 
-Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u een extra subnet aanvragen:
+Standaard krijg je 1 vast IP-adres. Heb je meer IP adressen nodig, dan kun je een extra subnet aanvragen:
 
 * IP-subnet 4 stuks € 10,00 p/mnd
 * IP-subnet 8 stuks € 20,00 p/mnd
@@ -122,6 +122,6 @@ Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u e
 
 #### Installatie
 
-U kunt ervoor kiezen de verbinding zelf te installeren, maar wij kunnen dit ook voor u uit handen nemen:
+Je kunt ervoor kiezen de verbinding zelf te installeren, maar wij kunnen je  dit ook uit handen nemen:
 
 * Installatie CallvoipDSL € 99,00
