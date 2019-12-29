@@ -5,30 +5,32 @@ layout: default
 logos: true
 hero:
   title: Zelfstandigen
-  content: 'Als ZZP’er heeft u het druk genoeg. Callvoip biedt de telefoonoplossing
-    die u zoekt: telefoonnummer, telefoon & een flexibele door uzelf te bedienen online
-    telefooncentrale.'
+  content: 'Als ZZP’er heb je het druk genoeg. Callvoip biedt de telefoonoplossing
+    die je zoekt: telefoonnummer, telefoon en een flexibele door jouzelf te bedienen
+    online telefooncentrale.'
   button:
     content: Bereken je kosten
     link: "/calculator"
   image: "/v1567495579/zelfstandige_hbtb5x.png"
   image_position: center
+  mobile: ''
+  disable_image_on_mobile: false
 blocks:
 - content: |-
-    Klanten van Callvoip gebruiken de Simmpl online telefooncentrale.
-    Simmpl, omdat de telefooncentrale u voorziet van zeer veel professionele functionaliteiten en uitblinkt in bedieningseenvoud.
+    Als klant gebruiken de Callvoip online telefooncentrale.
+    Deze telefooncentrale voorziet je van zeer veel professionele functionaliteiten en blinkt uit in bedieningsgemak. Uitgekiende telefonie voor slimme ondernemers dus!
   image: "/v1566216361/3_laptops_transparant_pkw6ry.png"
   position: image_left
   title: Callvoip = Simmpl!
   image_position: ''
 usps:
   title: Geniet als ZZP-er van optimale bereikbaarheid
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
+  content: Callvoip zorgt ervoor dat je als ondernemer altijd bereikbaar bent, dat
     gaat verder dan telefonie.
   items:
   - icon: fa-cloud
     title: Moderne centrale in de cloud
-    content: 'U krijgt toegang tot de revolutionaire Simmpl-centrale met eenvoudige
+    content: 'Je krijgt toegang tot de revolutionaire Callvoip-centrale met eenvoudige
       bediening. '
   - icon: fa-file-contract
     title: Maandelijks opzegbaar
@@ -36,8 +38,8 @@ usps:
       opzegbaar.
   - icon: fa-piggy-bank
     title: Besparing
-    content: U belt bij ons voor een vast bedrag per maand of tegen de reguliere lage
-      gesprekskosten.
+    content: Je belt bij ons voor een vast bedrag per maand of tegen de reguliere
+      lage gesprekskosten.
   - title: Vast mobiel integratie
     content: Een simkaart waarop u bereikbaar bent met zowel uw mobiele als zakelijke
       vaste telefoonnummer.
@@ -109,6 +111,8 @@ description: Op zoek naar telefonie voor ZZP? Callvoip biedt u de oplossing. Ont
   de voordelen en mogelijkheden van onze modernste online telefooncentrale.
 images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: Zelfstandigen
