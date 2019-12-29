@@ -66,9 +66,10 @@ intro:
     twee cases kort uitgewerkt. '
 prijzen:
 - title: Tandartspraktijk
-  content: Er is één receptietoestel en die kan de inkomende belletjes niet aan. Deze
-    oproepen worden opgevangen in een wachtrij. Bij aangenomen gesprekken moet de
-    klantkaart getoond worden. De drie behandelkamers allemaal een eigen handset.
+  content: Eén receptietoestel die alle inkomende belletjes op piekuren niet aan.
+    Deze telefoontjes worden opgevangen in een comfortabele wachtrij. Bij aangenomen
+    gesprekken moet de klantkaart getoond worden. De drie behandelkamers hebben elk
+    een eigen draadloze telefoon.
   button:
     title: 'Bekijk de case hier: '
     link: "/oplossingen/branches/tandarts/"
@@ -87,8 +88,9 @@ prijzen:
     - title: Koppeling CRM (1x)
       price: '5.00'
 - title: Callcenter
-  content: Er werken 10 medewerkers en bellen allemaal veel uit. Inkomende bereikbaarheid
-    is minder van belang. Gemiste oproepen worden gemaild en opgevangen in de voicemail.
+  content: Er werken 10 medewerkers en deze bellen allemaal veel uit. Een belbundel
+    kan wel uit! Inkomende bereikbaarheid is minder van belang. Gemiste oproepen worden
+    gemaild en opgevangen in de voicemail.
   button:
     title: Bekijk alle cases hier
     link: "/oplossingen/branches/"
