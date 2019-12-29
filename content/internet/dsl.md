@@ -45,14 +45,14 @@ usps:
     icon: fa-money-bill
   - icon: fa-bars
     title: Vast IP-adres
-    content: Standaard 1 vast IP adres – mogelijkheid voor meer natuurlijk.
+    content: Standaard 1 vast IP adres – mét mogelijkheid voor meer natuurlijk.
   - title: Beheer
     content: Je krijgt 3 maanden gratis Beheer en Monitoring (i.c.m. Draytek-router).
     icon: fa-window-restore
   - icon: fa-trophy
     title: Beste apparatuur
-    content: Wij informeren u graag welke apparatuur het beste past voor de beste
-      resultaten.
+    content: Wij informeren je graag welke apparatuur het beste past voor de beste
+      performance.
 intro:
   title: Welke abonnementen zijn er?
   content: ''

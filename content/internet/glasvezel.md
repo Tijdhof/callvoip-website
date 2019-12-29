@@ -22,9 +22,9 @@ blocks:
   image: "/v1565858744/glasvezel_xgeang.png"
   content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
     ingrediënt. Callvoip biedt naast de standaard DSL-verbindingen ook glasvezel.
-    Situaties en wensen verschillen – wij zijn u daarom graag van dienst bij het vinden
-    van de juiste mix aan diensten en producten. Alles zodat u verzekerd bent van
-    de beste basis voor VoIP telefonie.
+    Situaties en wensen verschillen – wij zijn je daarom graag van dienst bij het
+    vinden van de juiste mix aan diensten en producten. Alles zodat je verzekerd bent
+    van de beste basis voor VoIP telefonie.
   position: image_left
   image_position: center
 usps:
@@ -45,7 +45,7 @@ intro:
   content: Callvoip biedt drie verschillende Glasvezel-abonnementen.
 prijzen:
 - title: 60-om-60 Mbit/s
-  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  content: De eenmalige kosten verschillen per situatie. Wij informeren je graag!
   button:
     title: Vraag Callvoip Glasvezel aan
     link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
@@ -58,7 +58,7 @@ prijzen:
       price: '50.00'
     title: 'U bent klant van Callvoip:'
 - title: 100-om-100 Mbit/s
-  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  content: De eenmalige kosten verschillen per situatie. Wij informeren je graag!
   button:
     title: Vraag Callvoip Glasvezel aan
     link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
@@ -71,7 +71,7 @@ prijzen:
       price: '50.00'
     title: 'U bent klant van Callvoip:'
 - title: 500-om-500 Mbit/s
-  content: De eenmalige kosten verschillen per situatie. Wij informeren u graag!
+  content: De eenmalige kosten verschillen per situatie. Wij informeren je graag!
   button:
     title: Vraag Callvoip Glasvezel aan
     link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
