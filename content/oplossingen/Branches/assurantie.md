@@ -9,47 +9,50 @@ slug: assurantie
 hero:
   image: "/v1561543296/callvoip-website-branches-assurantie.png"
   title: ''
+  disable_image_on_mobile: false
 layout: ''
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Als assurantiekantoor is het belangrijk dat u altijd bereikbaar bent voor uw cliënten.
+Als assurantiekantoor is het belangrijk dat je altijd bereikbaar bent voor je cliënten.
 
 ### Situatiebeschrijving
 
-Als ZZP-er wil het assurantiekantoor bereikbaar zijn voor cliënten onder het zakelijk nummer, maar bereikbaar zijn voor familie & vrienden onder het privénummer. Ook is de wens er om een snellere internetverbinding te nemen. Men is opzoek naar één partij die dit allemaal kan bieden
+Als ZZP-er wil het assurantiekantoor bereikbaar zijn voor cliënten onder het zakelijk nummer, maar bereikbaar zijn voor familie en vrienden onder het privénummer. Ook is de wens er om een snellere internetverbinding te nemen. Je bent op zoek naar één partij die dit allemaal kan bieden.
 
 ### De oplossing van Callvoip
 
-Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is de praktijk beter bereikbaar en kan men efficiënter werken. De volgende functionaliteiten zijn ingezet:
+Dankzij de professionele functionaliteiten van de online telefooncentrale van Callvoip is je praktijk beter bereikbaar en kun je efficiënter werken. De volgende functionaliteiten zijn ingezet:
 
-#### Één telefooncentrale
+#### Eén telefooncentrale
 
-Beide telefoonnummers (zakelijk & privé) staan op de online telefooncentrale van Callvoip; Simmpl. Inkomende gesprekken van beide nummers komen terecht op twee handsets die door Callvoip zijn geconfigureerd. Op de handset hoort men (via de de verschillende ringtones) of het inkomend gesprek zakelijk of privé is.
+Beide telefoonnummers (zakelijk en privé) staan op de online telefooncentrale van Callvoip. Inkomende gesprekken van beide nummers komen terecht op twee handsets die door Callvoip zijn geconfigureerd. Op de handset zie (prefix-code in scherm) of hoor je (verschillende ringtones) of het inkomend gesprek zakelijk of privé is.
 
 #### Qaller + Prefix
 
 {{< layout/columns >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
-Voor wanneer men onderweg is worden de gesprekken doorgezet naar Qaller. Via de prefix ziet men snel of het gesprek privé of zakelijk is.
+Wanneer je onderweg is worden de gesprekken doorgezet naar Qaller. Via de prefix zie je in één oogopslag of het een zakelijk ofo privé-oproep is.
 
 #### Postcodecheck
 
-Verder heeft het assurantiekantoor gebruik gemaakt van de vrijblijvende postcodecheck van Callvoip. Hier kwam naar voren dat in dit geval een internetverbinding van Ziggo de snelste verbinding is. Callvoip heeft het gehele aanvraagtraject begeleid.
+Verder heeft u voor uw assurantiekantoor gebruik gemaakt van de vrijblijvende postcodecheck van Callvoip. Hierin kwam naar voren dat er ZIGGO beschikbaar is én dat er snel internet via Callvoip mogelijk is. Jij maakte je keuze en Callvoip heeft het gehele aanvraagtraject begeleid.
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
- {{< layout/column2 >}}
+{{< layout/column2 >}}
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1562743614/Callvoip-website-branches-assurantie-postcodecheck.png)
 
- {{</ layout/column2 >}}
+{{</ layout/column2 >}}
 
 {{</ layout/columns >}}
 
-### Benieuwd naar de mogelijkheden voor uw situatie?
+### Benieuwd naar de mogelijkheden voor jouw situatie?
 
 <br>
 
