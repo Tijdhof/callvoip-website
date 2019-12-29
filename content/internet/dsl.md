@@ -35,9 +35,10 @@ usps:
   items:
   - icon: fa-hand-pointer
     title: Één aanspreekpunt
-    content: U heeft 1 aanspreekpunt voor uw telefonie en internet.
+    content: 'Fijn: één aanspreekpunt voor internet én telefonie.'
   - icon: fa-rocket
-    content: Callvoip levert de beloofde snelheid! Wij bekijken vooraf met u de mogelijkheden.
+    content: Callvoip levert de beloofde snelheid! Wij bekijken vooraf samen met jou
+      de mogelijkheden.
     title: Snelheid
   - content: Callvoip klanten krijgen 10% korting op de standaard prijzen.
     title: Korting
@@ -46,7 +47,7 @@ usps:
     title: Vast IP-adres
     content: Standaard 1 vast IP adres – mogelijkheid voor meer natuurlijk.
   - title: Beheer
-    content: U krijgt 3 maanden gratis Beheer & Monitoring (i.c.m. Draytek router).
+    content: Je krijgt 3 maanden gratis Beheer en Monitoring (i.c.m. Draytek-router).
     icon: fa-window-restore
   - icon: fa-trophy
     title: Beste apparatuur
@@ -72,10 +73,10 @@ menu:
 ---
 {{< dsl-tabel >}}
 <br>
-*i.c.m. Draytek router
+\*i.c.m. Draytek router
 
 ## Extra mogelijkheden CallvoipDSL
 
 * <b>PIN over IP</b> - €5,- per maand (excl. BTW)<br> Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
-* <b>Alarm over IP</b> - €5,- per maand (excl. BTW) <br> Laat uw alarm voortaan over IP lopen. Met een IP kiezer heeft u geen dure analoge lijn meer nodig. U betaalt geen gesprekskosten meer.
-* <b>Extra vaste IP-adressen</b> - vanaf €5,- per maand (excl. BTW) <br> Standaard krijgt u 1 vast IP-adres. Heeft u meer IP adressen nodig, dan kunt u een extra subnet aanvragen.
+* <b>Alarm over IP</b> - €5,- per maand (excl. BTW) <br> Laat je alarm voortaan over IP lopen. Met een IP kiezer heb je geen dure analoge lijn meer nodig. Je betaalt geen gesprekskosten meer.
+* <b>Extra vaste IP-adressen</b> - vanaf €5,- per maand (excl. BTW) <br> Standaard krijg je 1 vast IP-adres. Heb je meer IP adressen nodig, dan kun je een extra subnet aanvragen.
