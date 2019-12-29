@@ -45,9 +45,9 @@ usps:
     content: Ziggo levert internet, maar wij zijn (ook) je aanspreekpunt. Wel zo makkelijk!
 intro:
   title: Wat kost internet via de kabel van Ziggo?
-  content: Of u nu een startende ondernemer bent met beperkte eisen en wensen of een
-    MKB’er met behoefte aan een stabiele verbinding. Ziggo heeft altijd een passende
-    internetdienst voor u.
+  content: Of je nu een startende ondernemer bent met beperkte eisen en wensen of
+    een MKB’er met behoefte aan een stabiele verbinding. Ziggo heeft altijd een passende
+    internetdienst voor jouw situatie.
 prijzen:
 - title: Ziggo Zakelijk Internet
   content: 'Supersnel en betrouwbaar zakelijk internet tot wel 600 Mbit/s. Het is

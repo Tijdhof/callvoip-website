@@ -44,11 +44,11 @@ usps:
   items:
   - icon: fa-rocket
     title: Snel en stabiel internet
-    content: Door de locatiescan van te voren, heeft u na installatie snel & stabiel
+    content: Door de locatiescan van te voren, heb je na installatie snel en stabiel
       internet.
   - icon: fa-cog
     title: Inclusief apparatuur en installatie
-    content: U ontvangt een 4g-unit voor buiten en een router/switch voor binnen.
+    content: Je ontvangt een 4G-unit voor buiten en een router/switch voor binnen.
   - icon: fa-heartbeat
     title: 365-dagen monitoring
     content: Uw verbinding wordt 24/7 beheerd om zo snel storingen op te lossen.
