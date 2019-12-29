@@ -5,9 +5,9 @@ layout: default
 logos: true
 hero:
   title: MKB
-  content: Hosted VoIP is de perfecte oplossing voor het MKB. U maakt gebruik van
+  content: Hosted VoIP is de perfecte oplossing voor het MKB. Je maakt gebruik van
     de modernste online telefooncentrale. Simpel in gebruik, flexibel en schaalbaar.
-    U betaalt daardoor nooit teveel!
+    Je betaalt daardoor nooit teveel!
   button:
     content: Bereken je kosten
     link: "/calculator"

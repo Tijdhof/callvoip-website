@@ -55,13 +55,13 @@ usps:
 intro:
   title: Wat kost bellen met Callvoip?
   content: Bij Callvoip heeft u altijd een abonnement op maat. Alle diensten zijn
-    maandelijks opzegbaar en maandelijks schaalbaar; zo past uw telefonie altijd bij
-    uw situatie en betaalt u nooit teveel. <br> Kies voor de belbundel die bij uw
+    maandelijks opzegbaar en maandelijks schaalbaar; zo past je telefonie altijd bij
+    je situatie en betaal je nooit teveel. <br> Kies voor de belbundel die bij jouw
     situatie past en bel voor een vast bedrag per maand. Liever bellen tegen onze
-    vaste lage gesprekskosten? Dan kiest u voor Flexibel bellen.
+    vaste lage gesprekskosten? Dan kies je voor Flexibel bellen.
 prijzen:
 - title: Flexibel bellen
-  content: U betaalt per gesprek een starttik en verder betaalt u per minuut, natuurlijk
+  content: Je betaalt per gesprek een starttik en verder betaal je per minuut, natuurlijk
     tegen onze zeer lage gesprekskosten.
   button:
     title: Overzicht gesprekskosten
@@ -107,7 +107,7 @@ prijzen:
     items:
     - title: Basis Abonnement
       price: '7.50'
-description: Op zoek naar telefonie voor ZZP? Callvoip biedt u de oplossing. Ontdek
+description: Op zoek naar telefonie voor ZZP? Callvoip biedt je de oplossing. Ontdek
   de voordelen en mogelijkheden van onze modernste online telefooncentrale.
 images: []
 hideinsearch: false
