@@ -24,9 +24,9 @@ blocks:
   position: image_left
   title: De beste telefonie voor het MKB!
   image_position: ''
-- content: "Uw organisatie is uniek en heeft eigen telefonie-wensen en -eisen.\nDankzij
-    de uitgebreide en zeer flexibele Simmpl telefooncentrale biedt Callvoip wat u
-    zoekt: een complete hosted VoIP-oplossing met telefoonnummers en als u wenst hardware
+- content: "Jouw organisatie is uniek en heeft eigen telefonie-wensen en -eisen.\nDankzij
+    de uitgebreide en zeer flexibele Callvoip telefooncentrale bieden wij wat je zoekt:
+    een complete hosted VoIP-oplossing met telefoonnummers en als je wenst hardware
     en internetverbinding. Veel extra features, zoals een wachtrij, keuzemenu of gespreksopname,
     zijn beschikbaar. "
   image: "/v1567499134/mkb_onder_sfk61v.png"
@@ -43,11 +43,11 @@ usps:
       of juist vertrek van collega''s. '
   - icon: fa-laptop
     title: Één beheeromgeving
-    content: Heeft u meerdere vestigingen? U bedient ze allemaal eenvoudig vanuit
+    content: Heb je meerdere vestigingen? Je bedient ze allemaal eenvoudig vanuit
       één beheeromgeving.
   - icon: fa-home
     title: Optimale bereikbaarheid
-    content: U bent bereikbaar onder één of meer nummers. Ook thuiswerkers zijn bereikbaar
+    content: Je bent bereikbaar onder één of meer nummers. Ook thuiswerkers zijn bereikbaar
       onder het zakelijk nummer.
   - icon: fa-file-contract
     title: Geen lange contracten
@@ -58,11 +58,11 @@ usps:
     content: Al jaren ervaring en duizenden klanten geholpen naar de beste telefonieoplossing.
   - icon: fa-mouse-pointer
     title: Gratis Click-to-Dial
-    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij u onze
-      Click-to-Dial app gratis aan.
+    content: Om het leven én je telefonie nog gemakkelijker te maken, bieden wij je
+      onze Click-to-Dial app gratis aan.
 intro:
   title: Iedere organisatie is uniek!
-  content: 'Daarom is het lastig te vertellen wat u precies gaat betalen. Hieronder
+  content: 'Daarom is het lastig te vertellen wat je precies gaat betalen. Hieronder
     twee cases kort uitgewerkt. '
 prijzen:
 - title: Tandartspraktijk
