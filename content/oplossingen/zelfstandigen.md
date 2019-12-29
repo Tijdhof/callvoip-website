@@ -41,17 +41,17 @@ usps:
     content: Je belt bij ons voor een vast bedrag per maand of tegen de reguliere
       lage gesprekskosten.
   - title: Vast mobiel integratie
-    content: Een simkaart waarop u bereikbaar bent met zowel uw mobiele als zakelijke
-      vaste telefoonnummer.
+    content: 'Eén SIM-kaart waarop je bereikbaar bent op / kunt uitbellen met zowel
+      je mobiele als zakelijke vaste telefoonnummer. '
     icon: fa-mobile
   - icon: fa-mouse-pointer
     title: Gratis Click-to-Dial
-    content: Om het leven & telefonie nog gemakkelijker te maken, bieden wij u onze
-      Click-to-Dial app gratis aan.
+    content: Om het leven en je telefonie nog gemakkelijker te maken, bieden wij je
+      onze Click-to-Dial app gratis aan.
   - icon: fa-arrows-h
     title: Nummerbehoud
-    content: Heeft u al een telefoonnummer? Dit nummer nemen wij eenvoudig en snel
-      over van uw huidige provider.
+    content: Heb je al een telefoonnummer? Dit nummer nemen wij eenvoudig en snel
+      over van je huidige leverancier.
 intro:
   title: Wat kost bellen met Callvoip?
   content: Bij Callvoip heeft u altijd een abonnement op maat. Alle diensten zijn
