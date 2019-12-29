@@ -13,11 +13,13 @@ hero:
     link: "/calculator"
   image: "/v1565690920/MKB_eq5yv1.png"
   image_position: center
+  mobile: ''
+  disable_image_on_mobile: false
 blocks:
-- content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent en dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken. Callvoip begeleidt u daar graag bij en zo heeft
-    u alles onder één dak.
+- content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent en
+    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
+    mogen daarbij niet ontbreken. Callvoip begeleidt je daar graag bij en zo heb je
+    alles onder één dak.
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
   title: De beste telefonie voor het MKB!
@@ -115,9 +117,11 @@ prijzen:
     - title: Basis Abonnement
       price: '7.50'
 description: 'Zakelijke telefonie voor het MKB: dé professionele telefonie-oplossing
-  voor uw situatie. Vraag een vrijblijvende offerte aan bij Callvoip. '
+  voor jouw situatie. Vraag een vrijblijvende offerte aan bij Callvoip. '
 images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: MKB
