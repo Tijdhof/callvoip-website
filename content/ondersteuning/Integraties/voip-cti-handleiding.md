@@ -1,5 +1,5 @@
 ---
-title: Handleiding Voip CTI (CRM-integratie)
+title: Handleiding VoIP CTI (CRM-integratie)
 weight: 
 description: ''
 images: []
@@ -11,7 +11,7 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-<h3>Download VoIP CTI software:</h3>
+<h3>Download de VoIP CTI software:</h3>
 
 * [VoIP CTI Client Software (v201219)](http://files.callvoip.nl/downloads/voipcticlientsetup.exe)
 * [VoIP CTI Recognition Configuration Tool (v241219)](http://files.callvoip.nl/downloads/voipcticonfigurationsetup.exe)
@@ -20,11 +20,11 @@ hidesocialshare: false
 
 <h3>Wat houdt CRM integratie in?</h3>
 
-Met CRM integratie worden de nummers van bellers opgezocht in uw CRM pakket en wordt de bijbehorende klantenkaart getoond. Andersom kunt u met één klik vanuit uw CRM naar relaties bellen. 
+Met CRM integratie worden de nummers van bellers opgezocht in uw CRM pakket en wordt de bijbehorende klantenkaart getoond. Andersom kunt u met één klik vanuit uw CRM naar relaties bellen.
 
 <h3>Wat is er nodig voor CRM Integratie?</h3>
 
-U heeft een CRM pakket nodig waarmee wij een koppeling kunnen maken. Wij leveren u de benodigde software (Windows) om de koppeling te maken en assisteren u bij de instellingen. 
+U heeft een CRM pakket nodig waarmee wij een koppeling kunnen maken. Wij leveren u de benodigde software (Windows) om de koppeling te maken en assisteren u bij de instellingen.
 
 <h3>De voordelen op een rij</h3>
 
@@ -39,12 +39,12 @@ Kortom: VoIP CTI is een mooie uitbreiding van uw telefonie én de basis voor nó
 
 <h3>Callvoip en uw CRM koppelen: een stappenplan</h3>
 
-De te nemen stappen vindt u in de PDF handleiding die u rechts op deze pagina kunt downloaden. Callvoip helpt u bij het bedrijfsklaar maken van de koppeling. 
+De te nemen stappen vindt u in de PDF handleiding die u rechts op deze pagina kunt downloaden. Callvoip helpt u bij het bedrijfsklaar maken van de koppeling.
 
 Voor elke gebruiker die de koppeling gaat gebruiken is er de client software die je downloadt, installeert, koppelt met de aangemaakte API (zie stap 1) en waarop je je als Callvoip gebruiker aanmeldt met je Callvoip gebruikersnaam en wachtwoord.
 
-Zie de downloadlink bovenaan deze pagina.   
-VoIP CTI client software: 
+Zie de downloadlink bovenaan deze pagina.  
+VoIP CTI client software:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566225429/voipcti-3_sgykr4.png)
 
@@ -57,7 +57,7 @@ Als u de koppelingsschermen krijgt kunt u uw Callvoip gebruikersnaam en wachtwoo
 <h3>Koppel uw CRM-systeem (éénmalig per organisatie/CRM pakket)</h3>
 
 U kunt nu voor alle gebruikers in één keer een CRM systeem koppelen.  
-Hiertoe download en installeert u de configurator (zie bovenaan deze pagina). 
+Hiertoe download en installeert u de configurator (zie bovenaan deze pagina).
 
 Log in met de door CallvoipTelefonie verstrekte **authenticatiegegevens** behorend bij uw licentie.
 
