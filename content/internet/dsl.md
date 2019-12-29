@@ -8,9 +8,9 @@ aliases:
 blocks:
 - content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding een noodzakelijk
     ingrediënt. Callvoip biedt daarom een ruim scala aan verbindingen. Situaties en
-    wensen verschillen – wij zijn u daarom graag van dienst bij het vinden van de
-    juiste mix aan diensten en producten. Alles zodat u verzekerd bent van de beste
-    basis voor uw telefonie.
+    wensen verschillen – wij zijn je daarom graag van dienst bij het vinden van de
+    juiste mix aan diensten en producten. Alles zodat je verzekerd bent van de beste
+    basis voor jouw telefonie.
   image: "/v1565858232/DSL2_n4hzbr.png"
   position: image_left
   title: DSL-verbinding waar je op kunt vertrouwen
@@ -59,6 +59,8 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+description: ''
+prijzen: []
 menu:
   main:
     name: DSL
@@ -68,7 +70,6 @@ menu:
     post: fa-wifi
 
 ---
-
 {{< dsl-tabel >}}
 <br>
 *i.c.m. Draytek router
