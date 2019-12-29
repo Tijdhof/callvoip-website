@@ -15,9 +15,9 @@ hero:
   mobile: ''
   disable_image_on_mobile: false
 blocks:
-- content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
-    centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
-    uitgaand. Uw eigen centrale blijft het centrale punt waar u instelt wat er met
+- content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en je eigen
+    centrale. Door deze trunk lopen alle gesprekken van al je nummers: inkomend en
+    uitgaand. Je eigen centrale blijft het centrale punt waar je instelt wat er met
     gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
   image: "/v1566556087/voip_trunk_wldqja.png"
   position: image_left
@@ -35,13 +35,14 @@ usps:
   items:
   - icon: fa-cloud
     title: Vertrouwd
-    content: Bediening en gemak van uw eigen telefooncentrale.
+    content: Bediening en gemak van je eigen telefooncentrale.
   - icon: fa-user-lock
-    title: Flexibel & Schaalbaar
-    content: Zelf het aantal gesprekskanalen bepalen en aanpassen.
+    title: Flexibel en schaalbaar
+    content: 'Handig: zelf het aantal gesprekskanalen bepalen en aanpassen.'
   - icon: fa-comment-alt-smile
     title: Betrouwbaar
-    content: U krijgt een backup-trunk en fallback op hosted centrale.
+    content: Je krijgt een backup-trunk met een automatische fallback op de hosted
+      centrale.
   - icon: fa-unlock
     title: Veilig
     content: Uitgebreid palet aan beveiligingsopties (IP-Whitelist, Destination Whitelist
@@ -49,7 +50,7 @@ usps:
   - icon: fa-comment-alt-smile
     title: Voordelig
     content: Scherpe gesprekstarieven en lage abonnementskosten.
-  - title: Geschikt voor veel typen
+  - title: Geschikt voor veel centrales
     icon: fa-tty
     content: De VoIP-trunk van Callvoip is geschikt voor veel typen centrales.
 intro:
