@@ -89,10 +89,11 @@ intro:
     staat bij ons bovenaan!
 prijzen:
 - title: 'Een voorbeeld:'
-  content: De online telefooncentrale is enorm schaalbaar en bouwt u zelf op naar
-    uw wensen. Zo betaalt u nooit te veel! <br> Links een organisatie met één telefoonnummer
-    en vier medewerkers. Elke medewerker heeft een eigen toestel en een koppeling
-    met het CRM-pakket nodig. De inkomende oproepen worden opgevangen in een wachtrij.
+  content: De online telefooncentrale is enorm schaalbaar en bouw je zelf op naar
+    je wensen. Zo heb je precies wat je wenst en betaal je nooit te veel! <br> Links
+    een organisatie met één telefoonnummer en vier medewerkers. Elke medewerker heeft
+    een eigen toestel en een koppeling met het CRM-pakket nodig. De inkomende oproepen
+    worden opgevangen in een wachtrij.
   button:
     title: Bereken het zelf!
     link: "/calculator/"
