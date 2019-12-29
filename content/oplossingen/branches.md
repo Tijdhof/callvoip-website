@@ -18,6 +18,7 @@ hero:
   image: "/v1571648924/2471461_mdufkk.png"
   image_position: center
   disable_image_on_mobile: false
+  mobile: ''
 blocks:
 - title: Hosted telefonie voor de advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
@@ -93,7 +94,7 @@ intro:
   content: ''
 prijzen: []
 description: Callvoip heeft ervaring met elke branche. Bekijk snel onze brancheoplossingen
-  en laat u adviseren door de beste zakelijk telefonieprovider.
+  en laat je adviseren door de beste zakelijk telefonieprovider.
 images: []
 headless: true
 link: ''

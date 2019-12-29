@@ -51,7 +51,8 @@ usps:
     content: Je ontvangt een 4G-unit voor buiten en een router/switch voor binnen.
   - icon: fa-heartbeat
     title: 365-dagen monitoring
-    content: Uw verbinding wordt 24/7 beheerd om zo snel storingen op te lossen.
+    content: Je verbinding wordt 24/7 gemonitored om storingen te voorkomen én op
+      te lossen.
 intro:
   title: ''
   content: ''
