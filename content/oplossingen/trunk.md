@@ -1,5 +1,5 @@
 ---
-title: Trunk | Trunkoplossing voor mkb & grootzakelijk
+title: Trunk | Trunkoplossing voor mkb en grootzakelijk
 type: page
 layout: default
 logos: true
@@ -55,7 +55,7 @@ usps:
     content: De VoIP-trunk van Callvoip is geschikt voor veel typen centrales.
 intro:
   title: Wat kost bellen met Callvoip?
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
+  content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent, dat
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
 prijzen:
@@ -73,7 +73,7 @@ prijzen:
     - title: Eenmalig
       price: '15.00'
 - title: Extra spraakkanaal
-  content: Waarschijnlijk heeft u extra spraakkanalen nodig.
+  content: Waarschijnlijk heb je extra gelijktijdige spraakkanalen nodig.
   button:
     title: Extra spraakkanaal aanvragen
     link: "/mijncallvoip/"
@@ -86,7 +86,7 @@ prijzen:
     - title: Eenmalig
       price: '5.00'
 - title: Telefoonnummer
-  content: U heeft één of meer telefoonnummers (nieuw of bestaand)
+  content: Je heb één of meer telefoonnummers (nieuw of bestaand)
   button:
     title: Meer over telefoonnummers?
     link: "/telefonie/telefoonnummers/"
@@ -98,8 +98,8 @@ prijzen:
       price: '2.00'
     - title: Eenmalig
       price: '15.00'
-description: De veiligste VoIP trunk voor uw eigen telefooncentrale. Met een VoIP
-  trunk bel je met je eigen VoIP-centrale via de lijnen van Callvoip.
+description: De veiligste VoIP-Trunk voor je eigen telefooncentrale. Met een VoIP-Trunk
+  bel je met je eigen VoIP-centrale via de lijnen van Callvoip.
 images: []
 hideinsearch: false
 hideingoogle: false
