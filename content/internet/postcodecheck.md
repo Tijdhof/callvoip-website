@@ -5,13 +5,13 @@ hero:
   image: "/v1570097106/postcode-check_mbjxbz.png"
 
 ---
-Vul hieronder uw gegevens in en u wij sturen u een overzicht welke soorten internet op uw adres mogelijk zijn.
+Vul hieronder je gegevens in en wij sturen je een overzicht welke soorten internet op jouw adres mogelijk zijn.
 
-U ontvangt binnen **één werkdag** een vrijblijvende offerte. Wilt u tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Laat het ons weten in de toelichting!
+Je ontvangt binnen **één werkdag** een vrijblijvende offerte. Wil je tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Laat het ons weten in de toelichting!
 
 ### Ontvang een vrijblijvende internetcheck
 
-Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0001**](tel:+31508200001).
+Heb je eerst advies nodig of heb je nog vragen, bel ons gerust op [**050 820 0001**](tel:+31508200001).
 
 {{< form "postcode-check" "/internet/postcodecheck/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
@@ -43,4 +43,4 @@ Heeft u eerst advies nodig of heeft u nog vragen, bel ons gerust op [**050 820 0
 
 {{</ layout/split >}}
 
-{{< form/textarea "Uw wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
+{{< form/textarea "Jouw wensen" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
