@@ -1,7 +1,7 @@
 ---
 title: Click-to-Dial | Klik en bel met je VoIP toestel én meer!
-description: Met de Click-to-Dial-plugin van Callvoip maakt u in een handomdraai alle
-  telefoonnummers in uw Chrome webbrowser klikbaar én meer!
+description: Met de Click-to-Dial-plugin van Callvoip maak je in een handomdraai alle
+  telefoonnummers in de Chrome webbrowser klikbaar én meer!
 images:
 - "/v1556712559/clicktodial_chrome_2-150x150.png"
 type: page
@@ -20,28 +20,29 @@ hero:
   image: "/v1567498458/clicktdial_bweq3w.png"
   image_position: start
   disable_image_on_mobile: false
+  mobile: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1569232681/clicktodial_3_afbeeldingen_oxbpxq.png"
   content: |2-
 
     <br>
-    -<b>Click-to-dial:</b> klik en bel een nummer op uw toestel.<br>
-    -<b>Select-and-dial:</b> selecteer en right-click om te bellen.<br>
+    -<b>Click-to-dial:</b> klik en bel een nummer op je IP-toestel<br>
+    -<b>Select-and-dial:</b> selecteer en right-click om te bellen<br>
     -<b>Paste-and-dial:</b> plak/type een nummer in de app en bel!<br>
-    -<b>Log met gesprekken (in/uit)</b> met datum en tijd.<br>
-    -<b>Pop-up inkomend gesprek:</b> met nummer en naam.<br>
-    -<b>Adresboek:</b> voeg naam toe en bookmark: privé/gedeeld.<br>
+    -<b>Log met gesprekken (in/uit)</b> met datum en tijd<br>
+    -<b>Pop-up inkomend gesprek:</b> met nummer en naam<br>
+    -<b>Adresboek:</b> voeg naam toe en bookmark: privé/gedeeld<br>
     -<b>Bedrijfstelefoonboek:</b> gedeelde nummers ook zichtbaar bij collega’s.<br>
-    -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in uw CRM!<br>
-    -<b>Yealink-adresboek:</b> koppel uw Yealink toestel met uw Click to Dial adresboek!
+    -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in je CRM!<br>
+    -<b>Yealink-adresboek:</b> koppel je Yealink toestel met het Click to Dial adresboek!
   position: image_left
   image_position: end
 - title: Hoe werkt het?
   image: "/v1565856543/clicktodial2_xvsnfd.png"
   content: |-
     Alle telefoonnummers in uw Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of u kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
-    Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen! <br> <br> <a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/" class="button">Handleiding</a>
+    Zodra u klikt, rechts klikt of het nummer plakt in de app, zal uw eigen telefoon direct overgaan. Zodra u de hoorn opneemt zal uw telefoon starten met bellen naar het nummer waarop u klikte. Hierdoor hoeft u zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
   position: image_right
   image_position: ''
 usps:
@@ -72,6 +73,7 @@ intro:
 prijzen: []
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     weight: 4
@@ -82,7 +84,8 @@ menu:
 ---
 ## Wat kost de Click-to-Dial?
 
-Helemaal niets! De Click-to-Dial is gratis voor klanten van Callvoip.
+**Helemaal niets!**   
+De Click-to-Dial is gratis voor klanten van Callvoip.
 
 <br>
 
@@ -90,13 +93,6 @@ Helemaal niets! De Click-to-Dial is gratis voor klanten van Callvoip.
 
 <br>
 
-<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a>  <a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a>  <a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf" class="button">Yealink adresboek</a>
+<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a>  <a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a>  
 
 <br>
-
-#### Laatste update (januari '19)
-
-Geef uw Yealink-telefoon toegang tot het Click-to-Dial telefoonboek
-
-* Kopieer nummers vanuit Click-to-Dial en lokaliseer uw relatie snel in bijvoorbeeld uw CRM
-* Regelbutton CLICK-TO-DIAL hernoemd naar NUMMERHERKENNING, deze staat default uit. De groene telefoontjes worden pas zichtbaar als u de button inschakelt.

@@ -34,16 +34,16 @@ blocks:
   image_position: ''
 - title: Vergelijking met andere integratie
   image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
-  content: "De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nU weet
+  content: "De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nJe weet
     het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
     basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
-    een gesprekslog en een bedrijfstelefoonboek. Deze app is voor u als Simmpl klant
-    kostenloos.\n\nWilt u meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
-    met een grote keur aan CRM en ERP-pakketten. Deze biedt u een specifiekere koppeling
-    dan de click-to-dial.\n\nWilt u nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
-    API</a> van de Simmpl-centrale maakt het mogelijk om een eigen maatwerkkoppeling
-    te laten ontwikkelen. Desgewenst brengen wij u in contact met deskundige programmeurs
-    die de kunst van programmeren verstaan én de Simmpl API kennen. \n\n<a href=\"/ondersteuning/integraties/voip-cti-handleiding/\"
+    een gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant
+    kostenloos.\n\nWil je meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
+    met een ruime keur aan CRM- en ERP-pakketten. Deze bied je een specifiekere koppeling
+    dan de click-to-dial.\n\nWil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
+    API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
+    te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
+    die de kunst van programmeren verstaan én de Callvoip API kennen. \n\n<a href=\"/ondersteuning/integraties/voip-cti-handleiding/\"
     class=\"button\">Hoe werkt het?</a>"
   position: image_right
   image_position: center
