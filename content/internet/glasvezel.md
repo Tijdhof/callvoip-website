@@ -39,13 +39,14 @@ usps:
     content: Callvoip-klanten krijgen korting op de Callvoip internet abonnementen.
   - icon: fa-trophy
     title: Perfecte basis
-    content: Callvoip internet biedt de beste basis voor uw telefoniesituatie.
+    content: Callvoip internet biedt de beste basis voor jouw telefoniesituatie.
 intro:
   title: Abonnementen
   content: Callvoip biedt drie verschillende Glasvezel-abonnementen.
 prijzen:
 - title: 60-om-60 Mbit/s
-  content: De eenmalige kosten verschillen per situatie. Wij informeren je graag!
+  content: Prachtige instap-snelheid en, zeg nu zelf, hiermee kun je heel wat werk
+    verzetten!
   button:
     title: Vraag Callvoip Glasvezel aan
     link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
@@ -58,7 +59,8 @@ prijzen:
       price: '50.00'
     title: 'U bent klant van Callvoip:'
 - title: 100-om-100 Mbit/s
-  content: De eenmalige kosten verschillen per situatie. Wij informeren je graag!
+  content: De meest gangbare FTTH-verbinding; riante up- en download voor vrijwel
+    elke MKB-omgeving.
   button:
     title: Vraag Callvoip Glasvezel aan
     link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
@@ -71,7 +73,7 @@ prijzen:
       price: '50.00'
     title: 'U bent klant van Callvoip:'
 - title: 500-om-500 Mbit/s
-  content: De eenmalige kosten verschillen per situatie. Wij informeren je graag!
+  content: 'Supersonisch snel, nooit meer problemen met je snelheid! '
   button:
     title: Vraag Callvoip Glasvezel aan
     link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
