@@ -1,6 +1,6 @@
 ---
 title: Managed 4G-oplossing | Goed internet op elke locatie
-description: Met de managed 4G-oplossing van Callvoip bent u altijd en overal bereikbaar.
+description: Met de managed 4G-oplossing van Callvoip ben je altijd en overal bereikbaar.
   Bekijk hier snel de mogelijkheden en de bijbehorende tarieven.
 images: []
 type: page
@@ -23,18 +23,18 @@ blocks:
 - title: Hoe werkt het?
   image: "/v1566554585/4g_antenne_vf6z4r.png"
   content: |-
-    Helaas is nog niet overal (snel en stabiel) internet mogelijk. Mobiel internet via 4G is dan dé perfecte oplossing. 4G staat voor de vierde generatie mobiele telecommunicatie en maakt snel internet door de lucht mogelijk. De Managed 4G-oplossing van Callvoip biedt een gebruiksklare verbinding: apparatuur, installatie, en de gewenste hoeveelheid data. Ook wordt uw verbinding 24/7 beheerd om storingen snel op te lossen.
+    Helaas is nog niet overal (snel en stabiel) internet mogelijk. Mobiel internet via 4G is dan dé perfecte oplossing. 4G staat voor de vierde generatie mobiele telecommunicatie en maakt snel internet door de lucht mogelijk. De Managed 4G-oplossing van Callvoip biedt een gebruiksklare verbinding: apparatuur, installatie, en de gewenste hoeveelheid data. Ook wordt je verbinding 24/7 beheerd om storingen snel op te lossen.
 
     Voor ons 4G internet-aanbod werken wij samen met Geuzenet, specialist in aanleg en beheer van 4G verbindingen. Veel bedrijven in heel Nederland werden reeds door hen van 4G internet voorzien.
   position: image_left
   image_position: center
-- title: 'Uw 4G draadloze internetoplossing in 4 stappen:'
+- title: 'Jouw 4G draadloze internetoplossing in 4 stappen:'
   image: "/v1565860150/4g2_lv0lkl.png"
   content: |-
     1. <a href="/aanvragen/managed-4g/">Klik hier</a> en vraag Managed 4G internet aan
     2. Er volgt een locatie-scan om wensen en mogelijkheden te bespreken
     3. Een monteur komt de 4G-apparatuur en antennes installeren
-    4. Terwijl u geniet van snel en goed internet wordt de verbinding 24/7 gemonitord
+    4. Terwijl je geniet van snel en goed internet wordt de verbinding 24/7 gemonitord
   position: image_right
   image_position: ''
 usps:
@@ -97,7 +97,7 @@ menu:
 Aanvullende informatie:
 
 * Kostenloze locatiecheck (PDF) en indien gewenst onsite meting
-* De installatiekosten kunnen variëren o.b.v. wensen, dit wordt met u besproken
+* De installatiekosten kunnen variëren o.b.v. wensen, dit wordt met je besproken
 * De abonnementskosten worden per 12 maanden vooraf in rekening gebracht.
 * Dataverbruik wordt gemonitord, uitbreiding naar passende bundel is mogelijk tegen meerprijzen
 * Alle bedragen zijn excl. BTW.
