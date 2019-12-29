@@ -17,11 +17,11 @@ hero:
   mobile: ''
 blocks:
 - content: |-
-    <br> Voor VoIP CTI heeft u nodig:
+    <br> Voor VoIP CTI heb je nodig:
 
     • een Windows-PC of Server. Aan Apple-mogelijkheden wordt gewerkt <br>
-    • uw CRM-pakket: check hier of neem contact op <br>
-    • de Simmpl telefooncentrale met VoIP CTI licentie per gebruiker <br>
+    • een CRM-pakket: check hier of neem contact op <br>
+    • de Callvoip telefooncentrale met VoIP CTI gebruikerslicenties<br>
 
     Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
 
@@ -30,7 +30,7 @@ blocks:
     <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
   image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
   position: image_left
-  title: Wat is er nodig en welke applicaties kunt u koppelen?
+  title: Wat is er nodig en welke applicaties kun je koppelen?
   image_position: ''
 - title: Vergelijking met andere integratie
   image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
@@ -61,8 +61,8 @@ usps:
   - icon: fa-comment-alt-smile
     title: Werknemerstevredenheid
     content: Het werk wordt gemakkelijker, geen verkeerde nummers meer!
-description: Met VoIP CTI verbindt u uw Windowsomgeving met uw telefoonsysteem. Zo
-  koppelt u eenvoudig uw klantsysteem (CRM-, ERP- en administratiepakketten).
+description: Met VoIP CTI verbind je je Windowsomgeving met je Callvoip telefoonsysteem.
+  Zo integreer je de telefonie eenvoudig met je klantsysteem (CRM-, ERP- en administratiepakketten).
 images:
 - "/v1567165784/icon_hwk0eh.png"
 intro:
