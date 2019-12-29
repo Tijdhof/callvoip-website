@@ -106,8 +106,8 @@ prijzen:
       price: '40.00'
     - title: Belbundel 5000min (10x)
       price: '250.00'
-- title: Uw organisatie
-  content: Via onze calculator krijgt u eenvoudig en snel een eerste indruk van de
+- title: Jouw organisatie
+  content: Via onze calculator krijg je eenvoudig en snel een eerste indruk van de
     kosten.
   button:
     title: Bereken het zelf
