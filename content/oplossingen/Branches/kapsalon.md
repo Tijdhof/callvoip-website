@@ -40,7 +40,7 @@ Mocht de salon niet in staat zijn om op te nemen, dan wordt de beller na een 6x 
 
 #### Openingstijden
 
-Via slimme tijdscondities wordt bepaald welke belroute de beller volgt. Binnen werktijd rinkelen toestellen; en buiten werktijd krijgt de beller een melding dat de salon gesloten is, hoort hij wat de reguliere openingstijden zijn. U krijgt een emailtje als notificatie van het gesprek, maar de beller kan niet inspreken. 
+Via slimme tijdscondities wordt bepaald welke belroute de beller volgt. Binnen werktijd rinkelen toestellen; en buiten werktijd krijgt de beller een melding dat de salon gesloten is, hoort hij wat de reguliere openingstijden zijn. Je krijgt een emailtje met datum, tijd, nummer en naam van de salon waarnaar gebeld werd als notificatie van het gesprek, maar de beller kan niet inspreken. De beller wordt als het ware 'geflitst' en jij bent op de hoogte: je weet dat er is gebeld, hoevaak, hoe laat en door wie. 
 
 {{</ layout/column2 >}}
 
