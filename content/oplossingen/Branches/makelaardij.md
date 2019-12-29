@@ -9,15 +9,18 @@ slug: makelaardij
 hero:
   image: "/v1561542250/callvoip-website-branches-makelaardij.png"
   title: ''
+  disable_image_on_mobile: false
 layout: ''
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Als makelaar is het belangrijk dat u goed bereikbaar bent voor uw klanten. Echter bent u als makelaar vaak onderweg, maar u wenst wel telefonisch bereikbaar te zijn.
+Als makelaar is het belangrijk dat je goed bereikbaar bent voor uw klanten. Je bent als makelaar veel en vaak onderweg, maar je wenst wel telefonisch bereikbaar te zijn.
 
 ### Situatiebeschrijving
 
-De makelaar merkt dat de (potentiële) klanten het vervelend vinden dat ze vaak belanden in een voicemail. Dit heeft als reden dat de makelaar vaak onderweg is met andere klanten voor bezichtigingen. Het doorschakelen naar mobiel het mobiele nummer was een tijdelijke oplossingen, maar brengt veel extra gesprekskosten met zich mee.
+Als makelaar merk je dat (potentiële) klanten het vervelend vinden dat ze vaak belanden in een voicemail. Dit heeft als reden dat de makelaar vaak onderweg is met andere klanten voor bezichtigingen. Het doorschakelen naar mobiel het mobiele nummer was een tijdelijke oplossingen, maar brengt veel extra gesprekskosten met zich mee.
 
 ### De oplossing van Callvoip
 
@@ -29,11 +32,11 @@ Dankzij de professionele functionaliteiten van de online telefooncentrale van Ca
 
 {{< layout/column2 >}}
 
-Om beter bereikbaar te zijn maakt de makelaar gebruik van Qaller. Hiermee wordt zijn mobiele telefoon een kopie van het toestel op kantoor. Via de Qaller app bepaalt u zelf of het toestel mee-rinkelt. Ook bepaalt u eenvoudig wat de belroute van het telefoonnummer moet zijn, bijvoorbeeld meteen naar voicemail of een omleiding aan- & uitzetten.
+Om beter bereikbaar te zijn kun je als makelaar gebruik van onze smartphone app, Qaller. Hiermee wordt je mobiele telefoon een kopie van het toestel op kantoor. Via de Qaller app bepaal je zelf of het toestel mee-rinkelt. Ook bepaal je eenvoudig wat de belroute van het telefoonnummer moet zijn, bijvoorbeeld meteen naar voicemail of een omleiding aan- en uitzetten.
 
 #### Omleiding
 
-De makelaar maakt gebruik van de omleiding-app. Hiermee kan de makelaar een andere (tijdelijke) belroute inschakelen. Bijvoorbeeld op momenten dat de makelaar echt niet telefonisch bereikbaar is of bijvoorbeeld onderweg is voor een bezichtiging en alleen zijn mobiele telefoon (Qaller) moet rinkelen (en niet ook de toestellen op kantoor).
+Als makelaar ben je erg blij met de omleiding-app. Hiermee kun je met één druk op de knop (in de Smartphone App) een andere belroute inschakelen. Bijvoorbeeld op momenten dat de je echt niet telefonisch bereikbaar bent, of bijvoorbeeld als je onderweg bent voor een bezichtiging en alleen je mobiele telefoon (Qaller) wilt laten rinkelen (en niet ook de toestellen op kantoor).
 
 {{</ layout/column2 >}}
 
@@ -45,7 +48,7 @@ De makelaar maakt gebruik van de omleiding-app. Hiermee kan de makelaar een ande
 
 {{</ layout/columns >}}
 
-### Benieuwd naar de mogelijkheden voor uw situatie?
+### Benieuwd naar de mogelijkheden voor jouw situatie?
 
 <br>
 
