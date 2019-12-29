@@ -77,8 +77,8 @@ prijzen:
     - title: Toestelaccount
       price: '4.00'
 - title: Bundel 500 min
-  content: U koopt 500 belminuten (per toestel) af per maand. Belt u meer minuten
-    dan in deze bundel zit, dan betaalt u voor de overige minuten onze reguliere lage
+  content: Je koopt 500 belminuten (per toestel) af per maand. Bel je meer minuten
+    dan in deze bundel zit, dan betaal je voor de overige minuten onze reguliere lage
     gesprekskosten.
   button:
     title: Offerte aanvragen
@@ -95,8 +95,8 @@ prijzen:
       price: '4.00'
     - title: Bundel 500min
       price: '10.00'
-- title: Uw organisatie
-  content: Via onze calculator krijgt u eenvoudig en snel een eerste indruk van de
+- title: Jouw organisatie
+  content: Via onze calculator krijg je eenvoudig en snel een eerste indruk van de
     kosten.
   button:
     title: Bereken het zelf!

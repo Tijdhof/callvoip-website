@@ -5,13 +5,15 @@ layout: default
 logos: true
 hero:
   title: Trunkoplossing
-  content: Heeft u een eigen IP-telefooncentrale en wilt u kosten besparen? Dan biedt
-    een VoIP trunk van Callvoip een uitstekende start!
+  content: Heb je een eigen IP-telefooncentrale en wil je kosten besparen? Dan biedt
+    een VoIP-trunk van Callvoip een uitstekende start!
   button:
     content: Vraag nu een offerte aan!
     link: "/offerte"
   image: "/v1565691186/trunk_x1n06k.png"
   image_position: center
+  mobile: ''
+  disable_image_on_mobile: false
 blocks:
 - content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en uw eigen
     centrale. Door deze trunk lopen alle gesprekken van al uw nummers: inkomend en
@@ -96,9 +98,11 @@ prijzen:
     - title: Eenmalig
       price: '15.00'
 description: De veiligste VoIP trunk voor uw eigen telefooncentrale. Met een VoIP
-  trunk belt u met uw eigen VoIP centrale via de lijnen van Callvoip.
+  trunk bel je met je eigen VoIP-centrale via de lijnen van Callvoip.
 images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 menu:
   main:
     name: Trunk
@@ -110,10 +114,10 @@ menu:
 ---
 ### Veiligheid hoog in het vaandel
 
-Callvoip heeft veiligheid hoog in het vaandel. Daarom is de Callvoip-centrale voorzien van een breed palet aan veiligheidsfuncties en signaleringen voor een optimale beveiliging van de trunk en uw telefoonverkeer.
+Callvoip heeft veiligheid hoog in het vaandel. Daarom is de Callvoip-centrale voorzien van een breed palet aan veiligheidsfuncties en signaleringen voor een optimale beveiliging van de trunk en je telefoonverkeer.
 
-* **IP-Whitelist**: alleen verbinding mogelijk van de door u opgegeven eigen IP-subnetten
+* **IP-Whitelist**: alleen verbinding mogelijk van de door jou opgegeven eigen IP-subnetten
 * **Destination whitelist**: alleen verkeer mogelijk van en naar de door u bepaalde bestemmingen
 * Adequaat **limiteringssysteem** met email alerts op uur-, dag-, en weekbasis
-* Door uzelf instelbaar en aanpasbaar aantal **gesprekskanalen**
+* Door jouzelf instelbaar en aanpasbaar aantal **gesprekskanalen**
 * Standaardlevering met een **fallback**-trunk account
