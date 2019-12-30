@@ -109,7 +109,7 @@ menu:
     name: Trunk
     weight: 3
     parent: Oplossingen
-    pre: Professionele telefonieoplossing voor grootzakelijk.
+    pre: Professionele telefonieoplossing voor grootzakelijk
     post: fa-building
 
 ---
