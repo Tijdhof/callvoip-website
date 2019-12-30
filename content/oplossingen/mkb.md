@@ -129,7 +129,7 @@ menu:
     name: MKB
     weight: 2
     parent: Oplossingen
-    pre: Professionele telefonieoplossing voor het midden- en kleinbedrijf.
+    pre: Professionele telefonieoplossing voor het midden- en kleinbedrijf
     post: fa-home
 
 ---
