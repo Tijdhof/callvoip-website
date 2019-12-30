@@ -1,5 +1,5 @@
 ---
-title: 'Persoonlijke rondleiding'
+title: 'Persoonlijke rondleiding - Grand Tour'
 url: Tour
 type: page
 hero:
