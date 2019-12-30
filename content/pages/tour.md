@@ -1,7 +1,9 @@
 ---
-title: 'Persoonlijke rondleiding - Grand Tour'
+title: 'Persoonlijke rondleiding'
 url: Tour
 type: page
+searchtags:
+    - tour
 hero:
   image: "/v1570097106/tour_banner_d1pxgf.png"
   title: Tour in de online centrale
