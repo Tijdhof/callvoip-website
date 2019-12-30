@@ -23,7 +23,7 @@ menu:
     name: Oplossingen
     weight: 3
     pre: <p class="mb-6">Met meer dan 12 jaar ervaring in VoIP-telefonie is geen enkele
-      situatie en branche ons onbekend. Bekijk wat wij voor u kunnen betekenen.</p>
+      situatie en branche ons onbekend. Benieuwd wat wij voor jouw onderneming kunnen betekenen?</p>
       <a href="/offerte" class="button">Offerte aanvragen</a>
 
 ---
