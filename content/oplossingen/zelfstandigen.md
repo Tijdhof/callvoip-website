@@ -118,7 +118,7 @@ menu:
     name: Zelfstandigen
     weight: 1
     parent: Oplossingen
-    pre: Professionele telefonieoplossing voor u als zelfstandige.
+    pre: Professionele telefonieoplossing voor jou als zelfstandige
     post: fa-user
 
 ---
