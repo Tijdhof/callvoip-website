@@ -96,7 +96,7 @@ menu:
     name: Glasvezel
     weight: 3
     parent: Internet
-    pre: Supersnelle download- en uploadsnelheid met glasvezel.
+    pre: Supersnelle download- en uploadsnelheid met glasvezel
     post: fa-wifi
 
 ---
