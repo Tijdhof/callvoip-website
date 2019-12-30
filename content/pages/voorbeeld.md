@@ -18,7 +18,8 @@ description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
-hideinsearch: false
+hideinsearch: true
+hideingoogle: true
 textblocks:
 - content2: '<div id="aandeslag">
       <p>Laat je gegevens achter en we gaan direct...</p>
