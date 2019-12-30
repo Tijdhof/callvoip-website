@@ -2,7 +2,9 @@
 title: 'Gratis uitproberen'
 url: Gratisuitproberen
 type: page
-aliases: "/promotiedagen"
+aliases: 
+   "/promotiedagen"
+   "/uitproberen"
 hero:
   image: "/v1570097106/uitproberenbanner_kn0zto.png"
   title: Gratis uitproberen
