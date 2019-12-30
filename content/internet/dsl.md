@@ -67,7 +67,7 @@ menu:
     name: DSL
     weight: 1
     parent: Internet
-    pre: De beste DSL verbinding als basis van uw telefonie.
+    pre: De beste DSL verbinding als basis van je IP-telefonie
     post: fa-wifi
 
 ---
