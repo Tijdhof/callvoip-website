@@ -108,7 +108,7 @@ menu:
     name: Branches
     weight: 4
     parent: Oplossingen
-    pre: Bekijk onze oplossingen, uitgewerkt voor verschillende branche
+    pre: Bekijk onze oplossingen, uitgewerkt voor verschillende branches
     post: fa-globe
 
 ---
