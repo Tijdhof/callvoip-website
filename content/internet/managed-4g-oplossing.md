@@ -91,7 +91,7 @@ menu:
     name: 4G Oplossingen
     weight: 4
     parent: Internet
-    pre: Buitengebied? Geen probleem met een 4G managed oplossing.
+    pre: Buitengebied? Geen probleem met een 4G managed oplossing
     post: fa-wifi
 
 ---
