@@ -96,7 +96,7 @@ menu:
     name: Kabelinternet
     weight: 2
     parent: Internet
-    pre: Razendsnel internet via de coaxkabel van Ziggo.
+    pre: Razendsnel internet via de coaxkabel van Ziggo
     post: fa-wifi
 
 ---
