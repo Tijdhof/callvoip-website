@@ -1,7 +1,6 @@
 ---
 title: Contact
 url: "/contact/"
-title: Hoe kan ik jullie bereiken?
 weight: 3
 onderdelen:
 - Algemeen
