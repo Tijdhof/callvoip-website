@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Persoonlijke rondleiding'
 url: Tour
 type: page
 hero:
