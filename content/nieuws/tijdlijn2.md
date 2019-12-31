@@ -73,8 +73,9 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778338/JUL_-_Update_doorverbinden_ykzfpk.png)
 
 
-
+{{< float "left" "800px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778350/JUL_Panasonic-certificering_fhwgde.png)
+{{</ float >}}
 
 
 {{< float "right" "780px" false >}}
@@ -93,37 +94,37 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778399/SEP_-_KPN_ISDN_Stopt_ledlmu.png)
 {{</ float >}}
 
-
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778410/SEP_-_Roy_Liezen_qhh40g.png)
+{{</ float >}}
 
-
-
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778467/SEP_-_Qaller_3.0_khc8ty.png)
+{{</ float >}}
 
-
-
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778485/OKT_-_Tim_2.0_vlnjb3.png)
-
+{{</ float >}}
 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/NOV_-_Billboard_yodzkj.png)
 
 
-
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778513/NOV_-_Promotiedagen_b6cov8.png)
+{{</ float >}}
 
-
-
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778523/NOV_-_Forum_pey5nl.png)
+{{</ float >}}
 
-
-
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778539/DEC_-_5_mythen_oddbvk.png)
+{{</ float >}}
 
-
-
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778552/DEC_-_Kerst_imcyht.png)
-
+{{</ float >}}
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577781063/2020_pkajd2.png)
 
