@@ -70,7 +70,7 @@ aliases: "/roadmap"
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778374/AUG_-_Nieuw_Callvoip_logo_p3lau2.png)
 {{</ float >}}
 
-{{< float "left" "800px" false >}}
+{{< float "left" "840px" false >}}
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/AUG_-_Nieuwe_Website_tdujxs.png)](https://mailchi.mp/callvoip/sep19-nieuwewebsite "Nieuwe Website")
 {{</ float >}}
 
