@@ -86,7 +86,7 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778374/AUG_-_Nieuw_Callvoip_logo_p3lau2.png)
 {{</ float >}}
 
-{{< float "left" "780" false >}}
+{{< float "right" "730px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/AUG_-_Nieuwe_Website_tdujxs.png)
 {{</ float >}}
 
