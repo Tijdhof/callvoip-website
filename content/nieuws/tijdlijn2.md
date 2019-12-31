@@ -20,7 +20,7 @@ aliases: '/roadmap'
 contactpersoon: []
 categories: []
 tags: []
-
+type: 'page'
 ---
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577777786/JAN_-_Vamos_niong2.png)
