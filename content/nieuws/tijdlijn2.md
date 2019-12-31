@@ -59,7 +59,9 @@ aliases: "/roadmap"
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778338/JUL_-_Update_doorverbinden_ykzfpk.png)
 
+{{< float "left" "760px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778350/JUL_Panasonic-certificering_fhwgde.png)
+{{</ float >}}
 
 {{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778360/JUL_-_Tim_v_d_Horst_frllsx.png)
