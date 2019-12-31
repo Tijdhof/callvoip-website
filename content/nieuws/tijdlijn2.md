@@ -27,7 +27,7 @@ tags: []
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577777809/JAN_-_CTI_l2tzxu.png)
 
-{{< float "right" "760px" false >}}
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577777953/FEB_-_audio_yvngyn.png)
 {{</ float >}}
 
@@ -47,12 +47,15 @@ tags: []
 {{</ float >}}
 
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778222/APR_-_vamos_2.0_q3eosb.png)![](https://res.cloudinary.com/callvoip/image/upload/v1577778232/APR_-_1000_giswbe.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778222/APR_-_vamos_2.0_q3eosb.png)
 
+{{< float "right" "760px" false >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778232/APR_-_1000_giswbe.png)
+{{</ float >}}
 
-
+{{< float "right" "760px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778254/MEI_-_Dion_ymlaix.png)
-
+{{</ float >}}
 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778274/JUL_-_Feature_Update_jvnqmf.png)
