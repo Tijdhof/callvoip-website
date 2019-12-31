@@ -15,6 +15,7 @@ hero:
 author: ''
 date: 2019-12-31T10:00:00.000+00:00
 url: '/tijdlijn'
+aliases: '/roadmap'
 contactpersoon: []
 categories: []
 tags: []
