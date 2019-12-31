@@ -1,5 +1,5 @@
 ---
-title: Callvoip 2019 Tijdlijn
+title: 'Callvoip 2019 Tijdlijn'
 description: 'Callvoip is veel veranderd in 2019, bekijk het overzicht van dit jaar, en ook volgend jaar!'
 images:
 - "/v1575627317/2020_pkajd2.png"
@@ -16,10 +16,10 @@ hero:
 author: ''
 date: 2019-12-31T23:00:00.000+00:00
 url: 'tijdlijn'
+aliases: '/roadmap'
 contactpersoon: []
 categories: []
 tags: []
-type: 'page'
 
 ---
 
