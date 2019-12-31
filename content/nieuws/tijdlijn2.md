@@ -1,7 +1,8 @@
 ---
-title: Tijdlijn
-description: ''
-images: []
+title: 'Callvoip 2019 Tijdlijn'
+description: 'Callvoip is veel veranderd in 2019, bekijk het overzicht van dit jaar, en ook volgend jaar!'
+images:
+- "/v1575627317/2020_pkajd2.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -13,8 +14,9 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
-url: tijdlijn
+date:
+url: 'tijdlijn'
+aliases: '/roadmap'
 contactpersoon: []
 categories: []
 tags: []
@@ -88,7 +90,7 @@ aliases: "/roadmap"
 {{</ float >}}
 
 {{< float "right" "740px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/NOV_-_Billboard_yodzkj.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/NOV_-_Billboard_hqtgsu.png)
 {{</ float >}}
 
 {{< float "left" "780px" false >}}
