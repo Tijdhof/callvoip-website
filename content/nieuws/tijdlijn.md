@@ -13,8 +13,8 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2019-12-31T10:00:00.000+00:00
-url: '/tijdlijn'
+date: date: 2019-12-31T23:00:00.000+00:00
+url: 'tijdlijn'
 aliases: '/roadmap'
 contactpersoon: []
 categories: []
