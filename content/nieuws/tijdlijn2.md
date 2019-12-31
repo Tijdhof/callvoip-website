@@ -77,7 +77,7 @@ aliases: "/roadmap"
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778399/SEP_-_KPN_ISDN_Stopt_ledlmu.png)
 {{</ float >}}
 
-{{< float "right" "780px" false >}}
+{{< float "right" "700px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778410/SEP_-_Roy_Liezen_qhh40g.png)
 {{</ float >}}
 
