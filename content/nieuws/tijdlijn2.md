@@ -14,7 +14,6 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date:
 url: 'tijdlijn'
 aliases: '/roadmap'
 contactpersoon: []
