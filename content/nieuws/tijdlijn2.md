@@ -1,5 +1,5 @@
 ---
-title: Tijdlijn2
+title: Tijdlijn
 description: ''
 images: []
 featured: false
@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: ''
+url: 'tijdlijn'
 contactpersoon: []
 categories: []
 tags: []
