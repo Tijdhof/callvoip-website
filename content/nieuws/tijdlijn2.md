@@ -1,5 +1,5 @@
 ---
-title: "Callvoip tijdlijn: terugblik en preview"
+title: 'Callvoip tijdlijn: terugblik en preview'
 description: Altijd leuk om een kleurrijk jaar in vogelvlucht te herbeleven. Omdat
   wij zoveel te vertellen hebben over afgelopen jaar, goten we dat in een leuk jasje.
   Het is een tijdlijn met hoogtepunten geworden, die ook nog eens doorloopt in de
@@ -122,13 +122,13 @@ En: al even een sneak preview op de nabije toekomst!
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577778552/DEC_-_Kerst_imcyht.png)](https://www.callvoip.nl/kerst-klant-verhaal-2019/ "Kerst Verhaal")
 {{</ float >}}
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577781063/2020_pkajd2.png)
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577781063/2020_pkajd2.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "2020")
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778581/2020_-_SIP_Trunk_nkimxv.png)
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778581/2020_-_SIP_Trunk_nkimxv.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Trunk")
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778590/2020_-_waiting_position_ygmsit.png)
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778590/2020_-_waiting_position_ygmsit.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Wachtrij")
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778604/2020_-_Provisioning_uc3ygd.png)
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778604/2020_-_Provisioning_uc3ygd.png)]()
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778616/2020_-_call_in_UC_q9jz9b.png)
 
