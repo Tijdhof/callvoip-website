@@ -106,7 +106,7 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778485/OKT_-_Tim_2.0_vlnjb3.png)
 {{</ float >}}
 
-{{< float "left" "750px" false >}}
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/NOV_-_Billboard_bvql7h.png)
 {{</ float >}}
 
