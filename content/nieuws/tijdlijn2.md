@@ -75,7 +75,7 @@ aliases: "/roadmap"
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/AUG_-_Nieuwe_Website_tdujxs.png)](https://mailchi.mp/callvoip/sep19-nieuwewebsite "Nieuwe Website")
 {{</ float >}}
 
-{{< float "right" "780px" false >}}
+{{< float "left" "820px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778399/SEP_-_KPN_ISDN_Stopt_ledlmu.png)
 {{</ float >}}
 
