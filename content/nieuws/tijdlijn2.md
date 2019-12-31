@@ -1,13 +1,16 @@
 ---
-title: 'Callvoip 2019 Tijdlijn'
-description: 'Callvoip is veel veranderd in 2019, bekijk het overzicht van dit jaar, en ook volgend jaar!'
+title: Callvoip 2019 Tijdlijn
+description: Altijd leuk om een kleurrijk jaar in vogelvlucht te herbeleven. Omdat
+  wij zoveel te vertellen hebben over afgelopen jaar, goten we dat in een leuk jasje.
+  Het is een tijdlijn met hoogtepunten geworden, die ook nog eens doorloopt in de
+  toekomst.
 images:
 - "/v1575627317/2020_pkajd2.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1577781063/2020_pkajd2.png"
 hero:
   image: ''
   mobile: ''
@@ -15,11 +18,12 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 2019-12-31
-url: 'tijdlijn'
+url: tijdlijn
 contactpersoon: []
 categories: []
 tags: []
 aliases: "/roadmap"
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577777786/JAN_-_Vamos_niong2.png)
