@@ -1,5 +1,5 @@
 ---
-title: Callvoip 2019 Tijdlijn
+title: Callvoip tijdlijn: 2019 terugblik en 2020 preview!
 description: Altijd leuk om een kleurrijk jaar in vogelvlucht te herbeleven. Omdat
   wij zoveel te vertellen hebben over afgelopen jaar, goten we dat in een leuk jasje.
   Het is een tijdlijn met hoogtepunten geworden, die ook nog eens doorloopt in de
@@ -26,7 +26,7 @@ aliases: "/roadmap"
 type: ''
 
 ---
-2019: kleurrijk jaar met veel hoogtepunten. 
+2019: kleurrijk jaar met veel hoogtepunten.<br>
 Wandel mee langs een aantal Callvoip mijlpalen en voel de energie!
 Met dezelfde energie stappen we 2020 en het komende decenniuim in. 
 En blik al even met ons mee in de nabije toekomst...
