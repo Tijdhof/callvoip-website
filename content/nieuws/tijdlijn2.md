@@ -107,7 +107,7 @@ tags: []
 {{</ float >}}
 
 {{< float "right" "780px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/NOV_-_Billboard_bvql7h.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/NOV_-_Billboard_hqtgsu.png)
 {{</ float >}}
 
 {{< float "left" "780px" false >}}
