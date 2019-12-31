@@ -73,7 +73,7 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778338/JUL_-_Update_doorverbinden_ykzfpk.png)
 
 
-{{< float "left" "800px" false >}}
+{{< float "left" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778350/JUL_Panasonic-certificering_fhwgde.png)
 {{</ float >}}
 
@@ -90,7 +90,7 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/AUG_-_Nieuwe_Website_tdujxs.png)
 {{</ float >}}
 
-{{< float "right" "780px" false >}}
+{{< float "left" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778399/SEP_-_KPN_ISDN_Stopt_ledlmu.png)
 {{</ float >}}
 
@@ -98,7 +98,7 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778410/SEP_-_Roy_Liezen_qhh40g.png)
 {{</ float >}}
 
-{{< float "right" "780px" false >}}
+{{< float "left" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778467/SEP_-_Qaller_3.0_khc8ty.png)
 {{</ float >}}
 
