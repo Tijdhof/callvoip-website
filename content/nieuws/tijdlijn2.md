@@ -128,8 +128,8 @@ En: al even een sneak preview op de nabije toekomst!
 
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577778590/2020_-_waiting_position_ygmsit.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Wachtrij")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778604/2020_-_Provisioning_uc3ygd.png)]()
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778604/2020_-_Provisioning_uc3ygd.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Yealink")
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778616/2020_-_call_in_UC_q9jz9b.png)
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778616/2020_-_call_in_UC_q9jz9b.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Bellen")
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778624/2020_-_2FA_cn4rby.png)
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778624/2020_-_2FA_cn4rby.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "2FA")
