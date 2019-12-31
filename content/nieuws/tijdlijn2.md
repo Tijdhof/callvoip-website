@@ -26,6 +26,13 @@ aliases: "/roadmap"
 type: ''
 
 ---
+2019: kleurrijk jaar met veel hoogtepunten. 
+Wandel mee langs een aantal Callvoip mijlpalen en voel de energie!
+Met dezelfde energie stappen we 2020 en het komende decenniuim in. 
+En blik al even met ons mee in de nabije toekomst...
+
+<b>Een dynamisch en verbonden 2020 gewenst!</b>
+
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577777786/JAN_-_Vamos_niong2.png)
 
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577777809/JAN_-_CTI_l2tzxu.png)](https://www.callvoip.nl/voip-cti-koppelen-dat-het-een-lieve-lust-is/ "CTI")
