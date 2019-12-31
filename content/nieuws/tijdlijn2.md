@@ -26,10 +26,11 @@ aliases: "/roadmap"
 type: ''
 
 ---
+<br>
 2019: kleurrijk jaar met veel hoogtepunten.<br>
 Wandel mee langs een aantal Callvoip mijlpalen en voel de energie!<br>
 Met dezelfde energie stappen we 2020 en het komende decennium in. <br>
-En blik al even met ons mee in de nabije toekomst...
+En: al even een sneak preview op de nabije toekomst!
 
 <b>Een dynamisch en verbonden 2020 gewenst!</b>
 
