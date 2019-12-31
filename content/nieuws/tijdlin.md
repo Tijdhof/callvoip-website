@@ -1,5 +1,5 @@
 ---
-title: Tijdlin
+title: Tijdlijn
 description: ''
 images: []
 featured: false
