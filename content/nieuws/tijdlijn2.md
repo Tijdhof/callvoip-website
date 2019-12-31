@@ -77,19 +77,19 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778350/JUL_Panasonic-certificering_fhwgde.png)
 
 
-{{< float "right" "750px" false >}}
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778360/JUL_-_Tim_v_d_Horst_frllsx.png)
 {{</ float >}}
 
-{{< float "right" "750px" false >}}
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778374/AUG_-_Nieuw_Callvoip_logo_p3lau2.png)
 {{</ float >}}
 
-{{< float "right" "750px" false >}}
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/AUG_-_Nieuwe_Website_tdujxs.png)
 {{</ float >}}
 
-{{< float "right" "750px" false >}}
+{{< float "right" "780px" false >}}
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778399/SEP_-_KPN_ISDN_Stopt_ledlmu.png)
 {{</ float >}}
 
