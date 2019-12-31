@@ -26,7 +26,7 @@ type: ''
 
 {{</ float >}}
 
-{{< float "left" "680px" false >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577777809/JAN_-_CTI_l2tzxu.png)](https://www.callvoip.nl/voip-cti-koppelen-dat-het-een-lieve-lust-is/ "cti")  {{</ float >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577777953/FEB_-_audio_yvngyn.png)](https://www.callvoip.nl/simmpl-app-uitgelicht-geluid/ "meldteksten"){{</ float >}}
+{{< float "left" "680px" false >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577777809/JAN_-_CTI_l2tzxu.png)](https://www.callvoip.nl/voip-cti-koppelen-dat-het-een-lieve-lust-is/ "cti"){{</ float >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577777953/FEB_-_audio_yvngyn.png)](https://www.callvoip.nl/simmpl-app-uitgelicht-geluid/ "meldteksten")
 
 {{< float "left" "680px" false >}}![](https://res.cloudinary.com/callvoip/image/upload/v1577777972/MRT_-_click_to_dial_gpvitp.png)
 
@@ -42,7 +42,7 @@ type: ''
 
 {{< float "left" "680px" false >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577778207/MRT_-_Noordz_yscrpq.png)](https://www.noordz.nl/2019/03/12/branded-we-maken-telefonie-leuk-en-gemakkelijk "Noordz"){{</ float >}}
 
-{{< float "left" "680px" false >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577778222/APR_-_vamos_2.0_q3eosb.png)](https://mailchi.mp/callvoip/simmpl-april19 "Vamos 2.0"){{</ float >}}
+{{< float "left" "670px" false >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577778222/APR_-_vamos_2.0_q3eosb.png)](https://mailchi.mp/callvoip/simmpl-april19 "Vamos 2.0"){{</ float >}}
 
 {{< float "left" "680px" false >}}[![](https://res.cloudinary.com/callvoip/image/upload/v1577778232/APR_-_1000_giswbe.png)](https://www.callvoip.nl/click-to-dial-van-nummer-naar-slimme-toepassingen/ "Click-to-Dial"){{</ float >}}
 
