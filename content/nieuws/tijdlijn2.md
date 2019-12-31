@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date:
+date: 2019-12-31
 url: 'tijdlijn'
 aliases: '/roadmap'
 contactpersoon: []
@@ -71,7 +71,7 @@ aliases: "/roadmap"
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778374/AUG_-_Nieuw_Callvoip_logo_p3lau2.png)
 {{</ float >}}
 
-{{< float "right" "780px" false >}}
+{{< float "left" "800px" false >}}
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/AUG_-_Nieuwe_Website_tdujxs.png)](https://mailchi.mp/callvoip/sep19-nieuwewebsite "Nieuwe Website")
 {{</ float >}}
 
