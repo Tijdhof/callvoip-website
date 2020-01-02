@@ -88,14 +88,14 @@ En: al even een sneak preview op de nabije toekomst!
 
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577778552/kerst_vv2uz9.png)](https://www.callvoip.nl/kerst-klant-verhaal-2019/ "Kerst Verhaal")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577781063/2020_pkajd2.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "2020")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577781063/2020_dqy2yo.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "2020")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778581/2020_-_SIP_Trunk_nkimxv.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Trunk")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778581/trunk_dzegj7.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Trunk")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778590/2020_-_waiting_position_ygmsit.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Wachtrij")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778590/queue_ji33f7.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Wachtrij")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778604/2020_-_Provisioning_uc3ygd.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Yealink")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778604/yealink_eht5lc.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Yealink")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778616/2020_-_call_in_UC_q9jz9b.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Bellen")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778616/uc_vwp4mj.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "Bellen")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778624/2020_-_2FA_cn4rby.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "2FA")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778624/2fa_a8fctw.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "2FA")
