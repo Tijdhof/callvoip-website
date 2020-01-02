@@ -38,4 +38,4 @@ En: al even een sneak preview op de nabije toekomst!
 
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577777809/Untitled-2_th1wan.png)](https://www.callvoip.nl/voip-cti-koppelen-dat-het-een-lieve-lust-is/ "CTI")
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577777953/Untitled-3_mxqs76.png](https://www.callvoip.nl/simmpl-app-uitgelicht-geluid/ "Meldteksten")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577777953/Untitled-3_mxqs76.png)](https://www.callvoip.nl/simmpl-app-uitgelicht-geluid/ "Meldteksten")
