@@ -24,7 +24,16 @@ Ook kun je de meeste codes bellen met de apps Qaller en Vamos. En met Qaller als
 \***8**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Trek een ander gesprek naar uw toestel (NB: niet i.c.m. de wachtrij/Queue)  
+Neem een gesprek dat op een ander toestel rinkelt op je eigen toestel aan.  
+{{</ layout/column2 >}}  
+{{</ layout/columns >}}
+
+{{< layout/columns >}}  
+{{< layout/column2 >}}  
+\***8\[intern nr\]**  
+{{</ layout/column2 >}}  
+{{< layout/column2 >}}  
+Neem een gesprek dat bij collega x rinkelt op jouw toestel aan (bv *8201)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -33,7 +42,7 @@ Trek een ander gesprek naar uw toestel (NB: niet i.c.m. de wachtrij/Queue)
 \***8xx**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Call pick-up binnen een gedefinieerde gebruikersgroep  
+Neem een gesprek binnen groep * rinkelt op jouw toestel aan (bv *810)  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -44,7 +53,7 @@ Call pick-up binnen een gedefinieerde gebruikersgroep
 **Belplan-nr*xx**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)  
+Togglecode: hiermee schakel je omleiding xx aan of uit, daarna hoor je een bevestiging  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -55,7 +64,7 @@ Togglecode: hiermee schakelt u omleiding xx aan of uit (aankondiging)
 \***100/#100**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Togglecode: u logt hiermee in of uit de wachtrij(en) al naar gelang uw vorige status  
+Togglecode: je lot hiermee in of uit de wachtrij(en) al naar gelang je vorige status  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -64,7 +73,7 @@ Togglecode: u logt hiermee in of uit de wachtrij(en) al naar gelang uw vorige st
 \***101/#101**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Hiermee logt u in alle wachtrijen in  
+Hiermee log je in alle wachtrijen in  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -73,7 +82,7 @@ Hiermee logt u in alle wachtrijen in
 \***102/#102**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Hiermee zet u uw status in alle wachtrijen op pauze  
+Hiermee zet je je status in alle wachtrijen op pauze  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -82,7 +91,7 @@ Hiermee zet u uw status in alle wachtrijen op pauze
 \***103/#103**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Hiermee logt u uit alle wachtrijn uit  
+Hiermee log je uit alle wachtrijen uit  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -93,7 +102,7 @@ Hiermee logt u uit alle wachtrijn uit
 **1233**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Hiermee luistert u de persoonlijke voicemail af ( = voicemail van de gebruiker)  
+Ga naar je persoonlijke voicemail – berichten beluisteren en instellingen doen  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -102,7 +111,7 @@ Hiermee luistert u de persoonlijke voicemail af ( = voicemail van de gebruiker)
 \***96/#96**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Hiermee luistert u de persoonlijke voicemail af ( = voicemail van de gebruiker)  
+Ga naar je persoonlijke voicemail – berichten beluisteren en instellingen doen  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -113,7 +122,7 @@ Hiermee luistert u de persoonlijke voicemail af ( = voicemail van de gebruiker)
 **1233(vmbox-nr)**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Kies het voicemailbox-nummer en u luistert de voicemail van de betreffende box af  
+Ga naar een bedrijfsvoicemailbox– berichten beluisteren en instellingen doen  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
@@ -122,7 +131,7 @@ Kies het voicemailbox-nummer en u luistert de voicemail van de betreffende box a
 \***96/#96(vmbox-nr)**  
 {{</ layout/column2 >}}  
 {{< layout/column2 >}}  
-Kies het voicemailbox-nummer en u luistert de voicemail van de betreffende box af  
+Ga naar een bedrijfsvoicemailbox– berichten beluisteren en instellingen doen  
 {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
