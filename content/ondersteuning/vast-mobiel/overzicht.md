@@ -5,6 +5,6 @@ weight: '0'
 Update: true
 
 ---
-**Vast Mobiel overzicht**
+### Vast Mobiel overzicht
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566550416/callvoip-website-mobiel-tabel2_ydwvsx.png)
