@@ -11,6 +11,10 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
+<h3>2020</h3>
+
+* Gelukkig nieuwjaar!
+
 <h3>2019</h3>
 
 * <a href="https://www.callvoip.nl/tijdlijn" target="_blank">Callvoip tijdlijn : terugblik en vooruitblik!</a>
