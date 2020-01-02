@@ -64,7 +64,7 @@ En: al even een sneak preview op de nabije toekomst!
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778350/panasonic_ylmkv4.png)
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778360/tim_ncrq2t.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778360/tim_gebucs.png)
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1577778374/logo_l791lf.png)
 
