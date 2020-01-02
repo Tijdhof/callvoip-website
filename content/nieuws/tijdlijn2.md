@@ -34,93 +34,61 @@ En: al even een sneak preview op de nabije toekomst!
 
 <b>Een dynamisch en verbonden 2020 gewenst!</b>
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1577777786/JAN_-_Vamos_niong2.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1577777786/Untitled-1_e1thpm.png)
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577777809/JAN_-_CTI_l2tzxu.png)](https://www.callvoip.nl/voip-cti-koppelen-dat-het-een-lieve-lust-is/ "CTI")
-
-{{< float "right" "780px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577777953/FEB_-_audio_yvngyn.png)](https://www.callvoip.nl/simmpl-app-uitgelicht-geluid/ "Meldteksten")
-{{</ float >}}
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1577777972/MRT_-_click_to_dial_gpvitp.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1577777994/MRT_-_Qaller_update_u2b5yc.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778188/MRT_-_geuzenet_qaa7wf.png)
-
-{{< float "right" "750px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778207/MRT_-_Noordz_yscrpq.png)](https://www.noordz.nl/2019/03/12/branded-we-maken-telefonie-leuk-en-gemakkelijk "Noordz")
-{{</ float >}}
-
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778222/APR_-_vamos_2.0_q3eosb.png)](https://mailchi.mp/callvoip/simmpl-april19 "Vamos 2.0")
-
-{{< float "right" "760px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778232/APR_-_1000_giswbe.png)](https://www.callvoip.nl/click-to-dial-van-nummer-naar-slimme-toepassingen/ "Click-to-Dial 1000")
-{{</ float >}}
-
-{{< float "right" "760px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778254/MEI_-_Dion_ymlaix.png)](https://mailchi.mp/callvoip/simmpl-mei19 "Dion")
-{{</ float >}}
-
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778274/JUL_-_Feature_Update_jvnqmf.png)](https://www.simmpl.nl/downloads/Simmpl_feature-update_juli-2019.pdf "UC update")
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778307/JUL_-_Bereikbaarheidsmonitore_ahja7c.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778324/JUL_-_Multiple_Called_ID_dmgjse.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778338/JUL_-_Update_doorverbinden_ykzfpk.png)
-
-{{< float "left" "760px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778350/JUL_Panasonic-certificering_fhwgde.png)
-{{</ float >}}
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577777809/Untitled-2_ngjrbj.png)](https://www.callvoip.nl/voip-cti-koppelen-dat-het-een-lieve-lust-is/ "CTI")
 
 {{< float "right" "780px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778360/JUL_-_Tim_v_d_Horst_frllsx.png)
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577777953/Untitled-3_ej7m4z.png)](https://www.callvoip.nl/simmpl-app-uitgelicht-geluid/ "Meldteksten")
 {{</ float >}}
 
-{{< float "right" "780px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778374/AUG_-_Nieuw_Callvoip_logo_p3lau2.png)
-{{</ float >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1577777972/7_ibpc9o.png)
 
-{{< float "center" "860px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/AUG_-_Nieuwe_Website_tdujxs.png)](https://mailchi.mp/callvoip/sep19-nieuwewebsite "Nieuwe Website")
-{{</ float >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1577777994/Untitled-4_an71un.png)
 
-{{< float "left" "820px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778399/SEP_-_KPN_ISDN_Stopt_ledlmu.png)
-{{</ float >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778188/8_fpzlzs.png)
 
-{{< float "right" "860px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778410/SEP_-_Roy_Liezen_qhh40g.png)
-{{</ float >}}
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778207/5_bkd2ty.png)](https://www.noordz.nl/2019/03/12/branded-we-maken-telefonie-leuk-en-gemakkelijk "Noordz")
 
-{{< float "right" "780px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778467/SEP_-_Qaller_3.0_khc8ty.png)](https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl "Qaller 3.0")
-{{</ float >}}
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778222/9_rebtgl.png)](https://mailchi.mp/callvoip/simmpl-april19 "Vamos 2.0")
 
-{{< float "right" "750px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778485/OKT_-_Tim_2.0_vlnjb3.png)
-{{</ float >}}
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778232/6_k6ns08.png)](https://www.callvoip.nl/click-to-dial-van-nummer-naar-slimme-toepassingen/ "Click-to-Dial 1000")
 
-{{< float "right" "740px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/NOV_-_Billboard_hqtgsu.png)
-{{</ float >}}
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778254/dion_ythvpt.png)](https://mailchi.mp/callvoip/simmpl-mei19 "Dion")
 
-{{< float "left" "780px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778513/NOV_-_Promotiedagen_b6cov8.png)](https://www.callvoip.nl/bezoek-ons-tijdens-de-promotiedagen2019/ "Promotiedagen")
-{{</ float >}}
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778274/feature_paumvz.png)](https://www.simmpl.nl/downloads/Simmpl_feature-update_juli-2019.pdf "UC update")
 
-{{< float "right" "740px" false >}}
-![](https://res.cloudinary.com/callvoip/image/upload/v1577778523/NOV_-_Forum_pey5nl.png)
-{{</ float >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778307/monitor_iguchj.png)
 
-{{< float "left" "780px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778539/DEC_-_5_mythen_oddbvk.png)](https://www.callvoip.nl/5-mythen-over-voip/ "5 Mythen over VoIP")
-{{</ float >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778324/id_tevflk.png)
 
-{{< float "left" "780px" false >}}
-[![](https://res.cloudinary.com/callvoip/image/upload/v1577778552/DEC_-_Kerst_imcyht.png)](https://www.callvoip.nl/kerst-klant-verhaal-2019/ "Kerst Verhaal")
-{{</ float >}}
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778338/doorverbindne_jyggpn.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778350/panasonic_ylmkv4.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778360/tim_ncrq2t.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778374/logo_l791lf.png)
+
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778387/site_woyxrm.png)](https://mailchi.mp/callvoip/sep19-nieuwewebsite "Nieuwe Website")
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778399/isdn_wtdmdf.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778410/roy_mernpa.png)
+
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778467/qaller3_zmkeji.png)](https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl "Qaller 3.0")
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778485/tim2_ullxis.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778501/billboard_vlbqtj.png)
+
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778513/promotie_ok1w92.png)](https://www.callvoip.nl/bezoek-ons-tijdens-de-promotiedagen2019/ "Promotiedagen")
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1577778523/forum_cgt9vq.png)
+
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778539/mythen_rvjkgi.png)](https://www.callvoip.nl/5-mythen-over-voip/ "5 Mythen over VoIP")
+
+[![](https://res.cloudinary.com/callvoip/image/upload/v1577778552/kerst_vv2uz9.png)](https://www.callvoip.nl/kerst-klant-verhaal-2019/ "Kerst Verhaal")
 
 [![](https://res.cloudinary.com/callvoip/image/upload/v1577781063/2020_pkajd2.png)](https://www.callvoip.nl/ondersteuning/algemeen/nieuwsbrieven-overzicht/ "2020")
 
