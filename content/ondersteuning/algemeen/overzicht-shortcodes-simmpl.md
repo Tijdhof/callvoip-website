@@ -1,12 +1,19 @@
 ---
-title: Shortcodes Simmpl (overzicht)
+title: Callvoip Shortcodes (overzicht)
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_overzicht_shortcodes.pdf
+pdf: https://files.callvoip.nl/downloads/Callvoip_overzicht_shortcodes.pdf
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+Nieuw: false
+Update: false
 
 ---
-De Simmpl telefooncentrale is uitgerust met een aantal shortcodes ofwel codes waarmee u een bepaalde functie kunt in- of uitschakelen. Hieronder een overzicht van deze codes. Voor de meeste codes kan in plaats van de * ook een # worden gebruikt.
+De Callvoi telefooncentrale is uitgerust met een aantal shortcodes ofwel codes waarmee je bepaalde functies kunt in- en uitschakelen. Hieronder een overzicht van deze codes.   
+Veel codes kun je ook instellen onder een snelkeuzetoets op je toestel, een aantal met een lampje zodat je snel ziet of hij aan/uitstaat.   
+Ook kun je de meeste codes bellen met de apps Qaller en Vamos. En met Qaller als afstandsbediening kun je je omleidingen bedienen en instellen met welk nummer je uitbelt. 
 
 <br>
 
