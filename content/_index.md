@@ -72,7 +72,7 @@ options:
     link: "/ondersteuning/"
     tab: true
     iconimage: ''
-  image: ""
+  image: "/v1571400615/functio_cst5yf.png"
 usps:
 - title: Vanaf 1 tot 100+ gebruikers
   content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies
