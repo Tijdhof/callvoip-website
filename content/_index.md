@@ -72,7 +72,7 @@ options:
     link: "/ondersteuning/"
     tab: true
     iconimage: ''
-  image: "/v1571400615/functio500_zhlddk.png"
+  image: "/v1571400615/functio500_d6kjna.png"
 usps:
 - title: Vanaf 1 tot 100+ gebruikers
   content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies
