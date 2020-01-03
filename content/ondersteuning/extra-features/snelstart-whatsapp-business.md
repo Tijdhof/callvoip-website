@@ -90,7 +90,7 @@ Je vindt de functionaliteit hiervoor onder de _bedrijfsinstellingen_ bij _Catalo
 
 Wil je een product versturen? Dat kan als bijlage door op de paperclip te tikken en te kiezen voor _catalogus._
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/21_izmhjm.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/19_zfrhut.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/20_yzoc01.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578050354/Screenshot_5_z8qk2u.png)
 
 ###### Web Whatsapp
 
