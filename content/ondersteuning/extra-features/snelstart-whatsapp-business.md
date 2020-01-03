@@ -40,17 +40,17 @@ In de volgende stap gaat de app toch eerst proberen automatisch via een SMS te v
 
 Je wordt dan op het nummer wat je hebt opgegeven gebeld door een +44 (Groot Brittannië) nummer en je hoort een dame die meteen begint met het herhalend oplezen van jouw verificatiecode.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043553/3_icdfl2.png)
-
 Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bestanden. Eenmaal gegeven kun je beginnen met het opzetten van je bedrijfsprofiel.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043553/3_icdfl2.png)
 
 ##### 2. Bedrijfsprofiel aanmaken
 
 Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren.
 
-Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043567/4_lh60an.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/5_idtjbv.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/6_ak2je2.png)
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043567/4_lh60an.png)
+Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
 
 ##### 3. Functionaliteiten
 
@@ -60,7 +60,7 @@ De Whatsapp Business app biedt naast de standaard app een set aan extra function
 
 Dit kan een begroeting zijn of een afwezigheidsbericht. Ga vanuit het startscherm van de app naar het menu door op de 3 stippen rechtsboven te tikken en selecteer vervolgens instellingen en bedrijfsinstellingen. Daar vind je onderaan beide varianten van de automatische berichten. Ze zijn daar te activeren, aanpassen en zelfs op specifieke tijden naar specifieke mensen te sturen.
 
-<SCREENS>
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/10_ybaypa.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/11_hlnc83.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/12_pvz8ji.png)<SCREENS>
 
 ###### Snelle antwoorden
 
