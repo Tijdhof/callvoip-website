@@ -34,13 +34,13 @@ Eenmaal geopend vraagt de app na het akkoord gaan met de voorwaarden om je telef
 
 Voer jouw nummer in zonder de eerste 0. Dat kan dus ook een vast nummer zijn. In de volgende stap kun je aangeven dat de verificatie via een telefoontje moet verlopen en niet via SMS zoals in het beginscherm wordt aangegeven.
 
-<screens>
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043543/1_en_2_lp5llm.png)
 
 In de volgende stap gaat de app toch eerst proberen automatisch via een SMS te verifiëren. Wanneer je een vast nummer hebt ingevoerd, werkt dit aanvankelijk niet. Je ziet midden in beeld 2 timers aftellen. De bijbehorende knoppen zijn nog niet te selecteren. Pas aan het einde kun je kiezen voor de optie “Mij bellen”.
 
 Je wordt dan op het nummer wat je hebt opgegeven gebeld door een +44 (Groot Brittannië) nummer en je hoort een dame die meteen begint met het herhalend oplezen van jouw verificatiecode.
 
-<<SCREEN 3>>
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043553/3_icdfl2.png)
 
 Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bestanden. Eenmaal gegeven kun je beginnen met het opzetten van je bedrijfsprofiel.
 
@@ -50,7 +50,7 @@ Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen
 
 Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
 
-<<SCREEN>>
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043567/4_lh60an.png)
 
 ##### 3. Functionaliteiten
 
