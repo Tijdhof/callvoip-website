@@ -55,7 +55,7 @@ En het allermooiste: alles wat ik hierboven omschrijf, **kost je voorlopig helem
 
 Na het lezen van deze lofzang hoor ik je denken: die Tim heeft aandelen daar of Callvoip krijgt op zijn minst een dikke kick-back voor elke nieuwe Whatsapp Business gebruiker. Nee! Dat is niet zo. We houden er gewoon van mensen te helpen met de communicatie. We zitten niet voor niets in de telefonie. En als er dan een mooi product is als dit, zien we het als meerwaarde om daar de aandacht aan te geven en de voordelen te belichten. Heb jij als fan mooi het voordeel van!
 
-Ook de zakelijke Whatsapp proberen? Download de app voor [Android ](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)en [iOS](https://itunes.apple.com/app/whatsapp-business/id1386412985?mt=8).
+Meer lezen over hoe je dat allemaal moet doen? Kan hier: [KLIK](https://www.callvoip.nl/ondersteuning/extra-features/snelstart-whatsapp-business/)
 
 \--
 
