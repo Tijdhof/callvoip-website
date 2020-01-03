@@ -10,7 +10,6 @@ hidesocialshare: false
 Nieuw: true
 Update: false
 pdf: ''
-draft: true
 
 ---
 Met [Whatsapp business](https://www.whatsapp.com/business/) kun je vanaf je vaste nummer whatsapp berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie. Op deze pagina leggen we je stap voor stap uit hoe je ook gebruik kunt maten van deze handige toevoeging op je communicatiemiddelen.
