@@ -62,7 +62,7 @@ Dit kan een begroeting zijn of een afwezigheidsbericht. Ga vanuit het startscher
 
 Een variant op de automatische berichten zijn de snelle antwoorden. Automatische berichten worden meteen vanzelf gestuurd, terwijl je de snelle antwoorden zelf in een conversatie selecteert. Ze zijn handig wanneer je merkt dat je vaak dezelfde vragen krijgt. Je kunt daar een standaard antwoord op definiëren met een snelcode die je gemakkelijk kunt intypen in plaats van het volledige antwoord.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/10_ybaypa.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/11_hlnc83.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/12_pvz8ji.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578049745/Screenshot_3_lar03i.png)
 
 ###### Labels
 
