@@ -42,8 +42,6 @@ Je wordt dan op het nummer wat je hebt opgegeven gebeld door een +44 (Groot Brit
 
 Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bestanden. Eenmaal gegeven kun je beginnen met het opzetten van je bedrijfsprofiel.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043553/3_icdfl2.png)
-
 ##### 2. Bedrijfsprofiel aanmaken
 
 Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren.
@@ -72,9 +70,9 @@ Schep orde in je Whatsapp Business account met labels, zoals je bijvoorbeeld ook
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/13_tguomo.png)
 
-Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren. Selecteer het label in kwestie en via het menu wat je rechtsboven kunt openen met de 3 stippen kun je verschillende dingen wijzigen of doen. Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken. Of ze allemaal hetzelfde bericht sturen.
+Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren. Selecteer het label in kwestie door het aan te tikken en via het menu wat je rechtsboven kunt openen kun je verschillende dingen wijzigen of doen. Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken bijvoorbeeld. Of ze allemaal hetzelfde bericht sturen.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/14_qojxj5.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/14_qojxj5.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578048237/22_sxmlfa.png)
 
 ###### Statistieken
 
