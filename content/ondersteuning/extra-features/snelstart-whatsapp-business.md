@@ -60,37 +60,33 @@ De Whatsapp Business app biedt naast de standaard app een set aan extra function
 
 Dit kan een begroeting zijn of een afwezigheidsbericht. Ga vanuit het startscherm van de app naar het menu door op de 3 stippen rechtsboven te tikken en selecteer vervolgens instellingen en bedrijfsinstellingen. Daar vind je onderaan beide varianten van de automatische berichten. Ze zijn daar te activeren, aanpassen en zelfs op specifieke tijden naar specifieke mensen te sturen.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/10_ybaypa.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/11_hlnc83.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/12_pvz8ji.png)<SCREENS>
-
 ###### Snelle antwoorden
 
-Een variant op de automatische berichten zijn de snelle antwoorden. Automatische berichten worden meteen vanzelf gestuurd, terwijl je de snelle antwoorden zelf in een conversatie selecteert. Ze zijn handig wanneer je merkt dat je vaak dezelfde vragen krijgt. Je kunt daar een standaard antwoord op definieren met een snelcode die je gemakkelijk kunt intypen in plaats van het volledige antwoord.
+Een variant op de automatische berichten zijn de snelle antwoorden. Automatische berichten worden meteen vanzelf gestuurd, terwijl je de snelle antwoorden zelf in een conversatie selecteert. Ze zijn handig wanneer je merkt dat je vaak dezelfde vragen krijgt. Je kunt daar een standaard antwoord op definiëren met een snelcode die je gemakkelijk kunt intypen in plaats van het volledige antwoord.
 
-<SCREENS>
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/10_ybaypa.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/11_hlnc83.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/12_pvz8ji.png)
 
 ###### Labels
 
 Schep orde in je Whatsapp Business account met labels, zoals je bijvoorbeeld ook in je e-mailbox kunt doen. Open de conversatie waar je een label op wilt toepassen, open het menu rechtsboven in beeld en kies ‘Chat labelen’. Whatsapp heeft al een aantal labels voor je bedacht maar je kunt er ook je eigen labels aan toevoegen.
 
-<SCREENS>
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/13_tguomo.png)
 
-Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren
+Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren. Selecteer het label in kwestie en via het menu wat je rechtsboven kunt openen met de 3 stippen kun je verschillende dingen wijzigen of doen. Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken. Of ze allemaal hetzelfde bericht sturen.
 
-<SCREENS>
-
-Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken. Of ze allemaal hetzelfde bericht sturen.
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/14_qojxj5.png)
 
 ###### Statistieken
 
-<screen>
-
 Leuke functionaliteit van de app zijn statistieken. Ze zijn niet uitgebreid maar je kunt zien hoeveel berichten je verstuurd hebt, of deze zijn afgeleverd en gelezen, en hoeveel berichten je ontvangen hebt.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/18_kxwgdf.png)
 
 ###### Catalogus
 
 Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakkelijk een catalogus aanmaken. Dit geeft je de mogelijkheid om in een gesprek heel gemakkelijk een kant en klare aanbieding aan jouw klanten te doen.
 
-<<screen>>
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/15_uv3pta.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/16_rnkzki.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/17_zik4mn.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/19_zfrhut.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/20_yzoc01.png)
 
 ###### Web Whatsapp
 
