@@ -46,3 +46,5 @@ En heb je de Qaller Smarpthone App als **afstandsbediening** om bv omleidingen a
 ### HotDesking
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578046289/shortcodes-hotdesking_wko8ag.jpg)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1578046384/shortcodes-apps_ojm71d.jpg)
