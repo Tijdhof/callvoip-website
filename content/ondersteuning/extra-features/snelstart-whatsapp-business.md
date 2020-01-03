@@ -12,22 +12,22 @@ Update: false
 pdf: ''
 
 ---
-Met [Whatsapp business](https://www.whatsapp.com/business/) kun je vanaf je vaste nummer whatsapp berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie. Op deze pagina leggen we je stap voor stap uit hoe je ook gebruik kunt maten van deze handige toevoeging op je communicatiemiddelen.
+Met [Whatsapp Business](https://www.whatsapp.com/business/) kun je vanaf je vaste nummer whatsapp-berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie. Op deze pagina leggen we je stap voor stap uit hoe je ook gebruik kunt maten van deze handige toevoeging op je communicatiemiddelen.
 
 Met Whatsapp Business kun je:
 
-* berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer.
-* media gebruiken, zoals foto’s, emoticons, video.
-* automatische antwoorden instellen, of welkomstberichten.
-* een bedrijfsprofiel maken met websites, openingstijden, etc.
-* conversaties ordenen met labels.
-* een productcatalogus aanmaken en gemakkelijk delen.
+* berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer
+* media gebruiken, zoals foto’s, emoticons, video
+* automatische antwoorden instellen, of welkomstberichten
+* een bedrijfsprofiel maken met websites, openingstijden, etc
+* conversaties ordenen met labels
+* een productcatalogus aanmaken en gemakkelijk delen
 
 ### 1. Installatie, verificatie en opstarten.
 
 Het begint allemaal met het downloaden van de Whatsapp Business-app. Dat kan via deze links: [Android](https://play.google.com/store/apps/details?id=com.whatsapp.w4b) en [iOS](https://itunes.apple.com/app/whatsapp-business/id1386412985?mt=8).
 
-Eenmaal geopend vraagt de app na het akkoord gaan met de voorwaarden om je telefoonnummer. iPhones kunnen eerst vragen nog of ze mogen koppelen met het mobiele nummer wat bij de smartphone hoort. Geef dan aan dat je een ander nummer wilt gebruiken.
+Eénmaal geopend vraagt de app na het akkoord gaan met de voorwaarden om je telefoonnummer. iPhones kunnen eerst vragen nog of ze mogen koppelen met het mobiele nummer wat bij de smartphone hoort. Geef dan aan dat je een ander nummer wilt gebruiken.
 
 Voer jouw nummer in zonder de eerste 0. Dat kan dus ook een vast nummer zijn. In de volgende stap kun je aangeven dat de verificatie via een telefoontje moet verlopen en niet via SMS zoals in het beginscherm wordt aangegeven.
 
