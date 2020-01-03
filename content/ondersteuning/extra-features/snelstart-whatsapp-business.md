@@ -26,7 +26,7 @@ Met Whatsapp Business kun je:
 
 ### Hoe werkt dat?
 
-##### 1. Installatie, verificatie en opstarten.
+#### 1. Installatie, verificatie en opstarten.
 
 Het begint allemaal met het downloaden van de Whatsapp Business-app. Dat kan via deze links: [Android](https://play.google.com/store/apps/details?id=com.whatsapp.w4b) en [iOS](https://itunes.apple.com/app/whatsapp-business/id1386412985?mt=8).
 
@@ -42,7 +42,7 @@ Je wordt dan op het nummer wat je hebt opgegeven gebeld door een +44 (Groot Brit
 
 Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bestanden. Eenmaal gegeven kun je beginnen met het opzetten van je bedrijfsprofiel.
 
-##### 2. Bedrijfsprofiel aanmaken
+#### 2. Bedrijfsprofiel aanmaken
 
 Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren.
 
@@ -50,7 +50,7 @@ Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen
 
 Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
 
-##### 3. Functionaliteiten
+#### 3. Functionaliteiten
 
 De Whatsapp Business app biedt naast de standaard app een set aan extra functionaliteiten. We nemen ze kort door:
 
