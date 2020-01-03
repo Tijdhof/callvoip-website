@@ -76,6 +76,8 @@ blocks:
         url: /mijncallvoip/
       - title: Blog - 5 Mythen over VoIP
         url: /5-mythen-over-voip/
+      - title: Blog - Whatsapp Business
+        url: /whatsapp-business-blog/
   - title: Callvoip
     links:
       - title: Over ons
