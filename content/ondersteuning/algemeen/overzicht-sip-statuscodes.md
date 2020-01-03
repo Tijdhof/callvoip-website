@@ -1,5 +1,5 @@
 ---
-title: SIP statuscodes Callvoip (overzicht)
+title: Callvoip SIP statuscodes (overzicht)
 weight: 
 description: ''
 images: []

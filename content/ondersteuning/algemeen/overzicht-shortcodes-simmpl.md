@@ -11,13 +11,18 @@ Nieuw: false
 Update: false
 
 ---
-De Callvoi telefooncentrale is uitgerust met een aantal shortcodes ofwel codes waarmee je bepaalde functies kunt in- en uitschakelen. Hieronder een overzicht van deze codes.   
-Veel codes kun je ook instellen onder een snelkeuzetoets op je toestel, een aantal met een lampje zodat je snel ziet of hij aan/uitstaat.   
-Ook kun je de meeste codes bellen met de apps Qaller en Vamos. En met Qaller als afstandsbediening kun je je omleidingen bedienen en instellen met welk nummer je uitbelt. 
+De Callvoip telefooncentrale kan gemakkelijk worden bediend met een ruim aantal shortcodes: codes waarmee je bepaalde functies kunt in- en uitschakelen zodat je niet hoeft in te loggen. Hieronder een overzicht van deze codes.  
+Veel codes kun je instellen als snelkeuzetoets op je toestel. een aantal met een lampje zodat je snel ziet of hij aan/uitstaat.  
+Ook kun je de meeste codes bellen met de apps Qaller en Vamos.   
+En heb je de Qaller Smarpthone App als afstandsbediening om bv omleidingen aan.ui te zetten en te bepalen met welk nummer je uitbelt.
 
 <br>
 
 ### Call Pick-up
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1578041990/shortcodes-1_royeu2.jpg)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1578042005/shortcodes-2_d5jvnw.jpg)
 
 {{< layout/columns >}}  
 {{< layout/column2 >}}  
