@@ -34,7 +34,7 @@ Eenmaal geopend vraagt de app na het akkoord gaan met de voorwaarden om je telef
 
 Voer jouw nummer in zonder de eerste 0. Dat kan dus ook een vast nummer zijn. In de volgende stap kun je aangeven dat de verificatie via een telefoontje moet verlopen en niet via SMS zoals in het beginscherm wordt aangegeven.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043543/1_en_2_lp5llm.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578049276/Screenshot_1_ndooxc.png)
 
 In de volgende stap gaat de app toch eerst proberen automatisch via een SMS te verifiëren. Wanneer je een vast nummer hebt ingevoerd, werkt dit aanvankelijk niet. Je ziet midden in beeld 2 timers aftellen. De bijbehorende knoppen zijn nog niet te selecteren. Pas aan het einde kun je kiezen voor de optie “Mij bellen”.
 
@@ -46,7 +46,7 @@ Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bes
 
 Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043567/4_lh60an.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/5_idtjbv.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/6_ak2je2.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578049467/Screenshot_2_o3vknz.png)
 
 Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
 
@@ -82,13 +82,13 @@ Leuke functionaliteit van de app zijn statistieken. Ze zijn niet uitgebreid maar
 
 ###### Catalogus
 
-Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakkelijk een catalogus aanmaken. Dit geeft je de mogelijkheid om in een gesprek heel gemakkelijk een kant en klare aanbieding aan jouw klanten te doen. 
+Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakkelijk een catalogus aanmaken. Dit geeft je de mogelijkheid om in een gesprek heel gemakkelijk een kant en klare aanbieding aan jouw klanten te doen.
 
-Je vindt de functionaliteit hiervoor onder de _bedrijfsinstellingen_ bij _Catalogus._ Het aanmaken wijst verder zichzelf. Eenmaal aangemaakt verschijnt de melding dat het product nog moet worden beoordeeld door Whatsapp. Dit om misbruik te voorkomen. Dit duurt slechts een aantal minuten. 
+Je vindt de functionaliteit hiervoor onder de _bedrijfsinstellingen_ bij _Catalogus._ Het aanmaken wijst verder zichzelf. Eenmaal aangemaakt verschijnt de melding dat het product nog moet worden beoordeeld door Whatsapp. Dit om misbruik te voorkomen. Dit duurt slechts een aantal minuten.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/15_uv3pta.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/16_rnkzki.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/17_zik4mn.png)
 
-Wil je een product versturen? Dat kan als bijlage door op de paperclip te tikken en te kiezen voor _catalogus._ 
+Wil je een product versturen? Dat kan als bijlage door op de paperclip te tikken en te kiezen voor _catalogus._
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/21_izmhjm.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/19_zfrhut.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/20_yzoc01.png)
 
