@@ -84,12 +84,18 @@ Leuke functionaliteit van de app zijn statistieken. Ze zijn niet uitgebreid maar
 
 ###### Catalogus
 
-Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakkelijk een catalogus aanmaken. Dit geeft je de mogelijkheid om in een gesprek heel gemakkelijk een kant en klare aanbieding aan jouw klanten te doen.
+Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakkelijk een catalogus aanmaken. Dit geeft je de mogelijkheid om in een gesprek heel gemakkelijk een kant en klare aanbieding aan jouw klanten te doen. 
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/15_uv3pta.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/16_rnkzki.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/17_zik4mn.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/19_zfrhut.png)![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/20_yzoc01.png)
+Je vindt de functionaliteit hiervoor onder de _bedrijfsinstellingen_ bij _Catalogus._ Het aanmaken wijst verder zichzelf. Eenmaal aangemaakt verschijnt de melding dat het product nog moet worden beoordeeld door Whatsapp. Dit om misbruik te voorkomen. Dit duurt slechts een aantal minuten. 
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/15_uv3pta.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/16_rnkzki.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/17_zik4mn.png)
+
+Wil je een product versturen? Dat kan als bijlage door op de paperclip te tikken en te kiezen voor _catalogus._ 
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/21_izmhjm.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/19_zfrhut.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/20_yzoc01.png)
 
 ###### Web Whatsapp
 
-Net als de reguliere Whatsapp kun je ook Whatsapp Business via je laptop of desktop gebruiken. Kies in het menu rechtsboven in je startscherm voor Whatsapp Web en scan daarna met je mobiel de QR code op het scherm van je computer.
+Net als de reguliere Whatsapp kun je ook Whatsapp Business via je laptop of desktop gebruiken. Surf naar [https://web.whatsapp.com/](https://web.whatsapp.com/ "https://web.whatsapp.com/") en kies in de app op je mobiel in het menu rechtsboven in je startscherm voor Whatsapp Web. Scan daarna met je mobiel de QR code op het scherm van je computer om de eenmalige koppeling te voltooien.
 
-Via de web omgeving kun je berichten sturen en ontvangen, gebruik maken van labels en deze bewerken en de basisgegevens van je bedrijfsprofiel aanpassen. Helaas is het niet mogelijk om de catalogus via de web omgeving bij te werken. Hiervoor ben je dus op je smartphone aangewezen.
+Via de web omgeving kun je berichten sturen en ontvangen, gebruik maken van labels en deze bewerken en de basisgegevens van je bedrijfsprofiel aanpassen. Helaas is het niet mogelijk om de catalogus via de web omgeving bij te werken of te gebruiken. Hiervoor ben je dus op je smartphone aangewezen.
