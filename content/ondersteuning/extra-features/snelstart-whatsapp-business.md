@@ -24,9 +24,7 @@ Met Whatsapp Business kun je:
 * conversaties ordenen met labels.
 * een productcatalogus aanmaken en gemakkelijk delen.
 
-### Hoe werkt dat?
-
-#### 1. Installatie, verificatie en opstarten.
+### 1. Installatie, verificatie en opstarten.
 
 Het begint allemaal met het downloaden van de Whatsapp Business-app. Dat kan via deze links: [Android](https://play.google.com/store/apps/details?id=com.whatsapp.w4b) en [iOS](https://itunes.apple.com/app/whatsapp-business/id1386412985?mt=8).
 
@@ -42,7 +40,7 @@ Je wordt dan op het nummer wat je hebt opgegeven gebeld door een +44 (Groot Brit
 
 Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bestanden. Eenmaal gegeven kun je beginnen met het opzetten van je bedrijfsprofiel.
 
-#### 2. Bedrijfsprofiel aanmaken
+### 2. Bedrijfsprofiel aanmaken
 
 Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren.
 
@@ -50,21 +48,21 @@ Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen
 
 Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
 
-#### 3. Functionaliteiten
+### 3. Functionaliteiten
 
 De Whatsapp Business app biedt naast de standaard app een set aan extra functionaliteiten. We nemen ze kort door:
 
-###### Automatische berichten
+### Automatische berichten
 
 Dit kan een begroeting zijn of een afwezigheidsbericht. Ga vanuit het startscherm van de app naar het menu door op de 3 stippen rechtsboven te tikken en selecteer vervolgens instellingen en bedrijfsinstellingen. Daar vind je onderaan beide varianten van de automatische berichten. Ze zijn daar te activeren, aanpassen en zelfs op specifieke tijden naar specifieke mensen te sturen.
 
-###### Snelle antwoorden
+### Snelle antwoorden
 
 Een variant op de automatische berichten zijn de snelle antwoorden. Automatische berichten worden meteen vanzelf gestuurd, terwijl je de snelle antwoorden zelf in een conversatie selecteert. Ze zijn handig wanneer je merkt dat je vaak dezelfde vragen krijgt. Je kunt daar een standaard antwoord op definiëren met een snelcode die je gemakkelijk kunt intypen in plaats van het volledige antwoord.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578049745/Screenshot_3_lar03i.png)
 
-###### Labels
+### Labels
 
 Schep orde in je Whatsapp Business account met labels, zoals je bijvoorbeeld ook in je e-mailbox kunt doen. Open de conversatie waar je een label op wilt toepassen, open het menu rechtsboven in beeld en kies ‘Chat labelen’. Whatsapp heeft al een aantal labels voor je bedacht maar je kunt er ook je eigen labels aan toevoegen.
 
@@ -74,13 +72,13 @@ Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscher
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578050198/Screenshot_4_iumepi.png)
 
-###### Statistieken
+### Statistieken
 
 Leuke functionaliteit van de app zijn statistieken. Ze zijn niet uitgebreid maar je kunt zien hoeveel berichten je verstuurd hebt, of deze zijn afgeleverd en gelezen, en hoeveel berichten je ontvangen hebt.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/18_kxwgdf.png)
 
-###### Catalogus
+### Catalogus
 
 Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakkelijk een catalogus aanmaken. Dit geeft je de mogelijkheid om in een gesprek heel gemakkelijk een kant en klare aanbieding aan jouw klanten te doen.
 
@@ -92,7 +90,7 @@ Wil je een product versturen? Dat kan als bijlage door op de paperclip te tikken
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1578050354/Screenshot_5_z8qk2u.png)
 
-###### Web Whatsapp
+### Web Whatsapp
 
 Net als de reguliere Whatsapp kun je ook Whatsapp Business via je laptop of desktop gebruiken. Surf naar [https://web.whatsapp.com/](https://web.whatsapp.com/ "https://web.whatsapp.com/") en kies in de app op je mobiel in het menu rechtsboven in je startscherm voor Whatsapp Web. Scan daarna met je mobiel de QR code op het scherm van je computer om de eenmalige koppeling te voltooien.
 
