@@ -4,7 +4,7 @@ description: Callvoip vertelt inspirerende bedrijfsverhalen over haar klanten. D
   eerste is Progress Events uit Groningen.
 images:
 - "/v1576072687/500_lux9iz.jpg"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
