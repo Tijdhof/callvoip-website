@@ -84,7 +84,7 @@ Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakk
 
 Je vindt de functionaliteit hiervoor onder de _bedrijfsinstellingen_ bij _Catalogus._ Het aanmaken wijst verder zichzelf. Eenmaal aangemaakt verschijnt de melding dat het product nog moet worden beoordeeld door Whatsapp. Dit om misbruik te voorkomen. Dit duurt slechts een aantal minuten.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/15_uv3pta.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/16_rnkzki.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/17_zik4mn.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578050569/Screenshot_6_nzqbwa.png)
 
 Wil je een product versturen? Dat kan als bijlage door op de paperclip te tikken en te kiezen voor _catalogus._
 
