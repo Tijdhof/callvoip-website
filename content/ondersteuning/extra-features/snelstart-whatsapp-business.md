@@ -72,7 +72,7 @@ Schep orde in je Whatsapp Business account met labels, zoals je bijvoorbeeld ook
 
 Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren. Selecteer het label in kwestie door het aan te tikken en via het menu wat je rechtsboven kunt openen kun je verschillende dingen wijzigen of doen. Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken bijvoorbeeld. Of ze allemaal hetzelfde bericht sturen.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/14_qojxj5.png) ![](https://res.cloudinary.com/callvoip/image/upload/v1578048237/22_sxmlfa.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578050198/Screenshot_4_iumepi.png)
 
 ###### Statistieken
 
