@@ -1,5 +1,5 @@
 ---
-title: Handleiding Whatsapp Business (vast nummer)
+title: Handleiding Whatsapp Business (vast nr)
 weight: 
 description: Een handig stappenplan om Whatsapp Business in gebruik te nemen.
 images:
@@ -9,7 +9,7 @@ hideingoogle: false
 hidesocialshare: false
 Nieuw: true
 Update: false
-pdf: https://files.callvoip.nl/download/Callvoip_handleiding_WhatsWhatsapp-vastnummer.pdf
+pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_WhatsWhatsapp-vastnummer.pdf
 aliases: "/whatsapp"
 
 ---
