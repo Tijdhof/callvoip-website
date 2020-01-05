@@ -1,6 +1,6 @@
 ---
 title: Handleiding Whatsapp Business (vast nr)
-weight: 
+weight: 1
 description: Een handig stappenplan om Whatsapp Business in gebruik te nemen.
 images:
 - "/v1575627317/whatsapp-business-cartoon-web_alkoud.png"
