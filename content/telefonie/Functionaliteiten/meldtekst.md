@@ -7,7 +7,7 @@ images:
 - "/v1566996057/soundapp_round_n733tu.png"
 slug: meldtekst
 hero:
-  image: "/v1578318060/tape_vrn2du.png"
+  image: "/v1578318363/tape_bvvb2g.png"
   title: Meldtekst (Sound)
   disable_image_on_mobile: false
 layout: ''
