@@ -32,7 +32,7 @@ Eénmaal geopend vraagt de app na het akkoord gaan met de voorwaarden om je tele
 
 Voer jouw nummer in zonder de eerste 0. Dat kan dus ook een vast nummer zijn. In de volgende stap kun je aangeven dat de verificatie via een telefoontje moet verlopen en niet via SMS zoals in het beginscherm wordt aangegeven.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578049276/Screenshot_1_ndooxc.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578299134/Screenshot_4_nrpixe.png)
 
 In de volgende stap gaat de app toch eerst proberen automatisch via een SMS te verifiëren. Wanneer je een vast nummer hebt ingevoerd, werkt dit aanvankelijk niet. Je ziet midden in beeld 2 timers aftellen. De bijbehorende knoppen zijn nog niet te selecteren. Pas aan het einde kun je kiezen voor de optie “Mij bellen”.
 
