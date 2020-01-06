@@ -9,7 +9,7 @@ type: page
 layout: functionaliteiten
 aliases: '/functionaliteiten'
 hero:
-  image: "/v1566566520/banner_formaat_xqptws.jpg"
+  image: "/v1566566520/functio-v2-Recovered_mfchad.png"
   title: ''
   link: ''
 hideinsearch: false
