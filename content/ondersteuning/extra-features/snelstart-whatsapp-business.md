@@ -44,7 +44,7 @@ Na de verificatie vraagt de app toegang tot je contacten, foto’s, media en bes
 
 Eenmaal geïnstalleerd en geverifieerd kunnen we het bedrijfsprofiel gaan vullen. De velden spreken voor zich. Tik ook even op ‘meer opties weergeven’ om je adres en korte omschrijving in te kunnen vullen. Eenmaal klaar kom je in het beginscherm wat je kent van Whatsapp. Bovenin staat een melding om ook de openingstijden in te voeren, tik je die aan dan kun je naast openingstijden ook emailadres, website en status invoeren.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578049467/Screenshot_2_o3vknz.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578299280/Screenshot_5_qw1ifi.png)
 
 Maak een zo volledig mogelijk bedrijfsprofiel aan om het voor jouw klanten gemakkelijk te maken alle informatie van je bedrijf te vinden.
 
@@ -60,17 +60,15 @@ Dit kan een begroeting zijn of een afwezigheidsbericht. Ga vanuit het startscher
 
 Een variant op de automatische berichten zijn de snelle antwoorden. Automatische berichten worden meteen vanzelf gestuurd, terwijl je de snelle antwoorden zelf in een conversatie selecteert. Ze zijn handig wanneer je merkt dat je vaak dezelfde vragen krijgt. Je kunt daar een standaard antwoord op definiëren met een snelcode die je gemakkelijk kunt intypen in plaats van het volledige antwoord.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578049745/Screenshot_3_lar03i.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578299300/Screenshot_6_uvxwyf.png)
 
 ### Labels
 
 Schep orde in je Whatsapp Business account met labels, zoals je bijvoorbeeld ook in je e-mailbox kunt doen. Open de conversatie waar je een label op wilt toepassen, open het menu rechtsboven in beeld en kies ‘Chat labelen’. Whatsapp heeft al een aantal labels voor je bedacht maar je kunt er ook je eigen labels aan toevoegen.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578043849/13_tguomo.png)
-
 Je kunt ook de voorgedefinieerde aanpassen of verwijderen door op het startscherm het menu te openen rechtsboven en labels te selecteren. Selecteer het label in kwestie door het aan te tikken en via het menu wat je rechtsboven kunt openen kun je verschillende dingen wijzigen of doen. Je kunt daar ook van alle conversaties met hetzelfde label met één druk op de knop een groep aanmaken bijvoorbeeld. Of ze allemaal hetzelfde bericht sturen.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578050198/Screenshot_4_iumepi.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578299328/Screenshot_7_vuaffa.png)
 
 ### Statistieken
 
@@ -84,11 +82,11 @@ Heb je een webshop? Of lever je vaste diensten? Dan kun je in de app heel gemakk
 
 Je vindt de functionaliteit hiervoor onder de _bedrijfsinstellingen_ bij _Catalogus._ Het aanmaken wijst verder zichzelf. Eenmaal aangemaakt verschijnt de melding dat het product nog moet worden beoordeeld door Whatsapp. Dit om misbruik te voorkomen. Dit duurt slechts een aantal minuten.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578050569/Screenshot_6_nzqbwa.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578299351/Screenshot_8_c57mm3.png)
 
 Wil je een product versturen? Dat kan als bijlage door op de paperclip te tikken en te kiezen voor _catalogus._
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1578050354/Screenshot_5_z8qk2u.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1578299372/Screenshot_9_ac4cu1.png)
 
 ### Web Whatsapp
 
