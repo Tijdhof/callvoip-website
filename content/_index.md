@@ -72,7 +72,7 @@ options:
     link: "/ondersteuning/"
     tab: true
     iconimage: ''
-  image: "/v1571400615/functionaliteiten_ge7l14.png"
+  image: "/v1571400615/functionaliteiten_mosnrc.png"
 usps:
 - title: Vanaf 1 tot 100+ gebruikers
   content: <p>Onze hosted telefooncentrale biedt standaard alle belangrijke functies
