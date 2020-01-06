@@ -13,7 +13,7 @@ hidesocialshare: false
 ---
 <h3>Download de VoIP CTI software:</h3>
 
-* [VoIP CTI Client Software (v201219)](http://files.callvoip.nl/downloads/voipcticlientsetup.exe)
+* [VoIP CTI Client Software (v060120)](http://files.callvoip.nl/downloads/voipcticlientsetup.exe)
 * [VoIP CTI Recognition Configuration Tool (v241219)](http://files.callvoip.nl/downloads/voipcticonfigurationsetup.exe)
 
 <hr>
