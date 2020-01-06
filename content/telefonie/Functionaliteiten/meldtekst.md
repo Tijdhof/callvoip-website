@@ -7,10 +7,13 @@ images:
 - "/v1566996057/soundapp_round_n733tu.png"
 slug: meldtekst
 hero:
-  image: "/v1560261248/callvoip-website-meldtekst.png"
+  image: "/v1578318060/tape_vrn2du.png"
   title: Meldtekst (Sound)
+  disable_image_on_mobile: false
 layout: ''
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen.
