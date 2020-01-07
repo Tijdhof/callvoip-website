@@ -9,11 +9,11 @@ items:
 - title: Online telefooncentrale
   status: true
 - title: Trunk
-  status: true
+  status: false
 - title: Inkomende gesprekken
-  status: true
+  status: false
 - title: Uitgaande gesprekken
-  status: true
+  status: false
 - title: "(Extern) Doorschakelen"
   status: true
 - title: Toestelregistraties
