@@ -9,15 +9,15 @@ items:
 - title: Online telefooncentrale
   status: true
 - title: Trunk
-  status: false
+  status: true
 - title: Inkomende gesprekken
-  status: false
+  status: true
 - title: Uitgaande gesprekken
-  status: false
+  status: true
 - title: "(Extern) Doorschakelen"
   status: true
 - title: Toestelregistraties
-  status: false
+  status: true
 - title: Qaller Smartphone app
   status: true
 - title: Vamos Vast-Mobiel
