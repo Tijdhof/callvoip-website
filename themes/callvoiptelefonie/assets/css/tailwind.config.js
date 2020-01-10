@@ -14,7 +14,8 @@ let colors = {
   'red': '#ff3131',
   'orange': '#f3a620',
   'bronze': '#B79C7E',
-  'amber': '#9f0100'
+  'amber': '#9f0100',
+  'dark-green': '#035837'
 }
 
 module.exports = {
