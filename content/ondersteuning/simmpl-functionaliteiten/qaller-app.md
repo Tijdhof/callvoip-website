@@ -19,7 +19,9 @@ hidesocialshare: false
 
 Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip telefooncentrale. Upgrade Qaller naar Qaller Plus en maak van je smartphone je kantoortelefoon. Hoe bereikbaar wil jíj zijn?
 
-**Qaller is vernieuwd**. Log opnieuw in en wen even aan de nieuwe look én nieuwe mogelijkheden. Hieronder een introductie. Vragen? bel, mail of chat met ons!
+**Let op met de Android 10 update:** Wanneer de Qaller app op een actieve telefoon geopend is, werkt alles naar behoren. Uitbellen is altijd probleemloos. Maar wanneer de telefoon **gelocked** is, of de app op de achtergrond draait, zal de Qaller momenteel **niet gaan rinkelen** op Android 10 toestellen (zoals de Samsung Galaxy Note). 
+
+Krijg jij de Android 10 update aangeboden? Maak dan de overweging op basis van jouw Qaller gebruik of je de update uitvoert. We houden je uiteraard via onze website en nieuwsbrief op de hoogte van de ontwikkelingen.
 
 [English Qaller manual? Click here!](http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30_ENG.pdf "Qaller Smartphone App english manual")
 
@@ -31,7 +33,6 @@ Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip tele
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/Qaller_admin_xbvvwv.jpg)
 
-  
 <h3>Beheer van je bedrijfsnummers met Qaller</h3>
 
 Klik op \[bewerk mijn persoonlijk belplan\] en kies het nummer dat je wilt beheren:
@@ -55,8 +56,8 @@ Om te bellen, klik op TELEFOONBOEK of op het DIALPAD icoon.1. Telefoonboek - kli
 ![](https://res.cloudinary.com/callvoip/image/upload/v1570967083/doorverbinden_m14bet.jpg)
 
 2\. Dialpad - Klik op de toets met het toetsenbordje (dialpad) om een nummer in te toetsen. Handig: je kunt ook een nummer plakken, bv vanuit whatsapp of internet.  
-Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:   
-  
+Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
+
 ![](https://res.cloudinary.com/callvoip/image/upload/v1573414896/Qaller_call-controls_652x425_zvygrq.jpg)
 
 3\. Call controls - Tijdens een gesprek heeft u de volgende call controls:
@@ -72,6 +73,6 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 
 <h3>Op welke Smartphones werkt de Qaller App?</h3>
 
-Hieronder een overzicht van Android en iOS versies en of zij geschikt zijn voor het gebruik van Qaller. 
+Hieronder een overzicht van Android en iOS versies en of zij geschikt zijn voor het gebruik van Qaller.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1573416725/Qaller_supported_OS_versions_tabel_1103x624_fp2ntj.jpg)
