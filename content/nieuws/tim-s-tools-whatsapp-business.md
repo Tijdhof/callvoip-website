@@ -4,18 +4,18 @@ description: Er ligt ook voor jou een kans om in contact te komen met jouw klant
   via Whatsapp Business.
 images:
 - "/v1575627317/whatsapp-business-cartoon-web_alkoud.png"
-featured: false
+featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1575627317/whatsapp-business-cartoon-web_alkoud.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2019-12-22T23:00:00.000+00:00
+date: 2020-01-09T23:00:00+00:00
 url: whatsapp-business-blog
 contactpersoon: []
 categories: []

@@ -6,7 +6,7 @@ description: Altijd leuk om een kleurrijk jaar in vogelvlucht te herbeleven. Omd
   toekomst.
 images:
 - "/v1575627317/2020_pkajd2.png"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
