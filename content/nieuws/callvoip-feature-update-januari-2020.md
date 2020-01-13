@@ -13,12 +13,11 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-01-13T23:00:00+00:00
 url: ''
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
 De emails met faxnotificaties en de email apps zijn voortaan in het Nederlands.
