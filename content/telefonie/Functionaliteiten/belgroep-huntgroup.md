@@ -2,6 +2,7 @@
 type: page
 hero:
   image: "/v1566996064/Huntgroup_round_yunto8.png"
+  title: Belgroep (Huntgroup)
 title: Belgroep (Huntgroup) | VoIP-Functionaliteit | Laat groep toestellen rinkelen
 description: Met de belgroep (huntgroep) laat u meerdere interne toestellen en externe
   nummers simultaan, of in een specifieke volgorde, rinkelen.
