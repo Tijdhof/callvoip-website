@@ -11,7 +11,7 @@ error: false
 \- als Qaller is gesloten of op de achtergrond draait rinkelt Qaller **niet** als je gebeld wordt  
 \- als de smartphone gelocked is licht het display wel op maar rinkelt Qaller **niet  
   
-Uitgaande gesprekken:  
+Uitgaande gesprekken**:**  
 **- werkt naar behoren  
   
 Er wordt momenteel gewerkt aan het aanpassen van de Qaller app zodat deze naar behoren functioneert icm Android 10. 
