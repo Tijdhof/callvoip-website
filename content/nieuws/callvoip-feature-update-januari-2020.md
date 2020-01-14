@@ -7,14 +7,14 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: "/v1578996857/icons_home_ddf7r4.png"
+image_uitgelicht: ''
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-01-13T23:00:00+00:00
+date: 2020-01-13T23:00:00.000+00:00
 url: ''
 contactpersoon: []
 categories: []
