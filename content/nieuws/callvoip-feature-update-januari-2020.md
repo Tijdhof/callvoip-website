@@ -21,4 +21,9 @@ categories: []
 tags: []
 
 ---
-De emails met faxnotificaties en de email apps zijn voortaan in het Nederlands.
+In het begin van dit jaar wordt er weer een aantal updates doorgevoerd aan onze systemen. Op moment van schrijven zijn de volgende zaken nieuw:
+
+* De emails met faxnotificaties en de email apps zijn voortaan in het Nederlands.
+* Het is vanaf mogelijk om de configuratie van Yealinktoestellen wanneer deze via de centrale geprovisioned zijn, te kopiëren naar een nieuw toestel. Deze slimme kopieerfunctie laat je zelfs kiezen of de voorgeprogrammeerde knoppen één op één mogen of er wijzigingen in nodig zijn. 
+
+Houd vooral onze nieuwsbrieven en nieuwspagina in de gaten want er volgen meer updates in de komende weken met onder ander: browser based bellen en nieuwe meldingen in de wachtrij! 
