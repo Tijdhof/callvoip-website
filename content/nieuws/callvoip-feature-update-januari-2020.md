@@ -3,11 +3,11 @@ title: Callvoip Feature Update januari 2020
 description: Callvoip Feature Update januari 2020
 images:
 - "/v1578578210/icons_home_xeoqum.png"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1578988511/icons_home_xeoqum_zdwzfp.jpg"
 hero:
   image: ''
   mobile: ''
