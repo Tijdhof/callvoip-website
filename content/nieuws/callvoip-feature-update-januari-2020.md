@@ -6,7 +6,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1578999256/icons_home_eip5z7.png"
 hero:
   image: ''
   mobile: ''
