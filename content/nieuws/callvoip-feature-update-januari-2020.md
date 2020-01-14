@@ -1,7 +1,8 @@
 ---
 title: Callvoip Feature Update Januari 2020
 description: Callvoip Feature Update Januari 2020
-images: []
+images:
+- "/v1578999256/icons_home_eip5z7.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
