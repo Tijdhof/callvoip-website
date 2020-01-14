@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-01-13T23:00:00.000+00:00
+date: 2020-01-12T23:00:00+00:00
 url: ''
 contactpersoon: []
 categories: []
