@@ -7,7 +7,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: "/v1578990504/icons_home_w2jiek.png"
+image_uitgelicht: "/v1578990800/icons_home_tbcf1y.png"
 hero:
   image: ''
   mobile: ''
