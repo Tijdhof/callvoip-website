@@ -13,11 +13,11 @@ hidesocialshare: false
 ---
 <h3>2020</h3>
 
-* Gelukkig nieuwjaar!
+* <a href="https://mailchi.mp/callvoip/dec19-tijdlijn-eindejaar-317281?e=[\[UNIQID\]](https://mailchi.mp/callvoip/dec19-tijdlijn-eindejaar-317281?e=\[UNIQID\])" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
 
 <h3>2019</h3>
 
-* <a href="https://www.callvoip.nl/tijdlijn" target="_blank">Callvoip tijdlijn : terugblik en vooruitblik!</a>
+* <a href="https://www.callvoip.nl/tijdlijn" target="_blank">Callvoip tijdlijn: terugblik en vooruitblik!</a>
 * <a href="https://mailchi.mp/callvoip/dec19-tijdlijn-eindejaar" target="_blank">Nieuwsbrief 31-12-19 | Stats with a Smile en Callvoip tijdlijn: gelukkig 2020!</a>
 * <a href="https://us6.campaign-archive.com/?u=08692ad244c2648ffd651d0c5&id=2283c45b20" target="_blank">Nieuwsbrief 12-12-19 | Callvoip kerstgroet met: Progress Events</a>
 * <a href="https://mailchi.mp/callvoip/sep19-nieuweqaller_callvoipdsl-317153" target="_blank">Nieuwsbrief 11-10-19 | Het is lekker werken met de Qaller App</a>
