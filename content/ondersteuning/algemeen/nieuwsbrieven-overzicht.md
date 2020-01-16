@@ -13,7 +13,7 @@ hidesocialshare: false
 ---
 <h3>2020</h3>
 
-* <a href="https://mailchi.mp/callvoip/dec19-tijdlijn-eindejaar-317281?e=[\[UNIQID\]](https://mailchi.mp/callvoip/dec19-tijdlijn-eindejaar-317281?e=\[UNIQID\])" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
+* <a href="http://callvoip.nl/email-whatsapp" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
 
 <h3>2019</h3>
 
