@@ -1,5 +1,5 @@
 ---
-title: Simmpl (instellen)
+title: Centrale instellen
 layout: overview
 weight: 2
 description: ''

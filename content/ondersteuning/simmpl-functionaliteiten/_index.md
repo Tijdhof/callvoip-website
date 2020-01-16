@@ -2,7 +2,7 @@
 description = ""
 images = []
 layout = "overview"
-title = "Simmpl functionaliteiten"
+title = "Callvoip functionaliteiten"
 weight = 3
 
 +++
