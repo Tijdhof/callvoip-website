@@ -13,6 +13,8 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_WhatsWhatsapp-vast
 aliases: "/whatsapp"
 
 ---
+_We hebben ook een blog geschreven over Whatsapp Business,_ [_klik hier_](https://www.callvoip.nl/whatsapp-business-blog/) _om de blog te lezen._
+
 Met [Whatsapp Business](https://www.whatsapp.com/business/) kun je vanaf je vaste nummer whatsapp-berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie. Op deze pagina leggen we je stap voor stap uit hoe je ook gebruik kunt maten van deze handige toevoeging op je communicatiemiddelen.
 
 Met Whatsapp Business kun je:
@@ -22,7 +24,11 @@ Met Whatsapp Business kun je:
 * automatische antwoorden instellen, of welkomstberichten
 * een bedrijfsprofiel maken met websites, openingstijden, etc
 * conversaties ordenen met labels
-* een productcatalogus aanmaken en gemakkelijk delen
+* een productcatalogus aanmaken en gemakkelijk dele
+
+  ![](https://res.cloudinary.com/callvoip/image/upload/v1579187847/whatsapp_business_op-de-smartphone_hzjx2u.jpg)
+
+  _Whatsapp & WA Business naast elkaar als 2 losse apps_.
 
 ### 1. Installatie, verificatie en opstarten.
 
