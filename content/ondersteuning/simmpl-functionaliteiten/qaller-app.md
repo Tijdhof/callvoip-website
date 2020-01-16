@@ -15,7 +15,7 @@ hidesocialshare: false
 
 ***
 
-**Qaller Smartphone App** {{< float "right" "400px" false >}}  !\[\](![](https://res.cloudinary.com/callvoip/image/upload/v1579161600/image_here3_sruedv.png)){{</ float >}}
+**Qaller Smartphone App**                                                                                    ![](https://res.cloudinary.com/callvoip/image/upload/v1579161600/image_here3_sruedv.png)
 
 **13-01-2020 - Let op: Android 10 nog niet 100% Qaller werkt nog niet :** Wanneer de Qaller app op een actieve telefoon geopend is, werkt alles naar behoren. Uitbellen is altijd probleemloos. Maar wanneer de telefoon **gelocked** is, of de app op de achtergrond draait, zal de Qaller momenteel **niet gaan rinkelen** op Android 10 toestellen (zoals de Samsung Galaxy Note).
 
