@@ -13,7 +13,8 @@ hidesocialshare: false
 ---
 ***
 
-<div class="md:flex flex-row-reverse justify-between items-center mb-6"><img src="![](https://res.cloudinary.com/callvoip/image/upload/v1579161600/image_here3_sruedv.png)" alt=""><br>
+<div class="md:flex flex-row-reverse justify-between items-center mb-6"><img src="![]
+(https://res.cloudinary.com/callvoip/image/upload/v1579161600/image_here3_sruedv.png)" alt=""><br>
 
 <strong>Qaller Smartphone App</strong><p></p></div>
 
