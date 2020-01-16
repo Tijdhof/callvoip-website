@@ -17,9 +17,13 @@ hidesocialshare: false
 
 **Qaller Smartphone App**
 
-Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip telefooncentrale. Upgrade Qaller naar Qaller Plus en maak van je smartphone je kantoortelefoon. Hoe bereikbaar wil jíj zijn?
+ **![](https://res.cloudinary.com/callvoip/image/upload/v1579161600/image_here3_sruedv.png)**
 
-**Let op met de Android 10 update:** Wanneer de Qaller app op een actieve telefoon geopend is, werkt alles naar behoren. Uitbellen is altijd probleemloos. Maar wanneer de telefoon **gelocked** is, of de app op de achtergrond draait, zal de Qaller momenteel **niet gaan rinkelen** op Android 10 toestellen (zoals de Samsung Galaxy Note). 
+**13-01-2020 - Let op: Android 10 nog niet 100% Qaller werkt nog niet :** Wanneer de Qaller app op een actieve telefoon geopend is, werkt alles naar behoren. Uitbellen is altijd probleemloos. Maar wanneer de telefoon **gelocked** is, of de app op de achtergrond draait, zal de Qaller momenteel **niet gaan rinkelen** op Android 10 toestellen (zoals de Samsung Galaxy Note).
+
+<hr>
+
+Qaller is een gratis Smartphone app en uw afstandsbediening bij de Callvoip telefooncentrale. Upgrade Qaller naar Qaller Plus en maak van je smartphone je kantoortelefoon. Hoe bereikbaar wil jíj zijn?
 
 Krijg jij de Android 10 update aangeboden? Maak dan de overweging op basis van jouw Qaller gebruik of je de update uitvoert. We houden je uiteraard via onze website en nieuwsbrief op de hoogte van de ontwikkelingen.
 
