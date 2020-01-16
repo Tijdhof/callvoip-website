@@ -8,7 +8,7 @@
     {{ if .HasChildren }}
     <li class="">
       <a href="{{ .Page.Permalink }}" class="no-underline  pb-1  xl:text-lg md:mx-4 has-dropdown text-grey-dark border-white {{ if $has }} text-blue {{ end }}  hover:border-b-4 hover:text-blue  ">
-        {{ .Name }} 
+        {{ .Name }} <i class="fal fa-angle-down ml-1"></i>
       </a>
       {{ $parent := . }}
       <!-- If the menu item has children, include this partial template again (recursively) -->
