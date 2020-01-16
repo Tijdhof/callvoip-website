@@ -27,8 +27,7 @@ Met Whatsapp Business kun je:
 * een productcatalogus aanmaken en gemakkelijk dele
 
   ![](https://res.cloudinary.com/callvoip/image/upload/v1579187847/whatsapp_business_op-de-smartphone_hzjx2u.jpg)
-
-  _Whatsapp & WA Business naast elkaar als 2 losse apps_.
+  _*Whatsapp & WA Business naast elkaar als 2 losse apps_.
 
 ### 1. Installatie, verificatie en opstarten.
 
