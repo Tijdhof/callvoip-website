@@ -24,7 +24,7 @@ Met Whatsapp Business kun je:
 * automatische antwoorden instellen, of welkomstberichten
 * een bedrijfsprofiel maken met websites, openingstijden, etc
 * conversaties ordenen met labels
-* een productcatalogus aanmaken en gemakkelijk dele
+* een productcatalogus aanmaken en gemakkelijk delen
 
   ![](https://res.cloudinary.com/callvoip/image/upload/v1579187847/whatsapp_business_op-de-smartphone_hzjx2u.jpg)
   _*Whatsapp & WA Business naast elkaar als 2 losse apps_.
