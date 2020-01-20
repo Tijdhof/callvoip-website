@@ -91,7 +91,6 @@ Hieronder vind je een stapsgewijze instructie bij de ingebruikname van Vamos.
     \- de voicemail kan worden beluisterd via 1233 en daar spreek je ook de begroeting in  
     \- ingesproken berichten worden ook gemaild
 
-      
     Handig: je kunt niet beantwoorde mobiele oproepen ook laten doorschakelen naar een collega, afdeling, bedrijfsvoicemail, belplan met een vervolgroute, schakelaars en prefixes. Zo kunnen mobiele oproepen dus ook op vaste toestellen uitkomen en is de kwetsbaarheid van een individueel mobiel nummer veel kleiner dan vroeger.  
     Je kunt de instellingen doen op de Callvoip centrale. Log in op de centrale, ga naar de gebruikers en ga haar het UC Panel van de gebruiker:  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564577694/vamoshandleiding-5_pxsmel.png)  
@@ -124,7 +123,7 @@ Hieronder vind je een stapsgewijze instructie bij de ingebruikname van Vamos.
     \- toestelwissel tijdens gesprek: vervolg een mobiel gesprek op je kantoortoestel  
     \- bediening call recording: zet gespreksopname aan/uit in Vamos  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564578855/vamoshandleiding-11_orlppr.png)
- 9. **<h3>Bijlage 2: Keuze Smartphone**  
+ 9. **<h3>Bijlage 2: Keuze Smartphone</h3>**  
     De Vamos SIM-kaart werkt in elke mobiele telefoon (iPhone, Android, Windows). De Vamos App werkt op iPhone (vanaf 10.0) en op Android (vanaf 5.0), niet op Windows. Omdat de VAMOS App enkel werkt op iPhone en Android raden we je af om een Windows telefoon te gebruiken. Dit kan wel, maar de bediening zul je dan niet op de VAMOS App kunnen doen, wel op de Callvoip centrale.
 
     je kunt kiezen voor een smartphone:  
@@ -136,7 +135,7 @@ Hieronder vind je een stapsgewijze instructie bij de ingebruikname van Vamos.
 
     **Handig**: je kunt dan ook kiezen met welke SIM-kaart je een gesprek wilt voeren en vanaf welke kaart je de mobiele data wilt gebruiken. Ook kun je instellen dat bij elk gesprek wordt gevraagd met welke SIM je uit wilt bellen en vanaf welke kaart het datagebruik plaatsvindt.  
     ![](https://res.cloudinary.com/callvoip/image/upload/v1564579103/vamoshandleiding-12_dq0huz.png)
-10. **Bijlage 3: Veelgestelde vragen bij Vamos Vast-Mobiel:**  
+10. **<h3>Bijlage 3: Veelgestelde vragen bij Vamos Vast-Mobiel:</h3>**  
     Q: Kan ik mijn huidige Mobiele SIM en mobiel abonnement blijven gebruiken?  
     A: Nee, de Vamos Vast-Mobiel oplossing vereist dat je de SIM van Callvoip gebruikt met het bijbehorende Vamos abonnement. Je kunt je huidige mobiele nummer behouden door dit naar Callvoip toe te porteren.
 
