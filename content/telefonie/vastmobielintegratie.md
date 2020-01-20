@@ -23,7 +23,9 @@ blocks:
     - databundel vanaf 0 t/m 10GB maar niet onbeperkt<BR>
     + alle mogelijkheden van Qaller Plus<BR>
     + bellen via de native dialer<BR>
-    + onbeperkt bellen binnen EU is inbegrepen
+    + onbeperkt bellen binnen EU is inbegrepen<br>
+    <br><br>
+    <a target="_blank" href="callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/" class="button">Hoe werkt het?</a>
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
   title: Het vast-mobiel landschap
