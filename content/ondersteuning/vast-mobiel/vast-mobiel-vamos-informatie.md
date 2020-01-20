@@ -7,22 +7,24 @@ pdf: http://www.simmpl.nl/downloads/Simmpl_informatie_Vamos-vast-mobiel-integrat
 hideinsearch: false
 Nieuw: false
 Update: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Onze klanten vroegen om mobiele vrijheid, en deze wens is gehoord, Vamos is ons antwoord. Simmpl, de meest eenvoudige telefooncentrale is er vanaf nu ook voor mobiel! Callvoip voorziet u van een SIM-kaart met uw eigen, of een nieuw, mobiel nummer. Met de handige Vamos app stelt u gemakkelijk in hoe u wilt bellen en gebeld wilt worden.
+Onze klanten vroegen om mobiele vrijheid, en deze wens is gehoord, Vamos is ons antwoord. Simmpl, de meest eenvoudige telefooncentrale is er vanaf nu ook voor mobiel! Callvoip voorziet je van een SIM-kaart met je eigen, of een nieuw, mobiel nummer. Met de handige Vamos app stel je gemakkelijk in hoe je wilt bellen en gebeld wilt worden.
 
 <h3>De voordelen van Vamos:</h3>
 
-* Uw vaste nummer op uw mobiel: bellen én gebeld worden via je smartphone
+* Je vaste nummer op je mobiel: bellen én gebeld worden via je smartphone
 * Werk mobiel, met de zakelijke uitstraling van een vast nummer
-* Hou uw privénummer gescheiden van de zaak
-* Kies voor een nieuw mobiel nummer of neem uw mobiele nummer mee
-* Bel vanaf uw mobiel direct naar interne nummers van collega’s
-* Laat uw bureautoestel meerinkelen bij een mobiele oproep
+* Hou je privénummer gescheiden van de zaak
+* Kies voor een nieuw mobiel nummer of neem je mobiele nummer mee
+* Bel vanaf je mobiel direct naar interne nummers van collega’s
+* Laat je bureautoestel meerinkelen bij een mobiele oproep
 
-<h3>Alle mogelijkheden van de Simmpl centrale werken nu ook voor mobiele gesprekken!</h3>
+<h3>Nu ook Callvoip voor je mobiel!</h3>
 
-Als u niet aanneemt kan een mobiel gesprek ook door een collega, de receptie, op de bedrijfsvoicemail. Gebruik keuzemenu’s, wachtrijen of call recording. Zo is de mobiele bereikbaarheid niet meer afhankelijk van de mobiele gebruiker zelf; de telefooncentrale regelt dit voortaan ook voor u. Uw bereikbaarheid neemt nog verder toe!
+Als je niet aanneemt kan een mobiel gesprek ook door een collega, de receptie, op de bedrijfsvoicemail. Gebruik keuzemenu’s, wachtrijen of call recording. Zo is de mobiele bereikbaarheid niet meer afhankelijk van de mobiele gebruiker zelf; de telefooncentrale regelt dit voortaan ook voor je. Uw bereikbaarheid neemt nog verder toe!
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564576567/vamoshandleiding-1_aufg0h.png)
 
@@ -30,11 +32,11 @@ Als u niet aanneemt kan een mobiel gesprek ook door een collega, de receptie, op
 
 Vamos onderscheidt zich van andere vast mobiel oplossingen door de ongekend eenvoudige app voor bediening. Eénmaal ingesteld kan de gebruiker de mobiele telefoon gebruiken zonder apps te openen.
 
-<h3>Bel vanaf uw mobiel rechtstreeks naar een collega op kantoor</h3>
+<h3>Bel mobiel naar intern nummer van de collega op kantoor</h3>
 
-Met Vamos kan vanaf de mobiele telefoon direct naar interne nummers van collega’s op kantoor worden gebeld. Zonder Vamos kon u naar externe nummers bellen, maar niet naar interne nummers. Dit is een voordeel van de integratie.
+Met Vamos kan vanaf de mobiele telefoon direct naar interne nummers van collega’s op kantoor worden gebeld. Zonder Vamos kon je naar externe nummers bellen, maar niet naar interne nummers. Dit is een voordeel van de integratie.
 
-<h3>Stel de belroute van mobiele gesprekken komen altijd goed terecht</h3>
+<h3>Mobiele gesprekken niet meer als stand-alone</h3>
 
 Vamos zorgt dat een mobiel telefoonnummer niet langer een stand-alone nummer is, los van de bedrijfstelefonie. Met de uitgebreide mogelijkheden van de Simmpl telefooncentrale kunt u heel precies het verloop, de ontvangst en doorschakeling van een mobiel gesprek worden ingesteld. Zo kan een mobiel nummer uitkomen bij een collega, groep collega’s, keuzemenu, wachtrij, voicemail, en dergelijke en is de bereikbaarheid van uw organisatie gewaarborgd.
 
@@ -85,30 +87,30 @@ Na het aanvragen van Vamos krijgt u van ons een SIM-kaart die u in eigen smartph
    Installeer de Smartphone app en log gemakkelijk in vanuit Qaller of met uw Simmpl gebruiksgegevens. Met Vamos stelt u met een druk op de knop in:
 
    \- welk toestel rinkelt bij een inkomend mobiel gesprek: vast, mobiel, beide  
-   \- welk nummer u meestuurt bij uitbellen: mobiel, vast of anoniem  
-     
+   \- welk nummer u meestuurt bij uitbellen: mobiel, vast of anoniem
+
    Bovendien belt u collega’s direct op hun interne nummer alsof u uw kantoortoestel gebruikt.  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1564576860/vamoshandleiding-2_kuzmbh.png)
 
 **Dit is mobiel bellen 2.0!**
 
-<h3>Is Vamos iets voor u?</h3>
+<h3>Is Vamos iets voor jou?</h3>
 
-Vamos biedt onbeperkt bellen in de EU met 2GB of 5GB data en kost 39,- resp. 45,- p/mnd. Geïnteresseerd? <a href="https://www.callvoiptelefonie.nl/mijncallvoip/aanvragen/aanvraag-vast-mobiel-vamos/" target="_blank">**Klik hier**</a> voor het Vamos aanvraagformulier.
+Vamos biedt onbeperkt bellen in de EU met 0GB, 2GB, 5GB of 10GB data (prijs 29,-, 39,-, 45,- of 49,- p/mnd). Geïnteresseerd? <a href="https://www.callvoiptelefonie.nl/mijncallvoip/aanvragen/aanvraag-vast-mobiel-vamos/" target="_blank">**Klik hier**</a> voor het Vamos aanvraagformulier.
 
 <h3>Veel gestelde vragen bij Vamos Vast-Mobiel:</h3>
 
 Q: **Kan ik mijn huidige Mobiele SIM en mobiel abonnement blijven gebruiken?**  
-A: Nee, de Vamos Vast-Mobiel oplossing vereist dat u de SIM van Callvoip gebruikt met het bijbehorende Vamos abonnement. U kunt uw huidige mobiele nummer behouden door dit naar Callvoip toe te porteren.
+A: Nee, de Vamos Vast-Mobiel oplossing vereist dat je de SIM van Callvoip gebruikt met het bijbehorende Vamos abonnement. Je kunt je huidige mobiele nummer behouden door dit naar Callvoip toe te porteren.
 
 Q: **Wat gebeurt er als iemand mijn mobiele nummer belt?**  
-A: Zodra u uw mobiele SIM-kaart heeft ontvangen, geplaatst en deze geactiveerd is in het panel wordt uw mobiele nummer gekoppeld aan uw Simmpl gebruikersprofiel. Als iemand uw mobiele nummer belt, zal het gesprek verlopen zoals u in uw persoonlijk belplan heeft aangegeven. Dit kunt u gemakkelijk aanpassen via de Qaller smartphone app. Met de Vamos app en in de panel kunt u eenvoudig bepalen of inkomende gesprekken moeten rinkelen op uw vaste toestel, mobiele toestel of op beide toestellen.
+A: Zodra je je mobiele SIM-kaart heeft ontvangen, geplaatst en deze geactiveerd is in het panel wordt je mobiele nummer gekoppeld aan je Callvoip gebruikersprofiel. Als iemand je mobiele nummer belt, zal het gesprek verlopen zoals je in je persoonlijke belplan ehbt aangegeven. Dit kun je gemakkelijk aanpassen via de Qaller smartphone app. Met de Vamos app en in de panel kun je eenvoudig bepalen of inkomende gesprekken moeten rinkelen op je vaste toestel, mobiele toestel of op beide toestellen.
 
 Q: **Kan ik mijn zaak-nummer meesturen als ik vanaf mijn mobiel uitbel?**  
-A: Jazeker, dat is mogelijk! Op de Simmpl centrale kunt u instellen dat u het zakelijke nummer meestuurt als u met uw mobiel uitbelt. Dit kan ook via de handige Vamos smartphone app.
+A: Jazeker, dat is mogelijk! Op de Callvoip centrale kun je instellen dat je het zakelijke nummer meestuurt als je met je mobiel uitbelt. Dit kan ook via de handige Vamos smartphone app.
 
 Q: **Hoe kan ik interne gesprekken voeren met mijn VAMOS SIM kaart?**  
-A: U kunt eenvoudig elk intern nummer bellen (bv 100 or 8300) door dit eenvoudigweg op uw mobiele telefoon in te toetsen, via de ‘native dialer’: **het is niet nodig hier een app voor te gebruiken.   
+A: Je kunt eenvoudig elk intern nummer bellen (bv 100 or 8300) door dit eenvoudigweg op je mobiele telefoon in te toetsen, via de ‘native dialer’: **het is niet nodig hier een app voor te gebruiken.  
 LET OP**: het is helaas niet mogelijk om verkorte nummer te bellen die:
 
 \- …starten met 00 > in dat geval kunt u de interne nummers wijzigen  
@@ -123,7 +125,7 @@ A: De mogelijkheid tot het ontvangen van wisselgesprekken is standaard geactivee
 \- **Bel naar #43#** om de wisselgesprek status te controleren
 
 Q: **Werkt Call Recording/gespreksopname ook bij bellen met de mobiele telefoon?**  
-A: Ja, als u Call Recording (gespreksopname) heeft ingeschakeld op de Simmpl centrale, dan worden gesprekken op uw vaste en op uw mobiele toestel opgenomen.
+A: Ja, als je Call Recording (gespreksopname) hebt ingeschakeld op de Callvoip centrale, dan worden gesprekken op je vaste en op je mobiele toestel opgenomen.
 
 Q: **Wat zijn de Vamos APN instellingen?**  
 A: Vamos maakt gebruik van een eigen Access Point Name (APN) voor algemene toegang tot het Internet. Deze APN moet ingesteld worden in de mobiele telefoon. Zonder deze instellingen kan de simkaart geen verbinding maken met het Internet.
