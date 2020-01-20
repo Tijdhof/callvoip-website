@@ -74,13 +74,14 @@ hero:
     zonder app, dus met de native dialer. De smartphone biedt hiermee eigenlijk dezelfde
     mogelijkheden als een IP toestel. Met de Vamos app bepaal je welk nummer moet
     worden meegezonden: vast, mobiel of geen nummer en kun je gesprekken doorverbinden.<BR><BR>Wij
-    zouden zeggen, Vamos! '
+    zeggen: Vamos! '
   button:
     content: Hier wil ik meer over weten
     link: "/offerte"
   image: "/v1565690795/vamos_evpkkg.png"
   image_position: start
   disable_image_on_mobile: false
+  mobile: ''
 intro:
   title: Wat zijn de kosten?
   content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in drie verschillende
