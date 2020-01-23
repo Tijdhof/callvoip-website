@@ -10,6 +10,7 @@ card:
     content: Soliciteer nu
 
 ---
+<div class="md:flex flex-row-reverse justify-between items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1570901743/koffie_only_vqedsv.png" alt=""></div>
 ![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/koffie_only_vqedsv.png)
 
 Callvoip is sinds 2007 aanbieder van VoIP diensten voor de zakelijk markt. Vanuit Groningen bedienen we klanten in heel Nederland. 
