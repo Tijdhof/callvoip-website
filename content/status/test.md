@@ -3,10 +3,10 @@ title: Meldingen
 error: false
 
 ---
-**Let op - gepland onderhoud:   
+**Let op - gepland onderhoud:**   
 Start: vrijdag 24 januari om 23.00 uur   
 Eind: zaterdag 25 januari om 06.00 uur  
-**Impact: gedurende het onderhoud is er de mogelijkheid van verminderde beschikbaarheid van het telefoonverkeer (toestellen, trunks, qaller en Vamos) en de panel gedurende max. 30 minuten. 
+**Impact:** gedurende het onderhoud is er de mogelijkheid van verminderde beschikbaarheid van het telefoonverkeer (toestellen, trunks, qaller en Vamos) en de panel gedurende max. 30 minuten. 
 
 ==================================
 
