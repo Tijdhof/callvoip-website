@@ -12,6 +12,7 @@ card:
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/koffie_only_vqedsv.png)
 
+
 Callvoip is sinds 2007 aanbieder van VoIP diensten voor de zakelijk markt. Vanuit Groningen bedienen we klanten in heel Nederland. 
 We zoeken voor de vacature van Sales/Supportmedewerker een enthousiaste kandidaat met een servicegerichte instelling en een groot verantwoordelijkheidsgevoel.
 
