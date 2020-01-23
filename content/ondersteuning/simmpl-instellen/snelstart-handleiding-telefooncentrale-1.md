@@ -4,6 +4,7 @@ weight: 1
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_snelstart_handleiding.pdf
+aliases: "/snelstart"
 
 ---
 **Gefeliciteerd**!
