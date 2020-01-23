@@ -19,8 +19,7 @@ Binnen support ben je samen met 4 collega’s werkzaam.
 
 **Je werkzaamheden:**
 
-* Je registreert binnenkomende verzoeken en helpt de klant met het beantwoorden van zijn vraag;
-* Indien je zelf de klant niet kunt helpen zet je het verzoek intern door en bewaak je de afhandeling van het verzoek door je collega’s;
+* Je registreert binnenkomende verzoeken en helpt de klant met het beantwoorden van zijn vraag; * Indien je zelf de klant niet kunt helpen zet je het verzoek intern door en bewaak je de afhandeling van het verzoek door je collega’s;
 * Je adviseert klanten bij het gebruik van de Callvoip oplossingen;
 * Je verleent ondersteuning aan de klanten in de verschillende telefonieoplossingen, bijvoorbeeld het opstellen van belmenu’s;
 * Je verwerkt offertes;
