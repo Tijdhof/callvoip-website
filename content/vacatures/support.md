@@ -20,8 +20,7 @@ De afdeling support is de spil van het bedrijf. Alle vragen, klachten en aanpass
 De afdeling is verantwoordelijk voor het registreren, opvolgen en bewaken van al deze verzoeken. 
 Binnen support ben je samen met 4 collega’s werkzaam.
 
-**Je werkzaamheden:**
-{{< usps >}}
+**Je werkzaamheden:**{{< usps >}}
 * Je registreert binnenkomende verzoeken en helpt de klant met het beantwoorden van zijn vraag; 
 * Indien je zelf de klant niet kunt helpen zet je het verzoek intern door en bewaak je de afhandeling van het verzoek door je collega’s;
 * Je adviseert klanten bij het gebruik van de Callvoip oplossingen;
