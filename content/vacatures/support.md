@@ -40,4 +40,5 @@ Binnen support ben je samen met 4 collega’s werkzaam.
 {{</ usps >}}
 **Callvoip biedt:**
 
-Wij bieden jou een sleutelrol binnen een informeel bedrijf. Daarbij is er voldoende ruimte voor je persoonlijke ontwikkeling en verdere verdieping van de functie.
+Wij bieden jou een sleutelrol binnen een informeel bedrijf. 
+Daarbij is er voldoende ruimte voor je persoonlijke ontwikkeling en verdere verdieping van de functie.
