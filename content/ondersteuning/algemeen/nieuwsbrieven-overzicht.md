@@ -13,6 +13,7 @@ hidesocialshare: false
 ---
 <h3>2020</h3>
 
+* <a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" target="_blank">Callvoip Feature Update – januari 2020</a>
 * <a href="http://callvoip.nl/email-whatsapp" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
 
 <h3>2019</h3>
