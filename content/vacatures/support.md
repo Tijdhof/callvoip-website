@@ -1,9 +1,7 @@
 ---
 title: Ben jij onze nieuwe collega Sales / Support?
 tag: vacature
-excerpt: De afdeling support is de spil van het bedrijf. Alle vragen, klachten en
-  aanpassingen komen binnen via deze afdeling. De afdeling is verantwoordelijk voor
-  het registreren, opvolgen en bewaken van al deze verzoeken.
+excerpt: Wij zoeken een sales/support held(-in)
 card:
   title: Sales / Supportmedewerker
   content: Ben jij een enthousiaste kandidaat met een servicegerichte instelling en
@@ -40,7 +38,7 @@ Het zal je niet verbazen dat wij, als telefonieprovider, dol zijn op bellen. :-)
 
 Advies geven over slimme oplossingen, gevraagd maar ook vooral ongevraagd, gaat je goed af. Je vraagt door en herkent behoeftes en verkoopkansen. Je handelt offertes af en zorgt ervoor dat nieuwe klanten meteen fan worden.
 
-## Wat krijg je van ons?
+### Wat krijg je van ons?
 
 Werken bij Callvoip betekent deel uitmaken van een enthousiast team. We delen graag onze kennis en je leert gegarandeerd een hoop over telefonie, internet en apparatuur. Als sales / support held(-in) heb je een sleutelrol binnen ons bedrijf. We hechten veel waarde aan persoonlijke ontwikkeling en geven dan ook ruimte voor verdere verdieping van de functie.
 
