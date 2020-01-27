@@ -34,15 +34,15 @@ Ben jij ook altijd op zoek naar de **vraag achter de vraag**? En word je ook zie
 
 ### Wat ga je doen als sales/support held(-in)?
 
-Het zal je niet verbazen dat wij, als telefonieprovider, dol zijn op bellen. :-) En onze klanten ook. Je handelt dan ook binnenkomende vragen en verzoeken af. Dat kan telefonisch, per chat of mail. Je zorgt ook altijd voor registratie intern en kom je er zelf niet uit, dan regel je dat de klant toch geholpen wordt. En je houdt dan natuurlijk ook in de gaten of alles goed verloopt bij de collega’s.
+Het zal je niet verbazen dat wij, als telefonieprovider, **dol** zijn **op bellen**. :-) En onze klanten ook. Je handelt dan ook binnenkomende vragen en verzoeken af. Dat kan telefonisch, per chat of mail. Je zorgt ook altijd voor registratie intern en kom je er zelf niet uit, dan regel je dat de **klant** toch **geholpen** wordt. En je houdt dan natuurlijk ook in de gaten of alles goed verloopt bij de collega’s.
 
-Advies geven over slimme oplossingen, gevraagd maar ook vooral ongevraagd, gaat je goed af. Je vraagt door en herkent behoeftes en verkoopkansen. Je handelt offertes af en zorgt ervoor dat nieuwe klanten meteen fan worden.
+**Advies** geven over slimme oplossingen, gevraagd maar ook vooral ongevraagd, gaat je goed af. Je vraagt door en herkent behoeftes en verkoopkansen. Je handelt offertes af en zorgt ervoor dat nieuwe klanten **meteen fan** worden.
 
 ### Wat krijg je van ons?
 
-Werken bij Callvoip betekent deel uitmaken van een enthousiast team. We delen graag onze kennis en je leert gegarandeerd een hoop over telefonie, internet en apparatuur. Als sales / support held(-in) heb je een sleutelrol binnen ons bedrijf. We hechten veel waarde aan persoonlijke ontwikkeling en geven dan ook ruimte voor verdere verdieping van de functie.
+Werken bij Callvoip betekent deel uitmaken van een **enthousiast team**. We delen graag onze kennis en je leert gegarandeerd een hoop over telefonie, internet en apparatuur. Als sales / support held(-in) heb je een **sleutelrol** binnen ons bedrijf. We hechten veel waarde aan persoonlijke ontwikkeling en geven dan ook ruimte voor verdere verdieping van de functie.
 
-Lunchen doen we samen en fruit is er in overvloed. Natuurlijk horen een passend salaris en fijne werkplek op ons kantoor er ook gewoon bij. Van tijd tot tijd een etentje met zijn allen vinden we ook erg leuk!
+Lunchen doen we samen en fruit is er in overvloed. Natuurlijk horen een passend salaris en fijne werkplek op ons kantoor er ook gewoon bij. Van tijd tot tijd een **etentje** met zijn allen vinden we ook erg leuk!
 
 Lijkt het je wat? Laat dan wat van je horen via onderstaande knop! Of bel ons, vinden we leuk. ;-)
 
