@@ -84,6 +84,8 @@ blocks:
         url: /overons/hetbedrijf/
       - title: Team
         url: /overons/team/
+      - title: Vacature Sales/Support
+        url: /vacatures/support/
       - title: Webshop
         url: /pages/webshop/
       - title: Succesverhalen
