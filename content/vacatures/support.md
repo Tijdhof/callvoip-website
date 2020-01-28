@@ -11,7 +11,7 @@ card:
     content: Soliciteer nu
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1570901743/koffie_only_vqedsv.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580219734/koffie_only_ri586c.png)
 
 ### Wie zijn wij?
 
