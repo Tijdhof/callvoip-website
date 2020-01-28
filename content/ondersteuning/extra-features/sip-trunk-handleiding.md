@@ -11,12 +11,14 @@ Update: true
 ---
 <h3>Handleiding SIP Trunk en een eigen VoIP telefooncentrale </h3>
 
+==================================================
+
 <h3>Nieuw: slimme Trunk Failover naar belplan</h3>
 
-De Callvoip Trunk Service is nu uitgerust met een slimme trunk failover:   
+De Callvoip Trunk Service is nu uitgerust met een slimme trunk failover:  
 \* maak een belplan aan met daarin de gewenste acties  
 \* bewerk een bestaande trunk  
-\* onderaan stap 1, onder de nummers, kun je de failover inschakelen: 
+\* onderaan stap 1, onder de nummers, kun je de failover inschakelen:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1580243576/trunk-failover_n2d8kp.jpg)
 
@@ -56,10 +58,10 @@ Callvoip heeft veiligheid hoog in het vaandel staan. Om je bij deze bescherming 
 * **IP Whitelist**: beperken van de toegang tot specifieke IP-s of subnetten, door uzelf in te vullen
 * **Destination Whitelist**: Het beperken van de bestemmingen waarnaar gebeld kan worden (regio, land, type telefoonnummer, prefix)
 * **Limits**: het beperken van het bedrag / aantal gesprekken per uur-dag-week als fraudebeperking. Dit wordt reeds bij uitgifte van uw klantomgeving ingesteld op 10-25-50 Euro en kan op uw verzoek worden aangepast. U krijgt een emailnotificatie als u 80% van deze waarde bereikt.
-* **Slimme Trunk Failover**: neemt de eigen centrale niet aan? Dan stuurt de Callvoip centrale het gesprek door naar een belplan met acties die je zelf kiest. 
+* **Slimme Trunk Failover**: neemt de eigen centrale niet aan? Dan stuurt de Callvoip centrale het gesprek door naar een belplan met acties die je zelf kiest.
 
 Op deze manier creëert Simmpl nog meer grip op veiligheid!
 
 <h3>Hoe stel je de trunk precies in?</h3>
 
-Klik rechts om de PDF handleiding te downloaden; daarin vindt je schermafbeeldingen en detail-informatie. 
+Klik rechts om de PDF handleiding te downloaden; daarin vindt je schermafbeeldingen en detail-informatie.
