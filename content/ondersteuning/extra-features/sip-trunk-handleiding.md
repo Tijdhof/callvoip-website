@@ -11,6 +11,17 @@ Update: true
 ---
 <h3>Handleiding SIP Trunk en een eigen VoIP telefooncentrale </h3>
 
+<h3>Nieuw: slimme Trunk Failover naar belplan</h3>
+
+De Callvoip Trunk Service is nu uitgerust met een slimme trunk failover:   
+\* maak een belplan aan met daarin de gewenste acties  
+\* bewerk een bestaande trunk  
+\* onderaan stap 1, onder de nummers, kun je de failover inschakelen: 
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1580243576/trunk-failover_n2d8kp.jpg)
+
+==================================================
+
 De Callvoip telefooncentrale is zelf een centrale met veel mogelijkheden. Een eigen telefooncentrale heb je dus in principe niet nodig. Toch kun je redenen hebben om deze wel te gebruiken, bv bij gebruik van specifieke integraties / koppelingen of uit oogpunt van kosten, beheer of (on-)afhankelijkheid.  
 De Callvoip centrale kan ook uitstekend worden gebruikt met eigen centrales.  
 Dit kan op twee manieren:
