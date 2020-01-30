@@ -107,4 +107,4 @@ Klik rechtsboven op je naam en check! Let op – dit wijzigt de taal waarin je d
 
 Vragen of suggesties over de vertalingen? Laat het ons weten!
 
-<a href="[https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf](https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf "https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf")" class="button">PDF Handleiding</a>
+<a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" class="button">PDF Handleiding</a>
