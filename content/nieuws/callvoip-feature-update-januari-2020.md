@@ -56,8 +56,8 @@ Log in op de panel als beheerder en ga naar de gebruiker, waarvoor je de Web Cal
 
 Zodra de Web Calls functie is ingeschakeld wordt het UC Panel van de gebruiker uitgerust met een oranje rondje met een dialpad (toetsenbord).
 
-\**Zie je de oranje toets niet? Verwijder dan de historie van je browser en probeer opnieuw!  
-\**  
+**Zie je de oranje toets niet? Verwijder dan de historie van je browser en probeer opnieuw!**  
+  
 Klik op dit icoon en er verschijnt een toetsenbord met daarboven een lijst met recente gesprekken.  
 Klik op een contact of toets een nummer in (intern of extern) en klik op de groene BEL-toets.  
 Je belt nu vanuit de browser, zónder een apparaat.  
