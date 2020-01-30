@@ -32,8 +32,8 @@ Houd vooral onze nieuwsbrieven en nieuwspagina in de gaten want er volgen meer u
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1580375622/wachtrij_check_r4yl3w.png)
 
-**1. Update van de wachtrij – periodieke positiemelding: “aantal wachtenden voor u”** 
+**1. Update van de wachtrij – periodieke positiemelding: “aantal wachtenden voor u”**
 
 Veel wachtrijgebruikers wachtten er al geruime tijd op en nu is het zover: vanaf kun je je wachtrijen voorzien van een periodieke positiemelding die bellers horen. Je kunt zelf instellen: * of de melding actief is of niet (als default staat de melding uit en is uw wachtrij zoals hij was) * of de positiemelidng voor of na de periodieke eigen meldtekst wordt afgespeeld * met welk tijdsinterval de melding wordt afgespeeld, bv elke 30 seconden Hoe stel ik de wachtrij positiemelding in? Log in als beheerder, ga naar de wachtrij, zet de aankondig
 
-<a href"https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" class="button">Meer informatie</a>
+<a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" class="button">Meer informatie</a>
