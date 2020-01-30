@@ -32,8 +32,22 @@ Houd vooral onze nieuwsbrieven en nieuwspagina in de gaten want er volgen meer u
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1580375622/wachtrij_check_r4yl3w.png)
 
-**1. Update van de wachtrij – periodieke positiemelding: “aantal wachtenden voor u”**
+**Update van de wachtrij – periodieke positiemelding: “aantal wachtenden voor u”**
 
 Veel wachtrijgebruikers wachtten er al geruime tijd op en nu is het zover: vanaf kun je je wachtrijen voorzien van een periodieke positiemelding die bellers horen. Je kunt zelf instellen: * of de melding actief is of niet (als default staat de melding uit en is uw wachtrij zoals hij was) * of de positiemelidng voor of na de periodieke eigen meldtekst wordt afgespeeld * met welk tijdsinterval de melding wordt afgespeeld, bv elke 30 seconden Hoe stel ik de wachtrij positiemelding in? Log in als beheerder, ga naar de wachtrij, zet de aankondig
 
 <a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" class="button">Meer informatie</a>
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1580376222/bellen_check_dqz31n.png)
+
+**Web calls deel 1 – Browser Based-bellen – uitbellen vanaf het UC Panel**
+
+ Browser Based bellen is een grote stap voorwaarts! Hiermee kun je bellen zonder dat je een apapraat nodig hebt: je hebt enkel je browser nodig en een headset die je op je computer aansluit. Deel I van browser based bellen is de mogelijkheid om naar buiten te bellen. Dit is klaar! Deel II wordt de mogelijkheid om ook gesprekken te kunnen ontvangen (verwacht: Q2 – 2020).
+
+<a href="[https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf](https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf "https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf")" class="button">Meer informatie</a>
+
+**Email app, fax- / voicemailnotificaties Nederlandstalig**
+
+Dit was eerder Engelstalig Was het je al opgevallen? De diverse notificatieberichten van de centrale zijn nu in het Nederlands: * email-app * voicemailnotificaties * faxnotificaties
+
+<a href="[https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf](https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf "https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf")" class="button">Meer informatie</a>
