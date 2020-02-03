@@ -24,19 +24,19 @@ Tijdens de vergadering beschikken moderator en deelnemer over een aantal instrum
 
 ### Controls voor moderator en deelnemers
 
-* #             Laat een overzicht van de beschikbare ‘controls’ horen 
-* *1              Mute / cancel mute (schakel uw microfoon uit resp. aan) 
-* *2              Schakel vermelding van nieuwe deelnemers aan resp. uit 
-* *3              Laat horen welke deelnemers op de vergadering zijn ingelogd 
-* *7              Zet het volume zachter 
-* *9              Zet het volume harder
+* **#**             Laat een overzicht van de beschikbare ‘controls’ horen 
+* ***1**              Mute / cancel mute (schakel uw microfoon uit resp. aan) 
+* ***2**              Schakel vermelding van nieuwe deelnemers aan resp. uit 
+* ***3**              Laat horen welke deelnemers op de vergadering zijn ingelogd 
+* ***7**              Zet het volume zachter 
+* ***9**              Zet het volume harder
 
 ### Extra controls voor de moderator
 
-* *8 + tel.nr.    Nodig een nieuwe deelnemer bij de vergadering uit 
-* *30             Beëindig de vergadering voor alle deelnemers 
-* *31             Beëindig de vergadering voor de laatst gekomen deelnemer 
-* *21             Blokkeer de vergadering voor nieuwe deelnemers 
-* *20             Deblokkeer de vergadering en laat nieuwe deelnemers tot de vergadering toe 
-* *11             Schakel de microfoon van alle deelnemers uit 
-* *10             Schakel de microfoon van alle deelnemers weer in
+* ***8 + tel.nr.**    Nodig een nieuwe deelnemer bij de vergadering uit 
+* ***30**             Beëindig de vergadering voor alle deelnemers 
+* ***31**             Beëindig de vergadering voor de laatst gekomen deelnemer 
+* ***21**             Blokkeer de vergadering voor nieuwe deelnemers 
+* ***20**             Deblokkeer de vergadering en laat nieuwe deelnemers tot de vergadering toe 
+* ***11**             Schakel de microfoon van alle deelnemers uit 
+* ***10**             Schakel de microfoon van alle deelnemers weer in
