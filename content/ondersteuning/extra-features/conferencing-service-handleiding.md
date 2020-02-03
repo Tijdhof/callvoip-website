@@ -23,7 +23,7 @@ Met de Callvoip Conferencing Service kunt u telefonisch vergaderen met een groep
 Tijdens de vergadering beschikken moderator en deelnemer over een aantal instrumenten ofwel ‘controls’. Hieronder vindt u een overzicht:
 
 Controls voor moderator en deelnemers
-#               Laat een overzicht van de beschikbare ‘controls’ horen
+'#'             Laat een overzicht van de beschikbare ‘controls’ horen
 *1              Mute / cancel mute (schakel uw microfoon uit resp. aan)
 *2              Schakel vermelding van nieuwe deelnemers aan resp. uit
 *3              Laat horen welke deelnemers op de vergadering zijn ingelogd
