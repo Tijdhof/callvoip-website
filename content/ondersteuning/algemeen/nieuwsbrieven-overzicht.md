@@ -9,6 +9,7 @@ Update: false
 pdf: ''
 hideingoogle: false
 hidesocialshare: false
+aliases: "/nieuwsbrieven"
 
 ---
 <h3>2020</h3>
