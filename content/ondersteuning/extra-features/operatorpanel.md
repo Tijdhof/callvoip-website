@@ -19,7 +19,7 @@ We hopen dat deze updates zullen bijdragen aan een nóg groter gebruiksgemak van
 
 Team Callvoip
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566208781/operatorconsole-1_ehyswc.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975511/img_1_mwke7d.png)
 
 <h3>Operator Console</h3>
 
@@ -111,7 +111,7 @@ Om een Call List toe te voegen, ga naar ADD WIDGET en kies CALL LIST uit de lijs
 
 Als u klaar bent, klik op PROCEED rechtsboven om het widget op het console te plaatsen. Sleep de widget op de gewenste plek op het raster; wijzig de grootte van de widget met de handlebar in de rechter onderhoek van de widget.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566218544/operatorconsole-15_bqpsmz.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975544/img_2_vfxgl2.png)
 
 <h3>Phonebook Widget</h3>
 
@@ -122,7 +122,7 @@ U kunt deze gebruikers bellen, gesprekken overnemen en naar hen doorverbinden.
 
 Het Phonebook ziet er als volgt uit:
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566218806/operatorconsole-17_epdkao.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975565/img_3_qqte3j.png)
 
 Om een Phonebook toe te voegen, klik op **ADD WIDGET** en kies **PHONEBOOK** uit de lijst van beschikbare widgets. U kunt nu kiezen welke gebruikers, groepen en belplannen u in dit **PHONEBOOK** wilt opnemen. U kunt er ook voor kiezen om ALLE gebruikers en belplannen op te nemen.
 
@@ -136,7 +136,7 @@ Als u klaar bent, klik op PROCEED rechtsboven om het widget op het console te pl
 * neem aan en u belt uit naar de collega
 * dit werkt voor interne en externe nummers
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566218973/operatorconsole-18_boscly.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975585/img_4_gp3f77.png)
 
 **Een inkomend gesprek doorverbinden via het Operator Panel**:
 
@@ -167,7 +167,7 @@ De Queue Widget wordt in de Operator Console getoond met een statistiek.
 
 Klik op de statistiek en u krijgt in een apart venster een close up van de wachtrij:
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566219647/operatorconsole-23_fijzkd.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975603/img_5_fldloh.png)
 
 <h3>Wachtrij Widet / Queue Widget</h3>
 
@@ -190,9 +190,9 @@ Deze Console Widget biedt het volgende:
 * Real-time overzicht van de agents
 * Agent acties uitvoeren
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566220012/operatorconsole-24_z9fk0j.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975619/img_6_py1jmg.png)
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566220068/operatorconsole-25_wp9aap.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975632/img_7_g5vhsq.png)
 
 <h3>Geavanceerde wachtrij features: meeluisteren, influisteren, inbreken, overnemen</h3>
 
@@ -218,11 +218,11 @@ De My Calls Widget toont een overzicht van uw eigen actieve gesprekken en biedt 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566223463/operatorconsole-28_nbtjpj.png)
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566223537/operatorconsole-29_mv2byd.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975651/img_8_mn648z.png)
 
 <h3>Operator Panel in beeld:</h3>
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1566223617/operatorconsole-30_omvegu.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1580975667/img_9_qbk3mu.png)
 
 Wij hopen dat deze updates meerwaarde bieden voor uw gebruikssituatie!  
 Uw ervaringen, suggesties voor uitbreidingen, meldingen van onvolkomenheden of storingen zijn zeer welkom. Mail het ons op: callvoip@callvoip.nl
