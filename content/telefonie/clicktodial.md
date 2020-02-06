@@ -17,7 +17,7 @@ hero:
   button:
     content: Offerte aanvragen
     link: "/offerte/"
-  image: "/v1567498458/clicktdial_bweq3w.png"
+  image: "/v1580985070/clicktdial_bweq3w_b3m3gw.png"
   image_position: start
   disable_image_on_mobile: false
   mobile: ''
