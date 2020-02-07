@@ -1,5 +1,5 @@
 ---
-title: Ben jij onze nieuwe commerciële hulpsheriff
+title: Ben jij onze nieuwe commerciële hulpsheriff?
 tag: vacature
 excerpt: Wij zoeken een sales/support held(-in)
 card:
