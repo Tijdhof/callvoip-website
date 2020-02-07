@@ -1,9 +1,9 @@
 ---
-title: Ben jij onze nieuwe collega Sales / Support?
+title: Ben jij onze nieuwe commerciële hulpsheriff
 tag: vacature
 excerpt: Wij zoeken een sales/support held(-in)
 card:
-  title: Sales / Supportmedewerker
+  title: Commerciële hulpsheriff
   content: Ben jij een enthousiaste kandidaat met een servicegerichte instelling en
     een groot verantwoordelijkheidsgevoelzijn? Dan wij op zoek naar jou!
   link:
@@ -11,8 +11,6 @@ card:
     content: Soliciteer nu
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1580219734/koffie_only_ri586c.png)
-
 ### Wie zijn wij?
 
 Wij zijn **Callvoip** en leveren uitgekiende, zakelijke telefonie. Wij worden blij van onze klanten en doen dan ook alles om hun bereikbaarheid zo goed mogelijk te regelen. Ons kantoor zit in Groningen maar onze klanten in het hele land. We doen dit al **meer dan 10 jaar** en zijn er dan ook **behoorlijk goed** in geworden. Dus we nemen geen genoegen met een zesje.
