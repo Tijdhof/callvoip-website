@@ -38,13 +38,6 @@ team:
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
   linkedin: ''
-- content: Maakt graag klanten van leads. Denkt en veert mee maar geeft ook advies.
-    Eet vermoedelijk een doos eieren per dag. ’t Is een raadsel hoe, maar kijkt zowel
-    golf als Formule 1.
-  function: Commercieel Medewerker
-  name: Lennart Swennenhuis
-  image: "/v1567159537/lennart_lshqcz.png"
-  linkedin: https://www.linkedin.com/in/lennart-swennenhuis-916027103/
 - content: Vindt het leuk om jouw probleem op te lossen. Zeer behulpzaam te noemen.
     Was al Formule 1 fan, maar rijdt zelf liever op twee wielen.
   function: Commercieel Medewerker
