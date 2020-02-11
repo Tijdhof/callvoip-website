@@ -1,6 +1,6 @@
 ---
 title: Tour aanvraag ontvangen
-url: ''
+url: 'bedank/tour'
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: ''
