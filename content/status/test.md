@@ -4,8 +4,9 @@ error: false
 
 ---
 **12 feb 2020 - momenteel is er een storing met Callvoip DSL verbindingen**  
-Technici zijn op de hoogte en werken aan een oplossing. Meer informatie volgt.   
-Wilt u een omleiding instellen, gebruik uw Qaller app of stuur ons een email zodat wij u assisteren. Welk nummer en waar het naartoe moet. 
+Technici zijn op de hoogte en werken aan een oplossing. Meer informatie volgt.  
+  
+> Wilt u een omleiding instellen (bv naar mobiel), gebruik uw Qaller app of stuur ons een email zodat wij u assisteren. Welk nummer moet wat doen: bv email app, en doorschakeling naar mobiel, evt voicemail. 
 
 ==================================
 
