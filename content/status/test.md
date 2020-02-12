@@ -6,6 +6,9 @@ error: false
 **12 feb 2020 | 14.10 uur   
 Momenteel is er een landelijke storing met KPN internet (DSL, glas)**  
   
+18\.30 | Er wordt nog altijd aan de oplossing van de verstoring gewerkt. Wij verwachten dat internet in de loop van de avond weer zal werken.   
+Als dat het geval is, en u heeft morgen nog géén werkende internetverbinding heeft, raden wij u aan om uw modem min. 30 seconden van de stroom af te halen en weer aan te sluiten. Werkt het dan nog niet, doe hetzelfde met de switch (30 sec uit, weer aan) en daarna uw toestellen (30 sec uit, en weer aan).   
+  
 16\.30 | De oorzaak van de verstoringen is gevonden en er wordt gewerkt aan het oplossen hiervan. De verstoring blijft naar verwachting het komende uur nog van kracht.  
 
 15\.30 | Het onderzoek bij KPN is in volle gang; zodra er nieuws bekend is en evt meer informatie over een oplossingstermijn, laten we u dat gelijk weten. Het is niet de verwachting dat dit binnen het uur is. 
