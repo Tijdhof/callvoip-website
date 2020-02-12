@@ -3,8 +3,12 @@ title: Meldingen
 error: false
 
 ---
-**12 feb 2020 - momenteel is er een landelijke storing met KPN internet (DSL, glas)**  
-KPN is op de hoogte en werkt aan een oplossing. Meer informatie volgt.  
+**12 feb 2020 | 14.10 uur   
+Momenteel is er een landelijke storing met KPN internet (DSL, glas)**  
+  
+15\.30 | Het onderzoek bij KPN is in volle gang; zodra er nieuws bekend is en evt meer informatie over een oplossingstermijn, laten we u dat gelijk weten. Het is niet de verwachting dat dit binnen het uur is. 
+
+14\.30 | KPN is op de hoogte en werkt aan een oplossing. Meer informatie volgt.  
 Het is nog niet mogelijk een prognose of doorlooptijd te geven.   
 Zie: [https://allestoringen.nl/storing/kpn/](https://allestoringen.nl/storing/kpn/ "https://allestoringen.nl/storing/kpn/")  
   
