@@ -3,9 +3,10 @@ title: Meldingen
 error: false
 
 ---
-**12 feb 2020 - momenteel is er een storing met Callvoip DSL verbindingen**  
-Technici zijn op de hoogte en werken aan een oplossing. Meer informatie volgt.  
+**12 feb 2020 - momenteel is er een landelijke storing met KPN internet (DSL, glas)**  
+KPN is op de hoogte en werkt aan een oplossing. Meer informatie volgt.  
 Het is nog niet mogelijk een prognose of doorlooptijd te geven.   
+Zie: [https://allestoringen.nl/storing/kpn/](https://allestoringen.nl/storing/kpn/ "https://allestoringen.nl/storing/kpn/")  
   
 NB er is GEEN storing met de telefonie, enkel met internet. U kunt dus doorschakelen naar bv een ander (mobiel) nummer. Dit kunt u met Qaller doen of u kunt ons een email / chat sturen zodat we u assisteren.   
 Geef dan door: welk nummer moet doorschakelen, en wat moet er gebeuren (bv email sturen, dan doorschakelen naar mobiel, evt voicemail).  
