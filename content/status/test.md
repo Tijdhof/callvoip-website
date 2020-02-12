@@ -6,6 +6,8 @@ error: false
 **12 feb 2020 | 14.10 uur   
 Momenteel is er een landelijke storing met KPN internet (DSL, glas)**  
   
+16\.30 | De oorzaak van de verstoringen is gevonden en er wordt gewerkt aan het oplossen hiervan. De verstoring blijft naar verwachting het komende uur nog van kracht.  
+
 15\.30 | Het onderzoek bij KPN is in volle gang; zodra er nieuws bekend is en evt meer informatie over een oplossingstermijn, laten we u dat gelijk weten. Het is niet de verwachting dat dit binnen het uur is. 
 
 14\.30 | KPN is op de hoogte en werkt aan een oplossing. Meer informatie volgt.  
