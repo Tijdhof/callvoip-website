@@ -3,9 +3,8 @@ title: Meldingen
 error: false
 
 ---
-**Let op - gepland onderhoud: succesvol uitgevoerd**  
-Het geplande onderhoud van 24 januari is succesvol uitgevoerd.  
-Wij informeren je binnenkort over nieuwe mogelijkheden!
+**12 feb 2020 - momenteel is er een storing met Callvoip DSL verbindingen**  
+Technici zijn po de hoogte en werken aan een oplossing. Meer informatie volgt. 
 
 ==================================
 
