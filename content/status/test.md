@@ -6,7 +6,11 @@ error: false
 **12 feb 2020 | 14.10 uur  
 Momenteel is er een landelijke storing met KPN internet (DSL, glas)**
 
-20:45 | De storing is verholpen, alle internetverbindingen zijn weer aktief. Indien toestellen zich nog niet registreren, is het advies de netwerkapparatuur en de toestellen te herstarten door eerst alles uit te schakelen, ca. 30 sec. te wachten en daarna weer in te schakelen in de volgende volgorde: eerst het modem, daarna eventueel de switch(es) en daarna de toestellen.
+20:45 | De storing is verholpen, alle internetverbindingen zijn weer aktief. Indien toestellen zich nog niet registreren, is het advies de netwerkapparatuur en de toestellen te herstarten door eerst alles uit te schakelen, ca. 30 sec. te wachten en daarna weer in te schakelen in de volgende volgorde: eerst het modem, daarna eventueel de switch(es) en daarna de toestellen.   
+  
+Mocht de impact van een internetstoring te grote overlast meebrengen, overweeg dan een tweede backupverbinding.  
+Ook is het verstandig om te kijken hoe je, in zo’n situatie, snel de telefonie paraat kunt maken, bv voorbereiding van een ‘nood-‘schakelaar naar een meldtekst technische storing (zie bibliotheek), de email app, en een doorschakeling naar mobiel; en voor mensen die zakelijk moeten kunnen blijven bellen het gebruik van de Qaller app.   
+We denken hierin graag mee.
 
 18\.30 | Er wordt nog altijd aan de oplossing van de verstoring gewerkt. Wij verwachten dat internet in de loop van de avond weer zal werken.  
 Als dat het geval is, en u heeft morgen nog géén werkende internetverbinding heeft, raden wij u aan om uw modem min. 30 seconden van de stroom af te halen en weer aan te sluiten. Werkt het dan nog niet, doe hetzelfde met de switch (30 sec uit, weer aan) en daarna uw toestellen (30 sec uit, en weer aan).
