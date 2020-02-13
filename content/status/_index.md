@@ -5,7 +5,7 @@ hero:
   disable_image_on_mobile: false
 items:
 - title: Callvoip Internet
-  status: false
+  status: true
 - title: Online telefooncentrale
   status: true
 - title: Trunk
