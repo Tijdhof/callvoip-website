@@ -38,7 +38,7 @@ Denkt u bijvoorbeeld aan de volgende toepassingen:
 
 {{< layout/column2 >}}
 
-![API](https://www.callvoiptelefonie.nl/wp-content/uploads/2017/02/seamless-integration-icon.png)
+![API]
 
 {{</ layout/column2 >}}
 
