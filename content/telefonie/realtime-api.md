@@ -38,7 +38,6 @@ Denkt u bijvoorbeeld aan de volgende toepassingen:
 
 {{< layout/column2 >}}
 
-![API]
 
 {{</ layout/column2 >}}
 
