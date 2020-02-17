@@ -4,13 +4,11 @@ error: false
 
 ---
 **17 feb 2020, 09.30 | Click-to-Dial update  
-Let op: Click to Dial tijdelijk niet werkend, herstel later deze week!**
+  
+Let op:** Click to Dial is geupdate maar werkt helaas niet naar behoren. Zo is er geen adresboekkoppeling en is her-aanmelden niet mogelijk.   
+  
+**Advies:** doe geen aanpassingen aan Click to Dial en houdt u deze site in de gaten; wij berichten u zsm over de update die Click to Dial weer goed laat werken. Dit is naar verwachting later deze week. 
 
-Callvoip Click to Dial is vernieuwd: het icoontje is blauw en er zijn diverse extra mogelijkheden. Helaas is er de update nog niet compleet.   
-  
-**Wij adviseren u tot nader bericht even geen gebruik van Click to Dial te maken.**   
-**We verwachten later deze week een nieuwe Click to Dial update die alles conform verwachting zal laten werken.**   
-  
 Onze excuses voor het ongemak!
 
 ==================================
