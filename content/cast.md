@@ -1,29 +1,32 @@
 ---
-layout: hetbedrijf
-title: Callvoip Casts
+title: 'Callvoip Cast'
+url: casts
+type: page
+searchtags:
+    - casts
 hero:
-  image: "/v1573217117/hetbedrijf_mpm5ez.png"
-  disable_image_on_mobile: false
-intro:
-  content: "<strong>Callvoip casts:</strong> Handige instructie filmpjes over de telefooncentrale."
-  title: Callvoip Casts
+  image: "/v1570097106/tour_banner_d1pxgf.png"
+  title: Tour in de online centrale
+  mobile: "/v1570097106/mobile_tour_qwvurb.png"
+  link: ''
+description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
+  Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
+images:
+- "/v1567165784/icon_hwk0eh.png"
+layout: landing
+textblocks:
+- content1: ''
+  title1: ''
+  title2: ''
+  top_title: ' '
+  top_content: "Zullen we samen kort kijken wat voor jouw specifieke situatie de beste telefonieoplossing is?<br>Doen we meteen de grand
+  tour door onze centrale. Geef ons een half uurtje en we laten jou zien<br>waarom wij zo enthousiast zijn."
+  content2: ''
+  show_vshape: true
 blocks:
-- content: |-
-    <p>Wij zijn Callvoip, VoIP-provider voor de zakelijke markt. We voorzien professionele telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van onze telefoniedienst.
-
-    Een overstap van traditionele telefonie naar VoIP telefonie is een complex traject. Dankzij <b>meer dan 10 jaar ervaring</b> en een uitgebreid netwerk van betrouwbare partners, kunnen wij dit complexe traject uitstekend begeleiden en managen. Verder hebben we uitgebreide kennis van de apparatuur die we leveren, zodat we iedere klant goed en snel van dienst kunnen zijn.</p>
-  image: "/v1559804645/_MG_9000.jpg"
-  position: image_left
-  title: Wie wij zijn
-- content: |-
-    <p>Callvoip is de zakelijke telefonieprovider waar persoonlijk contact centraal staat. We voelen en nemen de verantwoordelijkheid voor de situatie van de klant en hechten belang aan een persoonlijk contact met onze klanten. Daardoor hebben we een plezierig contact met veel klanten. We vinden het belangrijk dat de klant een plezierig gevoel aan het gesprek overhoudt. Maak daarom kennis met het team en weet wie u aan de lijn heeft:</p>
-  image: "/v1559804581/_MG_8702.jpg"
-  position: " image_right"
-  title: Wie heeft u aan de lijn?
-description: Callvoip is de telefonieprovider voor de zakelijke markt. De beste telefonieoplossing
-  en persoonlijk contact staan bij ons centraal.
-images: []
-hideinsearch: false
-hideingoogle: false
-hidesocialshare: false
+- title: 'Zakelijke telefonie, veilig in de cloud'
+  content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!<br><br>
+  <a href="/telefonie/hostedvoip" class="button">Ontdek Hosted VoIP</a>'
+  position: image_right
+  image: "/v1570098498/wolk_pklb2v.png"
 ---
