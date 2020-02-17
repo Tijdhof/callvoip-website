@@ -5,7 +5,7 @@ error: false
 ---
 **17 feb 2020, 09.30 | Click-to-Dial update  
   
-Let op:** Click to Dial is geupdate maar werkt helaas niet naar behoren. Zo is er geen adresboekkoppeling en is her-aanmelden niet mogelijk.   
+Let op:** Click to Dial is geupdate maar werkt helaas niet naar behoren. Zo is er geen adresboek-koppeling en is her-aanmelden niet mogelijk.   
   
 **Advies:** doe geen aanpassingen aan Click to Dial en houdt u deze site in de gaten; wij berichten u zsm over de update die Click to Dial weer goed laat werken. Dit is naar verwachting later deze week. 
 
