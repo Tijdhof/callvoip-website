@@ -4,11 +4,7 @@ hero:
   image: "/v1566566520/status_jq3tzw.png"
   disable_image_on_mobile: false
 items:
-- title: Callvoip Internet
-  status: true
 - title: Online telefooncentrale
-  status: true
-- title: Trunk
   status: true
 - title: Inkomende gesprekken
   status: true
@@ -21,6 +17,12 @@ items:
 - title: Qaller Smartphone app
   status: true
 - title: Vamos Vast-Mobiel
+  status: true
+- title: Click-to-Dial
+  status: true
+- title: Trunk
+  status: true
+- title: Callvoip Internet
   status: true
 contentTop: Op deze pagina vindt u de status van de verschillende onderdelen van Simmpl,
   de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
