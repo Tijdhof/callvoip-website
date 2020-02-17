@@ -4,6 +4,8 @@ hero:
   image: "/v1566566520/status_jq3tzw.png"
   disable_image_on_mobile: false
 items:
+- title: Click-to-Dial
+  status: false
 - title: Online telefooncentrale
   status: true
 - title: Inkomende gesprekken
@@ -18,8 +20,6 @@ items:
   status: true
 - title: Vamos Vast-Mobiel
   status: true
-- title: Click-to-Dial
-  status: false
 - title: Trunk
   status: true
 - title: Callvoip Internet
