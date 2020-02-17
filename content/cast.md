@@ -7,7 +7,7 @@ searchtags:
     - casts
 hero:
   image: "/v1570097106/casts_header_ospidn.png"
-  title: Tour in de online centrale
+  title: Callvoip Casts instructie Videos
   mobile: "/v1570097106/casts_header_ospidn.png"
   link: ''
 description: Callvoip casts, handige instructie videos over de telefooncentrale van Callvoip.
