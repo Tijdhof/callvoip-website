@@ -1,5 +1,5 @@
 ---
-title: SRTP (Vesleutelde gesprekken) opzeggen
+title: SRTP (Versleutelde gesprekken) opzeggen
 url: "/opzeggen/srtp/"
 hideinsearch: true
 hideingoogle: true
