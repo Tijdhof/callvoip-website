@@ -3,7 +3,7 @@ title: Meldingen
 error: false
 
 ---
-**17 feb 2020, 09.30 | Click-to-Dial update  
+**17 feb 2020, 09.30 | Click-to-Dial update:  
   
 Let op:** Click to Dial is geupdate maar werkt helaas niet naar behoren. Zo is er geen adresboek-koppeling en is her-aanmelden niet mogelijk.   
   
