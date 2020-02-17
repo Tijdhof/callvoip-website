@@ -3,30 +3,15 @@ title: Meldingen
 error: false
 
 ---
-**12 feb 2020 | 14.10 uur  
-Momenteel is er een landelijke storing met KPN internet (DSL, glas)**
+**17 feb 2020, 09.30 | Click-to-Dial update  
+Let op: Click to Dial tijdelijk niet werkend, herstel later deze week!**
 
-20:45 | De storing is verholpen, alle internetverbindingen zijn weer aktief. Indien toestellen zich nog niet registreren, is het advies de netwerkapparatuur en de toestellen te herstarten door eerst alles uit te schakelen, ca. 30 sec. te wachten en daarna weer in te schakelen in de volgende volgorde: eerst het modem, daarna eventueel de switch(es) en daarna de toestellen.   
+Callvoip Click to Dial is vernieuwd: het icoontje is blauw en er zijn diverse extra mogelijkheden. Helaas is er de update nog niet compleet.   
   
-Mocht de impact van een internetstoring te grote overlast meebrengen, overweeg dan een tweede backupverbinding.  
-Ook is het verstandig om te kijken hoe je, in zo’n situatie, snel de telefonie paraat kunt maken, bv voorbereiding van een ‘nood-‘schakelaar naar een meldtekst technische storing (zie bibliotheek), de email app, en een doorschakeling naar mobiel; en voor mensen die zakelijk moeten kunnen blijven bellen het gebruik van de Qaller app.   
-We denken hierin graag mee.
-
-18\.30 | Er wordt nog altijd aan de oplossing van de verstoring gewerkt. Wij verwachten dat internet in de loop van de avond weer zal werken.  
-Als dat het geval is, en u heeft morgen nog géén werkende internetverbinding heeft, raden wij u aan om uw modem min. 30 seconden van de stroom af te halen en weer aan te sluiten. Werkt het dan nog niet, doe hetzelfde met de switch (30 sec uit, weer aan) en daarna uw toestellen (30 sec uit, en weer aan).
-
-16\.30 | De oorzaak van de verstoringen is gevonden en er wordt gewerkt aan het oplossen hiervan. De verstoring blijft naar verwachting het komende uur nog van kracht.
-
-15\.30 | Het onderzoek bij KPN is in volle gang; zodra er nieuws bekend is en evt meer informatie over een oplossingstermijn, laten we u dat gelijk weten. Het is niet de verwachting dat dit binnen het uur is.
-
-14\.30 | KPN is op de hoogte en werkt aan een oplossing. Meer informatie volgt.  
-Het is nog niet mogelijk een prognose of doorlooptijd te geven.  
-Zie: [https://allestoringen.nl/storing/kpn/](https://allestoringen.nl/storing/kpn/ "https://allestoringen.nl/storing/kpn/")
-
-NB er is GEEN storing met de telefonie, enkel met internet. U kunt dus doorschakelen naar bv een ander (mobiel) nummer. Dit kunt u met Qaller doen of u kunt ons een email / chat sturen zodat we u assisteren.  
-Geef dan door: welk nummer moet doorschakelen, en wat moet er gebeuren (bv email sturen, dan doorschakelen naar mobiel, evt voicemail).
-
-Onze welgemeende excuses voor het ongemak.
+**Wij adviseren u tot nader bericht even geen gebruik van Click to Dial te maken.**   
+**We verwachten later deze week een nieuwe Click to Dial update die alles conform verwachting zal laten werken.**   
+  
+Onze excuses voor het ongemak!
 
 ==================================
 
