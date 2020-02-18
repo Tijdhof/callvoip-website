@@ -26,12 +26,13 @@ blocks:
   title: 'Web Calls – wat is er nodig?'
   image_position: center
 - content: |-
-    Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken worden ontvangen op het zakelijke vaste nummer. Hiermee kan elke smartphone worden ingezet als volwaardig kantoortoestel.<BR> De prijs van <B>Qaller Plus</B> is gelijk aan de <B>prijs van een toestelaccount</B>.
-    <br><br>
-    <a target="_blank" href="https://www.callvoip.nl/calculator/" class="button">Wat kost dat?</a>
+    'Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale.
+  Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in
+  de wacht zetten.
+  Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst.'
   image: "/v1572860986/qaller_plus_zugzu5.png"
   position: ''
-  title: 'Qaller Plus: de smartphone als kantoortoestel'
+  title: 'Web Call: bellen zonder beperkingen'
   image_position: ''
 prijzen:
 - title: Qaller
