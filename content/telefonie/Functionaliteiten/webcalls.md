@@ -3,7 +3,7 @@ title: Webcalls | Browser Bases Bellen
 type: page
 layout: default
 logos: true
-aliases: "/webcalls2"
+aliases: "/webcalls"
 hero:
   title: Bellen zonder telefoon? Web Calls!
   content: "Web Calls biedt je de flexibiliteit van bellen met je computer, laptop of tablet.
@@ -21,7 +21,7 @@ blocks:
     Chrome) en speakers + microfoon om te horen en te praten. Het is niet nodig om software te installeren, en dus zijn driverproblemen
     ook verleden tijd. Zet Web Calls met één klik aan op de telefooncentrale, log in en je kunt binnen 1 minuut aan de slag!<BR><BR>
     <a target="_blank" href="https://www.callvoip.nl/ondersteuning/extra-features/handleiding-web-calls/" class="button">Hoe werkt het?</a>'
-  image: "/v1572861318/qaller_uitleg_pijltjes_cmzthl.png"
+  image: "/v1572861318/webcalls_ejtcdu.png"
   position: image_left
   title: 'Web Calls – wat is er nodig?'
   image_position: center
