@@ -22,4 +22,8 @@ tags: []
 draft: true
 
 ---
+Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn veel ondernemers dan tijdelijk even met wat anders bezig. Reden om de tent tijdelijk telefonisch te sluiten. En wij regelen dat natuurlijk graag!  
+
+Marieke kreeg zelfs een echte Prins Carnaval aan de lijn! En dat leverde een feestelijk gesprek op! 
+
     <iframe src="https://www.youtube.com/embed/Vef3Kv4QZeM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
