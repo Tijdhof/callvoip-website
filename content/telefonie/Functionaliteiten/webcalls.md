@@ -5,7 +5,7 @@ layout: default
 logos: true
 aliases: "/webcalls2"
 hero:
-  title: DBellen zonder telefoon? Web Calls!
+  title: Bellen zonder telefoon? Web Calls!
   content: "Web Calls biedt je de flexibiliteit van bellen met je computer, laptop of tablet.
   Zo ben je superflexibel! En dus ideaal voor thuiswerk, onderweg of voor een snelle extra werkplek.
   Maar ook als je telefonie nodig hebt op bijzondere plaatsen, zoals in het datacenter."
@@ -26,10 +26,7 @@ blocks:
   title: 'Web Calls – wat is er nodig?'
   image_position: center
 - content: |-
-    'Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale.
-  Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in
-  de wacht zetten.
-  Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst.'
+    "Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale. Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in de wacht zetten. Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst."
   image: "/v1572860986/qaller_plus_zugzu5.png"
   position: ''
   title: 'Web Call: bellen zonder beperkingen'
