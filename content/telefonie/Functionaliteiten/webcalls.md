@@ -6,9 +6,9 @@ logos: true
 aliases: "/webcalls2"
 hero:
   title: DBellen zonder telefoon? Web Calls!
-  content: Web Calls biedt je de flexibiliteit van bellen met je computer, laptop of tablet.
+  content: "Web Calls biedt je de flexibiliteit van bellen met je computer, laptop of tablet.
   Zo ben je superflexibel! En dus ideaal voor thuiswerk, onderweg of voor een snelle extra werkplek.
-  Maar ook als je telefonie nodig hebt op bijzondere plaatsen, zoals in het datacenter.
+  Maar ook als je telefonie nodig hebt op bijzondere plaatsen, zoals in het datacenter."
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   image_position: center
   disable_image_on_mobile: false
