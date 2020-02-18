@@ -26,5 +26,4 @@ Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn
 
 Marieke kreeg zelfs een echte Prins Carnaval aan de lijn! En dat leverde een feestelijk gesprek op! 
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe src="https://www.youtube.com/embed/Vef3Kv4QZeM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>
+[![](https://res.cloudinary.com/callvoip/image/upload/v1582039978/carnaval_youtube_awfta4.png)](https://www.youtube.com/watch?v=Vef3Kv4QZeM "Bekijk op Youtube")
