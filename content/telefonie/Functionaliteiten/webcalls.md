@@ -17,7 +17,7 @@ hero:
     link: "/offerte"
 blocks:
 - content: |-
-    'Met Web Calls kun je bellen en gebeld worden via de computer. Je hebt nodig: een computer met internet, een browser (bv Google
+    Met Web Calls kun je bellen en gebeld worden via de computer. Je hebt nodig: een computer met internet, een browser (bv Google
     Chrome) en speakers + microfoon om te horen en te praten. Het is niet nodig om software te installeren, en dus zijn driverproblemen
     ook verleden tijd. Zet Web Calls met één klik aan op de telefooncentrale, log in en je kunt binnen 1 minuut aan de slag!<BR><BR>
     <a target="_blank" href="https://www.callvoip.nl/ondersteuning/extra-features/handleiding-web-calls/" class="button">Hoe werkt het?</a>'
@@ -26,7 +26,7 @@ blocks:
   title: 'Web Calls – wat is er nodig?'
   image_position: center
 - content: |-
-    "Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale. Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in de wacht zetten. Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst."
+    Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale. Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in de wacht zetten. Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst.
   image: "/v1572860986/Screenshot_19_cz6vpx.png"
   position: ''
   title: 'Web Call: bellen zonder beperkingen'
