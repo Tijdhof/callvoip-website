@@ -32,11 +32,11 @@ blocks:
   title: 'Web Call: bellen zonder beperkingen'
   image_position: ''
 prijzen:
-- title: Qaller
-  content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br>
+- title: Webcalls
+  content: Browser based bellen, tijdelijk gratis!
   button:
     title: Meer informatie
-    link: "/ondersteuning/simmpl-functionaliteiten/qaller-app/"
+    link: "https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf"
   tarieven:
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
@@ -45,22 +45,6 @@ prijzen:
       price: 0,-
     - title: Maandelijks
       price: 0,-
-- title: Qaller Plus
-  content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br> Qaller als kantoortoestel
-    <br> Uitbellen met zakelijk nummer <br>
-  tarieven:
-    title: Per gebruiker
-    footer: Prijzen zijn excl. BTW
-    items:
-    - title: Eenmalig
-      price: '5.00'
-    - title: Maandelijks
-      price: '4.00'
-  button:
-    title: Bereken het zelf
-    link: "/calculator/"
-description: Met Qaller ben je inkomend bereikbaar op- en belt u uit met het zakelijk
-  nummer. Tevens bedient u eenvoudig de online telefooncentrale.
 images: []
 hideinsearch: false
 hideingoogle: false
