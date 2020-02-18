@@ -27,7 +27,7 @@ blocks:
   image_position: center
 - content: |-
     "Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale. Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in de wacht zetten. Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst."
-  image: "/v1572860986/qaller_plus_zugzu5.png"
+  image: "/v1572860986/Screenshot_19_xjgagb.png"
   position: ''
   title: 'Web Call: bellen zonder beperkingen'
   image_position: ''
