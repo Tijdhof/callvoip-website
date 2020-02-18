@@ -7,7 +7,7 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-
 hideinsearch: false
 Nieuw: true
 Update: false
-aliases: "/webcalls"
+aliases: "/handleiding-webcalls"
 
 ---
 <h3>Callvoip handleiding Web Calls – Browser Based Bellen </h3>
