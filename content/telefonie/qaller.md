@@ -1,9 +1,9 @@
 ---
-title: Qaller | de slimme mobiele app
+title: Webcalls | Browser Bases Bellen
 type: page
 layout: default
 logos: true
-aliases: "/qaller"
+aliases: "/webcalls2"
 hero:
   title: De slimme smartphone app
   content: Met onze gratis smartphone app <b>Qaller</b> kun je de telefooncentrale
@@ -34,36 +34,6 @@ blocks:
   position: ''
   title: 'Qaller Plus: de smartphone als kantoortoestel'
   image_position: ''
-usps:
-  title: De belangrijkste kenmerken van Qaller op een rij
-  content: ''
-  items:
-  - icon: fa-cloud
-    title: Flexibel
-    content: Altijd en overal toegang tot de telefooncentrale via de smartphone.
-  - icon: fa-user-lock
-    title: Veilig
-    content: Bepaal zelf wie toegang krijgt tot het gebruik van de gratis en de betaalde
-      variant.
-  - icon: fa-comment-alt-smile
-    title: Eenvoudig
-    content: Het wijzigen van een belroute of het activeren van een meldtekst kan
-      met één klik.
-  - icon: fa-trophy
-    title: Professioneel
-    content: Gebruik de smartphone als kantoortoestel en bel met het zakelijke nummer
-      uit.
-  - icon: fa-spinner
-    title: Bereikbaar
-    content: Bepaal zelf hoe je bereikbaar bent.
-  - icon: fa-file-contract
-    title: Schaalbaar
-    content: Qaller is eenvoudig aan- en uit te zetten én is maandelijks opzegbaar.
-intro:
-  title: Waar download ik de app?
-  content: |-
-    <a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl" target="_blank" rel="noopener noreferrer">Qaller voor Android downloaden</a><br>
-    <a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer">Qaller voor Apple downloaden</a>
 prijzen:
 - title: Qaller
   content: Mobiel doorschakelen <br> Aan/-uitzetten omleidingen <br>
