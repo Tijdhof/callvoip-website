@@ -14,15 +14,15 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
-url: ''
+date: 2020-02-18T23:00:00+00:00
+url: carnaval
 contactpersoon: []
 categories: []
 tags: []
 draft: true
 
 ---
-Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn veel ondernemers dan tijdelijk even met wat anders bezig. Reden om de tent tijdelijk telefonisch te sluiten. En wij regelen dat natuurlijk graag!  
+Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn veel ondernemers dan even met wat anders bezig. Reden om de tent tijdelijk telefonisch te sluiten. En wij regelen dat natuurlijk graag!  
 
 Marieke kreeg zelfs een echte Prins Carnaval aan de lijn! En dat leverde een feestelijk gesprek op! 
 
