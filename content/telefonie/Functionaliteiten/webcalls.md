@@ -5,19 +5,16 @@ layout: default
 logos: true
 aliases: "/webcalls2"
 hero:
-  title: De slimme smartphone app
-  content: Met onze gratis smartphone app <b>Qaller</b> kun je de telefooncentrale
-    eenvoudig zelf bedienen. Even niet bereikbaar? Met één klik stel je in Qaller
-    een doorschakeling of meldtekst in. <BR><BR>Met de betaalde <b>Plus variant</b>
-    fungeert jouw smartphone als volwaardig kantoortoestel. Je kunt bellen en gebeld
-    worden op het vaste telefoonnummer, ziet of collega's in gesprek zijn en zelfs
-    doorverbinden is mogelijk.
+  title: DBellen zonder telefoon? Web Calls!
+  content: Web Calls biedt je de flexibiliteit van bellen met je computer, laptop of tablet.
+  Zo ben je superflexibel! En dus ideaal voor thuiswerk, onderweg of voor een snelle extra werkplek.
+  Maar ook als je telefonie nodig hebt op bijzondere plaatsen, zoals in het datacenter.
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: In het echt zien?
-    link: "/tour"
+    content: Offerte aanvragen
+    link: "/offerte"
 blocks:
 - content: |-
     Hoe bedien je een TV zonder afstandsbediening? De Callvoip telefooncentrale kan gelukkig ook via de browser worden bediend maar de mogelijkheid om dit via de smartphone te doen is wel superhandig. Het activeren van een meldtekst of het instellen van een doorschakeling: het kan met één simpele klik worden gedaan, waar je ook bent<BR> Het gebruik van <B>Qaller</B> is standaard inbegrepen en is <B>gratis</B>.<BR><BR>
