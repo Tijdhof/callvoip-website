@@ -17,11 +17,13 @@ hero:
     link: "/offerte"
 blocks:
 - content: |-
-    Hoe bedien je een TV zonder afstandsbediening? De Callvoip telefooncentrale kan gelukkig ook via de browser worden bediend maar de mogelijkheid om dit via de smartphone te doen is wel superhandig. Het activeren van een meldtekst of het instellen van een doorschakeling: het kan met één simpele klik worden gedaan, waar je ook bent<BR> Het gebruik van <B>Qaller</B> is standaard inbegrepen en is <B>gratis</B>.<BR><BR>
-    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" class="button">Hoe werkt het?</a>
+    'Met Web Calls kun je bellen en gebeld worden via de computer. Je hebt nodig: een computer met internet, een browser (bv Google
+    Chrome) en speakers + microfoon om te horen en te praten. Het is niet nodig om software te installeren, en dus zijn driverproblemen
+    ook verleden tijd. Zet Web Calls met één klik aan op de telefooncentrale, log in en je kunt binnen 1 minuut aan de slag!<BR><BR>
+    <a target="_blank" href="https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf" class="button">Hoe werkt het?</a>'
   image: "/v1572861318/qaller_uitleg_pijltjes_cmzthl.png"
   position: image_left
-  title: 'Qaller: de slimme afstandsbediening'
+  title: 'Web Calls – wat is er nodig?'
   image_position: center
 - content: |-
     Ook met Qaller Plus kan de Callvoip telefooncentrale worden bediend. Als belangrijke extra functie kan met de Plus variant worden gebeld en kunnen gesprekken worden ontvangen op het zakelijke vaste nummer. Hiermee kan elke smartphone worden ingezet als volwaardig kantoortoestel.<BR> De prijs van <B>Qaller Plus</B> is gelijk aan de <B>prijs van een toestelaccount</B>.
