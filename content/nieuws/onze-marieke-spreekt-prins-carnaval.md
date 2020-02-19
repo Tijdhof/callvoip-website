@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-02-18T23:00:00+00:00
+date: 2020-02-18T23:00:00.000+00:00
 url: carnaval
 contactpersoon: []
 categories: []
@@ -28,4 +28,6 @@ Marieke kreeg zelfs een echte Prins Carnaval aan de lijn! En dat leverde een fee
 
 [![](https://res.cloudinary.com/callvoip/image/upload/v1582100056/carnaval_youtube_q5b45m.png)](https://www.youtube.com/watch?v=Vef3Kv4QZeM&t=4s "Carnaval")
 
-Wil je net als Prins Carnaval ook een bandje instellen? Dat kan natuurlijk door ons te bellen, maar je kunt het ook gemakkelijk zelf regelen! We hebben daarvoor een [handige instructievideo](https://www.callvoip.nl/cast/ "Casts") gemaakt. Liever geen video maar lezen hoe het moet? Kan ook: [hier op onze site](https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/ "support feestdagen"). 
+Wil je net als Prins Carnaval ook een bandje instellen? Dat kun je gemakkelijk zelf regelen! We hebben daarvoor een [handige instructievideo](https://www.callvoip.nl/cast/ "Casts") gemaakt. Liever geen video maar lezen hoe het moet? Kan ook: [hier op onze site](https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/ "support feestdagen").
+
+Maar je kunt natuurlijk ook, net als Prins Carnaval ons bellen! :-)
