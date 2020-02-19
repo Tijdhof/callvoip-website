@@ -7,7 +7,7 @@ featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: "/v1582038032/Prins_Carnaval_portret_y3rt7b.jpg"
+image_uitgelicht: "/v1582100056/carnaval_youtube_q5b45m.png"
 hero:
   image: ''
   mobile: ''
@@ -22,8 +22,10 @@ tags: []
 draft: true
 
 ---
-Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn veel ondernemers dan even met wat anders bezig. Reden om de tent tijdelijk telefonisch te sluiten. En wij regelen dat natuurlijk graag!  
+Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn veel ondernemers dan even met wat anders bezig. Reden om de tent tijdelijk telefonisch te sluiten. En wij regelen dat natuurlijk graag!
 
-Marieke kreeg zelfs een echte Prins Carnaval aan de lijn! En dat leverde een feestelijk gesprek op! 
+Marieke kreeg zelfs een echte Prins Carnaval aan de lijn! En dat leverde een feestelijk gesprek op!
 
-[![](https://res.cloudinary.com/callvoip/image/upload/v1582039978/carnaval_youtube_awfta4.png)](https://www.youtube.com/watch?v=Vef3Kv4QZeM "Bekijk op Youtube")
+[![](https://res.cloudinary.com/callvoip/image/upload/v1582100056/carnaval_youtube_q5b45m.png)](https://www.youtube.com/watch?v=Vef3Kv4QZeM&t=4s "Carnaval")
+
+Wil je net als Prins Carnaval ook een bandje instellen? Dat kan natuurlijk door ons te bellen, maar je kunt het ook gemakkelijk zelf regelen! We hebben daarvoor een [handige instructievideo](https://www.callvoip.nl/cast/ "Casts") gemaakt. Liever geen video maar lezen hoe het moet? Kan ook: [hier op onze site](https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/ "support feestdagen"). 
