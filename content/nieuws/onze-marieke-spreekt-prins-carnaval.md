@@ -19,7 +19,6 @@ url: carnaval
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
 Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn veel ondernemers dan even met wat anders bezig. Reden om de tent tijdelijk telefonisch te sluiten. En wij regelen dat natuurlijk graag!
