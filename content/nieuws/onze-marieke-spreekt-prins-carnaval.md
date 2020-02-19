@@ -2,7 +2,7 @@
 title: Onze Marieke spreekt Prins Carnaval
 description: 'Wij zorgen voor een ongestoord carnavalsfeest! '
 images:
-- "/v1582038032/Prins_Carnaval_portret_y3rt7b.jpg"
+- "/v1582100056/carnaval_youtube_q5b45m.png"
 featured: true
 hideinsearch: false
 hideingoogle: false
@@ -19,6 +19,7 @@ url: carnaval
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 Het is alweer bijna zover: Carnaval barst over enkele dagen los. Natuurlijk zijn veel ondernemers dan even met wat anders bezig. Reden om de tent tijdelijk telefonisch te sluiten. En wij regelen dat natuurlijk graag!
