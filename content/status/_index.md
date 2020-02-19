@@ -4,6 +4,8 @@ hero:
   image: "/v1566566520/status_jq3tzw.png"
   disable_image_on_mobile: false
 items:
+- title: BLF (statuslampjes)
+  status: true
 - title: Click-to-Dial
   status: false
 - title: Online telefooncentrale
