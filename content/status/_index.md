@@ -4,8 +4,6 @@ hero:
   image: "/v1566566520/status_jq3tzw.png"
   disable_image_on_mobile: false
 items:
-- title: Click-to-Dial
-  status: true
 - title: Online telefooncentrale
   status: true
 - title: Inkomende gesprekken
@@ -17,6 +15,8 @@ items:
 - title: Toestelregistraties
   status: true
 - title: BLF (statuslampjes)
+  status: true
+- title: Click-to-Dial
   status: true
 - title: Qaller Smartphone app
   status: true
