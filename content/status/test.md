@@ -3,15 +3,6 @@ title: Meldingen
 error: false
 
 ---
-**19 feb 2020 11.30 |  Verstoring BLF indicatielampjes**
-
-Er is een storing met de BLF lampjes: deze branden niet, of geven niet de juiste status.  
-Technici zijn op de hoogte en er wordt gewerkt aan een oplossing. We verwachten een spoedige oplossing.   
-  
-Onze excuses voor het ongemak!
-
-==================================
-
 **17 feb 2020, 09.30 | Click-to-Dial update:**
 
 **Let op:** Click to Dial is geupdate maar werkt helaas niet naar behoren. Zo is er geen adresboek-koppeling en is her-aanmelden niet mogelijk.
