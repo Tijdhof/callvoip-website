@@ -5,7 +5,7 @@ hero:
   disable_image_on_mobile: false
 items:
 - title: Click-to-Dial
-  status: false
+  status: true
 - title: Online telefooncentrale
   status: true
 - title: Inkomende gesprekken
