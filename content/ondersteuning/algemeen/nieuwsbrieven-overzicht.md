@@ -31,7 +31,7 @@ aliases: "/nieuwsbrieven"
 * <a href="http://files.callvoip.nl/nieuwsbrieven/9.html" target="_blank">Nieuwsbrief 17-07-19: Uw bereikbaarheid in beeld</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/10.html" target="_blank">Nieuwsbrief 04-07-19: aankondiging onderhoud en nieuwe features!</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/11.html" target="_blank">CallvoipTelefonie nieuwsbrief 28-05-19: Teamnieuws, Feature Roadmap en feestdagen</a>
-* <a href="http://files.callvoip.nl/nieuwsbrieven/12.html9" target="_blank">CallvoipTelefonie nieuwsbrief 16-04-19: Vamos Primeur! … en meer mooi nieuws</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/12.html" target="_blank">CallvoipTelefonie nieuwsbrief 16-04-19: Vamos Primeur! … en meer mooi nieuws</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/13.html" target="_blank">CallvoipTelefonie nieuwsbrief 27-02-19: 4G internet, Click to Dial, Carnaval!</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_januari_2019.pdf" target="_blank">Simmpl Feature Update – januari 2019</a>
 
