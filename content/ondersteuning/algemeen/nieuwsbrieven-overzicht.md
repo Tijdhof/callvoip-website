@@ -25,14 +25,14 @@ aliases: "/nieuwsbrieven"
 * <a href="http://files.callvoip.nl/nieuwsbrieven/4.html" target="_blank">Nieuwsbrief 12-12-19 | Callvoip kerstgroet met: Progress Events</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/5.html" target="_blank">Nieuwsbrief 11-10-19 | Het is lekker werken met de Qaller App</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/6.html" target="_blank">Nieuwsbrief 15-09-19 | Qaller geupdate | gratis internetcheck!</a>
-* <a href="https://mailchi.mp/callvoip/sep19-qallergeupdate" target="_blank">Nieuwsbrief 14-09-19 | Aankondiging: Qaller update!</a>
-* <a href="https://mailchi.mp/callvoip/sep19-nieuwewebsite" target="_blank">Nieuwsbrief 09-09-19 | Yes! Nieuw logo, nieuwe website!</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/7.html" target="_blank">Nieuwsbrief 14-09-19 | Aankondiging: Qaller update!</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/8.html" target="_blank">Nieuwsbrief 09-09-19 | Yes! Nieuw logo, nieuwe website!</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_juli-2019.pdf" target="_blank">Simmpl Feature Update - juli 2019</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-juli19-bereikbaarheid" target="_blank">Nieuwsbrief 17-07-19: Uw bereikbaarheid in beeld</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-juli19-aankondiging" target="_blank">Nieuwsbrief 04-07-19: aankondiging onderhoud en nieuwe features!</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-mei19" target="_blank">CallvoipTelefonie nieuwsbrief 28-05-19: Teamnieuws, Feature Roadmap en feestdagen</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-april19" target="_blank">CallvoipTelefonie nieuwsbrief 16-04-19: Vamos Primeur! … en meer mooi nieuws</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-feb19" target="_blank">CallvoipTelefonie nieuwsbrief 27-02-19: 4G internet, Click to Dial, Carnaval!</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/9.html" target="_blank">Nieuwsbrief 17-07-19: Uw bereikbaarheid in beeld</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/10.html" target="_blank">Nieuwsbrief 04-07-19: aankondiging onderhoud en nieuwe features!</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/11.html" target="_blank">CallvoipTelefonie nieuwsbrief 28-05-19: Teamnieuws, Feature Roadmap en feestdagen</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/12.html9" target="_blank">CallvoipTelefonie nieuwsbrief 16-04-19: Vamos Primeur! … en meer mooi nieuws</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/13.html" target="_blank">CallvoipTelefonie nieuwsbrief 27-02-19: 4G internet, Click to Dial, Carnaval!</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_januari_2019.pdf" target="_blank">Simmpl Feature Update – januari 2019</a>
 
 <h3>2018</h3>
