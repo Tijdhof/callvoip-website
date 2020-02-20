@@ -14,9 +14,9 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2020</h3>
 
-* <a href="https://wwww.files.callvoip.nl/nieuwsbrieven/1.html" target="_blank">Nieuwsbrief 30-01-20 | Wachtrij positiemelding, trunk failover, Web Calls en meer updates!</a>
+* <a href="www.files.callvoip.nl/nieuwsbrieven/1.html" target="_blank">Nieuwsbrief 30-01-20 | Wachtrij positiemelding, trunk failover, Web Calls en meer updates!</a>
 * <a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" target="_blank">Callvoip Feature Update – januari 2020</a>
-* <a href="https://www.files.callvoip.nl/nieuwsbrieven/2.html" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
+* <a href="www.files.callvoip.nl/nieuwsbrieven/2.html" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
 
 <h3>2019</h3>
 
