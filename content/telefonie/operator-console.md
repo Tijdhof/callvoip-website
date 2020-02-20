@@ -28,6 +28,8 @@ blocks:
     3. OnScreen aannemen, doorverbinden, call pickup
     4. Geavanceerde wachtrij-acties (o.a. meeluisteren, influisteren. inbreken)
     5. Realtime wachtrij-statistieken
+    <br>
+    <a href="https://www.callvoip.nl/ondersteuning/extra-features/operatorpanel/" class="button">Hoe werkt het?</a>
   position: image_left
   image_position: center
 - title: Wat kunt u er precies mee?
