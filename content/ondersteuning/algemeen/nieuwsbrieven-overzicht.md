@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2020</h3>
 
+* <a href="[http://sh1.sendinblue.com/2met08qutt7e.html?t=1582268275](http://sh1.sendinblue.com/2met08qutt7e.html?t=1582268275 "http://sh1.sendinblue.com/2met08qutt7e.html?t=1582268275")" target="_blank">Nieuwsbrief 20-02-20 | Carnaval! Zelf meldteksten instellen? </a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/1.html" target="_blank">Nieuwsbrief 30-01-20 | Wachtrij positiemelding, trunk failover, Web Calls en meer updates!</a>
 * <a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" target="_blank">Callvoip Feature Update – januari 2020</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/2.html" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
