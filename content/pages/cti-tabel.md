@@ -1,5 +1,5 @@
 ---
-title: CTI Tabel
+title: VoIP CTI Tabel
 type: page
 url: cti-tabel
 hideinsearch: true
