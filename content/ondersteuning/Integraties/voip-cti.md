@@ -11,13 +11,9 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1566291735/voipcti-pakket-1_w3xv9d.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1566291750/voipcti-pakket-2_wucx4p.png)
+{{< cti-overzicht >}}
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1566291763/voipcti-pakket-3_ybuev3.png)
-
-{{< cti-overzicht >}}
 
 **Staat uw pakket er niet bij?  
 **Dit hoeft niet te betekenen dat er geen koppeling mogelijk is.  
