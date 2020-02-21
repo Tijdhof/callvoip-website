@@ -24,7 +24,7 @@ hero:
   mobile: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
-  image: "/v1569232681/clicktodial_3_naastelkaar_mvwz06.png"
+  image: "/v1569232681/Clicktodial-boxblurred_qsjuca.png"
   content: |2-
 
     <br>
