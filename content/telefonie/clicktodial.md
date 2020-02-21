@@ -42,7 +42,7 @@ blocks:
   position: image_left
   image_position: end
 - title: Hoe werkt het?
-  image: "v1582285115/clicktodialfullscreen_ohq0jk.png"
+  image: "v1582285115/clicktdial_fullscreen_n0p76d.png"
   content: |-
     Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
     Zodra je klikt, rechts klikt of het nummer plakt in de app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
