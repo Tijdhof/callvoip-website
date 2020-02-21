@@ -3,16 +3,18 @@ title: Meldingen
 error: false
 
 ---
-**20 feb 2020 | Click to Dial geupdate en operationeel!**
+**20 feb 2020 | Click to Dial geupdate!**
 
-Click to Dial is geupdate; check of u een BLAUW icoontje heeft.  
-Als u opnieuw moet inloggen of als dit niet goed werkt, vraag gerust onze assistentie.   
-  
-Updates van deze nieuwe versie zijn o.a.:   
-\- keuzemogelijkheid uitgaand nummer  
-\- full screen modus  
-  
-Meer informatie volgt spoedig!
+**Let op:** Click to Dial is geupdate, te herkennen aan een BLAUW icoontje.  
+Mogelijk moet u opnieuw inloggen om het log weer te laten werken. 
+
+Updates in de nieuwe versie zijn o.a.:  
+\- settings: keuzemogelijkheid uitgaand nummer  
+\- settings: handige full screen modus  
+\- collegatab: collega's bellen en doorverbinden 
+
+Een emailing met meer informatie volgt; voor vragen of hulp, bel of mail gerust.  
+Meer informatie: [https://www.callvoip.nl/telefonie/clicktodial/](https://www.callvoip.nl/telefonie/clicktodial/ "https://www.callvoip.nl/telefonie/clicktodial/")
 
 ====
 
