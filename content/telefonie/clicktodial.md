@@ -28,15 +28,17 @@ blocks:
   content: |2-
 
     <br>
-    -<u>Click-to-dial:</u> klik en bel een nummer op je VoIP-toestel<br>
-    -<u>Select-and-dial:</u> selecteer en right-click om te bellen<br>
-    -<u>Paste-and-dial:</u> plak/type een nummer in de app en bel!<br>
+    &raquo; <u>Click-to-dial:</u> klik en bel een nummer op je VoIP-toestel<br>
+    -<u>Select-and-Dial:</u> selecteer en right-click om te bellen<br>
+    -<u>Paste-and-Dial:</u> plak/type een nummer in de app en bel!<br>
     -<u>Logboek</u> met in-/uitgaande gesprekken, datum, tijd en tijdsduur<br>
-    -<ub>Pop-up inkomend gesprek:</u> met nummer en naam<br>
+    -<u>Pop-up inkomend gesprek:</u> met nummer en naam<br>
     -<u>Adresboek:</u> voeg naam toe en bookmark: privé/gedeeld<br>
     -<u>Bedrijfstelefoonboek:</u> gedeelde nummers ook zichtbaar bij collega’s.<br>
-    -<u>Nummer-kopie-functie:</u> kopieer een nummer en vind bellers nog sneller in je CRM!<br>
+    -<u>Nummer-kopie-functie:</u> kopieer nummer en vind klanten snel in je CRM!<br>
     -<u>Yealink-adresboek:</u> koppel je Yealink toestel met het Click to Dial adresboek!
+    -<u>Collega-tab:</u> lijst met collega's, hun status, en onscreen doorverbinden<br>
+    -<u>Full-Screen-modus:</u> handig: alles tabs van Click to Dial in één browservenster!<br>
   position: image_left
   image_position: end
 - title: Hoe werkt het?
