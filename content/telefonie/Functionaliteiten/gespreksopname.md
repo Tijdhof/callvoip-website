@@ -15,6 +15,7 @@ hero:
     kun je beluisteren en gemakkelijk downloaden op de telefooncentrale.
   image: "/v1561534316/callvoip-website-gespreksopname.jpg"
   image_position: start
+  disable_image_on_mobile: false
 layout: default
 hideinsearch: false
 prijzen:
@@ -56,9 +57,11 @@ prijzen:
     - title: Eenmalig
       price: '5.00'
     - title: incl. Bulk Download
+hideingoogle: false
+hidesocialshare: false
 
 ---
-__**Nieuw**__: download al je recordings in batches van een dag, week of kalendermaand!
+**Nieuw**: download al je recordings in batches van een dag, week of kalendermaand!
 
 ## De voordelen:
 
@@ -74,3 +77,9 @@ Soms blijken telefoongesprekken achteraf van groot belang te zijn geweest. Voor 
 Callvoip biedt gespreksopname met één druk op de knop: zet opname aan, bepaal het aantal bewaar-dagen (30, 180 of 365), en klaar. Gesprekken worden opgenomen, u kunt ze terugluisteren en downloaden.
 
 <a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
+
+## Bulk download
+
+Bij een bewaartijd van 180 of 365 dagen kun je opgenomen gesprekken als batch per maand voor de hele organisatie downloaden.
+
+<a href="https://www.callvoip.nl/ondersteuning/extra-features/gespreksopname-handleiding/#nieuw:-bulk-download-van-opnames" class="button">Hoe werkt het?</a>
