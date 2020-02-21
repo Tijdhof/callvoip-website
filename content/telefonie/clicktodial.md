@@ -36,13 +36,13 @@ blocks:
     &raquo; Adresboek: voeg naam toe en bookmark: privé/gedeeld<br>
     &raquo; Bedrijfstelefoonboek: gedeelde nummers ook zichtbaar bij collega’s.<br>
     &raquo; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
-    &raquo; Yealink-adresboek: koppel je Yealink toestel met het Click to Dial adresboek!
+    &raquo; Yealink-adresboek: koppel je Yealink toestel met het Click to Dial adresboek!<br>
     &raquo; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
     &raquo; Full-Screen-modus: handig: alles tabs van Click to Dial in één browservenster!<br>
   position: image_left
   image_position: end
 - title: Hoe werkt het?
-  image: "/v1565856543/clicktodial2_xvsnfd.png"
+  image: "/v1565856543/fullscreen_lg6jxy.png"
   content: |-
     Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
     Zodra je klikt, rechts klikt of het nummer plakt in de app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
