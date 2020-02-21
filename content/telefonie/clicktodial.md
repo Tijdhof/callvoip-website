@@ -16,8 +16,8 @@ hero:
     beschikbaarheid van uw collega's, kunt u gesprekken doorverbinden en heeft u een
     telefoonboek.
   button:
-    content: Offerte aanvragen
-    link: "/offerte/"
+    content: Download plugin
+    link: "https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl"
   image: "/v1580985070/clicktdial_bweq3w_b3m3gw.png"
   image_position: start
   disable_image_on_mobile: false
@@ -95,7 +95,4 @@ De Click-to-Dial is gratis voor klanten van Callvoip.
 ## Gelijk aan de slag!
 
 <br>
-
-<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" class="button">Download plugin</a>  <a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a>  
-
-<br>
+<a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" class="button">Handleiding</a>  
