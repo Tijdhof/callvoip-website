@@ -11,9 +11,10 @@ aliases: "/clicktodial"
 hero:
   title: Click-to-Dial
   content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
-    webbrowser klikbaar. Één klik op het nummer en uw toestel belt uit. Is dit alles?
-    Nee! Zo krijgt u bij inkomende oproepen een notificatie, ziet u de beschikbaarheid
-    van uw collega's, kunt u gesprekken doorverbinden en heeft u een telefoonboek.
+    webbrowser klikbaar. Eén klik op het nummer en uw toestel belt uit. <b>Is dit
+    alles? Nee!</b> Zo krijgt u bij inkomende oproepen een notificatie, ziet u de
+    beschikbaarheid van uw collega's, kunt u gesprekken doorverbinden en heeft u een
+    telefoonboek.
   button:
     content: Offerte aanvragen
     link: "/offerte/"
