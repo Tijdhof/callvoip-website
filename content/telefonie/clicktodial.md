@@ -28,15 +28,15 @@ blocks:
   content: |2-
 
     <br>
-    -<b>Click-to-dial:</b> klik en bel een nummer op je IP-toestel<br>
-    -<b>Select-and-dial:</b> selecteer en right-click om te bellen<br>
-    -<b>Paste-and-dial:</b> plak/type een nummer in de app en bel!<br>
-    -<b>Log met gesprekken (in/uit)</b> met datum en tijd<br>
-    -<b>Pop-up inkomend gesprek:</b> met nummer en naam<br>
-    -<b>Adresboek:</b> voeg naam toe en bookmark: privé/gedeeld<br>
-    -<b>Bedrijfstelefoonboek:</b> gedeelde nummers ook zichtbaar bij collega’s.<br>
-    -<b>Nummer-kopie-functie:</b> kopieer een nummer en vind bellers nog sneller in je CRM!<br>
-    -<b>Yealink-adresboek:</b> koppel je Yealink toestel met het Click to Dial adresboek!
+    -<u>Click-to-dial:</u> klik en bel een nummer op je VoIP-toestel<br>
+    -<u>Select-and-dial:</u> selecteer en right-click om te bellen<br>
+    -<u>Paste-and-dial:</u> plak/type een nummer in de app en bel!<br>
+    -<u>Logboek</u> met in-/uitgaande gesprekken, datum, tijd en tijdsduur<br>
+    -<ub>Pop-up inkomend gesprek:</u> met nummer en naam<br>
+    -<u>Adresboek:</u> voeg naam toe en bookmark: privé/gedeeld<br>
+    -<u>Bedrijfstelefoonboek:</u> gedeelde nummers ook zichtbaar bij collega’s.<br>
+    -<u>Nummer-kopie-functie:</u> kopieer een nummer en vind bellers nog sneller in je CRM!<br>
+    -<u>Yealink-adresboek:</u> koppel je Yealink toestel met het Click to Dial adresboek!
   position: image_left
   image_position: end
 - title: Hoe werkt het?
