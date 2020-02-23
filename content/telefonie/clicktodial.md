@@ -28,17 +28,17 @@ blocks:
   content: |2-
 
     <br>
-    &raquo; Click-to-dial: klik en bel een nummer op je VoIP-toestel<br>
-    &raquo; Select-and-Dial: selecteer en right-click om te bellen<br>
-    &raquo; Paste-and-Dial: plak/type een nummer in de app en bel!<br>
-    &raquo; Logboek met in-/uitgaande gesprekken, datum, tijd en tijdsduur<br>
-    &raquo; Pop-up inkomend gesprek:</u> met nummer en naam<br>
-    &raquo; Adresboek: voeg naam toe en bookmark: privé/gedeeld<br>
-    &raquo; Bedrijfstelefoonboek: gedeelde nummers ook zichtbaar bij collega’s.<br>
-    &raquo; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
-    &raquo; Yealink-adresboek: koppel je Yealink toestel met het C2D adresboek!<br>
-    &raquo; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
-    &raquo; Volledig-scherm-modus: alles Click-to-Dial tabs in één venster!<br>
+    &bull; Click-to-dial: klik en bel een nummer op je VoIP-toestel<br>
+    &bull; Select-and-Dial: selecteer en right-click om te bellen<br>
+    &bull; Paste-and-Dial: plak/type een nummer in de app en bel!<br>
+    &bull; Logboek met in-/uitgaande gesprekken, datum, tijd en tijdsduur<br>
+    &bull; Pop-up inkomend gesprek:</u> met nummer en naam<br>
+    &bull; Adresboek: voeg naam toe en bookmark: privé/gedeeld<br>
+    &bull; Bedrijfstelefoonboek: gedeelde nummers ook zichtbaar bij collega’s.<br>
+    &bull; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
+    &bull; Yealink-adresboek: koppel je Yealink toestel met het C2D adresboek!<br>
+    &bull; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
+    &bull; Volledig-scherm-modus: alles Click-to-Dial tabs in één venster!<br>
   position: image_left
   image_position: end
 - title: Hoe werkt het?
