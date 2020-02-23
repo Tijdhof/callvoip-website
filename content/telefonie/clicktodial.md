@@ -10,12 +10,11 @@ logos: false
 aliases: "/clicktodial"
 hero:
   title: Click-to-Dial
-  content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
-    webbrowser klikbaar. Eén klik op het nummer en uw toestel belt uit. <b>Is dit
-    alles? Nee!</b> Zo krijgt u bij inkomende oproepen een notificatie, ziet u de
-    beschikbaarheid van uw collega's, kunt u gesprekken doorverbinden en heeft u een
-    telefoonboek. <br><br><a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl"
-    target="_blank"class="button">Download plugin</a>
+  content: 'Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de
+    Chrome webbrowser klikbaar. Eén klik op het nummer en uw toestel belt uit. <b>Is
+    dit alles? Nee!</b> Zo krijgt u bij inkomende oproepen een notificatie, ziet u
+    de beschikbaarheid van uw collega''s, kunt u gesprekken doorverbinden en heeft
+    u een telefoonboek. '
   image: "/v1580985070/clicktdial_bweq3w_b3m3gw.png"
   image_position: start
   disable_image_on_mobile: false
