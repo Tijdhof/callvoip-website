@@ -61,7 +61,7 @@ Bookmark contacten en bepaal of ze gedeeld (voor iedereen) of privé zijn, voeg 
   
 ![](https://res.cloudinary.com/callvoip/image/upload/v1582461105/4-contacten-tab_bnflnx.jpg)
 
-<h3>4. Collega-tab: collega's, hun status, bel en verbind door</h3>  
+<h3>4. Collega-tab: collega's, status, bel en verbind door</h3>  
 Intern telefoonboek met de actuele bel-status van collega's. Klik en bel een collega, en verbind gesprekken gemakkelijk intern door, met en zonder ruggespraak:   
   
 ![](https://res.cloudinary.com/callvoip/image/upload/v1582461223/5-collega-tab_an21kc.jpg)  
