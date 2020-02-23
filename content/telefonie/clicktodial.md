@@ -59,9 +59,9 @@ usps:
   - icon: fa-comment-alt-smile
     title: Eenvoudige installatie
     content: Gemakkelijk geïnstalleerd met onze handleiding.
-  - icon: fa-mouse-pointer
-    title: Gemak
-    content: Elk telefoonnummer in uw Chrome Browser wordt klik- en belbaar.
+  - icon: fa-gift
+    title: Wat kost Click-to-Dial?
+    content: " Helemaal niets! Het is gratis voor klanten van Callvoip."
   - icon: fa-users
     title: Telefoonboek
     content: U houdt eenvoudig een privé en bedrijfstelefoonboek bij.
