@@ -14,11 +14,15 @@ hero:
     webbrowser klikbaar. Eén klik op het nummer en uw toestel belt uit. <b>Is dit
     alles? Nee!</b> Zo krijgt u bij inkomende oproepen een notificatie, ziet u de
     beschikbaarheid van uw collega's, kunt u gesprekken doorverbinden en heeft u een
-    telefoonboek. <br><br><a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank"class="button">Download plugin</a>
+    telefoonboek. <br><br><a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl"
+    target="_blank"class="button">Download plugin</a>
   image: "/v1580985070/clicktdial_bweq3w_b3m3gw.png"
   image_position: start
   disable_image_on_mobile: false
   mobile: ''
+  button:
+    content: ''
+    link: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1569232681/clicktodial_3_naastelkaar-final_gnz30g.png"
@@ -39,11 +43,11 @@ blocks:
   position: image_left
   image_position: end
 - title: Hoe werkt het?
-  image: "v1582285115/clicktdial_fullscreen_n0p76d.png"
+  image: v1582285115/clicktdial_fullscreen_n0p76d.png
   content: |-
     Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
     Zodra je klikt, rechts klikt of het nummer plakt in de app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
-    <br><br><a href="https://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf" target="_blank"class="button">Handleiding</a>  
+    <br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/" target="_blank" class="button">Handleiding</a>  
   position: image_right
   image_position: ''
 usps:
