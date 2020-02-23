@@ -36,9 +36,9 @@ blocks:
     &raquo; Adresboek: voeg naam toe en bookmark: privé/gedeeld<br>
     &raquo; Bedrijfstelefoonboek: gedeelde nummers ook zichtbaar bij collega’s.<br>
     &raquo; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
-    &raquo; Yealink-adresboek: koppel je Yealink toestel met het Click to Dial adresboek!<br>
+    &raquo; Yealink-adresboek: koppel je Yealink toestel met het C2D adresboek!<br>
     &raquo; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
-    &raquo; Full-Screen-modus: handig: alles tabs van Click to Dial in één browservenster!<br>
+    &raquo; Volledig-scherm-modus: alles Click-to-Dial tabs in één venster!<br>
   position: image_left
   image_position: end
 - title: Hoe werkt het?
