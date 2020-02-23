@@ -3,7 +3,7 @@ title: Handleiding Click-to-Dial
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf
+pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Click-to-Dial.pdf
 hideinsearch: false
 Nieuw: false
 Update: true
@@ -68,4 +68,5 @@ Intern telefoonboek met de actuele bel-status van collega's. Klik en bel een col
 <h3>5. Koppel al je Yealinks!</h3>  
 Koppel het adresboek eenvoudig zodat het uitleesbaar is voor al je Yealink-toestellen. Dat gaat gemakkelijk via de advanced provisioning van de Callvoip-centrale, en je kunt het ook handmatig instellen.   
   
-In de handleiding (zie rechts, onder het menu) lees je in detail hoe je dit in een  handomdraai zelf kunt doen. 
+In de handleiding (button DOWNLOAD rechts onder het menu) lees je in detail hoe je dit in een  handomdraai zelf kunt doen.   
+Of  klik hier: [download de Callvoip Click to Dial handleiding](https://files.callvoip.nl/downloads/Callvoip_handleiding_Click-to-Dial.pdf)
