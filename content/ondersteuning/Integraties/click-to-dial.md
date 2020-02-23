@@ -1,5 +1,5 @@
 ---
-title: Handleiding Click-to-Dial (Quickstart)
+title: Handleiding Click-to-Dial
 weight: 
 description: ''
 images: []
@@ -7,20 +7,27 @@ pdf: http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_ClicktoDial.pdf
 hideinsearch: false
 Nieuw: false
 Update: true
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Click-to-Dial is een gratis extensie voor Google Chrome waarmee weergegeven telefoonnummers op websites klikbaar worden zodat u sneller kunt bellen.
+Click-to-Dial is een gratis plug-in voor Google Chrome waarmee telefoonnummers op websites klikbaar worden zodat je sneller kunt bellen.  
+En het biedt nog veer meer!
 
 <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
 
-<h3>Breid de Simmpl telefooncentrale uit met de gratis Simmpl Chrome app</h3>
+<hr>
 
-* Click-to-Dial: klik en bel vanaf je eigen toestel
-* Bedrijfs- / privé telefoonboek: met nummers en namen
-* Popup inkomende gesprekken: met nummers en namen
-* Logboek: alle gesprekken van / naar je eigen toestel
-* Yealink telefoonboek: adresboek uitleesbaar door uw Yealink toestellen
+<h3>Breid de Callvoip telefooncentrale uit met de gratis Chrome plug-in</h3>
+
+* Click-to-Dial: klik en bel vanaf je eigen VoIP-toestel
+* Bedrijfstelefoonboek: telefoonboek met nummers en namen voor alle collega's
+* Popup inkomende gesprekken met het nummer en de naam
+* Logboek: alle in-/uitgaande gesprekken, met datum, tijd en tijdsduur
+* Yealink telefoonboek: koppel al je Yealink-toestellen met het adresboek
 * Nummer-kopieer-functie: klik en kopieer een nummer
+* Collega-tab: bel collega's en verbind gesprekken intern door
+* Volledig-scherm-modus: toon alle tabbladen in één browservenster
 * <a href="https://www.callvoiptelefonie.nl/clicktodial/" target="_blank">Meer informatie over Click-to-Dial</a>
 
 <h3>Join the app!</h3>
@@ -29,13 +36,30 @@ Click-to-Dial is een gratis extensie voor Google Chrome waarmee weergegeven tele
 * Log in met Simmpl gebruikersnaam en wachtwoord
 * Activeer en klaar!
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1565088973/click2dial-yealink-1_au2gwv.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1582460614/1-click-to-dial_fullscreenmodus_mdm4d6.jpg)
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1565093891/click2dial-snelstart-1_migwer.png)  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565093933/click2dial-snelstart-2_bqpsrt.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1565094000/click2dial-snelstart-3_lz291k.png)  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565094052/click2dial-snelstart-4_hffavv.png)  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565094139/click2dial-snelstart-5_dsfkai.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1565094187/click2dial-snelstart-6_yjegzw.png)
+1. <h3>Log in op de app: </h3>  
+   Installeer de app [via deze link](https://goo.gl/Px9dGE "via deze link").  
+     
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1582460838/2-login_d4miu7.jpg)
+2. <h3>Settings-tab:</h3>  
+   Stel de app in zodat hij bij jouw wensen aansluit:  
+     
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1582460919/2-settings-tab_hkwqna.jpg)  
+    
+3. <h3>Historie-tab:</h3>   
+   Al het belverkeer wordt getoond, voorzie nummers van namen en bookmark deze. Zie wie wanneer en hoe lang heeft gebeld en kopieer nummers:  
+     
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1582461020/3-historie-tab_muxdhe.jpg)
+4. <h3>Contacten-tab:</h3>   
+   Bookmark contacten en bepaal of ze gedeeld (voor iedereen) of privé zijn, voeg nieuwe adresboek-items toe:  
+     
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1582461105/4-contacten-tab_bnflnx.jpg)
+5. <h3>Collega-tab:</h3>  
+   Intern telefoonboek met de actuele bel-status van collega's. Klik en bel een collega, en verbind gesprekken gemakkelijk intern door, met en zonder ruggespraak:   
+     
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1582461223/5-collega-tab_an21kc.jpg)  
+   <h3>Koppel al je Yealinks!</h3>  
+   Koppel het adresboek eenvoudig zodat het uitleesbaar is voor al je Yealink-toestellen. Dat gaat gemakkelijk via de advanced provisioning van de Callvoip-centrale, en je kunt het ook handmatig instellen.   
+     
+   In de handleiding (zie rechts, onder het menu) lees je in detail hoe je dit in een  handomdraai zelf kunt doen. 
