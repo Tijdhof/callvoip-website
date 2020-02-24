@@ -16,8 +16,6 @@ En het biedt nog veer meer!
 
 &bull; <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
 
-==============================================
-
 ![](https://res.cloudinary.com/callvoip/image/upload/v1582575917/1-click-to-dial_fullscreenmodus_crkvqg.jpg)
 
 <h3>Click-to-Dial Chrome plugin</h3>
