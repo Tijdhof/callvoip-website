@@ -5,7 +5,7 @@ layout: default
 logos: true
 hero:
   title: Slimme zakelijke telefonie van Callvoip
-  content: Wij begrijpen als geen ander hoe belangrijk een betrouwbare, flexibele telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt. <br>Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
+  content: Wij begrijpen als geen ander hoe belangrijk een betrouwbare, flexibele telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt. <br><br>Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
     klaar!
   button:
     content: Offerte aanvragen
