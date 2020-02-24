@@ -18,6 +18,8 @@ En het biedt nog veer meer!
 
 ==============================================
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1582575917/1-click-to-dial_fullscreenmodus_crkvqg.jpg)
+
 <h3>Click-to-Dial Chrome plugin</h3>
 
 Breid de Callvoip telefooncentrale uit met de gratis Chrome plug-in!De plug-in biedt een schat aan mogelijkheden waar je elke dag plezier van hebt, waaronder:
@@ -36,9 +38,7 @@ Breid de Callvoip telefooncentrale uit met de gratis Chrome plug-in!De plug-in b
 
 * Download de app <a href="https://goo.gl/Px9dGE" target="_blank">hier</a>
 * Log in met Simmpl gebruikersnaam en wachtwoord
-* Activeer en klaar!
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1582575917/1-click-to-dial_fullscreenmodus_crkvqg.jpg)
+* Activeer en klaar! 
 
 <h3>0. Log in op de app</h3>  
 Installeer de app [via deze link](https://goo.gl/Px9dGE "via deze link").
