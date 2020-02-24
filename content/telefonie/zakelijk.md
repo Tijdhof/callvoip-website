@@ -5,11 +5,7 @@ layout: default
 logos: true
 hero:
   title: Callvoip  Zakelijk
-  content: Hosted VoIP biedt veel voordelen. Flexibiliteit, heldere geluidskwaliteit,
-    schaalbaarheid en integratie met software zijn er nog maar een paar.<BR><BR>Callvoip
-    gaat verder. Met Callvoip profiteer je van een ongeëvenaard gebruiksgemak. En
-    minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips
-    om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
+  content: Wij begrijpen als geen ander hoe belangrijk een betrouwbare, flexibele telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt. Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
     klaar!
   button:
     content: Met eigen ogen zien?
