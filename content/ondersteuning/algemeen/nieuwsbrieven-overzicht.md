@@ -38,10 +38,10 @@ aliases: "/nieuwsbrieven"
 
 <h3>2018</h3>
 
-* <a href="https://mailchi.mp/callvoip/simmpl-dec18" target="_blank">CallvoipTelefonie nieuwsbrief 13-12-18: Terug- en vooruitblik + fijne dagen!</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-okt18" target="_blank">CallvoipTelefonie nieuwsbrief 25-10-18: CRM-Koppeling, userpanel en Promotiedagen!</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-sept18" target="_blank">CallvoipTelefonie nieuwsbrief 18-09-18: Welkom Lennart en Arienne! + toestelaanbod</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-juli18-zomer" target="_blank">CallvoipTelefonie nieuwsbrief 19-07-18: zomerbandjes, Yealink-aanbod en ISDN2VoIP!</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/14.html" target="_blank">CallvoipTelefonie nieuwsbrief 13-12-18: Terug- en vooruitblik + fijne dagen!</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/15.html" target="_blank">CallvoipTelefonie nieuwsbrief 25-10-18: CRM-Koppeling, userpanel en Promotiedagen!</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/16.html" target="_blank">CallvoipTelefonie nieuwsbrief 18-09-18: Welkom Lennart en Arienne! + toestelaanbod</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/17.html" target="_blank">CallvoipTelefonie nieuwsbrief 19-07-18: zomerbandjes, Yealink-aanbod en ISDN2VoIP!</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-c2d-telefoonboek-april18-316721" target="_blank">CallvoipTelefonie nieuwsbrief 31-05-18: Click-to-Dial en Operator Console update juni 2018</a>
 * <a href="https://mailchi.mp/callvoip/avg-mailing-240518" target="_blank">CallvoipTelefonie nieuwsbrief 24-05-18: AVG update</a>
 * <a href="https://mailchi.mp/callvoip/simmpl-c2d-telefoonboek-april18" target="_blank">CallvoipTelefonie nieuwsbrief 20-04-18: Click-to-Dial update april 2018</a>
