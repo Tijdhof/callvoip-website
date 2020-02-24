@@ -4,35 +4,25 @@ type: page
 layout: default
 logos: true
 hero:
-  title: Callvoip  Zakelijk
-  content: Wij begrijpen als geen ander hoe belangrijk een betrouwbare, flexibele telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt. Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
+  title: Slimme zakelijke telefonie van Callvoip
+  content: Wij begrijpen als geen ander hoe belangrijk een betrouwbare, flexibele telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt. <br>Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
     klaar!
   button:
-    content: Met eigen ogen zien?
-    link: "/tour"
+    content: Offerte aanvragen
+    link: "/offerte"
   image: "/v1574088232/hostedvoip_u8trwp.png"
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: Een belangrijke basis bij ons is het belplan, hiermee bepaal je hoe en
-    wanneer je bereikbaar bent. Dit belplan is zo ontwikkeld dat iedereen dit zelf
-    eenvoudig kan samenstellen. Uiteraard staan we voor je klaar voor handige tips
-    en ondersteuning.<BR><BR> Met een simpele drag and drop kunnen alle bouwstenen
-    in het belplan worden gesleept. Je zult versteld staan van de vele mogelijkheden
-    en toch de eenvoud waarmee een eigen  belplan kan worden gebouwd.<BR><BR>Benieuwd?
-    Bouw zelf in onze <a href="https://files.callvoip.nl/">live demo</a>.
+- content: 'Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast support team wat nog de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br>Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie en die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig.<br>Maak kennis met Callvoip'
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_left
-  title: Bepaal je bereikbaarheid via drag and drop
+  title: Ouderwets persoonlijke service
   image_position: ''
-- content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
-    vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
-    toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
-    of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.<BR><BR>
-    <a href="/offerte" class="button">Offerte aanvragen</a>'
+- content: 'Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast support team wat nog de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie en die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig.<br>Maak kennis met Callvoip'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
-  title: Upgrade je smartphone naar IP toestel
+  title: Vast mobiel integratie, apparatuur en meer
   image_position: center
 intro:
   title: Wat kost bellen met Callvoip?
