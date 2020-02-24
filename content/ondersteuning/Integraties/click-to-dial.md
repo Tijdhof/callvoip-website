@@ -38,7 +38,7 @@ Breid de Callvoip telefooncentrale uit met de gratis Chrome plug-in!De plug-in b
 * Log in met Simmpl gebruikersnaam en wachtwoord
 * Activeer en klaar!
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1582460614/1-click-to-dial_fullscreenmodus_mdm4d6.jpg)
+![](https://res.cloudinary.com/callvoip/image/upload/v1582575917/1-click-to-dial_fullscreenmodus_crkvqg.jpg)
 
 <h3>0. Log in op de app</h3>  
 Installeer de app [via deze link](https://goo.gl/Px9dGE "via deze link").
