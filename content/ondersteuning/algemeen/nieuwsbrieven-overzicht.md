@@ -42,14 +42,14 @@ aliases: "/nieuwsbrieven"
 * <a href="http://files.callvoip.nl/nieuwsbrieven/15.html" target="_blank">CallvoipTelefonie nieuwsbrief 25-10-18: CRM-Koppeling, userpanel en Promotiedagen!</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/16.html" target="_blank">CallvoipTelefonie nieuwsbrief 18-09-18: Welkom Lennart en Arienne! + toestelaanbod</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/17.html" target="_blank">CallvoipTelefonie nieuwsbrief 19-07-18: zomerbandjes, Yealink-aanbod en ISDN2VoIP!</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-c2d-telefoonboek-april18-316721" target="_blank">CallvoipTelefonie nieuwsbrief 31-05-18: Click-to-Dial en Operator Console update juni 2018</a>
-* <a href="https://mailchi.mp/callvoip/avg-mailing-240518" target="_blank">CallvoipTelefonie nieuwsbrief 24-05-18: AVG update</a>
-* <a href="https://mailchi.mp/callvoip/simmpl-c2d-telefoonboek-april18" target="_blank">CallvoipTelefonie nieuwsbrief 20-04-18: Click-to-Dial update april 2018</a>
-* <a href="http://mailchi.mp/callvoip/simmpl_operator-console_032018" target="_blank">CallvoipTelefonie nieuwsbrief 29-03-18: Operator Panel Update maart 2018</a>
-* <a href="http://goo.gl/dhQHK4" target="_blank">CallvoipTelefonie nieuwsbrief 20-03-18: Click to Dial Update maart 2018</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/18.html" target="_blank">CallvoipTelefonie nieuwsbrief 31-05-18: Click-to-Dial en Operator Console update juni 2018</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/19.html" target="_blank">CallvoipTelefonie nieuwsbrief 24-05-18: AVG update</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/20.html" target="_blank">CallvoipTelefonie nieuwsbrief 20-04-18: Click-to-Dial update april 2018</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/21.html" target="_blank">CallvoipTelefonie nieuwsbrief 29-03-18: Operator Panel Update maart 2018</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/22.html" target="_blank">CallvoipTelefonie nieuwsbrief 20-03-18: Click to Dial Update maart 2018</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_handleiding_Operator-Console.pdf" target="_blank">CallvoipTelefonie handleiding bij de Operator Console</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_mrt_2018_registratie-alert.pdf" target="_blank">Simmpl failover-signalering voor extra performance</a>
-* <a href="http://mailchi.mp/callvoip/simmpl_feature_update_november_2017-316653" target="_blank">CallvoipTelefonie nieuwsbrief 08-02-2018: Carnaval en internet-adres-check</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/23.html" target="_blank">CallvoipTelefonie nieuwsbrief 08-02-2018: Carnaval en internet-adres-check</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_jan_2018.pdf" target="_blank">Simmpl Feature Update – januari 2018</a>
 
 <h3>2017</h3>
