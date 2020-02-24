@@ -48,7 +48,7 @@ Installeer de app [via deze link](https://goo.gl/Px9dGE "via deze link").
 <h3>1. Settings-tab: stel de app in</h3>  
 Stel de app in zodat hij bij jouw wensen aansluit:
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1582460919/2-settings-tab_hkwqna.jpg)
+![](https://res.cloudinary.com/callvoip/image/upload/v1582529609/2-settings-tab_ivi4kn.jpg)
 
 <h3>2. Historie-tab: al je belverkeer in één oogopslag</h3>  
 Al het belverkeer wordt getoond, voorzie nummers van namen en bookmark deze. Zie wie wanneer en hoe lang heeft gebeld en kopieer nummers:
@@ -63,7 +63,7 @@ Bookmark contacten en bepaal of ze gedeeld (voor iedereen) of privé zijn, voeg 
 <h3>4. Collega-tab: collega's, status, bel en verbind door</h3>  
 Intern telefoonboek met de actuele bel-status van collega's. Klik en bel een collega, en verbind gesprekken gemakkelijk intern door, met en zonder ruggespraak:
 
-xxxxx
+![](https://res.cloudinary.com/callvoip/image/upload/v1582463673/5-collega-tab_ponea4.jpg)
 
 <h3>5. Koppel al je Yealinks!</h3>  
 Koppel het adresboek eenvoudig zodat het uitleesbaar is voor al je Yealink-toestellen. Dat gaat gemakkelijk via de advanced provisioning van de Callvoip-centrale, en je kunt het ook handmatig instellen.
