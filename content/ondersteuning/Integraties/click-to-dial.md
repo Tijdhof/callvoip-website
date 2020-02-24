@@ -14,9 +14,9 @@ hidesocialshare: false
 Click-to-Dial is een gratis plug-in voor Google Chrome waarmee telefoonnummers op websites klikbaar worden zodat je sneller kunt bellen.  
 En het biedt nog veer meer!
 
-<a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
+&bull; <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
 
-***
+==============================================
 
 <h3>Click-to-Dial Chrome plugin</h3>
 
@@ -65,7 +65,6 @@ Intern telefoonboek met de actuele bel-status van collega's. Klik en bel een col
 
 xxxxx
 
-  
 <h3>5. Koppel al je Yealinks!</h3>  
 Koppel het adresboek eenvoudig zodat het uitleesbaar is voor al je Yealink-toestellen. Dat gaat gemakkelijk via de advanced provisioning van de Callvoip-centrale, en je kunt het ook handmatig instellen.
 
