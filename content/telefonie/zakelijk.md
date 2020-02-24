@@ -14,12 +14,12 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: 'Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast support team wat nog de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br>Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie en die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig.<br>Maak kennis met Callvoip'
+- content: 'Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast support team wat nog de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br><br>Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie en die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig.<br><br>Maak kennis met Callvoip'
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_left
   title: Ouderwets persoonlijke service
   image_position: ''
-- content: 'Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast support team wat nog de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie en die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig.<br>Maak kennis met Callvoip'
+- content: 'Zakelijke telefonie is zoveel meer dan een vast nummer en één of meerdere toestellen die gaan rinkelen. Naast onze schaalbare, slimme online centrale met alles erop en eraan, bieden wij bellen met jouw vaste nummer via een app. Of een compleet in onze centrale geïntegreerde sim-kaart. <br><br>Bij ons kun je bovendien terecht voor een totaalplaatje. We leveren via onze webshops de nieuwste toestellen of headsets en kunnen je ook voorzien van jouw zakelijke internetverbinding. <br>Kortom: alles onder 1 dak bij Callvoip!'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
   title: Vast mobiel integratie, apparatuur en meer
