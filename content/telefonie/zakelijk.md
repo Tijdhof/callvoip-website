@@ -18,14 +18,7 @@ blocks:
   position: image_left
   title: Ouderwets persoonlijke service
   image_position: ''
-- content: 'Zakelijke telefonie is zoveel meer dan een vast nummer en één of meerdere
-    toestellen die gaan rinkelen. Naast onze schaalbare, slimme <a href="/telefonie/functionaliteiten/">online
-    centrale</a> met alles erop en eraan, bieden wij bellen met jouw vaste nummer
-    via <a href="/qaller">een app.</a> Of een compleet in onze centrale <a href="/vamos">geïntegreerde
-    sim-kaart.</a> <br><br>Bij ons kun je bovendien terecht voor een totaalplaatje.
-    We leveren via onze webshops de nieuwste toestellen of headsets en kunnen je ook
-    voorzien van jouw zakelijke internetverbinding. <br>Kortom: alles onder 1 dak
-    bij Callvoip!'
+- content: 'Zakelijke telefonie is zoveel meer dan een vast nummer en één of meerdere toestellen die gaan rinkelen. Naast onze slimme online centrale met alles erop en eraan, bieden wij bellen met jouw vaste nummer via <a href="/qaller">een app</a> op je smartphone. Of een compleet in onze centrale geïntegreerde <a href="/vamos">sim-kaart.</a> <br><br>Bij ons kun je bovendien terecht voor een totaalplaatje. We leveren via onze webshops de nieuwste toestellen of headsets en kunnen je ook voorzien van jouw zakelijke internetverbinding. Kortom: alles onder 1 dak bij Callvoip! <br>Kortom: alles onder 1 dak bij Callvoip!'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
   title: Vast mobiel integratie, apparatuur en meer
