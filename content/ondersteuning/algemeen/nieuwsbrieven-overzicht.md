@@ -66,8 +66,8 @@ aliases: "/nieuwsbrieven"
 
 <h3>2016</h3>
 
-* <a href="http://us6.campaign-archive2.com/?u=08692ad244c2648ffd651d0c5&id=edf04aeb95" target="_blank">CallvoipTelefonie nieuwsbrief 16-03-17: introductie Click to Dial</a>
-* <a href="http://us6.campaign-archive2.com/?u=08692ad244c2648ffd651d0c5&id=c2f012324d" target="_blank">CallvoipTelefonie nieuwsbrief 10-08-16: introductie Qaller Smartphone App</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/30.html" target="_blank">CallvoipTelefonie nieuwsbrief 16-03-17: introductie Click to Dial</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/31.html" target="_blank">CallvoipTelefonie nieuwsbrief 10-08-16: introductie Qaller Smartphone App</a>
 * <a href="https://us6.admin.mailchimp.com/campaigns/share?id=316201" target="_blank">CallvoipTelefonie nieuwsbrief 08-07-16: zomervakantie</a>
 * <a href="http://eepurl.com/b0_o8j" target="_blank">CallvoipTelefonie nieuwsbrief 13-05-16: Gespreksopname</a>
 * <a href="http://eepurl.com/bO3ROb" target="_blank">CallvoipTelefonie nieuwsbrief 03-02-16: Carnaval en gewijzigde openingstijden</a>
