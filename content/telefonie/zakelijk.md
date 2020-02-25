@@ -5,13 +5,7 @@ layout: default
 logos: true
 hero:
   title: Zakelijke telefonie van Callvoip
-  content: Wij begrijpen als geen ander hoe belangrijk een betrouwbare, flexibele
-    telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer
-    nodig, met een professionele uitstraling richting jouw klanten en waar je zelf
-    controle over hebt. <br><br>Daarom maken wij zakelijke telefonie gemakkelijk en
-    stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken
-    over een schat aan ervaring en slimme tips om de bereikbaarheid van onze klanten
-    te optimaliseren.<BR><BR>We staan voor je klaar!
+  content: Wij begrijpen hoe belangrijk een betrouwbare, flexibele telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt.<br><br> Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips om je bereikbaarheid te optimaliseren.<br><br>We staan voor je klaar!
   button:
     content: Offerte aanvragen
     link: "/offerte"
@@ -19,13 +13,7 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: Bij ons geen groot callcenter met een efficiëntie doelstelling maar een
-    compact, <a href="/overons/team/">enthousiast support team</a> wat nog de tijd
-    neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br><br>Jij
-    weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie en
-    die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen
-    je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen
-    je volledig.<br><br><a href="/tour" class="button">Maak kennis met Callvoip</a>
+- content: Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast <a href"/overons/team/">support team</a> wat de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br><br>Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie. En die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig. <br><br><a href="/tour" class="button">Maak kennis met Callvoip</a>
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_left
   title: Ouderwets persoonlijke service
