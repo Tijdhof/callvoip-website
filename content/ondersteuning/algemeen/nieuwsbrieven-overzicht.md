@@ -54,12 +54,12 @@ aliases: "/nieuwsbrieven"
 
 <h3>2017</h3>
 
-* <a href="http://mailchi.mp/callvoip/fijne-feestdagen-en-een-gelukkig-2018" target="_blank">CallvoipTelefonie nieuwsbrief 20-12-17: eindejaarsgroet</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/24.html" target="_blank">CallvoipTelefonie nieuwsbrief 20-12-17: eindejaarsgroet</a>
 * <a href="https://simmpl.nl/downloads/Simmpl_prijs-functie-tabel_Qaller.pdf" target="_blank">Simmpl vergelijkingstabel Qaller en Qaller Plus</a>
-* <a href="http://mailchi.mp/callvoip/simmpl_feature_update_november_2017-316625" target="_blank">CallvoipTelefonie nieuwsbrief 05-12-17: Qaller Plus Update december 2017</a>
-* <a href="http://mailchi.mp/callvoip/simmpl_feature_update_november_2017-316585" target="_blank">CallvoipTelefonie nieuwsbrief 10-11-17: Simmpl Feature Update november 2017</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/25.html" target="_blank">CallvoipTelefonie nieuwsbrief 05-12-17: Qaller Plus Update december 2017</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/26.html" target="_blank">CallvoipTelefonie nieuwsbrief 10-11-17: Simmpl Feature Update november 2017</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_nov_2017.pdf" target="_blank">Simmpl Feature Update – november 2017</a>
-* <a href="http://mailchi.mp/callvoip/simmpl_feature_update_juli_2017-316569" target="_blank">CallvoipTelefonie nieuwsbrief 27-09-17: Gouden Buur + hebben uw buren nog ISDN?</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/27.html" target="_blank">CallvoipTelefonie nieuwsbrief 27-09-17: Gouden Buur + hebben uw buren nog ISDN?</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_juli_2017.pdf" target="_blank">Simmpl Feature Update juli 2017</a>
 * <a href="http://mailchi.mp/callvoip/simmpl_feature_update_juli_2017" target="_blank">CallvoipTelefonie nieuwsbrief 27-07-17: Simmpl Feature Update – juli 2017</a>
 * <a href="http://mailchi.mp/callvoip/zo-bent-u-klaar-voor-de-vakantie-316541" target="_blank">CallvoipTelefonie nieuwsbrief 20-07-17: zomervakantie + feature update</a>
