@@ -7,7 +7,7 @@ description: ''
 images: []
 hideinsearch: true
 hideingoogle: true
-Nieuw: false
+Nieuw: true
 Update: false
 pdf: ''
 hidesocialshare: false
