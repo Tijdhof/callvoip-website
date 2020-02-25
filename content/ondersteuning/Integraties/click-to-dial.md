@@ -14,9 +14,9 @@ hidesocialshare: false
 Click-to-Dial is een gratis plug-in voor Google Chrome waarmee telefoonnummers op websites klikbaar worden zodat je sneller kunt bellen.  
 En het biedt nog veer meer!
 
-&bull; <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
+• <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1582575917/1-click-to-dial_fullscreenmodus_crkvqg.jpg)
+![](https://res.cloudinary.com/callvoip/image/upload/v1582637322/handleiding-image_v9hzpv.png)
 
 <h3>Click-to-Dial Chrome plugin</h3>
 
@@ -36,7 +36,7 @@ Breid de Callvoip telefooncentrale uit met de gratis Chrome plug-in!De plug-in b
 
 * Download de app <a href="https://goo.gl/Px9dGE" target="_blank">hier</a>
 * Log in met Simmpl gebruikersnaam en wachtwoord
-* Activeer en klaar! 
+* Activeer en klaar!
 
 <h3>0. Log in op de app</h3>  
 Installeer de app [via deze link](https://goo.gl/Px9dGE "via deze link").
