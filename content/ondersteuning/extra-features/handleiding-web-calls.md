@@ -3,7 +3,7 @@ title: Handleiding Web Calls
 weight: 2
 description: ''
 images: []
-pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf
+pdf: "https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf"
 hideinsearch: false
 Nieuw: true
 Update: false
