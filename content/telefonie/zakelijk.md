@@ -13,7 +13,7 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast <a href"/overons/team/">support team</a> wat de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br><br>Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie. En die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig. <br><br><a href="/tour" class="button">Maak kennis met Callvoip</a>
+- content: Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast <a href="/overons/team/">support team</a> wat de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br><br>Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie. En die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig. <br><br><a href="/tour" class="button">Maak kennis met Callvoip</a>
   image: "/v1566993176/lego_yv1a3b.png"
   position: image_left
   title: Ouderwets persoonlijke service
