@@ -61,8 +61,8 @@ aliases: "/nieuwsbrieven"
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_nov_2017.pdf" target="_blank">Simmpl Feature Update – november 2017</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/27.html" target="_blank">CallvoipTelefonie nieuwsbrief 27-09-17: Gouden Buur + hebben uw buren nog ISDN?</a>
 * <a href="https://www.simmpl.nl/downloads/Simmpl_feature-update_juli_2017.pdf" target="_blank">Simmpl Feature Update juli 2017</a>
-* <a href="http://mailchi.mp/callvoip/simmpl_feature_update_juli_2017" target="_blank">CallvoipTelefonie nieuwsbrief 27-07-17: Simmpl Feature Update – juli 2017</a>
-* <a href="http://mailchi.mp/callvoip/zo-bent-u-klaar-voor-de-vakantie-316541" target="_blank">CallvoipTelefonie nieuwsbrief 20-07-17: zomervakantie + feature update</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/28.html" target="_blank">CallvoipTelefonie nieuwsbrief 27-07-17: Simmpl Feature Update – juli 2017</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/29.html" target="_blank">CallvoipTelefonie nieuwsbrief 20-07-17: zomervakantie + feature update</a>
 
 <h3>2016</h3>
 
