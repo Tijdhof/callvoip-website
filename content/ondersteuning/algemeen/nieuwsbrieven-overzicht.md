@@ -68,10 +68,10 @@ aliases: "/nieuwsbrieven"
 
 * <a href="http://files.callvoip.nl/nieuwsbrieven/30.html" target="_blank">CallvoipTelefonie nieuwsbrief 16-03-17: introductie Click to Dial</a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/31.html" target="_blank">CallvoipTelefonie nieuwsbrief 10-08-16: introductie Qaller Smartphone App</a>
-* <a href="https://us6.admin.mailchimp.com/campaigns/share?id=316201" target="_blank">CallvoipTelefonie nieuwsbrief 08-07-16: zomervakantie</a>
-* <a href="http://eepurl.com/b0_o8j" target="_blank">CallvoipTelefonie nieuwsbrief 13-05-16: Gespreksopname</a>
-* <a href="http://eepurl.com/bO3ROb" target="_blank">CallvoipTelefonie nieuwsbrief 03-02-16: Carnaval en gewijzigde openingstijden</a>
-* <a href="http://eepurl.com/bOgRQf" target="_blank">CallvoipTelefonie nieuwsbrief 27-01-16: *8 CallPickup</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/32.html" target="_blank">CallvoipTelefonie nieuwsbrief 08-07-16: zomervakantie</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/33.html" target="_blank">CallvoipTelefonie nieuwsbrief 13-05-16: Gespreksopname</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/34.html" target="_blank">CallvoipTelefonie nieuwsbrief 03-02-16: Carnaval en gewijzigde openingstijden</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/35.html" target="_blank">CallvoipTelefonie nieuwsbrief 27-01-16: *8 CallPickup</a>
 
 <h3>2015</h3>
 
