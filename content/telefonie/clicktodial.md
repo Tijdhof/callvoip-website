@@ -83,7 +83,3 @@ menu:
     post: fa-laptop
 
 ---
-## Wat kost de Click-to-Dial?
-
-**Helemaal niets!**   
-De Click-to-Dial is gratis voor klanten van Callvoip.
