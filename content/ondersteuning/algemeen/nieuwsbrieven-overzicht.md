@@ -75,10 +75,10 @@ aliases: "/nieuwsbrieven"
 
 <h3>2015</h3>
 
-* <a href="http://eepurl.com/bFRbSn" target="_blank">CallvoipTelefonie nieuwsbrief 11-12-15: feestdagen: instellingen en meldteksten</a>
-* <a href="http://eepurl.com/bo_ypj" target="_blank">CallvoipTelefonie nieuwsbrief 23-09-15: prefix-app en toestelaanbieding</a>
-* <a href="http://eepurl.com/RC7Yf" target="_blank">CallvoipTelefonie Supportmededeling 16-09-15: BLF</a>
-* <a href="http://eepurl.com/bsTK-z" target="_blank">CallvoipTelefonie nieuwsbrief 15-07-15: vakantiemeldtekst</a>
-* <a href="http://eepurl.com/bo_ypj" target="_blank">CallvoipTelefonie nieuwsbrief 30-06-15: omleidings-app</a>
-* <a href="http://eepurl.com/bpxhn5" target="_blank">CallvoipTelefonie nieuwsbrief 16-06-15: SimmplBundels</a>
-* <a href="http://eepurl.com/XRH-z" target="_blank">CallvoipTelefonie nieuwsbrief 02-06-15: introductie Simmpl</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/36.html" target="_blank">CallvoipTelefonie nieuwsbrief 11-12-15: feestdagen: instellingen en meldteksten</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/37.html" target="_blank">CallvoipTelefonie nieuwsbrief 23-09-15: prefix-app en toestelaanbieding</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/38.html" target="_blank">CallvoipTelefonie Supportmededeling 16-09-15: BLF</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/39.html" target="_blank">CallvoipTelefonie nieuwsbrief 15-07-15: vakantiemeldtekst</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/40.html" target="_blank">CallvoipTelefonie nieuwsbrief 30-06-15: omleidings-app</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/41.html" target="_blank">CallvoipTelefonie nieuwsbrief 16-06-15: SimmplBundels</a>
+* <a href="http://files.callvoip.nl/nieuwsbrieven/42.html" target="_blank">CallvoipTelefonie nieuwsbrief 02-06-15: introductie Simmpl</a>
