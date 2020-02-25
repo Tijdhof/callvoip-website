@@ -1,8 +1,8 @@
 ---
-title: Callvoip Cast: Meldtekst Inspreken
+title: 'Callvoip Cast: Meldtekst Inspreken'
 weight: 1
 onderdelen:
-- InstructieVideos
+- Instructie Videos
 description: ''
 images: []
 hideinsearch: true
