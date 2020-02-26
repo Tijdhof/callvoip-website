@@ -5,7 +5,13 @@ layout: default
 logos: true
 hero:
   title: Zakelijke telefonie van Callvoip
-  content: Wij begrijpen hoe belangrijk een betrouwbare, flexibele telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt.<br><br> Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring en slimme tips om je bereikbaarheid te optimaliseren.<br><br>We staan voor je klaar!
+  content: Wij begrijpen hoe belangrijk een betrouwbare, flexibele telefonie oplossing
+    is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele
+    uitstraling richting jouw klanten en waar je zelf controle over hebt.<br><br>
+    Daarom maken wij zakelijke telefonie gemakkelijk en stellen wij jouw bereikbaarheid
+    centraal. En minstens zo belangrijk, we beschikken over een schat aan ervaring
+    en slimme tips om je bereikbaarheid te optimaliseren.<br><br>We staan voor je
+    klaar!
   button:
     content: Offerte aanvragen
     link: "/offerte"
@@ -13,12 +19,24 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- content: Bij ons geen groot callcenter met een efficiëntie doelstelling maar een compact, enthousiast <a href="/overons/team/">support team</a> wat de tijd neemt om altijd net dat stapje extra te zetten om jou te ondersteunen. <br><br>Jij weet veel van jouw product of dienst, wij weten veel van zakelijke telefonie. En die kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen je volledig. <br><br><a href="/tour" class="button">Maak kennis met Callvoip</a>
-  image: "/v1566993176/lego_yv1a3b.png"
+- content: Bij ons geen groot callcenter met een efficiëntie doelstelling maar een
+    compact, enthousiast <a href="/overons/team/">support team</a> wat de tijd neemt
+    om altijd net dat stapje extra te zetten om jou te ondersteunen. <br><br>Jij weet
+    veel van jouw product of dienst, wij weten veel van zakelijke telefonie. En die
+    kennis zetten we maximaal in om jouw bereikbaarheid te garanderen. We kunnen je
+    laten zien hoe het werkt, zodat je er zelf mee aan de slag kan, of we ontzorgen
+    je volledig. <br><br><a href="/tour" class="button">Maak kennis met Callvoip</a>
+  image: "/v1582727077/supporthelden_klkhqu.png"
   position: image_left
   title: Ouderwets persoonlijke service
   image_position: ''
-- content: 'Zakelijke telefonie is zoveel meer dan een vast nummer en één of meerdere toestellen die gaan rinkelen. Naast onze slimme online centrale met alles erop en eraan, bieden wij bellen met jouw vaste nummer via <a href="/qaller">een app</a> op je smartphone. Of een compleet in onze centrale geïntegreerde <a href="/vamos">sim-kaart.</a> <br><br>Bij ons kun je bovendien terecht voor een totaalplaatje. We leveren via onze webshops de nieuwste toestellen of headsets en kunnen je ook voorzien van jouw zakelijke internetverbinding.<br>Kortom: alles onder 1 dak bij Callvoip!'
+- content: 'Zakelijke telefonie is zoveel meer dan een vast nummer en één of meerdere
+    toestellen die gaan rinkelen. Naast onze slimme online centrale met alles erop
+    en eraan, bieden wij bellen met jouw vaste nummer via <a href="/qaller">een app</a>
+    op je smartphone. Of een compleet in onze centrale geïntegreerde <a href="/vamos">sim-kaart.</a>
+    <br><br>Bij ons kun je bovendien terecht voor een totaalplaatje. We leveren via
+    onze webshops de nieuwste toestellen of headsets en kunnen je ook voorzien van
+    jouw zakelijke internetverbinding.<br>Kortom: alles onder 1 dak bij Callvoip!'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
   title: Vast mobiel integratie, apparatuur en meer
