@@ -32,8 +32,8 @@ blocks:
   image_position: ''
 - content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
     vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
-    toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller</a>
-    of met volledige vast mobiel integratie via <a href="/telefonie/vastmobielintegratie/">Vamos</a>.<BR><BR>
+    toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller,</a>
+    of <a href="/telefonie/vastmobielintegratie/">Vamos</a> (volledige vast- en mobiele integratie).<BR><BR>
     <a href="/offerte" class="button">Offerte aanvragen</a>'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
