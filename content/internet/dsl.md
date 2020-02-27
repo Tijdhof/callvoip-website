@@ -18,7 +18,7 @@ blocks:
 logos: false
 hero:
   title: CallvoipDSL
-  content: DSL-verbindingen komen er in vele soorten en maten. De meestvoorkomende
+  content: DSL-verbindingen zijn er in vele soorten en maten. De meestvoorkomende
     zijn ADSL, ADSL2+, VDSL en VDSL2. Maar tegenwoordig komt vectoring en bonding
     ook steeds meer voor.
   button:
