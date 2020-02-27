@@ -10,9 +10,9 @@ hero:
     link: "/telefonie/hostedvoip"
   items:
   - icon: fa-cloud
-    title: Maatwerk op de plank voor elke branche
+    title: Zakelijke telefonie
     content: 'Hosted telefonie van :house: 1 tot 100+ :office: gebruikers'
-    link: oplossingen/branches/
+    link: zakelijk/
     id: cta-mkb
     iconimage: ''
   - iconimage: "/icons/qaller-icon.svg"
