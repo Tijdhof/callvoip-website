@@ -1,7 +1,7 @@
 ---
 title: Fax | VoIP-Functionaliteit | Faxen zonder faxapparaat
-description: Faxen met een faxapparaat is verleden tijd. Verzend uw faxen online en
-  ontvang inkomende faxen als een pdf-bestand in uw e-mail.type: page
+description: Faxen met een faxapparaat is verleden tijd. Verzend uw faxen online en ontvang inkomende faxen als een pdf-bestand in uw e-mail.
+type: page
 layout: default
 logos: true
 aliases: "/fax2"
