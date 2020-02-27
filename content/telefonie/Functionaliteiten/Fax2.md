@@ -16,7 +16,7 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    Maakt u nog gebruik van een faxapparaat of staat uw faxnummer nog op uw briefpapier? Dan kunt u het faxnummer behouden en binnenkomende faxen worden naar uw email gestuurd. Ook uitgaand kunt u faxen door een PDF te uploaden op de telefooncentrale. Zo kunt u faxen ontvangen en verzenden zonder faxapparaat. <a href="https://www.callvoip.nl/ondersteuning/fax-voicemail/fax-versturen/" class="button">Hoe werkt het?</a>
+    Maakt u nog gebruik van een faxapparaat of staat uw faxnummer nog op uw briefpapier? Dan kunt u het faxnummer behouden en binnenkomende faxen worden naar uw email gestuurd. Ook uitgaand kunt u faxen door een PDF te uploaden op de telefooncentrale. Zo kunt u faxen ontvangen en verzenden zonder faxapparaat. <br><br><a href="https://www.callvoip.nl/ondersteuning/fax-voicemail/fax-versturen/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/webcalls_ejtcdu.png"
   position: image_left
   title: 'Waarom een Faxbox?'
