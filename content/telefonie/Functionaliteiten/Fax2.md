@@ -12,28 +12,28 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Offerte aanvragen
-    link: "/offerte"
+    content: Bereken je kosten
+    link: "/calculator"
 blocks:
 - content: |-
-    'Met een faxbox kunt u faxberichten ontvangen én versturen. Hiervoor heeft u geen fysiek faxapparaat meer nodig, alles gaat via internet. <b>Inkomende faxberichten</b> komen als PDF-bericht per email op één of meer emailadressen binnen. Wilt u een **fax versturen**, dan kunt u het te faxen bestand als PDF-document uploaden op de telefooncentrale. Het bericht komt dan bij uw relatie als fax binnen.'
+    'Maakt u nog gebruik van een faxapparaat of staat uw faxnummer nog op uw briefpapier? Dan kunt u het faxnummer behouden en binnenkomende faxen worden naar uw email gestuurd. Ook uitgaand kunt u faxen door een PDF te uploaden op de telefooncentrale. Zo kunt u faxen ontvangen en verzenden zonder faxapparaat.'
   image: "/v1572861318/webcalls_ejtcdu.png"
   position: image_left
-  title: 'Web Calls – wat is er nodig?'
+  title: 'Waarom een Faxbox?'
   image_position: center
 prijzen:
-- title: Belgroep (Huntgroup)
-  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).'
+- title: Faxbox
+  content: 'Met een faxbox kunt u faxberichten ontvangen én versturen.'
   button:
-    title: Bereken uw kosten
+    title: Bereken je kosten
     link: "/calculator/"
   tarieven:
     title: Wat zijn de kosten?
     items:
     - title: Maandelijks
-      price: '0.00'
+      price: '4.00'
     - title: Eenmalig
-      price: '0.00'
+      price: '5.00'
 images: []
 hideinsearch: false
 hideingoogle: false
