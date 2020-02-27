@@ -3,6 +3,7 @@ title: Zakelijke Telefonie
 type: page
 layout: default
 logos: true
+url: /zakelijk
 hero:
   title: Zakelijke telefonie van Callvoip
   content: Wij begrijpen hoe belangrijk een betrouwbare, flexibele telefonie oplossing
