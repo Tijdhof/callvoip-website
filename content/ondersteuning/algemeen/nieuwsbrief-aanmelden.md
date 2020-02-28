@@ -1,5 +1,5 @@
 ---
-title: 'Aanmelden voor onze Nieuwsbrief'
+title: 'Meld je aan voor onze nieuwsbrief'
 description: ''
 images: []
 hideinsearch: false
