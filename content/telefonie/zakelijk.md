@@ -103,11 +103,10 @@ prijzen:
       price: '2.00'
     - title: Extra kanalen (6x)
       price: '15.00'
-description: Ontdek de volgende fase in hosted voip. Slim bereikbaar vanuit de cloud,
-  wanneer en waar je wilt. Bekijk alle mogelijkheden en onze interessante abonnementen.
+description:  Callvoip begrijpt hoe belangrijk een betrouwbare, flexibele zakelijke telefonie oplossing is voor jouw organisatie. Een oplossing die meegroeit wanneer nodig, met een professionele uitstraling richting jouw klanten en waar je zelf controle over hebt.
 images: []
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: true
 
 ---
