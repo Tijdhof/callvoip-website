@@ -37,7 +37,7 @@ Qaller is een gratis Smartphone app en de afstandsbediening bij de Callvoip tele
 
 Klik op \[bewerk mijn persoonlijk belplan\] en kies het nummer dat je wilt beheren:
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1573415527/Qaller_afstandsbediening_752x412_az8ouz.jpg)
+![](https://res.cloudinary.com/callvoip/image/upload/v1583080952/Qaller_geheel_wl2gmj.jpg)
 
 <h3>Omleidingen aan en uitschakelen met Qaller</h3>
 
