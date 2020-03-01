@@ -32,9 +32,9 @@ Wil je een regionale uitstraling? Callvoip levert telefoonnummers uit **alle reg
 
 Heb je meer telefoonnummers nodig? Dan kun je kiezen voor een nummerblok met 10 opéénvolgende telefoonnummers. Handig als je iedere afdeling een eigen nummer wilt geven of als iedere medewerker direct bereikbaar moet zijn.
 
-* Nummers uit alle regio’s
-* Binnen 24 uur actief
-* Ook met nummerbehoud <br><br>
+* nummers uit alle regio’s
+* binnen 24 uur actief
+* ook met nummerbehoud <br><br>
 
 ### Landelijke nummers
 
@@ -50,7 +50,7 @@ Werk je landelijk of wil je een landelijke uitstraling? Kies voor **landelijke n
 
 {{< layout/column2 >}}
 
-<u>**088-nummer**</u>: 088-nummers zijn zakelijke, landelijke nummerblokken. 088-nummers kun je per 100 of zelfs per 1000 stuks aanvragen. Je vraagt ze aan bij de [ACM ](https://www.acm.nl/nl/onderwerpen/telecommunicatie/telefoonnummers/aanvragen-nummers/formulieren/2-088-bedrijfsnummers/)en kunt ze daarna koppelen met onze centrale.
+<u>**088-nummer**</u>: 088-nummers zijn zakelijke, landelijke nummerblokken. 088-nummers kun je per blok van 100 nummers aanvragen. Je vraagt het nummerblok aan bij de [ACM ](https://www.acm.nl/nl/onderwerpen/telecommunicatie/telefoonnummers/aanvragen-nummers/formulieren/2-088-bedrijfsnummers/)en kunt het daarna koppelen aan onze dienst.
 
 {{</ layout/column2 >}}
 
@@ -58,11 +58,13 @@ Werk je landelijk of wil je een landelijke uitstraling? Kies voor **landelijke n
 
 ### Internationale nummers
 
-Met **internationale** nummers ben je ook bereikbaar voor jouw buitenlandse klanten. Heb je een Belgisch- of Duits telefoonnummer? Dan heb je geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar Callvoip. <br><br>
+Met **internationale** nummers ben je ook bereikbaar voor jouw buitenlandse klanten. Heb je een Belgisch- of Duits telefoonnummer? Dan heb je geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar Callvoip. <br>  
+De kosten van een buitenlands nummer variëren, [vraag dit vrijblijvend bij ons na](https://www.callvoip.nl/contact/).   
+**NB:** in veel gevallen is een adres in het buitenland nodig om een buitenlands nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land waar jij een nummer wenst. <br><br>
 
-### Service nummers
+### Servicenummers
 
-Wens je een professionele klantenservice op te zetten, kies dan voor een **servicenummer**. Deze is er in twee vormen: 0800 of 0900.
+Wens je een professionele klantenservice op te zetten, kies dan voor een **servicenummer**. Deze is er in twee soorten: 0800 of 0900.
 
 {{< layout/columns >}}
 
