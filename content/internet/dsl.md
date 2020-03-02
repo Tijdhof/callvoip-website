@@ -73,8 +73,9 @@ menu:
 ---
 {{< dsl-tabel >}}
 <br>
-\*i.c.m. Draytek router
-
+*Maximale snelheid is afhankelijk van locatie
+**i.c.m. Draytek router
+<br>
 ## Extra mogelijkheden CallvoipDSL
 
 * <b>PIN over IP</b> - €5,- per maand (excl. BTW)<br> Een gecertificeerde ADSL-lijn is uitstekend voor PIN over IP. Pinnen duurt voortaan slechts enkele seconden en zonder kosten.
