@@ -28,6 +28,8 @@ _Een lijfspreuk is het volgens mij niet maar iets wat bij mij persoonlijk past i
 
 > #### **_"Bestaat het niet, dan maak je het"_**
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/2020-03-05_qvdt1a.png
+
 ### Waarom doe je wat je doet en waarom zou een potentiële klant voor jullie moeten kiezen ipv de concurrent?
 
 _"Onze relaties kiezen voor onze dienstverlening nadat er eerlijk advies gegeven is. Er is in onze branche een groot aantal bedrijven werkzaam dat mensen bang maakt en hiermee contracten verkoopt met apparatuur waarmee ze alleen bij hun terecht kunnen. Is de klant ontevreden dan hebben ze pech en kunnen ze nergens anders terecht. Wij werken met Risco Beveiligingssystemen, deze zijn door meerdere bedrijven te onderhouden, is onze relatie ontevreden dan kan hij makkelijk over switchen naar een collega. Juist deze transparantie zorgt ervoor dat er nagenoeg geen contracten bij ons opgezegd worden."_
