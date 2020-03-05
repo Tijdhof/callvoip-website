@@ -37,4 +37,4 @@ Om dit soort negatieve gevolgen te helpen voorkomen draagt Callvoip een steentje
 **Noot voor de redactie:
 Download hier ons ingesproken algemene Corona informatiebandje, of neem contact met ons op om een bandje te laten inspreken naar eigen wens. U kunt bellen via 050 8200000 of email naar callvoip@callvoip.nl**
 
-<a href="https://files.callvoip.nl/downloads/coronamelding.mp3" class="button">Bericht downloaden</a>
+<a href="https://files.callvoip.nl/downloads/coronamelding.mp3" target="_blank" class="button">Bericht downloaden</a>
