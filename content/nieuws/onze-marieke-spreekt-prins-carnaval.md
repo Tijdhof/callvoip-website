@@ -3,7 +3,7 @@ title: Onze Marieke spreekt Prins Carnaval
 description: 'Wij zorgen voor een ongestoord carnavalsfeest! '
 images:
 - "/v1582100056/carnaval_youtube_q5b45m.png"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
