@@ -28,7 +28,7 @@ _Een lijfspreuk is het volgens mij niet maar iets wat bij mij persoonlijk past i
 
 > #### **_"Bestaat het niet, dan maak je het"_**
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/2020-03-05_qvdt1a.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/lam_e7splo.png)
 
 ### Waarom doe je wat je doet en waarom zou een potentiële klant voor jullie moeten kiezen ipv de concurrent?
 
