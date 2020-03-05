@@ -40,4 +40,6 @@ _"Belangrijke voordelen waarom wij werken met Callvoip is dat zei ook investeren
 
 ### Hebben jullie misschien een toepasbare, liefst originele lijfspreuk voor het leven?
 
-_"Een lijfspreuk is het volgens mij niet maar iets wat bij mij persoonlijk past is "Bestaat het niet, dan maak je het"_
+_Een lijfspreuk is het volgens mij niet maar iets wat bij mij persoonlijk past is:_
+
+> _"Bestaat het niet, dan maak je het"_
