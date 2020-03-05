@@ -22,6 +22,8 @@ tags: []
 type: ''
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/2_clulsc.jpg)
+
 #### PERSBERICHT
 
 **Callvoip bespeurt dat klanten zoals huisartsen verspreid over het land, worden overspoeld door cliënten inzake prangende vragen over het Coronavirus. Deze vragen dienen adequaat en informatief juist te worden behandeld. Daarom is een professioneel ingerichte telefooncentrale meer dan ooit een noodzaak. Ook klanten die een explosieve vraag naar desinfecterende middelen ervaren, zijn gebaat bij in goede banen geleide telefonie. Er is daarop besloten bij Callvoip om deze klanten tegemoet te komen en het accuraat inspreken van bandjes gratis aan te bieden.**
