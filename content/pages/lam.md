@@ -1,6 +1,6 @@
 ---
 type: page
-title: Callvoip Stage | LAM Beveiligingstechniek
+title: Callvoip doet zo nu en dan graag een stapje terug..
 description: Callvoip zet een klant op het podium.
 images:
 - "/v1567165784/icon_hwk0eh.png"
@@ -12,7 +12,7 @@ hidesocialshare: false
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/65_hm1o1z.png)
 
-### Callvoip doet zo nu en dan graag een stapje terug..
+### Callvoip Podium | LAM Beveiligingstechniek
 
 Hoi allemaal! Even een flashback naar afgelopen december. Weten jullie het nog, het Callvoip Kerstverhaal met onze klant Progress Events in de schijnwerpers? Niet te geloven hoeveel animo er bleek te zijn onder jullie lezers om over een inspirerend bedrijfsverhaal te vernemen. Zoals afgesproken gaat Callvoip dan ook vaker haar klanten op ons podium zetten. Waarom? Simpel, we geven graag en zijn daarbij dankbaar voor de leuke samenwerkingen.
 
