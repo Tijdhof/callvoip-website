@@ -1,5 +1,5 @@
 ---
-title: Callvoip geeft ingesproken bandjes weg aan klanten om Corona
+title: Zorgverleners beter bereikbaar door informatiebandje van Callvoip
 description: Callvoip bespeurt dat klanten zoals huisartsen verspreid over het land,
   worden overspoeld door cliënten inzake prangende vragen over het Coronavirus.
 images:
