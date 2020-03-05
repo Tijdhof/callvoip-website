@@ -26,7 +26,7 @@ _"Wij zijn Lam Beveiligingstechniek, specialist op het gebied van inbraakbeveili
 
 _Een lijfspreuk is het volgens mij niet maar iets wat bij mij persoonlijk past is:_
 
-> _**"Bestaat het niet, dan maak je het"**_
+> #### **_"Bestaat het niet, dan maak je het"_**
 
 ### Waarom doe je wat je doet en waarom zou een potentiële klant voor jullie moeten kiezen ipv de concurrent?
 
@@ -43,4 +43,3 @@ _"Ondanks al deze automatische processen is persoonlijk contact of dat ene gerus
 ### Wat zijn voor jullie belangrijke (voor)-waarden binnen samenwerkingen op B2B-gebied, zoals bijvoorbeeld met een bedrijf als Callvoip?
 
 _"Belangrijke voordelen waarom wij werken met Callvoip is dat zei ook investeren in de nieuwste technieken en een betrouwbaar voip platform bieden, met een eerlijke prijs kwaliteit verhouding."_
-
