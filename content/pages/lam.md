@@ -20,7 +20,7 @@ De volgende klant die wij graag op ons podium zetten is Lam Beveiligingstechniek
 
 ### Zouden jullie jezelf eens willen voorstellen aan het publiek?
 
-_"Wij zijn Lam Beveiligingstechniek, specialist op het gebied van inbraakbeveiliging met 25 jaar ervaring. Voor zowel inbraakdetectiesystemen, camerasystemen en aanverwante beveiliging. In de laatste jaren hebben wij vooral een specialisatie ontwikkeld voor doormelden van beveiliging naar de eindgebruiker. Mede hierdoor is "Siacom" ontstaan, een platform waar door melding van professionele beveiligingssystemen plaatsvind. Dit platform wordt niet alleen door ons gebruikt maar ook door steeds meer enthousiaste collega installateurs. ( voor historie zie ook https://www.lambeveiliging.nl/historie )"_
+_"Wij zijn Lam Beveiligingstechniek, specialist op het gebied van inbraakbeveiliging met 25 jaar ervaring. Voor zowel inbraakdetectiesystemen, camerasystemen en aanverwante beveiliging. In de laatste jaren hebben wij vooral een specialisatie ontwikkeld voor doormelden van beveiliging naar de eindgebruiker. Mede hierdoor is "Siacom" ontstaan, een platform waar door melding van professionele beveiligingssystemen plaatsvindt. Dit platform wordt niet alleen door ons gebruikt maar ook door steeds meer enthousiaste collega installateurs. ( voor historie zie ook https://www.lambeveiliging.nl/historie )"_
 
 ### Hebben jullie misschien een toepasbare, liefst originele lijfspreuk voor het leven?
 
@@ -36,7 +36,7 @@ _"Onze relaties kiezen voor onze dienstverlening nadat er eerlijk advies gegeven
 
 ### Waarvan worden jullie blij binnen jullie dagelijkse werkzaamheden?
 
-_"Wij worden blij van de automatische processen die we ontwikkeld hebben, zo worden onze relaties automatisch herinnert als er onderhoud aan hun beveiliging nodig is, krijgen ze direct een onderhoud/werk bon na ons bezoek en kunnen wij bij 99% op afstand problemen oplossen door middel van onze klant beheer server, dit bespaart ons enorm veel werk."_
+_"Wij worden blij van de automatische processen die we ontwikkeld hebben, zo worden onze relaties automatisch herinnerd als er onderhoud aan hun beveiliging nodig is, krijgen ze direct een onderhoud/werk bon na ons bezoek en kunnen wij bij 99% op afstand problemen oplossen door middel van onze klant beheer server, dit bespaart ons enorm veel werk."_
 
 ### Zien jullie voordelen en/of nadelen t.o.v. de rol van zakelijke telefonie & internet, met betrekking tot jullie bedrijfsvoering, en zo ja waar lopen jullie zoal tegenaan?
 
@@ -44,4 +44,4 @@ _"Ondanks al deze automatische processen is persoonlijk contact of dat ene gerus
 
 ### Wat zijn voor jullie belangrijke (voor)-waarden binnen samenwerkingen op B2B-gebied, zoals bijvoorbeeld met een bedrijf als Callvoip?
 
-_"Belangrijke voordelen waarom wij werken met Callvoip is dat zei ook investeren in de nieuwste technieken en een betrouwbaar voip platform bieden, met een eerlijke prijs kwaliteit verhouding."_
+_"Belangrijke voordelen waarom wij werken met Callvoip is dat zij ook investeren in de nieuwste technieken en een betrouwbaar voip platform bieden, met een eerlijke prijs kwaliteit verhouding."_
