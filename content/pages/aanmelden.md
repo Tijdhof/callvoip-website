@@ -1,5 +1,6 @@
 ---
 title: 'Nieuwsbrief Light: alleen de noodzakelijke mails'
+url: aanmeldennieuwsbrieflight
 description: ''
 images: []
 hideinsearch: true
@@ -22,4 +23,4 @@ Je ontvangt **geen**:
 
 Dus: wil je op de hoogte blijven maar verder niks? Meld je dan aan voor onze Nieuwsbrief Light via onderstaand formulier.
 
-<iframe width="650" height="750" src="https://f3268d6b.sibforms.com/serve/MUIEABie7PbUS2WQnjnrCMkHz4rDCbv5d4ak1TWA2PUQG4XfF-ylzhO4Fy7ZY6HCyFYPUPivs--KZr5uTysT0iIiTVo9akSVmQY-4ri6uAkf_qC-8-drchsLDxRoFijXXK7WQZVX9zyyUTW9h514xrdWIXq6VvVYOgcBCi8nnbbpuVZTdKiCL0GLvIaHyllQCiWltT8_P1n-blx3" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="650" height="800" src="https://f3268d6b.sibforms.com/serve/MUIEABie7PbUS2WQnjnrCMkHz4rDCbv5d4ak1TWA2PUQG4XfF-ylzhO4Fy7ZY6HCyFYPUPivs--KZr5uTysT0iIiTVo9akSVmQY-4ri6uAkf_qC-8-drchsLDxRoFijXXK7WQZVX9zyyUTW9h514xrdWIXq6VvVYOgcBCi8nnbbpuVZTdKiCL0GLvIaHyllQCiWltT8_P1n-blx3" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
