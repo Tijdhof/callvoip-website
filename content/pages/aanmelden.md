@@ -7,19 +7,19 @@ hideingoogle: true
 hidesocialshare: false
 
 ---
-Wist je dat...
+**Wist je dat...**
 
-...we je via onze nieuwsbrief ook op de hoogte brengen van nieuwe functionaliteiten en updates? We doen ons best om daarnaast ook leuke content te bedenken en versturen, maar als je liever alleen deze nuttige info voor jou als klant wilt ontvangen, kan dat. Meld je dan hieronder aan voor onze Nieuwsbrief Light (Alleen voor klanten van Callvoip).
+...we je via onze nieuwsbrief ook op de hoogte brengen van nieuwe **functionaliteiten** en updates? We doen ons best om daarnaast ook leuke content te bedenken en versturen, maar als je liever alleen deze **nuttige** info voor jou als klant wilt ontvangen, kan dat. Meld je dan hieronder aan voor onze Nieuwsbrief Light (Alleen voor klanten van Callvoip).
 
-Via onze Nieuwsbrief Light ontvang je:
+Via onze **Nieuwsbrief Light** ontvang je:
 
 * Aankondigingen van nieuwe functionaliteiten.
 * De laatste updates van de functionaliteiten binnen ons systeem 
 * Evt. meldingen van storingen
 
-Je ontvangt geen:
+Je ontvangt **geen**:
 
-* Marketing of verkoop berichten
+* **Marketing** of verkoop berichten
 * Verkoopgerelateerde berichten
 
 Dus: wil je op de hoogte blijven maar verder niks? Meld je dan aan voor onze Nieuwsbrief Light via onderstaand formulier.
