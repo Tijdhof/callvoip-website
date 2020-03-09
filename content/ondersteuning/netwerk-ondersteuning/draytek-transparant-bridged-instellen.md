@@ -19,16 +19,16 @@ Een Draytek die gebridged is (transparant) zal geen NAT toepassen en geen NAT ge
 
 In het rechts te downloaden document vind je achtereenvolgens:
 
-1\. **hoe je een Draytek v130 modem-router bridged (transparant) instelt**
+### 1. hoe je een Draytek v130 modem-router bridged (transparant) instelt
 
 > let op: na configuratie kun je hem niet meer benaderen omdat hij transparant is.  
 > Wil je dat wel, reset hem dan en stel hem opnieuw in.
 
-2\. **hoe je een Draytek v2862 modem-router bridged (transparant) instelt**
+### 2. hoe je een Draytek v2862 modem-router bridged (transparant) instelt
 
 > let op: na configuratie kun je hem niet meer benaderen omdat hij transparant is.  
 > Wil je dat wel, reset hem dan en stel hem opnieuw in.
 
-3\. **hoe je een Draytek router instelt die achter het bridged apparaat staat**
+### 3. hoe je een Draytek router instelt die achter het bridged apparaat staat
 
 > deze krijgt het publieke IP adres van de verbinding
