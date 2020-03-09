@@ -1,5 +1,5 @@
 ---
-title: 'Meld je aan voor onze nieuwsbrief'
+title: 'Nieuwsbrief Light: alleen de noodzakelijke mails'
 description: ''
 images: []
 hideinsearch: true
