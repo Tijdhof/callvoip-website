@@ -6,9 +6,9 @@ aliases: "casts"
 searchtags:
     - casts
 hero:
-  image: "/v1570097106/casts_header_ospidn.png"
+  image: "/v1570097106/Untitled-1_jgeyxb.png"
   title: Callvoip Casts instructie Videos
-  mobile: "/v1570097106/casts_header_ospidn.png"
+  mobile: "/v1570097106/Untitled-1_jgeyxb.png"
   link: ''
 description: Callvoip casts, handige instructie videos over de telefooncentrale van Callvoip.
 images:
