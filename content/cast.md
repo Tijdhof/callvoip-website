@@ -16,7 +16,7 @@ images:
 layout: landing
 textblocks:
 - 
-  title1: 'Bandje instellen'
+  title1: 'Meldteksten inspreken'
   top_title: 'Callvoip Casts'
   top_content: "Handige instructie videos over de telefooncentrale van Callvoip."
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
