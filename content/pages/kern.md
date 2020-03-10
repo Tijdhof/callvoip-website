@@ -10,7 +10,7 @@ hideingoogle: true
 hidesocialshare: false
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/65_hm1o1z.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1562335206/kern_nargjx.png)
 
 ### Callvoip Podium | Kern Makelaars
 
