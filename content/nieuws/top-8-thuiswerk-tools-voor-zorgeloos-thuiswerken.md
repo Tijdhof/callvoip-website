@@ -109,6 +109,8 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 In alle scenario’s:** neem vooral contact op met ons! Wij weten precies wat er kan, ook de dingen die jij niet bedenkt. Daar heb je ons voor. Dát noemen we: maatwerk op de plank - een zorgvuldig gelegd mozaïek aan mogelijkheden exact op maat voor jouw unieke situatie.   
 Uitgekiende telefonie-oplossingen voor slimme ondernemers. Zoals jij. 
 
+<br>
+
 Chat: <button type="button" class="text-blue font-medium" id="openChat">klik hier</button>  
 Tel: +31508200000  
 App: +31508200000  
