@@ -17,17 +17,6 @@ hero:
   image_position: start
   mobile: ''
   disable_image_on_mobile: false
-double_content:
-  left:
-    background: true
-    background_color: '#ebf2f7'
-    title: dit is titel van het blok
-    content: dit is de content van het blok
-  right:
-    background: false
-    background_color: '#fff'
-    title: dit is titel van het blok
-    content: dit is de content van het blok
 blocks:
 - title: Callvoip Glasvezel – dé beste basis voor VoIP!
   image: "/v1565858744/glasvezel_xgeang.png"
