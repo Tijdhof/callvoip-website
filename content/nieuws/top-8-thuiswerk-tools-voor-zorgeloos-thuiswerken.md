@@ -107,5 +107,9 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 
 **<h4>Wensen of vragen? Neem contact op via chat tel app of mail</h4>  
 In alle scenario’s:** neem vooral contact op met ons! Wij weten precies wat er kan, ook de dingen die jij niet bedenkt. Daar heb je ons voor. Dát noemen we: maatwerk op de plank.  
-Onze centrale vouwt haar vele mogelijkheden precies om uw situatie heen.  
-Mail ons: [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
+Onze centrale vouwt haar vele mogelijkheden precies om uw situatie heen.
+
+Chat: <button type="button" class="text-blue font-medium" id="openChat">klik hier</button>  
+Tel: +31508200000  
+App: +31508200000  
+Mail: [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
