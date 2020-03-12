@@ -88,7 +88,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 <br>
 
 **<h4>7. Slimme wachtrij met externe agenten</h4>**  
-**Wat is het?** Een wachtrij die al jouw gesprekken aanneemt. Handig op kantoor, maar wist je dat de wachtrij óók gesprekken aan externe nummers kan doorgeven? Ultieme flexibiliteit!  
+**Wat is het?** Een wachtrij die al jouw gesprekken aanneemt. Handig op kantoor, maar wist je dat de wachtrij óók gesprekken aan externe nummers kan doorgeven? Zo zijn de thuiswerkers op hun mobiel gewoon ingelogd. Ultieme flexibiliteit!  
 **Wat heb je nodig?** De wachtrij en je eigen thuis of mobiele nummer om aan te nemen.  
 **Wat kost het?** 4,- ex BTW per maand  
 **Installatietijd:** ca 5 minuten  
