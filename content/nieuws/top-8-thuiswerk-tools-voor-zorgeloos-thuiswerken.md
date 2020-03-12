@@ -34,19 +34,22 @@ Wat is het?** Gewoon je eigen kantoortoestel, dat je al hebt. Neem mee en sluit 
 Liever een apart thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvip.shop) vindt je een ruime keuze.  
 **Wat heb je nodig?** Een internetverbinding op de thuiswerkplek.  
 **Wat kost het?** Niet meer dan op kantoor, of 4,- per maand voor een extra toestelaccount.  
-**Installatietijd?** plug in en klaar
+**Installatietijd?** plug in en klaar  
+**Hoe?** Meenemen, inpluggen, bellen!
 
 **<h4>2. Qaller Plus smartphone app</h4>  
 Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel wordt, je kunt bellen en gebeld worden met het zaaknummer, intern bellen, gesprekken doorverbinden en call recording mits ingeschakeld.  
-**Wat heb je nodig?** Een smartphone (android of iphone) met WiFi of 4G  
+**Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi of 4G  
 **Wat kost het?** €4,- per gebruiker per maand  
-**Installatietijd?** 3 minuten
+**Installatietijd?** 3 minuten  
+**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/casts)
 
 **<h4>3. WebCalls</h4>  
 Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg geen telefoon nodig hebt! Enkel een adequaat headsetje en klaar is kees. Let op: je kunt nu alleen nog uitbellen met WebCalls, gebeld worden volgt in Q2-2020.  
-**Wat heb je nodig?** Een computer met internet en een bluetooth/USB headsetje  
+**Wat heb je nodig?** Een computer met internet en een bluetooth / USB headsetje  
 **Wat kost het?** Niets, dit is nu nog gratis  
-**Installatietijd?** 1 minuut
+**Installatietijd?** 1 minuut  
+**Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/casts)
 
 **<h4>4. Click to Dial</h4>  
 Wat is het?** Een handige toolkit met o.a. de ‘collegatab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden.  
