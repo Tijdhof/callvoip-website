@@ -23,11 +23,11 @@ tags: []
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1571403955/home_omkizz.png)
 
-**Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Het Coronavirus verspreidt zich in rap tempo over de globe. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:   
+**Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Het Coronavirus verspreidt zich in rap tempo over de globe. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:  
 \- kunnen medewerkers professioneel verantwoord en gezond thuiswerken  
-\- of moet de tent voor onbepaalde tijd op slot?   
-Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?   
-Met de slimme zakelijke telefonie van Callvoip wordt intern en extern communiceren vanuit huis kinderlijk eenvoudig doch efficiënt. Hier volgen de top 8 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
+\- of moet de tent voor onbepaalde tijd op slot?  
+Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?  
+Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenwerken en klanten helpen. Intern en extern communiceren wordt kinderlijk eenvoudig en bovendien doeltreffend en efficiënt. Hier volgen de top 8 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
 
 **<h4>1. Neem je toestel mee naar huis</h4>  
 Wat is het?** Gewoon je eigen kantoortoestel, dat je al hebt. Neem mee en sluit hem thuis aan. Het toestel werkt onafhankelijk van de kantoorlocatie op elke internetverbinding.  
@@ -52,7 +52,7 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 **Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/casts)
 
 **<h4>4. Click to Dial</h4>  
-Wat is het?** Een handige toolkit met o.a. de ‘collegatab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden.  
+Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden.  
 **Wat heb je nodig?** Een computer of laptop met Google chrome browser  
 **Wat kost het?** Niets! Het is helemaal gratis, kado’tje van Callvoip!  
 **Installatietijd?** 3 minuten als het niet minder is.  
@@ -70,7 +70,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** De conference service en een telefoonnummer, en de bellers een telefoon of (prive-)mobiel.  
 **Wat kost het?** 10,- ex BTW per maand en setup 25,- ex BTW  
 **Installatietijd:** geen: inbellen en klaar!  
-**Hoe?** Vraag aan via [www.callvoip.nl/mijncallvoip/](https://www.callvoip.nl/mijncallvoip/),  
+**Hoe?** Vraag aan via [www.callvoip.nl/mijncallvoip/](https://www.callvoip.nl/mijncallvoip/)  
 **Uitleg:** [https://tinyurl.com/tqhhdxo](https://tinyurl.com/tqhhdxo "https://tinyurl.com/tqhhdxo")
 
 **<h4>7. Slimme wachtrij met externe agenten</h4>**  
