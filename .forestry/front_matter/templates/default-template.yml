@@ -78,6 +78,44 @@ fields:
     type: boolean
     label: Disable image on mobile
     default: false
+- type: field_group
+  name: double_content
+  label: Double content with BG
+  fields:
+  - type: field_group
+    name: left
+    label: Left
+    fields:
+      - type: boolean
+        field: background
+        label: Show background
+      - type: text
+        field: background_color
+        label: Background color (hex format)
+      - type: text
+        field: title
+        label: Title
+      - type: textarea
+        field: ontent
+        label: Content
+  - type: field_group
+    name: right
+    label: Right
+    fields:
+      - type: boolean
+        field: background
+        label: Show background
+      - type: text
+        field: background_color
+        label: Background color (hex format)
+      - type: text
+        field: title
+        label: Title
+      - type: textarea
+        field: ontent
+        label: Content
+        
+
 - type: field_group_list
   name: blocks
   label: Blocks
