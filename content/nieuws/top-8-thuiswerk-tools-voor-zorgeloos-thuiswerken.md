@@ -23,7 +23,11 @@ tags: []
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1571403955/home_omkizz.png)
 
-**Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Het Coronavirus spreidt zich in rap tempo uit over de globe. Hierdoor staan plotsklaps vele bedrijven- en organisaties voor een duivels dilemma; kunnen medewerkers professioneel verantwoord en gezond thuiswerken, of moet de tent voor onbepaalde tijd op slot? Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend een onwenselijke gedachte. Of hoeft dit helemaal niet zo te zijn? Met de slimme zakelijke telefonie van Callvoip wordt intern en extern communiceren vanuit huis kinderlijk eenvoudig doch efficiënt. Hier volgen de top 6 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
+**Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Het Coronavirus verspreidt zich in rap tempo over de globe. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:   
+\- kunnen medewerkers professioneel verantwoord en gezond thuiswerken  
+\- of moet de tent voor onbepaalde tijd op slot?   
+Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?   
+Met de slimme zakelijke telefonie van Callvoip wordt intern en extern communiceren vanuit huis kinderlijk eenvoudig doch efficiënt. Hier volgen de top 8 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
 
 **<h4>1. Neem je toestel mee naar huis</h4>  
 Wat is het?** Gewoon je eigen kantoortoestel, dat je al hebt. Neem mee en sluit hem thuis aan. Het toestel werkt onafhankelijk van de kantoorlocatie op elke internetverbinding.  
