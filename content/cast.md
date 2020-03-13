@@ -10,13 +10,13 @@ hero:
   title: Callvoip Casts instructie Videos
   mobile: "/v1570097106/cast_header_wkmhb2.png"
   link: ''
-description: Callvoip casts, handige instructie videos over de telefooncentrale van Callvoip. <br> <a href="#webcalls">Webcalls</a>
+description: Callvoip casts, handige instructie videos over de telefooncentrale van Callvoip.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
 textblocks:
 - 
-  title1: '<div id="webcalls>Webcalls handleiding</div>'
+  title1: 'Webcalls handleiding'
   top_title: 'Callvoip Casts'
   top_content: "Handige instructie videos over de telefooncentrale van Callvoip."
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
