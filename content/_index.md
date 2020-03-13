@@ -5,9 +5,10 @@ hero:
   content: Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
+    <br><br>Thuiswerken? Bekijk onze thuiswerke oplossingen, <a href="/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken/">klik hier!</a>
   button:
-    content: Thuiswerk oplossingen
-    link: "/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
+    content: Ontdek onze oplossing
+    link: "/telefonie/hostedvoip/"
   items:
   - icon: fa-cloud
     title: Zakelijke telefonie
