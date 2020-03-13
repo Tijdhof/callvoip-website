@@ -92,7 +92,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** Niets! de geluids-app en opnamebox zijn standaard!  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 5 minuut: bel 8000, zet de tekst(en) in je belplan en klaar!  
-**Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)
+**Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)<br>
 **Uitleg:** [www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken
 
 <br>
