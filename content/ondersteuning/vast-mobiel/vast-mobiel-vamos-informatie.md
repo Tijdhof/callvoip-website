@@ -9,7 +9,7 @@ Nieuw: false
 Update: false
 hideingoogle: false
 hidesocialshare: false
-
+aliases: 'info-vamos'
 ---
 Onze klanten vroegen om mobiele vrijheid, en deze wens is gehoord, Vamos is ons antwoord. Simmpl, de meest eenvoudige telefooncentrale is er vanaf nu ook voor mobiel! Callvoip voorziet je van een SIM-kaart met je eigen, of een nieuw, mobiel nummer. Met de handige Vamos app stel je gemakkelijk in hoe je wilt bellen en gebeld wilt worden.
 
