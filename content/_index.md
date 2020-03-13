@@ -6,8 +6,8 @@ hero:
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
   button:
-    content: Ontdek onze oplossing
-    link: "/telefonie/hostedvoip"
+    content: Thuiswerk oplossingen
+    link: "/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
   items:
   - icon: fa-cloud
     title: Zakelijke telefonie
