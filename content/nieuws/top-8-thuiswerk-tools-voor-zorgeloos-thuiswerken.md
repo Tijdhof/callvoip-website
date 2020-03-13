@@ -102,7 +102,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat kost het?** 10,- ex BTW per maand en setup 25,- ex BTW  
 **Installatietijd:** geen: inbellen en klaar!  
 **Hoe?** Vraag aan via [www.callvoip.nl/mijncallvoip/](https://www.callvoip.nl/mijncallvoip/)  
-**Uitleg:** [https://tinyurl.com/tqhhdxo](https://tinyurl.com/tqhhdxo "https://tinyurl.com/tqhhdxo")
+**Uitleg:** [https://www.callvoip.nl/Handleiding-Conference](https://www.callvoip.nl/Handleiding-Conference "https://www.callvoip.nl/Handleiding-Conference")
 
 <br>
 
