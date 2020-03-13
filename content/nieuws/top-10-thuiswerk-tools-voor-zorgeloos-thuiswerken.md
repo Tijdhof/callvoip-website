@@ -133,5 +133,5 @@ Uitgekiende telefonie-oplossingen voor slimme ondernemers. Zoals jij.
 
 Chat: <button type="button" class="text-blue font-medium" id="openChat">klik hier</button>  
 Tel: +31508200000  
-App: +31508200000  
+Whatsapp: +31508200000  
 Mail: [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
