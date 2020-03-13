@@ -7,7 +7,7 @@ hero:
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
   button:
     content: Thuiswerk oplossingen
-    link: "/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
+    link: "/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
   items:
   - icon: fa-cloud
     title: Zakelijke telefonie
