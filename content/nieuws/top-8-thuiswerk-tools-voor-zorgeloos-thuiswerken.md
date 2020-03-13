@@ -33,7 +33,7 @@ Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenw
 
 **<h4>1. Neem je toestel mee naar huis</h4>  
 Wat is het?** Gewoon je eigen kantoortoestel, dat je al hebt. Neem mee en sluit hem thuis aan. Het toestel werkt onafhankelijk van de kantoorlocatie op elke internetverbinding.  
-Liever een apart thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvip.shop) vindt je een ruime keuze.  
+Liever een apart thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvoip.shop) vindt je een ruime keuze.  
 **Wat heb je nodig?** Een internetverbinding op de thuiswerkplek.  
 **Wat kost het?** Niet meer dan op kantoor, of 4,- per maand voor een extra toestelaccount.  
 **Installatietijd?** plug in en klaar  
