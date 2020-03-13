@@ -34,7 +34,7 @@ Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenw
 
 **<h4>1. Neem je toestel mee naar huis</h4>  
 Wat is het?** Gewoon je eigen kantoortoestel, dat je al hebt. Neem mee en sluit hem thuis aan. Het toestel werkt onafhankelijk van de kantoorlocatie op elke internetverbinding.  
-Liever een apart thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvip.shop) vindt je een ruime keuze.  
+Liever een apart thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvoip.shop) vindt je een ruime keuze.  
 **Wat heb je nodig?** Een internetverbinding op de thuiswerkplek.  
 **Wat kost het?** Niet meer dan op kantoor, of 4,- per maand voor een extra toestelaccount.  
 **Installatietijd?** plug in en klaar  
@@ -47,7 +47,7 @@ Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel
 **Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi of 4G  
 **Wat kost het?** €4,- per gebruiker per maand  
 **Installatietijd?** 3 minuten  
-**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/casts)
+**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/qaller)
 
 <br>
 
@@ -56,8 +56,8 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 **Wat heb je nodig?** Een computer met internet en een bluetooth / USB headsetje  
 **Wat kost het?** Niets, dit is nu nog gratis  
 **Installatietijd?** 1 minuut  
-**Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/casts)
-
+**Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)<br>
+**Uitleg** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) voor videotutorials bij installatie en bij gebruik
 <br>
 
 **<h4>4. Click to Dial met bedrijfstelefoonboek, werkt ook met Qaller!</h4>  
@@ -74,7 +74,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** Een smartphone met nog ‘n beetje ruimte voor een app.  
 **Wat kost het?** Niets! Download de app gratis in de appstore.  
 **Installatietijd?** < 1 minuut  
-**Hoe?** Zie [www.callvoip.nl/whatsapp](http://www.callvoip.nl/casts)
+**Hoe?** Zie [www.callvoip.nl/whatsapp](http://www.callvoip.nl/whatsapp)
 
 <br>
 
@@ -93,7 +93,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 5 minuut: bel 8000, zet de tekst(en) in je belplan en klaar!  
 **Hoe?** Zie: [https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/](https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/ "https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/")  
-**Uitleg:** [https://www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken
+**Uitleg:** [www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken
 
 <br>
 
