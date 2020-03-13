@@ -20,9 +20,6 @@ hero:
   image_position: start
   disable_image_on_mobile: false
   mobile: ''
-  button:
-    content: ''
-    link: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1569232681/clicktodial_3_naastelkaar-final_gnz30g.png"
