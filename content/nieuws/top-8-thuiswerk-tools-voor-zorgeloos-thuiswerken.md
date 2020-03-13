@@ -69,7 +69,7 @@ Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belst
 <br>
 
 **<h4>5. Whatsapp Business</h4>  
-Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvang en stuur apps vanaf je zaaknummer en informeer je klant altijd optimaal via de handige automatische antwoorden.  
+Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvang en stuur apps vanaf je vaste bedrijfstelefoonnummer. Geen apps en belletjes meer op je prive mobiel! Handig: Whatsapp Business kan ook automatisch antwoorden sturen, direct of buiten werktijd. Geef de klant zo de juiste informatie waar jij hem het beste kunt helpen.  
 **Wat heb je nodig?** Een smartphone met nog ‘n beetje ruimte voor een app.  
 **Wat kost het?** Niets! Download de app gratis in de appstore.  
 **Installatietijd?** < 1 minuut  
@@ -77,8 +77,8 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 
 <br>
 
-**<h4>6. Email app</h4>**  
-**Wat is het?** Een automatisch emailtje, ook wel onze 'flitspaal': plaats het appje op de juiste plaats in het belroute en je krijgt een emailtje met datum, tijd, nummer van de beller, en de naam van het belplan waar de beller naar belde. Je weet dus direct dat er een beller was, en hoeveel, en je kunt terugbellen vanaf de app met je zakelijke nummer.  
+**<h4>6. Email-app ofwel de 'flitspaal'</h4>**  
+**Wat is het?** Een emailbericht dat de telefooncentrale automatisch verstuurt met daarin de dag, tijd, nummer van de beller én nummer (belplan) waar de beller naar belt. Je bepaalt zelf welke gesprekken worden geflitst: alle gesprekken, gemiste gesprekken, gesprekken buiten werktijd, etc. De beller hoeft niets te doen en verwacht ook geen actie; jij weet direct dat er gebeld werd, hoe vaak, en je kunt rustig terugbellen, bv vanaf Qaller, met je zakelijk nummer.   
 **Wat heb je nodig?** De email-app maakt standaard deel uit van de dienst  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 1 minuut: zet de app in je belplan en klaar!  
