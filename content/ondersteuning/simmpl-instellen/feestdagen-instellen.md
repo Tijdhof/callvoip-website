@@ -4,6 +4,7 @@ weight:
 description: ''
 images: []
 pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_vakantie-feestdagen-instellen.pdf
+aliases: 'meldtekst-instellen'
 
 ---
 **Vakantie of feestdagen voor de deur?** 
