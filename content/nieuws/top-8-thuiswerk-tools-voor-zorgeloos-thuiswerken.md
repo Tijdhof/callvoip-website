@@ -55,8 +55,8 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 **Wat heb je nodig?** Een computer met internet en een bluetooth / USB headsetje  
 **Wat kost het?** Niets, dit is nu nog gratis  
 **Installatietijd?** 1 minuut  
-**Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)
-Hoe? Zie www.callvoip.nl/casts voor videotutorials bij installatie en bij gebruik
+**Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)<br>
+**Uitleg** Zie www.callvoip.nl/casts voor videotutorials bij installatie en bij gebruik
 
 <br>
 
