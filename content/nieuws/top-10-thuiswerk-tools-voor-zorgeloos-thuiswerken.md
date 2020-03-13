@@ -83,7 +83,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** De email-app maakt standaard deel uit van de dienst  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 1 minuut: zet de app in je belplan en klaar!  
-**Hoe?** [https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/](https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/ "https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/")
+**Hoe?** [www.callvoip.nl/email-app](http://www.callvoip.nl/email-app)
 
 <br>
 
@@ -92,7 +92,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** Niets! de geluids-app en opnamebox zijn standaard!  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 5 minuut: bel 8000, zet de tekst(en) in je belplan en klaar!  
-**Hoe?** Zie: [https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/](https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/ "https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/")  
+**Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)
 **Uitleg:** [www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken
 
 <br>
@@ -103,7 +103,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat kost het?** 10,- ex BTW per maand en setup 25,- ex BTW  
 **Installatietijd:** geen: inbellen en klaar!  
 **Hoe?** Vraag aan via [www.callvoip.nl/mijncallvoip/](https://www.callvoip.nl/mijncallvoip/)  
-**Uitleg:** [https://tinyurl.com/tqhhdxo](https://tinyurl.com/tqhhdxo "https://tinyurl.com/tqhhdxo")
+**Uitleg:** [www.callvoip.nl/Handleiding-Conference](https://www.callvoip.nl/Handleiding-Conference "https://www.callvoip.nl/Handleiding-Conference")
 
 <br>
 
@@ -112,7 +112,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** De wachtrij en je eigen thuis of mobiele nummer om aan te nemen.  
 **Wat kost het?** 4,- ex BTW per maand  
 **Installatietijd:** ca 5 minuten  
-**Hoe?** Zie [https://tinyurl.com/vnpydje](https://tinyurl.com/vnpydje "https://tinyurl.com/vnpydje")
+**Hoe?** Zie [www.callvoip.nl/Handleiding-wachtrij](https://www.callvoip.nl/Handleiding-wachtrij "https://www.callvoip.nl/Handleiding-wachtrij")
 
 <br>
 
@@ -121,7 +121,7 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 **Wat heb je nodig?** Een Smartphone, evt een dual SIM toestel, en de Vamos SIM kaart.  
 **Wat kost het?** Prijs start vanaf 29,- en hangt af van hoeveelheid data Installatietijd?  
 **Installatietijd?** Een nieuw 06-nummer is in een uur geregeld, de SIM op voorraad en per post kan hij morgen bij je zijn!  
-**Hoe?** Zie [https://tinyurl.com/s7zy8s4](https://tinyurl.com/s7zy8s4 "https://tinyurl.com/s7zy8s4")
+**Hoe?** Zie [www.callvoip.nl/info-vamos](https://www.callvoip.nl/info-vamos "https://www.callvoip.nl/info-vamos")
 
 <br>
 
