@@ -46,7 +46,7 @@ Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel
 **Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi of 4G  
 **Wat kost het?** €4,- per gebruiker per maand  
 **Installatietijd?** 3 minuten  
-**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/casts)
+**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/qaller)
 
 <br>
 
@@ -55,7 +55,8 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 **Wat heb je nodig?** Een computer met internet en een bluetooth / USB headsetje  
 **Wat kost het?** Niets, dit is nu nog gratis  
 **Installatietijd?** 1 minuut  
-**Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/casts)
+**Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)
+Hoe? Zie www.callvoip.nl/casts voor videotutorials bij installatie en bij gebruik
 
 <br>
 
@@ -73,7 +74,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** Een smartphone met nog ‘n beetje ruimte voor een app.  
 **Wat kost het?** Niets! Download de app gratis in de appstore.  
 **Installatietijd?** < 1 minuut  
-**Hoe?** Zie [www.callvoip.nl/whatsapp](http://www.callvoip.nl/casts)
+**Hoe?** Zie [www.callvoip.nl/whatsapp](http://www.callvoip.nl/whatsapp)
 
 <br>
 
