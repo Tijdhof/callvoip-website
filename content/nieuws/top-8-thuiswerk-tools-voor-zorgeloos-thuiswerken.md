@@ -1,6 +1,6 @@
 ---
-title: Top 8 ‘thuiswerk-tools’ voor zorgeloos thuiswerken
-description: Top 8 ‘thuiswerk-tools’ voor zorgeloos thuiswerken
+title: Top 10 ‘thuiswerk-tools’ voor zorgeloos thuiswerken
+description: Top 10 ‘thuiswerk-tools’ voor zorgeloos thuiswerken
 images:
 - "/v1571403955/home_omkizz.png"
 featured: false
@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-03-11T23:00:00+00:00
+date: 2020-03-11T23:00:00.000+00:00
 url: ''
 contactpersoon: []
 categories: []
@@ -27,7 +27,7 @@ tags: []
 \- kunnen medewerkers professioneel verantwoord en gezond thuiswerken  
 \- of moet de tent voor onbepaalde tijd op slot?  
 Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?  
-Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenwerken en klanten helpen. Intern en extern communiceren wordt kinderlijk eenvoudig en bovendien doeltreffend en efficiënt. Hier volgen de top 8 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
+Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenwerken en klanten helpen. Intern en extern communiceren wordt kinderlijk eenvoudig en bovendien doeltreffend en efficiënt. Hier volgen de top 10 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
 
 <br>
 
@@ -62,7 +62,7 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 **<h4>4. Click to Dial</h4>  
 Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden.  
 **Wat heb je nodig?** Een computer of laptop met Google chrome browser  
-**Wat kost het?** Niets! Het is helemaal gratis, kado’tje van Callvoip!  
+**Wat kost het?** Niets! Het is helemaal gratis, kadootje van Callvoip!  
 **Installatietijd?** 3 minuten als het niet minder is.  
 **Hoe?** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) voor videotutorials bij installatie en bij gebruik
 
@@ -77,7 +77,26 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 
 <br>
 
-**<h4>6. Callvoip Conference Service</h4>**  
+**<h4>6. Email app</h4>**  
+**Wat is het?** Een automatisch emailtje, ook wel onze 'flitspaal': plaats het appje op de juiste plaats in het belroute en je krijgt een emailtje met datum, tijd, nummer van de beller, en de naam van het belplan waar de beller naar belde. Je weet dus direct dat er een beller was, en hoeveel, en je kunt terugbellen vanaf de app met je zakelijke nummer.   
+**Wat heb je nodig?** De email-app maakt standaard deel uit van de dienst  
+**Wat kost het?** helemaal niets.   
+**Installatietijd:** < 1 minuut: zet de app in je belplan en klaar!  
+**Hoe?** [https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/](https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/ "https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/")
+
+<br>
+
+**<h4>7. Meldteksten op de juiste plek </h4>**  
+**Wat is het?** Informatieve meldteksten die je op elke gewenste plek in je belplan zet: bv gelijk aan het begin, of als extra optie in een keuzemenu. Zo geef je de beller de juiste instructies en de juiste verwachtingen. Spreek in enkele minuten zelf bandjes in en drag-and-drop ze in je belplan of menu. Of vraag ons te helpen!   
+**Wat heb je nodig?** Niets! de geluids-app en opnamebox zijn standaard!  
+**Wat kost het?** helemaal niets.   
+**Installatietijd:** < 5 minuut: bel 8000, zet de tekst(en) in je belplan en klaar!  
+**Hoe?** Zie: [https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/](https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/ "https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/")  
+**Uitleg:** [https://www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken  
+
+<br>
+
+**<h4>8. Callvoip Conference Service</h4>**  
 **Wat is het?** Een telefonische vergaderservice waar je met je hele team, of andere relaties, telefonisch kunt vergaderen. Iedereen belt in vanaf zijn eigen thuiswerkplek. Vergader met wie en zo vaak als jij dat wenst, geen hoge inbelkosten!  
 **Wat heb je nodig?** De conference service en een telefoonnummer, en de bellers een telefoon of (prive-)mobiel.  
 **Wat kost het?** 10,- ex BTW per maand en setup 25,- ex BTW  
@@ -87,7 +106,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 
 <br>
 
-**<h4>7. Slimme wachtrij met externe agenten</h4>**  
+**<h4>9. Slimme wachtrij met externe agenten</h4>**  
 **Wat is het?** Een wachtrij die al jouw gesprekken aanneemt. Handig op kantoor, maar wist je dat de wachtrij óók gesprekken aan externe nummers kan doorgeven? Zo zijn de thuiswerkers op hun mobiel gewoon ingelogd. Ultieme flexibiliteit!  
 **Wat heb je nodig?** De wachtrij en je eigen thuis of mobiele nummer om aan te nemen.  
 **Wat kost het?** 4,- ex BTW per maand  
@@ -96,7 +115,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 
 <br>
 
-**<h4>8. Vamos Vast Mobiel simkaart</h4>  
+**<h4>10. Vamos Vast Mobiel simkaart</h4>  
 Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je gewend bent, maar met de Vamos SIM kun je óók naar collega’s bellen. Verder kun je je vaste nummer(s) meesturen bij uitbellen. En bij geen gehoor kan de Callvoip-centrale het gesprek verder afhandelen.  
 **Wat heb je nodig?** Een Smartphone, evt een dual SIM toestel, en de Vamos SIM kaart.  
 **Wat kost het?** Prijs start vanaf 29,- en hangt af van hoeveelheid data Installatietijd?  
@@ -106,8 +125,8 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 <br>
 
 **<h4>Wensen of vragen? Neem contact op via chat tel app of mail</h4>  
-In alle scenario’s:** neem vooral contact op met ons! Wij weten precies wat er kan, ook de dingen die jij niet bedenkt. Daar heb je ons voor. Dát noemen we: maatwerk op de plank - een zorgvuldig gelegd mozaïek aan mogelijkheden exact op maat voor jouw unieke situatie.   
-Uitgekiende telefonie-oplossingen voor slimme ondernemers. Zoals jij. 
+In alle scenario’s:** neem vooral contact op met ons! Wij weten precies wat er kan, ook de dingen die jij niet bedenkt. Daar heb je ons voor. Dát noemen we: maatwerk op de plank - een zorgvuldig gelegd mozaïek aan mogelijkheden exact op maat voor jouw unieke situatie.  
+Uitgekiende telefonie-oplossingen voor slimme ondernemers. Zoals jij.
 
 <br>
 
