@@ -56,7 +56,7 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 **Wat kost het?** Niets, dit is nu nog gratis  
 **Installatietijd?** 1 minuut  
 **Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)<br>
-**Uitleg** Zie www.callvoip.nl/casts voor videotutorials bij installatie en bij gebruik
+**Uitleg** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) voor videotutorials bij installatie en bij gebruik
 
 <br>
 
