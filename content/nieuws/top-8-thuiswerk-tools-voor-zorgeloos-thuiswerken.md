@@ -82,7 +82,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** De email-app maakt standaard deel uit van de dienst  
 **Wat kost het?** helemaal niets.   
 **Installatietijd:** < 1 minuut: zet de app in je belplan en klaar!  
-**Hoe?** [https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/](https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/ "https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/")
+**Hoe?** [https://www.callvoip.nl/email-app](https://www.callvoip.nl/email-app/ "https://www.callvoip.nl/email-app/")
 
 <br>
 
@@ -91,7 +91,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 **Wat heb je nodig?** Niets! de geluids-app en opnamebox zijn standaard!  
 **Wat kost het?** helemaal niets.   
 **Installatietijd:** < 5 minuut: bel 8000, zet de tekst(en) in je belplan en klaar!  
-**Hoe?** Zie: [https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/](https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/ "https://www.callvoip.nl/ondersteuning/simmpl-instellen/feestdagen-instellen/")  
+**Hoe?** Zie: [https://www.callvoip.nl/meldtekst-instellen](https://www.callvoip.nl/meldtekst-instellen "https://www.callvoip.nl/meldtekst-instellen")  
 **Uitleg:** [https://www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken  
 
 <br>
