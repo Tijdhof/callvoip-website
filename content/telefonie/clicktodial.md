@@ -20,6 +20,9 @@ hero:
   image_position: start
   disable_image_on_mobile: false
   mobile: ''
+  button:
+    content: ''
+    link: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1569232681/clicktodial_3_naastelkaar-final_gnz30g.png"
@@ -40,7 +43,7 @@ blocks:
   position: image_left
   image_position: end
 - title: Hoe werkt het?
-  image: "/v1582575917/1-click-to-dial_fullscreenmodus_crkvqg.jpg"
+  image: "/v1582639629/clicktdial_handleiding_middba.png"
   content: |-
     Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
     Zodra je klikt, rechts klikt of het nummer plakt in de app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!
@@ -76,6 +79,11 @@ prijzen: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 menu:
   main:
     weight: 4
