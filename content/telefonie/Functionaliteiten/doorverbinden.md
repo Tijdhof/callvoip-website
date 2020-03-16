@@ -1,40 +1,42 @@
 ---
-type: page
 title: Doorverbinden (Transfer) | VoIP-Functionaliteit | Gesprekken doorzetten
-description: Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar
-  een toestel bij u op kantoor of een extern nummer (bijv. mobiel).
-images:
-- "/v1566995670/trasfer_round_by7y4w.png"
-slug: doorverbinden
+description: Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of een extern nummer (bijv. mobiel).
+type: page
+layout: default
+logos: true
+aliases: "/doorverbinden"
 hero:
-  image: "/v1560261248/callvoip-website-doorverbinden.png"
   title: Doorverbinden (Transfer)
-layout: ''
+  content: "Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of een externe telefoondienst."
+  image: "/v1571655384/vunnamed_jpxdzl.png"
+  image_position: center
+  disable_image_on_mobile: false
+  button:
+    content: Bereken je kosten
+    link: "/calculator"
+blocks:
+- content: |-
+    Door inkomende belletjes door te verbinden bent u optimaal bereikbaar voor uw klanten. Zowel intern (VoIP-toestellen) als extern (Mobiele telefoon of telefoondienst). Dit zorgt voor een professionele uitstraling naar de klant toe.
+  image: "/v1572861318/unnamedtransfer_wjl81b.png"
+  position: image_left
+  title: 'Waarom ‘Doorverbinden’ gebruiken?'
+  image_position: center
+prijzen:
+- title: Doorverbinden
+  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: Maandelijks
+      price: '0.00'
+    - title: Eenmalig
+      price: '0.00'
+images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of een externe telefoondienst.
-
-<a href="/calculator/" class="button">Bereken uw kosten</a>
-
-## De voordelen:
-
-* Altijd **bereikbaar** voor de inkomende beller
-* Stuur het **zakelijk nummer** mee
-* De beller ziet niet uw mobiele nummer
-* Bepaal zelf de rinkeltijd
-
-## Waarom ‘Doorverbinden’ gebruiken?
-
-Door inkomende belletjes door te verbinden bent u optimaal bereikbaar voor uw klanten. Zowel intern (VoIP-toestellen) als extern (Mobiele telefoon of telefoondienst). Dit zorgt voor een professionele uitstraling naar de klant toe.
-
-## Wat zijn de kosten?
-
-Maandelijks: **€ 0,00** excl. BTW  
-Eenmalig: **€ 0,00** excl. BTW
-
-Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
-
-**_Let op_**: als u via doorverbinden het inkomend gesprek doorzet naar een extern nummer, dan betaalt u de reguliere [gesprekskosten](/telefonie/gesprekskosten/).
-
-<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
