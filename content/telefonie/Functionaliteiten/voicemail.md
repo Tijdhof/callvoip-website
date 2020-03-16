@@ -23,7 +23,7 @@ blocks:
   image_position: center
 prijzen:
 - title: Voicemailbox
-  content: 'Met een faxbox kunt u faxberichten ontvangen én versturen.'
+  content: 'Met de voicemailbox kunt u gemiste gesprekken opvangen.'
   button:
     title: Bereken je kosten
     link: "/calculator/"
