@@ -1,37 +1,42 @@
 ---
-type: page
 title: Tijdsconditie | VoIP-Functionaliteit | Definieer vooraf uw belroute
-description: Met de tijdsconditie-app stelt u eenvoudig uw openingstijden in. Ook
-  creëert u gemakkelijk andere tijdscondities zoals feestdagen, vakantie etc.
-images:
-- "/v1566995670/tijdsconditie_round_szsrmf.png"
-slug: tijdsconditie
+description: Met de tijdsconditie-app stelt u eenvoudig uw openingstijden in. Ook creëert u gemakkelijk andere tijdscondities zoals feestdagen, vakantie etc.
+type: page
+layout: default
+logos: true
+aliases: "/tijdsconditie"
 hero:
-  image: "/v1560261248/callvoip-website-tijdsconditie.png"
   title: Tijdsconditie
-layout: ''
+  content: "Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc."
+  image: "/v1571655384/tijdscon_z6qz8u.png"
+  image_position: center
+  disable_image_on_mobile: false
+  button:
+    content: Bereken je kosten
+    link: "/calculator"
+blocks:
+- content: |-
+    Beperk het aantal minuten dat u steekt in het beheren van de online telefooncentrale. Dankzij de tijdsconditie-app stelt u veel al van te voren in. U kunt zelfs al jaren vooruit kijken indien gewenst.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app/" class="button">Hoe werkt het?</a>
+  image: "/v1572861318/support-tijdsconditie6_v9co9r_gl9ssz.png"
+  position: image_left
+  title: 'Waarom een tijdsconditie?'
+  image_position: center
+prijzen:
+- title: Tijdsconditie
+  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: Maandelijks
+      price: '0.00'
+    - title: Eenmalig
+      price: '0.00'
+images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc.
-
-<a href="/calculator/" class="button">Bereken uw kosten</a>
-<a href="/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app/" class="button">Handleiding</a>
-
-## De voordelen:
-
-* **_Minder beheer_**: U stelt eenvoudig alles van te voren in en heeft er dus minder omkijken naar
-* **_Professioneel_**: Waarom zou u toestellen laten rinkelen als u toch niet aanwezig bent?
-
-## Waarom een tijdsconditie?
-
-Beperk het aantal minuten dat u steekt in het beheren van de online telefooncentrale. Dankzij de tijdsconditie-app stelt u veel al van te voren in. U kunt zelfs al jaren vooruit kijken indien gewenst.
-
-## Wat zijn de kosten?
-
-Maandelijks: **€ 0,00** excl. BTW  
-Eenmalig: **€ 0,00** excl. BTW
-
-Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
-
-<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
