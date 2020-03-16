@@ -22,7 +22,7 @@ blocks:
   title: 'Waarom een voicemail?'
   image_position: center
 prijzen:
-- title: Faxbox
+- title: Voicemailbox
   content: 'Met een faxbox kunt u faxberichten ontvangen én versturen.'
   button:
     title: Bereken je kosten
