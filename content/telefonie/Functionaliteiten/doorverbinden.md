@@ -8,7 +8,7 @@ aliases: "/doorverbinden"
 hero:
   title: Doorverbinden (Transfer)
   content: "Met de doorverbinden-app zet u eenvoudig inkomende belletjes door naar een toestel bij u op kantoor of naar een extern nummer. Denk hierbij bijvoorbeeld aan een mobiele telefoon of een externe telefoondienst."
-  image: "/v1571655384/unnamed_jpxdzl.png"
+  image: "/v1571655384/unnamed_rlhj9i.png"
   image_position: center
   disable_image_on_mobile: false
   button:
