@@ -4,7 +4,7 @@ description: Met de voicemailbox biedt u de beller de mogelijkheid om een berich
 type: page
 layout: default
 logos: true
-aliases: "/email"
+aliases: "/voicemail"
 hero:
   title: Voicemail
   content: "Met de voicemailbox kunt u gemiste gesprekken opvangen. De beller kan, na het door u ingestelde melding, een bericht inspreken. Deze berichten worden als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. U kunt meerdere voicemailboxen aanmaken. Ook kan elke gebruiker zelf een persoonlijke voicemail(box) instellen."
@@ -16,7 +16,7 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    MSoms heeft u het even te druk om alle inkomende belletjes te beantwoorden of bent u gewoon simpelweg gesloten. Toch wilt u graag in contact komen met de beller. Dankzij de voicemailbox bereikt u dit. U biedt de beller de mogelijkheid om een bericht achter te laten. Vervolgens kunt u deze weer beluisteren en contact opnemen met de desbetreffende beller. <br><br><a href="https://www.callvoip.nl/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren/" class="button">Hoe werkt het?</a>
+    Soms heeft u het even te druk om alle inkomende belletjes te beantwoorden of bent u gewoon simpelweg gesloten. Toch wilt u graag in contact komen met de beller. Dankzij de voicemailbox bereikt u dit. U biedt de beller de mogelijkheid om een bericht achter te laten. Vervolgens kunt u deze weer beluisteren en contact opnemen met de desbetreffende beller. <br><br><a href="https://www.callvoip.nl/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/voicemail-to-email_x4v9nz.png"
   position: image_left
   title: 'Waarom een voicemail?'
