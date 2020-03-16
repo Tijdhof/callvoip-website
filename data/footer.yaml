@@ -68,16 +68,18 @@ blocks:
         url: /login/
       - title: Support
         url: /ondersteuning/
+      - title: Callvoip Casts
+        url: /casts/
       - title: Nieuws
         url: /nieuws/
       - title: Nieuwsbrieven
         url: /ondersteuning/algemeen/nieuwsbrieven-overzicht/
       - title: Mijn Callvoip (formulieren)
         url: /mijncallvoip/
-      - title: Blog - 5 Mythen over VoIP
-        url: /5-mythen-over-voip/
       - title: Blog - Whatsapp Business
         url: /whatsapp-business-blog/
+      - title: Blog - 10 Thuiswerktools
+        url: /top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/
   - title: Callvoip
     links:
       - title: Over ons
