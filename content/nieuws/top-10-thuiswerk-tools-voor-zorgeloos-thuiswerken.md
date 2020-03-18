@@ -126,7 +126,7 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 
 <br>
 
-**<h4>Toegift! 11. Operator Panel biedt goed overzicht</h4>  
+**<h4>Toegift! 11. Operator Panel biedt overzicht, o.a. bij thuiswerkers</h4>  
 Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Je ziet:   
 \- alle telefoontjes die binnenkomen  
 \- via welk nummer  
