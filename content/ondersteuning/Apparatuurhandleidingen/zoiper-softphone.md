@@ -11,6 +11,7 @@ Update: false
 pdf: https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf
 
 ---
+
 Zoiper softphone instellen
 
 Wil je bellen via de computer?   
@@ -27,4 +28,7 @@ Klik hier om Zoiper gratis te downloaden:
 Maak op de Callvoip centrale een toestelaccount aan, en registreer deze in de Zoiper software. 
 
 Hier vind je de handleiding:   
-[https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf](https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf "https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf")
+[Handleiding Zoiper instellen voor Callvoip](https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf "Zoiper-handleiding")
+
+Bij de Zoiper softphone heb je een USB headset nodig.   
+[Klik hier](https://callvoip.shop/150-headset "Callvoip.shop") voor een selectie USB headset op www.callvoip.shop.  
