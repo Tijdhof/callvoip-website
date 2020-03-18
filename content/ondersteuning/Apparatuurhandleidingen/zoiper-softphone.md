@@ -9,6 +9,22 @@ hidesocialshare: false
 Nieuw: false
 Update: false
 pdf: https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf
-draft: true
 
 ---
+Zoiper softphone instellen
+
+Wil je bellen via de computer?   
+Overweeg dan het gebruik van onze eigen [Webcalls](https://www.callvoip.nl/webcalls): dat is bellen via de browser, dus geen software, geen installatie, geen drivers en bijbehorende problemen , en werkt op elk besturingssysteem.  
+
+Heb je toch de voorkeur voor een belprogramma, overweeg dan het gebruik van de Zoiper softphone: een software-matige telefoon; een belprogramma op je computer. Sluit een headset aan op de computer, bv via USB, en klaar. Zoiper is een gratis softphone voor Windows, Mac, iOS en Android. Zoiper werkt goed met Callvoip: dit betekent echter geen garantie voor een goede verbinding. Een computer heeft een eigen agenda en Zoiper staat hierbij niet altijd bovenaan. En er zijn meer factoren van invloed op de uiteindelijke spraakkwaliteit, bv andere processen, programma’s en prioriteiten op de waarop Zoiper wordt gebruikt.
+
+Wat te doen? Probeert het en kijk hoe het jou bevalt.  
+Links onder het menu vindt je de link naar onze tips bij installatie.
+
+Klik hier om Zoiper gratis te downloaden:   
+[https://www.zoiper.com/en/voip-softphone/download/current](https://www.zoiper.com/en/voip-softphone/download/current "Download Zoiper Softphone")
+
+Maak op de Callvoip centrale een toestelaccount aan, en registreer deze in de Zoiper software. 
+
+Hier vind je de handleiding:   
+[https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf](https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf "https://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Zoiper-Softphone.pdf")
