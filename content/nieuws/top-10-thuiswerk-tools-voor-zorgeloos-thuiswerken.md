@@ -19,7 +19,7 @@ url: ''
 contactpersoon: []
 categories: []
 tags: []
-aliases: '/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken'
+aliases: "/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken"
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1571403955/home_omkizz.png)
@@ -32,10 +32,11 @@ Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenw
 
 <br>
 
-**<h4>1. Neem je toestel mee naar huis</h4>  
+**<h4>1. Neem je toestel mee naar huis!</h4>  
 Wat is het?** Gewoon je eigen kantoortoestel, dat je al hebt. Neem mee en sluit hem thuis aan. Het toestel werkt onafhankelijk van de kantoorlocatie op elke internetverbinding.  
 Liever een apart thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvoip.shop) vindt je een ruime keuze.  
-**Wat heb je nodig?** Een internetverbinding op de thuiswerkplek.  
+NB: let op dat je thuis vaak wel een voedingsadapter nodig hebt, die verlopen we los.   
+**Wat heb je nodig?** Een internetverbinding op de thuiswerkplek.   
 **Wat kost het?** Niet meer dan op kantoor, of 4,- per maand voor een extra toestelaccount.  
 **Installatietijd?** plug in en klaar  
 **Hoe?** Meenemen, inpluggen, bellen!
@@ -61,7 +62,7 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 <br>
 
 **<h4>4. Click to Dial met bedrijfstelefoonboek, werkt ook met Qaller!</h4>  
-Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden. En natuurlijk het bedrijfstelefoonboek. Installeer Click to Dial thuis, je krijgt dan de popups en kunt uitbellen met de Qaller app.   
+Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden. En natuurlijk het bedrijfstelefoonboek. Installeer Click to Dial thuis, je krijgt dan de popups en kunt uitbellen met de Qaller app.  
 **Wat heb je nodig?** Een computer of laptop met Google chrome browser  
 **Wat kost het?** Niets! Het is helemaal gratis, kadootje van Callvoip!  
 **Installatietijd?** 3 minuten als het niet minder is.  
@@ -79,7 +80,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 <br>
 
 **<h4>6. Email-app ofwel de 'flitspaal'</h4>**  
-**Wat is het?** Een emailbericht dat de telefooncentrale automatisch verstuurt met daarin de dag, tijd, nummer van de beller én nummer (belplan) waar de beller naar belt. Je bepaalt zelf welke gesprekken worden geflitst: alle gesprekken, gemiste gesprekken, gesprekken buiten werktijd, etc. De beller hoeft niets te doen en verwacht ook geen actie; jij weet direct dat er gebeld werd, hoe vaak, en je kunt rustig terugbellen, bv vanaf Qaller, met je zakelijk nummer.   
+**Wat is het?** Een emailbericht dat de telefooncentrale automatisch verstuurt met daarin de dag, tijd, nummer van de beller én nummer (belplan) waar de beller naar belt. Je bepaalt zelf welke gesprekken worden geflitst: alle gesprekken, gemiste gesprekken, gesprekken buiten werktijd, etc. De beller hoeft niets te doen en verwacht ook geen actie; jij weet direct dat er gebeld werd, hoe vaak, en je kunt rustig terugbellen, bv vanaf Qaller, met je zakelijk nummer.  
 **Wat heb je nodig?** De email-app maakt standaard deel uit van de dienst  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 1 minuut: zet de app in je belplan en klaar!  
@@ -122,6 +123,15 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 **Wat kost het?** Prijs start vanaf 29,- en hangt af van hoeveelheid data Installatietijd?  
 **Installatietijd?** Een nieuw 06-nummer is in een uur geregeld, de SIM op voorraad en per post kan hij morgen bij je zijn!  
 **Hoe?** Zie [www.callvoip.nl/info-vamos](https://www.callvoip.nl/info-vamos "https://www.callvoip.nl/info-vamos")
+
+<br>
+
+**<h4>11. Operator Panel biedt goed overzicht</h4>  
+Wat is het?** Een realtime online overzicht van alle telefonie-activiteiten. Je ziet alle telefoontjes en wie in gesprek is, de wachtrijen en wie is ingelogd en wie niet. Ideaal - juist ook als je fysiek níet bij elkaar in de buurt bent!   
+**Wat heb je nodig?** Zet de Operator Bedienpost aan bij de gebruiker  
+**Wat kost het?** 10,- ex BTW per maand (alle gebruikers kunnen erop inloggen)  
+**Installatietijd?** Even inregelen, met 10 minuten heb je jouw waardevolle dashboard paraat!  
+**Hoe?** Zie [www.callvoip.nl/telefonie/operator-console/](https://www.callvoip.nl/telefonie/operator-console/ "www.callvoip.nl/telefonie/operator-console/")
 
 <br>
 
