@@ -136,7 +136,7 @@ Wat is het?** Een realtime online overzicht van alle collega's met hun status en
 \- en het is mogelijk om meer / alle collega's dit overzicht te laten bekijken  
 Ideaal - juist ook van grote waarde als je fysiek níet bij elkaar in de buurt bent!   
 **Wat heb je nodig?** Zet de Operator Bedienpost aan bij de gebruiker  
-**Wat kost het?** 10,- ex BTW per maand (alle gebruikers kunnen erop inloggen)  
+**Wat kost het?** 25,- ex BTW per maand (alle gebruikers kunnen erop inloggen)  
 **Installatietijd?** Even inregelen, met 10 minuten heb je jouw waardevolle dashboard paraat!  
 **Hoe?** Zie [www.callvoip.nl/telefonie/operator-console/](https://www.callvoip.nl/telefonie/operator-console/ "www.callvoip.nl/telefonie/operator-console/")
 
