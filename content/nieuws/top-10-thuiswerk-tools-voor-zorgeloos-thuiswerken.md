@@ -126,7 +126,7 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 
 <br>
 
-**<h4>11. Operator Panel biedt goed overzicht</h4>  
+**<h4>Toegift! 11. Operator Panel biedt goed overzicht</h4>  
 Wat is het?** Een realtime online overzicht van alle telefonie-activiteiten. Je ziet alle telefoontjes en wie in gesprek is, de wachtrijen en wie is ingelogd en wie niet. Ideaal - juist ook als je fysiek níet bij elkaar in de buurt bent!   
 **Wat heb je nodig?** Zet de Operator Bedienpost aan bij de gebruiker  
 **Wat kost het?** 10,- ex BTW per maand (alle gebruikers kunnen erop inloggen)  
