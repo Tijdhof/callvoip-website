@@ -4,25 +4,42 @@ class TailwindExtractor {
 	}
 }
 
+const purgeTailwind = (content) => {
+  return content.match(/[A-z0-9-:\/]+/g)
+}
+
+const purgecss = require('@fullhuman/postcss-purgecss')
+
 module.exports = {
   plugins: [
     require('postcss-import')({
       path: ["themes/callvoiptelefonie/assets/css"],
     }),
     require('tailwindcss')('./themes/callvoiptelefonie/assets/css/tailwind.config.js'),
-    require('@fullhuman/postcss-purgecss')({
+
+    purgecss({
       content: ['./themes/callvoiptelefonie/layouts/**/*.html'],
-      extractors: [
-      {
-        extractor: TailwindExtractor,
-        extensions: ['html']
-      }],
       fontFace: true,
-      whitelist: ['pagination', 'layout-split', 'active', 'has-dropdown']
+      whitelist: ['pagination', 'layout-split', 'active', 'has-dropdown'],
+      extractors: [
+        {
+          extractor: purgeTailwind,
+          extensions: ['html']
+        },
+      ]
     }),
-    require('autoprefixer')({
-      grid: true,
-      browsers: ['>1%']
-    }),
+
+    // require('@fullhuman/postcss-purgecss')({
+    //   content: ['./themes/callvoiptelefonie/layouts/**/*.html'],
+    //   extractors: [
+    //   {
+    //     extractor: new TailwindExtractor,
+    //     extensions: ['html']
+    //   }],
+    //   fontFace: true,
+    //   whitelist: ['pagination', 'layout-split', 'active', 'has-dropdown']
+    // }),
+
+    require('autoprefixer')
   ]
 }
