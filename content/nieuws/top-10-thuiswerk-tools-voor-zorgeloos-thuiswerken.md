@@ -127,7 +127,14 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 <br>
 
 **<h4>Toegift! 11. Operator Panel biedt goed overzicht</h4>  
-Wat is het?** Een realtime online overzicht van alle telefonie-activiteiten. Je ziet alle telefoontjes en wie in gesprek is, de wachtrijen en wie is ingelogd en wie niet. Ideaal - juist ook als je fysiek níet bij elkaar in de buurt bent!   
+Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Je ziet:   
+\- alle telefoontjes die binnenkomen  
+\- via welk nummer  
+\- welke collega in gesprek is  
+\- alle wachtrijen, en wie is in-/uitgelogd  
+\- en dit kun je ook met één druk op de knop aanpassen  
+\- en het is mogelijk om meer / alle collega's dit overzicht te laten bekijken  
+Ideaal - juist ook van grote waarde als je fysiek níet bij elkaar in de buurt bent!   
 **Wat heb je nodig?** Zet de Operator Bedienpost aan bij de gebruiker  
 **Wat kost het?** 10,- ex BTW per maand (alle gebruikers kunnen erop inloggen)  
 **Installatietijd?** Even inregelen, met 10 minuten heb je jouw waardevolle dashboard paraat!  
@@ -144,4 +151,4 @@ Uitgekiende telefonie-oplossingen voor slimme ondernemers. Zoals jij.
 Chat: <button type="button" class="text-blue font-medium" id="openChat">klik hier</button>  
 Tel: +31508200000  
 Whatsapp: +31508200000  
-Mail: [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
+E-mail: [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
