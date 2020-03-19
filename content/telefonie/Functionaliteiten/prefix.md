@@ -8,7 +8,7 @@ aliases: "/prefix"
 hero:
   title: Prefix
   content: "Met de prefix-app kunt u zelf een code, naam of nummer ingeven. Deze wordt in het display van uw telefoon getoond als het gesprek via deze route binnenkomt."
-  image: "/v1571655384/Untitled-4_r9gfyl.jpg"
+  image: "/v1571655384/Untitled-4_vmklrb.jpg"
   image_position: center
   disable_image_on_mobile: false
   button:
