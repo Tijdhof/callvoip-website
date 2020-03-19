@@ -16,8 +16,8 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    'Stel dat u een zakelijk- en privételefoonnummer heeft. U kunt in beide belroutes een prefix instellen. Bij het zakelijk nummer plaatst u [Zaak: ] en in de belroute van het privénummer
-kunt u als prefix instellen; [Prive: ]. Zo ziet u duidelijk op uw toestel via welk nummer het gesprek binnenkomt en hoe u dus kunt opnemen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/prefix/" class="button">Hoe werkt het?</a>'
+    'Stel dat u een zakelijk- en privételefoonnummer heeft. U kunt in beide belroutes een prefix instellen. Bij het zakelijk nummer plaatst u [Zaak; en in de belroute van het privénummer
+kunt u als prefix instellen; [Prive; ]. Zo ziet u duidelijk op uw toestel via welk nummer het gesprek binnenkomt en hoe u dus kunt opnemen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/prefix/" class="button">Hoe werkt het?</a>'
   image: "/v1572861318/prefix_ptih18.jpg"
   position: image_left
   title: 'Waarom een prefix?'
