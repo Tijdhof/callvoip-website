@@ -17,7 +17,7 @@ hero:
 blocks:
 - content: |-
     Met meldteksten maakt u al veel duidelijk aan de beller voordat u de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kunt u bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.<br><br><a href="https://www.callvoip.nl/ondersteuning/instructie-videos/meldteksten/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/40886_yx3unm.jpg"
+  image: "/v1572861318/40886_pj5u9g.jpg"
   position: image_left
   title: 'Waarom een meldtekst?'
   image_position: center
