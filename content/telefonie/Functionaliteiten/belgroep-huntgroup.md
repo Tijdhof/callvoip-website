@@ -10,7 +10,7 @@ aliases:
 hero:
   title: Belgroep (Huntgroup)
   content: "De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen."
-  image: "/v1571655384/Call-Queue-System-3_rubxpe.png"
+  image: "/v1571655384/Layer_2_hxeh6b.png"
   image_position: center
   disable_image_on_mobile: false
   button:
