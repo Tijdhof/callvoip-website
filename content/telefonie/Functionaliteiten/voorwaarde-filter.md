@@ -5,7 +5,9 @@ description: Filter gesprekken met de Voorwaarde-app. Creëer verschillende belr
 type: page
 layout: default
 logos: true
-aliases: "/voorwaarde"
+aliases: 
+ - "/voorwaarde"
+ - "/telefonie/functionaliteiten/voorwaarde/"
 hero:
   title: Voorwaarde (Filter)
   content: "Met de ‘voorwaarde-app’ kunt u gesprekken filteren. Door (delen van) het nummer te noteren kunt u aangeven hoe de telefooncentrale dit belletje afhandelt. Wordt u bijvoorbeeld lastig gevallen door een nummer? Vult dit nummer in als voorwaarde, met daarachter direct een voicemailbox."
