@@ -4,7 +4,9 @@ description: Met de email-app stuurt de telefooncentrale uw een e-mail met het t
 type: page
 layout: default
 logos: true
-aliases: "/email"
+aliases: 
+ - "/email"
+ - "//telefonie/functionaliteiten/email/"
 hero:
   title: E-mail
   content: "De email-app plaatst u in uw belplan. Hiermee geeft u de telefooncentrale de opdracht om u een bericht te sturen met daarin het telefoonnummer van de beller. U kunt deze functionaliteit helemaal bovenaan (ontvang een email van alle bellers) of onderaan (ontvang een e-mail van alleen de gemiste bellers) de belroute plaatsen."
