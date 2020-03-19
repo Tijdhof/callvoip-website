@@ -1,41 +1,42 @@
 ---
-type: page
 title: Meldtekst (Sound) | VoIP-Functionaliteit | Ingesproken meldingen
-description: Voorzie uw VoIP-oplossing met een meldtekst of andere geluidsbestanden.
-  Met meldteksten maakt u uw telefonie een stuk professioneler.
-images:
-- "/v1566996057/soundapp_round_n733tu.png"
-slug: meldtekst
+description: Voorzie uw VoIP-oplossing met een meldtekst of andere geluidsbestanden. Met meldteksten maakt u uw telefonie een stuk professioneler.
+type: page
+layout: default
+logos: true
+aliases: "/meldtekst"
 hero:
-  image: "/v1578318363/tape_bvvb2g.png"
   title: Meldtekst (Sound)
+  content: "Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen."
+  image: "/v1571655384/tape_bvvb2g_taogx4.png"
+  image_position: center
   disable_image_on_mobile: false
-layout: ''
+  button:
+    content: Bereken je kosten
+    link: "/calculator"
+blocks:
+- content: |-
+    Met meldteksten maakt u al veel duidelijk aan de beller voordat u de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kunt u bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.<br><br><a href="https://www.callvoip.nl/ondersteuning/instructie-videos/meldteksten/" class="button">Hoe werkt het?</a>
+  image: "/v1572861318/40886_yx3unm.jpg"
+  position: image_left
+  title: 'Waarom een tijdsconditie?'
+  image_position: center
+prijzen:
+- title: Meldtekst
+  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: Maandelijks
+      price: '0.00'
+    - title: Eenmalig
+      price: '0.00'
+images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
 
 ---
-Met deze functionaliteit kunt u verschillende meldteksten in uw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen.
-
-<a href="/calculator/" class="button">Bereken uw kosten</a>
-
-## De voordelen:
-
-* **_Bibliotheek_**: Bewaar de geluidsbestanden en vind ze gemakkelijk terug
-* **_Professioneel_**: Professionele look dankzij bijvoorbeeld een welkomst-meldtekst
-* **_Onbeperkt_**: Plaats zoveel audio-bestanden in uw belroute/keuzemenu als u nodig heeft
-* **_Terugluisteren_**: Luister de bestanden online af
-
-## Waarom een meldtekst?
-
-Met meldteksten maakt u al veel duidelijk aan de beller voordat u de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kunt u bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.
-
-## Wat zijn de kosten?
-
-Maandelijks: **€ 0,00** excl. BTW  
-Eenmalig: **€ 0,00** excl. BTW
-
-Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt).
-
-<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
