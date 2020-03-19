@@ -4,7 +4,9 @@ description: Met de belgroep (huntgroep) laat u meerdere interne toestellen en e
 type: page
 layout: default
 logos: true
-aliases: "/belgroep"
+aliases: 
+ - "/belgroep"
+ - "/telefonie/functionaliteiten/belgroep/"
 hero:
   title: Belgroep (Huntgroup)
   content: "De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen."
