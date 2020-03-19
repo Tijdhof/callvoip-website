@@ -4,7 +4,7 @@ description: Met de omleiding-app stelt u zo een andere belroute in werking. Erg
 type: page
 layout: default
 logos: true
-aliases: "/tijdsconditie"
+aliases: "/omleiding"
 hero:
   title: Omleiding (Flow Control)
   content: "Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen."
