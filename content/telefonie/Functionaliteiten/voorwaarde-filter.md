@@ -19,7 +19,7 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    Er zijn meerdere mogelijkheden om de voorwaarde-app te gebruiken in uw belplan. Hieronder enkele voorbeelden:
+    Er zijn meerdere mogelijkheden om de voorwaarde-app te gebruiken in uw belplan. Hieronder enkele voorbeelden:<br><br>
     * Maak onderscheid tussen interne van externe gesprekken en geef deze een andere route of prefix.<br>
     * Laat gesprekken van een specifiek nummer (bv leverancier) direct doorverbinden.<br>
     * Laat gesprekken van een klant met premium support buiten werktijd doorverbinden naar een supportmedewerker (‘slagboom’).<br>
