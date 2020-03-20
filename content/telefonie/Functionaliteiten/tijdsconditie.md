@@ -7,7 +7,7 @@ logos: true
 aliases: "/tijdsconditie"
 hero:
   title: Tijdsconditie
-  content: "Met de tijdsconditie-app definieert u vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denkt u bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc."
+  content: "Met de tijdsconditie-app definieert je vooraf tijden waarop één of meerdere acties moeten plaatsvinden. Denk je bijvoorbeeld aan een belroute voor binnen en buiten werktijd of een gewijzigde belroute tijdens de lunchpauze, feestdagen, etc."
   image: "/v1571655384/tijdscon_z6qz8u.png"
   image_position: center
   disable_image_on_mobile: false
@@ -16,8 +16,8 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    Beperk het aantal minuten dat u steekt in het beheren van de online telefooncentrale. Dankzij de tijdsconditie-app stelt u veel al van te voren in. U kunt zelfs al jaren vooruit kijken indien gewenst.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/support-tijdsconditie6_v9co9r_gl9ssz.png"
+    Beperk het aantal minuten dat je steekt in het beheren van de online telefooncentrale. Dankzij de tijdsconditie-app stel je veel al van te voren in. Je kunt zelfs al jaren vooruit kijken indien gewenst.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/tijdsconditie-app/" class="button">Hoe werkt het?</a>
+  image: "/v1572861318/tijdsconditie_ci5las.png"
   position: image_left
   title: 'Waarom een tijdsconditie?'
   image_position: center
