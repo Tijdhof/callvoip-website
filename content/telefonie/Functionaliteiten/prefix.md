@@ -7,8 +7,8 @@ logos: true
 aliases: "/prefix"
 hero:
   title: Prefix
-  content: "Met de prefix-app kunt u zelf een code, naam of nummer ingeven. Deze wordt in het display van uw telefoon getoond als het gesprek via deze route binnenkomt."
-  image: "/v1571655384/Untitled-4_vmklrb.jpg"
+  content: "Met de prefix-app kun je zelf een code, naam of nummer ingeven. Deze wordt in het display van jou telefoon getoond als het gesprek via deze route binnenkomt."
+  image: "/v1571655384/Screenshot_22_jqsmsh.png"
   image_position: center
   disable_image_on_mobile: false
   button:
@@ -16,8 +16,8 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    'Stel dat u een zakelijk- en privételefoonnummer heeft. U kunt in beide belroutes een prefix instellen. Bij het zakelijk nummer plaatst u [Zaak; ] en in de belroute van het privénummer kunt u als prefix instellen [Prive; ] Zo ziet u duidelijk op uw toestel via welk nummer het gesprek binnenkomt en hoe u dus kunt opnemen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/prefix/" class="button">Hoe werkt het?</a>'
-  image: "/v1572861318/prefix_ptih18.jpg"
+    'Stel dat je een zakelijk- en privételefoonnummer heeft. Je kunt in beide belroutes een prefix instellen. Bij het zakelijk nummer plaatst u [Zaak; ] en in de belroute van het privénummer kun je als prefix instellen [Prive; ] Zo zie je duidelijk op jou toestel via welk nummer het gesprek binnenkomt en hoe je dus kunt opnemen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/prefix/" class="button">Hoe werkt het?</a>'
+  image: "/v1572861318/Screenshot_23_ckgvr6.png"
   position: image_left
   title: 'Waarom een prefix?'
   image_position: center
