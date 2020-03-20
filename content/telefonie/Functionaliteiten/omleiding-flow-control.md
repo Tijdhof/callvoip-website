@@ -9,8 +9,8 @@ aliases:
  - "/telefonie/functionaliteiten/omleiding/"
 hero:
   title: Omleiding (Flow Control)
-  content: "Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. U kunt voor elk nummer omleidingen aanmaken. Daarnaast kunt u in één nummer meerdere omleidingen plaatsen."
-  image: "/v1571655384/omleiding2_gg7pda.png"
+  content: "Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. Je kunt voor elk nummer omleidingen aanmaken. Daarnaast kun je in één nummer meerdere omleidingen plaatsen."
+  image: "/v1571655384/qaller_uitleg_pijltjes_cmzthl.pngg"
   image_position: center
   disable_image_on_mobile: false
   button:
@@ -18,7 +18,7 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    Er zijn meerdere toepassingsmogelijkheden van de ‘omleiding-app’. Denk hierbij bijvoorbeeld aan het inschakelen van een doorschakeling naar een (wisselend) mobiel nummer als u kantoor verlaat. Of een omleiding bij vergaderingen, bedrijfsuitjes, kerstborrel, maar ook bij calamiteiten, storingen, etc. U kunt alle functionaliteiten van ons bedieningspaneel in de omleiding plaatsen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/omleidings-app/" class="button">Hoe werkt het?</a>
+    Er zijn meerdere toepassingsmogelijkheden van de ‘omleiding-app’. Denk hierbij bijvoorbeeld aan het inschakelen van een doorschakeling naar een (wisselend) mobiel nummer als je kantoor verlaat. Of een omleiding bij vergaderingen, bedrijfsuitjes, kerstborrel, maar ook bij calamiteiten, storingen, etc. Je kunt alle functionaliteiten van ons bedieningspaneel in de omleiding plaatsen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/omleidings-app/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/omleiding_ynggyo.png"
   position: image_left
   title: 'Waarom een omleiding?'
