@@ -14,7 +14,7 @@ Plaats de email-app in de belroute; deze zorgt ervoor dat u een emailnotificatie
 Plaats de email-app in de belroute; deze zorgt ervoor dat u een **emailnotificatie** ontvangt op één of meer emailadressen van een gesprek dat op die plek in de belroute langskomt. Zo hoeft u geen gesprek meer te missen en kunt u waarborgen dat elk belangrijk gesprek wordt opgemerkt. De emailnotificatie is een kort bericht met de **datum, tijd, nummer van de beller en in welk belplan** het gesprek is langsgekomen.  
  {{</ layout/column2 >}}  
  {{< layout/column2 >}}  
-![](https://res.cloudinary.com/callvoip/image/upload/v1565084467/support-email2_xfxcnh.png)  
+![](https://res.cloudinary.com/callvoip/image/upload/v1565084467/email-NL_quajkq.png)  
  {{</ layout/column2 >}}  
 {{</ layout/columns >}}
 
