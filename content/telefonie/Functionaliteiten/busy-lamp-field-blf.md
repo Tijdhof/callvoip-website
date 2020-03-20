@@ -5,7 +5,7 @@ description: 'Met Busy Lamp Field ziet u in één oogopslag aan de lampjes op uw
 gesprek, óf dat ze gebeld worden. En dan kunt u het gesprek zelfs overnemen. NB: wel belangrijk dat uw VoIP-toestel de 
 BLF-functionaliteit ondersteunt.'
 images:
-- "/v1566559930/busy_lamp_field_icon_s9ixjo.png"
+- "/v1566559930/yealink-blf-options_eick50_k47oas.png"
 slug: blf
 hero:
   title: Busy Lamp Field | BLF
