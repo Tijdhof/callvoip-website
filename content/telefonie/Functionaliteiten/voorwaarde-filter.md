@@ -28,7 +28,7 @@ blocks:
     * Filter gesprekken uit het buitenland en voorzie deze van een prefix (bv: Duitsland).<br>
     * Herken mobiele gesprekken en laat deze eerst naar een wachtrij gaan en daarna naar een bepaalde afdeling.<br>
     <br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/voorwaarde/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/Untitled-5_wika6v.png"
+  image: "/v1572861318/Untitled-7_jvkc1l.png"
   position: image_left
   title: 'Waarom voorwaarden/filters?'
   image_position: center
