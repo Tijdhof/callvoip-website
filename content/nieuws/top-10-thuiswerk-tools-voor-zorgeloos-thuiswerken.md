@@ -92,17 +92,17 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 <br>
 
 **<h4>7. Meldteksten op de juiste plek </h4>**  
-**Wat is het?** Informatieve meldteksten die je op elke gewenste plek in je belplan zet: bv gelijk aan het begin, of als extra optie in een keuzemenu. Zo geef je de beller de juiste instructies en de juiste verwachtingen. Spreek in enkele minuten zelf bandjes in en drag-and-drop ze in je belplan of menu. Of vraag ons te helpen!  
+**Wat is het?** De mogelijkheid om zelf gemakkelijk je eigen meldteksten in te spreken en op deze op elke gewenste plek in je belplan te plaatsen. Bv: gelijk aan het begin, bij geen gehoor, voordat wordt doorgeschakeld naar een volgend team, of als extra optie in een keuzemenu. Zo geef je de beller de juiste instructies en de juiste verwachtingen. Spreek in enkele minuten zelf bandjes in en drag-and-drop ze in je belplan of menu. Of vraag ons te helpen!  
 **Wat heb je nodig?** Niets! de geluids-app en opnamebox zijn standaard!  
 **Wat kost het?** helemaal niets.  
-**Installatietijd:** < 5 minuut: bel 8000, zet de tekst(en) in je belplan en klaar!  
+**Installatietijd:** < 5 minuten: bel 8000, zet de tekst(en) in je belplan en klaar!  
 **Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)<br>
 **Uitleg:** [www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken
 
 <br>
 
 **<h4>8. Callvoip Conference Service</h4>**  
-**Wat is het?** Een telefonische vergaderservice waar je met je hele team, of andere relaties, telefonisch kunt vergaderen. Iedereen belt in vanaf zijn eigen thuiswerkplek. Vergader met wie en zo vaak als jij dat wenst, geen hoge inbelkosten!  
+**Wat is het?** Een telefonische vergaderservice om op in te bellen: handig voor je hele team, en met relaties, bv in het buitenland. Iedereen belt in vanaf met de eigen telefoon of mobiel en logt in met een pincode. Vergader met wie en zo vaak als jij dat wenst, geen inbelkosten! Deelnemers bellen gewoon jouw normale NL nummer, that's it.   
 **Wat heb je nodig?** De conference service en een telefoonnummer, en de bellers een telefoon of (prive-)mobiel.  
 **Wat kost het?** 10,- ex BTW per maand en setup 25,- ex BTW  
 **Installatietijd:** geen: inbellen en klaar!  
@@ -111,9 +111,9 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 
 <br>
 
-**<h4>9. Slimme wachtrij met externe agenten</h4>**  
-**Wat is het?** Een wachtrij die al jouw gesprekken aanneemt. Handig op kantoor, maar wist je dat de wachtrij óók gesprekken aan externe nummers kan doorgeven? Zo zijn de thuiswerkers op hun mobiel gewoon ingelogd. Ultieme flexibiliteit!  
-**Wat heb je nodig?** De wachtrij en je eigen thuis of mobiele nummer om aan te nemen.  
+**<h4>9. Slimme wachtrij met externe agenten (bv mobiel of privenummer)</h4>**  
+**Wat is het?** Een wachtrij die het inkomende telefoonverkeer verdeelt over de ingelogde agenten. Dit hoeven niet persé medewerkers met kantoortelefoons te zijn, je kunt ook externe nummers als agent inloggen, bv mobiel of privénummer van een thuiswerker. En wist je dat Qaller ook werkt als wachtrij-agent? En past het gesprek net even niet, dan kun je een gesprek afwijzen en gaat hij naar een andere agent. Ultieme flexibiliteit!  
+**Wat heb je nodig?** De wachtrij en je eigen privé- of mobiele nummer als externe agent.  
 **Wat kost het?** 4,- ex BTW per maand  
 **Installatietijd:** ca 5 minuten  
 **Hoe?** Zie [www.callvoip.nl/Handleiding-wachtrij](https://www.callvoip.nl/Handleiding-wachtrij "https://www.callvoip.nl/Handleiding-wachtrij")
@@ -121,8 +121,8 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 <br>
 
 **<h4>10. Vamos Vast Mobiel simkaart</h4>  
-Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je gewend bent, maar met de Vamos SIM kun je óók naar collega’s bellen. Verder kun je je vaste nummer(s) meesturen bij uitbellen. En bij geen gehoor kan de Callvoip-centrale het gesprek verder afhandelen.  
-**Wat heb je nodig?** Een Smartphone, evt een dual SIM toestel, en de Vamos SIM kaart.  
+Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals elke mobiel, maar met de Vamos SIM kun je óók naar interne nummers van collega’s bellen. In het collega-telefoonboek zie je of collega's in gesprek zijn of beschikbaar. En uiteraard kun je je vaste zaaknummer(s) meesturen bij uitbellen. Ben je er even niet? De Callvoip-centrale kan het gesprek dan verder doorgeleiden naar bv collega's, voicemail, etc..  
+**Wat heb je nodig?** Een Smartphone, evt. een dual SIM toestel, en de Vamos SIM kaart.  
 **Wat kost het?** Prijs start vanaf 29,- en hangt af van hoeveelheid data Installatietijd?  
 **Installatietijd?** Een nieuw 06-nummer is in een uur geregeld, de SIM op voorraad en per post kan hij morgen bij je zijn!  
 **Hoe?** Zie [www.callvoip.nl/info-vamos](https://www.callvoip.nl/info-vamos "https://www.callvoip.nl/info-vamos")
