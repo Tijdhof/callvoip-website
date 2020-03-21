@@ -154,11 +154,11 @@ En een USB Bluetooth Speakerphone is een light variant: verbindg via BT met je s
 **Hoe?** Zie onze [Conference Phones](https://callvoip.shop/156-conferentie-oplossing)<br>
 
 **<h4>Toegift! 13. Maak personen en teams bereikbaar via eigen nummer of keuzemenu</h4>  
-Wat is het?** Thuiswerken... is het handig dat mensen direct bereikbaar zijn? Liefst niet op hun privé mobiel? Met een eigen nummer is het zo goed als geregeld! Of geef een team een extern nummer.    
+Wat is het?** Thuiswerken... maakt dat het wenselijker dat personen rechtstreeks op een eigen nummer bereikbaar zijn? Liefst niet op hun privé mobiel? Met een eigen nummer is het zo goed als geregeld! Of geef een team een extern nummer.    
 Ook handig: met een keuzemenu kun je snel een directe bereikbaarheid van een persoon of team creëren. Tools te over en we denken heel graag met je mee.   
 **Wat heb je nodig?** Een keuzemenu  
-**Wat kost het?** 4,- ex BTW per maand  
-**Installatietijd?** met 15 minuten ben je een eind, schakel ons gerust in!  
+**Wat kost het?** Nummer: 2,- ex BTW p/mnd; Keuzemenu: 4,- ex BTW p/mnd  
+**Installatietijd?** afhankelijk van je wensen: met 5 tot 15 minuten ben je een eind; we helpen graag!  
 **Hoe?** Zie pagina 41 e.v. van de [deze handleiding ](http://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf)
 
 <br>**<h4>Wensen of vragen? Neem contact op via chat tel app of mail</h4>  
