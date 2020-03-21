@@ -150,7 +150,7 @@ Wat is het?** Mooie oplossingen om slim te vergaderen. Bijvoorbeeld een draadloz
 En een USB Bluetooth Speakerphone is een light variant: verbindg via BT met je smartphone of PC, of plug de USB kabel in, en je kunt luisteren én terugpraten.   
 **Wat heb je nodig?** Bijvoorbeeld één van deze [Yealink CP Conference Phones](https://callvoip.shop/index.php?controller=products-comparison&compare_product_list=897%7C898%7C963%7C1004).  
 **Wat kost het?** Prijzen vanaf 139,-  
-**Installatietijd?** Inpluggen en klaar; de CP9xx serie kunnen wij voor je instellen, en is dan ook plug and play!  
+**Installatietijd?** Inpluggen en klaar; de CP9xx serie kunnen wij voor je instellen!  
 **Hoe?** Zie onze [Conference Phones](https://callvoip.shop/156-conferentie-oplossing)<br>
 
 **<h4>Toegift! 13. Maak personen en teams bereikbaar via eigen nummer of keuzemenu</h4>  
