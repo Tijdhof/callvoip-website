@@ -60,7 +60,7 @@ Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg
 **Wat kost het?** Niets, dit is nu nog gratis  
 **Installatietijd?** 1 minuut  
 **Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)<br>
-**Uitleg** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) voor videotutorial
+**Uitleg** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) > videotutorial WebCalls
 
 <br>
 
@@ -69,7 +69,7 @@ Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belst
 **Wat heb je nodig?** Een computer of laptop met Google chrome browser  
 **Wat kost het?** Niets! Het is helemaal gratis, kadootje van Callvoip!  
 **Installatietijd?** 3 minuten als het niet minder is.  
-**Hoe?** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) voor videotutorials bij installatie en bij gebruik
+**Hoe?** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) > videotutorial installatie en gebruik Click to Dial
 
 <br>
 
