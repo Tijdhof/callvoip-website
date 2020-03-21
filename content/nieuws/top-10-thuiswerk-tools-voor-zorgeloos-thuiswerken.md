@@ -147,10 +147,10 @@ Je ziet:
 
 **<h4>Toegift! 12. Conferentietelefoon en portable USB Bluetooth Speakerphone</h4>  
 Wat is het?** Mooie oplossingen om slim te vergaderen. Bijvoorbeeld een draadloze vergadertelefoon met accu: gemakkelijk overal neer te zetten, alle aanwezigen kunnen goed luisteren en praten zonder vlakbij het toestel te zitten. Schakel tot 4 andere nummers bij (5-weg-conferentie).  
-En een USB Bluetooth Speakerphone is een light variant: verbindg via BT met je smartphone of PC, of plug de USB kabel in, en je kunt luisteren én terugpraten.   
+En dan de CP700/900 als light variant: sluit aan via bluetooth of USB op smartphone, tablet, PC of Yealink-toestel, en je kunt luisteren én terugpraten. Koppel zelfs meer apparaten en voeg gesprekken samen. Of luister gewoon naar muziek.    
 **Wat heb je nodig?** Bijvoorbeeld één van deze [Yealink CP Conference Phones](https://callvoip.shop/index.php?controller=products-comparison&compare_product_list=897%7C898%7C963%7C1004).  
-**Wat kost het?** Prijzen vanaf 139,-  
-**Installatietijd?** Inpluggen en klaar; de CP9xx serie kunnen wij voor je instellen!  
+**Wat kost het?** Prijzen vanaf 129,-  
+**Installatietijd?** Inpluggen en klaar! De 930W moet ingesteld, we helpen graag!   
 **Hoe?** Zie onze [Conference Phones](https://callvoip.shop/156-conferentie-oplossing)<br>
 
 **<h4>Toegift! 13. Maak personen en teams bereikbaar via eigen nummer of keuzemenu</h4>  
