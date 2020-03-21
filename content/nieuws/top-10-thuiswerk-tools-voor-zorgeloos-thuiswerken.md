@@ -130,14 +130,14 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals elke
 <br>
 
 **<h4>Toegift! 11. Operator Panel biedt overzicht, o.a. bij thuiswerkers</h4>  
-Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Je ziet:  
+Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Ideaal - en juist van grote waarde voor het overzicht en je bereikbaarheid als je fysiek níet bij elkaar in de buurt bent!   
+Je ziet:  
 \- alle telefoontjes die binnenkomen  
 \- via welk nummer  
 \- welke collega in gesprek is  
 \- alle wachtrijen, en wie is in-/uitgelogd  
 \- en dit kun je ook met één druk op de knop aanpassen  
 \- en het is mogelijk om meer / alle collega's dit overzicht te laten bekijken  
-Ideaal - juist ook van grote waarde als je fysiek níet bij elkaar in de buurt bent!  
 **Wat heb je nodig?** Zet de Operator Bedienpost aan bij de gebruiker  
 **Wat kost het?** 25,- ex BTW per maand (alle gebruikers kunnen erop inloggen)  
 **Installatietijd?** Even inregelen, met 10 minuten heb je jouw waardevolle dashboard paraat!  
