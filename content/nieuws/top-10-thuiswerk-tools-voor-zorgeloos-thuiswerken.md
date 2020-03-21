@@ -19,9 +19,10 @@ url: ''
 contactpersoon: []
 categories: []
 tags: []
-aliases: 
- - "/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken"
- - "/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
+aliases:
+- "/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken"
+- "/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
+
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1571403955/home_omkizz.png)
 
@@ -35,21 +36,21 @@ Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenw
 
 **<h4>1. Neem je toestel mee naar huis!</h4>  
 Wat is het?** Gewoon je eigen kantoortoestel, dat je al hebt. Neem mee en sluit hem thuis aan. Het toestel werkt onafhankelijk van de kantoorlocatie op elke internetverbinding.  
-Liever een apart thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvoip.shop) vindt je een ruime keuze.  
-NB: let op dat je thuis vaak wel een voedingsadapter nodig hebt, die verlopen we los.   
-**Wat heb je nodig?** Een internetverbinding op de thuiswerkplek.   
-**Wat kost het?** Niet meer dan op kantoor, of 4,- per maand voor een extra toestelaccount.  
+Liever een apart (draadloos) thuistoestel? Dat kan ook, we sturen hem vooringesteld naar je op, plug and play. Op [www.callvoip.shop](http://www.callvoip.shop) vindt je een ruime keuze.  
+NB: let op dat je thuis **vaak wel een voedingsadapter** nodig hebt, die kunnen we[ los leveren](https://callvoip.shop/index.php?controller=products-comparison&compare_product_list=283%7C284).  
+**Wat heb je nodig?** Een internetverbinding op de thuiswerkplek.  
+**Wat kost het?** Niets meer dan op kantoor, of 4,- per maand bij een extra toestelaccount.  
 **Installatietijd?** plug in en klaar  
 **Hoe?** Meenemen, inpluggen, bellen!
 
 <br>
 
 **<h4>2. Qaller Plus smartphone app</h4>  
-Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel wordt, je kunt bellen en gebeld worden met het zaaknummer, intern bellen, gesprekken doorverbinden en call recording mits ingeschakeld.  
+Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel wordt, je kunt bellen en gebeld worden met het zaaknummer, intern bellen, gesprekken doorverbinden en gesprekken opnemen mits ingeschakeld. Bovendien zie je of collega's in gesprek zijn én is de app je regelpaneel (bv zaaknummer doorschakelen naar mobiel of voicemail).   
 **Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi of 4G  
 **Wat kost het?** €4,- per gebruiker per maand  
 **Installatietijd?** 3 minuten  
-**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/qaller)
+**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/qaller) en [www.callvoip.nl/qallerpdf]()
 
 <br>
 
@@ -128,14 +129,14 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals je g
 <br>
 
 **<h4>Toegift! 11. Operator Panel biedt overzicht, o.a. bij thuiswerkers</h4>  
-Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Je ziet:   
+Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Je ziet:  
 \- alle telefoontjes die binnenkomen  
 \- via welk nummer  
 \- welke collega in gesprek is  
 \- alle wachtrijen, en wie is in-/uitgelogd  
 \- en dit kun je ook met één druk op de knop aanpassen  
 \- en het is mogelijk om meer / alle collega's dit overzicht te laten bekijken  
-Ideaal - juist ook van grote waarde als je fysiek níet bij elkaar in de buurt bent!   
+Ideaal - juist ook van grote waarde als je fysiek níet bij elkaar in de buurt bent!  
 **Wat heb je nodig?** Zet de Operator Bedienpost aan bij de gebruiker  
 **Wat kost het?** 25,- ex BTW per maand (alle gebruikers kunnen erop inloggen)  
 **Installatietijd?** Even inregelen, met 10 minuten heb je jouw waardevolle dashboard paraat!  
