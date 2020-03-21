@@ -125,7 +125,7 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals elke
 **Wat heb je nodig?** Een Smartphone, evt. een dual SIM toestel, en de Vamos SIM kaart.  
 **Wat kost het?** Prijs start vanaf 29,- en hangt af van hoeveelheid data Installatietijd?  
 **Installatietijd?** Een nieuw 06-nummer is in een uur geregeld, de SIM op voorraad en per post kan hij morgen bij je zijn!  
-**Hoe?** Zie [www.callvoip.nl/info-vamos](https://www.callvoip.nl/info-vamos "https://www.callvoip.nl/info-vamos")
+**Hoe?** Zie [www.callvoip.nl/info-vamos](https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-vamos-informatie/ "https://www.callvoip.nl/info-vamos")
 
 <br>
 
