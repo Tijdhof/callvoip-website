@@ -55,16 +55,17 @@ Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel
 <br>
 
 **<h4>3. WebCalls</h4>  
-Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg geen telefoon nodig hebt! Enkel een adequaat headsetje en klaar is kees. Let op: je kunt nu alleen nog uitbellen met WebCalls, gebeld worden volgt in Q2-2020.  
-**Wat heb je nodig?** Een computer met internet en een bluetooth / USB headsetje  
+Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg geen telefoon nodig hebt! Enkel een adequaat USB headsetje en klaar is kees. Let op: je kunt nu alleen nog uitbellen met WebCalls, gebeld worden volgt in Q2-2020.  
+**Wat heb je nodig?** Een computer met internet en een Bluetooth / USB headsetje  
 **Wat kost het?** Niets, dit is nu nog gratis  
 **Installatietijd?** 1 minuut  
 **Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)<br>
-**Uitleg** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) voor videotutorials bij installatie en bij gebruik
+**Uitleg** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) voor videotutorial
+
 <br>
 
 **<h4>4. Click to Dial met bedrijfstelefoonboek, werkt ook met Qaller!</h4>  
-Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden. En natuurlijk het bedrijfstelefoonboek. Installeer Click to Dial thuis, je krijgt dan de popups en kunt uitbellen met de Qaller app.  
+Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belstatus van collega’s ziet (beschikbaar, in gesprek) en met één klik kunt bellen en doorverbinden. En natuurlijk het bedrijfstelefoonboek! Installeer Click to Dial thuis, je krijgt dan de popups en kunt uitbellen met de Qaller app.  
 **Wat heb je nodig?** Een computer of laptop met Google chrome browser  
 **Wat kost het?** Niets! Het is helemaal gratis, kadootje van Callvoip!  
 **Installatietijd?** 3 minuten als het niet minder is.  
@@ -73,7 +74,7 @@ Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belst
 <br>
 
 **<h4>5. Whatsapp Business</h4>  
-Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvang en stuur apps vanaf je vaste bedrijfstelefoonnummer. Geen apps en belletjes meer op je prive mobiel! Handig: Whatsapp Business kan ook automatisch antwoorden sturen, direct of buiten werktijd. Geef de klant zo de juiste informatie waar jij hem het beste kunt helpen.  
+Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: ontvang en stuur apps vanaf je vaste bedrijfstelefoonnummer. Handig voor relaties en scheelt in het telefoonverkeer. Bovendien: zo bescherm je je privé mobiele nummer! Handig: Whatsapp Business kan ook automatisch antwoorden sturen, direct of buiten werktijd. Geef de klant zo de juiste informatie waar jij hem het beste kunt helpen.  
 **Wat heb je nodig?** Een smartphone met nog ‘n beetje ruimte voor een app.  
 **Wat kost het?** Niets! Download de app gratis in de appstore.  
 **Installatietijd?** < 1 minuut  
@@ -81,8 +82,8 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste nummer: ontvan
 
 <br>
 
-**<h4>6. Email-app ofwel de 'flitspaal'</h4>**  
-**Wat is het?** Een emailbericht dat de telefooncentrale automatisch verstuurt met daarin de dag, tijd, nummer van de beller én nummer (belplan) waar de beller naar belt. Je bepaalt zelf welke gesprekken worden geflitst: alle gesprekken, gemiste gesprekken, gesprekken buiten werktijd, etc. De beller hoeft niets te doen en verwacht ook geen actie; jij weet direct dat er gebeld werd, hoe vaak, en je kunt rustig terugbellen, bv vanaf Qaller, met je zakelijk nummer.  
+**<h4>6. Email-app ofwel onze 'flitspaal'</h4>**  
+**Wat is het?** Een automatisch emailbericht dat de Callvoip telefooncentrale verstuurt met de dag, tijd, nummer van de beller én nummer (belplan) waar de beller naar belt. Je plaatst de email app op de juiste plek in de belroute. Zo bepaal je zelf welke gesprekken worden geflitst: alle gesprekken, gemiste gesprekken, gesprekken buiten werktijd, etc. De beller hoeft niets te doen en verwacht ook geen actie; jij weet direct dat er gebeld werd, hoe vaak, en je kunt rustig terugbellen, bv vanaf Qaller, met je zakelijk nummer.  
 **Wat heb je nodig?** De email-app maakt standaard deel uit van de dienst  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 1 minuut: zet de app in je belplan en klaar!  
