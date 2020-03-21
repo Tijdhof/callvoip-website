@@ -145,7 +145,23 @@ Ideaal - juist ook van grote waarde als je fysiek níet bij elkaar in de buurt b
 
 <br>
 
-**<h4>Wensen of vragen? Neem contact op via chat tel app of mail</h4>  
+**<h4>Toegift! 12. Conferentietelefoon en portable USB Bluetooth Speakerphone</h4>  
+Wat is het?** Mooie oplossingen om slim te vergaderen. Bijvoorbeeld een draadloze vergadertelefoon met accu: gemakkelijk overal neer te zetten, alle aanwezigen kunnen goed luisteren en praten zonder vlakbij het toestel te zitten. Schakel tot 4 andere nummers bij (5-weg-conferentie).  
+En een USB Bluetooth Speakerphone is een light variant: verbindg via BT met je smartphone of PC, of plug de USB kabel in, en je kunt luisteren én terugpraten.   
+**Wat heb je nodig?** Bijvoorbeeld één van deze [Yealink CP Conference Phones](https://callvoip.shop/index.php?controller=products-comparison&compare_product_list=897%7C898%7C963%7C1004).  
+**Wat kost het?** Prijzen vanaf 139,-  
+**Installatietijd?** Inpluggen en klaar; de CP9xx serie kunnen wij voor je instellen, en is dan ook plug and play!  
+**Hoe?** Zie onze [Conference Phones](https://callvoip.shop/156-conferentie-oplossing)<br>
+
+**<h4>Toegift! 13. Maak personen en teams bereikbaar via eigen nummer of keuzemenu</h4>  
+Wat is het?** Thuiswerken... is het handig dat mensen direct bereikbaar zijn? Liefst niet op hun privé mobiel? Met een eigen nummer is het zo goed als geregeld! Of geef een team een extern nummer.    
+Ook handig: met een keuzemenu kun je snel een directe bereikbaarheid van een persoon of team creëren. Tools te over en we denken heel graag met je mee.   
+**Wat heb je nodig?** Een keuzemenu  
+**Wat kost het?** 4,- ex BTW per maand  
+**Installatietijd?** met 15 minuten ben je een eind, schakel ons gerust in!  
+**Hoe?** Zie pagina 41 e.v. van de [deze handleiding ](http://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf)
+
+<br>**<h4>Wensen of vragen? Neem contact op via chat tel app of mail</h4>  
 In alle scenario’s:** neem vooral contact op met ons! Wij weten precies wat er kan, ook de dingen die jij niet bedenkt. Daar heb je ons voor. Dát noemen we: maatwerk op de plank - een zorgvuldig gelegd mozaïek aan mogelijkheden exact op maat voor jouw unieke situatie.  
 Uitgekiende telefonie-oplossingen voor slimme ondernemers. Zoals jij.
 
