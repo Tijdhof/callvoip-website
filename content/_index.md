@@ -85,45 +85,43 @@ usps:
   items:
   - icon: fa-clock
     title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
-    content: Definieer vooraf tijden waarin bepaalde acties worden uitgevoerd (bijv.
-      tijdens de feestdagen)
+    content: Maak snel tijdscondities voor elke week of met een kalender. bent.
     iconimage: ''
   - icon: fa-arrows-h
     title: <a href="/telefonie/functionaliteiten/doorverbinden/">Doorverbinden</a>
-    content: Inkomende oproep doorzetten naar een intern of extern nummer.
+    content: Verbind gesprekken automatisch door naar collega’s, mobiel, etc.
     iconimage: ''
   - icon: fa-users
     title: <a href="/telefonie/functionaliteiten/belgroep/">Belgroep</a>
-    content: Inkomende oproep op een groep van toestellen laten overgaan.
+    content: Bepaal welke toestellen hoelang rinkelen en in welke volgorde.
     iconimage: ''
   - icon: fa-random
     title: <a href="/telefonie/functionaliteiten/omleiding/">Slimme aan/uitschakelaars</a>
-    content: Aan-/uitschakelaar om belroute (bijv. ad hoc) te wijzigen.
+    content: Aan-/uitschakelaars zorgen altijd voor optimale bereikbaarheid.
     iconimage: ''
   - icon: fa-bell
     title: <a href="/telefonie/functionaliteiten/meldtekst/">Meldteksten</a>
-    content: Voeg ingesproken teksten toe aan de inkomende belroute (bijv. welkom).
+    content: VBegroeting of eindtekst? Je sleept hem zó in je belroute!
     iconimage: ''
   - icon: fa-file-audio
     title: <a href="/telefonie/functionaliteiten/voicemail/">Voicemailbox</a>
-    content: Vang inkomende oproep op en geef mogelijkheid tot inspreken.
+    content: Ontvang voicemails automatisch als email met .mp3 bijlage.
     iconimage: ''
   - icon: fa-bars
     title: <a href="/telefonie/functionaliteiten/keuzemenu/">Keuzemenu</a>
-    content: Professionele manier om jouw klant naar de juiste route te begeleiden.
+    content: Laat klanten voorsorteren voor snel contact en goede loadbalance.
     iconimage: ''
   - icon: fa-sort-numeric-down
     title: <a href="/telefonie/functionaliteiten/wachtrij/">Wachtrij</a>
-    content: Vang inkomende oproepen op en voorzie deze van muziek en meldteksten.
+    content: Pieken opvangen? Slimme wachtrij biedt comfort én overzicht!
     iconimage: ''
   - icon: fa-file-pdf
     title: <a href="/telefonie/functionaliteiten/fax/">Faxbox</a>
-    content: Digitaal ontvangen en versturen van faxberichten (incl. bevestiging).
+    content: Faxcentrum voor versturen en ontvangen, zonder faxapparaat.
     iconimage: ''
   - icon: fa-deaf
     title: <a href="/telefonie/functionaliteiten/gespreksopname/">Gespreksopname</a>
-    content: Jouw telefoongesprekken opnemen en terugluisteren. Je kunt het zelf per
-      gebruiker in- en uitschakelen.
+    content: Neem gesprekken op, ook vanaf mobiel, en download als batch.
     iconimage: ''
   - icon: fa-mouse-pointer
     title: <a href="/telefonie/clicktodial/">Integratiemogelijkheden</a>
@@ -132,7 +130,7 @@ usps:
     iconimage: ''
   - icon: fa-mobile
     title: <a href="/telefonie/qaller/">App met afstandsbediening</a>
-    content: Bel uit met het zakelijke nummer en beheer de centrale via jouw smartphone.
+    content: Gratis afstandsbediening bij de centrale voor iPhone en Android.
     iconimage: ''
 prefooter:
   title: Wil jij ook zorgeloos bereikbaar zijn?
