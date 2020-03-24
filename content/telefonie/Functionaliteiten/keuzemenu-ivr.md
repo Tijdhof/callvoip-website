@@ -5,7 +5,9 @@ description: Met een keuzemenu begeleidt u de beller naar de juiste afdeling. Ma
 type: page
 layout: default
 logos: true
-aliases: "/keuzemenu"
+aliases: 
+ - "/keuzemenu"
+ - "/telefonie/functionaliteiten/keuzemenu/"
 hero:
   title: Keuzemenu (IVR)
   content: "Met een keuzemenu begeleidt u de bellers direct naar de juiste medewerker of afdeling.
