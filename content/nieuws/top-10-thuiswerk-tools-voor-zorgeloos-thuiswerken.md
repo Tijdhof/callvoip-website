@@ -26,10 +26,12 @@ aliases:
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1571403955/home_omkizz.png)
 
-**Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Het Coronavirus verspreidt zich in rap tempo over de globe. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:  
-\- kunnen medewerkers professioneel verantwoord en gezond thuiswerken  
+**Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:  
+\- kunnen medewerkers professioneel verantwoord en gezond thuiswerken,  
 \- of moet de tent voor onbepaalde tijd op slot?  
+  
 Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?  
+  
 Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenwerken en klanten helpen. Intern en extern communiceren wordt kinderlijk eenvoudig en bovendien doeltreffend en efficiënt. Hier volgen de top 10 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
 
 <br>
@@ -46,7 +48,7 @@ NB: let op dat je thuis **vaak wel een voedingsadapter** nodig hebt, die kunnen 
 <br>
 
 **<h4>2. Qaller Plus smartphone app</h4>  
-Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel wordt, je kunt bellen en gebeld worden met het zaaknummer, intern bellen, gesprekken doorverbinden en gesprekken opnemen mits ingeschakeld. Bovendien zie je of collega's in gesprek zijn én is de app je regelpaneel (bv zaaknummer doorschakelen naar mobiel of voicemail).   
+Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel wordt, je kunt bellen en gebeld worden met het zaaknummer, intern bellen, gesprekken doorverbinden en gesprekken opnemen mits ingeschakeld. Bovendien zie je of collega's in gesprek zijn én is de app je regelpaneel (bv zaaknummer doorschakelen naar mobiel of voicemail).  
 **Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi of 4G  
 **Wat kost het?** €4,- per gebruiker per maand  
 **Installatietijd?** 3 minuten  
@@ -102,7 +104,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 <br>
 
 **<h4>8. Callvoip Conference Service</h4>**  
-**Wat is het?** Een telefonische vergaderservice om op in te bellen: handig voor je hele team, en met relaties, bv in het buitenland. Iedereen belt in vanaf met de eigen telefoon of mobiel en logt in met een pincode. Vergader met wie en zo vaak als jij dat wenst, geen inbelkosten! Deelnemers bellen gewoon jouw normale NL nummer, that's it.   
+**Wat is het?** Een telefonische vergaderservice om op in te bellen: handig voor je hele team, en met relaties, bv in het buitenland. Iedereen belt in vanaf met de eigen telefoon of mobiel en logt in met een pincode. Vergader met wie en zo vaak als jij dat wenst, geen inbelkosten! Deelnemers bellen gewoon jouw normale NL nummer, that's it.  
 **Wat heb je nodig?** De conference service en een telefoonnummer, en de bellers een telefoon of (prive-)mobiel.  
 **Wat kost het?** 10,- ex BTW per maand en setup 25,- ex BTW  
 **Installatietijd:** geen: inbellen en klaar!  
@@ -130,7 +132,7 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals elke
 <br>
 
 **<h4>Toegift! 11. Operator Panel biedt overzicht, o.a. bij thuiswerkers</h4>  
-Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Ideaal - en juist van grote waarde voor het overzicht en je bereikbaarheid als je fysiek níet bij elkaar in de buurt bent!   
+Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Ideaal - en juist van grote waarde voor het overzicht en je bereikbaarheid als je fysiek níet bij elkaar in de buurt bent!  
 Je ziet:  
 \- alle telefoontjes die binnenkomen  
 \- via welk nummer  
@@ -147,15 +149,15 @@ Je ziet:
 
 **<h4>Toegift! 12. Conferentietelefoon en portable USB Bluetooth Speakerphone</h4>  
 Wat is het?** Mooie oplossingen om slim te vergaderen. Bijvoorbeeld een draadloze vergadertelefoon met accu: gemakkelijk overal neer te zetten, alle aanwezigen kunnen goed luisteren en praten zonder vlakbij het toestel te zitten. Schakel tot 4 andere nummers bij (5-weg-conferentie).  
-En dan de CP700/900 als light variant: sluit aan via bluetooth of USB op smartphone, tablet, PC of Yealink-toestel, en je kunt luisteren én terugpraten. Koppel zelfs meer apparaten en voeg gesprekken samen. Of luister gewoon naar muziek.    
+En dan de CP700/900 als light variant: sluit aan via bluetooth of USB op smartphone, tablet, PC of Yealink-toestel, en je kunt luisteren én terugpraten. Koppel zelfs meer apparaten en voeg gesprekken samen. Of luister gewoon naar muziek.  
 **Wat heb je nodig?** Bijvoorbeeld één van deze [Yealink CP Conference Phones](https://callvoip.shop/index.php?controller=products-comparison&compare_product_list=897%7C898%7C963%7C1004).  
 **Wat kost het?** Prijzen vanaf 129,-  
-**Installatietijd?** Inpluggen en klaar! De 930W moet ingesteld, we helpen graag!   
+**Installatietijd?** Inpluggen en klaar! De 930W moet ingesteld, we helpen graag!  
 **Hoe?** Zie onze [Conference Phones](https://callvoip.shop/156-conferentie-oplossing)<br>
 
 **<h4>Toegift! 13. Maak personen en teams bereikbaar via eigen nummer of keuzemenu</h4>  
-Wat is het?** Thuiswerken... maakt dat het wenselijker dat personen rechtstreeks op een eigen nummer bereikbaar zijn? Liefst niet op hun privé mobiel? Met een eigen nummer is het zo goed als geregeld! Of geef een team een extern nummer.    
-Ook handig: met een keuzemenu kun je snel een directe bereikbaarheid van een persoon of team creëren. Tools te over en we denken heel graag met je mee.   
+Wat is het?** Thuiswerken... maakt dat het wenselijker dat personen rechtstreeks op een eigen nummer bereikbaar zijn? Liefst niet op hun privé mobiel? Met een eigen nummer is het zo goed als geregeld! Of geef een team een extern nummer.  
+Ook handig: met een keuzemenu kun je snel een directe bereikbaarheid van een persoon of team creëren. Tools te over en we denken heel graag met je mee.  
 **Wat heb je nodig?** Een keuzemenu  
 **Wat kost het?** Nummer: 2,- ex BTW p/mnd; Keuzemenu: 4,- ex BTW p/mnd  
 **Installatietijd?** afhankelijk van je wensen: met 5 tot 15 minuten ben je een eind; we helpen graag!  
