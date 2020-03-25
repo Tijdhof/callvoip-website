@@ -26,13 +26,13 @@ aliases:
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1571403955/home_omkizz.png)
 
-**Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:  
+Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:  
 \- kunnen medewerkers professioneel verantwoord en gezond thuiswerken,  
 \- of moet de tent voor onbepaalde tijd op slot?  
   
 Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?  
   
-Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenwerken en klanten helpen. Intern en extern communiceren wordt kinderlijk eenvoudig en bovendien doeltreffend en efficiënt. Hier volgen de top 10 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:**
+Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenwerken en klanten helpen. Intern en extern communiceren wordt kinderlijk eenvoudig en bovendien doeltreffend en efficiënt. Hier volgen de top 10 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:
 
 <br>
 
