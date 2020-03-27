@@ -15,7 +15,9 @@ Click-to-Dial is een gratis plug-in voor Google Chrome waarmee telefoonnummers o
 En het biedt nog veer meer!
 
 • <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl target="_blank">Download Click-to-Dial Gratis voor Google Chrome!</a>
-
+• <a href="https://www.youtube.com/watch?v=NlCHmRdHm9w" target="_blank">Bekijk instructievideo van de Click to Dial installatie</a>
+• <a href="https://www.youtube.com/watch?v=F8_S8d0HK04" target="_blank">Bekijk instructievideo hoe Click to Dial werkt</a>
+  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1582639629/clicktdial_handleiding_middba.png)
 
 <h3>Click-to-Dial Chrome plugin</h3>
