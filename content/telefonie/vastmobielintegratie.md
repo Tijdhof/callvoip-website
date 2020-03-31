@@ -25,7 +25,7 @@ blocks:
     + bellen via de native dialer<BR>
     + onbeperkt bellen binnen EU is inbegrepen<br>
     <br><br>
-    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button">Hoe werkt Vamos?</a>
+    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button"Deze info in een tabel</a>
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_left
   title: Het vast-mobiel landschap
