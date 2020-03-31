@@ -10,7 +10,7 @@ aliases:
 hero:
   title: Omleiding (Flow Control)
   content: "Een omleiding is een schakelaar waarmee u eenvoudig acties aan- of uitzet. Je kunt voor elk nummer omleidingen aanmaken. Daarnaast kun je in één nummer meerdere omleidingen plaatsen."
-  image: "/v1571655384/qaller_uitleg_pijltjes_cmzthl.pngg"
+  image: "/v1571655384/qaller_uitleg_pijltjes_cmzthl.png"
   image_position: center
   disable_image_on_mobile: false
   button:
