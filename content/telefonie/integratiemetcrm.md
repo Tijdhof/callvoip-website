@@ -39,8 +39,8 @@ blocks:
     basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
     een gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant
     kostenloos.\n\nWil je meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
-    met een ruime keuze aan CRM- en ERP-pakketten. Deze bied je een specifiekere koppeling
-    dan de click-to-dial.\n\nWil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
+    met een ruime keuze aan CRM- en ERP-pakketten. Deze biedt je een specifiekere
+    koppeling dan de click-to-dial.\n\nWil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
     API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Callvoip API kennen. \n\n<a href=\"/ondersteuning/integraties/voip-cti-handleiding/\"
@@ -79,13 +79,18 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks per gebruiker
-      price: '5.00'
+      price: 5.0
     - title: Eenmalig per organisatie
-      price: '150.00'
+      price: 150.0
     title: Kosten VoIP CTI
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 menu:
   main:
     weight: 3
