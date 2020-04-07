@@ -27,7 +27,7 @@ blocks:
 
     In totaal kan er met <a href="https://www.callvoip.nl/ondersteuning/integraties/voip-cti/" target="_blank">meer dan 100 pakketten</a> een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met uw pakket?
 
-    <a href="/ondersteuning/integraties/voip-cti-handleiding/" class="button">Hoe werkt het?</a>
+    <a href="/offerte/" class="button">Vraag dan nu een offerte aan</a>
   image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
   position: image_left
   title: Wat is er nodig en welke applicaties kun je koppelen?
@@ -43,7 +43,8 @@ blocks:
     koppeling dan de click-to-dial.\n\nWil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
     API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
-    die de kunst van programmeren verstaan én de Callvoip API kennen.
+    die de kunst van programmeren verstaan én de Callvoip API kennen. \n\n<a href=\"/ondersteuning/integraties/voip-cti-handleiding/\"
+    class=\"button\">Hoe werkt het?</a>"
   position: image_right
   image_position: center
 usps:
