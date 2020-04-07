@@ -45,3 +45,8 @@ Ben je aan het bellen? Tijdens het gesprek beschik je over handige controls zoda
 Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. 
 
 <a href="https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf" class="button">Download Handleiding</a>
+
+<h3>Instructie video</h3>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube.com/embed/PyH71iA1e9s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>
