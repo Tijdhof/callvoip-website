@@ -21,18 +21,25 @@ blocks:
     Met Web Calls kun je bellen en gebeld worden via de computer. Je hebt nodig: een computer met internet, een browser (bv Google
     Chrome) en speakers + microfoon om te horen en te praten. Het is niet nodig om software te installeren, en dus zijn driverproblemen
     ook verleden tijd. Zet Web Calls met één klik aan op de telefooncentrale, log in en je kunt binnen 1 minuut aan de slag!<BR><BR>
-    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/extra-features/handleiding-web-calls/" class="button">Hoe werkt het?</a>'
+    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/extra-features/handleiding-web-calls/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/webcalls_ejtcdu.png"
   position: image_left
   title: Web Calls – wat is er nodig?
   image_position: center
 - content: |-
     Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale. Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in de wacht zetten. Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst.<BR><BR>
-    <a target="_blank" href="https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf" class="button">Webcalls Handleiding</a>'
+    <a target="_blank" href="https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf" class="button">Webcalls Handleiding</a>
   image: "/v1572860986/Screenshot_19_cz6vpx.png"
   position: ''
   title: 'Web Calls: bellen zonder beperkingen'
   image_position: ''
+- content: |-
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube.com/embed/PyH71iA1e9s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>
+  image: ""
+  position: image_left
+  title: Instructie video
+  image_position: center
 prijzen:
 - title: Webcalls
   content: Browser based bellen, tijdelijk gratis!
