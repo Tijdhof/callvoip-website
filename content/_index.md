@@ -101,7 +101,7 @@ usps:
     iconimage: ''
   - icon: fa-bell
     title: <a href="/telefonie/functionaliteiten/meldtekst/">Meldteksten</a>
-    content: VBegroeting of eindtekst? Je sleept hem zó in je belroute!
+    content: Begroeting of eindtekst? Je sleept hem zó in je belroute!
     iconimage: ''
   - icon: fa-file-audio
     title: <a href="/telefonie/functionaliteiten/voicemail/">Voicemailbox</a>
@@ -125,12 +125,19 @@ usps:
     iconimage: ''
   - icon: fa-mouse-pointer
     title: <a href="/telefonie/clicktodial/">Integratiemogelijkheden</a>
-    content: Koppel jouw telefonie met je overige applicaties en CRM-systeem met de
-      handige gratis Click-to-Dial chrome plugin en de VoIP CTI koppeling.
+    content: Koppel met jouw CRM via Click to Dial en VoIP CTI.
     iconimage: ''
   - icon: fa-mobile
     title: <a href="/telefonie/qaller/">App met afstandsbediening</a>
     content: Gratis afstandsbediening bij de centrale voor iPhone en Android.
+    iconimage: ''
+  - icon: fa-tty
+    title: <a href="/webcalls/">Webcalls</a>
+    content: Bellen zonder toestel? Jazeker, gewoon met je browser en een headset!
+    iconimage: ''
+  - icon: fa-mobile-alt
+    title: <a href="/vamos/">Vast-Mobiel</a>
+    content: Volledige vast-mobiel integratie met een SIM van Callvoip
     iconimage: ''
 prefooter:
   title: Wil jij ook zorgeloos bereikbaar zijn?
