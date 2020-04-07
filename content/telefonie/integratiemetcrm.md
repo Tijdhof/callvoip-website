@@ -34,7 +34,7 @@ blocks:
   image_position: ''
 - title: Vergelijking met andere integratie
   image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
-  content: De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nJe weet
+  content: 'De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nJe weet
     het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
     basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
     een gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant
@@ -44,7 +44,7 @@ blocks:
     API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Callvoip API kennen. <a href="/ondersteuning/integraties/cti-overzicht/"
-    class="button">Klaar om te koppelen</a>
+    class="button">Klaar om te koppelen</a>'
   position: image_right
   image_position: center
 usps:
