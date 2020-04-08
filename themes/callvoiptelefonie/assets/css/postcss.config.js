@@ -1,8 +1,3 @@
-class TailwindExtractor {
-	static extract(content) {
-		return content.match(/[A-z0-9-:\/]+/g)
-	}
-}
 
 const purgeTailwind = (content) => {
   return content.match(/[A-z0-9-:\/]+/g)
@@ -28,17 +23,6 @@ module.exports = {
         },
       ]
     }),
-
-    // require('@fullhuman/postcss-purgecss')({
-    //   content: ['./themes/callvoiptelefonie/layouts/**/*.html'],
-    //   extractors: [
-    //   {
-    //     extractor: new TailwindExtractor,
-    //     extensions: ['html']
-    //   }],
-    //   fontFace: true,
-    //   whitelist: ['pagination', 'layout-split', 'active', 'has-dropdown']
-    // }),
 
     require('autoprefixer')
   ]
