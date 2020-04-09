@@ -10,10 +10,7 @@ Update: false
 aliases: "/handleiding-webcalls"
 
 ---
-<br>
-
-<br>
-
+<br><br>  
 <h3>Callvoip handleiding Web Calls – Browser Based Bellen </h3>
 
 Web Calls, ofwel Browser based calling is een schitterende nieuwe feature op de Callvoip
@@ -21,6 +18,8 @@ telefooncentrale, van waarde voor veel klanten, nu en in de toekomst!
 Met Web Calls kun je bellen en gebeld worden zónder een telefoontoestel of smartphone,
 het enige dat je nodig hebt is een browser, zoals Google Chrome, die je op elke computer,
 laptop of tablet tot je beschikking hebt.
+
+• [Klik hier en bekijk de Webcalls instructievideo](https://youtu.be/PyH71iA1e9s)
 
 <h3>Met Web Calls kun je :</h3>
 
