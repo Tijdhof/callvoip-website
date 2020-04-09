@@ -120,7 +120,7 @@ usps:
   - image: "/v1566559951/hotdesking_uand24.png"
     title: Hotdesking
     link: ""
-    content: Flexibele werkplek? Log in op een toestel met jouw interne nummer
+    content: Flexibele werkplek? Log in op een toestel met jouw interne nummer.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/config_xylsqb.png"
@@ -132,19 +132,19 @@ usps:
   - image: "/v1566559951/monitor_gddauy.png"
     title: Bereikbaarheidsmonitor
     link: "/telefonie/bereikbaarheidsmonitor/"
-    content: Zie in één blik jouw bereikbaarheid - per uur, dag en week
+    content: Zie in één blik jouw bereikbaarheid - per uur, dag en week.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/wachtrijmusic_j95g5y.png"
     title: Wachtmuziek
     link: ""
-    content: Beheer zelf je eigen bibliotheek met wachtmuziek
+    content: Beheer zelf je eigen bibliotheek met wachtmuziek.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/api_l9naxl.png"
     title: API programmeer-interface
     link: "/telefonie/realtime-api/"
-    content: 'Integratie: laat Callvoip praten met andere programma’s'
+    content: 'Integratie: laat Callvoip praten met andere programma’s.'
     icon: ''
     iconimage: ''
 - title: PowerFeatures
@@ -190,25 +190,25 @@ usps:
   - image: "/v1566559951/bedienpost_vttke0.png"
     title: Operator Bedienpost
     link: ""
-    content: Realtime overzicht van belverkeer en wachtrijen, en contactlijst
+    content: Realtime overzicht van belverkeer en wachtrijen, en contactlijst.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/test-qaller_iqepfj.png"
     title: Qaller Plus
     link: "/telefonie/qaller"
-    content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer
+    content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/vamos_fupe0q.png"
     title: Vamos
     link: "/telefonie/vastmobielintegratie"
-    content: '06-nummer en data van Callvoip: echte vast-mobiel integratie'
+    content: '06-nummer en data van Callvoip: echte vast-mobiel integratie.'
     icon: ''
     iconimage: ''
   - image: "/v1566559951/crm_hpm6rj.png"
     title: VoIP CTI
     link: "/telefonie/integratiemetcrm"
-    content: Integreer Callvoip met CRM-systemen als Afas, Exact en meer
+    content: Integreer Callvoip met CRM-systemen als Afas, Exact en meer.
     icon: ''
     iconimage: ''
 hideingoogle: false
