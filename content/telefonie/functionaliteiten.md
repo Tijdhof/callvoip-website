@@ -181,6 +181,36 @@ usps:
     content: Neem gesprekken op, ook vanaf mobiel, en download als batch.
     icon: ''
     iconimage: ''
+  - image: "/v1566559951/webcalls_kj7lgc.png"
+    title: Webcalls
+    link: "/telefonie/webcalls"
+    content: Bellen met je browser en een headset, geen telefoon nodig!
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/bedienpost_vttke0.png"
+    title: Operator Bedienpost
+    link: ""
+    content: Realtime overzicht van belverkeer en wachtrijen, en contactlijst
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/test-qaller_iqepfj.png"
+    title: Qaller Plus
+    link: "/telefonie/qaller"
+    content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/vamos_fupe0q.png"
+    title: Vamos
+    link: "/telefonie/vastmobielintegratie"
+    content: 06-nummer en data van Callvoip: echte vast-mobiel integratie
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/crm_hpm6rj.png"
+    title: VoIP CTI
+    link: "/telefonie/integratiemetcrm"
+    content: Integreer Callvoip met CRM-systemen als Afas, Exact en meer
+    icon: ''
+    iconimage: ''
 hideingoogle: false
 hidesocialshare: false
 slug: ''
