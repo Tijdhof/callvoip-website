@@ -3,13 +3,17 @@ title: Handleiding Web Calls
 weight: 2
 description: ''
 images: []
-pdf: "https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf"
+pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf
 hideinsearch: false
 Nieuw: true
 Update: false
 aliases: "/handleiding-webcalls"
 
 ---
+<br>
+
+<br>
+
 <h3>Callvoip handleiding Web Calls – Browser Based Bellen </h3>
 
 Web Calls, ofwel Browser based calling is een schitterende nieuwe feature op de Callvoip
@@ -28,11 +32,11 @@ laptop of tablet tot je beschikking hebt.
 
 <h3>Hoe start je met Web Calls  in?</h3>
 
-Heel eenvoudig: op de Callvoip-centrale zet je bij de instellingen van een specifieke gebruiker Web Calls aan. Als de gebruiker inlogt staat er een oranje toetsenbord-icoontje op zijn UC Panel bij. Klik en start met bellen.   
-NB: zorg dat de computer, laptop of tablet speakers en microfoon heeft, of sluit een (bluetooth) headset aan, anders kun je niet horen en praten. 
+Heel eenvoudig: op de Callvoip-centrale zet je bij de instellingen van een specifieke gebruiker Web Calls aan. Als de gebruiker inlogt staat er een oranje toetsenbord-icoontje op zijn UC Panel bij. Klik en start met bellen.  
+NB: zorg dat de computer, laptop of tablet speakers en microfoon heeft, of sluit een (bluetooth) headset aan, anders kun je niet horen en praten.
 
 <h3>Handige Call Controls!</h3>  
-Ben je aan het bellen? Tijdens het gesprek beschik je over handige controls zodat Web Calls niet onderdoet voor een normale telefoon. Denk aan: 
+Ben je aan het bellen? Tijdens het gesprek beschik je over handige controls zodat Web Calls niet onderdoet voor een normale telefoon. Denk aan:
 
 * Doorverbinden
 * In de wacht zetten
@@ -42,7 +46,7 @@ Ben je aan het bellen? Tijdens het gesprek beschik je over handige controls zoda
 
 <h3>Meer weten? Download de handleiding!</h3>
 
-Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. 
+Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden.
 
 <a href="https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf" class="button">Download Handleiding</a>
 
