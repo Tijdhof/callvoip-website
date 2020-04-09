@@ -144,7 +144,7 @@ usps:
   - image: "/v1566559951/api_l9naxl.png"
     title: API programmeer-interface
     link: "/telefonie/realtime-api/"
-    content: Integratie: laat Callvoip praten met andere programma’s
+    content: Integratie laat Callvoip praten met andere programma’s
     icon: ''
     iconimage: ''
 - title: PowerFeatures
