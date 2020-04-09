@@ -183,7 +183,7 @@ usps:
     iconimage: ''
   - image: "/v1566559951/webcalls_kj7lgc.png"
     title: Webcalls
-    link: "/telefonie/webcalls"
+    link: "/webcalls"
     content: Bellen met je browser en een headset, geen telefoon nodig!
     icon: ''
     iconimage: ''
