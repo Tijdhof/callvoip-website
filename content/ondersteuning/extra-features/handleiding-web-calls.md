@@ -10,7 +10,6 @@ Update: false
 aliases: "/handleiding-webcalls"
 
 ---
-<br><br>  
 <h3>Callvoip handleiding Web Calls – Browser Based Bellen </h3>
 
 Web Calls, ofwel Browser based calling is een schitterende nieuwe feature op de Callvoip
