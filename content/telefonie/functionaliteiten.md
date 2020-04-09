@@ -105,7 +105,7 @@ usps:
     content: Klik en trek een gesprek dat elders rinkelt naar je eigen toestel.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/click-to-dial_aitoi1.png"
+  - image: "/v1566559951/clicktodial_m7zdni.png"
     title: Click to Dial
     link: "/telefonie/clicktodial/"
     content: Gratis Chrome plugin met een set vol onmisbare telefoontools!
