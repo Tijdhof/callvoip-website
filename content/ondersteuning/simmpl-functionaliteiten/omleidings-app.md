@@ -1,9 +1,14 @@
 ---
-title: Omleidings-app
+title: Handleiding Omleidings-app
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+Nieuw: false
+Update: false
 
 ---
 De Simmpl telefooncentrale kent drie soorten condities waarbinnen u één of meer acties kunt laten uitvoeren:
