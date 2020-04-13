@@ -1,9 +1,14 @@
 ---
-title: Prefix-app
+title: Handleiding Prefix-app
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_technote_prefix-app.pdf
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+Nieuw: false
+Update: false
 
 ---
 Heeft u meerdere nummers die op één of meer toestellen binnenkomen?   

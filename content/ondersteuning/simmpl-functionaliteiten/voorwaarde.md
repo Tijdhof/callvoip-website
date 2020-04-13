@@ -1,5 +1,5 @@
 ---
-title: Voorwaarde-app
+title: Handleiding Voorwaarde-app
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_voorwaarde-app.pdf
 
 ---

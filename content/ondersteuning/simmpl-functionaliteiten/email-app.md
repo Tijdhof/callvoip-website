@@ -1,10 +1,15 @@
 ---
-title: Email-app
+title: Handleiding Email-app
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_email-app.pdf
-aliases: 'email-app'
+aliases: email-app
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+Nieuw: false
+Update: false
 
 ---
 Plaats de email-app in de belroute; deze zorgt ervoor dat u een emailnotificatie ontvangt op één of meer emailadressen van een gesprek dat op die plek in de belroute langskomt. Zo hoeft u geen gesprek meer te missen en kunt u waarborgen dat elk belangrijk gesprek wordt opgemerkt. De emailnotificatie is een kort bericht met de datum, tijd, nummer van de beller en in welk belplan het gesprek is langsgekomen.
