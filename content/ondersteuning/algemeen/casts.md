@@ -1,5 +1,5 @@
 ---
-title: Instructie Videos
+title: 'CallvoipCasts: videotutorials'
 weight: 3
 onderdelen:
 - Algemeen

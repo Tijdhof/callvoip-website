@@ -1,10 +1,16 @@
 ---
-title: Wachtrij-app
+title: Handleiding Wachtrij-app
 weight: 
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_wachtrij.pdf
-Aliases: 'handleiding-wachtrij'
+Aliases: handleiding-wachtrij
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+Nieuw: false
+Update: false
+
 ---
 De Simmpl telefooncentrale beschikt over een professioneel wachtrijsysteem. Een wachtrij is een prachtige, intelligente feature van de Simmpl telefooncentrale. De wachtrij neemt gesprekken aan, verbindt deze door met uw wachtrij-agenten en houdt bellers op een comfortabele manier vast als er niemand vrij is. Dit is een uitkomst op momenten dat het erg druk is.
 
