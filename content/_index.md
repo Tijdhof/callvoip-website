@@ -85,7 +85,7 @@ usps:
   items:
   - icon: fa-clock
     title: <a href="/telefonie/functionaliteiten/tijdsconditie/">Tijdscondities</a>
-    content: Maak snel tijdscondities voor elke week of met een kalender. bent.
+    content: Maak snel tijdscondities voor elke week of met een kalender.
     iconimage: ''
   - icon: fa-arrows-h
     title: <a href="/telefonie/functionaliteiten/doorverbinden/">Doorverbinden</a>
