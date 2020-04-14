@@ -12,5 +12,5 @@ Nieuw: false
 Update: false
 pdf: ''
 hideingoogle: true
-aliases: "/videotutorials"
+url: "/videotutorials"
 ---
