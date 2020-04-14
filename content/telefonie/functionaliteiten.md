@@ -60,7 +60,7 @@ usps:
   - image: "/v1566995670/tijdsconditie_round_szsrmf.png"
     title: Tijdsconditie
     link: "/telefonie/functionaliteiten/tijdsconditie/"
-    content: Maak snel tijdscondities voor elke week of met een kalender. bent.
+    content: Maak snel tijdscondities voor elke week of met een kalender.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/email_icon_duhhwa.png"
