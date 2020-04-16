@@ -9,10 +9,8 @@ hidesocialshare: false
 Nieuw: false
 Update: false
 pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf
-draft: true
 
 ---
-
 <h1>Uitleg bij de meest voorkomende handelingen:</h1>
 
 1\. Een gesprek opzetten  
@@ -32,10 +30,10 @@ draft: true
 \- Pak de hoorn / druk op de speakertoets om over te schakelen naar hoorn/speaker
 
 4\. Een gesprek aannemen  
-\- Je kunt een gesprek op veel verschillende manieren aannemen:   
-> neem de hoorn op   
-> druk de headsetknop in   
-> druk de speakertoets in > druk op toets \[BEANTWOORDEN\] in het display als het toestel rinkelt   
+\- Je kunt een gesprek op veel verschillende manieren aannemen:  
+> neem de hoorn op  
+> druk de headsetknop in  
+> druk de speakertoets in > druk op toets \[BEANTWOORDEN\] in het display als het toestel rinkelt  
 > druk op de snelknipperende lijntoets als de oproep binnenkomt
 
 5\. Een tweede, derde, etc. gespre  
@@ -58,32 +56,36 @@ draft: true
 \- Je ziet in je display een icoontje als teken dat de luidspreker uit is
 
 9\. Beller in de wacht zetten  
-\- Zet een beller als volgt in de wacht:   
-> druk op de displaytoets WACHT   
+\- Zet een beller als volgt in de wacht:
+
+> druk op de displaytoets WACHT  
 > of druk op de button HOLD > of druk op de brandende lijntoet  
-\- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
-\- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
+> \- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
+> \- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
 
 10\. Gesprek doorverbinden  
-\- Zonder aankondiging / ruggespraak:   
-> druk in het display op \[DOORVERBINDEN\]   
-> druk het verkorte nummer van uw collega of lange nummer   
-> en dan gelijk nogmaals op displaytoets \[DOORVERBINDEN\]  
-\- Met aankondiging / ruggespraak
+\- Zonder aankondiging / ruggespraak:
 
-> druk in het display op \[DOORVERBINDEN\] > druk het verkorte nummer van uw collega of lange nummer gevolgd door #   
-> hou ruggespraak met uw collega en zodra u wilt doorverbinden:   
-> druk dan gelijk nogmaals op displaytoets \[DOORVERBINDEN  
-  
+> druk in het display op \[DOORVERBINDEN\]  
+> druk het verkorte nummer van uw collega of lange nummer  
+> en dan gelijk nogmaals op displaytoets \[DOORVERBINDEN\]  
+> \- Met aankondiging / ruggespraak
+
+> druk in het display op \[DOORVERBINDEN\] > druk het verkorte nummer van uw collega of lange nummer gevolgd door #  
+> hou ruggespraak met uw collega en zodra u wilt doorverbinden:  
+> druk dan gelijk nogmaals op displaytoets \[DOORVERBINDEN
+
 \- In plaats van de displaytoets doorverbinden kunt u ook de toets TRANSFER rechts op uw toestel (met twee hoorntjes) gebruiken
 
 11\. Conferencegesprek / groepsgespre  
 \- Bel twee mensen en voeg dit gesprek samen tot een 3-persoons-groepsgesprek Ideaal voor bv teamoverleg Tip: luister mee bij het trainen van collega’s: de trainer zet zich op MUTE en kan alles volgen  
-\- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op: > bel partij 1 > druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht  
+\- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op: > bel partij 1 > druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht
+
 > jij krijgt een kiestoon, bel partij 2  
-> zodra je contact hebt: druk nogmaals op CONFER > je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan  
-  
-\- aan het einde van het groepsgesprek  
+> zodra je contact hebt: druk nogmaals op CONFER > je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan
+
+\- aan het einde van het groepsgesprek
+
 > als jij het gesprek beeindigt worden beide verbindingen beeindig  
 > als partij 1 ophangt blijf jij aan de lijn met partij 2 (of andersom  
 > klik op SPLITSEN: je zet dan beide lijnen in de wacht en kunt ze afzonderlijk spreken
