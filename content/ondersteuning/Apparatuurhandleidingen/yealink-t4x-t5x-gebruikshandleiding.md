@@ -13,49 +13,49 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Y
 ---
 <h1>Uitleg bij de meest voorkomende handelingen:</h1>
 
-1\. Een gesprek opzetten  
-\- Neem de hoorn op  je hoort een kiestoon  
-\- Toets het nummer in en druk op # \[kiezen\]  het toestel gaat gelijk bellen  
+<h2>1. Een gesprek opzetten</h2><br>  
+\- Neem de hoorn op > je hoort een kiestoon  
+\- Toets het nummer in en druk op # \[kiezen\] > het toestel gaat gelijk bellen  
 \- Als je verbinding hebt brandt het lijnknopje GROEN
 
-2\. Luidsprekerfunctie  
+<h2>2. Luidsprekerfunctie</h2><br>  
 \- De speaker / luidspreker zet je aan met de luidsprekertoets (rechts onder)  
 \- Als u de hoorn laat liggen en een nummer draait, wordt de speaker gebruikt  
 \- Als je de speakertoets gebruikt tijdens een gesprek schakel je over op speaker  
 \- Je kunt naar wens wisselen tussen hoorn, speaker, headset en ziet rechtsboven in het display hoe het gesprek op dat moment staat ingesteld
 
-3\. Gebruik van een headset  
+<h2>3. Gebruik van een headset</h2><br>  
 \- Je kunt een gesprek aannemen op de headset door op de headsetknop te drukken.  
 \- Eénmaal hierop ingesteld blijft de instelling zo staan (lampje brandt)  
 \- Pak de hoorn / druk op de speakertoets om over te schakelen naar hoorn/speaker
 
-4\. Een gesprek aannemen  
+<h2>4. Een gesprek aannemen</h2><br>  
 \- Je kunt een gesprek op veel verschillende manieren aannemen:  
 > neem de hoorn op  
 > druk de headsetknop in  
 > druk de speakertoets in > druk op toets \[BEANTWOORDEN\] in het display als het toestel rinkelt  
 > druk op de snelknipperende lijntoets als de oproep binnenkomt
 
-5\. Een tweede, derde, etc. gespre  
+<h2>5. Een tweede, derde, etc. gesprek</h2><br>  
 \- Als er een tweede gesprek binnenkomt tijdens een eerste gesprek, dan kun je deze aannemen door op de snelknipperende lijntoets te drukken of op BEANTWOORD in het display  
 \- Als er MEERDERE gesprekken actief zijn, dan zie je dit rechtsboven in het display met de indicatie x/y waarbij x het gesprek is dat actief is en y het aantal gesprekken dat er in totaal actief is. Met de pijltjestoetsen kun je door de actieve gesprekken lopen en zien welk nummer erbij hoort. Je blijft gewoon in uw gesprek maar ziet enkel de gegevens van gesprekken in de wacht.  
 \- Je kunt gesprekken vanuit de wachtstand gewoon doorverbinden door het gesprek in het display te zien en dan via de displaytoetsen door te verbinden.  
 \- Je kunt wisselen tussen gesprekken door de lijntoetsen te gebruiken
 
-6\. Een gesprek beëindigen  
+<h2>6. Een gesprek beëindigen</h2><br>  
 \- Je kunt een gesprek beëindigen door op de displaytoets \[beëindigen\] te drukken.  
 \- Je kunt ook de hoorn opleggen, de headsetknop indrukken om te beeïndigen of de speaker indrukken om het gesprek te beeïndigen.
 
-7\. Een nummer herhalen  
+<h2>7. Een nummer herhalen</h2><br>  
 \- Om een nummer te herhalen druk rechts op het toestel op de toets met de twee pijltjes en bijschrift \[REDIAL\]. Je komt in het log met uitgaande gesprekken.  
 \- Druk nu NOGMAALS op de toets REDIAL dan bel je het bovenste en dus laatste gebelde nummer.  
 \- Of: navigeer met de pijltjes naar het gewenste gesprek en druk op REDIAL
 
-8\. MUTE gebruiken (beller kan jou niet horen, jij de beller wel)  
+<h2>8. MUTE gebruiken (beller kan jou niet horen, jij de beller wel)</h2><br>  
 \- Met de MUTE toets zet je je luidspreker even uit, handig als je moet hoesten, een collega even snel antwoord wilt geven of ruggespraak wilt houden. Je hoort de beller echter ook en de beller ervaart niet dat hij in de wacht staat (geen wachtmuziek)  
 \- Je ziet in je display een icoontje als teken dat de luidspreker uit is
 
-9\. Beller in de wacht zetten  
+<h2>9. Beller in de wacht zetten</h2><br>  
 \- Zet een beller als volgt in de wacht:
 
 > druk op de displaytoets WACHT  
@@ -63,7 +63,7 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Y
 > \- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
 > \- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
 
-10\. Gesprek doorverbinden  
+<h2>10. Gesprek doorverbinden</h2><br>  
 \- Zonder aankondiging / ruggespraak:
 
 > druk in het display op \[DOORVERBINDEN\]  
@@ -77,7 +77,7 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Y
 
 \- In plaats van de displaytoets doorverbinden kunt u ook de toets TRANSFER rechts op uw toestel (met twee hoorntjes) gebruiken
 
-11\. Conferencegesprek / groepsgespre  
+<h2>11. Conferencegesprek / groepsgesprek</h2><br>  
 \- Bel twee mensen en voeg dit gesprek samen tot een 3-persoons-groepsgesprek Ideaal voor bv teamoverleg Tip: luister mee bij het trainen van collega’s: de trainer zet zich op MUTE en kan alles volgen  
 \- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op: > bel partij 1 > druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht
 
@@ -90,7 +90,7 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Y
 > als partij 1 ophangt blijf jij aan de lijn met partij 2 (of andersom  
 > klik op SPLITSEN: je zet dan beide lijnen in de wacht en kunt ze afzonderlijk spreken
 
-12\. De telefoon op NIET STOREN zetten (DND)  
+<h2>12. De telefoon op NIET STOREN zetten (DND)</h2><br>  
 \- Even niet gestoord worden? Zet de telefoon op DND = Do Not Disturb  
 \- De DND toets staat op de 3e toets onder je display  
 \- Als je DND hebt ingschakeld staat er DND of een GEEN TOEGANG icoon in het display  
