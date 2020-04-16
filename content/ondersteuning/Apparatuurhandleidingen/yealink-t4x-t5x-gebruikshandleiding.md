@@ -17,7 +17,7 @@ Zie ook de [Callvoip Casts](https://callvoip.nl/casts).
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1587072170/Yealink_t4x_t5x_cuh3uh.jpg)
 
-<h3>1. Een gesprek opzetten</h3  
+<h3>1. Een gesprek opzetten</h3>  
 \- Neem de hoorn op: je hoort een kiestoon  
 \- Toets het nummer in en druk op # \[kiezen\]: het toestel gaat gelijk bellen  
 \- Als je verbinding hebt brandt het lijnknopje GROEN
