@@ -56,22 +56,22 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Y
 \- Je ziet in je display een icoontje als teken dat de luidspreker uit is
 
 <h2>9. Beller in de wacht zetten</h2><br>  
-\- Zet een beller als volgt in de wacht:
-
+\- Zet een beller als volgt in de wacht:  
 > druk op de displaytoets WACHT  
-> of druk op de button HOLD > of druk op de brandende lijntoet  
-> \- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
-> \- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
+> of druk op de button HOLD   
+> of druk op de brandende lijntoet  
+\- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
+\- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
 
 <h2>10. Gesprek doorverbinden</h2><br>  
-\- Zonder aankondiging / ruggespraak:
-
+\- Zonder aankondiging / ruggespraak:  
 > druk in het display op \[DOORVERBINDEN\]  
 > druk het verkorte nummer van uw collega of lange nummer  
 > en dan gelijk nogmaals op displaytoets \[DOORVERBINDEN\]  
-> \- Met aankondiging / ruggespraak
-
-> druk in het display op \[DOORVERBINDEN\] > druk het verkorte nummer van uw collega of lange nummer gevolgd door #  
+  
+\- Met aankondiging / ruggespraak  
+> druk in het display op \[DOORVERBINDEN\]   
+> druk het verkorte nummer van uw collega of lange nummer gevolgd door #  
 > hou ruggespraak met uw collega en zodra u wilt doorverbinden:  
 > druk dan gelijk nogmaals op displaytoets \[DOORVERBINDEN
 
@@ -79,14 +79,15 @@ pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Y
 
 <h2>11. Conferencegesprek / groepsgesprek</h2><br>  
 \- Bel twee mensen en voeg dit gesprek samen tot een 3-persoons-groepsgesprek Ideaal voor bv teamoverleg Tip: luister mee bij het trainen van collega’s: de trainer zet zich op MUTE en kan alles volgen  
-\- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op: > bel partij 1 > druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht
-
+\- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op:   
+> bel partij 1   
+> druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht  
 > jij krijgt een kiestoon, bel partij 2  
-> zodra je contact hebt: druk nogmaals op CONFER > je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan
+> zodra je contact hebt: druk nogmaals op CONFER   
+> je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan
 
-\- aan het einde van het groepsgesprek
-
-> als jij het gesprek beeindigt worden beide verbindingen beeindig  
+\- aan het einde van het groepsgesprek  
+> als jij het gesprek beeindigt worden beide verbindingen beeindigd  
 > als partij 1 ophangt blijf jij aan de lijn met partij 2 (of andersom  
 > klik op SPLITSEN: je zet dan beide lijnen in de wacht en kunt ze afzonderlijk spreken
 
