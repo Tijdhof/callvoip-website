@@ -28,10 +28,10 @@ aliases:
 
 Naast dat thuiswerken anno nu een geliefde bezigheid begint te worden, is het in sommige urgente gevallen een bittere noodzaak. Zoals nu bijvoorbeeld. Hierdoor staan veel bedrijven en organisaties inééns voor een duivels dilemma:  
 \- kunnen medewerkers professioneel verantwoord en gezond thuiswerken,  
-\- of moet de tent voor onbepaalde tijd op slot?  
-  
-Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?  
-  
+\- of moet de tent voor onbepaalde tijd op slot?
+
+Beide scenario's lijken voor de meeste bedrijven vanzelfsprekend onwenselijk. Of hoeft dit helemaal niet zo te zijn?
+
 Met de slimme zakelijke telefonie van Callvoip kun je ook vanaf huis goed samenwerken en klanten helpen. Intern en extern communiceren wordt kinderlijk eenvoudig en bovendien doeltreffend en efficiënt. Hier volgen de top 10 thuiswerk-tools om het jouw bedrijf zo gemakkelijk mogelijk te maken:
 
 <br>
@@ -98,12 +98,23 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 **Wat heb je nodig?** Niets! de geluids-app en opnamebox zijn standaard!  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 5 minuten: bel 8000, zet de tekst(en) in je belplan en klaar!  
-**Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)<br>
+**Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)<br>   
 **Uitleg:** [www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken
 
 <br>
 
-**<h4>8. Callvoip Conference Service</h4>**  
+**<h4>8. Teamoverleg? Groepsgesprek op je eigen Yealink IP Phone!</h4>**  
+**Wat is het?** De mogelijkheid om op je eigen Yealink telefoon een groepsgesprek met 3 personen op te zetten. Eén persoon bellen, dat is bekend terrein. Schakel een collega bij en bel met z'n 3-en. Die collega kan ook weer iemand bijschakelen, je bent dan met z'n 4-en.   
+Gebruik het knopje CONFER om de Conference te starten. En met de Yealink 9x0's phones kun je een groespgesprek met 5 partijen houden!  
+Echt een reuze handige feature in dit thuiswerk-tijdperk!    
+**Wat heb je nodig?** Een Yealink IP-telefoon, die je vast al hebt  
+**Wat kost het?** helemaal niets.  
+**Installatietijd:** eerst een keertje oefenen, daarna nog geen 10 seconden  
+**Hoe?** Zie pagina 4 punt 11: [Yealink T4x/T5x gebruikshandleiding](https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf)<br> 
+
+<br>
+
+**<h4>9. Callvoip Conference Service</h4>**  
 **Wat is het?** Een telefonische vergaderservice om op in te bellen: handig voor je hele team, en met relaties, bv in het buitenland. Iedereen belt in vanaf met de eigen telefoon of mobiel en logt in met een pincode. Vergader met wie en zo vaak als jij dat wenst, geen inbelkosten! Deelnemers bellen gewoon jouw normale NL nummer, that's it.  
 **Wat heb je nodig?** De conference service en een telefoonnummer, en de bellers een telefoon of (prive-)mobiel.  
 **Wat kost het?** 10,- ex BTW per maand en setup 25,- ex BTW  
@@ -113,7 +124,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 
 <br>
 
-**<h4>9. Slimme wachtrij met externe agenten (bv mobiel of privenummer)</h4>**  
+**<h4>10. Slimme wachtrij met externe agenten (bv mobiel of privenummer)</h4>**  
 **Wat is het?** Een wachtrij die het inkomende telefoonverkeer verdeelt over de ingelogde agenten. Dit hoeven niet persé medewerkers met kantoortelefoons te zijn, je kunt ook externe nummers als agent inloggen, bv mobiel of privénummer van een thuiswerker. En wist je dat Qaller ook werkt als wachtrij-agent? En past het gesprek net even niet, dan kun je een gesprek afwijzen en gaat hij naar een andere agent. Ultieme flexibiliteit!  
 **Wat heb je nodig?** De wachtrij en je eigen privé- of mobiele nummer als externe agent.  
 **Wat kost het?** 4,- ex BTW per maand  
@@ -122,7 +133,7 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 
 <br>
 
-**<h4>10. Vamos Vast Mobiel simkaart</h4>  
+**<h4>Toegift! 11. Vamos Vast Mobiel simkaart</h4>  
 Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals elke mobiel, maar met de Vamos SIM kun je óók naar interne nummers van collega’s bellen. In het collega-telefoonboek zie je of collega's in gesprek zijn of beschikbaar. En uiteraard kun je je vaste zaaknummer(s) meesturen bij uitbellen. Ben je er even niet? De Callvoip-centrale kan het gesprek dan verder doorgeleiden naar bv collega's, voicemail, etc..  
 **Wat heb je nodig?** Een Smartphone, evt. een dual SIM toestel, en de Vamos SIM kaart.  
 **Wat kost het?** Prijs start vanaf 29,- en hangt af van hoeveelheid data Installatietijd?  
@@ -131,7 +142,7 @@ Wat is het?** Een SIM-kaart met mobiel nummer van Callvoip. Dit werkt zoals elke
 
 <br>
 
-**<h4>Toegift! 11. Operator Panel biedt overzicht, o.a. bij thuiswerkers</h4>  
+**<h4>Toegift! 12. Operator Panel biedt overzicht, o.a. bij thuiswerkers</h4>  
 Wat is het?** Een realtime online overzicht van alle collega's met hun status en alle telefonie-activiteiten. Ideaal - en juist van grote waarde voor het overzicht en je bereikbaarheid als je fysiek níet bij elkaar in de buurt bent!  
 Je ziet:  
 \- alle telefoontjes die binnenkomen  
@@ -147,7 +158,7 @@ Je ziet:
 
 <br>
 
-**<h4>Toegift! 12. Conferentietelefoon en portable USB Bluetooth Speakerphone</h4>  
+**<h4>Toegift! 13. Conferentietelefoon en portable USB Bluetooth Speakerphone</h4>  
 Wat is het?** Mooie oplossingen om slim te vergaderen. Bijvoorbeeld een draadloze vergadertelefoon met accu: gemakkelijk overal neer te zetten, alle aanwezigen kunnen goed luisteren en praten zonder vlakbij het toestel te zitten. Schakel tot 4 andere nummers bij (5-weg-conferentie).  
 En dan de CP700/900 als light variant: sluit aan via bluetooth of USB op smartphone, tablet, PC of Yealink-toestel, en je kunt luisteren én terugpraten. Koppel zelfs meer apparaten en voeg gesprekken samen. Of luister gewoon naar muziek.  
 **Wat heb je nodig?** Bijvoorbeeld één van deze [Yealink CP Conference Phones](https://callvoip.shop/index.php?controller=products-comparison&compare_product_list=897%7C898%7C963%7C1004).  
@@ -155,7 +166,7 @@ En dan de CP700/900 als light variant: sluit aan via bluetooth of USB op smartph
 **Installatietijd?** Inpluggen en klaar! De 930W moet ingesteld, we helpen graag!  
 **Hoe?** Zie onze [Conference Phones](https://callvoip.shop/156-conferentie-oplossing)<br>
 
-**<h4>Toegift! 13. Maak personen en teams bereikbaar via eigen nummer of keuzemenu</h4>  
+**<h4>Toegift! 14. Maak personen en teams bereikbaar via eigen nummer of keuzemenu</h4>  
 Wat is het?** Thuiswerken... maakt dat het wenselijker dat personen rechtstreeks op een eigen nummer bereikbaar zijn? Liefst niet op hun privé mobiel? Met een eigen nummer is het zo goed als geregeld! Of geef een team een extern nummer.  
 Ook handig: met een keuzemenu kun je snel een directe bereikbaarheid van een persoon of team creëren. Tools te over en we denken heel graag met je mee.  
 **Wat heb je nodig?** Een keuzemenu  
