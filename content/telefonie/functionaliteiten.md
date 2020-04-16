@@ -189,7 +189,7 @@ usps:
     iconimage: ''
   - image: "/v1566559951/bedienpost_vttke0.png"
     title: Operator Bedienpost
-    link: ""
+    link: "/telefonie/operator-console/"
     content: Realtime overzicht van belverkeer en wachtrijen, en contactlijst.
     icon: ''
     iconimage: ''
