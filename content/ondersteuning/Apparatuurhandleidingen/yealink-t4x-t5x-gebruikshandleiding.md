@@ -18,8 +18,8 @@ Zie ook de [Callvoip Casts](https://callvoip.nl/casts).
 ![](https://res.cloudinary.com/callvoip/image/upload/v1587072170/Yealink_t4x_t5x_cuh3uh.jpg)
 
 <h3>1. Een gesprek opzetten</h3  
-\- Neem de hoorn op > je hoort een kiestoon  
-\- Toets het nummer in en druk op # \[kiezen\] > het toestel gaat gelijk bellen  
+\- Neem de hoorn op: je hoort een kiestoon  
+\- Toets het nummer in en druk op # \[kiezen\]: het toestel gaat gelijk bellen  
 \- Als je verbinding hebt brandt het lijnknopje GROEN
 
 <br><h3>2. Luidsprekerfunctie</h3>  
@@ -34,12 +34,11 @@ Zie ook de [Callvoip Casts](https://callvoip.nl/casts).
 \- Pak de hoorn / druk op de speakertoets om over te schakelen naar hoorn/speaker
 
 <br><h3>4. Een gesprek aannemen</h3>  
-\- Je kunt een gesprek op veel verschillende manieren aannemen:
-
-> neem de hoorn op  
-> druk de headsetknop in  
-> druk de speakertoets in > druk op toets \[BEANTWOORDEN\] in het display als het toestel rinkelt  
-> druk op de snelknipperende lijntoets als de oproep binnenkomt
+\- Je kunt een gesprek op veel verschillende manieren aannemen:  
+\- neem de hoorn op  
+\- druk de headsetknop in  
+\- druk de speakertoets in > druk op toets \[BEANTWOORDEN\] in het display als het toestel rinkelt  
+\- druk op de snelknipperende lijntoets als de oproep binnenkomt
 
 <br><h3>5. Een tweede, derde, etc. gesprek</h3>  
 \- Als er een tweede gesprek binnenkomt tijdens een eerste gesprek, dan kun je deze aannemen door op de snelknipperende lijntoets te drukken of op BEANTWOORD in het display  
@@ -62,45 +61,40 @@ De beller kan jou niet horen, jij de beller wel
 \- Je ziet in je display een icoontje als teken dat de luidspreker uit is
 
 <br><h3>9. Beller in de wacht zetten</h3>  
-\- Zet een beller als volgt in de wacht:
-
-> druk op de displaytoets WACHT  
-> of druk op de button HOLD  
-> of druk op de brandende lijntoet  
-> \- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
-> \- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
+\- Zet een beller als volgt in de wacht:  
+\- druk op de displaytoets WACHT  
+\- of druk op de button HOLD  
+\- of druk op de brandende lijntoet  
+\- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
+\- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
 
 <br><h3>10. Gesprek doorverbinden</h3>  
-\- Zonder aankondiging / ruggespraak:
+\- Zonder aankondiging / ruggespraak:  
+\- druk in het display op \[DOORVERBINDEN\]  
+\- druk het verkorte nummer van uw collega of lange nummer  
+\- en dan gelijk nogmaals op displaytoets \[DOORVERBINDEN\]
 
-> druk in het display op \[DOORVERBINDEN\]  
-> druk het verkorte nummer van uw collega of lange nummer  
-> en dan gelijk nogmaals op displaytoets \[DOORVERBINDEN\]
-
-\- Met aankondiging / ruggespraak
-
-> druk in het display op \[DOORVERBINDEN\]  
-> druk het verkorte nummer van uw collega of lange nummer gevolgd door #  
-> hou ruggespraak met uw collega en zodra u wilt doorverbinden:  
-> druk dan gelijk nogmaals op displaytoets \[DOORVERBINDEN
+\- Met aankondiging / ruggespraak  
+\- druk in het display op \[DOORVERBINDEN\]  
+\- druk het verkorte nummer van uw collega of lange nummer gevolgd door #  
+\- hou ruggespraak met uw collega en zodra u wilt doorverbinden:  
+\- druk dan gelijk nogmaals op displaytoets \[DOORVERBINDEN
 
 \- In plaats van de displaytoets doorverbinden kunt u ook de toets TRANSFER rechts op uw toestel (met twee hoorntjes) gebruiken
 
 <br><h3>11. Conferencegesprek / groepsgesprek</h3>  
 \- Bel twee mensen en voeg dit gesprek samen tot een 3-persoons-groepsgesprek Ideaal voor bv teamoverleg Tip: luister mee bij het trainen van collega’s: de trainer zet zich op MUTE en kan alles volgen  
-\- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op:
+\- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op:  
+\- bel partij 1  
+\- druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht  
+\- jij krijgt een kiestoon, bel partij 2  
+\- zodra je contact hebt: druk nogmaals op CONFER  
+\- je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan
 
-> bel partij 1  
-> druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht  
-> jij krijgt een kiestoon, bel partij 2  
-> zodra je contact hebt: druk nogmaals op CONFER  
-> je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan
-
-\- aan het einde van het groepsgesprek
-
-> als jij het gesprek beeindigt worden beide verbindingen beeindigd  
-> als partij 1 ophangt blijf jij aan de lijn met partij 2 (of andersom  
-> klik op SPLITSEN: je zet dan beide lijnen in de wacht en kunt ze afzonderlijk spreken
+\- aan het einde van het groepsgesprek  
+\- als jij het gesprek beeindigt worden beide verbindingen beeindigd  
+\- als partij 1 ophangt blijf jij aan de lijn met partij 2 (of andersom  
+\- klik op SPLITSEN: je zet dan beide lijnen in de wacht en kunt ze afzonderlijk spreken
 
 <br><h3>12. De telefoon op NIET STOREN zetten (DND)</h3>  
 \- Even niet gestoord worden? Zet de telefoon op DND = Do Not Disturb  
@@ -109,7 +103,8 @@ De beller kan jou niet horen, jij de beller wel
 \- Het toestel gaat nu niet rinkelen, je kunt er wel mee uitbellen  
 \- Druk nogmaals op DND, het icoon verdwijnt en je bent weer bereikbaar.
 
-<br><h3>Meer weten? Download de handleiding!</h3>  
-Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. En zie ook onze [Callvoip Casts](https://callvoip.nl/casts).
+<br><br><h3>Meer weten? Download de handleiding!</h3>  
+Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. En zie ook onze [Callvoip Casts](https://callvoip.nl/casts).  
+<br><br>
 
 <a href="[https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf](https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf "https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf")" class="button">Download Handleiding</a>
