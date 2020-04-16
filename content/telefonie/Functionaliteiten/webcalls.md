@@ -33,10 +33,15 @@ blocks:
   position: ''
   title: 'Web Calls: bellen zonder beperkingen'
   image_position: ''
-- content1: Test
-- content2: test
-- title1: test
-- title2: test
+  textblocks:
+- 
+  title1: 'Click to Dial how-to-install'
+  content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/NlCHmRdHm9w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
+  title2: 'Click to Dial how-to-use'
+  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
+  
 prijzen:
 - title: Webcalls
   content: Browser based bellen, tijdelijk gratis!
