@@ -11,7 +11,12 @@ Update: false
 pdf: https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf
 
 ---
-<h1>Uitleg bij de meest voorkomende handelingen:</h1>
+<h2>Korte gebruikershandleiding bij de Yealink T4x en T5x IP Phones:</h2>
+
+Hoe gebruik je jouw prachtige telefoon?   
+Ontdenk hem aan de hand van de meest gebruikte features, die hieronder worden toegelicht. Zie ook de [Callvoip Casts](https://callvoip.nl/casts).    
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1587072170/Yealink_t4x_t5x_cuh3uh.jpg)
 
 <h2>1. Een gesprek opzetten</h2><br>  
 \- Neem de hoorn op > je hoort een kiestoon  
