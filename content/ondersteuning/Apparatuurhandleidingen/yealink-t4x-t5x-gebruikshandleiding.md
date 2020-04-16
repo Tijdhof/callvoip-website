@@ -105,6 +105,6 @@ De beller kan jou niet horen, jij de beller wel
 
 <br><br><h3>Meer weten? Download de handleiding!</h3>  
 Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. En zie ook onze [Callvoip Casts](https://callvoip.nl/casts).  
-<br><br>
+<br><br><br><br>
 
 <a href="[https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf](https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf "https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf")" class="button">Download Handleiding</a>
