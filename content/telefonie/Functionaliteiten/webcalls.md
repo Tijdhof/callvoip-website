@@ -33,11 +33,11 @@ blocks:
   position: ''
   title: 'Web Calls: bellen zonder beperkingen'
   image_position: ''
-textblocks:
-- content1: 'test'
-  title1: 'test'
-  title2: 'test'
-  content2: 'test'
+- textblocks:
+    content1: 'test'
+    title1: 'test'
+    title2: 'test'
+    content2: 'test'
   
 prijzen:
 - title: Webcalls
