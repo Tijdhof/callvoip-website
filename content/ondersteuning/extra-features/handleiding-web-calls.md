@@ -34,7 +34,7 @@ Heel eenvoudig: op de Callvoip-centrale zet je bij de instellingen van een speci
 NB: zorg dat de computer, laptop of tablet speakers en microfoon heeft, of sluit een (bluetooth) headset aan, anders kun je niet horen en praten.
 
 <h3>Handige Call Controls!</h3>  
-Ben je aan het bellen? Tijdens het gesprek beschik je over handige controls zodat Web Calls niet onderdoet voor een normale telefoon. <br>Denk aan:
+Ben je aan het bellen? Tijdens het gesprek beschik je over handige controls zodat Web Calls niet onderdoet voor een normale telefoon. <br>Denk aan: <br>
 
 * Doorverbinden<br>
 * In de wacht zetten<br>
