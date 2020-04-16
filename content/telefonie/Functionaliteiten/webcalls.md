@@ -1,7 +1,7 @@
 ---
 title: Webcalls | Browser Bases Bellen
 type: page
-layout: default
+layout: landing
 logos: true
 aliases: "/webcalls"
 hero:
@@ -33,7 +33,6 @@ blocks:
   position: ''
   title: 'Web Calls: bellen zonder beperkingen'
   image_position: ''
-layout: landing
 textblocks:
 - content1: 'test'
   title1: 'test'
