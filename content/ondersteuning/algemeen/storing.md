@@ -1,5 +1,5 @@
 ---
-title: Is er een storing
+title: Is er een storing?
 weight: 1
 onderdelen:
 - Algemeen
@@ -12,8 +12,9 @@ Nieuw: false
 Update: false
 pdf: ''
 hideingoogle: true
+hidesocialshare: false
 
 ---
-Voor actuele storingen en meldingen moet u op onze status-pagina zijn:
+Om te checken of er storingen zijn, of onderhoudsmeldingen: bezoek onze status-pagina:
 
 <a href="/status/" class="button">Status</a>

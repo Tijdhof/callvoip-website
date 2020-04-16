@@ -18,9 +18,9 @@ Met Web Calls kun je bellen en gebeld worden zónder een telefoontoestel of smar
 het enige dat je nodig hebt is een browser, zoals Google Chrome, die je op elke computer,
 laptop of tablet tot je beschikking hebt.
 
-• [Klik hier en bekijk de Webcalls instructievideo](https://youtu.be/PyH71iA1e9s)
+• [Klik hier en bekijk de Webcalls video-tutorial](https://youtu.be/PyH71iA1e9s)
 
-<h3>Met Web Calls kun je :</h3>
+<h3>Dit kun je met Web Calls:</h3>
 
 * Bellen en gebeld worden zónder een telefoontoestel of smartphone
 * Het enige dat je nodig hebt is een browser, zoals Google Chrome
@@ -28,7 +28,7 @@ laptop of tablet tot je beschikking hebt.
 * Verder is een headset om te horen en te praten (microfoon) handig
 * Heel praktisch is een bluetooth headset die je op je computer of laptop aansluit
 
-<h3>Hoe start je met Web Calls  in?</h3>
+<h3>Hoe start je met Web Calls?</h3>
 
 Heel eenvoudig: op de Callvoip-centrale zet je bij de instellingen van een specifieke gebruiker Web Calls aan. Als de gebruiker inlogt staat er een oranje toetsenbord-icoontje op zijn UC Panel bij. Klik en start met bellen.  
 NB: zorg dat de computer, laptop of tablet speakers en microfoon heeft, of sluit een (bluetooth) headset aan, anders kun je niet horen en praten.
