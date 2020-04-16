@@ -1,7 +1,7 @@
 ---
 title: Webcalls | Browser Bases Bellen
 type: page
-layout: landing
+layout: default
 logos: true
 aliases: "/webcalls"
 hero:
@@ -33,14 +33,6 @@ blocks:
   position: ''
   title: 'Web Calls: bellen zonder beperkingen'
   image_position: ''
-textblocks:
-- content1: 'test'
-  title1: 'test'
-  title2: 'test'
-  top_title: 'tset '
-  top_content: "Zullen we samen kort kijken wat voor jouw specifieke situatie de beste telefonieoplossing is?<br>Doen we meteen de grand
-  tour door onze centrale. Geef ons een half uurtje en we laten jou zien<br>waarom wij zo enthousiast zijn."
-  content2: 'test'
 prijzen:
 - title: Webcalls
   content: Browser based bellen, tijdelijk gratis!
