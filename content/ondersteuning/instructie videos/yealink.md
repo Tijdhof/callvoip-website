@@ -1,5 +1,5 @@
 ---
-title: 'Callvoip Cast: Bedrijfstelefoonboek voor je Yealink'
+title: 'Callvoip Cast: Bedrijfstelefoonboek - Yealink'
 weight: 2
 onderdelen:
 - Instructie Videos
