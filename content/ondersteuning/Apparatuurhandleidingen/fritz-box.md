@@ -12,33 +12,33 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-In deze handleiding kunt u lezen hoe u uw FRITZ!Box instelt voor een VoIP-account van de Simmpl telefooncentrale.
+In deze handleiding kunt u lezen hoe u uw FRITZ!Box instelt voor een VoIP-account van de Callvoip telefooncentrale.
 
-<br><h3>1. **Maak een Simmpl toestelaccount aan**</h3>  
-Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:  
+<br><h2>1. **Maak een Callvoip toestelaccount aan**</h2>  
+Voordat u de telefoon kunt instellen maakt u op de Callvoip centrale aan:  
 \- een gebruiker (extension)  
 \- een toestel (device) > hier vindt u ook de SIP-username en password  
-Voor meer informatie, raadpleeg de Simmpl handleidingenbibliotheek.
+Voor meer informatie, raadpleeg de Callvoiphandleidingenbibliotheek.
 
-<br><h3>2. **Sluit de FRITZ!Box aan**</h3>  
-De meeste FRITZ!Boxen zijn modem-routers, dus het aansluiten ervan kan iets meer werk zijn dan enkel de stekker in het stopcontact doen. Zie hiervoor onze aparte handleiding. U bent klaar om uw FRITZ!Box voor Simmpl in te stellen als de FRITZ!Box met internet is verbonden.
+<br><h2>2. **Sluit de FRITZ!Box aan**</h2>  
+De meeste FRITZ!Boxen zijn modem-routers, dus het aansluiten ervan kan iets meer werk zijn dan enkel de stekker in het stopcontact doen. Zie hiervoor onze aparte handleiding. U bent klaar om uw FRITZ!Box voor Callvoip in te stellen als de FRITZ!Box met internet is verbonden.
 
-<br><h3>3. **BELANGRIJK: voorzie uw FRITZ!Box van de laatste firmware**</h3>  
+<br><h2>3. **BELANGRIJK: voorzie uw FRITZ!Box van de laatste firmware**</h2>  
 Het is van groot belang dat u uw FRITZ!Box van de **laatste firmware** voorziet. Omdat de FRITZ! zoveel functies vervult in uw netwerk, is een niet goed beveiligde FRITZ!Box een belangrijke kwetsbaarheid voor uw netwerk. Mocht zich een probleem hiermee voordoen, dan is het mogelijk dat uw VoIP-accounts door kwaadwillenden worden gebruikt en dat u de rekening betaalt…
 
-<br><h3>4. **Sluit uw apparatuur op de FRITZ!Box aan**</h3>  
+<br><h2>4. **Sluit uw apparatuur op de FRITZ!Box aan**</h2>  
 Er zijn diverse modellen FRITZ!Box die elk andere telefoon-aansluitingen bieden:  
 \- Analoge aansluitpoorten: hierop kunt u analoge toestellen aansluiten  
 \- S0 ISDN-poort: hierop kunt u uw ISDN-telefooncentrale aansluiten  
 \- Ingebouwd DECT-basisstation: hierop kunt u uw draadloze handsets aanmelden  
 Als u uw telefoontoestellen / -ISDN-centrale aansluit, dan kunt u in de FRITZ!Box per nummer instellen welke toestellen gaan rinkelen als u dit nummer gebeld wordt en met welk nummer de toestellen uitbellen. ![](https://res.cloudinary.com/callvoip/image/upload/v1564736007/fritzbox-1_n33fkz.png)
 
-<br><h3>5. **Log in op uw FRITZ!Box**</h3>  
+<br><h2>5. **Log in op uw FRITZ!Box**</h2>  
 De FRITZ!Box heeft als standaard IP-adres: https://192.168.178.1 (aanpasbaar). Het wachtwoord om in te loggen kunt u vinden aan de onderzijde van de FRITZ!Box. U kunt gemakkelijk inloggen en een ander wachtwoord instellen als u dat wenst.
 
 <b>Inloggen</b>
 
-Log in op uw FRITZ!Box. Uw Overview verschijnt met daarin een overzicht van de services die de FRITZ! u biedt:
+Log in op uw FRITZ!Box. uw Overview verschijnt met daarin een overzicht van de services die de FRITZ! u biedt:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1564736442/fritzbox-2_fdh8ks.png)
 
