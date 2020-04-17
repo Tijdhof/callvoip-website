@@ -14,7 +14,7 @@ hidesocialshare: false
 ---
 In deze handleiding kunt u lezen hoe u uw FRITZ!Box instelt voor een VoIP-account van de Callvoip telefooncentrale.
 
-<h3>1. Maak een Callvoip toestelaccount aan</h3>  
+<br><h3>1. Maak een Callvoip toestelaccount aan</h3>  
 Voordat u de telefoon kunt instellen maakt u op de Callvoip centrale aan:  
 \- een gebruiker (extension)  
 \- een toestel (device) > hier vindt u ook de SIP-username en password  
