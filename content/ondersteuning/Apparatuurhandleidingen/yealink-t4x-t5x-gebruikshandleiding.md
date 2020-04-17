@@ -1,5 +1,5 @@
 ---
-weight: 0
+weight: 10
 title: Yealink T4x/T5x gebruikershandleiding
 description: ''
 images: []
@@ -64,16 +64,16 @@ De beller kan jou niet horen, jij de beller wel
 \- Zet een beller als volgt in de wacht:  
 \- druk op de displaytoets WACHT  
 \- of druk op de button HOLD  
-\- of druk op de brandende lijntoet  
+\- of druk op de brandende lijntoets  
 \- Als de beller in de wacht staat, hoort hij wachtmuziek van de Callvoip telefooncentrale.  
 \- NB: als je wilt doorverbinden is het NIET nodig de beller eerst in de wacht te zetten, dat gebeurt automatisch
 
 <br><h3>10. Gesprek doorverbinden</h3>  
 \- Zonder aankondiging / ruggespraak:  
 \- druk in het display op \[DOORVERBINDEN\]  
-\- druk het verkorte nummer van uw collega of lange nummer  
-\- en dan gelijk nogmaals op displaytoets \[DOORVERBINDEN\]
-
+\- druk het verkorte nummer van uw collega of een ander nummer (bv mobiel)  
+\- en dan gelijk nogmaals op displaytoets \[DOORVERBINDEN\]  
+<br><br>  
 \- Met aankondiging / ruggespraak  
 \- druk in het display op \[DOORVERBINDEN\]  
 \- druk het verkorte nummer van uw collega of lange nummer gevolgd door #  
@@ -83,14 +83,15 @@ De beller kan jou niet horen, jij de beller wel
 \- In plaats van de displaytoets doorverbinden kunt u ook de toets TRANSFER rechts op uw toestel (met twee hoorntjes) gebruiken
 
 <br><h3>11. Conferencegesprek / groepsgesprek</h3>  
-\- Bel twee mensen en voeg dit gesprek samen tot een 3-persoons-groepsgesprek Ideaal voor bv teamoverleg Tip: luister mee bij het trainen van collega’s: de trainer zet zich op MUTE en kan alles volgen  
+\- Bel twee mensen en voeg dit gesprek samen tot een 3-persoons-groepsgesprek Ideaal voor bv teamoverleg<br>  
+Tip: luister mee bij het trainen van collega’s: de trainer zet zich op MUTE en kan alles volgen  
 \- Zo zet je een groepsgesprek tussen jezelf, partij 1 en partij 2 op:  
 \- bel partij 1  
 \- druk tijdens het gesprek op knopje CONFER, degene die je aan de lijn had gaat in de wacht  
 \- jij krijgt een kiestoon, bel partij 2  
 \- zodra je contact hebt: druk nogmaals op CONFER  
-\- je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan
-
+\- je hebt nu een groepsgesprek: je ziet beide nummers in je scherm staan  
+<br><br>  
 \- aan het einde van het groepsgesprek  
 \- als jij het gesprek beeindigt worden beide verbindingen beeindigd  
 \- als partij 1 ophangt blijf jij aan de lijn met partij 2 (of andersom  
