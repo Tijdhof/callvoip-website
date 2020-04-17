@@ -1,17 +1,19 @@
 ---
-title: Gigaset N300A, N510IP en Maxwell (handmatig)
-weight: 
-description: ''
+title: Gigaset instellen voor Callvoip (N300, S850, N510 - handmatig)
+weight: 40
+description: 'Gigaset instellen voor Callvoip '
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Gigaset_IP_DECT.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-In deze handleiding kunt u lezen hoe u uw Gigaset IP DECT instelt voor een VoIP-account van de Simmpl telefooncentrale.
+In deze handleiding kunt u lezen hoe u uw Gigaset IP DECT instelt voor een VoIP-account van de Callvoip telefooncentrale.
 
-**De handleiding is ook toepasbaar op een Sinus IP DECT (= speciale uitvoering Gigaset IP DECT). Let u er dan op dat u bij Telefonie > Voicemail geen vinkjes zet – het toestel zal dan niet gebeld kunnen worden.**
+**NB:** de handleiding is ook toepasbaar op een Sinus IP DECT (= speciale uitvoering Gigaset IP DECT). Let u er dan op dat u bij Telefonie > Voicemail geen vinkjes zet – het toestel zal dan niet gebeld kunnen worden.
 
 1. **Maak een Simmpl toestelaccount aan**  
    Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:  
@@ -151,8 +153,8 @@ Op de Maxwell configuratie pagina kunt u aangeven of de basis automatisch een IP
 Hier kunt u verschillende lijnen configureren.  
 Druk op de \[bewerk\] toets om een lijn in te stellen.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017512/gigaset-manual-24_da5phw.png)  
-**SIP-account settings**:  
-  
+**SIP-account settings**:
+
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017573/gigaset-manual-25_ptzlcf.png)  
 **Codecs:**  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017636/gigaset-manual-26_j3g1w8.png)  
@@ -163,8 +165,8 @@ Druk op de \[bewerk\] toets om een lijn in te stellen.
 
 Hier zijn de sneltoetsen in te stellen. U kunt hier kiezen voor een lijn-toets, een sneltoets of een BLF toets om te zien wie er in gesprek is.
 
-**NB:** via de autoprovisioning kunt u dit instellen op de SIMMPl centrale via button **CUSTOMiZE DEVICE BEHAVIOUR**  
-  
+**NB:** via de autoprovisioning kunt u dit instellen op de SIMMPl centrale via button **CUSTOMiZE DEVICE BEHAVIOUR**
+
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565017776/gigaset-manual-28_dtfjni.png)  
 U kunt in het toestel ook instellingen bekijken.  
 Als u wijzigingen doorvoert zal de auto provisioning de instellingen ca 12 uur later weer terugzetten naar de instellingen op de server.  
