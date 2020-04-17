@@ -1,6 +1,6 @@
 ---
 title: Zoiper softphone
-weight: 100
+weight: 90
 description: Zoiper softphone instellen
 images: []
 hideinsearch: false
