@@ -18,7 +18,7 @@ Met Web Calls kun je bellen en gebeld worden zónder een telefoontoestel of smar
 het enige dat je nodig hebt is een browser, zoals Google Chrome, die je op elke computer,
 laptop of tablet tot je beschikking hebt.
 
-• [Klik hier en bekijk de Webcalls video-tutorial](https://youtu.be/PyH71iA1e9s)
+<a href="#video">Klik hier en bekijk de Webcalls video-tutorial</a>
 
 <h3>Dit kun je met Web Calls:</h3>
 
@@ -50,5 +50,5 @@ Meer informatie met een aantal schermprints vind je in de handleiding die je hie
 
 <br><br><h3>Webcalls Video-tutorial</h3>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div id="video" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe src="https://www.youtube.com/embed/PyH71iA1e9s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>
