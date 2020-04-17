@@ -1,7 +1,7 @@
 ---
-title: Gigaset instellen (N300A, S850, N510 - handmatig)
+title: Gigaset IP DECT instellen (handmatig)
 weight: 40
-description: 'Gigaset instellen voor Callvoip '
+description: Gigaset IP DECT instellen (handmatig)
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Gigaset_IP_DECT.pdf
 hideinsearch: false
