@@ -14,7 +14,7 @@ hidesocialshare: false
 ---
 In deze handleiding kunt u lezen hoe u uw FRITZ!Box instelt voor een VoIP-account van de Callvoip telefooncentrale.
 
-<br><h3>1. Maak een Callvoip toestelaccount aan</h3>  
+<h3>1. Maak een Callvoip toestelaccount aan</h3>  
 Voordat u de telefoon kunt instellen maakt u op de Callvoip centrale aan:  
 \- een gebruiker (extension)  
 \- een toestel (device) > hier vindt u ook de SIP-username en password  
@@ -23,7 +23,7 @@ Voor meer informatie, raadpleeg de Callvoiphandleidingenbibliotheek.
 <br><h3>2. Sluit de FRITZ!Box aan</h3>  
 De meeste FRITZ!Boxen zijn modem-routers, dus het aansluiten ervan kan iets meer werk zijn dan enkel de stekker in het stopcontact doen. Zie hiervoor onze aparte handleiding. U bent klaar om uw FRITZ!Box voor Callvoip in te stellen als de FRITZ!Box met internet is verbonden.
 
-<br><h3>3. BELANGRIJK: voorzie uw FRITZ!Box van de laatste firmware</h3>  
+<br><h3>3. BELANGRIJK: laadt de laatste firmware</h3>  
 Het is van groot belang dat u uw FRITZ!Box van de **laatste firmware** voorziet. Omdat de FRITZ! zoveel functies vervult in uw netwerk, is een niet goed beveiligde FRITZ!Box een belangrijke kwetsbaarheid voor uw netwerk. Mocht zich een probleem hiermee voordoen, dan is het mogelijk dat uw VoIP-accounts door kwaadwillenden worden gebruikt en dat u de rekening betaalt…
 
 <br><h3>4. Sluit uw apparatuur op de FRITZ!Box aan</h3>  
@@ -119,7 +119,7 @@ De Simmpl centrale biedt twee soorten voicemail:
 \- bedrijfsvoicemailbox > bel 1233 gevolgd door het voicemailboxnummer
 \- persoonlijke voicemail > bel 1233 of uw eigen verkorte nummer (001, 002, etc.)
 
-<h3>Problemen met de gesprekskwaliteit van toestellen achter uw FRITZ!?</h3>
+<b>Problemen met de gesprekskwaliteit van toestellen achter uw FRITZ!?</b>
 
 Als u (soms) meer bandbreedte gebruikt dan u tot uw beschikking heeft, of als de hoeveelheid bandbreedte die u krijgt in de praktijk schommelt zodat u deze grens tegenkomt, dan kan het zijn dat u een slechtere gesprekskwaliteit ervaart. Storingen, echo, ruis, delen die uit het gesprek wegvallen: dit zijn voorbeelden van zaken die kunnen optreden bij te weinig bandbreedte.
 
