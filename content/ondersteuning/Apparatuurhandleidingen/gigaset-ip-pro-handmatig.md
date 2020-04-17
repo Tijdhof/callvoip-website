@@ -1,5 +1,5 @@
 ---
-title: Gigaset instellen voor Callvoip (N300, S850, N510 - handmatig)
+title: Gigaset instellen (N300A, S850, N510 - handmatig)
 weight: 40
 description: 'Gigaset instellen voor Callvoip '
 images: []
@@ -86,19 +86,20 @@ Diverse modellen Gigaset bieden Telefoonboek-opties. Als default stellen wij dit
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016432/gigaset-manual-10_nquiag.png)
 
-<h3>Apparaatbeheer - overige</h3>
+<h3>Apparaatbeheer</h3>  
+<b>Apparaatbeheer - overige</b>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016486/gigaset-manual-11_rjlsze.png)
 
-<h3>Apparaatbeheer > Opnieuw starten er herstellen</h3>
+<b>Apparaatbeheer > Opnieuw starten er herstellen</b>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016554/gigaset-manual-12_vw2mh8.png)
 
-<h3>Apparaatbeheer > Opslaan en herstellen</h3>
+<b>Apparaatbeheer > Opslaan en herstellen</b>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016621/gigaset-manual-13_r7l7jt.png)
 
-<h3>Apparaatbeheer > Firmware-update</h3>
+<b>Apparaatbeheer > Firmware-update</b>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016682/gigaset-manual-14_mvyj1w.png)
 
@@ -118,7 +119,7 @@ Rood: toestel ingesprek
 Groen: toestel vrij  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565016949/gigaset-manual-18_fxpug9.png)
 
-<h3>Handmatige configuratie Maxwell Basic en Maxwell 3</h3>
+<h3>Maxwell Basic en Maxwell 3</h3>
 
 In deze handleiding kunt u lezen hoe u uw Gigaset Maxwell IP Phone instelt voor een VoIP-account van de Simmpl telefooncentrale.
 
