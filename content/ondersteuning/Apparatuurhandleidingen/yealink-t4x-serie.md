@@ -1,28 +1,29 @@
 ---
-title: Yealink T4x/T5x instellen (handmatig)
-weight: 
-description: ''
+title: Yealink T4x/T5x configureren (handmatig)
+weight: 50
+description: 'Yealink T4x/T5x configureren '
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Yealink_T4x.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-<a href="http://files.callvoip.nl/downloads/Simmpl_verkorte_gebruikshandleiding_Yealink_T46g.pdf" target="_blank">Korte gebruiksinstructie Yealink T46G</a>
+[Yealink T4x/T5x gebruikshandleiding nodig? Klik hier!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/yealink-t4x-t5x-gebruikshandleiding/)
 
-Yealink T4x- & T5x
-In deze handleiding kunt u lezen hoe u uw Yealink T4x of T5x IP telefoon configureert met een VoIP-account van de Simmpl telefooncentrale.
+In deze handleiding kunt u lezen hoe u uw Yealink T4x of T5x IP telefoon configureert met een VoIP-account van de Callvoip telefooncentrale.
 
 1. **Maak een Simmpl toestelaccount aan**  
-   Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:  
+   Voordat u de telefoon kunt instellen maakt u op de Callvoip centrale aan:  
    \- een gebruiker (extension)  
    \- een toestel (device) > hier vindt u ook de SIP-username en password  
-   Voor meer informatie, raadpleeg de Simmpl handleidingenbibliotheek.
+   Voor meer informatie, raadpleeg de Callvoip handleidingenbibliotheek.
 2. **Sluit het toestel aan**  
    Sluit het toestel aan door een netwerkkabel aan te sluiten op de INTERNET-poort (niet op de PC-poort, daar kan evt. uw computer op aangesloten worden). Deze netwerkkabel wordt op uw netwerk/router aangesloten zodat de telefoon met internet is verbonden.
 3. **Stel het toestel in op de Nederlandse taal**  
-   Kies op het toestel zelf:   
+   Kies op het toestel zelf:  
    menu > 3. settings > 1. basic settings > 1. language > kies Nederlands
 4. **Vraag het IP-adres van uw IP-toestel op**  
    Om op het IP-toestel in te loggen heeft u het IP-adres nodig. Bij de Tiptel / Yealink toestellen kunt u het IP-adres opvragen door op de \[OK\] toets te drukken. Een IP-adres ziet eruit als: 192.168.1.105
@@ -50,7 +51,7 @@ In tabblad Account heeft u de mogelijkheid om de VoIP-toestelgegevens in te vull
 
 <h3>Network</h3>
 
-Bij tabblad Network vindt u de netwerkinstellingen van de IP telefoon.   
+Bij tabblad Network vindt u de netwerkinstellingen van de IP telefoon.  
 Wij adviseren om DHCP te gebruiken; het toestel krijgt dan een IP-adres van de router.  
 Uiteraard is het heel goed mogelijk dat het in uw situatie beter is om toch een statisch adres te kiezen; dit is afhankelijk van het netwerk waarin het toestel wordt gebruikt.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565080538/yealink-handmatig-5_ytlaeg.png)  
@@ -68,7 +69,7 @@ U kunt hierbij kiezen uit vele soorten acties / functies, waaronder:
 
 <h3>Extension Panel instellen</h3>
 
-Als uw toestel een expansion module ondersteunt en u deze gebruikt, kies Ext Key in het menu en programmeer de buttons van het Extension Panel. U meerdere Extension Panels op elkaar aansluiten.   
+Als uw toestel een expansion module ondersteunt en u deze gebruikt, kies Ext Key in het menu en programmeer de buttons van het Extension Panel. U meerdere Extension Panels op elkaar aansluiten.  
 **Let op**: het maximale aantal kan per model verschillen. Mogelijk heeft u ook een extra voedingsadapter nodig wanneer er twee of meer expansion modules naast elkaar worden gebruikt.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565081449/yealink-handmatig-8_n8q0af.png)
 
@@ -93,7 +94,7 @@ Bij menu-item Settings kunt u diverse instellingen doen zoals:
 
 <h3>Directory</h3>
 
-In tabblad Contacts kunt u een lokaal adresboek aanleggen. Dit kan op eenvoudige wijze via de browser. Handig is ook dat u het adresboek kunt downloaden om het vervolgens op te slaan en/of in een andere telefoon (zelfde merk/type) te uploaden. Zo heeft u in korte tijd een centraal adresboek dat op alle toestellen gelijk is!   
+In tabblad Contacts kunt u een lokaal adresboek aanleggen. Dit kan op eenvoudige wijze via de browser. Handig is ook dat u het adresboek kunt downloaden om het vervolgens op te slaan en/of in een andere telefoon (zelfde merk/type) te uploaden. Zo heeft u in korte tijd een centraal adresboek dat op alle toestellen gelijk is!  
 U kunt ook groepen maken met bv. een afwijkende ringtone.  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1565081829/yealink-handmatig-9_thxdwe.png)
 
