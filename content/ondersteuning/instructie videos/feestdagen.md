@@ -5,8 +5,8 @@ onderdelen:
 - Instructie Videos
 description: ''
 images: []
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 Nieuw: false
 Update: false
 pdf: ''
