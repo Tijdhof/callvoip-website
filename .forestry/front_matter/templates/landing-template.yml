@@ -151,6 +151,12 @@ fields:
   - type: textarea
     name: content2
     label: Content 2
+  - type: text
+    name: title3
+    label: Title 3
+  - type: textarea
+    name: content3
+    label: Content 3
     config:
       wysiwyg: true
       schema:
