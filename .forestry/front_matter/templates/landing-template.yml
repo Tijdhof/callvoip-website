@@ -163,6 +163,48 @@ fields:
         format: html-blocks
   config:
     labelField: title
+- type: field_group_list
+  name: textblocksfooter
+  label: Text Blocks Footer
+  fields:
+  - name: show_vshape
+    type: boolean
+    label: Show vshape
+    default: false
+  - type: text
+    name: top_title
+    label: Top Title
+  - type: textarea
+    name: top_content
+    label: Top Content
+  - type: text
+    name: title1
+    label: Title 1
+  - type: textarea
+    name: content1
+    label: Content 1
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: title2
+    label: Title 2
+  - type: textarea
+    name: content2
+    label: Content 2
+  - type: text
+    name: title3
+    label: Title 3
+  - type: textarea
+    name: content3
+    label: Content 3
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  config:
+    labelField: title
 - type: field_group
   name: intro
   label: Intro
