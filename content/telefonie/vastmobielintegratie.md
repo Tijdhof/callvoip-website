@@ -31,9 +31,9 @@ blocks:
   title: Het vast-mobiel landschap
   image_position: center
 - content: |-
-    Met Qaller Plus wordt vast mobiel integratie wel heel eenvoudig: met het vaste nummer uitbellen en intern kunnen doorverbinden is erg handig. Als belangrijk extra voordeel wordt vaak genoemd dat zakelijk en privé belverkeer op één telefoon goed kan worden gescheiden.<BR><BR> Inmiddels is deze app op ruim 1.000 smartphones geïnstalleerd. In sommige gevallen wordt Qaller Plus gebruikt als vervanger van een vast toestel, in andere gevallen als extra toestel voor onderweg. Meer informatie over Qaller Plus vind je <a href="/telefonie/qaller/">hier</a>.<br>
+    Met Qaller Plus wordt vast mobiel integratie wel heel eenvoudig: met het vaste nummer uitbellen en intern kunnen doorverbinden is erg handig. Als belangrijk extra voordeel wordt vaak genoemd dat zakelijk en privé belverkeer op één telefoon goed kan worden gescheiden.<BR><BR> Inmiddels is deze app op ruim 1.000 smartphones geïnstalleerd. In sommige gevallen wordt Qaller Plus gebruikt als vervanger van een vast toestel, in andere gevallen als extra toestel voor onderweg. Meer informatie over Qaller Plus vind je <a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" >hier</a>.<br>
     <br><br>
-    <a target="_blank" href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" class="button">Hoe werkt Qaller?</a>
+    <a target="_blank" href="/telefonie/qaller/" class="button">Hoe werkt Qaller?</a>
   image: "/v1572860761/mock_up_phone_oneplus_duxzvn.png"
   position: image_right
   title: 'Qaller Plus: de gulden middenweg'
@@ -96,9 +96,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 29.0
+      price: 29
     - title: Eenmalig
-      price: 25.0
+      price: 25
 - content: Onbeperkt bellen in EU + 2GB data
   button:
     title: Nu aanvragen
@@ -108,9 +108,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 39.0
+      price: 39
     - title: Eenmalig
-      price: 25.0
+      price: 25
   title: 2 GB data
 - title: 5 GB Data
   content: Onbeperkt bellen in EU + 5GB data
@@ -119,9 +119,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 45.0
+      price: 45
     - title: Eenmalig
-      price: 25.0
+      price: 25
   button:
     title: Nu aanvragen
     link: "/aanvragen/vamos/"
@@ -135,9 +135,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 49.0
+      price: 49
     - title: Eenmalig
-      price: 25.0
+      price: 25
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
