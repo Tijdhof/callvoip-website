@@ -96,9 +96,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: '35.00'
+      price: 29.0
     - title: Eenmalig
-      price: '25.00'
+      price: 25.0
 - content: Onbeperkt bellen in EU + 2GB data
   button:
     title: Nu aanvragen
@@ -108,9 +108,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: '39.00'
+      price: 39.0
     - title: Eenmalig
-      price: '25.00'
+      price: 25.0
   title: 2 GB data
 - title: 5 GB Data
   content: Onbeperkt bellen in EU + 5GB data
@@ -119,9 +119,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: '45.00'
+      price: 45.0
     - title: Eenmalig
-      price: '25.00'
+      price: 25.0
   button:
     title: Nu aanvragen
     link: "/aanvragen/vamos/"
@@ -135,12 +135,17 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: '49.00'
+      price: 49.0
     - title: Eenmalig
-      price: '25.00'
+      price: 25.0
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 menu:
   main:
     weight: 2
