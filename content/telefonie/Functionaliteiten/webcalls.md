@@ -26,11 +26,28 @@ blocks:
   position: image_left
   title: Web Calls – wat is er nodig?
   image_position: center
+- content: |-
+    Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale. Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in de wacht zetten. Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst.<BR><BR>
+    <a target="_blank" href="https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf" class="button">Webcalls Handleiding</a>
+  image: "/v1572860986/Screenshot_19_cz6vpx.png"
+  position: ''
+  title: 'Web Calls: bellen zonder beperkingen'
+  image_position: ''
 textblocksfooter:
-- title1: Web Calls: bellen zonder beperkingen
-  content1: 'Web Calls maakt deel uit van het uitgebreide UC panel van de Callvoip-centrale. Als je met Web Calls aan het bellen bent, heb je dezelfde mogelijkheden als met een normale telefoon, zoals doorverbinden, mute en in de wacht zetten. Verder kun je kiezen met welk nummer je uitbelt en gemakkelijk klikken en bellen vanuit je dashboard en contactenlijst.<BR><BR><a target="_blank" href="https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf" class="button">Webcalls Handleiding</a>'
-  title2: ''
-  content2: 'Leer hoe je Webcalls, ofwel browser based bellen, inschakelt en gebruikt.<br><br><br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"> <iframe src="https://www.youtube.com/embed/PyH71iA1e9s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
+- title1: Slim zakelijk internet & telefonie regelen
+  content1: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
+    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
+    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
+    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
+    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
+  title2: Slim zakelijk internet & telefonie regelen
+  content2: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
+    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
+    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
+    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
+    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
 prijzen:
 - title: Webcalls
   content: Browser based bellen, tijdelijk gratis!
