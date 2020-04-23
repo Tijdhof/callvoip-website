@@ -113,7 +113,7 @@ usps:
     iconimage: ''
   - image: "/v1566559951/keuze_alplot.png"
     title: Keuze uitgaand nummer
-    link: ""
+    link: "/telefonie/functionaliteiten/keuze-uitgaand-nummer/"
     content: Meerdere nummers? Switch met één klik met welke je uitbelt!
     icon: ''
     iconimage: ''
