@@ -8,7 +8,7 @@ aliases: "/telefonie/functionaliteiten/keuze-uitgaand-nummer/"
 hero:
   title: Meerdere nummers? Switch met 1 klik!
   content: 'Goed nieuws voor de multi-tasking ondernemer met meerdere activiteiten Callvoip biedt de keuze met welk nummer je uitbelt. En dat gewoon met één druk op de knop, van je toestel, of van de gratis app. Laat de klant zien wie je bent, transparantie wordt beloond met een optimale klantrespons.'
-  image: "/v1571655384/530_u7qjg7_sfozcj.png"
+  image: "/v1571655384/keuzenummer_glv98m.png"
   image_position: center
   disable_image_on_mobile: false
   button:
