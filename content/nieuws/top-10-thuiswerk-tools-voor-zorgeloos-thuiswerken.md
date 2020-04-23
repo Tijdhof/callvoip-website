@@ -56,7 +56,7 @@ Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel
 
 <br>
 
-**<h4>3. WebCalls</h4>  
+**<h4>3. WebCalls: bellen zónder telefoon, maar met je browser!</h4>  
 Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg geen telefoon nodig hebt! Enkel een adequaat USB headsetje en klaar is kees. Let op: je kunt nu alleen nog uitbellen met WebCalls, gebeld worden volgt in Q2-2020.  
 **Wat heb je nodig?** Een computer met internet en een Bluetooth / USB headsetje  
 **Wat kost het?** Niets, dit is nu nog gratis  
@@ -75,8 +75,8 @@ Wat is het?** Een handige toolkit met o.a. de ‘collega-tab’ waar je de belst
 
 <br>
 
-**<h4>5. Whatsapp Business</h4>  
-Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: ontvang en stuur apps vanaf je vaste bedrijfstelefoonnummer. Handig voor relaties en scheelt in het telefoonverkeer. Bovendien: zo bescherm je je privé mobiele nummer! Handig: Whatsapp Business kan ook automatisch antwoorden sturen, direct of buiten werktijd. Geef de klant zo de juiste informatie waar jij hem het beste kunt helpen.  
+**<h4>5. Whatsapp Business: da's Whatsapp op je vaste nummer!</h4>  
+Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: ontvang en stuur apps vanaf je **vaste bedrijfstelefoonnummer**. Handig voor relaties en scheelt in het telefoonverkeer. Bovendien: zo bescherm je je privé mobiele nummer! Handig: Whatsapp Business kan ook automatisch antwoorden sturen, direct of buiten werktijd. Geef de klant zo de juiste informatie waar jij hem het beste kunt helpen.  
 **Wat heb je nodig?** Een smartphone met nog ‘n beetje ruimte voor een app.  
 **Wat kost het?** Niets! Download de app gratis in de appstore.  
 **Installatietijd?** < 1 minuut  
@@ -98,19 +98,19 @@ Wat is het?** De bekende whatsapp maar dan gekoppeld aan je vaste zaaknummer: on
 **Wat heb je nodig?** Niets! de geluids-app en opnamebox zijn standaard!  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** < 5 minuten: bel 8000, zet de tekst(en) in je belplan en klaar!  
-**Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)<br>   
+**Hoe?** Zie: [www.callvoip.nl/meldtekst-instellen](http://www.callvoip.nl/meldtekst-instellen)<br>  
 **Uitleg:** [www.callvoip.nl/cast/](https://www.callvoip.nl/cast/ "https://www.callvoip.nl/cast/") > videotutorial Meldtekst Inspreken
 
 <br>
 
 **<h4>8. Teamoverleg? Groepsgesprek op je eigen Yealink IP Phone!</h4>**  
-**Wat is het?** De mogelijkheid om op je eigen Yealink telefoon een groepsgesprek met 3 personen op te zetten. Eén persoon bellen, dat is bekend terrein. Schakel een collega bij en bel met z'n 3-en. Die collega kan ook weer iemand bijschakelen, je bent dan met z'n 4-en.   
+**Wat is het?** De mogelijkheid om op je eigen Yealink telefoon een groepsgesprek met 3 personen op te zetten. Eén persoon bellen, dat is bekend terrein. Schakel een collega bij en bel met z'n 3-en. Die collega kan ook weer iemand bijschakelen, je bent dan met z'n 4-en.  
 Gebruik het knopje CONFER om de Conference te starten. En met de Yealink 9x0's phones kun je een groespgesprek met 5 partijen houden!  
-Echt een reuze handige feature in dit thuiswerk-tijdperk!    
+Echt een reuze handige feature in dit thuiswerk-tijdperk!  
 **Wat heb je nodig?** Een Yealink IP-telefoon, die je vast al hebt  
 **Wat kost het?** helemaal niets.  
 **Installatietijd:** eerst een keertje oefenen, daarna nog geen 10 seconden  
-**Hoe?** Zie pagina 4 punt 11: [Yealink T4x/T5x gebruikshandleiding](https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf)<br> 
+**Hoe?** Zie pagina 4 punt 11: [Yealink T4x/T5x gebruikshandleiding](https://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-Phones.pdf)<br>
 
 <br>
 
