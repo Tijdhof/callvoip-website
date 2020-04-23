@@ -17,7 +17,7 @@ hero:
 blocks:
 - content: |-
     Heb je meerdere ondernemingen, verschillende activiteiten, opdrachtgevers of projecten? Per medewerker kun je instellen wie welk nummer kan meesturen. Maak knopjes op het toestel om dit met één klik te wisselen. En ja, ook via de Qaller Plus smartphone app kun je je uitgaande nummer snel aanpassen. <br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/multiple-caller-id/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/3459559_vif2rc_effvxu.png"
+  image: "/v1572861318/phone_yvxbjk.png"
   position: image_left
   title: 'Juiste nummer op toestel en app'
   image_position: center
