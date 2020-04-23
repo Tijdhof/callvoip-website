@@ -22,7 +22,7 @@ blocks:
   title: 'Juiste nummer op toestel en app'
   image_position: center
 prijzen:
-- title: E-mail app
+- title: Keuze uitgaand nummer
   content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
   button:
     title: Bereken je kosten
