@@ -9,7 +9,7 @@ hero:
   title: Wachtmuziek
   content: 'Wist je bellers meer geduld opbrengen als ze met een fijn muziekje kunnen wachten? Daarom biedt de Callvoip centrale standaard een kleine bibliotheek met fijne, rechtenvrije wachtmuziek. En deze kun je  zelf bijwerken, aanvullen en op volgorde zetten. 
 Nee, wachten is niet fijn, maar als het dan toch even moet, laat de beller dan genieten van een fijne deun. '
-  image: "/v1571655384/keuzenummer_glv98m.png"
+  image: "/v1571655384/15192-200_qwwmhl.png"
   image_position: center
   disable_image_on_mobile: false
   button:
@@ -18,7 +18,7 @@ Nee, wachten is niet fijn, maar als het dan toch even moet, laat de beller dan g
 blocks:
 - content: |-
     Wachtmuziek wordt afgespeeld als je een beller doorverbindt, in de acht zet of als je een wachtrij gebruikt. <br><br><a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/wachtmuziek/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/phone_yvxbjk.png"
+  image: "/v1572861318/musiclibrary_v9vmtd.png"
   position: image_left
   title: 'Vul je eigen bibliotheek'
   image_position: center
