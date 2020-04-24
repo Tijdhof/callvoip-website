@@ -8,7 +8,7 @@ aliases: "/telefonie/functionaliteiten/hotdesking/"
 hero:
   title: Flexibele werkplek? Hotdesking!
   content: 'Voor projectgebonden teams in onze anderhalfmeter-maatschappij is hotdesking een uitkomst; log in op een toestel en het toestel neemt gelijk jouw identiteit aan. Belt een collega, dan gaat dat toestel rinkelen. Bel je uit, dan zien collega’s en klanten jouw nummer. Je kunt ook inloggen op een toestel thuis of op een andere vestiging.'
-  image: "/v1571655384/working-concept-illustration_114360-330_r5vdtl.jpg"
+  image: "/v1571655384/hotdesking_cme3jo.png"
   image_position: center
   disable_image_on_mobile: false
   button:
