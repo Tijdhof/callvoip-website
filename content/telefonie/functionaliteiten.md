@@ -119,13 +119,13 @@ usps:
     iconimage: ''
   - image: "/v1566559951/hotdesking_uand24.png"
     title: Hotdesking
-    link: /telefonie/functionaliteiten/hotdesking/""
+    link: "/telefonie/functionaliteiten/hotdesking/"
     content: Flexibele werkplek? Log in op een toestel met jouw interne nummer.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/config_xylsqb.png"
     title: Slimme toestelconfiguratie
-    link: "/functionaliteiten/toestelconfiguratie/"
+    link: "telefonie/functionaliteiten/toestelconfiguratie/"
     content: Telefoontoestel instellen? In een paar minuten ben je klaar!
     icon: ''
     iconimage: ''
