@@ -43,7 +43,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag Vamos. Onbeperkt bellen en SMS in EU" >}}
+{{< form/fieldset "Welke mogelijkheden moet uw VAMOS SIM bieden?" >}}
 
 {{< form/select "Aantal SIM-kaarten met: onbeperkt bellen en SMS in EU, zonder data" >}}
 
