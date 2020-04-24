@@ -22,7 +22,7 @@ blocks:
   title: ' kantoor- of thuiswerkplek?'
   image_position: center
 prijzen:
-- title: Slimme toestelconfiguratie
+- title: Hotdesking
   content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
   button:
     title: Bereken je kosten
