@@ -187,12 +187,12 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Onbeperkt bellen EU + 2GB data
+Onbeperkt bellen EU + 0GB data
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 39,00 ex BTW (per SIM)
+€ 29,00 ex BTW (per SIM)
 
 {{</ layout/column3 >}}
 
