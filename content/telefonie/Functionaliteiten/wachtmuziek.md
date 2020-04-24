@@ -18,7 +18,7 @@ Nee, wachten is niet fijn, maar als het dan toch even moet, laat de beller dan g
 blocks:
 - content: |-
     Wachtmuziek wordt afgespeeld als je een beller doorverbindt, in de acht zet of als je een wachtrij gebruikt. <br><br><a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/wachtmuziek/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/musiclibrary_v9vmtd.png"
+  image: "/v1572861318/musiclibrary2_z0qqj7.png"
   position: image_left
   title: 'Vul je eigen bibliotheek'
   image_position: center
