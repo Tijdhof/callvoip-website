@@ -57,7 +57,7 @@ Om te bellen, klik op TELEFOONBOEK of op het DIALPAD icoon.1. Telefoonboek - kli
 2\. Dialpad - Klik op de toets met het toetsenbordje (dialpad) om een nummer in te toetsen. Handig: je kunt ook een nummer plakken, bv vanuit whatsapp of internet.  
 Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1573414896/Qaller_call-controls_652x425_zvygrq.jpg)
+![](https://res.cloudinary.com/callvoip/image/upload/v1573414896/4qaller_kmbxjk.png)
 
 3\. Call controls - Tijdens een gesprek heeft u de volgende call controls:
 
