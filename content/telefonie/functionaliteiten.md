@@ -201,7 +201,7 @@ usps:
     iconimage: ''
   - image: "/v1566559951/vamos_fupe0q.png"
     title: Vamos
-    link: "/telefonie/vastmobielintegratie"
+    link: "/telefonie/functionaliteiten/vamos"
     content: '06-nummer en data van Callvoip: echte vast-mobiel integratie.'
     icon: ''
     iconimage: ''
