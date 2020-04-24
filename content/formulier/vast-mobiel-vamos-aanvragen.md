@@ -208,6 +208,27 @@ Onbeperkt bellen EU + 2GB data
 
 {{< layout/column3 >}}
 
+Onbeperkt bellen EU + 2GB data
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 39,00 ex BTW (per SIM)
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 25,00 ex BTW (per SIM)
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
 Onbeperkt bellen EU + 5GB data
 {{</ layout/column3 >}}
 
