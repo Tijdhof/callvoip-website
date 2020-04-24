@@ -31,7 +31,7 @@ prijzen:
     title: Wat zijn de kosten?
     items:
     - title: Maandelijks
-      price: 'vanaf .00'
+      price: '29.00'
     - title: Eenmalig
       price: '25.00'
 images: []
