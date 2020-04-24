@@ -187,7 +187,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Onbeperkt bellen/SMS in EU + 2GB data
+Onbeperkt bellen EU + 2GB data
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -208,7 +208,7 @@ Onbeperkt bellen/SMS in EU + 2GB data
 
 {{< layout/column3 >}}
 
-Onbeperkt bellen/SMS in EU + 5GB data
+Onbeperkt bellen EU + 5GB data
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -228,7 +228,7 @@ Onbeperkt bellen/SMS in EU + 5GB data
 
 {{< layout/column3 >}}
 
-Onbeperkt bellen/SMS in EU + 10GB data
+Onbeperkt bellen EU + 10GB data
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
