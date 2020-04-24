@@ -119,7 +119,7 @@ usps:
     iconimage: ''
   - image: "/v1566559951/hotdesking_uand24.png"
     title: Hotdesking
-    link: ""
+    link: /telefonie/functionaliteiten/hotdesking/""
     content: Flexibele werkplek? Log in op een toestel met jouw interne nummer.
     icon: ''
     iconimage: ''
