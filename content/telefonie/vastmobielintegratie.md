@@ -76,7 +76,7 @@ hero:
     zeggen: Vamos! '
   button:
     content: Hier wil ik meer over weten
-    link: "/offerte"
+    link: "/telefonie/functionaliteiten/vamos/"
   image: "/v1565690795/vamos_evpkkg.png"
   image_position: start
   disable_image_on_mobile: false
