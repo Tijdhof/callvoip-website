@@ -137,7 +137,7 @@ usps:
     iconimage: ''
   - image: "/v1566559951/wachtrijmusic_j95g5y.png"
     title: Wachtmuziek
-    link: ""
+    link: "/telefonie/functionaliteiten/wachtmuziek/"
     content: Beheer zelf je eigen bibliotheek met wachtmuziek.
     icon: ''
     iconimage: ''
