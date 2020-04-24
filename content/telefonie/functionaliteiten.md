@@ -125,7 +125,7 @@ usps:
     iconimage: ''
   - image: "/v1566559951/config_xylsqb.png"
     title: Slimme toestelconfiguratie
-    link: "telefonie/functionaliteiten/toestelconfiguratie/"
+    link: "/telefonie/functionaliteiten/toestelconfiguratie/"
     content: Telefoontoestel instellen? In een paar minuten ben je klaar!
     icon: ''
     iconimage: ''
