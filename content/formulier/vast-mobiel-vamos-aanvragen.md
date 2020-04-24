@@ -192,13 +192,13 @@ Onbeperkt bellen/SMS in EU + 2GB data
 
 {{< layout/column3 >}}
 
-€ 39,00 excl. BTW (per SIM-kaart)
+€ 39,00 ex BTW (per SIM)
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 25,00 excl. BTW (per SIM-kaart)
+€ 25,00 ex BTW (per SIM)
 
 {{</ layout/column3 >}}
 
@@ -213,13 +213,13 @@ Onbeperkt bellen/SMS in EU + 5GB data
 
 {{< layout/column3 >}}
 
-€ 45,00 excl. BTW (per SIM-kaart)
+€ 45,00 ex BTW (per SIM)
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 25,00 excl. BTW (per SIM-kaart)
+€ 25,00 ex BTW (per SIM)
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
@@ -233,13 +233,13 @@ Onbeperkt bellen/SMS in EU + 10GB data
 
 {{< layout/column3 >}}
 
-€ 49,00 excl. BTW (per SIM-kaart)
+€ 49,00 ex BTW (per SIM)
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 25,00 excl. BTW (per SIM-kaart)
+€ 25,00 ex BTW (per SIM)
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
