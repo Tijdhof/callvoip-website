@@ -3,9 +3,7 @@ title: Meldingen
 error: false
 
 ---
-Geen meldingen; de telefoondienst werkt naar behoren.  
-  
-**  
+Geen meldingen; de telefoondienst werkt naar behoren.**  
 **Tussen 28 april en 5 mei 2020 wordt Qaller voor Android automatisch geupdate.   
 De update omvat de volgende verbeteringen:   
 \- Android 10: Qaller rinkelt nu ook op Android 10   
