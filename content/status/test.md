@@ -3,19 +3,19 @@ title: Meldingen
 error: false
 
 ---
-Geen meldingen; de telefoondienst werkt naar behoren. 
+Geen meldingen; de telefoondienst werkt naar behoren.
 
-==================================
+***
 
-**10 januari 2020: Smartphone update naar Android 10? Lees dan eerst dit:**  
-Qaller App op Android 10 smartphones werkt momenteel nog niet volledig:
-
-**Inkomende gesprekken:**  
-\- als Qaller actief is op de voorgrond rinkelt Qaller **wel** als je gebeld wordt  
-\- als Qaller is gesloten of op de achtergrond draait rinkelt Qaller **niet** als je gebeld wordt  
-\- als de smartphone gelocked is licht het display wel op maar rinkelt Qaller niet
-
-**Uitgaande gesprekken**:  
-\- werkt naar behoren
-
-Er wordt momenteel gewerkt aan het aanpassen van de Qaller app zodat deze naar behoren functioneert icm Android 10.
+**28 april 2020: Update Qaller Smartphone app voor Android:  
+**Tussen 28 april en 5 mei 2020 wordt Qaller voor Android automatisch geupdate.   
+De update omvat de volgende verbeteringen:   
+\- Android 10: Qaller rinkelt nu ook op Android 10   
+\- Android 9: Qaller rinkelt sneller mee (na ca 5 sec)  
+\- aannemen en call management als de telefoon gelocked is  
+  
+Om Qaller te updaten:   
+\- open de Playstore  
+\- zoek Qaller  
+\- klik op UPDATE   
+\- klaar!
