@@ -18,7 +18,7 @@ blocks:
 - content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en je eigen
     centrale. Door deze trunk lopen alle gesprekken van al je nummers: inkomend en
     uitgaand. Je eigen centrale blijft het centrale punt waar je instelt wat er met
-    gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.'
+    gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.<br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/sip-trunk-handleiding/" class="button">Hoe werkt het?</a>'
   image: "/v1566556087/voip_trunk_wldqja.png"
   position: image_left
   title: VoIP Trunk van Callvoip
