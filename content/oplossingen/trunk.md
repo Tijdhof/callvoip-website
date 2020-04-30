@@ -18,17 +18,17 @@ blocks:
 - content: 'Een VoIP-trunk is een verbinding tussen het Callvoip-platform en je eigen
     centrale. Door deze trunk lopen alle gesprekken van al je nummers: inkomend en
     uitgaand. Je eigen centrale blijft het centrale punt waar je instelt wat er met
-    gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke.<br><b>En
-    neemt je eigen centrale onverhoopt niet aan?</b><br>Geen nood, de slimme failover
-    bewaakt jouw bereikbaarheid met alle uitgekiende tools van de Callvoip centrale.
-    <br><b>Bereikbaarheid verzekerd.</b> <br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/sip-trunk-handleiding/"
+    gesprekken gebeurt, op welke toestellen deze rinkelen, en dergelijke. <br><br><a
+    href="https://www.callvoip.nl/ondersteuning/extra-features/sip-trunk-handleiding/"
     class="button">Hoe werkt het?</a>'
   image: "/v1566556087/voip_trunk_wldqja.png"
   position: image_left
   title: VoIP Trunk van Callvoip
   image_position: center
-- content: 'De trunkoplossing van Callvoip is te gebruiken bij bijna alle IP-centrales,
-    waaronder de volgende populaire systemen:'
+- content: De trunkoplossing van Callvoip is te gebruiken bij bijna alle IP-centrales,
+    waaronder de volgende populaire systemen. <br><b>En neemt je eigen centrale onverhoopt
+    niet aan?</b><br>Geen nood, de slimme failover bewaakt jouw bereikbaarheid met
+    alle uitgekiende tools van de Callvoip centrale. <br><b>Bereikbaarheid verzekerd.</b>
   image: "/v1566218614/trunk_logos_qexe54.png"
   position: image_right
   title: Welke VoIP-trunks zijn geschikt?
