@@ -5,7 +5,7 @@ error: false
 ---
 Geen meldingen; de telefoondienst werkt naar behoren.
 
-28 april 2020: update Qaller Smartphone app voor Android  
+**28 april 2020: update Qaller Smartphone app voor Android**  
 De Qaller app voor Android wordt geupdate; de update bevat de volgende verbeteringen:   
 \- Android 10: Qaller rinkelt u ook op Android 10     
 \- Android 9: Qaller rinkelt sneller mee (na ca 5 sec = 1 rinkel)  
