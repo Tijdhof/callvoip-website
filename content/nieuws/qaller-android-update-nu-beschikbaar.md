@@ -37,4 +37,4 @@ Kortom: Qaller op Android is nu nog beter, sneller en werkt weer voor iedereen!
 
 Meer weten? Klik [hier ](https://www.callvoip.nl/telefonie/qaller/)of bel ons! We helpen graag
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1588257396/google-play-badge_bzsobr.png)
+<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl"><img>https://res.cloudinary.com/callvoip/image/upload/v1588257396/google-play-badge_bzsobr.png</img></a>
