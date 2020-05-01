@@ -25,17 +25,27 @@ tags: []
 
 Één van de leukere dingen aan Callvoip klant zijn is de Qaller app. Zeker in deze tijd van thuiswerken (onze [Top 10 Thuiswerk Tools al gelezen](https://www.callvoip.nl/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/)?) is de app een waardevolle toevoeging voor ieders bereikbaarheid. We zien dan ook dat steeds meer van jullie de app gebruiken en waarderen.
 
-Maar er was een minpuntje wat zelfs wij moesten erkennen: het ging niet helemaal goed in de nieuwste Android versie 10...Maar dat is nu voorbij! In de nieuwste versie van de app werkt alles voor iedereen, dus ook voor jou! Maar de update van de Android Qaller app brengt meer verbeteringen:
+**Viel er nog wat te verbeteren?**
 
-\- De app gaat nu dus ook rinkelen bij een inkomend gesprek op alle Android 10 toestellen
+In alle eerlijkheid: ja. Er was een minpuntje wat zelfs wij moesten erkennen: het ging niet helemaal goed in de nieuwste Android versie 10…Maar dat is nu voorbij! In de nieuwste versie van de app werkt alles voor iedereen, dus ook voor jou!
 
-\- Heb je nog Android 9? (En dat is nog altijd de meest voorkomende versie met [een aandeel van 31 % vs nog geen 10% voor Android 10](https://www.droidapp.nl/nieuws/android-distributiecijfers-april-2020/)). Dan gaat de app nu nog sneller rinkelen bij een inkomend telefoontje (binnen 5 seconden!).
+**Wat is er verbeterd?**
 
-\- Ook handig: wanneer je gebeld wordt, kun je zonder eerst je toestel te ontgrendelen het gesprek beantwoorden. Dus bedieningsmogelijkheden op je lockscreen.
+De update van de Android Qaller app brengt meer verbeteringen dan verbeterde ondersteuning van Android 10:
+
+* De app gaat nu dus ook rinkelen bij een inkomend gesprek op alle Android 10 toestellen
+* Heb je nog Android 9? (En dat is nog altijd de meest voorkomende versie met [een aandeel van 31 % vs nog geen 10% voor Android 10](https://www.droidapp.nl/nieuws/android-distributiecijfers-april-2020/)). Dan gaat de app nu nog sneller rinkelen bij een inkomend telefoontje (binnen 5 seconden!).
+* Ook handig: wanneer je gebeld wordt, kun je zonder eerst je toestel te ontgrendelen het gesprek beantwoorden. Dus bedieningsmogelijkheden op je lockscreen.
 
 Kortom: Qaller op Android is nu nog beter, sneller en werkt weer voor iedereen!
 
-Meer weten? Klik [hier ](https://www.callvoip.nl/telefonie/qaller/)of bel ons! We helpen graag
+**Meer weten?**
 
-<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/callvoip/image/upload/v1571655384/android_ej9obz.png"></a><br>
-<a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/callvoip/image/upload/v1571655384/apple_dgagyj.png"></a>
+Klik [hier ](https://www.callvoip.nl/telefonie/qaller/)of bel ons! We helpen graag en kijken mee naar de specifieke situatie op jouw mobiel
+
+**PS**
+
+Qaller doet het natuurlijk ook gewoon onverminderd goed op je iPhone ;-)
+
+<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank" rel="noopener noreferrer">Qaller voor Android downloaden</a><br>
+<a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer">Qaller voor Apple downloaden</a>
