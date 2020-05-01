@@ -28,7 +28,7 @@ blocks:
   position: image_right
   image_position: center
 - title: Bereikbaarheidsmonitor, wat monitort het precies?
-  image: "/v1563355159/callvoip-website-bereikbaarheidsmonitor2.png"
+  image: "/v1563355159/monitor_zexvwu.png"
   content: |-
     • Hoe bereikbaar is uw organisatie?<br>
     • Wat is het drukste uur en de drukste dag qua telefonie?<br>
