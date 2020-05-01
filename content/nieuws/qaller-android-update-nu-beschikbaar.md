@@ -47,5 +47,5 @@ Klik [hier ](https://www.callvoip.nl/telefonie/qaller/)of bel ons! We helpen gra
 
 Qaller doet het natuurlijk ook gewoon onverminderd goed op je iPhone ;-)
 
-<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank" rel="noopener noreferrer">Qaller voor Android downloaden</a><br>
-<a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer">Qaller voor Apple downloaden</a>
+<a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/callvoip/image/upload/v1571655384/android_ej9obz.png"></a><br>
+<a href="https://itunes.apple.com/nl/app/qaller/id1140548146?mt=8" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/callvoip/image/upload/v1571655384/apple_dgagyj.png"></a>
