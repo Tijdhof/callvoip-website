@@ -21,7 +21,7 @@ textblocks:
   top_content: "Handige instructie videos over de telefooncentrale van Callvoip."
   content1: 'Leer hoe je Webcalls, ofwel browser based bellen, inschakelt en gebruikt.<br><br><br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/PyH71iA1e9s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
-  title2: 'Bedrijfstelefoonboek voor je Yealink'
+  title2: 'Yealink bedrijfstelefoonboek'
   content2: 'Zie hoe eenvoudig je het Click to Dial bedrijfstelefoonboek met jouw Yealink IP-telefoon kunt koppelen.<br><br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/hTOOA1yrHk4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title3: Meldteksten
