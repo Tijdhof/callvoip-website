@@ -175,7 +175,7 @@ usps:
     content: Slim telefonisch vergaderen met een eigen lokaal inbelnummer.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/gespreksopname_icon-v2_sm6q4e.png"
+  - image: "/v1566559951/gespreksopname_icon-v2_jorkw9.png"
     title: Gespreksopname
     link: "/telefonie/functionaliteiten/gespreksopname"
     content: Neem gesprekken op, ook vanaf mobiel, en download als batch.
