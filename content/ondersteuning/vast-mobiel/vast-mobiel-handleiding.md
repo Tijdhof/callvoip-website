@@ -38,6 +38,8 @@ Hieronder vind je een stapsgewijze instructie bij de ingebruikname van Vamos.
     Als je SIM is geactiveerd kun je op de telefooncentrale het mobiele nummer zien en instellen wat er moet gebeuren als je op het mobiele nummer gebeld wordt en met welk nummer je uitbelt. Dit is ook instelbaar via de Vamos app (zie volgende punt).
  5. **<h3>Download de Vamos App</h3>**  
     Download de Vamos Smartphone App in de Playstore / Appstore. Je kunt op Vamos inloggen met je gebruikersnaam en wachtwoord van de Callvoip telefooncentrale. > indien nodig: bel Callvoip voor assistentie.
+    <a href="https://play.google.com/store/apps/details?id=com.digifoon.fmc" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/callvoip/image/upload/v1571655384/android_ej9obz.png"></a><br>
+    <a href="https://apps.apple.com/us/app/vamos-fixed-mobile/id1449692498?ign-mpt=uo%3D2" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/callvoip/image/upload/v1571655384/apple_dgagyj.png"></a>
 
     **Met de Vamos App kun je instellen**:
 
