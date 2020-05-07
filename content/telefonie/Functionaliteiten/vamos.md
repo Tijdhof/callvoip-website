@@ -1,6 +1,6 @@
 ---
 title: Vamos | VoIP-Functionaliteit | Vast Mobiel integratie
-description: Callvoip biedt pure Vast Mobiel integratie op basis van het netwerk van T-Mobile
+description: Callvoip biedt pure Vast Mobiel integratie op basis van het netwerk van T-Mobile.
 type: page
 layout: default
 logos: true
