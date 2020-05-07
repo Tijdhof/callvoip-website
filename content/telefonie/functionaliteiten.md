@@ -169,7 +169,7 @@ usps:
     content: Faxcentrum voor versturen en ontvangen, zonder faxapparaat.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/conference_service_iconv2_twm5sx.png"
+  - image: "/v1566559951/conference_service_iconv2_ai8gir.png"
     title: Conference Service
     link: "/telefonie/conference"
     content: Slim telefonisch vergaderen met een eigen lokaal inbelnummer.
