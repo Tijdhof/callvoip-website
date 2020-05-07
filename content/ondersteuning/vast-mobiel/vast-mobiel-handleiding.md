@@ -11,6 +11,9 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
+<div class="md:flex flex-row-reverse justify-between items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1579161600/vamos-logo_mzplfg.png" alt="Vamos Logo"><br>
+<strong>Vamos Vast Mobiel</strong><p></p></div>
+
 Hieronder vind je een stapsgewijze instructie bij de ingebruikname van Vamos.
 
  1. **<h3>Aanvraag Vamos abonnement</h3>**  
