@@ -3,7 +3,7 @@ title: Qaller Android update nu beschikbaar
 description: ''
 images:
 - "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-05-01T22:00:00+00:00
 url: ''
 contactpersoon: []
 categories: []
