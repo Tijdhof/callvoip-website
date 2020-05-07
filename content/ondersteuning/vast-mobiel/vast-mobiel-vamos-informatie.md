@@ -11,6 +11,9 @@ hideingoogle: false
 hidesocialshare: false
 aliases: 'info-vamos'
 ---
+<div class="md:flex flex-row-reverse justify-between items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1579161600/vamos-logo_mzplfg.png" alt="Vamos Logo"><br>
+<strong>Vamos Vast Mobiel</strong><p></p></div>
+
 Onze klanten vroegen om mobiele vrijheid, en deze wens is gehoord, Vamos is ons antwoord. Simmpl, de meest eenvoudige telefooncentrale is er vanaf nu ook voor mobiel! Callvoip voorziet je van een SIM-kaart met je eigen, of een nieuw, mobiel nummer. Met de handige Vamos app stel je gemakkelijk in hoe je wilt bellen en gebeld wilt worden.
 
 <h3>De voordelen van Vamos:</h3>
