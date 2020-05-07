@@ -133,7 +133,7 @@ usps:
     iconimage: ''
   - icon: fa-tty
     title: <a href="/webcalls/">Webcalls</a>
-    content: Bellen zonder toestel? Jazeker, gewoon met je browser en een headset!
+    content: Bellen zonder toestel? Gewoon met je browser en een headset!
     iconimage: ''
   - icon: fa-mobile-alt
     title: <a href="/vamos/">Vast-Mobiel</a>
