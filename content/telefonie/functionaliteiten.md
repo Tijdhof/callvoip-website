@@ -93,7 +93,7 @@ usps:
     content: Slim filter om specifieke nummers een ander route te geven.
     icon: ''
     iconimage: ''
-  - image: "/v1566559930/blf_iconv2_zym916.png"
+  - image: "/v1566559930/blf_iconv2_k39izc.png"
     title: BLF
     link: "/telefonie/functionaliteiten/blf/"
     content: Zie op de LED-toetsen van je telefoon de belstatus van collega’s.
