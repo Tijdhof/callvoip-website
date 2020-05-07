@@ -93,13 +93,13 @@ usps:
     content: Slim filter om specifieke nummers een ander route te geven.
     icon: ''
     iconimage: ''
-  - image: "/v1566559930/busy_lamp_field_icon_s9ixjo.png"
+  - image: "/v1566559930/blf_iconv2_zym916.png"
     title: BLF
     link: "/telefonie/functionaliteiten/blf/"
     content: Zie op de LED-toetsen van je telefoon de belstatus van collega’s.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/call_pick_up_icon_vcgkmu.png"
+  - image: "/v1566559951/call_pick_up_iconv2_dmr5el.png"
     title: Call Pickup
     link: "/telefonie/functionaliteiten/call-pickup/"
     content: Klik en trek een gesprek dat elders rinkelt naar je eigen toestel.
@@ -169,13 +169,13 @@ usps:
     content: Faxcentrum voor versturen en ontvangen, zonder faxapparaat.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/conference_service_icon_qmq9iq.png"
+  - image: "/v1566559951/conference_service_iconv2_twm5sx.png"
     title: Conference Service
     link: "/telefonie/conference"
     content: Slim telefonisch vergaderen met een eigen lokaal inbelnummer.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/gespreksopname_icon_dymfas.png"
+  - image: "/v1566559951/gespreksopname_icon-v2_sm6q4e.png"
     title: Gespreksopname
     link: "/telefonie/functionaliteiten/gespreksopname"
     content: Neem gesprekken op, ook vanaf mobiel, en download als batch.
