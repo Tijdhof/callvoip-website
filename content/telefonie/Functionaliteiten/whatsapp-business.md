@@ -21,7 +21,7 @@ blocks:
     -Automatische antwoorden instellen, of welkomstberichten <br>
     -Een bedrijfsprofiel maken met websites, openingstijden, etc <br>
     -Conversaties ordenen met labels <br>
-    -Een productcatalogus aanmaken en gemakkelijk delen <br>
+    -Een productcatalogus aanmaken en gemakkelijk delen
     <br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/snelstart-whatsapp-business/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/whatsapp2_ujmtfx.png"
   position: image_left
