@@ -39,10 +39,10 @@ usps:
     content: Ontvang voicemails automatisch als email met .mp3 bijlage.
     icon: ''
     iconimage: ''
-  - image: "/v1566995669/test-qaller_iqepfj.png"
-    title: Qaller
-    link: "/telefonie/qaller"
-    content: Gratis afstandsbediening bij de centrale voor iPhone en Android.
+  - image: "/v1566559951/monitor_gddauy.png"
+    title: Bereikbaarheidsmonitor
+    link: "/telefonie/bereikbaarheidsmonitor/"
+    content: Zie in één blik jouw bereikbaarheid - per uur, dag en week.
     icon: ''
     iconimage: ''
   - image: "/v1566995670/trasfer_round_by7y4w.png"
@@ -129,16 +129,16 @@ usps:
     content: Telefoontoestel instellen? In een paar minuten ben je klaar!
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/monitor_gddauy.png"
-    title: Bereikbaarheidsmonitor
-    link: "/telefonie/bereikbaarheidsmonitor/"
-    content: Zie in één blik jouw bereikbaarheid - per uur, dag en week.
-    icon: ''
-    iconimage: ''
   - image: "/v1566559951/wachtrijmusic_j95g5y.png"
     title: Wachtmuziek
     link: "/telefonie/functionaliteiten/wachtmuziek/"
     content: Beheer zelf je eigen bibliotheek met wachtmuziek.
+    icon: ''
+    iconimage: ''
+  - image: "/v1566995669/test-qaller_iqepfj.png"
+    title: Qaller
+    link: "/telefonie/qaller"
+    content: Gratis afstandsbediening bij de centrale voor iPhone en Android.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/clicktodial_m7zdni.png"
