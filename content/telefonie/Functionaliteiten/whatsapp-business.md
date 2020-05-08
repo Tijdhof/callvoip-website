@@ -16,7 +16,14 @@ hero:
     link: "/offerte"
 blocks:
 - content: |-
-    We whatsappen wat af met elkaar. Honderden berichten in vriendengroepen, foto’s van de kleinkinderen naar opa en oma of het avondeten afstemmen met je partner: we gebruiken WhatsApp voor allerhande berichten.<br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/snelstart-whatsapp-business/" class="button">Hoe werkt het?</a>
+    Met Whatsapp Business kun je;
+    -Berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer
+    -Media gebruiken, zoals foto’s, emoticons, video
+    -Automatische antwoorden instellen, of welkomstberichten
+    -Een bedrijfsprofiel maken met websites, openingstijden, etc
+    -Conversaties ordenen met labels
+    -Een productcatalogus aanmaken en gemakkelijk delen
+    <br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/snelstart-whatsapp-business/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/whatsapp2_ujmtfx.png"
   position: image_left
   title: 'Whatsapp Business (vast nr)'
