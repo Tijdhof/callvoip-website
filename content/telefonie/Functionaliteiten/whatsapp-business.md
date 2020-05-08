@@ -16,7 +16,6 @@ hero:
     link: "/offerte"
 blocks:
 - content: |-
-    Met Whatsapp Business kun je;
     -Berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer
     -Media gebruiken, zoals foto’s, emoticons, video
     -Automatische antwoorden instellen, of welkomstberichten
@@ -26,7 +25,7 @@ blocks:
     <br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/snelstart-whatsapp-business/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/whatsapp2_ujmtfx.png"
   position: image_left
-  title: 'Whatsapp Business (vast nr)'
+  title: 'Met Whatsapp Business kun je:'
   image_position: center
 prijzen:
 - title: Whatsapp Business
