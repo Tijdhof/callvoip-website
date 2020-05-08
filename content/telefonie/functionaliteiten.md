@@ -147,6 +147,12 @@ usps:
     content: 'Integratie: laat Callvoip praten met andere programma’s.'
     icon: ''
     iconimage: ''
+  - image: "/v1566559951/whatsapp_business_be0sai.png"
+    title: Whatsapp Business
+    link: "/whatsapp-business-blog/"
+    content: 'Whatsapp via jouw kantoornummer i.p.v. mobielenummer'
+    icon: ''
+    iconimage: ''
 - title: PowerFeatures
   content: <p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar!<br></br></p>  <a
     href="/offerte" class="button">Vraag een offerte aan</a>
