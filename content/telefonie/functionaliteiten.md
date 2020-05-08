@@ -105,10 +105,10 @@ usps:
     content: Klik en trek een gesprek dat elders rinkelt naar je eigen toestel.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/clicktodial_m7zdni.png"
-    title: Click to Dial
-    link: "/telefonie/clicktodial/"
-    content: Gratis Chrome plugin met een set vol onmisbare telefoontools!
+  - image: "/v1566559951/api_l9naxl.png"
+    title: API programmeer-interface
+    link: "/telefonie/realtime-api/"
+    content: 'Integratie: laat Callvoip praten met andere programma’s.'
     icon: ''
     iconimage: ''
   - image: "/v1566559951/keuze_alplot.png"
@@ -141,10 +141,10 @@ usps:
     content: Beheer zelf je eigen bibliotheek met wachtmuziek.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/api_l9naxl.png"
-    title: API programmeer-interface
-    link: "/telefonie/realtime-api/"
-    content: 'Integratie: laat Callvoip praten met andere programma’s.'
+  - image: "/v1566559951/clicktodial_m7zdni.png"
+    title: Click to Dial
+    link: "/telefonie/clicktodial/"
+    content: Gratis Chrome plugin met een set vol onmisbare telefoontools!
     icon: ''
     iconimage: ''
   - image: "/v1566559951/whatsapp_business_vyg7r0.png"
