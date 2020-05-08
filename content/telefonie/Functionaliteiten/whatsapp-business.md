@@ -16,7 +16,7 @@ hero:
     link: "/offerte"
 blocks:
 - content: |-
-    -Berichten versturen en ontvangen zoals je gewend met, maar dan met je vaste nummer <br>
+    -Berichten versturen en ontvangen met je vaste nummer <br>
     -Media gebruiken, zoals foto’s, emoticons, video <br>
     -Automatische antwoorden instellen, of welkomstberichten <br>
     -Een bedrijfsprofiel maken met websites, openingstijden, etc <br>
