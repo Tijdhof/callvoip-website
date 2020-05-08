@@ -199,10 +199,10 @@ usps:
     content: Realtime overzicht van belverkeer en wachtrijen, en contactlijst.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/test-qaller_iqepfj.png"
-    title: Qaller Plus
-    link: "/telefonie/qaller"
-    content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer.
+  - image: "/v1566559951/crm_hpm6rj.png"
+    title: VoIP CTI
+    link: "/telefonie/integratiemetcrm"
+    content: Integreer Callvoip met CRM-systemen als Afas, Exact en meer.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/vamos_logov2_fbelhc.png"
@@ -211,10 +211,10 @@ usps:
     content: '06-nummer en data van Callvoip: echte vast-mobiel integratie.'
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/crm_hpm6rj.png"
-    title: VoIP CTI
-    link: "/telefonie/integratiemetcrm"
-    content: Integreer Callvoip met CRM-systemen als Afas, Exact en meer.
+  - image: "/v1566559951/test-qaller_iqepfj.png"
+    title: Qaller Plus
+    link: "/telefonie/qaller"
+    content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer.
     icon: ''
     iconimage: ''
 hideingoogle: false
