@@ -61,7 +61,7 @@ intro:
                           id="terugbelmoment" name="terugbelmoment"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
-              <div data-netlify-recaptcha="true"></div>
+              <center><div data-netlify-recaptcha="true"></div></center>
               <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
           </form>
       </div>
