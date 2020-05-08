@@ -150,7 +150,7 @@ usps:
   - image: "/v1566559951/whatsapp_business_vyg7r0.png"
     title: Whatsapp Business
     link: "/whatsapp-business-blog/"
-    content: 'Whatsapp via jouw kantoornummer i.p.v. mobiele nummer'
+    content: 'Whatsapp via jouw kantoornummer i.p.v. mobiele nummer.'
     icon: ''
     iconimage: ''
 - title: PowerFeatures
