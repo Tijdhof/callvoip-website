@@ -7,7 +7,7 @@ logos: true
 aliases: "/telefonie/functionaliteiten/whatsapp/"
 hero:
   title: Whatsapp Business
-  content: 'We whatsappen wat af met elkaar. Honderden berichten in vriendengroepen, foto’s van de kleinkinderen naar opa en oma of het avondeten afstemmen met je partner: we gebruiken WhatsApp voor allerhande berichten.'
+  content: 'Met Whatsapp Business kun je vanaf je vaste nummer whatsapp-berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie.'
   image: "/v1571655384/whatspp4_spfksz.png"
   image_position: center
   disable_image_on_mobile: false
