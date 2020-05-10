@@ -2,6 +2,8 @@
 title: Nummerportering aanvragen
 url: "/aanvragen/portering/"
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 Heeft u een telefoonnummer bij een andere provider en wilt u deze ook naar Callvoip verhuizen? Dan kunt u dit aanvragen via onderstaand formulier. Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
@@ -151,6 +153,6 @@ Los telefoonummer
 
 **Let op**:<br>
 
-Neem voor de aanvraag contact op met de huidige provider om navraag te doen over eventuele contractuele verplichtingen.
+Neem voor de aanvraag contact op met de huidige provider om navraag te doen over eventuele contractuele verplichtingen. Zodra wij een nummer toevoegen kunt u ermee uitbellen; de facturatie van het nummer start ook vanaf dat moment. 
 
 {{</ form >}}
