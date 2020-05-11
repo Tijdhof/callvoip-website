@@ -38,7 +38,7 @@ blocks:
     <b>Aangenomen gesprekken</b>: u ziet per uur, dag, week hoeveel gesprekken er totaal waren en welk deel daarvan is aangenomen. Dit wordt uitgedrukt in een aantal en een percentage. U kunt de beantwoorde gesprekken bekijken voor het totaal en elke individuele nummer.<br><br>
     <b>Gespreksduur</b>: het dashboard toont de gemiddelde duur van gesprekken in de gewenste periode (uur, dag, week) en toont bovendien de totale gespreksduur per uur, dag en week en berekent ook de gemiddelde gespreksduur. Waardevolle stuurinformatie voor het management!<br><br>
     <b>Piekuur / piekdag</b>: de managementbalk aan de rechterzijde van het dashboard toont u op welk uur van de dag cq. op welke dag van de week er de meeste telefoondrukte is. Een simpel feit, maar toch waardevol te weten en ook hoe dit zich ontwikkelt in uw activiteitenseizoenen.
-  position: image_left
+  position: image_right
   image_position: ''
 usps:
   title: Wat zijn de voordelen?
