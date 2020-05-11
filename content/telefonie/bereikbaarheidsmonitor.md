@@ -30,7 +30,7 @@ blocks:
     Belangrijke vragen om de telefonische performance van uw organisatie in kaart te brengen.
     <BR><BR>
     <a href="https://www.callvoip.nl/ondersteuning/extra-features/bereikbaarheidsmonitor/" class="button">Hoe werkt het?</a>
-  position: image_right
+  position: image_left
   image_position: center
 - title: Bereikbaarheidsmonitor, wat monitort het precies?
   image: "/v1563354632/callvoip-website-bereikbaarheidsmonitor-stats.png"
