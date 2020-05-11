@@ -47,7 +47,7 @@ blocks:
       - title: Service nummers (0900/0800)
         url: /telefonie/telefoonnummers/
       - title: Mobiele nummers
-        url: /telefonie/vastmobielintegratie/
+        url: /telefonie/functionaliteiten/vamos/
   - title: Oplossingen
     links:
       - title: Uitgekiende telefonie
