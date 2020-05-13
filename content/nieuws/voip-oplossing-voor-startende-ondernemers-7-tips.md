@@ -31,9 +31,9 @@ Daarom 7 welgemeende tips als het gaat om het selecteren van de beste passende V
 
 Simpel doch effectief; zet voor jezelf concrete vragen op papier als het gaat om jouw specifieke wensen voor de ideale [VoIP-oplossing](https://www.callvoip.nl/telefonie/hostedvoip/). Handig uitgangspunt hiervoor is om direct te bepalen wat voor type provider jou hierbij gaat ondersteunen. Niet alleen qua prijs en aanbod, maar juist vanwege de vraag of deze partij aansluit op jouw persoonlijke wensen.
 
-**1. Kies ik voor de grote providers of ga ik voor een specialist?  
-  
-**Je bent een leek op het gebied van zakelijke telefonie en internet. Dan is het heel verleidelijk om te kiezen op basis van gevoel in plaats van je gezonde verstand. Even surfen op Google en je treft een eindeloze reeks aan zoekresultaten van vergelijkingsplatforms en providers. Al klikkende verzand je in een brij van schreeuwende abonnementen. Kortom, wat nu? Hoe weet je nu wat wijsheid is voor je onderneming? Niks ten nadele van de ‘big boys’ zoals KPN of ZIGGO, maar hun geautomatiseerde systemen zorgen onherroepelijk voor een onpersoonlijke benadering mbt jouw vraagstukken. Daarop is hun businessmodel simpelweg niet afgestemd. Niet de fout van KPN of Ziggo. Gewoon geen goede match.
+**1. Kies ik voor de grote providers of ga ik voor een specialist?**
+
+Je bent een leek op het gebied van zakelijke telefonie en internet. Dan is het heel verleidelijk om te kiezen op basis van gevoel in plaats van je gezonde verstand. Even surfen op Google en je treft een eindeloze reeks aan zoekresultaten van vergelijkingsplatforms en providers. Al klikkende verzand je in een brij van schreeuwende abonnementen. Kortom, wat nu? Hoe weet je nu wat wijsheid is voor je onderneming? Niks ten nadele van de ‘big boys’ zoals KPN of ZIGGO, maar hun geautomatiseerde systemen zorgen onherroepelijk voor een onpersoonlijke benadering mbt jouw vraagstukken. Daarop is hun businessmodel simpelweg niet afgestemd. Niet de fout van KPN of Ziggo. Gewoon geen goede match.
 
 Ons advies is daarom voor ondernemers; zoek naar specialisten met een persoonlijke aanpak en kennis over jouw bedrijf en omgeving. Laat je bijvoorbeeld informeren door enige navraag bij andere bedrijven. Wat wordt er over kleinere specialistische providers gezegd? Wat is hun werkwijze en sluit hun specifieke aanbod goed aan op jouw vraag? Het kan je bovendien vele zakelijke voordelen opleveren zoals;
 
@@ -47,17 +47,17 @@ Ons advies is daarom voor ondernemers; zoek naar specialisten met een persoonlij
 
 Want dat willen we uiteindelijk toch allemaal? Zodat we lekker ons ding kunnen doen zonder gemekker en weinig constructieve daden van derden. Maak dus van noodzakelijk kwaad een leuke en doelgerichte samenwerking die je ook nog best wat oplevert per jaar.
 
-**2. Is de prijs voor mij doorslaggevend?  
-  
-**Lekker makkelijk toch? Even prijzen vergelijken op een onafhankelijk platform met online autoriteit in zakelijke telefonie en internet en klaar is Keessie. Het zal voor sommige ondernemers zo simpel in elkaar steken. Ben jij echter het type ondernemer dat zakendoen ziet als een strategisch schaakspel, dan wil je wellicht meer onderbouwde argumenten voordat je ergens een handtekening onder zet. Standaard abonnementsprijzen zijn in dat geval niet leidend. Je zoekt naar iets extra’s.
+**2. Is de prijs voor mij doorslaggevend?**
+
+Lekker makkelijk toch? Even prijzen vergelijken op een onafhankelijk platform met online autoriteit in zakelijke telefonie en internet en klaar is Keessie. Het zal voor sommige ondernemers zo simpel in elkaar steken. Ben jij echter het type ondernemer dat zakendoen ziet als een strategisch schaakspel, dan wil je wellicht meer onderbouwde argumenten voordat je ergens een handtekening onder zet. Standaard abonnementsprijzen zijn in dat geval niet leidend. Je zoekt naar iets extra’s.
 
 Het antwoord hierop is; ga niet direct overstag bij een provider die je nog niet kent. Ga op verkenning uit en laat je informeren op maat. Bijvoorbeeld door middel van [rondleiding](https://www.callvoip.nl/tour/) door het aanbod, gevolgd door een persoonlijk gesprek met de provider. Kortom, leer elkaars bedrijvigheid en organisatie kennen en kijk samen naar mogelijkheden op maat. Wat heb je nodig en vooral ook wat niet? De uitkomst zal vaak beter aansluiten op jouw bedrijf en specifieke wensen. Ook wat betreft de [prijs](https://www.callvoip.nl/calculator/).
 
 Standaard online dienstverlening lijkt misschien voordelig en efficiënt. Een persoonlijk contactmoment slurpt kostbare tijd. Onze ervaring op dit gebied wijst anders uit. Denk aan urgente calamiteiten die een snelle, oplossingsgerichte aanpak vergen. Of het inspreken van een bandje. En het eenvoudig aanvullen of updaten van je abonnement waarop je eerlijk en op tijd geattendeerd wordt. Een leverancier in het verlengde van jouw doelen en missie. Wat levert dit soort dienstverlening jou op jaarbasis op? Minder kopzorgen, gemak en lagere kosten. Een vertrouwensbasis tussen jou en je leverancier. Echte persoonlijke service is in feite onbetaalbaar.
 
-**3. Kan ik mijn telefooncentrale zelf inrichten?  
-  
-**“Je gaat het pas zien als je doorhebt.” Een Cruijffiaans gezegde dat wel van toepassing is op de perceptie en het gebruik van VOIP. Je wilt als ondernemer graag zoveel mogelijk controle en overzicht nastreven. Zelf snappen hoe iets werkt en daar je voordeel uithalen. Je eigen telefooncentrale inrichten is dus slim. Bepaal op basis van de juiste informatie en benodigde tools hoe jouw VOIP-oplossing het beste aansluit op jouw specifieke wensen. Bij sommige kleinere en meer persoonlijke Voip-aanbieders kan je jouw zelf samengestelde VOIP-oplossing eerst [gratis uitproberen](https://www.callvoip.nl/gratisuitproberen/). Zonder dat je direct ergens aan vast zit. Ideaal wanneer je de mogelijkheden wilt verkennen alvorens je een definitieve keuze maakt.
+**3. Kan ik mijn telefooncentrale zelf inrichten?**
+
+“Je gaat het pas zien als je doorhebt.” Een Cruijffiaans gezegde dat wel van toepassing is op de perceptie en het gebruik van VOIP. Je wilt als ondernemer graag zoveel mogelijk controle en overzicht nastreven. Zelf snappen hoe iets werkt en daar je voordeel uithalen. Je eigen telefooncentrale inrichten is dus slim. Bepaal op basis van de juiste informatie en benodigde tools hoe jouw VOIP-oplossing het beste aansluit op jouw specifieke wensen. Bij sommige kleinere en meer persoonlijke Voip-aanbieders kan je jouw zelf samengestelde VOIP-oplossing eerst [gratis uitproberen](https://www.callvoip.nl/gratisuitproberen/). Zonder dat je direct ergens aan vast zit. Ideaal wanneer je de mogelijkheden wilt verkennen alvorens je een definitieve keuze maakt.
 
 **4. Kan ik rekenen op een vast aanspreekpunt?  
   
