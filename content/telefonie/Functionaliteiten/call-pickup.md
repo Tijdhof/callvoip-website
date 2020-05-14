@@ -21,7 +21,7 @@ blocks:
     <b>1. Toestel:</b> Neem telefoontjes over van een specifiek toestel.<br><b>2. Groep:</b> Neem telefoontjes over van een groep (bv team of afdeling).<br><b>3. Universeel:</b> Neem elk inkomend telefoontje op uw toestel aan.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/phone300_rhdsvh.png"
   position: image_left
-  title: 'Call Pickup in 3 soorten'
+  title: 'Call Pickup in 3 soorten:'
   image_position: center
 prijzen:
 - title: Call Pickup
