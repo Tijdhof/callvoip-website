@@ -1,58 +1,37 @@
 ---
-type: page
 title: Realtime API (webhooks) | Koppel externe systemen met uw telefooncentrale
-description: Met de Realtime API (application programming interface) van Callvoip
-  koppelt u uw VoIP-telefooncentrale met een extern systeem.
-images:
-- "/v1567165784/icon_hwk0eh.png"
-slug: realtime-api
+description: Met de Realtime API (application programming interface) van Callvoip koppelt u uw VoIP-telefooncentrale met een extern systeem.
+type: page
+layout: default
+logos: true
+aliases: 
+ - "/api/"
+ - "/telefonie/functionaliteiten/api/"
 hero:
-  image: "/v1566563538/240_F_277556805_XniH6U1Rn2hGJWJ761glNZO9l8sHBznY_kykidf.jpg"
   title: Realtime API (webhooks)
-layout: ''
+  content: "Met de Realtime API (application programming interface) van Callvoip koppelt u uw telefooncentrale met een extern systeem. Of nu gaat om een integratie met uw CRM systeem of een Call-me-Back button. Met de API-koppeling kan het."
+  image: "/v1571655384/maxresdefault_puz0gp.jpg"
+  image_position: center
+  disable_image_on_mobile: false
+  button:
+    content: Bereken je kosten
+    link: "/calculator"
+blocks:
+- content: |-
+    De Realtime API van Callvoip is universeel en zeer breed in te zetten. Het biedt u de mogelijkheid om de telefooncentrale intelligent te koppelen met andere systemen en software.<br>Denkt u bijvoorbeeld aan de volgende toepassingen:<br><b>BLF Dashboard:<b> maak een dashboard waarop u ziet wie in gesprek is.<br><b>Click-to-Dial:</b> klik op een nummer en uw telefoon gaat bellen.<br><b>Call-Me-Back Button:</b> Uw toestel belt (potentiële) klant terug.<br>Koppeling CRM systeem: Uw CRM-pakket opent bij inkomende telefonie.<br><br><br><b>Hoe realiseer ik dit?</b><br>Als u klant bent van Callvoip kunt u beginnen. Neem contact met ons op en wij kunnen u voorzien van de juiste documentatie.<br><br><b>Doen jullie dit ook?</b>Nee. Lukt u dit niet zelf, dan kunt u hiervoor een externe partij inhuren. Wij brengen u graag in contact met één. Wel hebben wij één functionaliteit voor onze klanten ontwikkeld: <a href="https://www.callvoip.nl/telefonie/clicktodial/">Click-to-Dial.</a><br><br> <a href="https://www.callvoip.nl/ondersteuning/integraties/realtime-api/" class="button">Hoe werkt het?</a>
+  image: "/v1572861318/phone300_rhdsvh.png"
+  position: image_left
+  title: 'Mogelijkheden Realtime API'
+  image_position: center
+prijzen:
+- title: API
+  content: 'Benieuwd naar de mogelijkheden voor uw situatie?'
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Met de Realtime API (application programming interface) van Callvoip koppelt u uw telefooncentrale met een extern systeem. Of nu gaat om een integratie met uw CRM systeem of een Call-me-Back button. Met de API-koppeling kan het.
-
-<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
-
-<br>
-
-### Mogelijkheden Realtime API
-
-De Realtime API van Callvoip is universeel en zeer breed in te zetten. Het biedt u de mogelijkheid om de telefooncentrale intelligent te koppelen met andere systemen en software.
-
-{{< layout/columns >}}
-
-{{< layout/column2 >}}
-
-Denkt u bijvoorbeeld aan de volgende toepassingen:
-
-* **_BLF Dashboard_**: maak een dashboard waarop u ziet wie in gesprek is.
-* **_Click-to-Dial_**; klik op een nummer en uw telefoon gaat bellen.
-* **_Call-Me-Back Button_**: Uw toestel belt (potentiële) klant terug.
-* **_Koppeling CRM systeem_**: Uw CRM-pakket opent bij inkomende telefonie.
-
-{{</ layout/column2 >}}
-
-{{< layout/column2 >}}
-
-
-{{</ layout/column2 >}}
-
-{{</ layout/columns >}}
-
-### Hoe realiseer ik dit?
-
-Als u klant bent van Callvoip kunt u beginnen. Neem contact met ons op en wij kunnen u voorzien van de juiste documentatie.<br>
-
-### Doen jullie dit ook?
-
-Nee. Lukt u dit niet zelf, dan kunt u hiervoor een externe partij inhuren. Wij brengen u graag in contact met één. Wel hebben wij één functionaliteit voor onze klanten ontwikkeld: [Click-to-Dial](/telefonie/clicktodial/).<br>
-
-### Benieuwd naar de mogelijkheden voor uw situatie?
-
-<br>
-
-<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
