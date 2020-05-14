@@ -1,32 +1,44 @@
 ---
-type: page
 title: Call Pickup | VoIP-Functionaliteit | Neem inkomend gesprek over
-description: Call Pickup biedt de mogelijkheid om een gesprek, dat op een ander toestel
-  rinkelt, op uw toestel aan te nemen.
-images:
-- "/v1566559951/call_pick_up_icon_vcgkmu.png"
-slug: "/call-pickup/"
+description: Call Pickup biedt de mogelijkheid om een gesprek, dat op een ander toestel rinkelt, op uw toestel aan te nemen.
+type: page
+layout: default
+logos: true
+aliases: 
+ - "/call-pickup/"
+ - "/telefonie/functionaliteiten/call-pickup/"
 hero:
-  image: "/v1566552868/240_F_184272839_2kDHohpk4i4NorSI1DsnzEepXMwuV5PO_aphzul.jpg"
   title: Call Pickup
-layout: ''
+  content: "De Callvoip telefooncentrale is uitgerust met de mogelijkheid om een gesprek, dat op een ander toestel rinkelt, op uw toestel aan te nemen door een code in te toetsen of deze code onder een sneltoets te programmeren. Deze feature wordt Call Pickup genoemd. Het is mogelijk om de Call Pickup te gebruiken voor één toestel (waarnemen van een collega of manager), een groep van toestellen (bv. overnemen van een gesprek in het salesteam) of voor de hele organisatie."
+  image: "/v1571655384/maxresdefault_puz0gp.jpg"
+  image_position: center
+  disable_image_on_mobile: false
+  button:
+    content: Bereken je kosten
+    link: "/calculator"
+blocks:
+- content: |-
+    '<b>1. Toestel:</b> Neem telefoontjes over van een specifiek toestel.<br><b>2. Groep:</b> Neem telefoontjes over van een groep (bv team of afdeling).<br><b>3. Universeel:</b> Neem elk inkomend telefoontje op uw toestel aan.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/" class="button">Hoe werkt het?</a>'
+  image: "/v1572861318/693160_phone_512x512_snbacb.png"
+  position: image_left
+  title: 'Call Pickup in 3 soorten'
+  image_position: center
+prijzen:
+- title: Call Pickup
+  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: Maandelijks
+      price: '0.00'
+    - title: Eenmalig
+      price: '0.00'
+images: []
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-De telefoon van een collega rinkelt en u wilt dit gesprek op uw toestel aannemen. Hoe kunt u dit gesprek aannemen?
-
-<a href="/calculator/" class="button">Bereken uw kosten</a>
-
-De Simmpl telefooncentrale is uitgerust met de mogelijkheid om een gesprek, dat op een ander toestel rinkelt, op uw toestel aan te nemen door een code in te toetsen of deze code onder een sneltoets te programmeren. Deze feature wordt **Call Pickup** genoemd. Het is mogelijk om de Call Pickup te gebruiken voor één toestel (waarnemen van een collega of manager), een groep van toestellen (bv. overnemen van een gesprek in het salesteam) of voor de hele organisatie.
-
-### Call Pickup in 3 soorten
-
-Call Pickup is er in drie soorten:
-
-1\. **Toestel**: Neem telefoontjes over van een specifiek toestel.
-
-2\. **Groep**: Neem telefoontjes over van een groep (bv team of afdeling).
-
-3\. **Universeel**: Neem elk inkomend telefoontje op uw toestel aan.
-
-<a href="/telefonie/functionaliteiten/" class="button">Overzicht van alle functionaliteiten</a>
