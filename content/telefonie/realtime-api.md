@@ -29,6 +29,11 @@ prijzen:
   button:
     title: Bereken je kosten
     link: "/calculator/"
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: Per situatie verschillend
+      price: '...'
 images: []
 hideinsearch: false
 hideingoogle: false
