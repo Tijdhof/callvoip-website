@@ -7,6 +7,7 @@ logos: true
 aliases: 
  - "/conference"
  - "/telefonie/functionaliteiten/conference/"
+ - "/telefonie/conference/"
 hero:
   title: Conference Service
   content: "Een eigen vergaderfaciliteit om met meerdere mensen op afstand telefonisch vergaderen?
