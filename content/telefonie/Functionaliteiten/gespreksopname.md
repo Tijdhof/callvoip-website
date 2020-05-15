@@ -36,6 +36,30 @@ prijzen:
       price: '5.00'
     - title: Eenmalig
       price: '5.00'
+- title: Gespreksopname 180 dagen
+  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+  tarieven:
+    title: 180 DAGEN BEWAREN
+    items:
+    - title: p/mnd per gebruiker
+      price: '10.00'
+    - title: Eenmalig
+      price: '5.00'
+- title: Gespreksopname 365 dagen
+  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+  tarieven:
+    title: 365 DAGEN BEWAREN
+    items:
+    - title: p/mnd per gebruiker
+      price: '12.50'
+    - title: Eenmalig
+      price: '5.00'
 images: []
 hideinsearch: false
 hideingoogle: false
