@@ -9,7 +9,7 @@ aliases:
  - "/telefonie/functionaliteiten/gespreksopname/"
 hero:
   title: Gespreksopname | Call Recording
-  content: "Met gespreksopname kun je telefoongesprekken opnemen, terugluisteren en bewaren. Oók gesprekken die je via de Smartphone maakt (Qaller of Vamos). De gespreksopnamefunctie kun je zelf per gebruiker in- en uitschakelen. Kies zelf of je alle gesprekken opneemt, of zet recording tijdens een gesprek aan. Opgenomen telefoongesprekken kun je beluisteren en gemakkelijk downloaden op de telefooncentrale."
+  content: Met gespreksopname kun je telefoongesprekken opnemen, terugluisteren en bewaren. Oók gesprekken die je via de Smartphone maakt (Qaller of Vamos). De gespreksopnamefunctie kun je zelf per gebruiker in- en uitschakelen. Kies zelf of je alle gesprekken opneemt, of zet recording tijdens een gesprek aan. Opgenomen telefoongesprekken kun je beluisteren en gemakkelijk downloaden op de telefooncentrale.
   image: "/v1571655384/callrecording_stduh5.png"
   image_position: center
   disable_image_on_mobile: false
