@@ -10,8 +10,8 @@ aliases:
  - "/telefonie/conference/"
 hero:
   title: Conference Service
-  content: Een eigen vergaderfaciliteit om met meerdere mensen op afstand telefonisch vergaderen?
-Callvoip biedt de Conference Service: een flexibele manier om in de cloud telefonisch met groepen mensen te vergaderen. Overal en altijd, zo lang als u maar wenst. Bellers betalen normale belkosten, voor u geen meerkosten over de gesprekken.<br>Met de Callvoip Conference Service bespaart u tijd en geld voor vergaderen op afstand.
+  content: "Een eigen vergaderfaciliteit om met meerdere mensen op afstand telefonisch vergaderen?
+Callvoip biedt de Conference Service: een flexibele manier om in de cloud telefonisch met groepen mensen te vergaderen. Overal en altijd, zo lang als u maar wenst. Bellers betalen normale belkosten, voor u geen meerkosten over de gesprekken.<br>Met de Callvoip Conference Service bespaart u tijd en geld voor vergaderen op afstand."
   image: "/v1571655384/conference2_xkhui0.png"
   image_position: center
   disable_image_on_mobile: false
@@ -41,6 +41,6 @@ prijzen:
 images: []
 hideinsearch: false
 hideingoogle: false
-hidesocialshare: false
+hidesocialshare: true
 
 ---
