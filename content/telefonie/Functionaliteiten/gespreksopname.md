@@ -37,7 +37,7 @@ prijzen:
     - title: Eenmalig
       price: '5.00'
 - title: Gespreksopname 180 dagen
-  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
+  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode.<br>Incl.bulk download'
   button:
     title: Bereken je kosten
     link: "/calculator/"
@@ -49,7 +49,7 @@ prijzen:
     - title: Eenmalig
       price: '5.00'
 - title: Gespreksopname 365 dagen
-  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode'
+  content: 'Wordt berekend op het aantal gebruikers en op basis van de ingestelde bewaarperiode.<br>Incl.bulk download'
   button:
     title: Bereken je kosten
     link: "/calculator/"
