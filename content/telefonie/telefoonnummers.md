@@ -16,7 +16,7 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-Neem je huidige telefoonnummers mee of vraag nieuwe telefoonnummers aan; landelijke-, regionale-, internationale- of servicenummers. Het kan allemaal bij Callvoip.
+Neem je huidige telefoonnummers mee of vraag nieuwe telefoonnummers aan; regionaal-, landelijk-, internationaal- en servicenummers. Zowel nieuw als via nummerbehoud. Het kan allemaal bij Callvoip.
 
 <a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
 
