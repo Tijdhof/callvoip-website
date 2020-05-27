@@ -3,13 +3,21 @@ title: Aanmelden nieuwsbrief
 url: "/aanmelden/nieuwsbrief/"
 
 ---
-### De Callvoip Nieuwsbrief! Leuk voor iedereen. 
+### De Callvoip Nieuwsbrief! Leuk voor iedereen.
 
-Natuurlijk wil je als klant op de hoogte blijven van al het moois wat we toevoegen en verbeteren aan ons product. Maar naar productinformatie doen we ook ons best om leuke content te maken. We schrijven blogs, maken filmpjes en audio. 
+Natuurlijk wil je als klant op de hoogte blijven van al het moois wat we toevoegen en verbeteren aan ons product. Maar naar productinformatie doen we ook ons best om leuke content te maken. We schrijven blogs, maken filmpjes en audio.
 
 Wil jij op de hoogte blijven van wat we allemaal uitspoken? Meld je dan aan voor onze nieuwsbrief!
 
 <div>
+
+### De Callvoip Nieuwsbrief! Leuk voor iedereen.
+
+Natuurlijk wil je als klant op de hoogte blijven van al het moois wat we toevoegen en verbeteren aan ons product. Maar naar productinformatie doen we ook ons best om leuke content te maken. We schrijven blogs, maken filmpjes en audio.
+
+Wil jij op de hoogte blijven van wat we allemaal uitspoken? Meld je dan aan voor onze nieuwsbrief!
+
+
 <form class="mb-6" name="aanmelden-nieuwsbrief" action="/aanvraag/verzonden/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
 <input type="hidden" name="form-name" value="aanmelden-nieuwsbrief" />
 <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
