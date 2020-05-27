@@ -1,13 +1,13 @@
 ---
-title: Aanmelden nieuwsbrief
+title: De Callvoip Nieuwsbrief! Leuk voor iedereen.
 url: "/aanmelden/nieuwsbrief/"
 
 ---
-### De Callvoip Nieuwsbrief! Leuk voor iedereen.
-
 Natuurlijk wil je als klant op de hoogte blijven van al het moois wat we toevoegen en verbeteren aan ons product. Maar naast productinformatie doen we ook ons best om leuke content te maken. We schrijven blogs, maken filmpjes en audio.
 
 Wil jij op de hoogte blijven van wat we allemaal uitspoken? Meld je dan aan voor onze nieuwsbrief!
+
+P.S. Wist je dat je ons ook op LinkedIn kunt volgen? [Klik hier!](https://www.linkedin.com/company/callvoip-telefonie/)
 
 <div>
 
