@@ -7,7 +7,7 @@ Natuurlijk wil je als klant op de hoogte blijven van al het moois wat we toevoeg
 
 Wil jij op de hoogte blijven van wat we allemaal uitspoken? Meld je dan aan voor onze nieuwsbrief!
 
-P.S. Wist je dat je ons ook op LinkedIn kunt volgen? [Klik hier!](https://www.linkedin.com/company/callvoip-telefonie/)
+P.S. Wist je dat je ons ook op LinkedIn kunt volgen? <a href="https://www.linkedin.com/company/callvoip-telefonie"  target="_blank">Klik hier</a>
 
 <div>
 
