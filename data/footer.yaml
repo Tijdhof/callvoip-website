@@ -94,6 +94,8 @@ blocks:
         url: /pages/webshop/
       - title: Succesverhalen
         url: /testimonials/
+      - title: Aanmelden Nieuwsbrief
+        url: /aanmelden/nieuwsbrief/
       - title: Contact
         url: /contact/
     content: <p class="mb-4"><br><b>Callvoip</b><br>Koldingweg 19-1 <br> 9723 HL Groningen</p><p><a href="tel:+31508200000">050 - 820 00 00</a> <br> <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a> </p>
