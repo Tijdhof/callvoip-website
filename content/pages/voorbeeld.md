@@ -4,8 +4,8 @@ url: voorbeeld2
 type: page
 hero:
   content:
-    title: Dit is de title
-    text: dit is de content
+    title: 'VoIP Telefonie Slim en persoonlijk:'
+    text: Moderne telefooncentrale in de cloud en maatwerk inrichting.
     align: center
     overlay: true
   image: "/v1570097106/utproberen_hfcakv.png"
@@ -74,12 +74,12 @@ intro:
 draft: false
 double_content:
   left:
-    title: test
+    title: Gratis persoonlijke demo.
     content: test
   right:
     background: true
     background_color: '#efefef'
-    title: test
+    title: Ja, ik wil kennismaken met Callvoip.
     content: test
 
 ---
