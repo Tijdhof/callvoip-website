@@ -75,7 +75,12 @@ draft: false
 double_content:
   left:
     title: Gratis persoonlijke demo.
-    content: test
+    content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Dit alles laten we je in een telefoongesprek zien. We zoomen in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!<br><br><b>Wij bieden:</b><div class="usp-list"><ul><li>Pak
+    een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
+    versie van de online centrale...</li><li>... én een gratis testnummer gedurende
+    jouw testweek</li><li>Een Callvoip teamlid leidt je rond in de online centrale
+    ...</li><li>... en helpt jou de testomgeving testklaar te maken</li><li>Jij kunt
+    7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>'
   right:
     background: true
     background_color: '#efefef'
