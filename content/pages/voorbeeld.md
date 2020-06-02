@@ -8,7 +8,7 @@ hero:
     text: Moderne telefooncentrale in de cloud en maatwerk inrichting.
     align: center
     overlay: true
-  image: "/v1570097106/utproberen_hfcakv.png"
+  image: "/v1570097106/tour-temp_cg2acm.png"
   title: Gratis uitproberen
   disable_image_on_mobile: true
   link: ''
