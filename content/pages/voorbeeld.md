@@ -7,7 +7,7 @@ hero:
     title: 'VoIP Telefonie Slim en persoonlijk:'
     text: Moderne telefooncentrale in de cloud en maatwerk inrichting.
     align: center
-  image: "/v1570097106/tour-temp_urweeb.jpg"
+  image: "/v1570097106/tour-temp.jpg_ubosii.png"
   title: Gratis uitproberen
   disable_image_on_mobile: true
   link: ''
@@ -61,9 +61,8 @@ blocks:
   position: image_right
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 intro:
-  title: Concreet is dit wat je van ons krijgt
-  content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App
-    met een testnummer, en alle assistentie die nodig is
+  title: ''
+  content: ''
 draft: false
 double_content:
   left:
