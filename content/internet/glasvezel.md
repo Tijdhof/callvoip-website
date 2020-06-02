@@ -96,7 +96,7 @@ double_content:
     title: test
     content: test
   right:
-    background_color: #efefef
+    background_color: efefef
     title: test
     content: test
 menu:
