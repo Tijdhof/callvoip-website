@@ -37,32 +37,11 @@ textblocks:
     7 dagen gaan testen! Gratis en stopt automatisch</li></ul></div>
   show_vshape: true
 blocks:
-- title: Dé modernste Telefooncentrale
-  content: |-
-    Met de centrale van Callvoip heb je volledige controle over jouw telefonie.
-    Je kunt je eigen belplan bouwen, dit gaat zo gemakkelijk als Lego.
-    De centrale biedt handige functies zoals; een wachtrij, keuzemenu, tijdscondities en nog veel meer professionele functionaliteiten.
-    Instellen zodat altijd om 12:00 het lunchbandje gaat afspelen? Zo geregeld!
-    Je kunt de centrale ontdekken en gratis uitproberen.
-  image_position: center
-  position: image_left
-  image: "/v1570098498/wolk_pklb2v.png"
-  extra:
-    title: test
-    content: test
-- title: Altijd bereikbaar met Qaller
-  content: "Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar
-    te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om
-    te missen. Qaller is jouw gratis ‘afstandsbediening’ in de centrale. Enkel de
-    app installeren en jouw vaste kantoortoestel is ineens geïntegreerd met je smartphone.
-    Mooi werk toch?\n<br>\n</br>\n<a href=\"#aandeslag\" class=\"button\">Dit wil
-    ik</a>  "
+- title: ''
+  content: ''
   image_position: center
   position: image_right
   image: "/v1570106000/arm_met_qaller_zfdh3x.png"
-intro:
-  title: ''
-  content: ''
 draft: false
 double_content:
   left:
