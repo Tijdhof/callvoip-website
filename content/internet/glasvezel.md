@@ -54,9 +54,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: '45.00'
+      price: 45.0
     - title: Eenmalig
-      price: '50.00'
+      price: 50.0
     title: 'U bent klant van Callvoip:'
 - title: 100-om-100 Mbit/s
   content: De meest gangbare FTTH-verbinding; riante up- en download voor vrijwel
@@ -68,9 +68,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: '55.00'
+      price: 55.0
     - title: Eenmalig
-      price: '50.00'
+      price: 50.0
     title: 'U bent klant van Callvoip:'
 - title: 500-om-500 Mbit/s
   content: 'Supersonisch snel, nooit meer problemen met je snelheid! '
@@ -80,9 +80,9 @@ prijzen:
   tarieven:
     items:
     - title: Maandelijks
-      price: '75.00'
+      price: 75.0
     - title: Eenmalig
-      price: '50.00'
+      price: 50.0
     footer: Prijzen zijn excl. BTW
     title: 'U bent klant van Callvoip:'
 description: Met een glasvezel verbinding zijn de download- als uploadsnelheid aan
@@ -91,6 +91,11 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: true
 menu:
   main:
     name: Glasvezel
