@@ -22,14 +22,15 @@ hideinsearch: true
 hideingoogle: true
 textblocks:
 - title1: Slim zakelijk internet & telefonie regelen
-  content1: <h3>Dit is hoe we het gaan doen:</h3>
+  content1:
+  '<h3>Dit is hoe we het gaan doen:</h3>
   <div class="usp-list"><ul>
   <li>Een betrouwbare, flexibele online telefooncentrale</li>
   <li>Ouderwets persoonlijke service</li>
   <li>Volledige integratie vast en mobiel</li>
   <li>Volledige controle over jouw telefonie</li>
   <li>Alles onder 1 dak: Telefonie, internet en apparatuur</li>
-  </ul></div>
+  </ul></div>'
   title2: Slim zakelijk internet & telefonie regelen
   content2: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
     een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
