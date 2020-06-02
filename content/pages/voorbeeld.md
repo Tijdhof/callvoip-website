@@ -72,5 +72,14 @@ intro:
   content: Een eigen omgeving op de Callvoip centrale én de Qaller Smartphone App
     met een testnummer, en alle assistentie die nodig is
 draft: false
+double_content:
+  left:
+    title: test
+    content: test
+  right:
+    background: true
+    background_color: '#efefef'
+    title: test
+    content: test
 
 ---
