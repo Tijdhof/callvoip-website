@@ -22,8 +22,7 @@ hideinsearch: true
 hideingoogle: true
 textblocks:
 - title1: Slim zakelijk internet & telefonie regelen
-  content1:
-  <h3>Dit is hoe we het gaan doen:</h3>
+  content1: Testing
   title2: Slim zakelijk internet & telefonie regelen
   content2: <h3>Dit is hoe we het gaan doen:</h3> <div class="usp-list"><ul><li>Pak
     een kop koffie en wacht op ons telefoontje</li><li>Je krijgt toegang tot de volledige
