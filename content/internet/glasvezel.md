@@ -93,9 +93,12 @@ hideingoogle: false
 hidesocialshare: false
 double_content:
   left:
-    undefined: ''
+    title: test
+    content: test
   right:
-    undefined: true
+    background_color: #efefef
+    title: test
+    content: test
 menu:
   main:
     name: Glasvezel
