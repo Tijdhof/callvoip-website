@@ -91,14 +91,6 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-double_content:
-  left:
-    title: test
-    content: test
-  right:
-    background_color: efefef
-    title: test
-    content: test
 menu:
   main:
     name: Glasvezel
