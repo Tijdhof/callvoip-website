@@ -11,7 +11,6 @@ hero:
   title: Gratis uitproberen
   disable_image_on_mobile: true
   link: ''
-  showContent: true
 description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
   Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
 images:
