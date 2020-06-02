@@ -39,9 +39,6 @@ textblocks:
 blocks:
 - title: ''
   content: ''
-  image_position: center
-  position: image_right
-  image: "/v1570106000/arm_met_qaller_zfdh3x.png"
 draft: false
 double_content:
   left:
