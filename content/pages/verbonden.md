@@ -17,7 +17,7 @@ images:
 layout: landing
 blocks:
 - content: 'Hoe zorg je dat je verbonden blijft met je business tijdens de Coronacrisis en daarna? Wij interviewden een 3-tal inspirerende ondernemers en tevens klanten van Callvoip. Allen hebben bedrijven in branches die zwaar getroffen werden door de ‘intelligente lockdown’. Geen klanten betekende geen omzet. Zij besloten niet bij de pakken neer te gaan zitten. Ze stonden op, voerden innovatief verandermanagement door en blijven bovenal verbonden.<br>Ontmoet:'
-  image: "/v1570097106/200x200_jzntjc.png"
+  image: "/v1570097106/300x300_tlb62h.png"
   position: image_right
   title: Blijf verbonden met Callvoip
   image_position: ''
