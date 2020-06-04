@@ -10,7 +10,7 @@ hero:
   content:
     title: 'Deze ondernemers stonden op tijdens de Coronacrisis..'
     align: center
-  image: "/v1570097106/WhatsApp_Image_2020-06-04_at_10.43.51_m5mhc9.jpg"
+  image: "/v1570097106/WhatsApp_Image_2020-06-04_at_10.43.51_fvigws.png"
   title: Blijf verbonden met Callvoip
   disable_image_on_mobile: true
   link: ''
