@@ -27,7 +27,7 @@ textblocks:
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/jiQnIEtEL64" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title2: '1Kapper.nl - Arjan Cruiming'
-  content2: 'div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/xgbHSHdr2Fs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title3: Wagner - Prof. drs. Philip Wagner & Daniël Folkersma
   content3: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
