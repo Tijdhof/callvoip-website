@@ -10,7 +10,7 @@ hero:
   content:
     title: 'Deze ondernemers stonden op tijdens de Coronacrisis..'
     align: center
-  image: "/v1570097106/tour-temp.jpg_ubosii.png"
+  image: "/v1570097106/IMG_20200520_155513_e7fzmk.jpg"
   title: Blijf verbonden met Callvoip
   disable_image_on_mobile: true
   link: ''
