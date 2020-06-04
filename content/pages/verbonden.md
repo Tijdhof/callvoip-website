@@ -46,7 +46,7 @@ textblocks:
   textblocks:
 - 
   title1: 'Meer weten over de verbondenheid van Callvoip '
-  content1: 'Nieuwsgierig naar onze Voip-oplossingen? Maak dan kennis via onze persoonlijke rondleiding of neem vrijblijvend contact met ons op via 050 820 00 00.<div class="usp-list"><ul><li>24/7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div>'
+  content1: 'Nieuwsgierig naar onze Voip-oplossingen? Maak dan kennis via onze persoonlijke rondleiding of neem vrijblijvend contact met ons op via 050 820 00 00.<br><div class="usp-list"><ul><li>24/7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div>'
   title2: ' '
   content2: ' '
   title3: ''
