@@ -8,8 +8,8 @@ searchtags:
 description: Ondernemers staan op met inspirerende podcasts tijdens en na de coronacrisis. Blijf verbonden met Callvoip.
 hero:
   content:
-  image: "/v1570097106/headerverbonden_rk9bqz.png"
-  title: <br><br>Blijf verbonden met Callvoip
+  image: "/v1570097106/headerverbonden_q5mcky.png"
+  title: Blijf verbonden met Callvoip
   disable_image_on_mobile: true
   link: ''
 images:
@@ -46,7 +46,7 @@ textblocks:
   textblocks:
 - 
   title1: 'Meer over de verbondenheid van Callvoip?'
-  content1: 'Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons op via <br>050 820 00 00.<br><div class="usp-list"><ul><li>24 / 7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div><br><br><a href="/tour" class="button">Dit wil ik ook!</a>'
+  content1: 'Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons op via <br>050 820 00 00.<br><div class="usp-list"><ul><li>24 / 7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div><a href="/tour" class="button">Dit wil ik ook!</a>'
   title2: ' '
   content2: ' '
   title3: ''
