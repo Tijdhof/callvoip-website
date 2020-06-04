@@ -42,5 +42,13 @@ textblocks:
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1591264495/IMG-20200602-WA0002_ntghmf.jpg">'
   title3: ''
   content3: ''
-
+  
+  textblocks:
+- 
+  title1: 'Meer weten over de verbondenheid van Callvoip '
+  content1: 'Nieuwsgierig naar onze Voip-oplossingen? Maak dan kennis via onze persoonlijke rondleiding of neem vrijblijvend contact met ons op via 050 820 00 00.<div class="usp-list"><ul><li>24/7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!/li></ul></div>'
+  title2: ' '
+  content2: ' '
+  title3: ''
+  content3: ''
 ---
