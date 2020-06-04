@@ -10,7 +10,7 @@ aliases:
 hero:
   title: E-mail
   content: "De email-app plaatst u in uw belplan. Hiermee geeft u de telefooncentrale de opdracht om u een bericht te sturen met daarin het telefoonnummer van de beller. U kunt deze functionaliteit helemaal bovenaan (ontvang een email van alle bellers) of onderaan (ontvang een e-mail van alleen de gemiste bellers) de belroute plaatsen."
-  image: "/v1571655384/530_u7qjg7_sfozcj.png"
+  image: "/v1571655384/3896959_edxbk5.jpg"
   image_position: center
   disable_image_on_mobile: false
   button:
