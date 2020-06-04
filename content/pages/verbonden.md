@@ -36,7 +36,7 @@ textblocks:
 
   textblocks:
 - 
-  title1: 'Over Callvoip & verbonden blijven
+  title1: 'Over Callvoip & verbonden blijven'
   content1: 'Wij hebben de campagne ‘Blijf verbonden met Callvoip’ gelanceerd, omdat wij standvastig geloven in optimale communicatie en daarmee de verbondenheid tussen mensen, bedrijven en hun business. Hierin bieden wij slimme Voip-oplossingen op maat. Persoonlijke en oplossingsgerichte service is voor ons niet vanzelfsprekend. Daar moet je elke dag weer je stinkende best voor doen.<br><br>Sinds de Coronacrisis aanbrak staan wij dagelijks nog meer in contact met onze klanten. Naast het bieden van adequate service en oplossingen zijn wij tevens een luisterend oor voor de tamelijk bizarre situaties waarin ondernemers zich plotsklaps bevonden. Het inspireerde ons om klanten met hun bijzondere verhalen een podium te geven voor zichzelf en mede-ondernemers. Doel? Het blijven creëren van verbondenheid door naast elkaar te staan. Juist in deze tijden.'
   title2: ''
   content2: '<img src="/v1570097106/verbonden_rqdmvf.png">'
