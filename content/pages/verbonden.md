@@ -36,10 +36,10 @@ textblocks:
 
   textblocks:
 - 
-  title1: 'Over Callvoip & verbonden blijven'
-  content1: 'Wij hebben de campagne ‘Blijf verbonden met Callvoip’ gelanceerd, omdat wij standvastig geloven in optimale communicatie en daarmee de verbondenheid tussen mensen, bedrijven en hun business. Hierin bieden wij slimme Voip-oplossingen op maat. Persoonlijke en oplossingsgerichte service is voor ons niet vanzelfsprekend. Daar moet je elke dag weer je stinkende best voor doen.<br><br>Sinds de Coronacrisis aanbrak staan wij dagelijks nog meer in contact met onze klanten. Naast het bieden van adequate service en oplossingen zijn wij tevens een luisterend oor voor de tamelijk bizarre situaties waarin ondernemers zich plotsklaps bevonden. Het inspireerde ons om klanten met hun bijzondere verhalen een podium te geven voor zichzelf en mede-ondernemers. Doel? Het blijven creëren van verbondenheid door naast elkaar te staan. Juist in deze tijden.'
-  title2: ''
-  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1591264495/IMG-20200602-WA0002_ntghmf.jpg">'
+  title2: 'Over Callvoip & verbonden blijven'
+  content2: 'Wij hebben de campagne ‘Blijf verbonden met Callvoip’ gelanceerd, omdat wij standvastig geloven in optimale communicatie en daarmee de verbondenheid tussen mensen, bedrijven en hun business. Hierin bieden wij slimme Voip-oplossingen op maat. Persoonlijke en oplossingsgerichte service is voor ons niet vanzelfsprekend. Daar moet je elke dag weer je stinkende best voor doen.<br><br>Sinds de Coronacrisis aanbrak staan wij dagelijks nog meer in contact met onze klanten. Naast het bieden van adequate service en oplossingen zijn wij tevens een luisterend oor voor de tamelijk bizarre situaties waarin ondernemers zich plotsklaps bevonden. Het inspireerde ons om klanten met hun bijzondere verhalen een podium te geven voor zichzelf en mede-ondernemers. Doel? Het blijven creëren van verbondenheid door naast elkaar te staan. Juist in deze tijden.'
+  title1: ''
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1591266530/2020-06-04_swgxm3.png">'
   title3: ''
   content3: ''
   
