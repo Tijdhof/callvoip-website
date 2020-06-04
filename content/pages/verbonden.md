@@ -8,8 +8,6 @@ searchtags:
 description: Ondernemers staan op met inspirerende podcasts tijdens en na de coronacrisis. Blijf verbonden met Callvoip.
 hero:
   content:
-    title: 'Deze ondernemers stonden op tijdens de Coronacrisis..'
-    align: center
   image: "/v1570097106/WhatsApp_Image_2020-06-04_at_10.43.51_fvigws.png"
   title: Blijf verbonden met Callvoip
   disable_image_on_mobile: true
