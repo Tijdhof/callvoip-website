@@ -1,5 +1,5 @@
 ---
-title: Gratis uitproberen
+title: Voorbeeld landingspage
 url: voorbeeld2
 type: page
 hero:
@@ -8,7 +8,7 @@ hero:
     text: Moderne telefooncentrale in de cloud en maatwerk inrichting.
     align: center
   image: "/v1570097106/tour-temp.jpg_ubosii.png"
-  title: Gratis uitproberen
+  title: Voorbeeld landingspage
   disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
