@@ -18,8 +18,8 @@ layout: landing
 textblocks:
 - 
   title1: 'Webcalls'
-  top_title: 'Callvoip Casts'
-  top_content: "Handige instructie videos over de telefooncentrale van Callvoip."
+  top_title: 'Blijf verbonden met Callvoip'
+  top_content: "Hoe zorg je dat je verbonden blijft met je business tijdens de Coronacrisis en daarna? Wij interviewden een 3-tal inspirerende ondernemers en tevens klanten van Callvoip. Allen hebben bedrijven in branches die zwaar getroffen werden door de ‘intelligente lockdown’. Geen klanten betekende geen omzet. Zij besloten niet bij de pakken neer te gaan zitten. Ze stonden op, voerden innovatief verandermanagement door en blijven bovenal verbonden. Ontmoet;"
   content1: 'Leer hoe je Webcalls, ofwel browser based bellen, inschakelt en gebruikt.<br><br><br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/jiQnIEtEL64" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title2: 'Yealink bedrijfstelefoonboek'
