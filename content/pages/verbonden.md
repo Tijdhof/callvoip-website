@@ -8,7 +8,7 @@ searchtags:
 description: Ondernemers staan op met inspirerende podcasts tijdens en na de coronacrisis. Blijf verbonden met Callvoip.
 hero:
   content:
-  image: "/v1570097106/verbonden_rqdmvf.png"
+  image: "/v1570097106/headerverbonden_rk9bqz.png"
   title: <br><br>Blijf verbonden met Callvoip
   disable_image_on_mobile: true
   link: ''
@@ -23,13 +23,13 @@ blocks:
   image_position: ''
 textblocks:
 - 
-  title1: 'Marenland Recreatie - Robbert van Barneveld'
+  title1: 'Marenland Recreatie<br>Robbert van Barneveld'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/jiQnIEtEL64" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div><br>Enigszins verscholen in het pittoreske Groningse dorpje Winsum ligt het pareltje; Marenland Recreatie. De piepjonge broers Robbert en Ruud van Barneveld runnen er een camping, restaurant, terras en tal van recreatiesporten aan het water. Een prachtige onderneming maar toen was daar Corona. Robbert vertelt hoe ze zichzelf nog beter en anders organiseerden om deze crisis het hoofd te bieden..'
-  title2: 'Wagner - Prof. drs. Philip Wagner & Daniël Folkersma'
+  title2: 'Wagner<br>Prof. drs. Philip Wagner en Daniël Folkersma'
   content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/xgbHSHdr2Fs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div><br>Wagner aan de Hoge der A is een collectief van ondernemers die kennis adviseren, ontwikkelen, en doceren. Dit doen zij wereldwijd met investeringen en partnerschappen op het gebied van; ‘greentech’, ‘bluetech’ en behoud van natuur. Door stenen te verleggen willen zij met hun inzichten en expertise positief bijdragen aan grote maatschappelijke vraagstukken. Geestelijk vader Philip Wagner en adviseur Daniël Folkersma schoven aan voor een gesprek aan de mooiste straat van Groningen, om te spreken over de huidige crisis, hun innovatieve aanpak en hoe je jezelf als ondernemer wapent tegen dergelijke toestanden. Hoofdmoot is dat we gedwongen terug moeten naar de kern van de producten/diensten die bedrijven aanbieden. Luister mee..'
-  title3: 1Kapper.nl - Arjan Cruiming
+  title3: 1Kapper.nl<br>Arjan Cruiming
   content3: '<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/75RMFmIlSfY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div><br>Rasondernemer Arjan Cruiming is een pionier in het ontwikkelen en vermarkten van succesvolle ICT-concepten. Bijvoorbeeld zijn online boekingsplatform ‘1Kapper.nl’. Hartstikke goed bedacht, gedegen doorontwikkeld, met als voornaamste doel; gemak, ontzorging en service voor de klant en eindgebruiker. Ondertussen mag hij half knippend Nederland tot zijn klandizie rekenen. Gaaf toch? Arjan zat eerst wel even met de handen in het haar bij aanvang van de crisis want; een platform op basis van no cure - no pay dus simpelweg meer dan een maand geen omzet. Toch bleef hij focussen op development, testen en klantgerichte service bieden. Toen was daar de bevrijdende persconferentie van Meneer Rutte en mochten kappers weer los! En dat gingen ze.. Arjan vertelt erover.'
   show_vshape: false
