@@ -9,7 +9,7 @@ description: Ondernemers staan op met inspirerende podcasts tijdens en na de cor
 hero:
   content:
   image: "/v1570097106/headerverbonden_loeuis.png"
-  title: 'Blijf verbonden met Callvoip'
+  title: 'Blijf verbonden met Callvoip!'
   disable_image_on_mobile: true
   link: ''
 images:
