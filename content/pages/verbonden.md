@@ -8,7 +8,7 @@ searchtags:
 description: Ondernemers staan op met inspirerende podcasts tijdens en na de coronacrisis. Blijf verbonden met Callvoip.
 hero:
   content:
-  image: "/v1570097106/WhatsApp_Image_2020-06-04_at_10.43.51_fvigws.png"
+  image: "/v1570097106/verbonden_rqdmvf.png"
   title: Blijf verbonden met Callvoip
   disable_image_on_mobile: true
   link: ''
@@ -16,13 +16,10 @@ images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
 blocks:
-- content: Callvoip zorgt ervoor dat jij als ondernemer altijd bereikbaar bent en
-    dat gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken. Callvoip begeleidt je daar graag bij en zo heb je
-    alles onder één dak.
-  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
-  position: image_left
-  title: De beste telefonie voor het MKB!
+- content: Hoe zorg je dat je verbonden blijft met je business tijdens de Coronacrisis en daarna? Wij interviewden een 3-tal inspirerende ondernemers en tevens klanten van Callvoip. Allen hebben bedrijven in branches die zwaar getroffen werden door de ‘intelligente lockdown’. Geen klanten betekende geen omzet. Zij besloten niet bij de pakken neer te gaan zitten. Ze stonden op, voerden innovatief verandermanagement door en blijven bovenal verbonden. Ontmoet;
+  image: ""
+  position: image_right
+  title: Blijf verbonden met Callvoip
   image_position: ''
 textblocks:
 - 
