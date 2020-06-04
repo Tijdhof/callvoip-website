@@ -14,15 +14,6 @@ description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
-textblocks:
-- content1: ''
-  title1: ''
-  title2: ''
-  top_title: ' '
-  top_content: "Zullen we samen kort kijken wat voor jouw specifieke situatie de beste telefonieoplossing is?<br>Doen we meteen de grand
-  tour door onze centrale. Geef ons een half uurtje en we laten jou zien<br>waarom wij zo enthousiast zijn."
-  content2: ''
-  show_vshape: false
 blocks:
 - title: 'Zakelijke telefonie, veilig in de cloud'
   content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!<br><br>
