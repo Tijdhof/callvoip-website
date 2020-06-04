@@ -33,11 +33,5 @@ textblocks:
   content3: '<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/75RMFmIlSfY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div><br>Rasondernemer Arjan Cruiming is een pionier in het ontwikkelen en vermarkten van succesvolle ICT-concepten. Bijvoorbeeld zijn online boekingsplatform ‘1Kapper.nl’. Hartstikke goed bedacht, gedegen doorontwikkeld, met als voornaamste doel; gemak, ontzorging en service voor de klant en eindgebruiker. Ondertussen mag hij half knippend Nederland tot zijn klandizie rekenen. Gaaf toch? Arjan zat eerst wel even met de handen in het haar bij aanvang van de crisis want; een platform op basis van no cure - no pay dus simpelweg meer dan een maand geen omzet. Toch bleef hij focussen op development, testen en klantgerichte service bieden. Toen was daar de bevrijdende persconferentie van Meneer Rutte en mochten kappers weer los! En dat gingen ze.. Arjan vertelt erover.'
   show_vshape: false
-textblocks:
-- 
-  title1: 'Over Callvoip & verbonden blijven'
-  content1: 'Wij hebben de campagne ‘Blijf verbonden met Callvoip’ gelanceerd, omdat wij standvastig geloven in optimale communicatie en daarmee de verbondenheid tussen mensen, bedrijven en hun business. Hierin bieden wij slimme Voip-oplossingen op maat. Persoonlijke en oplossingsgerichte service is voor ons niet vanzelfsprekend. Daar moet je elke dag weer je stinkende best voor doen.<br><br>Sinds de Coronacrisis aanbrak staan wij dagelijks nog meer in contact met onze klanten. Naast het bieden van adequate service en oplossingen zijn wij tevens een luisterend oor voor de tamelijk bizarre situaties waarin ondernemers zich plotsklaps bevonden. Het inspireerde ons om klanten met hun bijzondere verhalen een podium te geven voor zichzelf en mede-ondernemers. Doel? Het blijven creëren van verbondenheid door naast elkaar te staan. Juist in deze tijden.'
-  title2: ''
-  content2: '<img src="/v1570097106/IMG-20200602-WA0002_ntghmf.jpg">
 
 ---
