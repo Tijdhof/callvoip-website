@@ -19,7 +19,7 @@ blocks:
 - content: 'Hoe zorg je dat je verbonden blijft met je business tijdens de Coronacrisis en daarna?<br>Wij interviewden een 3-tal inspirerende ondernemers en tevens klanten van Callvoip. Allen hebben bedrijven in branches die zwaar getroffen werden door de ‘intelligente lockdown’. Geen klanten betekende geen omzet. Zij besloten niet bij de pakken neer te gaan zitten. Ze stonden op, voerden innovatief verandermanagement door en blijven bovenal verbonden.<br><br><b>Ontmoet:</b>'
   image: "/v1570097106/400x400_loyfdk.png"
   position: image_right
-  title: Blijf verbonden met Callvoip
+  title: <br><br>Blijf verbonden met Callvoip
   image_position: ''
 textblocks:
 - 
@@ -39,14 +39,14 @@ textblocks:
   title2: 'Over Callvoip & verbonden blijven'
   content2: 'Wij hebben de campagne ‘Blijf verbonden met Callvoip’ gelanceerd, omdat wij standvastig geloven in optimale communicatie en daarmee de verbondenheid tussen mensen, bedrijven en hun business. Hierin bieden wij slimme Voip-oplossingen op maat. Persoonlijke en oplossingsgerichte service is voor ons niet vanzelfsprekend. Daar moet je elke dag weer je stinkende best voor doen.<br><br>Sinds de Coronacrisis aanbrak staan wij dagelijks nog meer in contact met onze klanten. Naast het bieden van adequate service en oplossingen zijn wij tevens een luisterend oor voor de tamelijk bizarre situaties waarin ondernemers zich plotsklaps bevonden. Het inspireerde ons om klanten met hun bijzondere verhalen een podium te geven voor zichzelf en mede-ondernemers. Doel? Het blijven creëren van verbondenheid door naast elkaar te staan. Juist in deze tijden.'
   title1: ''
-  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1591264495/IMG-20200602-WA0002_ntghmf.jpg"> Monumentale kantoorlocatie Wagne'
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1591264495/IMG-20200602-WA0002_ntghmf.jpg"> Monumentale kantoorlocatie Wagner'
   title3: ''
   content3: ''
   
   textblocks:
 - 
-  title1: 'Meer weten over de verbondenheid van Callvoip '
-  content1: 'Nieuwsgierig naar onze Voip-oplossingen? Maak dan kennis via onze persoonlijke rondleiding of neem vrijblijvend contact met ons op via 050 820 00 00.<br><div class="usp-list"><ul><li>24/7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div>'
+  title1: 'Meer over de verbondenheid van Callvoip?'
+  content1: 'Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons op via <br>050 820 00 00.<br><div class="usp-list"><ul><li>24 / 7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div><br><br><a href="/tour" class="button">Dit wil ik ook!</a>'
   title2: ' '
   content2: ' '
   title3: ''
