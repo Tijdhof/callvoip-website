@@ -5,7 +5,7 @@ type: page
 aliases: "verbonden"
 searchtags:
     - verbonden
-description: Callvoip casts, handige instructie videos over de telefooncentrale van Callvoip.
+description: Ondernemers staan op met inspirerende podcasts tijdens en na de coronacrisis. Blijf verbonden met Callvoip.
 hero:
   content:
     title: 'Deze ondernemers stonden op tijdens de Coronacrisis..'
