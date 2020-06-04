@@ -33,5 +33,8 @@ textblocks:
   content3: '<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/75RMFmIlSfY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div><br>Rasondernemer Arjan Cruiming is een pionier in het ontwikkelen en vermarkten van succesvolle ICT-concepten. Bijvoorbeeld zijn online boekingsplatform ‘1Kapper.nl’. Hartstikke goed bedacht, gedegen doorontwikkeld, met als voornaamste doel; gemak, ontzorging en service voor de klant en eindgebruiker. Ondertussen mag hij half knippend Nederland tot zijn klandizie rekenen. Gaaf toch? Arjan zat eerst wel even met de handen in het haar bij aanvang van de crisis want; een platform op basis van no cure - no pay dus simpelweg meer dan een maand geen omzet. Toch bleef hij focussen op development, testen en klantgerichte service bieden. Toen was daar de bevrijdende persconferentie van Meneer Rutte en mochten kappers weer los! En dat gingen ze.. Arjan vertelt erover.'
   show_vshape: false
+textblocks:
+- 
+  title1: 'Over Callvoip & verbonden blijven'
 
 ---
