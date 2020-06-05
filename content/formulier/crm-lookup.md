@@ -31,31 +31,23 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag VoIP CTI" >}}
+{{< form/fieldset "Aanvraag CRM lookup" >}}
 
 {{< form/input "CRM-pakket" required >}}
 
-{{< form/select "Aantal gebruikers" >}}
+{{< form/select "Basis of uitgebreid pakket" >}}
 
-{{< form/option "1" >}}
+{{< form/option "Basis" >}}
 
-{{< form/option "2" >}}
+{{< form/option "Uitgebreid" >}}
 
-{{< form/option "3" >}}
+{{</ form/select >}}
 
-{{< form/option "4" >}}
+{{< form/select "Nieuwe aanvraag of upgrade" >}}
 
-{{< form/option "5" >}}
+{{< form/option "Nieuwe aanvraag" >}}
 
-{{< form/option "6" >}}
-
-{{< form/option "7" >}}
-
-{{< form/option "8" >}}
-
-{{< form/option "9" >}}
-
-{{< form/option "10+" >}}
+{{< form/option "Upgrade" >}}
 
 {{</ form/select >}}
 
