@@ -60,7 +60,7 @@ options:
     tab: true
     iconimage: ''
   - icon: fa-tty
-    title: Kennis van de juiste apparaatur
+    title: Kennis van de juiste apparaatuur
     content: Of het nu gaat om IP toestellen, headsets, routers of accesspoint. Wij
       geven gratis advies en kunnen de apparatuur plug and play leveren.
     link: "/pages/webshop/"
