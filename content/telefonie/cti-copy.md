@@ -1,17 +1,17 @@
 ---
-title: Integratie met jouw CRM-pakket (VoIP CTI)
+title: Integratie VoIP CRM Lookup
 type: page
 layout: default
-aliases: "/cti-copy"
-logos: false
+aliases: "/crm-lookup"
+logos: true
 hero:
-  title: VoIP CTI
+  title: VoIP CRM Lookup
   content: 'Met VoIP CTI (= Computer Telephony Integration) verbindt u de Simmpl telefooncentrale
     met uw klantsysteem (CRM-, ERP- of administratiepakketten). '
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1577105792/cti_new_zkrvij.png"
+  image: "/v1577105792/CRM-Lookup_g2faga.jpg"
   image_position: center
   disable_image_on_mobile: false
   mobile: ''
@@ -33,7 +33,7 @@ blocks:
   title: Wat is er nodig en welke applicaties kun je koppelen?
   image_position: ''
 - title: Vergelijking met andere integratie
-  image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
+  image: "/v1566552826/image_ukvjnm.png"
   content: 'De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nJe weet
     het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
     basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
@@ -85,11 +85,6 @@ prijzen:
     title: Kosten VoIP CTI
 hideinsearch: true
 hideingoogle: true
-hidesocialshare: false
-double_content:
-  left:
-    undefined: ''
-  right:
-    undefined: ''
+hidesocialshare: true
 
 ---
