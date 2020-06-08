@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1577105792/CRM-Lookup_hsbm4k.png"
+  image: "/v1577105792/CRM-Lookup2_fjrovo.png"
   image_position: center
   disable_image_on_mobile: false
   mobile: ''
