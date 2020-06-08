@@ -16,7 +16,7 @@ images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing-podcast
 blocks:
-- content: 'Hoe zorg je dat je verbonden blijft met je business tijdens de Coronacrisis en daarna?<br>Wij interviewden een 3-tal inspirerende ondernemers en tevens klanten van Callvoip. Allen hebben bedrijven in branches die zwaar getroffen werden door de ‘intelligente lockdown’. Geen klanten betekende geen omzet. Zij besloten niet bij de pakken neer te gaan zitten. Ze stonden op, voerden innovatief verandermanagement door en blijven bovenal verbonden.<br><br><b>Ontmoet:</b>'
+- content: 'Hoe zorg je dat je verbonden blijft met je business tijdens de Coronacrisis en daarna?<br>Wij interviewden een 3-tal inspirerende ondernemers en tevens klanten van Callvoip. Allen hebben bedrijven in branches die zwaar getroffen werden door de ‘intelligente lockdown’. Geen klanten betekende geen omzet. Zij besloten niet bij de pakken neer te gaan zitten. Ze stonden op, voerden innovatief verandermanagement door en blijven bovenal verbonden. Hoor de verhalen....'
   image: ""
   position: image_right
   title: <br>Blijf verbonden met Callvoip
@@ -24,10 +24,10 @@ blocks:
 textblocks:
 - 
   title1: 'Marenland Recreatie<br>Robbert van Barneveld'
-  content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  content1: '<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/0JRZUvBWuBI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div><br>Enigszins verscholen in het pittoreske Groningse dorpje Winsum ligt het pareltje; Marenland Recreatie. De piepjonge broers Robbert en Ruud van Barneveld runnen er een camping, restaurant, terras en tal van recreatiesporten aan het water. Een prachtige onderneming maar toen was daar Corona. Robbert vertelt hoe ze zichzelf nog beter en anders organiseerden om deze crisis het hoofd te bieden..'
   title2: 'Wagner<br>Prof. drs. Philip Wagner en Daniël Folkersma'
-  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  content2: '<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/8DR4AeoWats" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div><br>Wagner aan de Hoge der A is een collectief van ondernemers die kennis adviseren, ontwikkelen, en doceren. Dit doen zij wereldwijd met investeringen en partnerschappen op het gebied van; ‘greentech’, ‘bluetech’ en behoud van natuur. Door stenen te verleggen willen zij met hun inzichten en expertise positief bijdragen aan grote maatschappelijke vraagstukken. Geestelijk vader Philip Wagner en adviseur Daniël Folkersma schoven aan voor een gesprek aan de mooiste straat van Groningen, om te spreken over de huidige crisis, hun innovatieve aanpak en hoe je jezelf als ondernemer wapent tegen dergelijke toestanden. Hoofdmoot is dat we gedwongen terug moeten naar de kern van de producten/diensten die bedrijven aanbieden. Luister mee..'
   title3: 1Kapper.nl<br>Arjan Cruiming
   content3: '<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
