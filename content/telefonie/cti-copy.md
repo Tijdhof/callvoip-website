@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1577105792/CRM-Lookup_g2faga.jpg"
+  image: "/v1577105792/CRM-Lookup_hsbm4k.png"
   image_position: center
   disable_image_on_mobile: false
   mobile: ''
@@ -28,25 +28,10 @@ blocks:
     In totaal kan er met <a href="https://www.callvoip.nl/ondersteuning/integraties/voip-cti/" target="_blank">meer dan 100 pakketten</a> een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met uw pakket?
 
     <a href="/ondersteuning/integraties/voip-cti-handleiding/" class="button">Hoe werkt het?</a>
-  image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
+  image: "/v1564654858/image_ukvjnm.png"
   position: image_left
   title: Wat is er nodig en welke applicaties kun je koppelen?
   image_position: ''
-- title: Vergelijking met andere integratie
-  image: "/v1566552826/image_ukvjnm.png"
-  content: 'De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nJe weet
-    het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
-    basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
-    een gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant
-    kostenloos.\n\nWil je meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
-    met een ruime keuze aan CRM- en ERP-pakketten. Deze biedt je een specifiekere
-    koppeling dan de click-to-dial.\n\nWil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
-    API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
-    te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
-    die de kunst van programmeren verstaan én de Callvoip API kennen. <br> <a href="/ondersteuning/integraties/cti-overzicht/"
-    class="button">Klaar om te koppelen</a>'
-  position: image_right
-  image_position: center
 usps:
   title: De voordelen op een rij
   content: 'Naast dat VoIP CTI een uitgebreide koppeling biedt, biedt het ook de volgende
