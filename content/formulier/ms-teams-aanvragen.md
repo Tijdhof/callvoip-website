@@ -1,7 +1,6 @@
 ---
-title: Callvoip MS Teams koppeling aanvragen
+title: Callvoip MS Teams koppeling
 url: "/aanvragen/ms-teams/"
-aliases: "/aanvragen/ms-teams/"
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
@@ -32,7 +31,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset " Aanvraag Callvoip MS Teams koppeling >}}
+{{< form/fieldset "Aanvraag VoIP CTI" >}}
+
+{{< form/input "CRM-pakket" required >}}
 
 {{< form/select "Aantal gebruikers" >}}
 
@@ -103,7 +104,7 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-€ 50,00 excl. BTW
+€ 150,00 excl. BTW
 
 {{</ layout/column3 >}}
 
