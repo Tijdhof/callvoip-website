@@ -3,7 +3,7 @@ title: Integratie VoIP CRM Lookup
 type: page
 layout: default
 aliases: "/crm-lookup"
-logos: true
+logos: false
 hero:
   title: VoIP CRM Lookup
   content: 'Met VoIP CTI (= Computer Telephony Integration) verbindt u de Simmpl telefooncentrale
