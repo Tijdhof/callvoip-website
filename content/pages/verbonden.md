@@ -9,7 +9,7 @@ description: Ondernemers staan op met inspirerende podcasts tijdens en na de cor
 hero:
   content:
   image: "/v1570097106/headerverbonden_loeuis.png"
-  title: '<br>Blijf verbonden met Callvoip'
+  title: 'Blijf verbonden met Callvoip'
   disable_image_on_mobile: true
   link: ''
 images:
@@ -19,7 +19,7 @@ blocks:
 - content: 'Hoe zorg je dat je verbonden blijft met je business tijdens de Coronacrisis en daarna?<br>Wij interviewden een 3-tal inspirerende ondernemers en tevens klanten van Callvoip. Allen hebben bedrijven in branches die zwaar getroffen werden door de ‘intelligente lockdown’. Geen klanten betekende geen omzet. Zij besloten niet bij de pakken neer te gaan zitten. Ze stonden op, voerden innovatief verandermanagement door en blijven bovenal verbonden.<br><br><b>Ontmoet:</b>'
   image: ""
   position: image_right
-  title: Blijf verbonden met Callvoip
+  title: <br>Blijf verbonden met Callvoip
   image_position: ''
 textblocks:
 - 
