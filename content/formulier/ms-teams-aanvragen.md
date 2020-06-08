@@ -1,6 +1,7 @@
 ---
 title: Callvoip MS Teams koppeling aanvragen
 url: "/aanvragen/ms-teams/"
+aliases: "/aanvragen/ms-teams/"
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
