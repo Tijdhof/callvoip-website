@@ -102,7 +102,7 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-€ 150,00 excl. BTW
+€ 50,00 excl. BTW
 
 {{</ layout/column3 >}}
 
