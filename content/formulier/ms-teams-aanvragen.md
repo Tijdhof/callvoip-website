@@ -96,13 +96,13 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-€ 0,00 excl. BTW
+€ Prijs nog onbekend
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 50,00 excl. BTW
+€ Prijs nog onbekend
 
 {{</ layout/column3 >}}
 
@@ -117,13 +117,13 @@ Per gebruiker
 
 {{< layout/column3 >}}
 
-€ 5,00 excl. BTW
+€ Prijs nog onbekend
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 0,00 excl. BTW
+€ Prijs nog onbekend
 
 {{</ layout/column3 >}}
 
