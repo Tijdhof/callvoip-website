@@ -76,12 +76,12 @@ blocks:
         url: /ondersteuning/algemeen/nieuwsbrieven-overzicht/
       - title: Mijn Callvoip (formulieren)
         url: /mijncallvoip/
-      - title: Blog - Whatsapp Business
-        url: /whatsapp-business-blog/
       - title: Blog - 10 Thuiswerktools
         url: /top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/
       - title: Blog - VoIP starter? 7 tips!
         url: /nieuws/voip-oplossing-voor-startende-ondernemers-7-tips/
+      - title: Callvoip interviewt
+        url: /verbonden/
   - title: Callvoip
     links:
       - title: Over ons
