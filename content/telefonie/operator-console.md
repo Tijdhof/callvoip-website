@@ -1,7 +1,9 @@
 ---
-title: Operator Console - Uitgebreide telefoniemogelijkheden via uw dashboard
-description: Het Operator Console is een dashboard met realtime gespreksinformatie
-  & verschillende telefonieacties. Ook biedt het trainingsmogelijkheden.
+title: Operator Console - Overzicht en actie in één plezierig panel!
+description: Het Operator Console is een dashboard waarin je realtime alle gespreksactiviteiten
+  ziet. Klik op je scherm en bel, verbind door en beëindig. Ook kun je met schermbediening
+  bellen, doorverbinden, en nog veel meer! Klik  etc. gespreksinformatie verschillende
+  telefonieacties. Ook biedt het trainingsmogelijkheden.
 images:
 - "/v1557821337/quadrant.png"
 type: page
@@ -17,6 +19,8 @@ hero:
     link: "/offerte/"
   image: "/v1566556342/pc_moke_up_sideway_x6f0n1.png"
   image_position: start
+  mobile: ''
+  disable_image_on_mobile: false
 blocks:
 - title: Wat is het?
   image: "/v1557821337/quadrant.png"
@@ -33,16 +37,16 @@ blocks:
     <a href="https://www.callvoip.nl/ondersteuning/extra-features/operatorpanel/" class="button">Hoe werkt het?</a>
   position: image_left
   image_position: center
-- title: Wat kunt u er precies mee?
+- title: Wat kunt je met de Operator Bedienpost?
   image: "/v1569935718/operatorconsole_rmrd9s.png"
   content: |-
-    Het Operator Console geeft een duidelijk overzicht van wat er gebeurt in de organisatie.
+    Het Operator Bedienpost geeft een duidelijk overzicht van wat er gebeurt in de organisatie.
 
     Ideaal voor:
 
     1. <b>Receptionisten</b>: zie in één oogopslag of collega’s beschikbaar zijn; klik en neem aan, verbind door, zet in de wacht of trek een gesprek naar je toe. Hou overzicht.
     2. <b>Supervisor</b>: zie in één oogopslag uw wachtrijen: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Klik door naar details per wachtrij (welke bellers wachten, worden geholpen).
-    3. <b>Trainer</b>: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister uw collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
+    3. <b>Trainer</b>: geavanceerde training voor inbound callcenter. Luister mee met gesprekken, fluister je collega iets toe of breek op het gesprek in (listen-in, whisper-in, barge-in).
   position: image_right
   image_position: ''
 usps:
@@ -73,14 +77,21 @@ prijzen:
   tarieven:
     items:
     - title: Maandelijks
-      price: '25.00'
+      price: 25.0
     - title: Eenmalig
-      price: '25.00'
+      price: 25.0
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
   button:
     title: Bereken het zelf
     link: "/calculator/"
 hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 
 ---
