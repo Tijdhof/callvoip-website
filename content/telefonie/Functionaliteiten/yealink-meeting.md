@@ -30,7 +30,7 @@ textblocksfooter:
   title1: 'Waarom Yealink Meeting?'
   content1: 'Met meldteksten maak je al veel duidelijk aan de beller voordat je de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kun je bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.<br><br><a href="https://www.callvoip.nl/ondersteuning/instructie-videos/meldteksten/" class="button">Hoe werkt het?</a>'
 prijzen:
-- title: Belgroep (Huntgroup)
+- title: Yealink Meeting
   content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
   button:
     title: Bereken je kosten
