@@ -11,7 +11,7 @@ aliases:
 hero:
   title: CRM Look up
   content: "De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen."
-  image: "/v1571655384/Layer_2_hxeh6b.png"
+  image: "/v1571655384/cti_new_zkrvij.png"
   image_position: center
   disable_image_on_mobile: false
   button:
