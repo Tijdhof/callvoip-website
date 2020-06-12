@@ -6,7 +6,7 @@ hero:
   content:
     title: Moderne telefooncentrale in de cloud en maatwerk inrichting.
     text: VoIP Telefonie - Slim en persoonlijk
-    align: center
+    align: left
   image: "/v1591963966/header_LP_TS_ocalz5.png"
   title: Callvoip - VoIP Telefonie - Slim en persoonlijk
   disable_image_on_mobile: true
