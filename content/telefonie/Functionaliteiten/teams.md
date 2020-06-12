@@ -8,7 +8,7 @@ aliases:
  - "/teams"
  - "/telefonie/functionaliteiten/teams/"
 hero:
-  title: Yealink Meeting 
+  title: MS Teams
   content: "De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen."
   image: "/v1571655384/yealinkmeeting2_secfkb.png"
   image_position: center
@@ -26,8 +26,8 @@ blocks:
 textblocksfooter:
 - title2: ''
   content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/SJ3MqDUWF9U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
-  title1: 'Waarom Yealink Meeting?'
+  <iframe src="https://www.youtube.com/embed/fSvf892i9y8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
+  title1: 'Waarom MS Teams?'
   content1: 'Met meldteksten maak je al veel duidelijk aan de beller voordat je de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kun je bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.<br><br><a href="https://www.callvoip.nl/ondersteuning/instructie-videos/meldteksten/" class="button">Hoe werkt het?</a>'
 prijzen:
 - title: Yealink Meeting
