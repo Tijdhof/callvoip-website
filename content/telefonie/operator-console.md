@@ -1,9 +1,11 @@
 ---
-title: Operator Console - Overzicht en actie in één plezierig panel!
-description: Het Operator Console is een dashboard waarin je realtime alle gespreksactiviteiten
-  ziet. Klik op je scherm en bel, verbind door en beëindig. Ook kun je met schermbediening
-  bellen, doorverbinden, en nog veel meer! Klik  etc. gespreksinformatie verschillende
-  telefonieacties. Ook biedt het trainingsmogelijkheden.
+title: Operator Bedienpost - Overzicht en actie in één plezierig panel!
+description: 'De Operator Bedienpost is een overzichtelijk live dashboard van al je
+  belverkeer: je ziet precies wat er gebeurt, wie in gesprek is, waarmee, en hoe lang.
+  Klik en je krijgt een presentatie van je wachtrij met overzichtelijk statistieken.
+  Je kunt bellen vanaf je scherm en als supervisor kun je ook inluisteren, influisteren
+  en inbreken op gesprekken van jouw team. Een must als de telefonie-hectiek groot
+  is!'
 images:
 - "/v1557821337/quadrant.png"
 type: page
@@ -77,9 +79,9 @@ prijzen:
   tarieven:
     items:
     - title: Maandelijks
-      price: 25.0
+      price: 25
     - title: Eenmalig
-      price: 25.0
+      price: 25
     title: Per gebruiker
     footer: Prijzen zijn excl. BTW
   button:
