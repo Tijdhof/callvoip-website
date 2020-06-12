@@ -69,7 +69,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< layout/column3 >}}
 
-Maandelijks
+Maandelijks per bedrijf
 
 {{</ layout/column3 >}}
 
@@ -85,7 +85,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-CRM Lookup - basis
+CRM Lookup - basic
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
