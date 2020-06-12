@@ -1,5 +1,5 @@
 ---
-title: Voorbeeld landingspage
+title: Callvoip - VoIP Telefonie - Slim en persoonlijk
 url: voorbeeld2
 type: page
 hero:
@@ -7,8 +7,8 @@ hero:
     title: Moderne telefooncentrale in de cloud en maatwerk inrichting.
     text: VoIP Telefonie - Slim en persoonlijk
     align: center
-  image: "/v1570097106/tour-temp.jpg_ubosii.png"
-  title: Voorbeeld landingspage
+  image: "/v1591963966/header_LP_TS_ocalz5.png"
+  title: Callvoip - VoIP Telefonie - Slim en persoonlijk
   disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
