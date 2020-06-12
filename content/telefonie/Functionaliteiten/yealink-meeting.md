@@ -11,7 +11,7 @@ aliases:
 hero:
   title: Yealink Meeting 
   content: "De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen."
-  image: "/v1571655384/yealinkmeeting2_secfkb.png"
+  image: "/v1571655384/YMS_azudl0.png"
   image_position: center
   disable_image_on_mobile: false
   button:
@@ -20,7 +20,7 @@ hero:
 blocks:
 - content: |-
     Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv. Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling, achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen. Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk voor de afdeling sales is bedoeld.
-  image: "/v1572861318/YMS_azudl0.png"
+  image: "/v1572861318/yealinkmeeting2_secfkb.png"
   position: image_left
   title: 'Extra info block'
   image_position: center
