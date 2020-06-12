@@ -1,5 +1,5 @@
 ---
-title: Yealink Meeting | Video-bellen met YealinkMeeting
+title: Yealink Meeting | Video-bellen met Yealink Meeting
 description: 'Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting,
   een betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
   één klik toegang krijgen tot een video vergadering en met iedereen – waar en wanneer
@@ -49,8 +49,9 @@ textblocksfooter:
     verschillende meldteksten.
 prijzen:
 - title: Yealink Meeting
-  content: Yealink Meeting is gratis met een Limiet van 40 min. voor elke vergadering.
-    Betaalde standaard/zakelijke abonnementen zijn ook beschikbaar.
+  content: 'Yealink Meeting is er in diverse varianten, startend met een gratis dienst
+    met max. gespreksduur van 40 minuten. Profiteer van 1 maand gratis 1 maand account
+    upgrade. '
   button:
     title: Bereken je kosten
     link: "/calculator/"
