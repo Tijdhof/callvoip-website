@@ -54,6 +54,10 @@ usps:
       link: "/aanvragen/conference/"
     - title: Importeren telefoonboek Click-to-Dial
       link: "/aanvragen/importeren-telefoonboek-c2d/"
+    - title: CRM Lookup koppeling
+      link: "/aanvragen/crm-lookup/"
+    - title: MS Teams koppeling 
+      link: "/aanvragen/ms-teams/"
   - title: Overig
     items:
     - title: Belbundel
@@ -64,6 +68,8 @@ usps:
       link: "/aanvragen/srtp/"
     - title: Gidsvermelding
       link: "/aanvragen/gidsvermelding/"
+    - title: YealinkMeeting videobellen
+      link: "/aanvragen/yealink-meeting/"
 - title: Wijzigen
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
     Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
