@@ -52,6 +52,7 @@ pages:
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
 - content/ondersteuning/Integraties/click-to-dial.md
 - content/ondersteuning/Integraties/handleiding-crm-lookup.md
+- content/ondersteuning/Integraties/handleiding-ms-teams.md
 - content/ondersteuning/Integraties/realtime-api.md
 - content/ondersteuning/Integraties/voip-cti-handleiding.md
 - content/ondersteuning/Integraties/voip-cti.md
@@ -61,6 +62,7 @@ pages:
 - content/ondersteuning/algemeen/overzicht-sip-statuscodes.md
 - content/ondersteuning/algemeen/storing.md
 - content/ondersteuning/call-pickup.md
+- content/ondersteuning/extra-features/handleiding-yealink-meeting.md
 - content/ondersteuning/extra-features/snelstart-whatsapp-business.md
 - content/ondersteuning/fax-voicemail/fax-versturen-zonder-faxapparaat.md
 - content/ondersteuning/fax-voicemail/fax-versturen.md
