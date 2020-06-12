@@ -4,7 +4,7 @@ url: voorbeeld2
 type: page
 hero:
   content:
-    title: Moderne telefooncentrale in de cloud en maatwerk inrichting.
+    title: Moderne telefooncentrale in de cloud<br>met maatwerk inrichting.
     text: VoIP Telefonie - Slim en persoonlijk
     align: left
   image: "/v1591963966/header_LP_TS_ocalz5.png"
