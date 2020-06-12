@@ -19,7 +19,7 @@ hero:
 blocks:
 - content: |-
     Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv. Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling, achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen. Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk voor de afdeling sales is bedoeld.
-  image: "/v1572861318/yealinkmeeting_yervqy.png"
+  image: "/v1572861318/msteams2_voflho.png"
   position: image_left
   title: 'Extra info block'
   image_position: center
@@ -30,7 +30,7 @@ textblocksfooter:
   title1: 'Waarom MS Teams?'
   content1: 'Met meldteksten maak je al veel duidelijk aan de beller voordat je de beller aan de lijn hebt. De beller weet bijvoorbeeld of hij/zij het juiste nummer heeft gebeld. Ook kun je bijvoorbeeld belletjes filteren met een keuzemenu i.c.m. verschillende meldteksten.<br><br><a href="https://www.callvoip.nl/ondersteuning/instructie-videos/meldteksten/" class="button">Hoe werkt het?</a>'
 prijzen:
-- title: Yealink Meeting
+- title: MS Teams
   content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
   button:
     title: Bereken je kosten
