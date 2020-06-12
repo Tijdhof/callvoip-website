@@ -123,4 +123,25 @@ CRM Lookup - customized
 
 {{</ layout/columns >}}
 
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+CRM Lookup1 - customized
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 49,10 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 131,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
 {{</ form >}}
