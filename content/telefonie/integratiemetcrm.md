@@ -19,13 +19,13 @@ blocks:
 - content: |-
     <br> Voor VoIP CTI heb je nodig:
 
-    • een Windows-PC of Server. Aan Apple-mogelijkheden wordt gewerkt <br>
-    • een CRM-pakket: check hier of neem contact op <br>
-    • de Callvoip telefooncentrale met VoIP CTI gebruikerslicenties<br>
+    • de Callvoip telefooncentrale<br>
+    • een Windows-PC (aan Apple-mogelijkheden wordt gewerkt) <br>
+    • jouw CRM-pakket, bv Realworks, Afas, Exact, Pipedrive, Simplicate, etc. <br>
 
-    Voor veel pakketten is de installatie eenvoudig: installeer de Client software per gebruiker en gebruik de CRM Configurator om de koppeling tot stand te brengen.
+    Voor veel pakketten is de installatie eenvoudig, en wij doen het werk. We installeren de software om de koppeling in te stellen. Zo profiteer jij snel van de voordelen!
 
-    In totaal kan er met <a href="https://www.callvoip.nl/ondersteuning/integraties/voip-cti/" target="_blank">meer dan 100 pakketten</a> een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met uw pakket?
+    In totaal kan er met <a href="https://www.callvoip.nl/ondersteuning/integraties/voip-cti/" target="_blank">meer dan 100 pakketten</a> een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met jouw pakket?
 
     <a href="/ondersteuning/integraties/voip-cti-handleiding/" class="button">Hoe werkt het?</a>
   image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
@@ -61,8 +61,10 @@ usps:
   - icon: fa-comment-alt-smile
     title: Werknemerstevredenheid
     content: Het werk wordt gemakkelijker, geen verkeerde nummers meer!
-description: Met VoIP CTI verbind je je Windowsomgeving met je Callvoip telefoonsysteem.
-  Zo integreer je de telefonie eenvoudig met je klantsysteem (CRM-, ERP- en administratiepakketten).
+description: 'Met VoIP CTI koppel je jouw Callvoip telefoonsysteem met je CRM- of
+  ERP-pakket. Elk inkomend telefoontje wordt opgezocht in jouw systeem, je ziet gelijk
+  de informatie die je wilt zien en met één klik heb je de klantenkaart voor je. Na
+  een uur wil je niet meer zonder.   '
 images:
 - "/v1567165784/icon_hwk0eh.png"
 intro:
@@ -79,9 +81,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks per gebruiker
-      price: 5.0
+      price: 5
     - title: Eenmalig per organisatie
-      price: 150.0
+      price: 150
     title: Kosten VoIP CTI
 hideinsearch: false
 hideingoogle: false
