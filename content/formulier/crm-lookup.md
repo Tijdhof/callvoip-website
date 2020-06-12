@@ -85,18 +85,18 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Per organisatie
+CRM Lookup - basis
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 0,00 excl. BTW
+€ 29,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 150,00 excl. BTW
+€ 75,00 excl. BTW
 
 {{</ layout/column3 >}}
 
@@ -106,18 +106,18 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-Per gebruiker
+CRM Lookup - customized
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 5,00 excl. BTW
+€ 49,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 0,00 excl. BTW
+€ 130,00 excl. BTW
 
 {{</ layout/column3 >}}
 
