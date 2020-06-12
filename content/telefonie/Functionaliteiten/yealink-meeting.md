@@ -6,6 +6,7 @@ layout: default
 logos: true
 aliases: 
  - "/yealink-meeting"
+ - "/yealinkmeeting"
  - "/telefonie/functionaliteiten/yealink-meeting/"
 hero:
   title: Yealink Meeting 
