@@ -34,9 +34,9 @@ blocks:
   image_position: ''
 - title: Vergelijking met andere integratie
   image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
-  content: 'De Simmpl telefooncentrale van Callvoip is klaar om te koppelen!\nJe weet
-    het: we houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een
-    basisintegratie biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
+  content: 'De Callvoip telefooncentrale is klaar om te koppelen!\nJe weet het: we
+    houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een basisintegratie
+    biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
     een gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant
     kostenloos.\n\nWil je meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
     met een ruime keuze aan CRM- en ERP-pakketten. Deze biedt je een specifiekere
