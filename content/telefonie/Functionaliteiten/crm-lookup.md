@@ -19,7 +19,7 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv. Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling, achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen. Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk voor de afdeling sales is bedoeld.<br><br><a href="https://www.callvoip.nl/ondersteuning/instructie-videos/meldteksten/" class="button">Hoe werkt het?</a>
+    Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv. Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling, achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen. Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk voor de afdeling sales is bedoeld.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/Screenshot_20_ntdrwg.png"
   position: image_left
   title: 'Waarom CRM Look up?'
