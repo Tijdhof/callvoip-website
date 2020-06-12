@@ -37,9 +37,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/select "Basis of uitgebreid pakket" >}}
 
-{{< form/option "Basis" >}}
+{{< form/option "Basic" >}}
 
-{{< form/option "Uitgebreid" >}}
+{{< form/option "Customized" >}}
 
 {{</ form/select >}}
 
