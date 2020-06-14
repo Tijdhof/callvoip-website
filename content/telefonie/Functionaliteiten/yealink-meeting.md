@@ -25,10 +25,10 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    Gebruiksvriendelijk: videobellen en -vergaderen met één klik vanuit email of link. Gemakkelijk scherm, en deel jouw beeldscherm in één klik. <br>
+    <b>Gebruiksvriendelijk:</b> videobellen en -vergaderen met één klik vanuit email of link. Gemakkelijk scherm, en deel jouw beeldscherm in één klik. <br>
     Veiligheid: voldoet aan de AVG en strikt beheer van databeveiligingseisen. Alle gegevens zijn AES-256 versleuteld, en alle signalen zijn TLS-gecodeerd en voorzien van een conferentie-vergrendeling met pincode. <br>
-    Wereldwijd: hoge kwaliteit ook als u vergadert met gesprekspartners op een verre locatie dankzij een brede video-infrastructuur over de hele wereld.<br>
-    Compatibiliteit: voor elke deelnemer is de vergadering maar 2 klikken verwijderd: Windows of Apple, Android of iPhone, van smartphone tot tablet en chromebook, alles werkt. Zelfs Microsoft Teams, Skype én natuurlijk je Yealink IP-telefoon: iedereen is welkom. Klik en log in zonder installatie via de web browers.<br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/handleiding-yealink-meeting/" class="button">Hoe werkt het?</a>
+    <b>Werkt wereldwijd:</b> hoge kwaliteit ook als u vergadert met gesprekspartners op een verre locatie dankzij een brede video-infrastructuur over de hele wereld.<br>
+    <b>Altijd compatible:</b> voor elke deelnemer is de vergadering maar 2 klikken verwijderd: Windows of Apple, Android of iPhone, van smartphone tot tablet en chromebook, alles werkt. Zelfs Microsoft Teams, Skype én natuurlijk je Yealink IP-telefoon: iedereen is welkom. Klik en log in zonder installatie via de web browers.<br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/handleiding-yealink-meeting/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/Interoperabiliteit__orty14.png"
   position: image_left
   title: 'Waarom Yealink Meeting? '
