@@ -43,3 +43,24 @@ Doorloop deze stappen en start over 5 minuten met een videocall:
    ![](https://res.cloudinary.com/callvoip/image/upload/v1592244410/YM_app_1_xrmlpo.jpg)
 4. Nodig deelnemers uit met de link, login of QR Scancode: ![](https://res.cloudinary.com/callvoip/image/upload/v1592244511/YM_app_2_f51puc.jpg)
 5. Klaar! Uw videocall is gestart.
+
+<h3>Hoe log je in op een YealinkMeeting videocall?</h3>
+
+De persoon die je uitnodigt voor een videocall ontvangt jouw uitnodiging met link, logingegevens of scancode. Hij/zij kan deelnemen met zijn smartphone of PC. Dat gaat als volgt:  
+
+1. Open de uitnodiging op een Apple of Windows computer  
+   Kies of je wilt werken met de App of vanuit de browser (geen installatie) en volg de instructies  
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1592244917/YM_app_3_r6tm6u.jpg)
+2. Open de uitnodiging op een Smartphone  
+   Klik en installeer de app, log in en stel je voorkeuren in. 
+
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1592244979/app_afbeeldingen_150620MT_otpemb.jpg)
+
+<h3>Wat is er nodig om met een videocall mee te doen?</h3>
+
+Om aan een videocall mee te doen is een smartphone of een PC / Mac al genoeg. Voor beeld is een camera nodig, voor geluid is een box nodig. Er zijn leuke producten om je (thuis-)kantoor met deze zaken uit te breiden. Voor vergaderzalen en boardrooms zijn er grotere oplossingen zodat alle aanwezigen gezien en gehoord kunnen worden.   
+  
+Een overzicht:  ![](https://res.cloudinary.com/callvoip/image/upload/v1592245491/assortiment_hxhsie.jpg)
+
+Voor meer informatie: bezoek callvoip.shop of yealinkshop.nl.  
+We denken graag met je mee, voel je vrij om ons te bellen, mailen of je vraag via onze website chat te stellen. 
