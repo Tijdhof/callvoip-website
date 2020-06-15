@@ -11,7 +11,6 @@ Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf
 
 ---
-**Download<br>**
 <a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf">Download</a> de PDF handleiding.
 
 **Videobellen zonder gedoe? Ontdek Yealink Meeting!**  
@@ -21,9 +20,6 @@ Daarom is het waardevol voor overleg met je team of een collega; een intake-gesp
 
 **Wat kost het?** Er is al een gratis licentie; je kunt gelijk aan de slag en een videocall starten.  
 Met de gratis editie van Yealink Meeting voer je videocalls van max. 40 minuten. Wil je langer bellen, en/of Yealink camera’s toevoegen? Breid dan uit naar een Enterprise licentie.
-
-Ontvang een GRATIS Demolicentie voor Yealink Meeting Enterprise voor 30 dagen.  
-Neem contact op en/of geef je Yealink Meeting account ID door.
 
 <h3>Yealink Meeting: de mogelijkheden op een rij:</h3>
 
@@ -37,13 +33,13 @@ Neem contact op en/of geef je Yealink Meeting account ID door.
 8. **Voeg een Yealink Room System toe**: een audio-video module voor jouw vergaderruimte
 9. **Eenvoudige, Nederlandstalige bediening**
 
-<h3>Snelstart: aanmelding en gebruik</h3>
+<h3>Snelstart: aanmelding en een videogesprek starten</h3>
 
-Doorloop deze stappen en start over 5 minuten met een videocall: 
+Doorloop deze stappen en start over 5 minuten met een videocall:
 
-1. Setup; ga naar YealinkMeeting.com en meld je gratis aan 
+1. Setup; ga naar YealinkMeeting.com en meld je gratis aan
 2. [Download de Yealink Meeting app](https://yealinkmeeting.com/portal/pc/Download) en log in
-3. Klik op de oranje Start-button om een videocall te starten:   
+3. Klik op de oranje Start-button om een videocall te starten:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1592244410/YM_app_1_xrmlpo.jpg)
 4. Nodig deelnemers uit met de link, login of QR Scancode: ![](https://res.cloudinary.com/callvoip/image/upload/v1592244511/YM_app_2_f51puc.jpg)
-5. Klaar! Uw videocall is gestart. 
+5. Klaar! Uw videocall is gestart.
