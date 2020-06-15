@@ -14,11 +14,11 @@ aliases:
 - "/telefonie/functionaliteiten/yealink-meeting/"
 hero:
   title: Yealink Meeting
-  content: Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting,
+  content: 'Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting,
   een betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
   één klik toegang krijgen tot een video vergadering en met iedereen – waar en wanneer
   dan ook – persoonlijk kunnen communiceren. Een perfecte oplossing voor de tijd van
-  nu.
+  nu.'
   image: "/v1571655384/YMS_azudl0.png"
   image_position: center
   disable_image_on_mobile: false
