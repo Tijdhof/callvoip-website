@@ -8,6 +8,7 @@ hideingoogle: false
 hidesocialshare: false
 Nieuw: false
 Update: false
-pdf: ''
+pdf: 'http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf'
 
 ---
+<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf">Download</a> de PDF handleiding.
