@@ -1,16 +1,19 @@
 ---
 title: CRM Look up | Integratie
-description: Met de belgroep (huntgroep) laat u meerdere interne toestellen en externe nummers simultaan, of in een specifieke volgorde, rinkelen.
+description: Met de belgroep (huntgroep) laat u meerdere interne toestellen en externe
+  nummers simultaan, of in een specifieke volgorde, rinkelen.
 type: page
 layout: default
 logos: true
-aliases: 
- - "/crm-lookup"
- - "/crmlookup"
- - "/telefonie/functionaliteiten/crm-lookup/"
+aliases:
+- "/crm-lookup"
+- "/crmlookup"
+- "/telefonie/functionaliteiten/crm-lookup/"
 hero:
   title: CRM Look up
-  content: "De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor kiezen in welke volgorde de toestellen rinkelen."
+  content: De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één
+    of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor
+    kiezen in welke volgorde de toestellen rinkelen.
   image: "/v1571655384/cti_new_zkrvij.png"
   image_position: center
   disable_image_on_mobile: false
@@ -18,15 +21,19 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
 blocks:
-- content: |-
-    Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv. Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling, achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen. Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk voor de afdeling sales is bedoeld.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup/" class="button">Hoe werkt het?</a>
+- content: "Koppel de Click to Dial chrome app nu ook met je CRM!<br>\nDeze CRM-pakketten
+    zijn hiervoor geschikt:<br>\n1.\tZendesk\n2.\tTeamleader\n3.\tSalesforce\n4.\tAfas\n5.\tGoogle
+    Contacts\n6.\tExact online\n7.\tFreshdesk\n8.\tSimplicate\n9.\tZoHo CRM\n10.\tOffice
+    365 contacts\n<br><a href=\"https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup/\"
+    class=\"button\">Hoe werkt het?</a>"
   image: "/v1572861318/Screenshot_20_ntdrwg.png"
   position: image_left
-  title: 'Waarom CRM Look up?'
+  title: Waarom CRM Look up?
   image_position: center
 prijzen:
 - title: CRM Look up
-  content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
+  content: Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl.
+    BTW voor betaalt)
   button:
     title: Bereken je kosten
     link: "/calculator/"
