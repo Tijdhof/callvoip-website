@@ -1,13 +1,16 @@
 ---
-title: Whatsapp Businessg | VoIP-Functionaliteit | Whatsapp via jouw kantoornummer
-description: Het whatsapp account is alleen gekoppeld aan jouw kantoornummer i.p.v. mobiel. Ja, dat kan dus met je vaste nummer!
+title: Whatsapp Business | VoIP-Functionaliteit | Whatsapp via jouw kantoornummer
+description: Het whatsapp account is alleen gekoppeld aan jouw kantoornummer i.p.v.
+  mobiel. Ja, dat kan dus met je vaste nummer!
 type: page
 layout: default
 logos: true
 aliases: "/telefonie/functionaliteiten/whatsapp/"
 hero:
   title: Whatsapp Business
-  content: 'Met Whatsapp Business kun je vanaf je vaste nummer whatsapp-berichten sturen en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten en de mogelijkheid tot labels toekennen aan een conversatie.'
+  content: Met Whatsapp Business kun je vanaf je vaste nummer whatsapp-berichten sturen
+    en ontvangen. Verder biedt het een uitgebreid bedrijfsprofiel, automatische berichten
+    en de mogelijkheid tot labels toekennen aan een conversatie.
   image: "/v1571655384/whatspp4_spfksz.png"
   image_position: center
   disable_image_on_mobile: false
@@ -29,7 +32,7 @@ blocks:
   image_position: center
 prijzen:
 - title: Whatsapp Business
-  content: 'Deze functionaliteit is een gratis tool en is dus voor iedereen beschikbaar'
+  content: Deze functionaliteit is een gratis tool en is dus voor iedereen beschikbaar
   button:
     title: Bereken je kosten
     link: "/calculator/"
