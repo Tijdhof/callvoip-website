@@ -1,9 +1,11 @@
 ---
-title: Callvoip Yealink Meeting
+title: Callvoip Yealink Meeting aanvragen
 url: "/aanvragen/yealink-meeting/"
 
 ---
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht. Wij nemen contact op om je te assisteren bij de ingebruikname van Yealink Meeting.   
+  
+Na aanvraag tijdelijk 30 dagen GRATIS Demo  Yealink Meeting Enterprise licentie.  
 
 {{< form "aanvragen-yealinkmeeting" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -67,7 +69,8 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Per organisatie
+Gratis licentie
+
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -88,12 +91,13 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-Per gebruiker
+Enterprise licentie
+
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 5,00 excl. BTW
+€ 20,00 excl. BTW
 
 {{</ layout/column3 >}}
 
