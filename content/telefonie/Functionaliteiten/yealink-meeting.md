@@ -24,13 +24,13 @@ hero:
     link: "/aanvragen/yealink-meeting"
 blocks:
 - content: |-
-    <b>Gebruiksvriendelijk:</b><br>Videobellen en -vergaderen met één klik vanuit email of link. Gemakkelijk scherm, en deel jouw beeldscherm in één klik.<br>
-    <b>Veiligheid:</b><br>Voldoet aan de AVG en strikt beheer van databeveiligingseisen. Alle gegevens zijn AES-256 versleuteld, en alle signalen zijn TLS-gecodeerd en voorzien van een conferentie-vergrendeling met pincode. <br>
-    <b>Werkt wereldwijd:</b><br>Hoge kwaliteit ook als u vergadert met gesprekspartners op een verre locatie dankzij een brede video-infrastructuur over de hele wereld.<br>
-    <b>Altijd compatible:</b><br>Voor elke deelnemer is de vergadering maar 2 klikken verwijderd: Windows of Apple, Android of iPhone, van smartphone tot tablet en chromebook, alles werkt. Zelfs Microsoft Teams, Skype én natuurlijk je Yealink IP-telefoon: iedereen is welkom. Klik en log in zonder installatie via de web browers.<br><br><a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf" target="_blank" class="button">Hoe werkt het?</a>
+    <b>Werkt eenvoudig</b><br>Of je nu een vergadering wilt starten of deelnemen: het is in één klik geregeld. Ook tijdens de vergaderingen is het dankzij de gebruiksvriendelijke applicatie gemakkelijk om bijvoorbeeld je scherm te delen of content door te sturen.<br>
+    <b>Werkt altijd</b><br>Yealink Meeting werkt op vrijwel alle systemen: Windows of Apple computers, Chromebooks maar ook op mobiele apparaten met Android of iOS. Zelfs Microsoft Teams, Skype én natuurlijk je Yealink IP-telefoon: iedereen is welkom. Klik en log in zonder installatie via de web browser.<br>
+    <b>Werkt overal</b><br>Hoge kwaliteit ook als je vergadert met gesprekspartners op een verre locatie. Dankzij een wereldwijde dekking van het platform is er altijd nabijgelegen toegang met real-time communicatie en stabiele HD-video ondersteuning.<br>
+    <b>Werkt veilig</b><br>Alle gegevens zijn AES-256 versleuteld, en alle signalen zijn TLS-gecodeerd en voorzien van een conferentie-vergrendeling met pincode. Kortom: jouw data én communicatie is veilig. Wel zo prettig voor de zakelijke gebruiker!<br><br><a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf" target="_blank" class="button">Hoe werkt het?</a>
   image: "/v1572861318/Interoperabiliteit__orty14.png"
   position: image_left
-  title: 'Waarom Yealink Meeting? '
+  title: 'Waarom Yealink Meeting?'
   image_position: center
 textblocksfooter:
 - title2: ''
