@@ -38,12 +38,8 @@ textblocksfooter:
     hidden;"> <iframe src="https://www.youtube.com/embed/SJ3MqDUWF9U" style="position:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
-  title1: Waarom Yealink Meeting?
-  content1: 'Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting,
-    een betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
-    één klik toegang krijgen tot een video vergadering en met iedereen – waar en wanneer
-    dan ook – persoonlijk kunnen communiceren. Een perfecte oplossing voor de tijd
-    van nu. '
+  title1: Maak kennis met de Yealink meeting apparaten
+  content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op al jouw eigen apparaten. Maar voor de vergaderruimte kun je kiezen voor de professionele Yealink conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera. Of bel in met je Yealink IP telefoon van je werkplek. Kortom: volledige integratie op het hoogste niveau!'
 prijzen:
 - title: Yealink Meeting
   content: 'Yealink Meeting is er in diverse varianten, startend met een gratis dienst
