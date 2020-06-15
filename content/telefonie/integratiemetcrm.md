@@ -71,9 +71,9 @@ intro:
   title: Abonnementskosten van VoIP CTI
   content: ''
 prijzen:
-- title: Koppel de Simmpl centrale met uw CRM-pakket
-  content: U betaalt eenmalig als organisatie voor de koppeling. Maandelijks betaalt
-    u per gebruiker die gebruik maakt van VoIP CTI.
+- title: Koppel de Callvoip-centrale met je CRM-pakket
+  content: Je betaalt eenmalig als organisatie voor de koppeling. Maandelijks betaal
+    je per gebruiker die gebruik maakt van VoIP CTI.
   button:
     title: Bereken het zelf
     link: "/calculator/"
