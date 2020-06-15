@@ -39,7 +39,7 @@ textblocksfooter:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
   title1: Maak kennis met de Yealink meeting apparaten
-  content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op al jouw eigen apparaten. Maar voor de vergaderruimte kun je kiezen voor de professionele Yealink conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera. Of bel in met je Yealink IP telefoon van je werkplek. Kortom: volledige integratie op het hoogste niveau!'
+  content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op al jouw eigen apparaten. Maar voor de vergaderruimte kun je kiezen voor de professionele Yealink conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera. Of bel in met je Yealink IP telefoon van je werkplek. Kortom: volledige integratie op het hoogste niveau!<br><br><a href="https://yealinkshop.nl/" target="_blank" class="button">Bekijk het aanbod bij Yealinkshop</a>'
 prijzen:
 - title: Yealink Meeting
   content: 'Yealink Meeting is er in diverse varianten, startend met een gratis dienst
