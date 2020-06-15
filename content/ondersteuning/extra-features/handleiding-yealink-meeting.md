@@ -27,22 +27,23 @@ Neem contact op en/of geef je Yealink Meeting account ID door.
 
 <h3>Yealink Meeting: de mogelijkheden op een rij:</h3>
 
-De Yealink Meeting app biedt deze mogelijkheden:
+1. **Start videocalls** met één klik of plan deze (Outlook Agenda plugin)
+2. **Nodig anderen uit** met een link, inlogcode/password of QR Scancode.
+3. **Deelnemen kan** met een smartphone, tablet, PC, browser, MS Teams, Yealink IP telefoon of Yealink Room System.
+4. **Browserbased**: open de videocall in je browser (geen software/drivers nodig)!
+5. **Handige Smartphone App** beschikbaar voor Android en iPhone
+6. **Deel bestanden** vanaf je computer in de videocall, kies het juiste venster
+7. **Bel in vanaf een Yealink IP** Phone – bel mee met of zonder video
+8. **Voeg een Yealink Room System toe**: een audio-video module voor jouw vergaderruimte
+9. **Eenvoudige, Nederlandstalige bediening**
 
-· **Start videocalls** met één klik of plan deze (Outlook Agenda plugin)
+<h3>Snelstart: aanmelding en gebruik</h3>
 
-· **Nodig anderen uit** met een link, inlogcode/password of QR Scancode.
+Doorloop deze stappen en start over 5 minuten met een videocall: 
 
-· **Deelnemen kan** met een smartphone, tablet, PC, browser, MS Teams, Yealink IP telefoon of Yealink Room System.
-
-· **Browserbased**: open de videocall in je browser (geen software/drivers nodig)!
-
-· **Handige Smartphone App** beschikbaar voor Android en iPhone
-
-· **Deel bestanden** vanaf je computer in de videocall, kies het juiste venster
-
-· **Bel in vanaf een Yealink IP** Phone – bel mee met of zonder video
-
-· **Voeg een Yealink Room System toe**: een audio-video module voor jouw vergaderruimte
-
-***
+1. Setup; ga naar YealinkMeeting.com en meld je gratis aan 
+2. [Download de Yealink Meeting app](https://yealinkmeeting.com/portal/pc/Download) en log in
+3. Klik op de oranje Start-button om een videocall te starten:   
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1592244410/YM_app_1_xrmlpo.jpg)
+4. Nodig deelnemers uit met de link, login of QR Scancode: ![](https://res.cloudinary.com/callvoip/image/upload/v1592244511/YM_app_2_f51puc.jpg)
+5. Klaar! Uw videocall is gestart. 
