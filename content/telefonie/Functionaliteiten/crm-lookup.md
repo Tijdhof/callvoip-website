@@ -28,7 +28,7 @@ blocks:
     class=\"button\">Hoe werkt het?</a>"
   image: "/v1572861318/Screenshot_20_ntdrwg.png"
   position: image_left
-  title: Waarom CRM Look up?
+  title: 'CRM Lookup: Click-to-Dial nu ook te koppelen met je CRM!'
   image_position: center
 prijzen:
 - title: CRM Look up
