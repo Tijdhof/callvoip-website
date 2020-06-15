@@ -20,8 +20,8 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Direct aanvragen
+    link: "/aanvragen/yealink-meeting"
 blocks:
 - content: |-
     <b>Gebruiksvriendelijk:</b><br>Videobellen en -vergaderen met één klik vanuit email of link. Gemakkelijk scherm, en deel jouw beeldscherm in één klik.<br>
