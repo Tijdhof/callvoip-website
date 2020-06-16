@@ -3,7 +3,7 @@ title: CRM Look up | Integratie
 description: Met de belgroep (huntgroep) laat u meerdere interne toestellen en externe
   nummers simultaan, of in een specifieke volgorde, rinkelen.
 type: page
-layout: default
+layout: default2
 logos: true
 aliases:
 - "/crm-lookup"
