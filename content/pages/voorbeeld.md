@@ -55,5 +55,12 @@ double_content:
       text-base"> </div></div><center><br><p> <button type="submit" class="button">Neem
       contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
       met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
+double_content:
+  left:
+    title: Beep Beep
+    content: Ik ben een content blok
+  right:
+    title: Mooie title
+    content: Hallo
 
 ---
