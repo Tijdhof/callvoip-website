@@ -27,7 +27,6 @@ blocks:
 prijzen:
 - title: CRM Look up
   content: CRM Lookup - basic
-    BTW voor betaalt)
   button:
     title: Bereken je kosten
     link: "/calculator/"
