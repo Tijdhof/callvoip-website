@@ -9,6 +9,8 @@ Nieuw: false
 Update: false
 hideingoogle: false
 hidesocialshare: false
+searchtags:
+    - dsskey
 
 ---
 [Yealink T4x/T5x gebruikshandleiding nodig? Klik hier!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/yealink-t4x-t5x-gebruikshandleiding/)
