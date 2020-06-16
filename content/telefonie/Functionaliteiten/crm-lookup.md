@@ -11,9 +11,7 @@ aliases:
 - "/telefonie/functionaliteiten/crm-lookup/"
 hero:
   title: CRM Look up
-  content: De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één
-    of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor
-    kiezen in welke volgorde de toestellen rinkelen.
+  content: 'Je wordt gebeld. Op display het nummer van de afzender, als je geluk hebt staat hij of zij in je telefoonboek en zie je een naam. Maar als je alles van de beller wilt weten, moet je je CRM openen en de beller opzoeken. Dat kunnen wij nu heel gemakkelijk maken met onze uitbreiding van de <a href="/clicktodial">Click-to-Dial</a> chrome plugin: <b>CRM Lookup.</b>'
   image: "/v1571655384/cti_new_zkrvij.png"
   image_position: center
   disable_image_on_mobile: false
@@ -21,10 +19,7 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
 blocks:
-- content: "Koppel de Click to Dial chrome app nu ook met je CRM!<br>\nDeze CRM-pakketten
-    zijn hiervoor geschikt:<br>\n1.\tZendesk\n2.\tTeamleader\n3.\tSalesforce\n4.\tAfas\n5.\tGoogle
-    Contacts\n6.\tExact online\n7.\tFreshdesk\n8.\tSimplicate\n9.\tZoHo CRM\n10.\tOffice
-    365 contacts\n<br><a href=\"https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup/\"
+- content: "Heel eenvoudig: de zoekactie in jouw CRM volledig automatiseren! Dus je wordt gebeld en wij zoeken voor jou de klantgegevens in het CRM erbij en openen deze op je scherm. Dan kun jij je lekker bezig houden met de inhoud van het gesprek en gemakkelijk de klanthistorie inzien<br><br>Heb je één van onderstaande CRM pakketten? Dan heb je geluk en is de CRM Lookup voor jou al beschikbaar. <br><br><a href=\"https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup/"
     class=\"button\">Hoe werkt het?</a>"
   image: "/v1572861318/Screenshot_20_ntdrwg.png"
   position: image_left
@@ -32,7 +27,7 @@ blocks:
   image_position: center
 prijzen:
 - title: CRM Look up
-  content: Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl.
+  content: CRM Lookup - basic
     BTW voor betaalt)
   button:
     title: Bereken je kosten
@@ -41,9 +36,9 @@ prijzen:
     title: Wat zijn de kosten?
     items:
     - title: Maandelijks
-      price: '0.00'
+      price: '29.00'
     - title: Eenmalig
-      price: '0.00'
+      price: '75.00'
 images: []
 hideinsearch: true
 hideingoogle: true
