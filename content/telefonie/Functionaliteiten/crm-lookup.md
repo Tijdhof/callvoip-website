@@ -39,8 +39,8 @@ prijzen:
     - title: Eenmalig
       price: '75.00'
 images: []
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: true
 
 ---
