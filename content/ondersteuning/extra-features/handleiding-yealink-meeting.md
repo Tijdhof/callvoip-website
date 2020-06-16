@@ -42,7 +42,7 @@ Doorloop deze stappen en start over 5 minuten met een videocall:
 3. Klik op de oranje Start-button om een videocall te starten:  
    ![](https://res.cloudinary.com/callvoip/image/upload/v1592247083/YM_app_1_s_nyzbod.jpg)
 4. Nodig deelnemers uit met de link, login of QR Scancode:   
-   ![](https://res.cloudinary.com/callvoip/image/upload/v1592247099/YM_app_2_s_omaojv.jpg)
+   ![](https://res.cloudinary.com/callvoip/image/upload/v1592247099/YM_app_2_s_omaojv_ip1gpj.jpg)
 5. Klaar! Uw videocall is gestart.
 
 <h3>Hoe log je in op een YealinkMeeting videocall?</h3>
