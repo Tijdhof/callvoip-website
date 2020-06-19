@@ -16,7 +16,7 @@ hero:
     beschikbaarheid van uw collega's, kunt u gesprekken doorverbinden en heeft u een
     telefoonboek. <br><br><a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl"
     target="_blank"class="button">Download plugin</a>
-  image: "/v1580985070/clicktdial_bweq3w_b3m3gw.png"
+  image: "/v1580985070/clicktodial_rti08e.png"
   image_position: start
   disable_image_on_mobile: false
   mobile: ''
