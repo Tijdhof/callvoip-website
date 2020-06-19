@@ -32,7 +32,7 @@ prijzen:
   tarieven:
     title: Wat zijn de kosten?
     items:
-    - title: Maandelijks
+    - title: Maandelijks /p organisatie
       price: '29.00'
     - title: Eenmalig
       price: '75.00'
@@ -44,7 +44,7 @@ prijzen:
   tarieven:
     title: Wat zijn de kosten?
     items:
-    - title: Maandelijks
+    - title: Maandelijks /p organisatie
       price: '49.00'
     - title: Eenmalig
       price: '130.00'
