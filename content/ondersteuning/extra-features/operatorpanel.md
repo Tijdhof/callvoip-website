@@ -1,10 +1,10 @@
 ---
 title: Handleiding Operator Console
-weight: 1
+weight: 3
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Operator-Console.pdf
-Update: true
+Update: false
 aliases: "/ondersteuning/extra-features/privacy"
 
 ---
