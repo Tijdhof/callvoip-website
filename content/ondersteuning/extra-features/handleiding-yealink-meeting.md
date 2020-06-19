@@ -11,7 +11,8 @@ Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf
 
 ---
-<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf">Download</a> de PDF handleiding.
+<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf">Download de Account Enterprise Setup handleiding</a>  
+<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf">Download de PDF handleiding</a>
 
 **Videobellen zonder gedoe? Ontdek Yealink Meeting!**  
 … en ervaar dat je maar één linkje verwijderd bent van een videogesprek met wie dan ook, waar dan ook, en wat voor apparatuur dan ook.  
@@ -20,19 +21,19 @@ Daarom is het waardevol voor overleg met je team of een collega; een intake-gesp
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1592314519/yealinkmeeting-new_hgksbh.png)
 
-**Wat kost het?** Er is al een gratis licentie; direct klaar voor gebruik, en geschikt voor videocalls van max. 40 minuten. Een betaalde licentie biedt langere gesprekken en het koppelen van room systems. 
+**Wat kost het?** Er is al een gratis licentie; direct klaar voor gebruik, en geschikt voor videocalls van max. 40 minuten. Een betaalde licentie biedt langere gesprekken en het koppelen van room systems.
 
 <h3>Yealink Meeting: de mogelijkheden op een rij:</h3>
 
 1 **Start videocalls** met één klik, en via handige Outlook Agenda plugin  
-2 **Nodig anderen uit** via een link, inbel-telefoonnummer of scancode   
+2 **Nodig anderen uit** via een link, inbel-telefoonnummer of scancode  
 3 **Deelnemen kan** **met alles!** Smartphone, tablet, PC, Browser, MS Teams, IP-telefoon, ...  
 4 **Browserbased**: videocall via je browser zónder software-installatie!  
 5 **Intuitieve Smartphone App** beschikbaar voor Android en iPhone  
 6 **Deel bestanden** vanaf je computer in de videocall, kies het juiste venster  
 7 **Bel in op de vergadering met je eigen Yealink IP** **Phone** via een NL inbelnummer  
 8 **Voeg een Yealink Room System toe**: een audio-video module voor jouw vergaderruimte  
-9 **En eenvoudige, Nederlandstalige bediening,** wel zo fijn, toch? 
+9 **En eenvoudige, Nederlandstalige bediening,** wel zo fijn, toch?
 
 <h3>Snelstart: aanmelding en een videogesprek starten</h3>
 
