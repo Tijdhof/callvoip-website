@@ -22,7 +22,7 @@ hero:
   mobile: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
-  image: "/v1582639629/clicktdial_handleiding_middba_xc32is.png"
+  image: "/v1582639629/clicktdial_handleiding_middba.png"
   content: |2-
 
     <br>
