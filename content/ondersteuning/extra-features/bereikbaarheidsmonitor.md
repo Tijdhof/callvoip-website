@@ -4,7 +4,7 @@ weight:
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_Snelstart_Bereikbaarheidsmonitor.pdf
-Nieuw: true
+Nieuw: false
 
 ---
 Hoe bereikbaar is uw organisatie?   
