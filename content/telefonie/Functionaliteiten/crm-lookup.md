@@ -25,7 +25,7 @@ blocks:
   image_position: center
 prijzen:
 - title: CRM Look up
-  content: CRM Lookup - basic
+  content: Popup, klik en open de klantkaart
   button:
     title: Bereken je kosten
     link: "/calculator/"
@@ -36,6 +36,18 @@ prijzen:
       price: '29.00'
     - title: Eenmalig
       price: '75.00'
+- title: CRM Lookup Customized
+  content: Popup, klik en bepaal zelf de volgacties
+  button:
+    title: Bereken je kosten
+    link: "/calculator/"
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: Maandelijks
+      price: '49.00'
+    - title: Eenmalig
+      price: '130.00'
 images: []
 hideinsearch: false
 hideingoogle: false
