@@ -4,7 +4,9 @@ description: Met de managed 4G-oplossing van Callvoip ben je altijd en overal be
   Bekijk hier snel de mogelijkheden en de bijbehorende tarieven.
 images: []
 type: page
-aliases: "/4g"
+aliases:
+  - "/4g"
+  - "/guezenet"
 layout: default
 logos: false
 hero:
