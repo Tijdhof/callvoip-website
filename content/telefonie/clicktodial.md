@@ -38,7 +38,7 @@ blocks:
     &bull; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
     &bull; Volledig-scherm-modus: alles Click-to-Dial tabs in één venster!<br>
     <br>
-    <div><img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1592550677/edge_k4c9m7.png" style="float: left; alt=""><p>Nu ook voor Microsoft Edge!</p></div>
+    <div><img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1592550677/edge_vynsgz.png" style="float: left; alt=""><p>Nu ook voor Microsoft Edge!</p></div>
   position: image_left
   image_position: end
 textblocksfooter:
