@@ -56,10 +56,13 @@ double_content:
       contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
       met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
 textblocks:
-- 
-  title1: 'Beep Beep'
-  content1: 'Ik ben een content block'
-  title2: 'Boop Boop'
-  content2: 'Ik ook'
+- title1: Eerst meer weten?
+  content1: "Neem dan contact met ons op! We vertellen je graag meer. \n\nTelefoonnummer:
+    050-820 00 00\nE-mail: callvoip@callvoip.nl"
+  title2: Wat anderen over Callvoip zeggen
+  content2: '"Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
+    van Callvoip. Niets is teveel om je bij een vraag of een probleem even bij te
+    staan. In de loop van de jaren is de "digitale telefoon centrale" uitgegroeid
+    tot een volwaardig applicatie. Echt een fijn bedrijf!"'
 
 ---
