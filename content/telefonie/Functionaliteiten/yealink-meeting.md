@@ -45,7 +45,7 @@ textblocksfooter:
     apparaten. Maar voor de vergaderruimte kun je kiezen voor de professionele Yealink
     conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera.
     Of bel in met je Yealink IP telefoon van je werkplek. Kortom: volledige integratie
-    op het hoogste niveau!<br><br><a href="https://yealinkshop.nl/" target="_blank"
+    op het hoogste niveau!<br><br><a href="https://yealinkshop.nl/431-yealink-meeting" target="_blank"
     class="button">Bekijk het aanbod bij Yealinkshop</a>'
 prijzen:
 - title: Yealink Meeting
