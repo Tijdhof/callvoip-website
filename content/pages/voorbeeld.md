@@ -57,12 +57,12 @@ double_content:
       met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
 textblocks:
 - title1: Eerst meer weten?
-  content1: "Neem dan contact met ons op! We vertellen je graag meer. \n\nTelefoonnummer:
-    050-820 00 00\nE-mail: callvoip@callvoip.nl"
+  content1: "Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
+    050-820 00 00<br>E-mail: callvoip@callvoip.nl"
   title2: Wat anderen over Callvoip zeggen
-  content2: '"Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
+  content2: 'Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
     van Callvoip. Niets is teveel om je bij een vraag of een probleem even bij te
     staan. In de loop van de jaren is de "digitale telefoon centrale" uitgegroeid
-    tot een volwaardig applicatie. Echt een fijn bedrijf!"'
+    tot een volwaardig applicatie. Echt een fijn bedrijf!'
 
 ---
