@@ -29,10 +29,10 @@ double_content:
       naadloos integreren met je smartphone. Bellen en gebeld worden, of simpelweg
       doorschakelen? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Dit alles
       laten we je in een telefoongesprek zien. We zoomen in op jouw vragen en situatie.
-      Helemaal gratis en vrijblijvend!<br><br><b>Wij bieden:</b><div class="usp-list"><ul><li>Een
-      betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke
-      service</li><li>Volledige integratie vast en mobiel</li><li>Volledige controle
-      over jouw telefonie</li><li>Alles onder 1 dak: Telefonie, internet en apparatuur</li></ul></div>'
+      Helemaal gratis en vrijblijvend!<br><br><b>Wij bieden:</b><div class="usp-list"><ul><li>Volledige
+      integratie vast en mobiel</li><li>Ouderwets persoonlijke service</li><li>Een
+      betrouwbare, flexibele online telefooncentrale</li><li>Volledige controle over
+      jouw telefonie</li><li>Alles onder 1 dak: Telefonie, internet en apparatuur</li></ul></div>'
   right:
     background: true
     background_color: "#efefef"
@@ -66,6 +66,5 @@ textblocks:
     is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee. \nQaller
     app is echt een uitkomst (...) Integratie met browser, Microsoft teams, cloud
     van yealink is echt top.\"\n\n"
-draft: true
 
 ---
