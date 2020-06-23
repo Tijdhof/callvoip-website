@@ -24,15 +24,15 @@ blocks:
   content: ''
 double_content:
   left:
-    title: Gratis persoonlijke demo
-    content: 'Met de online centrale van Callvoip heb je zelf de volledige controle
-      over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een
-      lunchbandje? Gaat vanzelf! Dit alles laten we je in een telefoongesprek zien.
-      We zoomen in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!<br><br><b>Wij
-      bieden:</b><div class="usp-list"><ul><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets
-      persoonlijke service</li><li>Volledige integratie vast en mobiel</li><li>Volledige
-      controle over jouw telefonie</li><li>Alles onder 1 dak: Telefonie, internet
-      en apparatuur</li></ul></div>'
+    title: Zelf zien hoe dat werkt?
+    content: 'Met de online centrale van Callvoip kun je jouw zakelijke, vaste telefonie
+      naadloos integreren met je smartphone. Bellen en gebeld worden, of simpelweg
+      doorschakelen? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Dit alles
+      laten we je in een telefoongesprek zien. We zoomen in op jouw vragen en situatie.
+      Helemaal gratis en vrijblijvend!<br><br><b>Wij bieden:</b><div class="usp-list"><ul><li>Een
+      betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke
+      service</li><li>Volledige integratie vast en mobiel</li><li>Volledige controle
+      over jouw telefonie</li><li>Alles onder 1 dak: Telefonie, internet en apparatuur</li></ul></div>'
   right:
     background: true
     background_color: "#efefef"
