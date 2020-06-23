@@ -16,7 +16,7 @@ description: Ben je op zoek naar de beste zakelijke telefonie met volledige inte
   1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
-layout: landing2
+layout: landing
 hideinsearch: true
 hideingoogle: true
 blocks:
