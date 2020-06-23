@@ -1,6 +1,6 @@
 ---
 title: Callvoip - VoIP Telefonie - Slim en persoonlijk
-url: voorbeeld2
+url: voip_telefonie_landing
 type: page
 hero:
   content:
