@@ -11,8 +11,9 @@ hero:
   title: Callvoip - VoIP Telefonie - Slim en persoonlijk
   disable_image_on_mobile: true
   link: ''
-description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
-  Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
+description: Ben je op zoek naar de beste zakelijke telefonie met volledige integratie
+  van jouw smartphone? Vraag dan een rondleiding aan bij Callvoip en ontvang binnen
+  1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing2
@@ -60,10 +61,11 @@ textblocks:
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
     <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
   title2: Wat anderen over Callvoip zeggen
-  content2: Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
-    van Callvoip. Niets is teveel om je bij een vraag of een probleem even bij te
-    staan. In de loop van de jaren is de "digitale telefoon centrale" uitgegroeid
-    tot een volwaardig applicatie. Echt een fijn bedrijf!
+  content2: "\"Een aantal maanden hebben wij Callvoip in gebruik genomen op aanraden
+    van een ander bedrijf. Tot op de dag van vandaag geen moment spijt van. Kwaliteit
+    is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee. \nQaller
+    app is echt een uitkomst (...) Integratie met browser, Microsoft teams, cloud
+    van yealink is echt top.\"\n\n"
 draft: true
 
 ---
