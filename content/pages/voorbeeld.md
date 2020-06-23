@@ -15,7 +15,7 @@ description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis
   Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
-layout: landing2
+layout: landing
 hideinsearch: true
 hideingoogle: true
 blocks:
