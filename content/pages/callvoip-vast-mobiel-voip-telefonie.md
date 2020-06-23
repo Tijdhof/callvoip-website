@@ -4,8 +4,8 @@ url: landing_vastmobiel
 type: page
 hero:
   content:
-    title: Cloud telefooncentrale met maatwerk inrichting.
-    text: VoIP Telefonie - Slim en persoonlijk
+    title: Volledige integratie van je mobiel
+    text: Cloud telefooncentrale met maatwerk inrichting
     align: left
   image: "/v1591963966/header_LP_TS_ocalz5.png"
   title: Callvoip - VoIP Telefonie - Slim en persoonlijk
