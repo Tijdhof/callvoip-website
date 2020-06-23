@@ -4,7 +4,7 @@ url: voorbeeld2
 type: page
 hero:
   content:
-    title: Moderne telefooncentrale in de cloud<br>met maatwerk inrichting.
+    title: Cloud telefooncentrale met maatwerk inrichting.
     text: VoIP Telefonie - Slim en persoonlijk
     align: left
   image: "/v1591963966/header_LP_TS_ocalz5.png"
@@ -60,9 +60,9 @@ textblocks:
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
     <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
   title2: Wat anderen over Callvoip zeggen
-  content2: 'Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
+  content2: Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
     van Callvoip. Niets is teveel om je bij een vraag of een probleem even bij te
     staan. In de loop van de jaren is de "digitale telefoon centrale" uitgegroeid
-    tot een volwaardig applicatie. Echt een fijn bedrijf!'
+    tot een volwaardig applicatie. Echt een fijn bedrijf!
 
 ---
