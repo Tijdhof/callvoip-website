@@ -7,7 +7,7 @@ hero:
     title: Volledige integratie van je mobiel
     text: Cloud telefooncentrale met maatwerk inrichting
     align: left
-  image: "/v1592917884/header_vastmobiel_LP_nr2iif.png"
+  image: "/v1592921603/header_vastmobiel_LP_u1yyff.png"
   title: Callvoip - VoIP Telefonie - Slim en persoonlijk
   disable_image_on_mobile: true
   link: ''
