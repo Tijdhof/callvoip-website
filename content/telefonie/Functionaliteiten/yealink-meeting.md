@@ -40,7 +40,7 @@ textblocksfooter:
     hidden;"> <iframe src="https://www.youtube.com/embed/SJ3MqDUWF9U" style="position:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
-  title1: Maak kennis met de Yealink Meeting apparatuur
+  title1: Maak kennis met Yealink Meeting apparatuur
   content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op al jouw eigen
     apparaten. Maar voor de vergaderruimte kun je kiezen voor de professionele Yealink
     conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera.
