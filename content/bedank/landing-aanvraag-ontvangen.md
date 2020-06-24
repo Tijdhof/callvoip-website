@@ -1,11 +1,12 @@
 ---
-title: Landing aanvraag ontvangen
+title: Dankjewel - Aanvraag ontvangen
 url: bedank/tour
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: ''
 hideinsearch: true
 hideingoogle: true
+description: Bedanktpagina voor de campagne landingspagina's
 draft: true
 
 ---
