@@ -1,6 +1,6 @@
 ---
 title: Dankjewel - Aanvraag ontvangen
-url: bedank/tour
+url: bedank/campagnes
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: ''
