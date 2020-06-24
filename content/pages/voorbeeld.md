@@ -5,7 +5,7 @@ type: page
 hero:
   content:
     title: Cloud telefooncentrale met maatwerk inrichting.
-    text: VoIP Telefonie - Slim en persoonlijk
+    text: Zakelijke VoIP Telefonie - Slim en persoonlijk
     align: left
   image: "/v1591963966/header_LP_TS_ocalz5.png"
   title: Callvoip - VoIP Telefonie - Slim en persoonlijk
