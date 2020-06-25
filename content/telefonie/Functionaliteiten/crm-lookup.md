@@ -24,8 +24,7 @@ blocks:
   title: 'Wat doet CRM Lookup?'
   image_position: center
 - content: Koppel de Click to Dial chrome app nu ook met je CRM!<br>Deze CRM-pakketten
-    zijn hiervoor geschikt:<br>\n1.\tZendesk\n2.\tTeamleader\n3.\tSalesforce\n4.\tAfas\n5.\tGoogle
-    Contacts\n6.\tExact online\n7.\tFreshdesk\n8.\tSimplicate\n9.\tZoHo CRM\n10.\tOffice
+    zijn hiervoor geschikt:<br>1. Zendesk, 2. Teamleader, 3. Salesforce, 4. Afas, 5. Google Contacts, 6. Exact online, 7. Freshdesk, 8. Simplicate, 9. Zoho CRM, 10. Office 365 contacts
     365 contacts\n<
   image: "/v1572861318/crm_nh1zox.png"
   position: image_right
