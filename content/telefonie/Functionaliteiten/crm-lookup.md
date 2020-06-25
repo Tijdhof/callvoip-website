@@ -27,7 +27,7 @@ blocks:
     zijn hiervoor geschikt:<br>1. Zendesk, 2. Teamleader, 3. Salesforce, 4. Afas, 5. Google Contacts, 6. Exact online, 7. Freshdesk, 8. Simplicate, 9. Zoho CRM, 10. Office 365 contacts
   image: "/v1572861318/crm_nh1zox.png"
   position: image_right
-  title: 'CRM Lookup: Click-to-Dial nu ook te koppelen met je CRM!'
+  title: 'Click-to-Dial nu ook te koppelen met je CRM!'
   image_position: center
 prijzen:
 - title: CRM Look up
