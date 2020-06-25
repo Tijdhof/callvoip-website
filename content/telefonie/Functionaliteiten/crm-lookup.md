@@ -9,7 +9,7 @@ aliases:
 - "/crmlookup"
 - "/telefonie/functionaliteiten/crm-lookup/"
 hero:
-  title: CRM Look up
+  title: CRM Lookup
   content: 'Je wordt gebeld. Op display het nummer van de afzender, als je geluk hebt staat hij of zij in je telefoonboek en zie je een naam. Maar als je alles van de beller wilt weten, moet je je CRM openen en de beller opzoeken. Dat kunnen wij nu heel gemakkelijk maken met onze uitbreiding van de <br> <a href="/clicktodial">Click-to-Dial</a> chrome plugin: <b>CRM Lookup.</b>'
   image: "/v1571655384/cti_new_zkrvij.png"
   image_position: center
@@ -24,7 +24,7 @@ blocks:
   title: 'Wat doet CRM Lookup?'
   image_position: center
 - content: Koppel de Click to Dial chrome app nu ook met je CRM!<br>Deze CRM-pakketten
-    zijn hiervoor geschikt:<br>1. Zendesk, 2. Teamleader, 3. Salesforce, 4. Afas, 5. Google Contacts, 6. Exact online, 7. Freshdesk, 8. Simplicate, 9. Zoho CRM, 10. Office 365 contacts
+    zijn hiervoor geschikt:<br>1. Zendesk<br>2. Teamleader<br>3. Salesforce<br>4. Afas<br>5. Google Contacts<br>6. Exact online<br>7. Freshdesk<br>8. Simplicate<br>9. Zoho CRM<Br>10. Office 365 contacts
   image: "/v1572861318/crm_nh1zox.png"
   position: image_right
   title: 'Click-to-Dial nu ook te koppelen met je CRM!'
