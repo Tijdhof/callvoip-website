@@ -24,8 +24,8 @@ blocks:
   title: 'Wat doet CRM Lookup?'
   image_position: center
 - content: Heel eenvoudig; de zoekactie in jouw CRM volledig automatiseren! Dus je wordt gebeld en wij zoeken voor jou de klantgegevens in het CRM erbij en openen deze op je scherm. Dan kun jij je lekker bezig houden met de inhoud van het gesprek en gemakkelijk de klanthistorie inzien<br><br>Heb je één van onderstaande CRM pakketten? Dan heb je geluk en is de CRM Lookup voor jou al beschikbaar.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/crmlookup_kuf7qr.png"
-  position: image_left
+  image: "/v1572861318/crm_nh1zox.png"
+  position: image_right
   title: 'Wat doet CRM Lookup?'
   image_position: center
 prijzen:
