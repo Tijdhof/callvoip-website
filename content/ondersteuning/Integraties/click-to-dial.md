@@ -11,7 +11,7 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-<div><img src="https://res.cloudinary.com/callvoip/image/upload/v1579161600/edge_vynsgz.png" alt=""><p><strong>Nu ook voor Microsoft Edge!</p></strong></div>
+<div><img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1592550677/edge_vynsgz.png" style="float: left; alt=""><p>Nu ook voor Microsoft Edge!</p></div>
 Click-to-Dial is een gratis plug-in voor Google Chrome waarmee telefoonnummers op websites klikbaar worden zodat je sneller kunt bellen.  
 En het biedt nog veer meer!
 
