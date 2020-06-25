@@ -7,7 +7,7 @@ logos: true
 aliases:
 - "/crm-lookup"
 - "/crmlookup"
-- "/telefonie/functionaliteiten/crm-lookup/".
+- "/telefonie/functionaliteiten/crm-lookup/"
 hero:
   title: CRM Look up
   content: 'Je wordt gebeld. Op display het nummer van de afzender, als je geluk hebt staat hij of zij in je telefoonboek en zie je een naam. Maar als je alles van de beller wilt weten, moet je je CRM openen en de beller opzoeken. Dat kunnen wij nu heel gemakkelijk maken met onze uitbreiding van de <br> <a href="/clicktodial">Click-to-Dial</a> chrome plugin: <b>CRM Lookup.</b>'
