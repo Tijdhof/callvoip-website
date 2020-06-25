@@ -13,7 +13,7 @@ aliases:
 - "/yealinkmeeting"
 - "/telefonie/functionaliteiten/yealink-meeting/"
 hero:
-  title: Yealink Meeting
+  title: Snl Videobellen met Yealink Meeting
   content: Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting, een
     betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
     één klik toegang tot een video vergadering en kun je met iedereen – waar en wanneer
@@ -22,11 +22,11 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Direct aanvragen
+    content: Probeer gratis!
     link: "/aanvragen/yealink-meeting"
 blocks:
 - content: |-
-    <b>1.Werkt eenvoudig</b><br>Of je nu een vergadering wilt starten of deelnemen: het is in één klik geregeld. Ook tijdens de vergaderingen is het dankzij de gebruiksvriendelijke applicatie gemakkelijk om bijvoorbeeld je scherm te delen of content door te sturen.<br>
+    <b>1. Werkt eenvoudig</b><br>Of je nu een vergadering wilt starten of deelnemen: het is in één klik geregeld. Ook tijdens de vergaderingen is het dankzij de gebruiksvriendelijke applicatie gemakkelijk om bijvoorbeeld je scherm te delen of content door te sturen.<br>
     <b>2. Werkt altijd</b><br>Yealink Meeting werkt op vrijwel alle systemen: Windows of Apple computers, Chromebooks maar ook op mobiele apparaten met Android of iOS. Zelfs Microsoft Teams, Skype én natuurlijk je Yealink IP-telefoon: iedereen is welkom. Klik en log in zonder installatie via de web browser.<br>
     <b>3. Werkt overal</b><br>Hoge kwaliteit ook als je vergadert met gesprekspartners op een verre locatie. Dankzij een wereldwijde dekking van het platform is er altijd nabijgelegen toegang met real-time communicatie en stabiele HD-video ondersteuning.<br>
     <b>4. Werkt veilig</b><br>Alle gegevens zijn AES-256 versleuteld, en alle signalen zijn TLS-gecodeerd en voorzien van een conferentie-vergrendeling met pincode. Kortom: jouw data én communicatie is veilig. Wel zo prettig voor de zakelijke gebruiker!<br><br><a href="/ondersteuning/extra-features/handleiding-yealink-meeting/" target="_blank" class="button">Hoe werkt het?</a>
