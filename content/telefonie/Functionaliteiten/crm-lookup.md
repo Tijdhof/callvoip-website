@@ -25,7 +25,6 @@ blocks:
   image_position: center
 - content: Koppel de Click to Dial chrome app nu ook met je CRM!<br>Deze CRM-pakketten
     zijn hiervoor geschikt:<br>1. Zendesk, 2. Teamleader, 3. Salesforce, 4. Afas, 5. Google Contacts, 6. Exact online, 7. Freshdesk, 8. Simplicate, 9. Zoho CRM, 10. Office 365 contacts
-    365 contacts\n<
   image: "/v1572861318/crm_nh1zox.png"
   position: image_right
   title: 'CRM Lookup: Click-to-Dial nu ook te koppelen met je CRM!'
