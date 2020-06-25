@@ -13,7 +13,7 @@ aliases:
 - "/yealinkmeeting"
 - "/telefonie/functionaliteiten/yealink-meeting/"
 hero:
-  title: Snl Videobellen met Yealink Meeting
+  title: Videobellen met Yealink Meeting
   content: Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting, een
     betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
     één klik toegang tot een video vergadering en kun je met iedereen – waar en wanneer
