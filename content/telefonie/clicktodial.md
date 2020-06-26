@@ -14,7 +14,9 @@ hero:
     webbrowser klikbaar. Eén klik op het nummer en uw toestel belt uit. <b>Is dit
     alles? Nee!</b> Zo krijgt u bij inkomende oproepen een notificatie, ziet u de
     beschikbaarheid van uw collega's, kunt u gesprekken doorverbinden en heeft u een
-    telefoonboek. <br><br><a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl"
+    telefoonboek. En alsof dat allemaal niet genoeg is, kun je Click-t-Dial nu ook
+    <a href="https://www.callvoip.nl/telefonie/functionaliteiten/crm-lookup/">koppelen
+    met verschillende CRM pakketten</a> <br><br><a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl"
     target="_blank"class="button">Download plugin</a>
   image: "/v1580985070/clicktodial-vegrootglas_omhsqy.png"
   image_position: start
