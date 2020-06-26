@@ -20,6 +20,9 @@ hero:
   image_position: start
   disable_image_on_mobile: false
   mobile: ''
+  button:
+    content: ''
+    link: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1582639629/clicktdial_handleiding_middba.png"
@@ -36,17 +39,25 @@ blocks:
     &bull; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
     &bull; Yealink-adresboek: koppel je Yealink toestel met het C2D adresboek!<br>
     &bull; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
-    &bull; Volledig-scherm-modus: alles Click-to-Dial tabs in één venster!<br>
+    &bull; Volledig-scherm-modus: alle Click-to-Dial tabs in één venster!<br>
     <div><img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1592550677/edge_vynsgz.png" style="float: left; alt=""><p>Nu ook voor Microsoft Edge!</p></div>
   position: image_left
   image_position: end
 textblocksfooter:
-- title1: 'Hoe werkt het?'
-  content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken in de Click to Dial app.
-    Zodra je klikt, rechts klikt of het nummer plakt in de app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten, geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/" target="_blank" class="button">Handleiding</a> '
+- title1: Hoe werkt het?
+  content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
+    getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
+    in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
+    app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de
+    telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je
+    zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten,
+    geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/"
+    target="_blank" class="button">Handleiding</a> '
   title2: ''
-  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
+  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
+    hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
+    absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
+    title="YouTube Video"></iframe></div>'
 usps:
   title: Voordelen Click-to-Dial
   content: ''
