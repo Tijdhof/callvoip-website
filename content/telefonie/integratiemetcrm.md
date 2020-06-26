@@ -17,13 +17,9 @@ hero:
   mobile: ''
 blocks:
 - content: |-
-    <br> Voor VoIP CTI heb je nodig
-
-    • de Callvoip telefooncentrale<br>
-    • een CRM-pakket, bv Realworks, Bytegear, Exquise, Simplex, Afas, , etc. <br>
-
+    <br> Voor VoIP CTI heb je nodig de Callvoip telefooncentrale<br>
+    een CRM-pakket, bv Realworks, Bytegear, Exquise, Simplex, Afas, , etc. <br>
     Voor veel pakketten is de installatie eenvoudig, en wij doen het werk. We installeren de software om de koppeling in te stellen. Zo profiteer jij snel van de voordelen!
-
     In totaal kan er met <a href="https://www.callvoip.nl/ondersteuning/integraties/voip-cti/" target="_blank">meer dan 100 pakketten</a> een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met jouw pakket?
 
     <a href="/ondersteuning/integraties/voip-cti-handleiding/" class="button">Hoe werkt het?</a>
