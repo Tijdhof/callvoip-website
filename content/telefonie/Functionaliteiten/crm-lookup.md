@@ -11,7 +11,7 @@ aliases:
 - "/crmlookup"
 - "/telefonie/functionaliteiten/crm-lookup/"
 hero:
-  title: Koppel nu met je eigen CRM
+  title: Koppel Callvoip met je eigen CRM
   content: 'Je wordt gebeld. Op display het nummer van de afzender, als je geluk hebt
     staat hij of zij in je telefoonboek en zie je een naam. Maar als je alles van
     de beller wilt weten, moet je je CRM openen en de beller opzoeken. Dat kunnen
