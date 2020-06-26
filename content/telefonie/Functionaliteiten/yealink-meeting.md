@@ -58,12 +58,12 @@ prijzen:
   tarieven:
     title: 'Callvoip-abonnees:'
     items:
-    - title: 'Eénmalig: '
-      price: 50,-
-    - title: 'Jaarabonnement: '
-      price: 160,-
     - title: 'Maandabonnement: '
       price: 16,-
+    - title: 'Jaarabonnement: '
+      price: 160,-
+    - title: 'Eénmalig: '
+      price: 50,-
     footer: Prijzen ex. BTW, voor abonnees van Callvoip
 - title: Yealink Meeting FREE
   content: 'Kies YM FREE om het gemak van dit systeem te leren kennen. Voer Meetings
