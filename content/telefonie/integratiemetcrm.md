@@ -7,7 +7,7 @@ logos: false
 hero:
   title: 'Koppel Callvoip met je CRM!'
   content: 'Met <b>VoIP CTI</b> (= Computer Telephony Integration) verbind je de Callvoip telefooncentrale
-    met je klantsysteem: CRM-, ERP- of administratiepakket. Na een dag wil je niet meer zonder! '
+    met je klantsysteem: CRM-, ERP- of administratiepakket. <br><b>Zeker weten: na één dag wil je niet meer zonder!</b> '
   button:
     content: Bereken je kosten
     link: "/calculator"
