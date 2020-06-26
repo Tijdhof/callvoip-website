@@ -48,9 +48,16 @@ textblocksfooter:
     op het hoogste niveau!<br><br><a href="https://callvoip.shop/431-yealink-meeting"
     target="_blank" class="button">Bekijk het aanbod bij Callvoip.shop</a>'
 prijzen:
-- title: Yealink Meeting GRATIS
-  content: 'De gratis editie van Yealink Meeting biedt gesprekken met een max. gespreksduur
-    van 40 minuten. Profiteer van 1 maand gratis 1 maand account upgrade. '
+- title: Yealink Meeting ENTERPRISE
+  content: 'Voor Yealink Meetings langer dan 40 minuten is er het Enterprise abonnement.
+    Bovendien koppel je ook Meeting Rooms (bv een cam in je vergaderzaal). '
+  button:
+    link: https://www.callvoip.nl/aanvragen/yealink-meeting/
+    title: 'Vraag gelijk aan: '
+  tarieven:
+    title: 'Yealink Meeting Enterprise, per organisator: '
+- title: Yealink Meeting FREE
+  content: 'Yealink Meeting FREE maakt gesprekken van max. 40 minuten mogelijk. '
   tarieven:
     title: Wat zijn de kosten?
     items:
