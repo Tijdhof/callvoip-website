@@ -60,7 +60,7 @@ prijzen:
       price: 0.-
     - title: Eënmalig
       price: 0,-
-    footer: Gratis maand upgrade naar Enterprise
+    footer: gratis 30 dagen upgrade naar Enterprise
   button:
     link: https://www.callvoip.nl/aanvragen/yealink-meeting/
     title: 'Vraag direct aan: '
@@ -72,7 +72,7 @@ prijzen:
     link: https://www.callvoip.nl/aanvragen/yealink-meeting/
     title: 'Vraag direct aan: '
   tarieven:
-    title: 'Enterprise - Callvoip-abonnees:'
+    title: 'Enterprise | Callvoip-abonnees:'
     items:
     - title: 'Maandabonnement: '
       price: 16,-
@@ -80,16 +80,16 @@ prijzen:
       price: 160,-
     - title: 'Eénmalig: '
       price: 50,-
-    footer: prijs p/organisator, ex. BTW, voor Callvoip-abonnees
+    footer: prijs p/organisator, ex. BTW, Callvoip-abonnees
 - title: Geen abonnee van Callvoip?
-  content: 'Ben je geen Callvoip-abonnee, maar wil je ook videobellen? Geen enkel
-    punt. Kies je voor Yealink Meeting Enterprise dan staan hieronder de bijbehorende
-    tarieven.   '
+  content: 'Ben je geen Callvoip-abonnee, maar wil je ook snel en gemakkelijk videobellen?
+    Geen enkel punt! Kies je voor Yealink Meeting Enterprise dan vind je hier de tarieven.
+    En het werkt in 5 minuten!    '
   button:
     link: https://www.callvoip.nl/aanvragen/yealink-meeting/
     title: 'Vraag direct aan: '
   tarieven:
-    title: 'Niet-Callvoip-abonnees: '
+    title: 'Enterprise | Niet-Callvoip-abonnee: '
     footer: prijs per organisator, ex. BTW
     items:
     - title: Maandabonnement
