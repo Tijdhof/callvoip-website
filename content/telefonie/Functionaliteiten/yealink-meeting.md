@@ -56,14 +56,15 @@ prijzen:
     link: https://www.callvoip.nl/aanvragen/yealink-meeting/
     title: 30 dagen Enterprise gratis?
   tarieven:
-    title: 'Prijs per organisator per maand:  '
+    title: 'Callvoip-abonnees:'
     items:
     - title: 'Eénmalig: '
       price: 50,-
-    - title: 'Callvoip-abonnee, maandprijs: '
+    - title: 'Jaarabonnement: '
       price: 160,-
-    - title: Maandelijks (niet-Callvoip-abonnee)
-      price: '19,00'
+    - title: 'Maandabonnement: '
+      price: 16,-
+    footer: Prijzen ex. BTW, voor abonnees van Callvoip
 - title: Yealink Meeting FREE
   content: 'Kies YM FREE om het gemak van dit systeem te leren kennen. Voer Meetings
     tot 40 minuten, ervaar zelf hoe Dummy Proof deze vorm van videobellen werkt!  '
