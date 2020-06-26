@@ -11,7 +11,7 @@ aliases:
 hero:
   title: CRM Lookup
   content: 'Je wordt gebeld. Op display het nummer van de afzender, als je geluk hebt staat hij of zij in je telefoonboek en zie je een naam. Maar als je alles van de beller wilt weten, moet je je CRM openen en de beller opzoeken. Dat kunnen wij nu heel gemakkelijk maken met onze uitbreiding van de <br> <a href="/clicktodial">Click-to-Dial</a> chrome plugin: <b>CRM Lookup.</b>'
-  image: "/v1571655384/cti_new_zkrvij.png"
+  image: "/v1571655384/crmlookup-c2d_tj9slw.png"
   image_position: center
   disable_image_on_mobile: false
   button:
