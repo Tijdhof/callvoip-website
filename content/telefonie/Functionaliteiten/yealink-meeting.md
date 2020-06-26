@@ -52,9 +52,6 @@ prijzen:
   content: 'Yealink Meeting is er in diverse varianten, startend met een gratis dienst
     met max. gespreksduur van 40 minuten. Profiteer van 1 maand gratis 1 maand account
     upgrade. '
-  button:
-    title: Bereken je kosten
-    link: "/calculator/"
   tarieven:
     title: Wat zijn de kosten?
     items:
