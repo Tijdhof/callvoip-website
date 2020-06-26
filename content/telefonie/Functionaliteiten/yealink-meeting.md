@@ -48,6 +48,37 @@ textblocksfooter:
     op het hoogste niveau!<br><br><a href="https://callvoip.shop/431-yealink-meeting"
     target="_blank" class="button">Bekijk het aanbod bij Callvoip.shop</a>'
 prijzen:
+- title: Geen abonnee van Callvoip?
+  content: 'Ben je geen Callvoip-abonnee, maar wil je ook videobellen? Geen enkel
+    punt. Kies je voor Yealink Meeting Enterprise dan staan hieronder de bijbehorende
+    tarieven.   '
+  button:
+    link: https://www.callvoip.nl/aanvragen/yealink-meeting/
+    title: 'Vraag direct aan: '
+  tarieven:
+    title: 'Niet-Callvoip-abonnees: '
+    footer: prijzen ex. BTW
+    items:
+    - title: Maandabonnement
+      price: 19,-
+    - title: 'Jaarabonnement: '
+      price: 190,-
+    - title: Eénmalig
+      price: 50,-
+- title: Yealink Meeting FREE
+  content: 'Kies YM FREE om het gemak van dit systeem te leren kennen. Voer Meetings
+    tot 40 minuten, ervaar zelf hoe Dummy Proof deze vorm van videobellen werkt!  '
+  tarieven:
+    title: Wat zijn de kosten?
+    items:
+    - title: 'Maandelijks vanaf: '
+      price: '0.00'
+    - title: Eenmalig
+      price: '0.00'
+    footer: Gratis maand upgrade naar Enterprise
+  button:
+    link: https://www.callvoip.nl/aanvragen/yealink-meeting/
+    title: 'Gratis 30 dagen Enterprise demo? '
 - title: Yealink Meeting ENTERPRISE
   content: 'Kies YM Enterprise als je Meetings van 40+ min voert en/of als je ook
     camera''s op bureaus, in ruimten en in vergaderzalen wilt koppelen. Er is veel
@@ -65,20 +96,6 @@ prijzen:
     - title: 'Eénmalig: '
       price: 50,-
     footer: Prijzen ex. BTW, voor abonnees van Callvoip
-- title: Yealink Meeting FREE
-  content: 'Kies YM FREE om het gemak van dit systeem te leren kennen. Voer Meetings
-    tot 40 minuten, ervaar zelf hoe Dummy Proof deze vorm van videobellen werkt!  '
-  tarieven:
-    title: Wat zijn de kosten?
-    items:
-    - title: 'Maandelijks vanaf: '
-      price: '0.00'
-    - title: Eenmalig
-      price: '0.00'
-    footer: Gratis maand upgrade naar Enterprise
-  button:
-    link: https://www.callvoip.nl/aanvragen/yealink-meeting/
-    title: 'Gratis 30 dagen Enterprise demo? '
 images: []
 hideinsearch: false
 hideingoogle: false
