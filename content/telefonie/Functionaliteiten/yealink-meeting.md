@@ -65,12 +65,12 @@ prijzen:
     link: https://www.callvoip.nl/aanvragen/yealink-meeting/
     title: 'Gratis 30 dagen Enterprise demo? '
 - title: Yealink Meeting ENTERPRISE
-  content: 'Kies YM Enterprise als je Meetings van 40+ min voert en/of als je ook
-    camera''s op bureaus, in ruimten en in vergaderzalen wilt koppelen. Er is veel
-    mogelijk! Vraag ons. '
+  content: 'Kies YM Enterprise als je Meetings van 40+ minuten voert en/of als je
+    ook camera''s op bureaus, in ruimten en in vergaderzalen wilt koppelen. Er is
+    veel mogelijk! Vraag ons. '
   button:
     link: https://www.callvoip.nl/aanvragen/yealink-meeting/
-    title: 30 dagen Enterprise gratis?
+    title: Gratis 30 dagen Enterprise demo?
   tarieven:
     title: 'Enterprise - Callvoip-abonnees:'
     items:
@@ -80,7 +80,7 @@ prijzen:
       price: 160,-
     - title: 'Eénmalig: '
       price: 50,-
-    footer: Prijzen ex. BTW, voor abonnees van Callvoip
+    footer: Prijzen p/organisator ex. BTW, voor Callvoip-abonnees
 - title: Geen abonnee van Callvoip?
   content: 'Ben je geen Callvoip-abonnee, maar wil je ook videobellen? Geen enkel
     punt. Kies je voor Yealink Meeting Enterprise dan staan hieronder de bijbehorende
