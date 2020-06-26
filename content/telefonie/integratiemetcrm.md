@@ -5,8 +5,8 @@ layout: default
 aliases: "/cti /voipcti"
 logos: false
 hero:
-  title: 'Koppel Callvoip met je CRM: VoIP CTI'
-  content: 'Met VoIP CTI (= Computer Telephony Integration) verbind je de Callvoip telefooncentrale
+  title: 'Koppel Callvoip met je CRM!'
+  content: 'Met <b>VoIP CTI</b> (= Computer Telephony Integration) verbind je de Callvoip telefooncentrale
     met je klantsysteem: CRM-, ERP- of administratiepakket. Na een dag wil je niet meer zonder! '
   button:
     content: Bereken je kosten
