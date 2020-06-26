@@ -21,10 +21,6 @@ hero:
   image: "/v1580985070/clicktodial-vegrootglas_omhsqy.png"
   image_position: start
   disable_image_on_mobile: false
-  mobile: ''
-  button:
-    content: ''
-    link: ''
 blocks:
 - title: 'Click-to-Dial plugin: Welke functies heeft het?'
   image: "/v1582639629/clicktdial_handleiding_middba.png"
