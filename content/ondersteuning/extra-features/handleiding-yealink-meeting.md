@@ -11,8 +11,8 @@ Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf
 
 ---
-<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf">Download de Account Enterprise Setup handleiding</a>  
-<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf">Download de PDF handleiding</a>
+<a href="[http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf](http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf "http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf")” target=”_blank”>Download de Setup Guide</a>  
+<a href="[http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf](http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf "http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf")” target=”_blank”>Download de Quick Start Guide Videobellen</a>
 
 **Videobellen zonder gedoe? Ontdek Yealink Meeting!**  
 … en ervaar dat je maar één linkje verwijderd bent van een videogesprek met wie dan ook, waar dan ook, en wat voor apparatuur dan ook.  
