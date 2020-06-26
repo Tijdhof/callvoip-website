@@ -43,8 +43,8 @@ blocks:
     koppeling dan de click-to-dial.<br><br>Wil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
     API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
-    die de kunst van programmeren verstaan én de Callvoip API kennen. <br> <a href="/ondersteuning/integraties/cti-overzicht/"
-    class="button">Klaar om te koppelen</a>'
+    die de kunst van programmeren verstaan én de Callvoip API kennen. <br><br> <a href="/ondersteuning/integraties/cti-overzicht/"
+    class="button">Klaar om te koppelen?</a>'
   position: image_right
   image_position: center
 usps:
