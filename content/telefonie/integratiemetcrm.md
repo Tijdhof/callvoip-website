@@ -5,12 +5,12 @@ layout: default
 aliases: "/cti /voipcti"
 logos: false
 hero:
-  title: VoIP CTI
-  content: 'Met VoIP CTI (= Computer Telephony Integration) verbindt u de Simmpl telefooncentrale
-    met uw klantsysteem (CRM-, ERP- of administratiepakketten). '
+  title: VoIP CTI: koppel Callvoip met jouw CRM
+  content: 'Met VoIP CTI (= Computer Telephony Integration) verbind je de Callvoip telefooncentrale
+    met je relatiesysteem: CRM-, ERP- of administratieprogramma. Na een dag wil je niet meer zonder! '
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Ja, dat wil ik!
+    link: "/aanvragen/voip-cti/"
   image: "/v1577105792/cti_new_zkrvij.png"
   image_position: center
   disable_image_on_mobile: false
@@ -20,8 +20,7 @@ blocks:
     <br> Voor VoIP CTI heb je nodig:
 
     • de Callvoip telefooncentrale<br>
-    • een Windows-PC (aan Apple-mogelijkheden wordt gewerkt) <br>
-    • jouw CRM-pakket, bv Realworks, Afas, Exact, Pipedrive, Simplicate, etc. <br>
+    • een CRM-pakket, bv Realworks, Bytegear, Exquise, Simplex, Afas, , etc. <br>
 
     Voor veel pakketten is de installatie eenvoudig, en wij doen het werk. We installeren de software om de koppeling in te stellen. Zo profiteer jij snel van de voordelen!
 
@@ -34,13 +33,9 @@ blocks:
   image_position: ''
 - title: Vergelijking met andere integratie
   image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
-  content: 'De Callvoip telefooncentrale is klaar om te koppelen!\nJe weet het: we
-    houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een basisintegratie
-    biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
-    een gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant
-    kostenloos.\n\nWil je meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
-    met een ruime keuze aan CRM- en ERP-pakketten. Deze biedt je een specifiekere
-    koppeling dan de click-to-dial.\n\nWil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
+  content: 'De Callvoip telefooncentrale is klaar om te koppelen!<br>Je weet het: we
+    houden het graag Simmpl! En daarom bieden we verschillende soorten integratie: basisintegratie
+    via de <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a> app: een handige telefonie-toolbox met gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant gratis.<br> Wil je meer? Koppel dan met jouw CRM systeem. Dat kan via VoIP CTI en <a href=\"/crmlookup/\">CRM Lookup</a>. We kijken graag mee wat voor jou de beste keuze is. <br> Wil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
     API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Callvoip API kennen. <br> <a href="/ondersteuning/integraties/cti-overzicht/"
