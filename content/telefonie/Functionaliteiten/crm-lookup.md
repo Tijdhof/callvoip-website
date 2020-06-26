@@ -1,6 +1,8 @@
 ---
 title: CRM Look up | Integratie
-description: 'CRM look up, heel eenvoudig: de zoekactie in jouw CRM volledig automatiseren! Dus je wordt gebeld en wij zoeken voor jou de klantgegevens in het CRM erbij en openen deze op je scherm.'
+description: 'CRM look up, heel eenvoudig: de zoekactie in jouw CRM volledig automatiseren!
+  Dus je wordt gebeld en wij zoeken voor jou de klantgegevens in het CRM erbij en
+  openen deze op je scherm.'
 type: page
 layout: default2
 logos: true
@@ -9,8 +11,12 @@ aliases:
 - "/crmlookup"
 - "/telefonie/functionaliteiten/crm-lookup/"
 hero:
-  title: CRM Lookup
-  content: 'Je wordt gebeld. Op display het nummer van de afzender, als je geluk hebt staat hij of zij in je telefoonboek en zie je een naam. Maar als je alles van de beller wilt weten, moet je je CRM openen en de beller opzoeken. Dat kunnen wij nu heel gemakkelijk maken met onze uitbreiding van de <br> <a href="/clicktodial">Click-to-Dial</a> chrome plugin: <b>CRM Lookup.</b>'
+  title: Koppel nu met je eigen CRM
+  content: 'Je wordt gebeld. Op display het nummer van de afzender, als je geluk hebt
+    staat hij of zij in je telefoonboek en zie je een naam. Maar als je alles van
+    de beller wilt weten, moet je je CRM openen en de beller opzoeken. Dat kunnen
+    wij nu heel gemakkelijk maken met onze uitbreiding van de <br> <a href="/clicktodial">Click-to-Dial</a>
+    chrome plugin: <b>CRM Lookup.</b>'
   image: "/v1571655384/crmlookup-c2d_tj9slw.png"
   image_position: center
   disable_image_on_mobile: false
@@ -18,16 +24,25 @@ hero:
     content: Ja, dit wil ik
     link: "/aanvragen/crm-lookup/"
 blocks:
-- content: Heel eenvoudig; de zoekactie in jouw CRM volledig automatiseren! Dus je wordt gebeld en wij zoeken voor jou de klantgegevens in het CRM erbij en openen deze op je scherm. Dan kun jij je lekker bezig houden met de inhoud van het gesprek en gemakkelijk de klanthistorie inzien<br><br>Heb je één van onderstaande CRM pakketten? Dan heb je geluk en is de CRM Lookup voor jou al beschikbaar.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup" class="button">Hoe werkt het?</a>
+- content: Heel eenvoudig; de zoekactie in jouw CRM volledig automatiseren! Dus je
+    wordt gebeld en wij zoeken voor jou de klantgegevens in het CRM erbij en openen
+    deze op je scherm. Dan kun jij je lekker bezig houden met de inhoud van het gesprek
+    en gemakkelijk de klanthistorie inzien<br><br>Heb je één van onderstaande CRM
+    pakketten? Dan heb je geluk en is de CRM Lookup voor jou al beschikbaar.<br><br><a
+    href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-crm-lookup"
+    class="button">Hoe werkt het?</a>
   image: "/v1572861318/crmlookup_kuf7qr.png"
   position: image_left
-  title: 'Wat doet CRM Lookup?'
+  title: Wat doet CRM Lookup?
   image_position: center
-- content: Koppel de Click to Dial chrome app nu ook met je CRM!<br>Een groeiend aantal CRM-pakketten
-    is hiervoor geschikt:<br><br>1. Zendesk<br>2. Freshdesk <br>3. Teamleader<br>4. Salesforce<br>5. Afas<br>6. Google Contacts<br>7. Office 365 contacts<br>8. Exact Online<br>9. Simplicate<br>10. Zoho CRM<Br>11. Pipedrive<br>12. <a href="/contact/"> Welk pakket wil jij koppelen? Laat het ons weten!</a> 
+- content: Koppel de Click to Dial chrome app nu ook met je CRM!<br>Een groeiend aantal
+    CRM-pakketten is hiervoor geschikt:<br><br>1. Zendesk<br>2. Freshdesk <br>3. Teamleader<br>4.
+    Salesforce<br>5. Afas<br>6. Google Contacts<br>7. Office 365 contacts<br>8. Exact
+    Online<br>9. Simplicate<br>10. Zoho CRM<Br>11. Pipedrive<br>12. <a href="/contact/">
+    Welk pakket wil jij koppelen? Laat het ons weten!</a>
   image: "/v1572861318/crm_nh1zox.png"
   position: image_right
-  title: 'Click-to-Dial nu ook te koppelen met je CRM!'
+  title: Click-to-Dial nu ook te koppelen met je CRM!
   image_position: center
 prijzen:
 - title: CRM Look up
