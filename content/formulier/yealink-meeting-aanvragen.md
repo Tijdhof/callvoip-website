@@ -69,7 +69,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Gratis licentie
+Yealink Meeting FREE
 
 {{</ layout/column3 >}}
 
@@ -91,19 +91,39 @@ Gratis licentie
 
 {{< layout/column3 >}}
 
-Enterprise licentie
+Yealink Meeting ENTERPRISE voor CALLVOIP-ABONNEES
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 20,00 excl. BTW
+€ 17,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 0,00 excl. BTW
+€ 50,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/column3 >}}
+
+Yealink Meeting ENTERPRISE voor CALLVOIP-ABONNEES
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 17,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 50,00 excl. BTW
 
 {{</ layout/column3 >}}
 
