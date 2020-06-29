@@ -112,7 +112,7 @@ Yealink Meeting Enterprise voor Callvoip-abonnees
 
 {{< layout/column3 >}}
 
-Yealink Meeting Enterprise voor niet-Callvoip-abonnees
+Yealink Meeting Enterprise voor <b>niet</b>-Callvoip-abonnees
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
