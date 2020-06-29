@@ -81,7 +81,7 @@ Yealink Meeting FREE
 
 {{< layout/column3 >}}
 
-€ 00,00 excl. BTW
+€ 0,00 excl. BTW
 
 {{</ layout/column3 >}}
 
@@ -108,6 +108,8 @@ Yealink Meeting ENTERPRISE voor CALLVOIP-ABONNEES
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
+
+{{< layout/columns >}}
 
 {{< layout/column3 >}}
 
