@@ -90,8 +90,7 @@ Yealink Meeting FREE
 {{< layout/columns >}}
 
 {{< layout/column3 >}}
-
-Yealink Meeting ENTERPRISE voor CALLVOIP-ABONNEES
+Yealink Meeting Enterprise voor Callvoip-abonnees
 
 {{</ layout/column3 >}}
 
@@ -113,13 +112,12 @@ Yealink Meeting ENTERPRISE voor CALLVOIP-ABONNEES
 
 {{< layout/column3 >}}
 
-Yealink Meeting ENTERPRISE voor CALLVOIP-ABONNEES
-
+Yealink Meeting Enterprise voor niet-Callvoip-abonnees
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 17,00 excl. BTW
+€ 19,00 excl. BTW
 
 {{</ layout/column3 >}}
 
