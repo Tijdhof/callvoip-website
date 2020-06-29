@@ -28,7 +28,7 @@ blocks:
     In totaal kan er met <a href="https://www.callvoip.nl/ondersteuning/integraties/voip-cti/" target="_blank">meer dan 100 pakketten</a> een koppeling worden gemaakt! Benieuwd of de telefooncentrale gekoppeld kan worden met jouw pakket?
 
     <a href="/ondersteuning/integraties/voip-cti-handleiding/" class="button">Hoe werkt het?</a>
-  image: "/v1564654858/intergratiemetcrm-flat_n40ydz.png"
+  image: "/v1564654858/voipcti_gw0nmk.png"
   position: image_left
   title: Wat is er nodig en welke applicaties kun je koppelen?
   image_position: ''
