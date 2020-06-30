@@ -20,7 +20,6 @@ contactpersoon: []
 categories: []
 tags: []
 type: ''
-draft: true
 
 ---
 Steeds meer Callvoip klanten leren hem kennen: onze Chrome plugin [Click-to-Dial](https://www.callvoip.nl/telefonie/clicktodial/ "Click to Dial"). Installeer hem gratis in je Chrome Browser (Of nu ook Microsoft Edge), inloggen en je hebt jouw eigen telefoonboek, popups van een belletje en veel meer moois.
@@ -35,4 +34,4 @@ De koppeling zorgt ervoor dat bij elk inkomend belletje de bijbehorende CRM pagi
 
 ### Wat is jouw CRM? 
 
-Inmiddels is de CRM Lookup al beschikbaar voor meer dan 10 veel voorkomende CRM pakketten. Dat moeten er natuurlijk meer worden, maar welk CRM zou jij liefst vandaag nog gekoppeld zien worden? Laat het ons via onderstaande poll weten en wie weet is jouw CRM de volgende!  
+Inmiddels is de CRM Lookup al beschikbaar voor meer dan 10 veel voorkomende CRM pakketten. Dat moeten er natuurlijk meer worden, maar welk CRM zou jij liefst vandaag nog gekoppeld zien worden? Laat het ons via onderstaande poll weten en wie weet is jouw CRM de volgende!
