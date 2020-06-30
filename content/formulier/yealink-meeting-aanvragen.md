@@ -5,7 +5,7 @@ url: "/aanvragen/yealink-meeting/"
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht. Wij nemen contact op om je te assisteren bij de ingebruikname van Yealink Meeting.   
   
-Na aanvraag tijdelijk 30 dagen GRATIS Demo  Yealink Meeting Enterprise licentie.  
+<b>Na aanvraag tijdelijk 30 dagen GRATIS Demo  Yealink Meeting Enterprise licentie.</b>
 
 {{< form "aanvragen-yealinkmeeting" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -15,7 +15,7 @@ Na aanvraag tijdelijk 30 dagen GRATIS Demo  Yealink Meeting Enterprise licentie.
 
 {{< form/input "Bedrijfsnaam" >}}
 
-{{< form/input "Klantnummer" required >}}
+{{< form/input "Klantnummer (alleen nodig als je klant van Callvoip bent)" >}}
 
 {{< form/select "Aanhef" >}}
 
