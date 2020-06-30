@@ -132,7 +132,7 @@ Aanpassingen aan de integratie
 
 {{< layout/column3 >}}
 
-€ 00,00 excl. BTW
+€ 0,00 excl. BTW
 
 {{</ layout/column3 >}}
 
