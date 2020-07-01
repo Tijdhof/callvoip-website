@@ -75,9 +75,9 @@ prijzen:
     title: 'Enterprise | Callvoip-abonnee:'
     items:
     - title: 'Maandabonnement: '
-      price: 17,-
+      price: '16,95'
     - title: 'Jaarabonnement: '
-      price: 170,-
+      price: '165,90'
     - title: 'Eénmalig: '
       price: 50,-
     footer: prijs per host, ex. BTW, Callvoip-abonnees
@@ -93,9 +93,9 @@ prijzen:
     footer: prijs per host, ex. BTW
     items:
     - title: Maandabonnement
-      price: 19,-
+      price: '18,95'
     - title: 'Jaarabonnement: '
-      price: 190,-
+      price: '185,90'
     - title: Eénmalig
       price: 50,-
 images: []
