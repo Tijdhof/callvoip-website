@@ -52,7 +52,7 @@ blocks:
     Simplicate<br>10. Zoho CRM<Br>11. Pipedrive<br>12. <a href="/contact/"> Welk pakket
     wil jij koppelen? Laat het ons weten!</a>
   image: "/v1572861318/crm_nh1zox.png"
-  position: image_right
+  position: image_left
   title: Werkt CRM Lookup ook met mijn CRM?
   image_position: center
 prijzen:
