@@ -66,6 +66,5 @@ textblocks:
     is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee. \nQaller
     app is echt een uitkomst (...) Integratie met browser, Microsoft teams, cloud
     van yealink is echt top.\"\n\n"
-draft: true
 
 ---
