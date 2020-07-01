@@ -1,5 +1,5 @@
 ---
-title: 'Click-to-Dial verbeterd: nu ook koppeling met je CRM'
+title: 'Click-to-Dial update: CRM koppeling'
 description: 'Onze Chrome plugin is vernieuwd en koppelt nu met de meest voorkomende
   CRM systemen. Zo kun jij je bezig houden met de belangrijke zaken. '
 images:
