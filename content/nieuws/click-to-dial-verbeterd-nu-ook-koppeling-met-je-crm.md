@@ -2,7 +2,8 @@
 title: 'Click-to-Dial verbeterd: nu ook koppeling met je CRM'
 description: 'Onze Chrome plugin is vernieuwd en koppelt nu met de meest voorkomende
   CRM systemen. Zo kun jij je bezig houden met de belangrijke zaken. '
-images: []
+images:
+- "/v1593074440/crmlookup_kuf7qr.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -14,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-06-30T22:00:00+00:00
 url: click-to-dial-crm-lookup
 contactpersoon: []
 categories: []
