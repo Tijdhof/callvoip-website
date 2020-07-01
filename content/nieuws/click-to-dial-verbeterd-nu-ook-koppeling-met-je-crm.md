@@ -8,7 +8,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1593074440/crmlookup_kuf7qr.png"
 hero:
   image: ''
   mobile: ''
