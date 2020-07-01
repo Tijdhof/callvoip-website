@@ -79,7 +79,7 @@ prijzen:
     - title: 'Jaarabonnement: '
       price: '165,90'
     - title: 'Eénmalig: '
-      price: 50,-
+      price: '50,00'
     footer: prijs per host, ex. BTW, Callvoip-abonnees
 - title: Geen abonnee van Callvoip?
   content: 'Ben je geen Callvoip-abonnee, maar wil je ook snel en gemakkelijk videobellen?
@@ -97,7 +97,7 @@ prijzen:
     - title: 'Jaarabonnement: '
       price: '185,90'
     - title: Eénmalig
-      price: 50,-
+      price: '50,00'
 images: []
 hideinsearch: false
 hideingoogle: false
