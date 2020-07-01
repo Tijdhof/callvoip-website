@@ -33,6 +33,18 @@ blocks:
   position: image_left
   title: Wat doet CRM Lookup?
   image_position: center
+- title: Basic of Customized?
+  links: ''
+  content: "CRM Lookup is in 2 varianten beschikbaar. De Basic uitvoering is alles
+    behalve basic. Integratie van meer dan 10 veelvoorkomende CRM systemen, popups
+    van telefoontjes waarmee je direct je klantgegevens in jouw eigen CRM tevoorschijn
+    tovert. \nGa je voor Customized, dan bepaal jij zelf wat er moet gebeuren wanneer
+    je de popup aanklikt. Klantgegevens of factuurgegevens, notities, noem maar op.
+    Samen bepalen we de handigste stappen. "
+  image: "/v1572861318/crmlookup_kuf7qr.png"
+  image_link: ''
+  position: image_right
+  image_position: center
 - content: Heb je één van onderstaande CRM pakketten? Dan heb je geluk en is de CRM
     Lookup voor jou al beschikbaar. <br>Een groeiend aantal CRM-pakketten is hiervoor
     geschikt:<br><br>1. Zendesk<br>2. Freshdesk <br>3. Teamleader<br>4. Salesforce<br>5.
@@ -44,7 +56,7 @@ blocks:
   title: Werkt CRM Lookup ook met mijn CRM?
   image_position: center
 prijzen:
-- title: CRM Look up
+- title: CRM Lookup
   content: Popup, klik en open de klantkaart
   button:
     title: Bereken je kosten
