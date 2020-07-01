@@ -1,6 +1,6 @@
 ---
 title: Callvoip - Zakelijk internet en bellen
-url: landing_vastmobiel
+url: zakelijk-internet-en-bellen
 type: page
 hero:
   content:
@@ -24,15 +24,15 @@ blocks:
   content: ''
 double_content:
   left:
-    title: Zelf zien hoe dat werkt?
-    content: 'Met de online centrale van Callvoip kun je jouw zakelijke, vaste telefonie
-      naadloos integreren met je smartphone. Bellen en gebeld worden, of simpelweg
-      doorschakelen? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Dit alles
-      laten we je in een telefoongesprek zien. We zoomen in op jouw vragen en situatie.
-      Helemaal gratis en vrijblijvend!<br><br><b>Wij bieden:</b><div class="usp-list"><ul><li>Volledige
-      integratie vast en mobiel</li><li>Ouderwets persoonlijke service</li><li>Een
-      betrouwbare, flexibele online telefooncentrale</li><li>Volledige controle over
-      jouw telefonie</li><li>Alles onder 1 dak: Telefonie, internet en apparatuur</li></ul></div>'
+    title: Betrouwbaar en snel internet en bellen.
+    content: 'Alles onder 1 dak, kant en klaar en supersnel geleverd. Callvoip combineert
+      de ongeëvenaarde online telefooncentrale met een internetverbinding waar je
+      op kunt vertrouwen. Dit alles laten we je in een telefoongesprek zien. We zoomen
+      in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!<br><br><b>Wij
+      bieden:</b><div class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet
+      en apparatuur</li><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets
+      persoonlijke service</li><li>Volledige controle over jouw telefonie</li><li>Volledige
+      integratie vast en mobiel</li></ul></div>'
   right:
     background: true
     background_color: "#efefef"
