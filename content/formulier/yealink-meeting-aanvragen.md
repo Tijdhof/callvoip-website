@@ -117,7 +117,7 @@ Yealink Meeting Enterprise <b>niet</b>-Callvoip-abonnees
 
 {{< layout/column3 >}}
 
-€ 17,95 excl. BTW
+€ 18,95 excl. BTW
 
 {{</ layout/column3 >}}
 
