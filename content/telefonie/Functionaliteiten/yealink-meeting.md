@@ -1,10 +1,10 @@
 ---
 title: Yealink Meeting | Video-bellen met Yealink Meeting
 description: 'Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting,
-  een betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
-  één klik toegang krijgen tot een video vergadering en met iedereen – waar en wanneer
-  dan ook – persoonlijk kunnen communiceren. Een perfecte oplossing voor de tijd van
-  nu. '
+  een betrouwbaar en betaalbaar videoplatform. Met Yealink Meeting krijg je binnen
+  één klik toegang krijgen tot een videovergadering en kun je met iedereen – waar
+  en wanneer dan ook – persoonlijk communiceren. Een perfecte oplossing voor de tijd
+  van nu. '
 type: page
 layout: default
 logos: true
