@@ -59,8 +59,8 @@ prijzen:
 - title: CRM Lookup
   content: Popup, klik en open de klantkaart
   button:
-    title: Bereken je kosten
-    link: "/calculator/"
+    title: Vraag CRM Lookup Basic aan
+    link: "/aanvragen/crm-lookup/"
   tarieven:
     title: Wat zijn de kosten?
     items:
@@ -71,8 +71,8 @@ prijzen:
 - title: CRM Lookup Customized
   content: Popup, klik en bepaal zelf de volgacties
   button:
-    title: Bereken je kosten
-    link: "/calculator/"
+    title: Vraag CRM Lookup Customized aan
+    link: "/aanvragen/crm-lookup/"
   tarieven:
     title: Wat zijn de kosten?
     items:
