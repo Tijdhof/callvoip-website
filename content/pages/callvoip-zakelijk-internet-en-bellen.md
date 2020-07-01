@@ -11,9 +11,9 @@ hero:
   title: Callvoip - VoIP Telefonie - Slim en persoonlijk
   disable_image_on_mobile: true
   link: ''
-description: Ben je op zoek naar de beste zakelijke telefonie met volledige integratie
-  van jouw smartphone? Vraag dan een rondleiding aan bij Callvoip en ontvang binnen
-  1 dag een uitnodiging.
+description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
+  service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
+  en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
