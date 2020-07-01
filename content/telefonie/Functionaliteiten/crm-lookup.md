@@ -41,7 +41,7 @@ blocks:
     tovert. \nGa je voor Customized, dan bepaal jij zelf wat er moet gebeuren wanneer
     je de popup aanklikt. Klantgegevens of factuurgegevens, notities, noem maar op.
     Samen bepalen we de handigste stappen. "
-  image: "/v1572861318/crmlookup_kuf7qr.png"
+  image: "/v1577105792/cti_new_zkrvij.png"
   image_link: ''
   position: image_right
   image_position: center
