@@ -56,7 +56,7 @@ blocks:
   title: Werkt CRM Lookup ook met mijn CRM?
   image_position: center
 prijzen:
-- title: CRM Lookup
+- title: CRM Lookup Basic
   content: Popup, klik en open de klantkaart
   button:
     title: Vraag CRM Lookup Basic aan
