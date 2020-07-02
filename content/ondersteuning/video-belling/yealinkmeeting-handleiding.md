@@ -9,7 +9,7 @@ hidesocialshare: false
 Nieuw: true
 Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf
-
+aliases: /ondersteuning/extra-features/handleiding-yealink-meeting/
 ---
 [Download de Setup Guide](http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf)  
 [Download de Quick Start Guide Videobellen](http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf)
