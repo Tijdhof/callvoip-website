@@ -69,7 +69,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< layout/column3 >}}
 
-**Tariefoverzicht**
+Tariefoverzicht
 
 {{</ layout/column3 >}}
 
@@ -87,20 +87,21 @@ Eenmalig
 
 {{</ layout/columns >}}
 
+{{< layout/columns >}}
+
 {{< layout/column3 >}}
 
-Per gebruiker
+Per organisatie {{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 4,00 excl. BTW
+
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 4
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 5
+€ 5,00 excl. BTW
 
 {{</ layout/column3 >}}
 
