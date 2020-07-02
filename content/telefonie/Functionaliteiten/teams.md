@@ -11,9 +11,7 @@ aliases:
 - "/telefonie/functionaliteiten/msteams/"
 hero:
   title: MS Teams
-  content: De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één
-    of meerdere interne of externe nummers door te schakelen. Daarnaast kunt u ervoor
-    kiezen in welke volgorde de toestellen rinkelen.
+  content: Microsoft Teams is een veel gebruikt communicatiesysteem. Sinds Corona is het gebruik ervan voor videobellen enorm gegroeid en daarmee ook de vraag of het kan worden gekoppeld met het Callvoip-telefoonsysteem, met als doel dat je op je zakelijke nummer kunt bellen en gebeld kunt worden, waarbij je je Teams-apps en apparatuur gebruikt. Goed nieuws: dit is mogelijk, wij bieden een naadloze koppeling voor integratie van MS Teams met je Callvoip-systeem!
   image: "/v1571655384/msteams_xpwzzm.png"
   image_position: center
   disable_image_on_mobile: false
