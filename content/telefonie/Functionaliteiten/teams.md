@@ -7,8 +7,8 @@ type: page
 layout: default
 logos: true
 aliases:
-- "/teams"
-- "/telefonie/functionaliteiten/teams/"
+- "/msteams"
+- "/telefonie/functionaliteiten/msteams/"
 hero:
   title: MS Teams
   content: De belgroep-app biedt u de mogelijkheid om een inkomend gesprek naar één
@@ -45,19 +45,18 @@ textblocksfooter:
     verschillende meldteksten.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-ms-teams/"
     class="button">Hoe werkt het?</a>
 prijzen:
-- title: MS Teams
-  content: Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl.
-    BTW voor betaalt)
+- title: MS Teams-koppeling
+  content: 'De MS Teams-koppeling kost 4 euro per koppeling (gebruiker) per maand. '
   button:
-    title: Bereken je kosten
-    link: "/calculator/"
+    title: 'Nu aanvragen: '
+    link: "/aanvragen/ms-teams/"
   tarieven:
     title: Wat zijn de kosten?
     items:
-    - title: Maandelijks
-      price: '0.00'
-    - title: Eenmalig
-      price: '0.00'
+    - title: Maandelijks p/gebruiker
+      price: '4.00'
+    - title: Eenmalig p/gebruiker
+      price: '5.00'
 images: []
 hideinsearch: true
 hideingoogle: true
