@@ -31,6 +31,18 @@ blocks:
   position: image_left
   title: De voordelen
   image_position: center
+blocks:
+- content: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
+    is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
+    Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend
+    te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling,
+    achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen.
+    Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
+    voor de afdeling sales is bedoeld.'
+  image: "/v1572861318/MSteams_beeuzx.png"
+  position: image_left
+  title: De voordelen
+  image_position: center
 prijzen:
 - title: MS Teams-koppeling
   content: 'De MS Teams-koppeling kost 4 euro per koppeling (gebruiker) per maand. '
