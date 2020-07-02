@@ -10,7 +10,7 @@ aliases:
 - "/msteams"
 - "/telefonie/functionaliteiten/msteams/"
 hero:
-  title: MS Teams
+  title: Koppel Callvoip met Microsoft Teams
   content: 'Microsoft Teams is een veel gebruikt communicatiesysteem. Sinds Corona is het gebruik ervan voor videobellen enorm gegroeid en daarmee ook de vraag of het kan worden gekoppeld met het Callvoip-telefoonsysteem, met als doel dat je op je zakelijke nummer kunt bellen en gebeld kunt worden, waarbij je je Teams-apps en apparatuur gebruikt. Goed nieuws: dit is mogelijk, wij bieden een naadloze koppeling voor integratie van MS Teams met je Callvoip-systeem!'
   image: "/v1571655384/msteams_xpwzzm.png"
   image_position: center
@@ -19,27 +19,21 @@ hero:
     content: Direct aanvragen
     link: "/aanvragen/ms-teams/"
 blocks:
-- content: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
-    is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
-    Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend
-    te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling,
-    achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen.
-    Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
-    voor de afdeling sales is bedoeld.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-ms-teams/"
+- content: 'MS Teams kan worden gebruikt op elke PC, Mac of mobiel apparaat, en dat voegt
+    flexibiliteit en plaats-onafhankelijkheid toe aan jouw team. Iedereen kan nu nog eenvoudiger 
+    inkomend en uitgaand zakelijk bellen - waar dan ook en met welke apparatuur dan ook.   
+    <br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-ms-teams/"
     class="button">Hoe werkt het?</a>'
   image: "/v1572861318/teams_ojza3v.png"
   position: image_left
-  title: De voordelen
+  title: Jouw team nog flexibeler
 textblocksfooter:
-- content1: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
-    is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
-    Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend
-    te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling,
-    achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen.
-    Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
-    voor de afdeling sales is bedoeld.'
+- content1: 'En natuurlijk ontbreekt de apparatuur niet. Kies je voor het integreren van Callvoip met MS Teams,
+    denk dan aan het gemak van een fijn bureautoestel. Hiermee beschik je nagenoeg over dezelfde functies als 
+    met de Teams app, zoals je contacten en agenda. De Teeams-geschikte VoIP-toestellen van Yealink zijn er in 
+    een aantal uitvoeringen, met touchscreen, camera, of kantelbaar display. Voor elke wens een model.'
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1593694950/MSteams_beeuzx.png">
-  title1: 'De voordelen...'
+  title1: 'MS Teams apparatuur'
   title2: ''
 prijzen:
 - title: MS Teams-koppeling
