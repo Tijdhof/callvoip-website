@@ -37,4 +37,4 @@ De koppeling zorgt ervoor dat bij elk inkomend belletje de bijbehorende CRM pagi
 
 Inmiddels is de CRM Lookup al beschikbaar voor meer dan 10 veel voorkomende CRM pakketten. Dat moeten er natuurlijk meer worden, maar welk CRM zou jij liefst vandaag nog gekoppeld zien worden? Laat het ons via onderstaande poll weten en wie weet is jouw CRM de volgende!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDM_Bnp3qNjUpY4GUE78BVuDOJOzF3PgaEoS6jPI_eDnbSVA/viewform?embedded=true" width="640" height="754" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDM_Bnp3qNjUpY4GUE78BVuDOJOzF3PgaEoS6jPI_eDnbSVA/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
