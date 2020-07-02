@@ -42,7 +42,6 @@ textblocksfooter:
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1593694950/MSteams_beeuzx.png">
   title: 'De voordelen'
   title2: ''
-  image_position: center
 prijzen:
 - title: MS Teams-koppeling
   content: 'De MS Teams-koppeling kost 4 euro per koppeling (gebruiker) per maand. '
