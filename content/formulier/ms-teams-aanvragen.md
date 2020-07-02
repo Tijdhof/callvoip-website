@@ -87,29 +87,6 @@ Eenmalig
 
 {{</ layout/columns >}}
 
-{{< layout/columns >}}
-
-{{< layout/column3 >}}
-
-Per organisatie
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ Prijs nog onbekend
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ Prijs nog onbekend
-
-{{</ layout/column3 >}}
-
-{{</ layout/columns >}}
-
-{{< layout/columns >}}
-
 {{< layout/column3 >}}
 
 Per gebruiker
@@ -117,13 +94,13 @@ Per gebruiker
 
 {{< layout/column3 >}}
 
-€ Prijs nog onbekend
+€ 4
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ Prijs nog onbekend
+€ 5
 
 {{</ layout/column3 >}}
 
