@@ -16,8 +16,8 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Direct aanvragen
+    link: "/aanvragen/ms-teams/"
 blocks:
 - content: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
     is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
