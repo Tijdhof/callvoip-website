@@ -2,7 +2,7 @@
 title: MS Teams | Koppel Callvoip met je MS Teams-omgeving
 description: 'Koppel Callvoip met MS Teams en profiteer van het best van twee werelden!
   Jouw nummer rinkelt op jouw MS Teams account. En we hebben er ook speciale MS Team-toestellen
-  bij. Hoe handig is dat? '
+  bij. Hoe handig is dat?'
 type: page
 layout: default
 logos: true
@@ -11,7 +11,7 @@ aliases:
 - "/telefonie/functionaliteiten/msteams/"
 hero:
   title: MS Teams
-  content: Microsoft Teams is een veel gebruikt communicatiesysteem. Sinds Corona is het gebruik ervan voor videobellen enorm gegroeid en daarmee ook de vraag of het kan worden gekoppeld met het Callvoip-telefoonsysteem, met als doel dat je op je zakelijke nummer kunt bellen en gebeld kunt worden, waarbij je je Teams-apps en apparatuur gebruikt. Goed nieuws: dit is mogelijk, wij bieden een naadloze koppeling voor integratie van MS Teams met je Callvoip-systeem!
+  content: 'Microsoft Teams is een veel gebruikt communicatiesysteem. Sinds Corona is het gebruik ervan voor videobellen enorm gegroeid en daarmee ook de vraag of het kan worden gekoppeld met het Callvoip-telefoonsysteem, met als doel dat je op je zakelijke nummer kunt bellen en gebeld kunt worden, waarbij je je Teams-apps en apparatuur gebruikt. Goed nieuws: dit is mogelijk, wij bieden een naadloze koppeling voor integratie van MS Teams met je Callvoip-systeem!'
   image: "/v1571655384/msteams_xpwzzm.png"
   image_position: center
   disable_image_on_mobile: false
@@ -19,13 +19,13 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
 blocks:
-- content: Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
+- content: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
     is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
     Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend
     te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling,
     achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen.
     Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
-    voor de afdeling sales is bedoeld.
+    voor de afdeling sales is bedoeld.'
   image: "/v1572861318/teams_ojza3v.png"
   position: image_left
   title: Extra info block
