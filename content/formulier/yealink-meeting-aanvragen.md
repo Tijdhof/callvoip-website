@@ -85,6 +85,24 @@ Yealink Meeting FREE
 
 {{</ layout/column3 >}}
 
+{{< layout/column4 >}}
+
+test
+
+{{</ layout/column4 >}}
+
+{{< layout/column4 >}}
+
+test2
+
+{{</ layout/column4 >}}
+
+{{< layout/column4 >}}
+
+test3
+
+{{</ layout/column4 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
