@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Setup Guide
+title: Download de Setup Guide
 description: ''
 images: []
 hideinsearch: false
