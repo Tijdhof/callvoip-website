@@ -40,7 +40,7 @@ textblocksfooter:
     Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
     voor de afdeling sales is bedoeld.'
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1593694950/MSteams_beeuzx.png">
-  title: 'De voordelen'
+  title1: 'De voordelen'
   title2: ''
 prijzen:
 - title: MS Teams-koppeling
