@@ -30,7 +30,6 @@ blocks:
   image: "/v1572861318/teams_ojza3v.png"
   position: image_left
   title: De voordelen
-  image_position: center
 textblocksfooter:
 - content1: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
     is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
@@ -40,7 +39,7 @@ textblocksfooter:
     Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
     voor de afdeling sales is bedoeld.'
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1593694950/MSteams_beeuzx.png">
-  title1: 'De voordelen'
+  title1: 'De voordelen...'
   title2: ''
 prijzen:
 - title: MS Teams-koppeling
