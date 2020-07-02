@@ -8,7 +8,7 @@ hideingoogle: false
 hidesocialshare: false
 Nieuw: true
 Update: false
-pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf
 url: setupguide
 aliases: setupguide
 ---
