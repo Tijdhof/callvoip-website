@@ -32,16 +32,16 @@ blocks:
   title: De voordelen
   image_position: center
 textblocksfooter:
-- content: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
+- content1: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
     is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
     Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend
     te druk? Plaats dan een tweede belgroep, met bijvoorbeeld een hele andere afdeling,
     achter de eerste belgroep. Deze werknemers kunnen dan ook de gesprekken opnemen.
     Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
     voor de afdeling sales is bedoeld.'
-  image: "/v1572861318/MSteams_beeuzx.png"
-  position: image_right
-  title: De voordelen
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1593694950/MSteams_beeuzx.png">
+  title: 'De voordelen'
+  title2: ''
   image_position: center
 prijzen:
 - title: MS Teams-koppeling
