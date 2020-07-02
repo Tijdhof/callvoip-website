@@ -29,7 +29,7 @@ blocks:
     class="button">Hoe werkt het?</a>'
   image: "/v1572861318/teams_ojza3v.png"
   position: image_left
-  title: Extra info block
+  title: De voordelen
   image_position: center
 prijzen:
 - title: MS Teams-koppeling
