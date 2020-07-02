@@ -31,7 +31,7 @@ blocks:
   position: image_left
   title: De voordelen
   image_position: center
-blocks:
+textblocksfooter:
 - content: 'Als u meerdere werknemers/collega’s heeft die de telefoon kunnen opnemen
     is de belgroep een uitkomst. Denk hierbij aan bijvoorbeeld een afdeling (bijv.
     Sales). Het toestel dat als eerste aanneemt heeft het gesprek. Is het soms inkomend
