@@ -4,6 +4,6 @@ images = []
 layout = "overview"
 pdf = ""
 title = "Integraties: Click2Dial, VoIP CTI, API"
-weight = 7
+weight = 6
 
 +++
