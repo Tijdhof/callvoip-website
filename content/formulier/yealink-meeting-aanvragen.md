@@ -63,6 +63,12 @@ Eenmalig
 
 {{</ layout/column3 >}}
 
+{{< layout/column3 >}}
+
+Test
+
+{{</ layout/column3 >}}
+
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
@@ -84,24 +90,6 @@ Yealink Meeting FREE
 € 0,00 excl. BTW
 
 {{</ layout/column3 >}}
-
-{{< layout/column4 >}}
-
-test
-
-{{</ layout/column4 >}}
-
-{{< layout/column4 >}}
-
-test2
-
-{{</ layout/column4 >}}
-
-{{< layout/column4 >}}
-
-test3
-
-{{</ layout/column4 >}}
 
 {{</ layout/columns >}}
 
@@ -142,6 +130,28 @@ Yealink Meeting Enterprise <b>niet</b>-Callvoip-abonnees
 {{< layout/column3 >}}
 
 € 50,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+Test1
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+Test2
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+Test3
 
 {{</ layout/column3 >}}
 
