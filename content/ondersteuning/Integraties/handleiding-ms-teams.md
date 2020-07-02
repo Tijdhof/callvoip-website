@@ -6,7 +6,7 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-Nieuw: false
+Nieuw: true
 Update: false
 pdf: 'http://files.callvoip.nl/downloads/Callvoip_handleiding_MS-Teams-koppeling.pdf'
 
