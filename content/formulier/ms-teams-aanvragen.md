@@ -1,5 +1,5 @@
 ---
-title: Callvoip MS Teams koppeling
+title: MS Teams koppeling
 url: "/aanvragen/ms-teams/"
 
 ---
