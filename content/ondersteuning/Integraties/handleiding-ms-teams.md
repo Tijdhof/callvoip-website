@@ -20,7 +20,7 @@ pdf: 'http://files.callvoip.nl/downloads/Callvoip_handleiding_MS-Teams-koppeling
 •	Middels de Qaller Smartphone App kun je instellen of je bereikbaar wilt zijn op je MS Teams omgeving: via je mobiel of op een andere manier<br>
 •	De Group Pickup functie van de Callvoip-centrale werkt<br>
 •	De Shortcodes van de Callvoip-centrale werken<br>
-
+<br><br>
 <h3>Restricties</h3>
 •	Call Recording werkt alleen inkomend / uitgaand, niet bij intern verkeer of bij doorverbinden<br>
 •	De Realtime API en de Operator Console werken alleen voor inkomende / uitgaande oproepen, interne oproepen in MS Teams worden niet weergegeven<br>
