@@ -40,7 +40,7 @@ textblocksfooter:
     Dankzij de prefix-app kunnen deze toestellen weer zien dat het gesprek eigenlijk
     voor de afdeling sales is bedoeld.'
   image: "/v1572861318/MSteams_beeuzx.png"
-  position: image_left
+  position: image_right
   title: De voordelen
   image_position: center
 prijzen:
