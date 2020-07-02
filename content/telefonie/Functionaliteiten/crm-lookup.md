@@ -34,14 +34,13 @@ blocks:
   title: Wat doet CRM Lookup?
   image_position: center
 - title: Basic of Customized?
-  links: ''
   content: "CRM Lookup is in 2 varianten beschikbaar. De Basic uitvoering is alles
     behalve basic. Integratie van meer dan 10 veelvoorkomende CRM systemen, popups
     van telefoontjes waarmee je direct je klantgegevens in jouw eigen CRM tevoorschijn
     tovert. \nGa je voor Customized, dan bepaal jij zelf wat er moet gebeuren wanneer
     je de popup aanklikt. Klantgegevens of factuurgegevens, notities, noem maar op.
     Samen bepalen we de handigste stappen. "
-  image: "/v1577105792/cti_new_zkrvij.png"
+  image: "/v1577105792/crmlookup-flat-design_cfpdv1.png"
   image_link: ''
   position: image_right
   image_position: center
