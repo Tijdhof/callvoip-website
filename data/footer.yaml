@@ -36,6 +36,8 @@ blocks:
         url: /telefonie/clicktodial/
       - title: Software integratie
         url: /telefonie/integratiemetcrm/
+      - title: Videobellen
+        url: /yealinkmeeting/
   - title: Telefoonnummers
     links:
       - title: Regionale nummers
