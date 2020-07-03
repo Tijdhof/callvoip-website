@@ -32,22 +32,14 @@ p a:hover {
   @apply underline;
 }
 
-blockquote {
+.blockquote {
     margin: 0;
 }
 
-blockquote p {
+.blockquote p {
     padding: 15px;
-    background: #ccc;
+    background: #ccc3;
     border-radius: 5px;
-}
-
-blockquote p::before {
-    content: '\201C';
-}
-
-blockquote p::after {
-    content: '\201D';
 }
 
 .button-outline {
