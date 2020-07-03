@@ -4,8 +4,8 @@ url: zakelijk-internet-en-bellen
 type: page
 hero:
   content:
-    title: Volledige integratie van je mobiel
-    text: Cloud telefooncentrale met maatwerk inrichting
+    title: Betrouwbaar en snel internet en bellen
+    text: Snel internet en telefooncentrale met maatwerk inrichting
     align: left
   image: "/v1592921603/header_vastmobiel_LP_u1yyff.png"
   title: Callvoip - VoIP Telefonie - Slim en persoonlijk
