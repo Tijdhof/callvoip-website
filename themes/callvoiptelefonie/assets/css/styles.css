@@ -37,9 +37,17 @@ p a:hover {
 }
 
 .blockquote p {
+  @apply bg-grey-light;
     padding: 15px;
-    background: #ccc;
     border-radius: 5px;
+}
+
+.blockquote p::before {
+    content: '\201C';
+}
+
+.blockquote p::after {
+    content: '\201D';
 }
 
 .button-outline {
