@@ -61,10 +61,7 @@ textblocks:
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
     <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
   title2: Wat anderen over Callvoip zeggen
-  content2: "\"Een aantal maanden hebben wij Callvoip in gebruik genomen op aanraden
-    van een ander bedrijf. Tot op de dag van vandaag geen moment spijt van. Kwaliteit
-    is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee. \nQaller
-    app is echt een uitkomst (...) Integratie met browser, Microsoft teams, cloud
-    van yealink is echt top.\"\n\n"
+  content2: "\"Wij bellen al sinds 2011 en zijn erg tevreden over Callvoip. Samengevat
+    kiezen wij voor Callvoip als provider vanwege: de kosten, de service en de klantgerichtheid..\"\n\n"
 
 ---
