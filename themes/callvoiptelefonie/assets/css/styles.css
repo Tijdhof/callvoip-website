@@ -42,14 +42,6 @@ p a:hover {
   border-radius: 5px;
 }
 
-.blockquote p::before {
-  content: '\201C';
-}
-
-.blockquote p::after {
-  content: '\201D';
-}
-
 .button-outline {
   @apply border-blue border-2 text-blue no-underline font-medium rounded-full py-4 px-8 inline-flex items-center leading-none;
 }
