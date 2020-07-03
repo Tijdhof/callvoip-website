@@ -50,7 +50,7 @@ Via de doorverbind-app worden inkomende oproepen doorgeschakeld naar andere vest
 
 #### Prefix
 
-Voor elke praktijk kan een prefix (=geschreven tekst) worden meegestuurd. Deze tekst wordt getoond in het scherm van de VoIP-toestel vóór het nummer van de beller - zo zie je snel of de inkomende oproep via een andere praktijk binnen komt.
+Voor elke praktijk kan een prefix (=geschreven tekst) worden meegestuurd. Deze tekst wordt getoond in het scherm van het VoIP-toestel vóór het nummer van de beller - zo zie je snel of de inkomende oproep via een andere praktijk binnen komt.
 
 ### Benieuwd naar de mogelijkheden voor jouw situatie?
 
