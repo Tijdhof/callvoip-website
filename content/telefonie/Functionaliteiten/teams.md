@@ -31,7 +31,8 @@ textblocksfooter:
 - content1: 'En natuurlijk ontbreekt de apparatuur niet. Kies je voor het integreren van Callvoip met MS Teams,
     denk dan aan het gemak van een fijn bureautoestel. Hiermee beschik je nagenoeg over dezelfde functies als 
     met de Teams app, zoals je contacten en agenda. De Teeams-geschikte VoIP-toestellen van Yealink zijn er in 
-    een aantal uitvoeringen, met touchscreen, camera, of kantelbaar display. Voor elke wens een model.'
+    een aantal uitvoeringen, met touchscreen, camera, of kantelbaar display. Voor elke wens een model.<br><br><a href="https://callvoip.shop/zoeken?controller=search&orderby=position&orderway=desc&search_query=teams"
+    target="_blank" class="button">Bekijk het aanbod bij Callvoip.shop</a>'
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1593694950/MSteams_beeuzx.png">
   title1: 'MS Teams apparatuur'
   title2: ''
