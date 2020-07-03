@@ -50,8 +50,8 @@ prijzen:
     - title: Eenmalig p/gebruiker
       price: '5.00'
 images: []
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: true
 
 ---
