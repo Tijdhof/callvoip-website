@@ -61,7 +61,6 @@ textblocks:
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
     <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
   title2: Wat anderen over Callvoip zeggen
-  content2: "\"Wij bellen al sinds 2011 en zijn erg tevreden over Callvoip. Samengevat
-    kiezen wij voor Callvoip als provider vanwege: de kosten, de service en de klantgerichtheid..\"\n\n"
+  content2: '<blockquote cite="https://www.huxley.net/bnw/four.html"><p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p><footer>—Aldous Huxley, <cite>Brave New World</cite></footer></blockquote>'
 
 ---
