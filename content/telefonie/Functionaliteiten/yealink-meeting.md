@@ -40,7 +40,9 @@ textblocksfooter:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
   title1: Maak kennis met Yealink Meeting apparatuur
-  content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op je computers, smartphone en tablets. En er zijn ook videophones, camera's en voor de vergaderruimte kun je kiezen voor de professionele Yealink conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera.
+  content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op je computers, smartphone en tablets. 
+  En er zijn ook videophones, camera-s en voor de vergaderruimte kun je kiezen voor de professionele 
+  Yealink conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera.
     Of bel in met je Yealink IP telefoon van je werkplek. Kortom: volledige integratie
     op het hoogste niveau!<br><br><a href="https://callvoip.shop/431-yealink-meeting"
     target="_blank" class="button">Bekijk het aanbod bij Callvoip.shop</a>'
