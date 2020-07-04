@@ -16,10 +16,10 @@ hero:
     link: "/offerte"
 blocks:
 - content: |-
-    HotDesking biedt de mogelijkheid om een gebruiker op een toestel in te loggen. Dit toestel zal zich vervolgens gedragen als het toestel van de betreffende medewerker; <br> *Het gaat rinkelen als het verkorte nummer van de medewerker wordt gebeld <br> *Het stuurt het nummer van de medewerker mee naar buiten <br> *Het omvat alle overige instellingen van het gebruikersprofiel (voicemail, permissies)<br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/hotdesking-handleiding/" class="button">Hoe werkt het?</a>
+    Met HotDesking log je in op het toestel waarmee je wilt werken. Bijvoorbeeld het toestel thuis. Bel de code en je hoort de bevestiging dat je bent ingelogd. Dit toestel is nu helemaal jouw toestel: <br> * gesprekken naar jouw verkorte nummer komen hierop binnen <br> * jij belt uit met jouw naam en nummer <br> * al jouw instellingen (voicemail, schakelaars) werken zoals altijd<br>. Hotdesking is ook handig als je thuis en op kantoor werkt, maar ook als check-in en digitale presentielijst. <br><br><a href="https://www.callvoip.nl/ondersteuning/extra-features/hotdesking-handleiding/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/concept-illustration_114360-985_vrkus0.jpg"
   position: image_left
-  title: ' kantoor- of thuiswerkplek?'
+  title: 'Kantoor- of thuiswerkplek?'
   image_position: center
 prijzen:
 - title: Hotdesking
