@@ -40,7 +40,8 @@ textblocksfooter:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
   title1: Maak kennis met Yealink Meeting apparatuur
-  content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op je computers, smartphone en tablets. 
+  content1: 'Yealink Meeting werkt zoals gezegd altijd en overal. Op je Windows PC of Mac, je Android 
+  of iPhone, tablet en gewoon via een willekeurige browser, zonder software. 
   En er zijn ook videophones, camera-s en voor de vergaderruimte kun je kiezen voor de professionele 
   Yealink conference oplossingen. Van speakerphones tot complete Room Systems incl. vergadercamera.
     Of bel in met je Yealink IP telefoon van je werkplek. Kortom: volledige integratie
