@@ -18,7 +18,7 @@ hero:
     betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
     één klik videotoegang en kun je met iedereen – waar en wanneer dan ook – persoonlijk communiceren. <br>
     Geen kilometers, geen reistijd, maar wel beeld en het gevoel van een ontmoeting. 
-    Een perfecte oplossing voor de tijd van nu, denk aan: <br>&bull; teamoverleg<br>&bull; demonstraties<br>&bull; trainingen<br>&bull; intakgesprekken<br>&bull; vergaderingen, etc.'
+    Een perfecte oplossing voor de tijd van nu, denk aan: <br>&bull; teamoverleg<br>&bull; demonstraties<br>&bull; trainingen<br>&bull; intakegesprekken<br>&bull; vergaderingen, etc.'
   image: "/v1571655384/yealinkmeeting-new_hgksbh.png"
   image_position: center
   disable_image_on_mobile: false
