@@ -17,10 +17,10 @@ Nee, wachten is niet fijn, maar als het dan toch even moet, laat de beller dan g
     link: "/offerte"
 blocks:
 - content: |-
-    Wachtmuziek wordt afgespeeld als je een beller doorverbindt, in de acht zet of als je een wachtrij gebruikt. <br><br><a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/wachtmuziek/" class="button">Hoe werkt het?</a>
+    De wachtmuziek wordt afgespeeld als je een beller doorverbindt, in de wacht zet of als je een wachtrij hebt. Heb je meerdere nummers in de bibliotheek, dan worden deze in volgorde afgespeeld. Je kunt de muziekstukken zelf zien, afspelen, verwijderen en nieuwe nummers als .mp3 in de bibliotheek uploaden. Let je wel op de rechten?  <br><br><a href="https://www.callvoip.nl/ondersteuning/meldteksten-wachtmuziek/wachtmuziek/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/musiclibrary2_z0qqj7.png"
   position: image_left
-  title: 'Vul je eigen bibliotheek'
+  title: 'Vul je eigen wachtmuziek-bibliotheek'
   image_position: center
 prijzen:
 - title: Wachtmuziek
