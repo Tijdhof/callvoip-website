@@ -16,7 +16,7 @@ hero:
   title: Videobellen met Yealink Meeting
   content: 'Yealink biedt met haar nieuwe cloud-based platform, Yealink Meeting, een
     betrouwbaar en betaalbaar video platform. Met Yealink Meeting krijg je binnen
-    één klik videotoegang en kun je met iedereen – waar en wanneer dan ook – persoonlijk communiceren. Geen kilometers, geen reistijd, kortom: met video bespaar je tijd! Een perfecte oplossing voor de tijd van nu, denk aan: teamoverleg, demonstraties, trainingen, intakgesprekken en vergaderingen.'
+    één klik videotoegang en kun je met iedereen – waar en wanneer dan ook – persoonlijk communiceren. Geen kilometers, geen reistijd, kortom: met video bespaar je tijd! Een perfecte oplossing voor de tijd van nu, denk aan: <br>&bull; teamoverleg<br>&bull; demonstraties<br>&bull; trainingen<br>&bull; intakgesprekken<br>&bull; vergaderingen, etc.'
   image: "/v1571655384/yealinkmeeting-new_hgksbh.png"
   image_position: center
   disable_image_on_mobile: false
