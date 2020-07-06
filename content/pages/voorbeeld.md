@@ -29,7 +29,7 @@ double_content:
       dag een lunchbandje? Gaat vanzelf! Dit alles laten we je in een telefoongesprek
       zien. We zoomen in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!<br><br><b>Wij
       bieden:</b><div class="usp-list"><ul><li>Een flexibele telefooncentrale die
-      je zelf super gemakkelijk kunt beheren</li><li>Ouderwets persoonlijke service</li><li>Volledige
+      je zelf makkelijk kunt beheren</li><li>Ouderwets persoonlijke service</li><li>Volledige
       integratie vast en mobiel</li><li>Uitgebreide integraties met software- en CRM
       pakketten</li><li>Alles onder 1 dak: Telefonie, internet en apparatuur</li></ul></div>'
   right:
