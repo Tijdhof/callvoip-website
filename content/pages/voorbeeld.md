@@ -23,15 +23,15 @@ blocks:
   content: ''
 double_content:
   left:
-    title: Gratis persoonlijke demo
-    content: 'Met de online centrale van Callvoip heb je zelf de volledige controle
-      over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een
-      lunchbandje? Gaat vanzelf! Dit alles laten we je in een telefoongesprek zien.
-      We zoomen in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!<br><br><b>Wij
-      bieden:</b><div class="usp-list"><ul><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets
-      persoonlijke service</li><li>Volledige integratie vast en mobiel</li><li>Volledige
-      controle over jouw telefonie</li><li>Alles onder 1 dak: Telefonie, internet
-      en apparatuur</li></ul></div>'
+    title: Gratis persoonlijke demo?
+    content: 'Met de professionele centrale van Callvoip heb je zelf de volledige
+      controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke
+      dag een lunchbandje? Gaat vanzelf! Dit alles laten we je in een telefoongesprek
+      zien. We zoomen in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!<br><br><b>Wij
+      bieden:</b><div class="usp-list"><ul><li>Een flexibele telefooncentrale die
+      je zelf super gemakkelijk kunt beheren</li><li>Ouderwets persoonlijke service</li><li>Volledige
+      integratie vast en mobiel</li><li>Uitgebreide integraties met software- en CRM
+      pakketten</li><li>Alles onder 1 dak: Telefonie, internet en apparatuur</li></ul></div>'
   right:
     background: true
     background_color: "#efefef"
@@ -53,7 +53,8 @@ double_content:
       bg-white px-3 py-2 text-base"> </div><div class="mb-4"> <label for="Telefoonnummer"
       class="block">Telefoonnummer</label> <input type="text" id="Telefoonnummer"
       name="Telefoonnummer" class="w-full border border-grey-light bg-white px-3 py-2
-      text-base"> </div></div><center><br><p><button type="submit" class="button button-secondary">Neem contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
+      text-base"> </div></div><center><br><p><button type="submit" class="button button-secondary">Neem
+      contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
       met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
 textblocks:
 - title1: Eerst meer weten?
