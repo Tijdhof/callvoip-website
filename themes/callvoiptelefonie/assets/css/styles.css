@@ -94,9 +94,8 @@ p a:hover {
 }
 
 .button-landing {
-  @apply bg-yellow text-white no-underline rounded-full py-5 px-8 inline-flex items-center leading-none text-lg font-medium pointer-events-auto;
+  @apply bg-yellow border-yellow text-grey-dark;
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
-  transition: all .15s ease;
 }
 
 .button:hover {
