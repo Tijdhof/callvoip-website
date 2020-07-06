@@ -1,14 +1,14 @@
 ---
-title: Callvoip - VoIP Telefonie - Slim en persoonlijk
+title: 'Callvoip - VoIP Telefonie: slim en persoonlijk'
 url: voip_telefonie_landing
 type: page
 hero:
   content:
-    title: Cloud telefooncentrale met maatwerk inrichting.
-    text: Zakelijke VoIP Telefonie - Slim en persoonlijk
+    title: Cloud telefooncentrale op maat voor jou
+    text: 'Zakelijke VoIP Telefonie: slim en persoonlijk'
     align: left
   image: "/v1591963966/header_LP_TS_ocalz5.png"
-  title: Callvoip - VoIP Telefonie - Slim en persoonlijk
+  title: 'Callvoip - VoIP Telefonie: slim en persoonlijk'
   disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
@@ -59,11 +59,11 @@ double_content:
 textblocks:
 - title1: Eerst meer weten?
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
-    <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
+    <a href="tel:31508200001">050-820 00 01</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
   title2: Wat anderen over Callvoip zeggen
-  content2: Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
+  content2: '"Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
     van Callvoip. Niets is teveel om je bij een vraag of een probleem even bij te
     staan. In de loop van de jaren is de "digitale telefoon centrale" uitgegroeid
-    tot een volwaardig applicatie. Echt een fijn bedrijf!
+    tot een volwaardig applicatie. Echt een fijn bedrijf!"'
 
 ---
