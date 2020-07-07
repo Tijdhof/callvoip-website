@@ -81,15 +81,15 @@ Hoge kwaliteit ook als je vergadert met gesprekspartners op een verre locatie. D
 **Werkt veilig**
 Alle gegevens zijn AES-256 versleuteld, en alle signalen zijn TLS-gecodeerd en voorzien van een conferentie-vergrendeling met pincode. Kortom: jouw data én communicatie is veilig. Wel zo prettig voor de zakelijke gebruiker. 
 
-**Belangrijke aandachtspunten waarmee Yealink Meeting het verschil maakt**
+<h4>Belangrijke aandachtspunten waarmee Yealink Meeting het verschil maakt</h4>
 
 Gebruiksvriendelijkheid: één klik en je snel deelnemen aan een videoconferentie. Neem deel aan oproepen vanuit je agenda’s en/of e-mail. Of klik eenvoudig op de URL van de meeting. Diverse functionaliteiten als het makkelijk delen van content, samenwerken op whiteboards en bekijken van statistieken, zorgen dat een meeting gestroomlijnd en transparant verloopt.
 
-Veiligheid: Yealink Meeting voldoet optimaal aan de mondiaal gestelde eisen wat met betrekking tot databeveiliging. Alle gedeelde audio en video worden voorzien van codes uit AES-256, om zo strikt vertrouwelijke content en bestanden tijdens videoconferenties te beveiligen. 
+<b>Veiligheid:</b> Yealink Meeting voldoet optimaal aan de mondiaal gestelde eisen wat met betrekking tot databeveiliging. Alle gedeelde audio en video worden voorzien van codes uit AES-256, om zo strikt vertrouwelijke content en bestanden tijdens videoconferenties te beveiligen. 
 
-Wereldwijde dekking: Yealink’s wereldwijde multiregionale videoconferentie staat garant voor hoge kwaliteit cross-regionale videoconferentie ervaring. Het biedt nabijgelegen toegang tot de snelste transmissiepaden, levert real-time communicatie en een stabiele HD-videoconferentie-ervaring overal ter wereld.
+<b>Wereldwijde dekking:</b> Yealink’s wereldwijde multiregionale videoconferentie staat garant voor hoge kwaliteit cross-regionale videoconferentie ervaring. Het biedt nabijgelegen toegang tot de snelste transmissiepaden, levert real-time communicatie en een stabiele HD-videoconferentie-ervaring overal ter wereld.
 
-Brede compatibiliteit: stelt gebruikers in staat om deel te nemen aan een videoconferentie via meerdere paden, zoals PC-klanten, mobiele klanten, web browers, Microsoft Teams, legacy SIP, H.323 apparaten en PSTN-gesprekken.
+<b>Brede compatibiliteit:</b> stelt gebruikers in staat om deel te nemen aan een videoconferentie via meerdere paden, zoals PC-klanten, mobiele klanten, web browers, Microsoft Teams, legacy SIP, H.323 apparaten en PSTN-gesprekken.
 
 ##### Fijn, maar welk platform voor videobellen moet ik nu kiezen?
 
