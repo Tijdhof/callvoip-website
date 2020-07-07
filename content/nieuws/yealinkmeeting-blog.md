@@ -48,22 +48,17 @@ Een platform voor zakelijk videobellen is één deel, hardware is het andere. De
 
 <h4>Waar let je nog meer op bij het kiezen van het juiste platform?</h4>
 
-* Kijk of de software werkt op de ondersteunde besturingssystemen die jullie gebruiken. Heb je bijvoorbeeld een Macbook en het programma dat je wilt gebruiken is alleen beschikbaar voor Windows en Android, dan heb je op zich al een aardige uitdaging. Concreet, kies software om te videobellen dat werkt op jullie besturingssystemen.
+Kijk of de software werkt op de ondersteunde besturingssystemen die jullie gebruiken. Heb je bijvoorbeeld een Macbook en het programma dat je wilt gebruiken is alleen beschikbaar voor Windows en Android, dan heb je op zich al een aardige uitdaging. Concreet, kies software om te videobellen dat werkt op jullie besturingssystemen.
 
+Stel vast hoeveel deelnemers er gemiddeld meedoen aan een videocall. Niet alle videobel-systemen laten het aantal mensen toe waarmee je wilt communiceren. Als je dus telkens een groot aantal deelnemers hebt, wil je software gebruiken die het liefst een onbeperkt aantal deelnemers kan toelaten aan een gesprek. Het zou knap lullig zijn als je mensen moet teleurstellen wat betreft deelnemen. Laat staan professionaliteit en vakkundigheid willen uitstralen.
 
-* Stel vast hoeveel deelnemers er gemiddeld meedoen aan een videocall. Niet alle videobel-systemen laten het aantal mensen toe waarmee je wilt communiceren. Als je dus telkens een groot aantal deelnemers hebt, wil je software gebruiken die het liefst een onbeperkt aantal deelnemers kan toelaten aan een gesprek. Het zou knap lullig zijn als je mensen moet teleurstellen wat betreft deelnemen. Laat staan professionaliteit en vakkundigheid willen uitstralen.
+Zorg dat je kiest voor een systeem dat de mogelijkheid biedt tot het opslaan van gesprekken. Een gewenste functionaliteit als je achteraf gesprekken opnieuw wilt beluisteren of bekijken. Sommige programma’s bieden deze techniek maar niet allemaal. Daarbij wil je wel graag dat dit veilig is en enkel met toestemming van de host van de videocall.
 
+Kies boven alles voor absolute veiligheid en encryptie. Gewaarborgde veiligheid van je bedrijf en die van andere deelnemers is een essentieel onderdeel. Zorg dus dat het programma dat je gebruikt voor interne communicatie goed beveiligd is en een versleutelde encryptie bevat. Zo blijven videogesprekken open en transparant voor uitsluitend alle deelnemers en liggen vertrouwelijke stukken niet open en bloot op het web.
 
-* Zorg dat je kiest voor een systeem dat de mogelijkheid biedt tot het opslaan van gesprekken. Een gewenste functionaliteit als je achteraf gesprekken opnieuw wilt beluisteren of bekijken. Sommige programma’s bieden deze techniek maar niet allemaal. Daarbij wil je wel graag dat dit veilig is en enkel met toestemming van de host van de videocall.
+Kies een systeem dat andere types videoconferencing-technologie kan koppelen. Wel zo handig als er deelnemers van buiten je eigen organisatie gekoppeld willen worden met hun eigen systeem.
 
-
-* Kies boven alles voor absolute veiligheid en encryptie. Gewaarborgde veiligheid van je bedrijf en die van andere deelnemers is een essentieel onderdeel. Zorg dus dat het programma dat je gebruikt voor interne communicatie goed beveiligd is en een versleutelde encryptie bevat. Zo blijven videogesprekken open en transparant voor uitsluitend alle deelnemers en liggen vertrouwelijke stukken niet open en bloot op het web.
-
-
-* Kies een systeem dat andere types videoconferencing-technologie kan koppelen. Wel zo handig als er deelnemers van buiten je eigen organisatie gekoppeld willen worden met hun eigen systeem.
-
-
-* Kan de software-oplossing ook bestanden delen en/of makkelijk tegelijkertijd presenteren voor alle deelnemers aan een desbetreffende videocall?
+Kan de software-oplossing ook bestanden delen en/of makkelijk tegelijkertijd presenteren voor alle deelnemers aan een desbetreffende videocall?
 
 <h4>Voor professioneel videobellen komen wij uit bij...</h4>
 
