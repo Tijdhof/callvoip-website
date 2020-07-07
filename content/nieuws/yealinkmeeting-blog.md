@@ -1,5 +1,5 @@
 ---
-title: yealinkmeeting-blog
+title: Zakelijk videobellen; direct goed doen laat zich terugverdienen..
 description: ''
 images: []
 featured: false
@@ -18,10 +18,9 @@ url: yealinkmeeting-blog
 contactpersoon: []
 categories: []
 tags: []
+type: nieuws
 
 ---
-# Zakelijk videobellen; direct goed doen laat zich terugverdienen..
-
 Zakelijk videobellen, het is sinds Corona voor bedrijven een absolute ‘musthave’. Maar voor veel eindgebruikers vooral een noodzakelijk kwaad. Zoom en Microsoft Teams hadden het scenario wat zich ontvouwde, in hun stoutste dromen niet durven bedenken. Massaal thuiswerken maakte dat de vraag naar hun diensten plotsklaps door het dak ging. Dan moet je leveren als gezond bedrijf met een commercieel belang. Het momentum kwam misschien iets te vroeg moeten we achteraf concluderen. Als we kijken naar de gebruiksvriendelijkheid en ontwikkelde technieken van diverse platformen. We zijn tenslotte niet allemaal ‘early adopters’, millennials en/of technerds. Dus wat betreft gemak en daarmee gebruiksvriendelijkheid; welk video-platform werkt nou het best voor jouw organisatie? Hier volgen wat essentiële punten op een rijtje, die je kunnen helpen bij het maken van de juiste keuze.  
 
 Voordat je definitieve keuzes maakt over welk platform voor videobellen het beste zou passen bij jullie wensen en organisatie, is het van belang om jezelf een aantal vragen te stellen:
