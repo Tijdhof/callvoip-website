@@ -25,7 +25,7 @@ Zakelijk videobellen, het is sinds Corona voor bedrijven een absolute ‘musthav
 
 Voordat je definitieve keuzes maakt over welk platform voor videobellen het beste zou passen bij jullie wensen en organisatie, is het van belang om jezelf een aantal vragen te stellen:
 
-##### Wat is het doel?
+<h3>Wat is het doel?</h3>
 
 Als je veelvuldig gebruikmaakt van zakelijk videobellen, zowel intern als extern ten aanzien van de deelnemers, dan is het van belang wat de doelen en benodigdheden zijn van een call. Niet ieder platform leent zich qua gebruiksvriendelijkheid, techniek en mogelijkheden voor jullie doelen en benodigdheden. Stel dus eerst helder vast waaraan een platform op dit vlak moet voldoen. Dan sta je vooraf en achteraf niet voor lastige uitdagingen.  
 
