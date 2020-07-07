@@ -91,6 +91,6 @@ Gebruiksvriendelijkheid: één klik en je snel deelnemen aan een videoconferenti
 
 <b>Brede compatibiliteit:</b> stelt gebruikers in staat om deel te nemen aan een videoconferentie via meerdere paden, zoals PC-klanten, mobiele klanten, web browers, Microsoft Teams, legacy SIP, H.323 apparaten en PSTN-gesprekken.
 
-##### Fijn, maar welk platform voor videobellen moet ik nu kiezen?
+<h4>Fijn, maar welk platform voor videobellen moet ik nu kiezen?</h4>
 
 Die keuze dien je uiteraard zelf te maken. Of je nou voor Microsoft Teams gaat, of voor Zoom of Yealink Meeting, ze doen allemaal waarvoor ze zijn ontworpen. Maak echter op basis van de eerdere vragen een besluit dat aansluit op de eigenschappen en wensen van jouw organisatie. Je wilt een platform kiezen dat direct makkelijk werkt, vooral voor de gewone man/vrouw die niet van nature snapt hoe techniek anno nu werkt. Daarnaast wil je volgens ons gaan voor een systeem dat zichzelf op meerdere fronten kan terugverdienen. En jawel mensen; dan is goedkoop vaak duurkoop. Dus laat de prijs niet leidend zijn want daar ga je spijt van krijgen. Kies voor kwaliteit en duurzaamheid op de lange termijn. Dat maakt zakendoen in dit bijzondere jaar 2020 en daarna weer een stukje prettiger en hopelijk rendabeler.
