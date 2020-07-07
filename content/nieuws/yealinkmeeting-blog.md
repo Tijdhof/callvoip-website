@@ -25,29 +25,29 @@ Zakelijk videobellen, het is sinds Corona voor bedrijven een absolute ‘musthav
 
 Voordat je definitieve keuzes maakt over welk platform voor videobellen het beste zou passen bij jullie wensen en organisatie, is het van belang om jezelf een aantal vragen te stellen:
 
-<h3>Wat is het doel?</h3>
+<h4>Wat is het doel?</h4>
 
 Als je veelvuldig gebruikmaakt van zakelijk videobellen, zowel intern als extern ten aanzien van de deelnemers, dan is het van belang wat de doelen en benodigdheden zijn van een call. Niet ieder platform leent zich qua gebruiksvriendelijkheid, techniek en mogelijkheden voor jullie doelen en benodigdheden. Stel dus eerst helder vast waaraan een platform op dit vlak moet voldoen. Dan sta je vooraf en achteraf niet voor lastige uitdagingen.  
 
-##### Welke eigenschappen, waarden en speerpunten van een te kiezen platform zijn voor jullie belangrijk?
+<h4>Welke eigenschappen, waarden en speerpunten van een te kiezen platform zijn voor jullie belangrijk?</h4>
 
 Denk hierbij bijvoorbeeld aan zaken als; eenvoud, toekomstige updates van het systeem, transparantie, flexibiliteit, veiligheid. Dit is lang niet voor ieder platform vanzelfsprekend. Achteraf ‘switchen’ blijkt dan niet zo makkelijk als gedacht.  
 
-##### Met wie wil je doorgaans videobellen?
+<h4>Met wie wil je doorgaans videobellen?</h4>
 
 Plan je regelmatig video meetings in voor variërende deelnemers, dan is het verstandig om een zo open mogelijk, gebruiksvriendelijk en compatibel systeem te prefereren. Je wilt niet tijdens of gedurende een call merken dat de boel simpelweg hapert of dat deelnemers niet kunnen participeren in alle activiteiten.   
 
-##### Hoe zie je de toekomst in verhouding met de voortschrijdende techniek van videobellen en je bedrijfsdoelstellingen? 
+<h4>Hoe zie je de toekomst in verhouding met de voortschrijdende techniek van videobellen en je bedrijfsdoelstellingen?</h4>
 
 Bedrijven en ondernemers kijken logischerwijs met een scherp oog naar de toekomst. Regeren is vooruitzien tenslotte. Doe je zo nu en dan pittige investeringen, dan wil je uiteraard dat deze zich terugverdienen en anderzijds langdurige garanties bieden op prettig en efficiënt gebruiksgemak. Let er daarom goed op dat het platform dat je kiest transparant, betrouwbaar en professioneel is op deze vlakken. 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1594112604/Telecommuting-rafiki_fxgfct.png)
 
-##### Is een platform voor videobellen onderdeel van specifieke hardware dat jullie bedrijf gebruikt?
+<h4>Is een platform voor videobellen onderdeel van specifieke hardware dat jullie bedrijf gebruikt?</h4>
 
 Een platform voor zakelijk videobellen is één deel, hardware is het andere. De meeste kantoren gebruiken uniforme hardware dat compatibel met elkaar is, zodat men zo efficiënt mogelijk samenwerkt. Compatibele videoplatformen voor bellen zijn in dit geval dan ook gewenst. En al helemaal als zekere hardware brands hun eigen platform voor videobellen ontwikkelen. Denk aan een nieuw scala aan mogelijkheden die dit met zich zou meebrengen. 
 
-##### Waar let je nog meer op bij het kiezen van het juiste platform? 
+<h4>Waar let je nog meer op bij het kiezen van het juiste platform?</h4>
 
 Kijk of de software werkt op de ondersteunde besturingssystemen die jullie gebruiken. Heb je bijvoorbeeld een Macbook en het programma dat je wilt gebruiken is alleen beschikbaar voor Windows en Android, dan heb je op zich al een aardige uitdaging. Concreet, kies software om te videobellen dat werkt op jullie besturingssystemen.
 
@@ -61,7 +61,7 @@ Kies een systeem dat andere types videoconferencing-technologie kan koppelen. We
 
 Kan de software-oplossing ook bestanden delen en/of makkelijk tegelijkertijd presenteren voor alle deelnemers aan een desbetreffende videocall? 
 
-##### Voor professioneel videobellen komen wij uit bij... 
+<h4>Voor professioneel videobellen komen wij uit bij...</h4>
 
 Als je alle platformen voor videobellen met het oog van een leek aanschouwt, ga je waarschijnlijk niet zoveel verschillen bespeuren. Ze doen allemaal hetzelfde; videobellen. Toch zitten er relatief grote verschillen tussen de inmiddels vele platformen. Diegene die wat ons betreft belegen, innovatief en professioneel uit de bus komen zijn toch wel; Microsoft Teams, Zoom en tenslotte de razendsnelle nieuwkomer op het wereldtoneel genaamd; Yealink Meeting. 
 
@@ -71,16 +71,14 @@ Als het gaat om gebruiksvriendelijk videobellen op een cloud-based platform, bie
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1594112458/presentation_bo5rnw.png)
 
-##### Yealink Meeting werkt altijd en overal
+<h4>Yealink Meeting werkt altijd en overal</h4>
 
 Yealink Meeting werkt op vrijwel alle systemen: Windows of Apple computers, Chromebooks maar ook op mobiele apparaten met Android of iOS. Zelfs Microsoft Teams, Skype én natuurlijk je Yealink IP-telefoon: iedereen is welkom. Klik en log in zonder installatie via de web browser.
 
 **Werkt overal**
-
 Hoge kwaliteit ook als je vergadert met gesprekspartners op een verre locatie. Dankzij een wereldwijde dekking van het platform is er altijd nabijgelegen toegang met real-time communicatie en stabiele HD-video ondersteuning.
 
 **Werkt veilig**
-
 Alle gegevens zijn AES-256 versleuteld, en alle signalen zijn TLS-gecodeerd en voorzien van een conferentie-vergrendeling met pincode. Kortom: jouw data én communicatie is veilig. Wel zo prettig voor de zakelijke gebruiker. 
 
 **Belangrijke aandachtspunten waarmee Yealink Meeting het verschil maakt**
