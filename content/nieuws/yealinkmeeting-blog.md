@@ -19,6 +19,7 @@ url: yealinkmeeting-blog
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1594112025/Screenshot_4_odeenj.png)
@@ -45,7 +46,7 @@ Bedrijven en ondernemers kijken logischerwijs met een scherp oog naar de toekoms
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1594112604/Telecommuting-rafiki_fxgfct.png)
 
-<h4>Is een platform voor videobellen onderdeel van specifieke hardware dat jullie bedrijf gebruikt?</h4>
+<h3>Is een platform voor videobellen onderdeel van specifieke hardware dat jullie bedrijf gebruikt?</h3>
 
 Een platform voor zakelijk videobellen is één deel, hardware is het andere. De meeste kantoren gebruiken uniforme hardware dat compatibel met elkaar is, zodat men zo efficiënt mogelijk samenwerkt. Compatibele videoplatformen voor bellen zijn in dit geval dan ook gewenst. En al helemaal als zekere hardware brands hun eigen platform voor videobellen ontwikkelen. Denk aan een nieuw scala aan mogelijkheden die dit met zich zou meebrengen.
 
@@ -88,6 +89,6 @@ Gebruiksvriendelijkheid: één klik en je snel deelnemen aan een videoconferenti
 
 <b>Brede compatibiliteit:</b> stelt gebruikers in staat om deel te nemen aan een videoconferentie via meerdere paden, zoals PC-klanten, mobiele klanten, web browers, Microsoft Teams, legacy SIP, H.323 apparaten en PSTN-gesprekken.
 
-<h4>Fijn, maar welk platform voor videobellen moet ik nu kiezen?</h4>
+<h3>Fijn, maar welk platform voor videobellen moet ik nu kiezen?</h3>
 
 Die keuze dien je uiteraard zelf te maken. Of je nou voor Microsoft Teams gaat, of voor Zoom of Yealink Meeting, ze doen allemaal waarvoor ze zijn ontworpen. Maak echter op basis van de eerdere vragen een besluit dat aansluit op de eigenschappen en wensen van jouw organisatie. Je wilt een platform kiezen dat direct makkelijk werkt, vooral voor de gewone man/vrouw die niet van nature snapt hoe techniek anno nu werkt. Daarnaast wil je volgens ons gaan voor een systeem dat zichzelf op meerdere fronten kan terugverdienen. En jawel mensen; dan is goedkoop vaak duurkoop. Dus laat de prijs niet leidend zijn want daar ga je spijt van krijgen. Kies voor kwaliteit en duurzaamheid op de lange termijn. Dat maakt zakendoen in dit bijzondere jaar 2020 en daarna weer een stukje prettiger en hopelijk rendabeler.
