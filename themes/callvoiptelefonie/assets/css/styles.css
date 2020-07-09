@@ -32,15 +32,16 @@ p a:hover {
   @apply underline;
 }
 
+/* purgecss start ignore */
 .blockquote {
   margin: 0;
 }
-
 .blockquote p {
   @apply bg-grey-light;
   padding: 15px;
   border-radius: 5px;
 }
+/* purgecss end ignore */
 
 .button-outline {
   @apply border-blue border-2 text-blue no-underline font-medium rounded-full py-4 px-8 inline-flex items-center leading-none;
