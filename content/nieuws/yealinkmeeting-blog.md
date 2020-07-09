@@ -1,5 +1,5 @@
 ---
-title: Zakelijk videobellen: direct goed doen laat zich terugverdienen...
+title: 'Zakelijk videobellen: direct goed doen laat zich terugverdienen...'
 description: ''
 images:
 - "/v1594112025/Screenshot_4_odeenj.png"
