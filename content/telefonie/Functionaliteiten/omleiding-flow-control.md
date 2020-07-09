@@ -19,7 +19,7 @@ hero:
 blocks:
 - content: |-
     Er zijn meerdere toepassingsmogelijkheden van de ‘omleiding-app’. Denk hierbij bijvoorbeeld aan het inschakelen van een doorschakeling naar een (wisselend) mobiel nummer als je kantoor verlaat. Of een omleiding bij vergaderingen, bedrijfsuitjes, kerstborrel, maar ook bij calamiteiten, storingen, etc. Je kunt alle functionaliteiten van ons bedieningspaneel in de omleiding plaatsen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/omleidings-app/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/omleiding_ynggyo.png"
+  image: "/v1572861318/omleiding_b6xl0w.png"
   position: image_left
   title: 'Waarom een omleiding?'
   image_position: center
