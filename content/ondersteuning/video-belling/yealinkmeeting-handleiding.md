@@ -15,7 +15,7 @@ aliases: /ondersteuning/extra-features/handleiding-yealink-meeting/
 [Download de Quick Start Guide Videobellen](http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf)
 <h3>Video handleiding: Gesprek voeren</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tKJsLBSsrxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-<h3>Video handleiding: Gesprek starten</h3>
+<br><h3>Video handleiding: Gesprek starten</h3>
 </iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/cPUe7uWC2yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Videobellen zonder gedoe? Ontdek Yealink Meeting!**  
