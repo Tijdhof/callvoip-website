@@ -16,7 +16,7 @@ aliases: /ondersteuning/extra-features/handleiding-yealink-meeting/
 <h3>Video handleiding: Gesprek voeren</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tKJsLBSsrxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 <br><h3>Video handleiding: Gesprek starten</h3>
-</iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/cPUe7uWC2yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/cPUe7uWC2yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 **Videobellen zonder gedoe? Ontdek Yealink Meeting!**  
 … en ervaar dat je maar één linkje verwijderd bent van een videogesprek met wie dan ook, waar dan ook, en wat voor apparatuur dan ook.  
