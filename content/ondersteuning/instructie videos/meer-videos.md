@@ -15,4 +15,4 @@ hidesocialshare: false
 ---
 <h3>Bekijk ons Youtube kanaal voor meer Callvoip Casts</h3>
 <br>
-<a href="https://www.youtube.com/channel/UCG7dLA7YIqALqrIMwyHmMiw/videos" class="button">Meer videos</a>
+<a href="https://www.youtube.com/channel/UCG7dLA7YIqALqrIMwyHmMiw/videos" class="button" target="_blank">Meer videos</a>
