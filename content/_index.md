@@ -5,7 +5,7 @@ hero:
   content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
-    <br><br>:movie_camera: Eenvoudig videobellen? Het is <a href="/yealinkmeeting">in 1 klik</a> geregeld.'
+    <br><br>:film_projector: Eenvoudig videobellen? Het is <a href="/yealinkmeeting">in 1 klik</a> geregeld.'
   button:
     content: Ontdek onze oplossing
     link: "/telefonie/hostedvoip/"
