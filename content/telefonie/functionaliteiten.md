@@ -211,12 +211,6 @@ usps:
     content: Integreer Callvoip met CRM-systemen als Afas, Exact en meer.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/vamos_logov2_fbelhc.png"
-    title: Vamos
-    link: "/telefonie/functionaliteiten/vamos"
-    content: '06-nummer en data van Callvoip: echte vast-mobiel integratie.'
-    icon: ''
-    iconimage: ''
   - image: "/v1566559951/crmlookup-icon_ga7dwq.png"
     title: CRM Lookup
     link: "/crmlookup"
@@ -227,6 +221,12 @@ usps:
     title: MS Teams
     link: "/msteams"
     content: 'Integratie van MS Teams met je Callvoip-systeem.'
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/vamos_logov2_fbelhc.png"
+    title: Vamos
+    link: "/telefonie/functionaliteiten/vamos"
+    content: '06-nummer en data van Callvoip: echte vast-mobiel integratie.'
     icon: ''
     iconimage: ''
   - image: "/v1566559951/test-qaller_iqepfj.png"
