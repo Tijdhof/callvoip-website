@@ -156,7 +156,7 @@ usps:
   - image: "/v1566559951/yealink-meeting_i8salg.png"
     title: Yealink Meeting
     link: "/yealinkmeeting"
-    content: 'Professionele Yealink conference oplossingen.
+    content: 'Professionele Yealink conference oplossingen.'
     icon: ''
     iconimage: ''
 - title: PowerFeatures
