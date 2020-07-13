@@ -61,9 +61,6 @@ textblocks:
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
     <a href="tel:31508200001">050-820 00 01</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
   title2: Wat anderen over Callvoip zeggen
-  content2: '"Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant
-    van Callvoip. Niets is teveel om je bij een vraag of een probleem even bij te
-    staan. In de loop van de jaren is de "digitale telefoon centrale" uitgegroeid
-    tot een volwaardig applicatie. Echt een fijn bedrijf!"'
+  content2: <div class="blockquote"><p>Al meer dan 10 jaar met verschillende bedrijven een zeer tevreden klant van Callvoip. Niets is teveel om je bij een vraag of een probleem even bij te staan. In de loop van de jaren is de “digitale telefoon centrale” uitgegroeid tot een volwaardig applicatie. Echt een fijn bedrijf!</p><footer>—Roy van Bovenstein, <cite></cite></footer></div>
 
 ---
