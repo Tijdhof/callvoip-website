@@ -8,7 +8,7 @@ images: []
 hideinsearch: false
 hideingoogle: false
 Nieuw: false
-Update: false
+Update: true
 pdf: ''
 hidesocialshare: false
 
