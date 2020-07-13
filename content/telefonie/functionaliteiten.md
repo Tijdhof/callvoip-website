@@ -153,6 +153,12 @@ usps:
     content: 'Whatsapp via jouw kantoornummer i.p.v. mobiele nummer.'
     icon: ''
     iconimage: ''
+  - image: "/v1566559951/yealink-meeting_i8salg.png"
+    title: Yealink Meeting
+    link: "/yealinkmeeting"
+    content: 'Professionele Yealink conference oplossingen.
+    icon: ''
+    iconimage: ''
 - title: PowerFeatures
   content: <p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar!<br></br></p>  <a
     href="/offerte" class="button">Vraag een offerte aan</a>
