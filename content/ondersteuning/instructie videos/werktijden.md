@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip Cast: Tijdsconditie voor werktijden'
-weight: 3
+weight: 2
 onderdelen:
 - Instructie Videos
 description: ''
