@@ -217,6 +217,18 @@ usps:
     content: '06-nummer en data van Callvoip: echte vast-mobiel integratie.'
     icon: ''
     iconimage: ''
+  - image: "/v1566559951/crmlookup-icon_ga7dwq.png"
+    title: CRM Lookup
+    link: "/crmlookup"
+    content: De zoekactie in jouw CRM volledig automatiseren!
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/teams-icon_tutsm9.png"
+    title: MS Teams
+    link: "/msteams"
+    content: 'Integratie van MS Teams met je Callvoip-systeem.'
+    icon: ''
+    iconimage: ''
   - image: "/v1566559951/test-qaller_iqepfj.png"
     title: Qaller Plus
     link: "/telefonie/qaller"
