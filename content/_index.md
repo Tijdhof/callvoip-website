@@ -5,7 +5,7 @@ hero:
   content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.
-    <br><br>:briefcase: Thuiswerken? Bekijk onze top 10 thuiswerk-tools, <a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/">klik hier!</a>'
+    <br><br>Eenvoudig videobellen? :computer_mouse: Het is in <a href="/yealinkmeeting">1 klik</a> geregeld'
   button:
     content: Ontdek onze oplossing
     link: "/telefonie/hostedvoip/"
