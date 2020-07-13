@@ -13,6 +13,7 @@ aliases: /ondersteuning/extra-features/handleiding-yealink-meeting/
 ---
 [Download de Setup Guide](http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting_Enterprise-Setup.pdf)  
 [Download de Quick Start Guide Videobellen](http://files.callvoip.nl/downloads/Callvoip_handleiding_Yealink-Meeting.pdf)
+<a href="#videos">Video handleiding: Gesprek starten & voereni</a>
 
 **Videobellen zonder gedoe? Ontdek Yealink Meeting!**  
 … en ervaar dat je maar één linkje verwijderd bent van een videogesprek met wie dan ook, waar dan ook, en wat voor apparatuur dan ook.  
@@ -71,4 +72,8 @@ Meer informatie over installatie en gebruik van Yealink Meeting vind je in de ha
 We denken graag met je mee, voel je vrij om ons te bellen, mailen of je vraag via onze website chat te stellen.
 
 <h3>Video handleiding: Gesprek starten & voeren</h3>
-<iframe width="280" height="157" src="https://www.youtube.com/embed/cPUe7uWC2yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="280" height="157" src="https://www.youtube.com/embed/tKJsLBSsrxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="videos">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cPUe7uWC2yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tKJsLBSsrxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
