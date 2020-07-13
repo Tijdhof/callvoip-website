@@ -1,5 +1,5 @@
 ---
-title: 'Video handleiding: Yealink Meeting gesprek voeren'
+title: 'Video handleiding: gesprek voeren'
 weight: 5
 onderdelen:
 - Videobellen
