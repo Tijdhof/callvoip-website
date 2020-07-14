@@ -1,6 +1,6 @@
 ---
-title: Alle VoIP-functionaliteiten van Simmpl op een rij
-description: U krijgt een tal van professionele functionaliteiten met Simmpl; de modernste
+title: Alle VoIP-functionaliteiten van Callvoip op een rij
+description: je krijgt een tal van professionele functionaliteiten met Callvoip; de modernste
   online telefooncentrale ter wereld!
 images:
 - "/v1567165784/icon_hwk0eh.png"
@@ -20,7 +20,7 @@ hero:
   items: []
 hideinsearch: false
 intro:
-  title: Alle VoIP-functionaliteiten van Simmpl op een rij.
+  title: Alle VoIP-functionaliteiten van Callvoip op een rij.
   content: Benieuwd hoe de telefooncentrale werkt? <a href="http://files.callvoip.nl/"
     target="_blank">probeer de interactieve demo!</a>
   image: ''
