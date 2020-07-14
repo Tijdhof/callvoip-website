@@ -20,9 +20,9 @@ hero:
   items: []
 hideinsearch: false
 intro:
-  title: Alle VoIP-functionaliteiten van Callvoip op een rij.
+  title: Alle VoIP-functionaliteiten van Callvoip op een rij
   content: Benieuwd hoe de telefooncentrale werkt? <a href="http://files.callvoip.nl/"
-    target="_blank">probeer de interactieve demo!</a>
+    target="_blank">Probeer de interactieve demo!</a>
   image: ''
   button:
     content: ''
@@ -30,7 +30,7 @@ intro:
   items: []
 usps:
 - title: Standaard apps
-  content: <p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale.
+  content: <p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale:
     <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a>
   items:
   - image: "/v1566995670/Voicemail-app_cq9s4o.png"
@@ -160,7 +160,7 @@ usps:
     icon: ''
     iconimage: ''
 - title: PowerFeatures
-  content: <p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar!<br></br></p>  <a
+  content: <p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar:<br></br></p>  <a
     href="/offerte" class="button">Vraag een offerte aan</a>
   items:
   - image: "/v1566995669/Wachtrij-app_bp3bak.png"
