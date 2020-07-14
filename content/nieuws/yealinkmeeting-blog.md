@@ -50,7 +50,7 @@ Bedrijven en ondernemers kijken logischerwijs met een scherp oog naar de toekoms
 
 Een platform voor zakelijk videobellen is één deel, hardware is het andere. De meeste kantoren gebruiken uniforme hardware dat compatibel met elkaar is, zodat men zo efficiënt mogelijk samenwerkt. Compatibele videoplatformen voor bellen zijn in dit geval dan ook gewenst. En al helemaal als zekere hardware brands hun eigen platform voor videobellen ontwikkelen. Denk aan een nieuw scala aan mogelijkheden die dit met zich zou meebrengen.
 
-<h4>**Waar let je nog meer op?**</h4>
+<h4>Waar let je nog meer op?</h4>
 
 * <b>Compatibiliteit:</b> Kijk of de software werkt op de ondersteunde besturingssystemen die jullie gebruiken. Heb je bijvoorbeeld een Macbook en het programma dat je wilt gebruiken is alleen beschikbaar voor Windows en Android, dan heb je op zich al een aardige uitdaging. Concreet, kies software om te videobellen dat werkt op jullie besturingssystemen.
 * <b>Aantal deelnemers:</b> Stel vast hoeveel deelnemers er gemiddeld meedoen aan een videocall. Niet alle videobel-systemen laten het aantal mensen toe waarmee je wilt communiceren. Als je dus telkens een groot aantal deelnemers hebt, wil je software gebruiken die het liefst een onbeperkt aantal deelnemers kan toelaten aan een gesprek. Het zou knap lullig zijn als je mensen moet teleurstellen wat betreft deelnemen. Laat staan professionaliteit en vakkundigheid willen uitstralen.
@@ -75,6 +75,6 @@ En jawel mensen; dan is goedkoop vaak duurkoop. Dus laat de prijs niet leidend z
 
 <h4>Om te kunnen begrijpen en kennen moet je eerst ervaren..</h4>
 
-De komende periode zullen wij verder uitweiden over het (technische) gebruiksgemak van Yealink Meeting. Let wel; dit doen wij op een zo creatief mogelijke manier, om het zo leuk en begrijpelijk te maken voor de geïnteresseerden. Denk aan handige instructiefilmpjes en korte vlogs waarin wij mensen in beeld brengen, die voor de eerste keer kennismaken met Yealink Meeting. Kortom, blijf ons volgen en raak wellicht net zo enthousiast als wij.
+De komende periode zullen wij verder uitweiden over het (technische) gebruiksgemak van Yealink Meeting.<a href="/yealinkmeeting"><img src="https://res.cloudinary.com/callvoip/image/upload/v1594112458/yealink-meeting-Recovered_k80bo7.png" style="float:right;"></a> Let wel; dit doen wij op een zo creatief mogelijke manier, om het zo leuk en begrijpelijk te maken voor de geïnteresseerden. Denk aan handige instructiefilmpjes en korte vlogs waarin wij mensen in beeld brengen, die voor de eerste keer kennismaken met Yealink Meeting. Kortom, blijf ons volgen en raak wellicht net zo enthousiast als wij.
 
 <a href="/yealinkmeeting" class="button">Videobellen, ook iets voor jou?</a>
