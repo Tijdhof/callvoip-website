@@ -154,7 +154,7 @@ usps:
     icon: ''
     iconimage: ''
   - image: "/v1566559951/yealink-meeting_i8salg.png"
-    title: Yealink Meeting
+    title: Yealink Meeting Free
     link: "/yealinkmeeting"
     content: 'Professionele Yealink conference oplossingen.'
     icon: ''
@@ -233,6 +233,12 @@ usps:
     title: Qaller Plus
     link: "/telefonie/qaller"
     content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer.
+    icon: ''
+    iconimage: ''
+  - image: "/v1566559951/yealink-meeting_i8salg.png"
+    title: Yealink Meeting Enterprise
+    link: "/yealinkmeeting"
+    content: 'Professionele Yealink conference oplossingen.'
     icon: ''
     iconimage: ''
 hideingoogle: false
