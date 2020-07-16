@@ -1,7 +1,7 @@
 ---
 title: Alle VoIP-functionaliteiten van Callvoip op een rij
-description: je krijgt een tal van professionele functionaliteiten met Callvoip; de modernste
-  online telefooncentrale ter wereld!
+description: 'Je krijgt een tal van professionele functionaliteiten met Callvoip: de modernste
+  online telefooncentrale ter wereld!'
 images:
 - "/v1567165784/icon_hwk0eh.png"
 url: "/telefonie/functionaliteiten/"
@@ -160,8 +160,8 @@ usps:
     icon: ''
     iconimage: ''
 - title: PowerFeatures
-  content: <p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar:<br></br></p>  <a
-    href="/offerte" class="button">Vraag een offerte aan</a>
+  content: '<p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar:<br></br></p>  <a
+    href="/offerte" class="button">Vraag een offerte aan</a>'
   items:
   - image: "/v1566995669/Wachtrij-app_bp3bak.png"
     title: Wachtrij
