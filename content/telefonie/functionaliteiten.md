@@ -1,7 +1,6 @@
 ---
 title: Alle VoIP-functionaliteiten van Callvoip op een rij
-description: 'Je krijgt een tal van professionele functionaliteiten met Callvoip: de modernste
-  online telefooncentrale ter wereld!'
+description: 'Je krijgt een tal van professionele functionaliteiten met Callvoip: de modernste online telefooncentrale ter wereld!'
 images:
 - "/v1567165784/icon_hwk0eh.png"
 url: "/telefonie/functionaliteiten/"
