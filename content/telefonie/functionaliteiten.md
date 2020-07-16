@@ -21,7 +21,7 @@ hideinsearch: false
 intro:
   title: Alle VoIP-functionaliteiten van Callvoip op een rij
   content: Benieuwd hoe de telefooncentrale werkt? <a href="http://files.callvoip.nl/"
-    target="_blank">Probeer de interactieve demo!</a>
+    target="_blank">Probeer de interactieve demo!</a><br><br><a href="#standaard">Standaard apps</a><br><a href="#power">Powerfeatures</a>
   image: ''
   button:
     content: ''
@@ -29,8 +29,8 @@ intro:
   items: []
 usps:
 - title: Standaard apps
-  content: '<p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale:
-    <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a>'
+  content: '<div id="standaard"><p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale:
+    <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a></div>'
   items:
   - image: "/v1566995670/Voicemail-app_cq9s4o.png"
     title: Voicemail
@@ -159,8 +159,8 @@ usps:
     icon: ''
     iconimage: ''
 - title: PowerFeatures
-  content: '<p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar;<br></br></p>  <a
-    href="/offerte" class="button">Vraag een offerte aan</a>'
+  content: '<div id="power"><p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar;<br></br></p>  <a
+    href="/offerte" class="button">Vraag een offerte aan</a></div>'
   items:
   - image: "/v1566995669/Wachtrij-app_bp3bak.png"
     title: Wachtrij
