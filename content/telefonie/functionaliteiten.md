@@ -28,9 +28,9 @@ intro:
     link: ''
   items: []
 usps:
-- title: Standaard apps
-  content: '<div id="standaard"><p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale:
-    <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a></div>'
+- title: '<div id="standaard">Standaard apps</div>'
+  content: '<p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale:
+    <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a>'
   items:
   - image: "/v1566995670/Voicemail-app_cq9s4o.png"
     title: Voicemail
@@ -158,9 +158,9 @@ usps:
     content: 'Professionele Yealink conference oplossingen.'
     icon: ''
     iconimage: ''
-- title: PowerFeatures
-  content: '<div id="power"><p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar;<br></br></p>  <a
-    href="/offerte" class="button">Vraag een offerte aan</a></div>'
+- title: '<div id="power">PowerFeatures</div>'
+  content: '<p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar;<br></br></p>  <a
+    href="/offerte" class="button">Vraag een offerte aan</a>'
   items:
   - image: "/v1566995669/Wachtrij-app_bp3bak.png"
     title: Wachtrij
