@@ -29,8 +29,8 @@ intro:
   items: []
 usps:
 - title: Standaard apps
-  content: <p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale:
-    <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a>
+  content: '<p>Deze functies maken zonder meerkosten deel uit van de Callvoip centrale:
+    <br></br></p>  <a href="/offerte" class="button">Vraag een offerte aan</a>'
   items:
   - image: "/v1566995670/Voicemail-app_cq9s4o.png"
     title: Voicemail
