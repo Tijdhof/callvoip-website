@@ -159,7 +159,7 @@ usps:
     icon: ''
     iconimage: ''
 - title: '<div id="power">PowerFeatures</div>'
-  content: '<p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar;<br></br></p>  <a
+  content: '<p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar:<br></br></p>  <a
     href="/offerte" class="button">Vraag een offerte aan</a>'
   items:
   - image: "/v1566995669/Wachtrij-app_bp3bak.png"
