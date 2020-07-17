@@ -18,7 +18,7 @@ textblocks:
 - 
   title3: 'Tijdsconditie voor feestdagen'
   top_title: 'Callvoip Casts'
-  top_content: 'Handige instructie videos over de telefooncentrale van Callvoip.<br><br><a href="#meld">Tijdscondities instellen</a><br><a href="2">Click to dial</a><br><a href="#3">Yealink Meeting videobellen</a><br><a href="#4">Callvoip centrale features</a>'
+  top_content: 'Handige instructie videos over de telefooncentrale van Callvoip.<br><br><a href="#meld">Tijdscondities instellen</a><br><a href="#2">Click to dial</a><br><a href="#3">Yealink Meeting videobellen</a><br><a href="#4">Callvoip centrale features</a>'
   content3: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/qIL3AMjWwsU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title2: 'Tijdsconditie voor werktijden'
