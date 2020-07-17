@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip Cast: Wachtrij instellen'
-weight: 3
+weight: 2
 onderdelen:
 - Instructie Videos
 description: ''
