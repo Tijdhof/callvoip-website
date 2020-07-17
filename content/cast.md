@@ -18,13 +18,13 @@ textblocks:
 - 
   title3: 'Tijdsconditie voor feestdagen'
   top_title: 'Callvoip Casts'
-  top_content: "Handige instructie videos over de telefooncentrale van Callvoip."
+  top_content: "Handige instructie videos over de telefooncentrale van Callvoip.<br><br><a href="#1">Tijdscondities instellen</a><br><a href="2">Click to dial</a>"<br><a href="#3">Yealink Meeting videobellen</a><br><a href="#4">Callvoip centrale features</a>
   content3: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/qIL3AMjWwsU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title2: 'Tijdsconditie voor werktijden'
   content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/t4aY4zBishE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
-  title1: Meldteksten
+  title1: '<div id="1">Meldteksten</div>'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/MX5HN2AzgU8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   show_vshape: false
@@ -37,13 +37,13 @@ textblocks:
   title2: 'Click to Dial how-to-use'
   content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
-  title1: 'Click to Dial how-to-install'
+  title1: '<div id="2">Click to Dial how-to-install</div>'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/NlCHmRdHm9w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   
   textblocks:
 - 
-  title1: 'Yealink Meeting gesprek starten'
+  title1: '<div id="3">Yealink Meeting gesprek starten</div>'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/cPUe7uWC2yc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title3: ''
@@ -54,7 +54,7 @@ textblocks:
   
   textblocks:
 - 
-  title1: 'Webcalls'
+  title1: '<div id="4">Webcalls</div>'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/PyH71iA1e9s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title3: ''
