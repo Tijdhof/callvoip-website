@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip Cast: Tijdsconditie voor feestdagen'
-weight: 3
+weight: 4
 onderdelen:
 - Instructie Videos
 description: ''
