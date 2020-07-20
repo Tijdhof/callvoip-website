@@ -14,6 +14,8 @@ Update: false
 ---
 De Simmpl telefooncentrale beschikt over een professioneel wachtrijsysteem. Een wachtrij is een prachtige, intelligente feature van de Simmpl telefooncentrale. De wachtrij neemt gesprekken aan, verbindt deze door met uw wachtrij-agenten en houdt bellers op een comfortabele manier vast als er niemand vrij is. Dit is een uitkomst op momenten dat het erg druk is.
 
+<a href="#video">Video Handleiding</a>
+
 ### Samenvatting
 
 De wachtrij feature werkt zo:
@@ -156,3 +158,8 @@ Externe agenten kunne deze code niet gebruiken; hiervan kan de status in het beh
 #### Ingebruikname van de nieuwe wachtrijen
 
 Had u al wachtrijen vóór de wachtrij-update? Deze blijven gewoon werken op de gebruikelijke manier. Met één willekeurige wijziging neemt u de nieuwe mogelijkheden in gebruik. De statistieken worden gelijk al gevoed.
+
+### Video Handleiding
+<div id="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVFxbUSIeQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
