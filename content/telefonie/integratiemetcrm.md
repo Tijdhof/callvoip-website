@@ -36,11 +36,11 @@ blocks:
   image: "/v1566552826/Callvoip-website-integratie-tabel2_zc7opr.png"
   content: 'De Callvoip telefooncentrale is klaar om te koppelen! <br>Je weet het: we
     houden het graag Simmpl! En daarom ontwikkelden we een koppeling die een basisintegratie
-    biedt: een app voor de Chrome Browser met een <a href=\"/telefonie/clicktodial/\">Click-to-Dial</a>,
+    biedt: een app voor de Chrome Browser met een <a href="/telefonie/clicktodial/">Click-to-Dial</a>,
     een gesprekslog en een bedrijfstelefoonboek. Deze app is voor jou als Callvoip-klant
     kostenloos.<br><br>Wil je meer? Dan is er VoIP CTI: een kant-en-klare koppelingsmogelijkheid
     met een ruime keuze aan CRM- en ERP-pakketten. Deze biedt je een specifiekere
-    koppeling dan de click-to-dial.<br><br>Wil je nóg meer? De <a href=\"/telefonie/realtime-api/\">Realtime
+    koppeling dan de click-to-dial.<br><br>Wil je nóg meer? De <a href="/telefonie/realtime-api/">Realtime
     API</a> van de Callvoip-centrale maakt het mogelijk om een eigen maatwerkkoppeling
     te laten ontwikkelen. Desgewenst brengen wij je in contact met deskundige programmeurs
     die de kunst van programmeren verstaan én de Callvoip API kennen. <br><br> <a href="/ondersteuning/integraties/cti-overzicht/"
