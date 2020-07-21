@@ -34,10 +34,10 @@ textblocks:
   title3: 'Yealink bedrijfstelefoonboek'
   content3: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/hTOOA1yrHk4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
-  title2: 'Click to Dial how-to-use'
+  title2: 'Click to Dial gebruiken'
   content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
-  title1: '<div id="2">Click to Dial how-to-install</div>'
+  title1: '<div id="2">Click to Dial installeren</div>'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/NlCHmRdHm9w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   
@@ -54,7 +54,7 @@ textblocks:
   
   textblocks:
 - 
-  title1: '<div id="4">Webcalls</div>'
+  title1: '<div id="4">Webcalls gebruiken</div>'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/PyH71iA1e9s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title3: ''
