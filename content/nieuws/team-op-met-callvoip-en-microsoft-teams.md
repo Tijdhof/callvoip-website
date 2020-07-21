@@ -7,7 +7,7 @@ images:
 featured: false
 hideinsearch: false
 hideingoogle: false
-hidesocialshare: false
+hidesocialshare: true
 image_uitgelicht: "/v1595333487/6795_web_ne4wrx.jpg"
 hero:
   image: ''
