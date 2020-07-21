@@ -24,7 +24,7 @@ textblocks:
   title2: 'Tijdsconditie voor werktijden'
   content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/t4aY4zBishE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
-  title1: '<div id="meld">Meldteksten</div>'
+  title1: '<div id="meld">Zelf Meldteksten inspreken</div>'
   content1: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/MX5HN2AzgU8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   show_vshape: false
