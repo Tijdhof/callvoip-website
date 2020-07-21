@@ -1,7 +1,8 @@
 ---
 title: 'Videobellen: goede voorbereiding scheelt'
 description: 'Hoe kies je het voor jou ideale systeem voor videobellen? Wij zetten
-  wat aandachtspunten op een rijtje. '
+  wat aandachtspunten op een rijtje die zijn toegespitst op systemen zoals: MS Teams,
+  Zoom & Yealink Meeting.'
 images:
 - "/v1594112025/Screenshot_4_odeenj.png"
 featured: false
