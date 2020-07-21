@@ -1,6 +1,7 @@
 ---
 title: 'Videobellen: goede voorbereiding scheelt'
-description: ''
+description: 'Hoe kies je het voor jou ideale systeem voor videobellen? Wij zetten
+  wat aandachtspunten op een rijtje. '
 images:
 - "/v1594112025/Screenshot_4_odeenj.png"
 featured: false
