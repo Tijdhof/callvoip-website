@@ -26,7 +26,7 @@ tags: []
 
 ### Team op met Callvoip en Microsoft Teams
 
-Wist je dat Microsoft Teams al sinds maart 2017 bestaat? In onze beleving hoorde je pas in de turbulente eerste helft van 2020 waarin we met z’n allen thuis gingen werken, dagelijks de namen van de grote vergaderdiensten Teams, Zoom etc. Natuurlijk meldde Microsoft ook wel eerlijk dat ze erg enthousiast waren over de groeicijfers in maart dit jaar toen de halve wereld op slot ging. [12 miljoen extra gebruikers in 1 week medio maart](https://www.techzine.nl/nieuws/collaboration/438925/microsoft-teams-krijgt-miljoenen-extra-gebruikers-door-coronavirus/)! Dat zijn klinkende getallen.
+Wist je dat Microsoft Teams al sinds maart 2017 bestaat? In onze beleving hoorde je pas in de turbulente eerste helft van 2020 waarin we met z’n allen thuis gingen werken, dagelijks de namen van de grote vergaderdiensten Teams, Zoom etc. Natuurlijk meldde Microsoft ook wel eerlijk dat ze erg enthousiast waren over de groeicijfers in maart dit jaar toen de halve wereld op slot ging. <a href="https://www.techzine.nl/nieuws/collaboration/438925/microsoft-teams-krijgt-miljoenen-extra-gebruikers-door-coronavirus" target="_blank">12 miljoen extra gebruikers in 1 week medio maart.</a> Dat zijn klinkende getallen.
 
 Met zoveel gebruikers kun je niet om Teams heen natuurlijk. En dat willen we bij Callvoip ook niet, want voor jou als gebruiker is het natuurlijk het fijnst als we de handen ineen slaan en ervoor zorgen dat jij jouw telefonie en Teams zo efficiënt mogelijk kunt inzetten.
 
@@ -38,14 +38,14 @@ Want wij gingen aan de slag en [knoopten jouw account op onze centrale met alle 
 
 Deze Teams koppeling betekent dat wanneer iemand jou belt op je vaste nummer, dit gesprek verloopt via onze centrale. Met alle functies zoals je gewend bent. Dus tijdscondities, wachtrijen, keuzemenu’s, alles blijft werken. Het verschil begint op het moment dat er een toestel zou gaan rinkelen, want in plaats daarvan komt de oproep binnen op jouw Teams account. Op welk apparaat je dat ook gebruikt. Uitgaand kun je ook gewoon bellen zoals je gewend bent, met je vaste nummer als afzender. Dit verloopt via de Callvoip centrale, ookal bel je vanaf je Teams account.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1595331698/teams_callvoip_ohdvrr.png)
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1595331698/teams_callvoip_ohdvrr.png" style="float:right">
 
 Naast deze handigheden behoud je natuurlijk alle voordelen van beide platformen. Je kunt blijven vergaderen of chatten via Teams, of onderling bellen. En om jouw telefonie zelf gesmeerd te regelen gebruik je die mooie Callvoip centrale.
 
 ### Toestel op je bureau
 
-Ben je veelbeller? Of hecht je gewoon waarde aan een toestel op je bureau? Je kunt bij Yealink terecht voor [Microsoft Teams gecertificeerde toestellen](Microsoft Teams gecertificeerde toestellen). Je Teams account gaat in het toestel in plaats van je VoIP/SIP account en bellen maar. Headsets etc kunnen daar ook gewoon aan. Of koop een bluetooth headset die aan je laptop, mobiel en Yealink (evt met dongle) kan.
+Ben je veelbeller? Of hecht je gewoon waarde aan een toestel op je bureau? Je kunt bij Yealink terecht voor <a href="https://callvoip.shop/zoeken?controller=search&orderby=position&orderway=desc&search_query=teams" target="_blank">Microsoft Teams gecertificeerde toestellen.</a> Je Teams account gaat in het toestel in plaats van je VoIP/SIP account en bellen maar. Headsets etc kunnen daar ook gewoon aan. Of koop een bluetooth headset die aan je laptop, mobiel en Yealink (evt met dongle) kan.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1595331854/yealink-t55a-voip-phone-ms-teams_lhj4px.png)
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1595331854/yealink-t55a-voip-phone-ms-teams_lhj4px.png" style="float:right">
 
 Meer weten over deze koppeling? [Laat het ons weten](https://www.callvoip.nl/contact/). Of ben je al overtuigd? Dan kun je hier [jouw koppeling aanvragen](https://www.callvoip.nl/aanvragen/ms-teams/).
