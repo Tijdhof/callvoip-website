@@ -17,11 +17,12 @@ hero:
     content: Bereken je kosten
     link: "/calculator"
 blocks:
-- content: |-
+- textblocksfooter:
+- title2: 'Waarom een wachtrij?'
+  content2:
     Op momenten van drukte is het handig als de telefooncentrale zelf het gesprek kan aannemen. Een wachtrij (ook wel Queue genoemd) biedt deze mogelijkheid. U begroet de beller met een zelf te plaatsen welkomsttekst gevolgd door wachtmuziek. Komt er een medewerker (queue agent) vrij, dan wordt het gesprek doorverbonden. U stelt zelf in hoe lang de beller maximaal wacht. Mocht het bijvoorbeeld te lang duren, dan kunt u de beller doorschakelen naar een volgende stap in uw belplan (bijv. voicemailbox).<br><br>Dankzij de de geavanceerde wachtrij statistieken ziet u snel wanneer u de meeste belletjes krijgt en hoe lang de beller gemiddeld in de wacht staat. Met deze gegevens kunt u uw wachtrij en/of belroute optimaliseren.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/wachtrij-app/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/wachtrij_ba3yzb.png"
-  position: image_left
-  title: 'Waarom een wachtrij?'
+  title1: ''
+  content1: '<iframe width="560" height="315" src="https://www.youtube.com/embed/NVFxbUSIeQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   image_position: center
 prijzen:
 - title: Wachtrij (Queue)
