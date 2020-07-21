@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: callvoip-koppelt-met-teams
+url: callvoip-koppelt-met-microsoft-teams
 contactpersoon: []
 categories: []
 tags: []
@@ -34,7 +34,7 @@ Dus je hebt een Teams account en gebruikt dat voor onderling bellen, chatten en 
 
 Want wij gingen aan de slag en [knoopten jouw account op onze centrale met alle routes en handigheden aan jouw Teams account](https://www.callvoip.nl/telefonie/functionaliteiten/teams/). Zo simpel kan het bij Callvoip. Maar dat het in 1 zin te vertellen is, betekent niet dat de voordelen van deze koppeling ook snel bekeken zijn.
 
-Deze koppeling betekent dat wanneer iemand jou belt op je vaste nummer, dit gesprek verloopt via onze centrale. Met alle functies zoals je gewend bent. Dus tijdscondities, wachtrijen, keuzemenu’s, alles blijft werken. Het verschil begint op het moment dat er een toestel zou gaan rinkelen, want in plaats daarvan komt de oproep binnen op jouw Teams account. Op welk apparaat je dat ook gebruikt. Uitgaand kun je ook gewoon bellen zoals je gewend bent, met je vaste nummer als afzender. Dit verloopt via de Callvoip centrale, ookal bel je vanaf je Teams account.
+Deze Teams koppeling betekent dat wanneer iemand jou belt op je vaste nummer, dit gesprek verloopt via onze centrale. Met alle functies zoals je gewend bent. Dus tijdscondities, wachtrijen, keuzemenu’s, alles blijft werken. Het verschil begint op het moment dat er een toestel zou gaan rinkelen, want in plaats daarvan komt de oproep binnen op jouw Teams account. Op welk apparaat je dat ook gebruikt. Uitgaand kun je ook gewoon bellen zoals je gewend bent, met je vaste nummer als afzender. Dit verloopt via de Callvoip centrale, ookal bel je vanaf je Teams account.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1595331698/teams_callvoip_ohdvrr.png)
 
@@ -46,4 +46,4 @@ Ben je veelbeller? Of hecht je gewoon waarde aan een toestel op je bureau? Je ku
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1595331854/yealink-t55a-voip-phone-ms-teams_lhj4px.png)
 
-Meer weten over deze koppeling? [Laat het ons weten](https://www.callvoip.nl/contact/). Of ben je al overtuigd? Dan kun je hier [jouw koppeling aanvragen](https://www.callvoip.nl/aanvragen/ms-teams/).
+Meer weten over deze Teams koppeling? [Laat het ons weten](https://www.callvoip.nl/contact/). Of ben je al overtuigd? Dan kun je hier [jouw koppeling aanvragen](https://www.callvoip.nl/aanvragen/ms-teams/).
