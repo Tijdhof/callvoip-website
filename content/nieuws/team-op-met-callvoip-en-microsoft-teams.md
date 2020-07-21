@@ -20,11 +20,10 @@ url: callvoip-koppelt-met-microsoft-teams
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1595333487/6795_web_ne4wrx.jpg)
-
-### Team op met Callvoip en Microsoft Teams
 
 Wist je dat Microsoft Teams al sinds maart 2017 bestaat? In onze beleving hoorde je pas in de turbulente eerste helft van 2020 waarin we met z’n allen thuis gingen werken, dagelijks de namen van de grote vergaderdiensten Teams, Zoom etc. Natuurlijk meldde Microsoft ook wel eerlijk dat ze erg enthousiast waren over de groeicijfers in maart dit jaar toen de halve wereld op slot ging. <a href="https://www.techzine.nl/nieuws/collaboration/438925/microsoft-teams-krijgt-miljoenen-extra-gebruikers-door-coronavirus" target="_blank">12 miljoen extra gebruikers in 1 week medio maart.</a> Dat zijn klinkende getallen.
 
