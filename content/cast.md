@@ -10,7 +10,7 @@ hero:
   title: Callvoip Casts instructie Videos
   mobile: "/v1570097106/cast_header_wkmhb2.png"
   link: ''
-description: Callvoip casts, handige instructie videos over de telefooncentrale van Callvoip.
+description: "Callvoip casts, handige instructievideo's over de telefooncentrale van Callvoip."
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
