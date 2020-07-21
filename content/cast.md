@@ -18,7 +18,7 @@ textblocks:
 - 
   title3: 'Tijdsconditie voor feestdagen'
   top_title: 'Callvoip Casts: doe het lekker zelf!'
-  top_content: 'Handige instructievideos over de telefooncentrale van Callvoip.<br><br><a href="#meld">Tijdscondities instellen</a><br><a href="#2">Click to dial</a><br><a href="#3">Yealink Meeting videobellen</a><br><a href="#4">Callvoip centrale-features</a>'
+  top_content: 'Handige instructievideos die laten zien hoe snel je zelf de telefooncentrale van Callvoip kunt instellen!<br><br><a href="#meld">1. Zelf meldteksten inspreken en tijdscondities instellen</a><br><a href="#2">2. Click to Dial installeren en gebruiken + bedrijfstelefoonboek</a><br><a href="#3">3. Yealink Meeting videobellen instellen en gebruiken</a><br><a href="#4">4. Meer Callvoip centrale-features zelf instellen en gebruiken</a>'
   content3: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/qIL3AMjWwsU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title2: 'Tijdsconditie voor werktijden'
