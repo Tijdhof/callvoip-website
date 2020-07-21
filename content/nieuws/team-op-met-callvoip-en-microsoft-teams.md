@@ -2,12 +2,13 @@
 title: Team op met Callvoip en Microsoft Teams
 description: 'Slim: wij koppelden onze Callvoip centrale aan de Microsoft Teams diensten.
   Gemak voor jou als gebruiker. Vergaderen, bellen, chatten. '
-images: []
+images:
+- "/v1595333487/6795_web_ne4wrx.jpg"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1595333487/6795_web_ne4wrx.jpg"
 hero:
   image: ''
   mobile: ''
@@ -19,9 +20,10 @@ url: callvoip-koppelt-met-microsoft-teams
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1595333487/6795_web_ne4wrx.jpg)
+
 ### Team op met Callvoip en Microsoft Teams
 
 Wist je dat Microsoft Teams al sinds maart 2017 bestaat? In onze beleving hoorde je pas in de turbulente eerste helft van 2020 waarin we met z’n allen thuis gingen werken, dagelijks de namen van de grote vergaderdiensten Teams, Zoom etc. Natuurlijk meldde Microsoft ook wel eerlijk dat ze erg enthousiast waren over de groeicijfers in maart dit jaar toen de halve wereld op slot ging. [12 miljoen extra gebruikers in 1 week medio maart](https://www.techzine.nl/nieuws/collaboration/438925/microsoft-teams-krijgt-miljoenen-extra-gebruikers-door-coronavirus/)! Dat zijn klinkende getallen.
@@ -46,4 +48,4 @@ Ben je veelbeller? Of hecht je gewoon waarde aan een toestel op je bureau? Je ku
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1595331854/yealink-t55a-voip-phone-ms-teams_lhj4px.png)
 
-Meer weten over deze Teams koppeling? [Laat het ons weten](https://www.callvoip.nl/contact/). Of ben je al overtuigd? Dan kun je hier [jouw koppeling aanvragen](https://www.callvoip.nl/aanvragen/ms-teams/).
+Meer weten over deze koppeling? [Laat het ons weten](https://www.callvoip.nl/contact/). Of ben je al overtuigd? Dan kun je hier [jouw koppeling aanvragen](https://www.callvoip.nl/aanvragen/ms-teams/).
