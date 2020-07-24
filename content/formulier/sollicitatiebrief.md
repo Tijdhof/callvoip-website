@@ -7,7 +7,7 @@ Denk jij dat Callvoip bij jou past en wil je graag bij ons komen werken of stage
 
 {{< form "sollicitatie" "/sollicitatie/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
-{{< form/to "info">}}
+{{< form/to "vacature">}}
 
 {{< layout/split >}}
 
