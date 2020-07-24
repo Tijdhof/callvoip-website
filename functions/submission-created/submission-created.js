@@ -42,6 +42,10 @@ exports.handler =  async (event, context, callback) => {
     fromEmail = 'aanvragen@callvoip.nl'
   }
 
+  if (data.formto == 'vacature') {
+    fromEmail = 'vacature@callvoip.nl'
+  }
+
   let clientFieldsTemp = fields.filter(function( obj ) {
     return obj.name !== 'formlayout';
   });
