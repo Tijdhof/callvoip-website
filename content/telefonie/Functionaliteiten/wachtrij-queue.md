@@ -10,7 +10,7 @@ aliases: "/wachtrij"
 hero:
   title: Wachtrij (Queue)
   content: "Heeft u veel inkomend verkeer of wenst u een professionele uitstraling? Met een wachtrij kunt alle bellers beantwoorden en te woord staan. De beller wordt bijvoorbeeld begroet met een meldtekst en vervolgens in de wacht gezet. Tijdens deze wachtperiode hoort de beller een toon of wachtmuziek totdat hij/zij zelf aan de beurt is.<br><br>Bepaal zelf de rinkelvolgorde en wachtmuziek. Voeg externe nummers toe en bekijk de statistieken. Met de Simmpl telefooncentrale is een wachtrij slechts enkele klikken werk."
-  image: "/v1571655384/call-queue_y47xnz.png"
+  image: "/v1571655384/wachtrij_v1twyt.png"
   image_position: center
   disable_image_on_mobile: false
   button:
