@@ -117,7 +117,7 @@ function openChat() {
   if(button) {
     button.addEventListener('click', function (e) {
       e.preventDefault();
-      window.Trengo.Api.Widget.open('chat');
+      window.smartsupp.Api.Widget.open('chat');
     });
 
   }
