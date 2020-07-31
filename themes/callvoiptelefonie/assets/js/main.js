@@ -108,7 +108,7 @@ window.addEventListener('mouseup', function(event) {
 })
 
 
-// 
+// smartsupp chat popup
 
 function openChat() {
 
