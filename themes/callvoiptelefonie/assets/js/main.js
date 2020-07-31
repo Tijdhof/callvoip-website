@@ -117,7 +117,7 @@ function openChat() {
   if(button) {
     button.addEventListener('click', function (e) {
       e.preventDefault();
-      smartsupp('chat:open');
+      window.smartsupp('chat:open');
     });
 
   }
