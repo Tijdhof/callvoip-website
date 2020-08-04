@@ -1,5 +1,5 @@
 ---
-title: Team op met Callvoip en Microsoft Teams
+title: TeamUp met Callvoip en Microsoft Teams
 description: 'Slim: wij koppelden onze Callvoip centrale aan de Microsoft Teams diensten.
   Gemak voor jou als gebruiker. Vergaderen, bellen, chatten. '
 images:
@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-08-03T22:00:00+00:00
 url: callvoip-koppelt-met-microsoft-teams
 contactpersoon: []
 categories: []
