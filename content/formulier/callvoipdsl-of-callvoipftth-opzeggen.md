@@ -35,7 +35,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Opzeggegevens" >}}
 
-{{< form/input "Wensdatum opzegging" >}}
+{{< form/input "Kan de internetverbinding per direct stoppen, of moet internet tot het einde van de abonnementsduur blijven werken?" >}}
 
 {{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
