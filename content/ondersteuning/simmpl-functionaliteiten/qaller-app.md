@@ -17,7 +17,7 @@ hidesocialshare: false
 
 **Wat is Qaller?**  
 Qaller is een gratis Smartphone app en de afstandsbediening bij de Callvoip telefooncentrale. Upgrade Qaller naar Qaller Plus en maak van je smartphone je kantoortelefoon. Hoe bereikbaar wil jíj zijn?
-<br><a href="http://callvoip.shop/review/Callvoip_handleiding_Qaller_koppelcode_100820MT-2.pdf" target="_blank">Handleiding: op Qaller inloggen met een koppelcode</a><br>
+<br><a href="http://callvoip.shop/review/Callvoip_handleiding_Qaller_koppelcode_100820MT-2.pdf" target="_blank">Handleiding: op Qaller inloggen met een koppelcode</a><br><br>
 [English Qaller manual? Click here!](http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30_ENG.pdf "Qaller Smartphone App english manual")
 
 <h3>Qaller Plus: afstandbediening én telefoon:</h3>
@@ -71,3 +71,4 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 Hieronder een overzicht van Android en iOS versies en of zij geschikt zijn voor het gebruik van Qaller.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1573416725/Qaller_supported_OS_versions_tabel_1103x624_fp2ntj.jpg)
+<br><br><a href="http://callvoip.shop/review/Callvoip_handleiding_Qaller_koppelcode_100820MT-2.pdf" target="_blank">Handleiding: op Qaller inloggen met een koppelcode</a>
