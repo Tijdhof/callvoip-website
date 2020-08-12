@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2020</h3>
 
+* <a href="https://sh1.sendinblue.com/v9sac8qutt7e.html?t=1597249697" target="_blank">Nieuwsbrief 11-08-20 | Qaller update, zo log je snel in met de koppelcode</a><br>
 * <a href="https://sh1.sendinblue.com/aek582wy9xpne.html?t=1593616830" target="_blank">Nieuwsbrief 01-07-20 | Yealink Meeting videobellen en CRM Lookup </a><br>
 * <a href="https://sh1.sendinblue.com/v69v88qutt7e.html?t=1593623949" target="_blank">Nieuwsbrief 29-04-20 | Qaller Smartphone update</a><br>
 * <a href="http://sh1.sendinblue.com/v3gqc8qutt7e.html?t=1584628085" target="_blank">Nieuwsbrief 18-03-20 | Thuiswerken? Hier onze tips. </a><br>
