@@ -73,9 +73,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 10.0
+      price: 10
     - title: Eenmalig
-      price: 15.0
+      price: 25
 - title: Extra spraakkanaal
   content: Waarschijnlijk heb je extra gelijktijdige spraakkanalen nodig.
   button:
@@ -87,8 +87,6 @@ prijzen:
     items:
     - title: Maandelijks
       price: 2.5
-    - title: Eenmalig
-      price: 5.0
 - title: Telefoonnummer
   content: Je heb één of meer telefoonnummers (nieuw of bestaand)
   button:
@@ -99,9 +97,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Maandelijks
-      price: 2.0
+      price: 2
     - title: Eenmalig
-      price: 15.0
+      price: 15
 description: De veiligste VoIP-Trunk voor je eigen telefooncentrale. Met een VoIP-Trunk
   bel je met je eigen VoIP-centrale via de lijnen van Callvoip.
 images: []
