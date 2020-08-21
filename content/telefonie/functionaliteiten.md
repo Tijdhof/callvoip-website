@@ -135,7 +135,7 @@ usps:
     icon: ''
     iconimage: ''
   - image: "/v1566995669/2fa_ezov2g.png"
-    title: 2FA
+    title: 2FA beveiliging
     link: "/2fa"
     content: Two factor authentication via de Qaller app.
     icon: ''
