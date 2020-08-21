@@ -18,7 +18,7 @@ hero:
     link: "/calculator"
 blocks:
 - content: |-
-    Er zijn verschillende toepassingsmogelijkheden. Denk hierbij aan notificatie van alle of alleen de gemiste gesprekken. Ook kunt u analyseren hoeveel van de bellers wel/niet een voicemailbericht achterlaten. U kunt u de beller gemakkelijk de mogelijkheid bieden om te worden teruggebeld. In een keuzemenu plaatst u dan deze functionaliteit en als de beller bijvoorbeeld een 1 toetst wordt het telefoonnummer naar uw e-mail toegestuurd.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/" class="button">Hoe werkt het?</a>
+    Door gebruik te maken van een two factor authentication kan bij verlies van je wachtwoord (door welke manier dan ook) er geen toegang worden gekregen. Dit omdat de hacker dan naast jouw gebruikersnaam en wachtwoord ook jouw smartphone nodig heeft om in te kunnen loggen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/2fa/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/111_baqvxe.png"
   position: image_left
   title: 'Waarom 2FA beveiliging?'
