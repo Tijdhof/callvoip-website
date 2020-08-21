@@ -134,7 +134,7 @@ usps:
     content: Beheer zelf je eigen bibliotheek met wachtmuziek.
     icon: ''
     iconimage: ''
-  - image: "/v1566995669/2fa_ye7gpz.png"
+  - image: "/v1566995669/2fa_ezov2g.png"
     title: 2FA
     link: "/2fa"
     content: Two factor authentication via de Qaller app.
