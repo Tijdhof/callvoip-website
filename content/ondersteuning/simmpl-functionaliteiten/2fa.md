@@ -1,6 +1,6 @@
 ---
 title: Handleiding two factor authentication
-weight: 
+weight: 7
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_email-app.pdf
