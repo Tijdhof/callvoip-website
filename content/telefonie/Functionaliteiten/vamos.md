@@ -29,7 +29,7 @@ prijzen:
     link: "/calculator/"
 intro:
   title: Wat zijn de kosten?
-  content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in drie verschillende
+  content: 'De Vast Mobiel integratie (Vamos) van Callvoip komt in vier verschillende
     abonnementen:'
 prijzen:
 - title: 0 GB data
