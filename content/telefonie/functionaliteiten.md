@@ -134,10 +134,10 @@ usps:
     content: Beheer zelf je eigen bibliotheek met wachtmuziek.
     icon: ''
     iconimage: ''
-  - image: "/v1566995669/test-qaller_iqepfj.png"
-    title: Qaller
-    link: "/telefonie/qaller"
-    content: Gratis afstandsbediening bij de centrale voor iPhone en Android.
+  - image: "/v1566995669/2fa_ye7gpz.png"
+    title: 2FA
+    link: "/2fa"
+    content: Two factor authentication via de Qaller app.
     icon: ''
     iconimage: ''
   - image: "/v1566559951/clicktodial_m7zdni.png"
@@ -158,6 +158,10 @@ usps:
     content: 'Professionele Yealink conference oplossingen.'
     icon: ''
     iconimage: ''
+  - image: "/v1566995669/test-qaller_iqepfj.png"
+    title: Qaller
+    link: "/telefonie/qaller"
+    content: Gratis afstandsbediening bij de centrale voor iPhone en Android.
 - title: '<div id="power">PowerFeatures</div>'
   content: '<p>Heb je ze nodig? Dan zijn deze features tegen een meerprijs beschikbaar:<br></br></p>  <a
     href="/offerte" class="button">Vraag een offerte aan</a>'
