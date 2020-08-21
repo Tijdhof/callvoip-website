@@ -10,7 +10,7 @@ aliases:
 hero:
   title: Two factor authentication
   content: "Een two factor authentication (2FA) is een authenticatie methode waarbij je twee stappen succesvol moet doorlopen om toegang te krijgen tot Qaller of de telefooncentrale."
-  image: "/v1571655384/3896959_xwso5o.png"
+  image: "/v1571655384/139_h2vpch.jpg"
   image_position: center
   disable_image_on_mobile: false
   button:
