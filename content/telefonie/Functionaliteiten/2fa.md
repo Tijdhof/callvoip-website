@@ -23,11 +23,6 @@ blocks:
   position: image_left
   title: 'Waarom 2FA beveiliging?'
   image_position: center
-textblocksfooter:
-- title2: ''
-- content2: ''
-- title1: '3e block'
-- content1: '3e block text'
 prijzen:
 - title: 2FA beveiliging
   content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
