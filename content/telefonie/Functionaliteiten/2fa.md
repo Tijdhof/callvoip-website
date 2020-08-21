@@ -19,16 +19,15 @@ hero:
 blocks:
 - content: |-
     Door gebruik te maken van een two factor authentication kan bij verlies van je wachtwoord (door welke manier dan ook) er geen toegang worden gekregen. Dit omdat de hacker dan naast jouw gebruikersnaam en wachtwoord ook jouw smartphone nodig heeft om in te kunnen loggen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/2fa/" class="button">Hoe werkt het?</a>
+  image: "/v1572861318/111_baqvxe.png"
+  position: image_left
+  title: 'Waarom 2FA beveiliging?'
+  image_position: center
 textblocksfooter:
 - title2: ''
 - content2: ''
 - title1: '3e block'
 - content1: '3e block text'
-
-  image: "/v1572861318/111_baqvxe.png"
-  position: image_left
-  title: 'Waarom 2FA beveiliging?'
-  image_position: center
 prijzen:
 - title: 2FA beveiliging
   content: 'Deze functionaliteit is onderdeel van het basispakket (waar u €7,50 excl. BTW voor betaalt)'
