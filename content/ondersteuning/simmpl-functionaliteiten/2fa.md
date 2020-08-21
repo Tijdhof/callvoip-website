@@ -12,3 +12,5 @@ Nieuw: false
 Update: false
 
 ---
+
+### Two factor authentication
