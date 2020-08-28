@@ -1,5 +1,5 @@
 ---
-title: 2FA | two factor authenticatio | VoIP beveiliging
+title: 2FA | two factor authentication | VoIP beveiliging
 description: Two factor authentication (2FA) voor Qaller en de telefooncentrale!
 type: page
 layout: default
