@@ -12,12 +12,23 @@ hero:
     als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. Je kunt meerdere
     voicemailboxen aanmaken. Ook kan elke gebruiker zelf een persoonlijke voicemail(box)
     instellen.
-  image: "/v1571655384/security_qvfsf0.png"
+  image: "/v1571655384/security_rr7jvy.png"
   image_position: center
   disable_image_on_mobile: false
   button:
     content: Bereken je kosten
     link: "/calculator"
+blocks:
+- content: Soms heb je het even te druk om alle inkomende belletjes te beantwoorden
+    of ben je gewoon simpelweg gesloten. Toch wil je graag in contact komen met de
+    beller. Dankzij de voicemailbox bereik je dit. Je biedt de beller de mogelijkheid
+    om een bericht achter te laten. Vervolgens kun je deze weer beluisteren en contact
+    opnemen met de desbetreffende beller.
+  image: "/v1572861318/callvoip-secure_aom3uy.png"
+  position: image_left
+  title: Extra text block
+  image_position: center
+
 textblocks:
 - 
   title1: 'Security feature 1'
