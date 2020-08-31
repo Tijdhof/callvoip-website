@@ -2,11 +2,11 @@
 title: Concept
 description: Concept
 type: page
-layout: default
+layout: landing
 logos: false
 aliases: "/concept"
 hero:
-  title: Voicemail
+  title: Concept
   content: Met de voicemailbox kan je gemiste gesprekken opvangen. De beller kan,
     na het door jou ingestelde melding, een bericht inspreken. Deze berichten worden
     als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. Je kunt meerdere
