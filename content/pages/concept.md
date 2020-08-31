@@ -18,16 +18,6 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-blocks:
-- content: Soms heb je het even te druk om alle inkomende belletjes te beantwoorden
-    of ben je gewoon simpelweg gesloten. Toch wil je graag in contact komen met de
-    beller. Dankzij de voicemailbox bereik je dit. Je biedt de beller de mogelijkheid
-    om een bericht achter te laten. Vervolgens kun je deze weer beluisteren en contact
-    opnemen met de desbetreffende beller.
-  image: "/v1572861318/callvoip-secure_qpifoy.jpg"
-  position: image_left
-  title: Extra text block
-  image_position: center
 textblocks:
 - 
   title1: 'Security feature 1'
