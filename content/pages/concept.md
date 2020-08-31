@@ -39,20 +39,6 @@ textblocks:
   title3: 'Security feature 3'
   content3: 'Many methods are used to protect the transfer of data, including encryption and from-the-ground-up engineering. The current focus is on prevention as much as on real time protection against well known and new threats.<br><br><a href="/2fa" class="button">Meer informatie</a>'
   show_vshape: false
-  
-prijzen:
-- title: Voicemailbox
-  content: Laat je bellers bij geen gehoor of buiten werktijd een bericht inspreken
-  button:
-    title: Bereken je kosten
-    link: "/calculator/"
-  tarieven:
-    title: Wat zijn de kosten?
-    items:
-    - title: Maandelijks
-      price: '0.00'
-    - title: Eenmalig
-      price: '0.00'
 images: []
 hideinsearch: true
 hideingoogle: true
