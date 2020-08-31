@@ -5,19 +5,6 @@ type: page
 layout: default2
 logos: false
 aliases: "/concept"
-hero:
-  title: Concept
-  content: Met de voicemailbox kan je gemiste gesprekken opvangen. De beller kan,
-    na het door jou ingestelde melding, een bericht inspreken. Deze berichten worden
-    als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. Je kunt meerdere
-    voicemailboxen aanmaken. Ook kan elke gebruiker zelf een persoonlijke voicemail(box)
-    instellen.
-  image: "/v1571655384/voicemail_glpvoq.png"
-  image_position: center
-  disable_image_on_mobile: false
-  button:
-    content: Bereken je kosten
-    link: "/calculator"
 blocks:
 - content: Soms heb je het even te druk om alle inkomende belletjes te beantwoorden
     of ben je gewoon simpelweg gesloten. Toch wil je graag in contact komen met de
