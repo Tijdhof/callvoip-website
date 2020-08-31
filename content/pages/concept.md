@@ -2,7 +2,7 @@
 title: Concept
 description: Concept
 type: page
-layout: landing
+layout: default
 logos: false
 aliases: "/concept"
 hero:
