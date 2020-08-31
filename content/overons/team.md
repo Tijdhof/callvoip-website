@@ -38,12 +38,6 @@ team:
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
   linkedin: ''
-- content: Vindt het leuk om jouw probleem op te lossen. Zeer behulpzaam te noemen.
-    Was al Formule 1 fan, maar rijdt zelf liever op twee wielen.
-  function: Commercieel Medewerker
-  name: Dion Steen
-  image: "/v1568098250/dion_invlag.png"
-  linkedin: https://www.linkedin.com/in/dion-steen-214b06a2/
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
