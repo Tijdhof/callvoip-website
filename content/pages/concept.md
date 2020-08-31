@@ -15,9 +15,6 @@ hero:
   image: "/v1571655384/security_rr7jvy.png"
   image_position: center
   disable_image_on_mobile: false
-  button:
-    content: Bereken je kosten
-    link: "/calculator"
 blocks:
 - content: Soms heb je het even te druk om alle inkomende belletjes te beantwoorden
     of ben je gewoon simpelweg gesloten. Toch wil je graag in contact komen met de
