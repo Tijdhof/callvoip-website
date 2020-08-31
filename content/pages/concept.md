@@ -30,8 +30,6 @@ blocks:
   image_position: center
 textblocks:
 - 
-  top_title: 'Onze features'
-  top_content: 'Extra desc'
   title1: 'Security feature 1'
   content1: 'Security is freedom from, or resilience against, potential harm (or other unwanted coercive change) caused by others. Beneficiaries (technically referents) of security may be of persons and social groups, objects and institutions, ecosystems or any other entity or phenomenon vulnerable to unwanted change.<br><br><a href="/2fa" class="button">Meer informatie</a>'
   title2: 'Security feature 2'
