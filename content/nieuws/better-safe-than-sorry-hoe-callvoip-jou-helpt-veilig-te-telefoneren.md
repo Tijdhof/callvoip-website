@@ -19,9 +19,12 @@ url: blog-veiligheid
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 Internet is gigantisch. Meer dan [5,5 miljard pagina’s](https://www.worldwidewebsize.com/) zijn geïndexeerd en dat worden er natuurlijk steeds meer. Helaas worden niet al die pagina’s gebruikt door brave burgers als jij en ik die er hun nieuws lezen, kleren bestellen etc. Net als het internet zelf groeit namelijk ook de zogenaamde cybercriminaliteit gestaag mee. Inschattingen uit 2015 alweer noemen voor 2021 een geschat getal van [6 biljoen dollar](https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/) (dat zijn **12** nullen!!) schade als gevolg van deze tak van sport. Dit kan gaan om diefstal van gegevens, fraude maar ook inkomstenderving door het platleggen van netwerken. Recent voorbeeld hiervan is de [Universiteit van Maastricht](https://nos.nl/artikel/2321732-hackers-universiteit-maastricht-zaten-maanden-in-netwerk-200-000-euro-betaald.html): rond kerst 2019 was haar volledige netwerk gegijzeld door hackers (ransomware). Een hele universiteit plat. Waarschijnlijk door iemand die 2 maanden ervoor op een verkeerd linkje in een phishing mail heeft geklikt. Losgeld is betaald, want dat was goedkoper dan de hack zelf oplossen…
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1598971932/hacker_l7a2wa.png)
 
 Dit jaar stijgt de internetcriminaliteit nog [sneller in verband met de Corona pandemie](https://www.vpngids.nl/veilig-internet/cybercrime/cybercrime-statistieken-nederland/). In Nederland werden in maart (begin van de lockdown) nog zo’n 900 incidenten gemeld, terwijl in mei dat aantal gestegen is naar een kleine 1900 incidenten. En dat terwijl in het hele jaar 2019 ook al een groei van 68% te zien was ten opzichte van 2018. Dat zijn flinke stijgingen...
 
@@ -43,8 +46,8 @@ Naast de technische beveiliging van de verbindingen en de gesprekken maken we ge
 
 **Veilige beheeromgeving**
 
-We kunnen nog zo’n beveiligd systeem hebben, als je met een makkelijk te raden wachtwoord wat je overal gebruikt inlogt op de centrale en alle gebruikers volledige rechten hebben, staat er toch nog een deur open. Daarom kun je in onze centrale ook gebruikers beperken in hun rechten en gebruiken we niet één ‘Super Admin’ voor alles zodat de risico’s gespreid worden.  
-  
+We kunnen nog zo’n beveiligd systeem hebben, als je met een makkelijk te raden wachtwoord wat je overal gebruikt inlogt op de centrale en alle gebruikers volledige rechten hebben, staat er toch nog een deur open. Daarom kun je in onze centrale ook gebruikers beperken in hun rechten en gebruiken we niet één ‘Super Admin’ voor alles zodat de risico’s gespreid worden.
+
 **Nu ook 2 Factor Authentication**
 
 En dan hebben we ook nog wat nieuws! Voor de centrale bieden we nu ook zogenaamde [2 factor authentication (2FA)](https://www.callvoip.nl/telefonie/functionaliteiten/2fa/). Het houdt in dat, ook al hebben kwaadwillenden je gebruikersnaam en wachtwoord achterhaald, ze pas in jouw centrale komen als ze ook nog een extra stap doorlopen die gekoppeld is aan jouw smartphone. Dat maakt de kans op misbruik een stuk kleiner!
