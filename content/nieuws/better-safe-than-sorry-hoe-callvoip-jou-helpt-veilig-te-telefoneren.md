@@ -1,19 +1,20 @@
 ---
 title: 'Better safe than sorry: hoe Callvoip jou helpt veilig te telefoneren.'
 description: ''
-images: []
+images:
+- "/v1598968424/Screenshot_7_zekrsa.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1598968424/Screenshot_7_zekrsa.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-08-31T22:00:00+00:00
+date: 2020-08-31T22:00:00.000+00:00
 url: blog-veiligheid
 contactpersoon: []
 categories: []
@@ -66,4 +67,4 @@ Dit is een teken dat ergens een poort in je netwerk open staat waar onderzoekend
 
 Internetveiligheid is een constante race tussen mensen die hun knappe koppen inzetten voor ofwel criminaliteit ofwel beveiliging. Die race lopen wij op telefoniegebied zo hard mogelijk mee met alle hierboven omschreven zaken. We blijven ook ontwikkelen op dat gebied met nieuwe functionaliteiten als de pas geïntroduceerde 2 Factor Authentication. En we denken altijd 2 stappen vooruit: stel een hacker komt toch in jouw toestel, dan zorgen we voor minimale financiële schade met een automatisch monitoring systeem met slimme limieten. Dus wij leveren niet alleen slimme, maar ook veilige telefonie.
 
-Meer weten over hoe wij jouw telefonie veilig maken? Of over onze nieuwe 2FA functionaliteit?<br>We vertellen je er alles over!<br><br><a href="/contact" class="button">Neem contant met ons op</a>
+Meer weten over hoe wij jouw telefonie veilig maken? Of over onze nieuwe 2FA functionaliteit? We vertellen je er alles over!<br><a href="/contact" class="button">Neem contant met ons op</a>
