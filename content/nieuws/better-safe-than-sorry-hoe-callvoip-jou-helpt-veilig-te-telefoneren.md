@@ -32,8 +32,7 @@ Zorg er dus voor dat je (bedrijfs-)netwerk goed beveiligd is, zodat kwaadwillend
 
 Naast je netwerk zelf, zijn de apparaten in je netwerk mogelijke zwakke plekken. Computers zonder of met verouderde virussoftware bijvoorbeeld. Maar daar komt de telefonie ook ineens in beeld. Want de toestellen op je bureau zijn allemaal via een netwerkkabel met het internet verbonden. Hoe zit het daar mee dan?
 
-**  
-Veilige telefonie**
+**Veilige telefonie**
 
 Natuurlijk zitten we bij Callvoip niet te wachten tot de cybercriminelen ons op lekken wijzen. We werken constant aan onze beveiliging. Zo zijn al onze verbindingen tussen jouw toestellen en onze centrale beveiligd met het zogenaamde TLS (Transport Layer Security) protocol, mits dat ondersteund wordt door de toestellen. Dat houdt in dat alle gegevens van jouw toestel beveiligd naar onze centrale gaan en vice versa. Het is vergelijkbaar met het HTTPS certificaat voor websites, maar dan voor VoIP telefonie.
 
@@ -41,8 +40,7 @@ Verder bieden we de mogelijkheid om al jouw [gesprekken te versleutelen met SRTP
 
 Naast de technische beveiliging van de verbindingen en de gesprekken maken we gebruik van random, slim gegenereerde SIP-gegevens in je toestel, niet te herleiden naar jouw telefoonnummer, die we nooit bij elkaar samen verzenden en nergens opslaan. Heb jij je Yealink toestellen via onze centrale in de provisioning? Dan zorgen we voor up-to-date firmware wanneer beschikbaar bij herstart via de provisioning waardoor eventuele beveiligingslekken op dat vlak ook ondervangen worden.
 
-**  
-Veilige beheeromgeving**
+**Veilige beheeromgeving**
 
 We kunnen nog zo’n beveiligd systeem hebben, als je met een makkelijk te raden wachtwoord wat je overal gebruikt inlogt op de centrale en alle gebruikers volledige rechten hebben, staat er toch nog een deur open. Daarom kun je in onze centrale ook gebruikers beperken in hun rechten en gebruiken we niet één ‘Super Admin’ voor alles zodat de risico’s gespreid worden.  
   
@@ -58,8 +56,7 @@ Het grootste risico van een gehackte telefoon zijn de kosten van ongewenste tele
 
 Ons systeem kent namelijk jouw belgedrag en wanneer we zien dat er ineens op een vreemd tijdstip veel naar buitenlandse nummers wordt gebeld, gaan de alarmbellen automatisch af. We kennen intelligente limieten toe aan belverkeer per uur, per dag, per week en per maand zodat we de deur al dicht hebben gegooid voor er hoge kosten gemaakt zijn. En trouwens: als jij ons niet vraagt om exotische landen te kunnen bellen, staat dat standaard geblokkeerd. We nemen bij verdacht belgedrag altijd contact met je op en zullen pas in overleg met jou een blokkade weer opheffen. Een geruststellend idee toch?
 
-**  
-Spookbelletjes**
+**Spookbelletjes**
 
 Een specifieke vorm van hacken van VoIP toestellen zijn zogenaamde [spookbelletjes](https://www.callvoip.nl/wat-zijn-toch-die-spookbelletjes/). Je toestel rinkelt herhaaldelijk met als afzender vaak een raar nummer zoals bv. 100 of 1000. Aan de andere kant van de lijn is het dan stil.
 
@@ -69,4 +66,4 @@ Dit is een teken dat ergens een poort in je netwerk open staat waar onderzoekend
 
 Internetveiligheid is een constante race tussen mensen die hun knappe koppen inzetten voor ofwel criminaliteit ofwel beveiliging. Die race lopen wij op telefoniegebied zo hard mogelijk mee met alle hierboven omschreven zaken. We blijven ook ontwikkelen op dat gebied met nieuwe functionaliteiten als de pas geïntroduceerde 2 Factor Authentication. En we denken altijd 2 stappen vooruit: stel een hacker komt toch in jouw toestel, dan zorgen we voor minimale financiële schade met een automatisch monitoring systeem met slimme limieten. Dus wij leveren niet alleen slimme, maar ook veilige telefonie.
 
-Meer weten over hoe wij jouw telefonie veilig maken? Of over onze nieuwe 2FA functionaliteit? We vertellen je er alles over! <a href="/contact" class="button">Neem contant met ons op</a>
+Meer weten over hoe wij jouw telefonie veilig maken? Of over onze nieuwe 2FA functionaliteit? We vertellen je er alles over!<br><a href="/contact" class="button">Neem contant met ons op</a>
