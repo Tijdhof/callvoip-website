@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
   button:
     content: Nu activeren
-    link: "/calculator"
+    link: "/contact"
 blocks:
 - content: |-
     2FA is een inlogmethode waarbij je twee stappen succesvol moet doorlopen om toegang te krijgen tot je account. Zo kan bij verlies van je wachtwoord (door welke manier dan ook) er geen ingelogd worden in de centrale of Qaller app. Dit omdat dan naast jouw gebruikersnaam en wachtwoord ook jouw smartphone nodig is om in te kunnen loggen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/2fa/" class="button">Hoe werkt het?</a>
