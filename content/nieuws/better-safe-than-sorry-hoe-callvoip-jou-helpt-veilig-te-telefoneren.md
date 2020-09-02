@@ -28,6 +28,8 @@ Internet is gigantisch. Meer dan [5,5 miljard pagina’s](https://www.worldwidew
 
 Dit jaar stijgt de internetcriminaliteit nog [sneller in verband met de Corona pandemie](https://www.vpngids.nl/veilig-internet/cybercrime/cybercrime-statistieken-nederland/). In Nederland werden in maart (begin van de lockdown) nog zo’n 900 incidenten gemeld, terwijl in mei dat aantal gestegen is naar een kleine 1900 incidenten. En dat terwijl in het hele jaar 2019 ook al een groei van 68% te zien was ten opzichte van 2018. Dat zijn flinke stijgingen...
 
+> **_“If security were all that mattered, computers would never be turned on, let alone hooked into a network with literally millions of potential intruders”_**  _- Dan Farmer_
+
 **Geen zorgen**
 
 Nu zou je bang kunnen worden en de netwerkkabels uit je modem trekken, maar gelukkig is er tegenover al dit geweld ook een grote groep slimme mensen die zichzelf verdiepen in internet security. Het is net als je huis: met de deur open en je nieuwe laptop voor het raam, is de kans dat er bij je wordt ingebroken groter dan wanneer je deuren op slot zijn en de laptop in de kast achter slot en grendel ligt.
@@ -55,6 +57,8 @@ En dan hebben we ook nog wat nieuws! Voor de centrale bieden we nu ook zogenaamd
 **Wat als mijn telefonie toch gehackt wordt?**
 
 Helaas is het niet mogelijk om 100% garantie te geven dat hackers geen toegang krijgen tot jouw telefonie. Hier zijn zoveel factoren op van invloed, zoals jouw ICT infrastructuur, de software op alle apparaten etc. Daarom hebben we er voor gezorgd dat, mocht het onverhoopt niet goed gaan, het toch goed komt :-)
+
+> **_“Technology trust is a good thing, but control is a better one.”_** _- Stephane Nappo_
 
 Het grootste risico van een gehackte telefoon zijn de kosten van ongewenste telefoongesprekken, vaak naar internationale nummers. Maar al is de hacker nog zo snel, Callvoip blokkeert ‘m wel ;-)
 
