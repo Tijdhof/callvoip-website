@@ -70,4 +70,4 @@ Dit is een teken dat ergens een poort in je netwerk open staat waar onderzoekend
 
 Internetveiligheid is een constante race tussen mensen die hun knappe koppen inzetten voor ofwel criminaliteit ofwel beveiliging. Die race lopen wij op telefoniegebied zo hard mogelijk mee met alle hierboven omschreven zaken. We blijven ook ontwikkelen op dat gebied met nieuwe functionaliteiten als de pas geïntroduceerde 2 Factor Authentication. En we denken altijd 2 stappen vooruit: stel een hacker komt toch in jouw toestel, dan zorgen we voor minimale financiële schade met een automatisch monitoring systeem met slimme limieten. Dus wij leveren niet alleen slimme, maar ook veilige telefonie.
 
-Meer weten over hoe wij jouw telefonie veilig maken? Of over onze nieuwe 2FA functionaliteit?<br>We vertellen je er alles over!<br><br><a href="/contact" class="button">Neem contant met ons op</a>
+Meer weten over hoe wij jouw telefonie veilig maken? Of over onze nieuwe 2FA functionaliteit?<br>We vertellen je er alles over!<br><br><a href="/contact" class="button">Neem contact met ons op</a>
