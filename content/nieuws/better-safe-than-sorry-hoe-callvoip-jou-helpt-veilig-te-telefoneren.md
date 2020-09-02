@@ -1,5 +1,5 @@
 ---
-title: 'Better safe than sorry: hoe Callvoip jou helpt veilig te telefoneren.'
+title: 'Better safe than sorry: hoe wij jou helpen veilig te telefoneren.'
 description: ''
 images:
 - "/v1598968424/Screenshot_7_zekrsa.png"
