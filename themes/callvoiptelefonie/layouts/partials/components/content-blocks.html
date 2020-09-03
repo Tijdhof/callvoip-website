@@ -5,6 +5,11 @@
   {{ $imageLink := .image_link }}
   <div class="flex flex-col-reverse md:flex-row items-center {{ if eq .position "image_left"}} md:flex-row-reverse {{ end }} md:-mx-8 mb-8 md:mb-24">
     <div class="md:w-1/2 md:px-8">
+
+              {{ $zoom := "" }}
+              {{if eq .zooming true}}
+              {{ $zoom = "zoom" }}
+              {{end}}
       
       {{ with .extra }}
       <div class="flex flex-wrap md:flex-row items-start">
@@ -33,7 +38,7 @@
         <a href="{{ $imageLink}}">
         {{ end }}
         <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{.}}"
-          class="cld-responsive" alt="{{ $title }}" />
+          class="cld-responsive {{$zoom}}" alt="{{ $title }}" />
           {{ if $imageLink }}</a>{{ end }} 
       {{ end }}
     </div>
