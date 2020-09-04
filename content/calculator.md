@@ -3,7 +3,7 @@ title: Een kostenindicatie in een paar klikken
 type: page
 layout: calculator
 hero:
-  image: "/v1562160476/calculator_sob7yr.jpg"
+  image: "/v1562160476/calculator_ogqrzh.png"
   disable_image_on_mobile: false
 outputs:
 - HTML
