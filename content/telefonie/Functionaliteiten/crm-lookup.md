@@ -48,7 +48,7 @@ blocks:
     Lookup voor jou al beschikbaar. <br>Een groeiend aantal CRM-pakketten is hiervoor
     geschikt:<br><br>1. Zendesk<br>2. Freshdesk <br>3. Teamleader<br>4. Salesforce<br>5.
     Afas<br>6. Google Contacts<br>7. Office 365 contacts<br>8. Exact Online<br>9.
-    Simplicate<br>10. Zoho CRM<Br>11. Pipedrive<br>12. Hubspot<br><a href="/contact/"> Welk pakket
+    Simplicate<br>10. Zoho CRM<Br>11. Pipedrive<br>12. Hubspot<br>13. Magento<br><a href="/contact/"> Welk pakket
     wil jij koppelen? Laat het ons weten!</a>
   image: "/v1572861318/crm_nh1zox.png"
   position: image_left
