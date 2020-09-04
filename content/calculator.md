@@ -3,7 +3,7 @@ title: Een kostenindicatie in een paar klikken
 type: page
 layout: calculator
 hero:
-  image: "/v1562160476/callvoip-website-calculator.png"
+  image: "/v1562160476/calculator_sob7yr.jpg"
   disable_image_on_mobile: false
 outputs:
 - HTML
