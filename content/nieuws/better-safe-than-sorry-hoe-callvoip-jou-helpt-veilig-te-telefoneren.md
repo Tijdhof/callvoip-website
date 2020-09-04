@@ -26,7 +26,9 @@ Internet is gigantisch. Meer dan [5,5 miljard pagina’s](https://www.worldwidew
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1598971932/hacker_l7a2wa.png)
 
-Dit jaar stijgt de internetcriminaliteit nog [sneller in verband met de Corona pandemie](https://www.vpngids.nl/veilig-internet/cybercrime/cybercrime-statistieken-nederland/). In Nederland werden in maart (begin van de lockdown) nog zo’n 900 incidenten gemeld, terwijl in mei dat aantal gestegen is naar een kleine 1900 incidenten. En dat terwijl in het hele jaar 2019 ook al een groei van 68% te zien was ten opzichte van 2018. Dat zijn flinke stijgingen...
+Dit jaar stijgt de internetcriminaliteit nog [sneller in verband met de Corona pandemie](https://www.vpngids.nl/veilig-internet/cybercrime/cybercrime-statistieken-nederland/). In Nederland werden in maart (begin van de lockdown) nog zo’n 900 incidenten gemeld, terwijl in mei dat aantal gestegen is naar een kleine 1900 incidenten. En dat terwijl in het hele jaar 2019 ook al een groei van 68% te zien was ten opzichte van 2018. Dat zijn flinke stijgingen.
+
+Wat meespeelt is de beweging naar thuiswerken. Kun je in een professionele omgeving met een gedegen ICT provider nog veel doen aan het ondervangen van risico’s, bij mensen thuis is die controle minder mogelijk. Dit terwijl er vaak wel met (directe) online verbindingen met de werkomgeving gewerkt wordt.
 
 > **_“If security were all that mattered, computers would never be turned on, let alone hooked into a network with literally millions of potential intruders”_**  _- Dan Farmer_
 
@@ -72,6 +74,6 @@ Dit is een teken dat ergens een poort in je netwerk open staat waar onderzoekend
 
 **Blijvende veiligheid**
 
-Internetveiligheid is een constante race tussen mensen die hun knappe koppen inzetten voor ofwel criminaliteit ofwel beveiliging. Die race lopen wij op telefoniegebied zo hard mogelijk mee met alle hierboven omschreven zaken. We blijven ook ontwikkelen op dat gebied met nieuwe functionaliteiten als de pas geïntroduceerde 2 Factor Authentication. En we denken altijd 2 stappen vooruit: stel een hacker komt toch in jouw toestel, dan zorgen we voor minimale financiële schade met een automatisch monitoring systeem met slimme limieten. Dus wij leveren niet alleen slimme, maar ook veilige telefonie.
+Internetveiligheid is een constante race tussen mensen die hun knappe koppen inzetten voor ofwel criminaliteit ofwel beveiliging. Die race lopen wij op telefoniegebied zo hard mogelijk mee met alle hierboven omschreven zaken. We blijven ook ontwikkelen op dat gebied met nieuwe functionaliteiten als de pas geïntroduceerde 2 Factor Authentication. En we denken altijd 2 stappen vooruit: stel een hacker komt toch in jouw toestel, dan zorgen we voor minimale financiële schade met een automatisch monitoring systeem met slimme limieten. Dus wij leveren niet alleen slimme, maar ook veilige telefonie, of je nu thuis werkt of op kantoor.
 
 Meer weten over hoe wij jouw telefonie veilig maken? Of over onze nieuwe 2FA functionaliteit?<br>We vertellen je er alles over!<br><br><a href="/contact" class="button">Neem contact met ons op</a>
