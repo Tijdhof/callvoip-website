@@ -62,7 +62,7 @@ Helaas is het niet mogelijk om 100% garantie te geven dat hackers geen toegang k
 
 > **_“Technology trust is a good thing, but control is a better one.”_** _- Stephane Nappo_
 
-Het grootste risico van een gehackte telefoon zijn de kosten van ongewenste telefoongesprekken, vaak naar internationale nummers. Maar al is de hacker nog zo snel, Callvoip blokkeert ‘m wel ;-)
+Het grootste risico van een gehackte telefoon zijn de kosten van ongewenste telefoongesprekken, vaak naar internationale nummers. Maar ook daar steken wij razendsnel een stokje voor! 
 
 Ons systeem kent namelijk jouw belgedrag en wanneer we zien dat er ineens op een vreemd tijdstip veel naar buitenlandse nummers wordt gebeld, gaan de alarmbellen automatisch af. We kennen intelligente limieten toe aan belverkeer per uur, per dag, per week en per maand zodat we de deur al dicht hebben gegooid voor er hoge kosten gemaakt zijn. En trouwens: als jij ons niet vraagt om exotische landen te kunnen bellen, staat dat standaard geblokkeerd. We nemen bij verdacht belgedrag altijd contact met je op en zullen pas in overleg met jou een blokkade weer opheffen. Een geruststellend idee toch?
 
