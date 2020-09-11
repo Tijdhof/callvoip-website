@@ -29,7 +29,7 @@
         <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive hidden md:block zoom" style="object-fit: cover;" alt="{{$title}}" />
         {{ else }}
         <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{.}}"
-          class="cld-responsive zoom" alt="{{ $title }}" />
+          class="cld-responsive" alt="{{ $title }}" />
         {{ end }}
 
       </div>
