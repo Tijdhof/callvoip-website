@@ -13,11 +13,6 @@
         {{ with .title }}
         <h1 class="text-3xl lg:text-4xl xxl:text-4xl font-medium leading-tight mb-4 md:mb-6">{{ . }}</h1>
         {{ end }}
-        {{ $zoom := "" }}
-        {{if eq .zooming true}}
-        {{ $zoom = "zoom" }}
-        {{end}}
-        {{ end }}
         {{ with .content }}
         <div class="font-normal lg:text-lg xxl:text-xl max-w-md text-grey-dark mb-4 md:mb-8">{{ . | markdownify }}</div>
         {{ end }}
@@ -28,7 +23,12 @@
 
       {{ with .image }}
       <div class="md:w-1/2 md:px-2 mb-12 {{ if $imagePosition }} {{ if $disableImageOnMobile }} hidden md:flex justify-{{$imagePosition}} {{ end }}   {{ end }} {{ if $disableImageOnMobile }} hidden md:block {{ end }}">
-        
+        {{/* ADD THIS */}}
+        {{ $zoom := "" }}
+        {{if eq .zooming true}}
+        {{ $zoom = "zoom" }}
+        {end}}
+        {{/* TILL NOW */}}        
         {{ if $mobile }}
         <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{$mobile}}" class="h-full w-full cld-responsive block md:hidden" style="object-fit: cover;" alt="{{$title}}" />
         <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive hidden md:block" style="object-fit: cover;" alt="{{$title}}" />
