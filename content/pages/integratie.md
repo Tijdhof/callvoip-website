@@ -31,11 +31,11 @@ blocks:
 textblocks:
 - 
   title1: 'Click-to-Dial'
-  content1: 'Security is freedom from, or resilience against, potential harm (or other unwanted coercive change) caused by others. Beneficiaries (technically referents) of security may be of persons and social groups, objects and institutions, ecosystems or any other entity or phenomenon vulnerable to unwanted change.<br><br><a href="/2fa" class="button">Meer informatie</a>'
+  content1: 'Security is freedom from, or resilience against, potential harm (or other unwanted coercive change) caused by others. Beneficiaries (technically referents) of security may be of persons and social groups, objects and institutions, ecosystems or any other entity or phenomenon vulnerable to unwanted change.<br><br><a href="/telefonie/clicktodial/" class="button">Meer informatie</a>'
   title2: 'Integratie met jouw CRM'
-  content2: 'Internet security is a branch of computer security specifically related to not only Internet, often involving browser security and the World Wide Web[citation needed], but also network security as it applies to other applications or operating systems as a whole.<br><br><br><a href="/2fa" class="button">Meer informatie</a>'
+  content2: 'Internet security is a branch of computer security specifically related to not only Internet, often involving browser security and the World Wide Web[citation needed], but also network security as it applies to other applications or operating systems as a whole.<br><br><br><a href="/telefonie/integratiemetcrm/" class="button">Meer informatie</a>'
   title3: 'CRM Lookup'
-  content3: 'Many methods are used to protect the transfer of data, including encryption and from-the-ground-up engineering. The current focus is on prevention as much as on real time protection against well known and new threats.<br><br><br><br><a href="/2fa" class="button">Meer informatie</a>'
+  content3: 'Many methods are used to protect the transfer of data, including encryption and from-the-ground-up engineering. The current focus is on prevention as much as on real time protection against well known and new threats.<br><br><br><br><a href="/telefonie/functionaliteiten/crm-lookup/" class="button">Meer informatie</a>'
   show_vshape: false
 images: []
 hideinsearch: false
