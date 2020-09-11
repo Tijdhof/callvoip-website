@@ -12,7 +12,7 @@ hero:
     als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. Je kunt meerdere
     voicemailboxen aanmaken. Ook kan elke gebruiker zelf een persoonlijke voicemail(box)
     instellen.
-  image: "/v1571655384/clicktodial-vegrootglas_omhsqy.png"
+  image: "/v1571655384/c2d-small_udmprx.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -22,7 +22,7 @@ blocks:
     beller. Dankzij de voicemailbox bereik je dit. Je biedt de beller de mogelijkheid
     om een bericht achter te laten. Vervolgens kun je deze weer beluisteren en contact
     opnemen met de desbetreffende beller.
-  image: "/v1572861318/voipcti_gw0nmk.png"
+  image: "/v1572861318/cti-small_exh1s4.png"
   zooming: true
   position: image_left
   title: Extra text block
