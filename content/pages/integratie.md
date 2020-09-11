@@ -22,7 +22,7 @@ blocks:
     beller. Dankzij de voicemailbox bereik je dit. Je biedt de beller de mogelijkheid
     om een bericht achter te laten. Vervolgens kun je deze weer beluisteren en contact
     opnemen met de desbetreffende beller.
-  image: "/v1572861318/voipcti_gw0nmk.png
+  image: "/v1572861318/voipcti_gw0nmk.png"
   zooming: true
   position: image_left
   title: Extra text block
