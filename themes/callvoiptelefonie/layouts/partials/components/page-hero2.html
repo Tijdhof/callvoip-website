@@ -25,8 +25,8 @@
       <div class="md:w-1/2 md:px-2 mb-12 {{ if $imagePosition }} {{ if $disableImageOnMobile }} hidden md:flex justify-{{$imagePosition}} {{ end }}   {{ end }} {{ if $disableImageOnMobile }} hidden md:block {{ end }}">
         
         {{ if $mobile }}
-        <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{$mobile}}" class="h-full w-full cld-responsive block md:hidden {{$zoom}}" style="object-fit: cover;" alt="{{$title}}" />
-        <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive hidden md:block {{$zoom}}" style="object-fit: cover;" alt="{{$title}}" />
+        <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{$mobile}}" class="h-full w-full cld-responsive block md:hidden zoom" style="object-fit: cover;" alt="{{$title}}" />
+        <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive hidden md:block zoom" style="object-fit: cover;" alt="{{$title}}" />
         {{ else }}
         <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{.}}"
           class="cld-responsive" alt="{{ $title }}" />
