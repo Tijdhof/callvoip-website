@@ -155,5 +155,14 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-
+faq: 
+  - question: "What are the minimum requirements?"
+    answer: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum."
+    class: "active"
+  - question: "What are the minimum requirements?"
+    answer: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum."
+  - question: "What are the minimum requirements?"
+    answer: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum."
 ---
+
+{{< faq >}}
