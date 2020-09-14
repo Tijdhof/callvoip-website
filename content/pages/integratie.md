@@ -7,11 +7,7 @@ logos: false
 aliases: "/integratie"
 hero:
   title: Alles over integratie
-  content: Met de voicemailbox kan je gemiste gesprekken opvangen. De beller kan,
-    na het door jou ingestelde melding, een bericht inspreken. Deze berichten worden
-    als .mp3-bestand naar één of meerdere e-mailadressen gestuurd. Je kunt meerdere
-    voicemailboxen aanmaken. Ook kan elke gebruiker zelf een persoonlijke voicemail(box)
-    instellen.
+  content: Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
