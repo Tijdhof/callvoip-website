@@ -1,6 +1,8 @@
 <div class="container px-4 pt-8">
   <div class="text-center mb-2">
-    <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">FAQ</h2>
+    {{ with .Title }}
+    <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">{{ . }}</h2>
+    {{ end }}
   </div>
 
   <div class="flex flex-wrap">
