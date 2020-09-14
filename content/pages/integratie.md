@@ -5,7 +5,7 @@ type: page
 layout: default2
 logos: false
 aliases: "/integratie"
-url: "telefonie/integratie"
+url: "/telefonie/integratie"
 hero:
   title: Alles over integratie
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen 
