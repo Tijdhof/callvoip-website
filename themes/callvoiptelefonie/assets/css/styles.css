@@ -7,6 +7,153 @@
 @import "modules/pricingtable.css";
 
 
+.faq-section{
+  width: 100%;
+}
+.faq-accrodion .accrodion{
+  position: relative;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
+  margin-bottom: 30px;
+  
+}
+.faq-accrodion .accrodion:before{
+  content: '';
+  position: absolute;
+  top: -1px;
+  bottom: -1px;
+  left: 0px;
+  right: 0px;
+  border-radius: 0px;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  background: #2069f3;
+  transition: transform .4s ease;
+}
+.faq-accrodion .accrodion.active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+/* Inner */
+
+.faq-accrodion .accrodion .accrodion-inner{
+  background-color: #fff;
+  padding: 30.5px 0;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e8e8ef;
+  border-radius: 0px;
+  position: relative;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
+}
+.faq-accrodion .accrodion.active .accrodion-inner {
+  margin: 0 1px;
+}
+
+.faq-accrodion .accrodion .accrodion-title{
+  padding: 0px 15px;
+  cursor: pointer;
+  position: relative;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
+}
+.faq-accrodion .accrodion.active .accrodion-title{
+  padding-bottom: 0;
+}
+.faq-accrodion .accrodion .accrodion-title:before{
+  content: '';
+  width: 57px;
+  height: 57px;
+  border-radius: 50%;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  opacity: 1;
+  background: #2069f3 url('/images/plus.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: all 500ms ease;
+}
+.faq-accrodion .accrodion.active .accrodion-title:before {
+  opacity: 0;
+}
+.faq-accrodion .accrodion .accrodion-title:after{
+  content: '';
+  font-weight: 900;
+  width: 57px;
+  height: 57px;
+  border-radius: 50%;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  opacity: 0;
+  background:#2069f3 url('/images/minus.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: all 500ms ease;
+}
+.faq-accrodion .accrodion.active .accrodion-title::after{
+  opacity: 1;
+
+}
+.accrodion-title::after {
+  opacity: 1;
+}
+.faq-accrodion .accrodion .accrodion-title h4{
+  margin: 0;
+  color: #2069f3;
+  font-size: 20px;
+  font-weight: 500;
+  max-width: 625px;
+}
+
+.faq-accrodion .accrodion .accrodion-content .inner{
+ 
+  padding-top: 20px;
+  padding-bottom: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.faq-accrodion .accrodion .accrodion-content p{
+  margin: 0;
+  font-size: 16px;
+  color: #203476;
+  line-height: 34px;
+  font-weight: 500;
+}
+.faq-accrodion .accrodion.active{
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.04);
+}
+
 @keyframes shadow-pulse
 {
      0% {
@@ -341,4 +488,12 @@ html {
 
 .button-center {
   @apply text-center flex items-center justify-center;
+}
+
+
+@media (max-width: 767px){
+  .faq-accrodion .accrodion .accrodion-title h4{
+  
+    max-width: 260px;
+  }
 }
