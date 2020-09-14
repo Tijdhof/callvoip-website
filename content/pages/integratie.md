@@ -29,10 +29,9 @@ blocks:
   image_position: center
 textblocks:
 - title1: Click-to-Dial
-  content1: Security is freedom from, or resilience against, potential harm (or other
-    unwanted coercive change) caused by others. Beneficiaries (technically referents)
-    of security may be of persons and social groups, objects and institutions, ecosystems
-    or any other entity or phenomenon vulnerable to unwanted change.<br><br><a href="/telefonie/clicktodial/"
+  content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
+    je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
+    voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
     class="button">Meer informatie</a>
   title2: Integratie met jouw CRM
   content2: Internet security is a branch of computer security specifically related
