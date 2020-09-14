@@ -63,14 +63,4 @@ textblocks:
   title2: Wat anderen over Callvoip zeggen
   content2: '<div class="blockquote"><p>Wij bellen al sinds 2011 en zijn erg tevreden over Callvoip. Samengevat kiezen wij voor Callvoip als provider vanwege: de kosten, de service en de klantgerichtheid..</p><footer>—R. Graziani, <cite>Kirchhoff Fysio</cite></footer></div>'
 
-faq: 
-  - question: "What are the minimum requirements?"
-    answer: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum.<br><br><a href="/aanbod" class="button">Button</a>'
-    class: "active"
-  - question: "What are the minimum requirements?"
-    answer: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum."
-  - question: "What are the minimum requirements?"
-    answer: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum."
 ---
-
-{{< faq >}}
