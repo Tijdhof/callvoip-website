@@ -1,6 +1,6 @@
 <div class="container px-4 pt-8">
   <div class="text-center mb-2">
-    <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">FAQ</h2>
+    <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">{{ .Title }}</h2>
   </div>
 
   <div class="flex flex-wrap">
@@ -10,11 +10,11 @@
         <div class="accrodion {{ .class }}">
           <div class="accrodion-inner">
               <div class="accrodion-title">
-                  <h4>{{ .question }}</h4>
+                  <h4>{{ .question | markdownify}}</h4>
               </div>
               <div class="accrodion-content" >
                   <div class="inner">
-                      <p>{{ .answer }}</p>
+                      <p>{{ .answer | markdownify}}</p>
                   </div><!-- /.inner -->
               </div>
           </div><!-- /.accrodion-inner -->
