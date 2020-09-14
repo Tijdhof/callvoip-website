@@ -36,12 +36,12 @@ textblocks:
   title2: 'Beter: CRM Lookup'
   content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
     Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
-    Kun jij je concentreren op het gesprek zelf! <br><br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
+    Kun jij je concentreren op het gesprek zelf! <br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
     class="button">Meer informatie</a>
   title3: 'Best: VoIP CTI'
   content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
     VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
-    van jou ertussen zit is groot!<br><br><br><br><a href="/telefonie/integratiemetcrm/"
+    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
     class="button">Meer informatie</a>
   show_vshape: false
 images: []
