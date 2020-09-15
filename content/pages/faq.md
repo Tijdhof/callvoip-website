@@ -64,25 +64,15 @@ faq:
     answer: "Nou nee. We laten je niet aan je lot over nu alles in de steigers staat. We checken nog even bij je in na de eerste gebruiksperiode om te kijken of we alles goed hebben ingericht of dat er door de eerste ervaringen aanpassingen nodig zijn. En als je zelf vragen hebt, zitten we aan de andere kant van jouw nieuwe lijn te wachten om jou te helpen."
 
 blocks:
-- title: 'Click-to-Dial plugin: Welke functies heeft het?'
-  image: "/v1582639629/clicktdial_handleiding_middba.png"
-  content: |2-
-
-    <br>
-    &bull; Click-to-dial: klik en bel een nummer op je VoIP-toestel<br>
-    &bull; Select-and-Dial: selecteer en right-click om te bellen<br>
-    &bull; Paste-and-Dial: plak/type een nummer in de app en bel!<br>
-    &bull; Logboek met in-/uitgaande gesprekken, datum, tijd en tijdsduur<br>
-    &bull; Pop-up inkomend gesprek:</u> met nummer en naam<br>
-    &bull; Adresboek: voeg naam toe en bookmark: privé/gedeeld<br>
-    &bull; Bedrijfstelefoonboek: gedeelde nummers ook zichtbaar bij collega’s.<br>
-    &bull; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
-    &bull; Yealink-adresboek: koppel je Yealink toestel met het C2D adresboek!<br>
-    &bull; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
-    &bull; Volledig-scherm-modus: alle Click-to-Dial tabs in één venster!<br>
-    <div><img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1592550677/edge_vynsgz.png" style="float: left; alt=""><p>Nu ook voor Microsoft Edge!</p></div>
+- content: |-
+    2FA is een inlogmethode waarbij je twee stappen succesvol moet doorlopen om toegang te krijgen tot je account. Zo kan bij verlies van je wachtwoord (door welke manier dan ook) er geen ingelogd worden in de centrale of Qaller app. Dit omdat dan naast jouw gebruikersnaam en wachtwoord ook jouw smartphone nodig is om in te kunnen loggen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/2fa/" class="button">Hoe werkt het?</a>
+  image: "/v1572861318/111_baqvxe.png"
+  position: image_left
+  title: 'Wat is Two factor authentication (2FA)?'
+  image_position: center
   position: image_left
   image_position: end
+
 textblocksfooter:
 - title1: Hoe werkt het?
   content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
