@@ -26,10 +26,10 @@ blocks:
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   position: image_left
 intro:
-  title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
+  title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
-      <br><br><div id="formulier">
+      <br><br><div>
           <form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
               <input type="hidden" name="form-name" value="tourformulier" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
