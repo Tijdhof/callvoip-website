@@ -26,7 +26,7 @@ double_content:
   right:
     background: true
     background_color: "#efefef"
-    title: '<div id="overstap">Ja, ik wil overstappen naar Callvoip</div>'
+    title: '<div id="overstap">Ik wil overstappen naar Callvoip</div>'
     content: '<div><form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8"
       method="POST" data-netlify="true"><input type="hidden" name="form-name" value="tourformulier"
       /><p class="hidden"> <label>Don’t fill this out if human <input name="bot-field">
