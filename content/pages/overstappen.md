@@ -19,9 +19,6 @@ images:
 layout: overstappen
 hideinsearch: true
 hideingoogle: true
-intro:
-  title: ''
-  content: ''
 double_content:
   left:
     title: Nooit onbereikbaar
