@@ -1,11 +1,11 @@
 ---
-title: Callvoip - Zakelijk internet en bellen
+title: Callvoip - Overstappen
 url: faq
 type: page
 hero:
   content:
-    title: Overstappen: geen gedoe en snel geregeld.
-    text: Overstappen van telefonie kan spannend zijn. Lees hieronder waarom een overstap naar ons dat helemaal niet is.
+    title: 'Overstappen: geen gedoe en snel geregeld.'
+    text: 'Overstappen van telefonie kan spannend zijn. Lees hieronder waarom een overstap naar ons dat helemaal niet is.'
     align: left
   image: "/v1593769110/header-internet-en-bellen_wskiox.png"
   title: Callvoip - Overstappen
@@ -19,9 +19,6 @@ images:
 layout: landing
 hideinsearch: true
 hideingoogle: true
-blocks:
-- title: ''
-  content: ''
 double_content:
   left:
     title: Nooit onbereikbaar
@@ -29,8 +26,8 @@ double_content:
   right:
     background: true
     background_color: "#efefef"
-    title: Ja, ik wil overstappen naar Callvoip
-    content: <div><form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8"
+    title: 'Ja, ik wil overstappen naar Callvoip'
+    content: '<div><form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8"
       method="POST" data-netlify="true"><input type="hidden" name="form-name" value="tourformulier"
       /><p class="hidden"> <label>Don’t fill this out if human <input name="bot-field">
       </label> </p><p> <input type="hidden" id="formlayout" name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3"
@@ -48,7 +45,7 @@ double_content:
       name="Telefoonnummer" class="w-full border border-grey-light bg-white px-3 py-2
       text-base"> </div></div><center><br><p> <button type="submit" class="button">Neem
       contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
-      met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
+      met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>'
 
 faq: 
   - question: "De afspraken"
