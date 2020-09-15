@@ -16,13 +16,16 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
   en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
-layout: landing
+layout: overstappen
 hideinsearch: true
 hideingoogle: true
+blocks:
+- title: ''
+  content: ''
 double_content:
   left:
     title: Nooit onbereikbaar
-    content: 'De kogel is door de kerk, je stapt over naar ons. Goeie keuze natuurlijk! :-) <br><br>Het eerste wat je moet weten, als we het je nog niet verteld hebben: <b>er is geen enkel moment dat je niet bereikbaar bent!</b> Het porteren van een nummer doen wij helemaal zelf met 1 druk op de knop. Die knop drukken we natuurlijk niet in als we niet zeker weten dat jouw nieuwe dienst helemaal klaar voor de start staat. We kiezen nadat jouw oude provider groen licht heeft gegeven in samenspraak met jou het perfecte moment.'
+    content: 'De kogel is door de kerk, je stapt over naar ons. Goeie keuze natuurlijk! :-) <br><br>Het eerste wat je moet weten, als we het je nog niet verteld hebben: <b>er is geen enkel moment dat je niet bereikbaar bent!</b> Het porteren van een nummer doen wij helemaal zelf met 1 druk op de knop. Die knop drukken we natuurlijk niet in als we niet zeker weten dat jouw nieuwe dienst helemaal klaar voor de start staat. We kiezen nadat jouw oude provider groen licht heeft gegeven in samenspraak met jou het perfecte moment.<br><br>Textje hier iets van... Lees hier de stappen hoe overstappen gaat... of juist text dat linkt met anchor naar de 2 andere content blokken'
   right:
     background: true
     background_color: "#efefef"
@@ -59,6 +62,42 @@ faq:
     answer: "Wij denken dat onze centrale best wel gebruiksvriendelijk is. Zo gebruiksvriendelijk zelfs dat je helemaal geen telefonie expert hoeft te zijn om bepaalde dingen gewoon zelf te doen. Zeker wanneer we daar bij jouw inrichting rekening mee houden. We denken graag mee! En heb je daar geen zin in of tijd voor? Doen wij het, hoor. ;-)"
   - question: "Zo! Klaar!"
     answer: "Nou nee. We laten je niet aan je lot over nu alles in de steigers staat. We checken nog even bij je in na de eerste gebruiksperiode om te kijken of we alles goed hebben ingericht of dat er door de eerste ervaringen aanpassingen nodig zijn. En als je zelf vragen hebt, zitten we aan de andere kant van jouw nieuwe lijn te wachten om jou te helpen."
+
+blocks:
+- title: 'Click-to-Dial plugin: Welke functies heeft het?'
+  image: "/v1582639629/clicktdial_handleiding_middba.png"
+  content: |2-
+
+    <br>
+    &bull; Click-to-dial: klik en bel een nummer op je VoIP-toestel<br>
+    &bull; Select-and-Dial: selecteer en right-click om te bellen<br>
+    &bull; Paste-and-Dial: plak/type een nummer in de app en bel!<br>
+    &bull; Logboek met in-/uitgaande gesprekken, datum, tijd en tijdsduur<br>
+    &bull; Pop-up inkomend gesprek:</u> met nummer en naam<br>
+    &bull; Adresboek: voeg naam toe en bookmark: privé/gedeeld<br>
+    &bull; Bedrijfstelefoonboek: gedeelde nummers ook zichtbaar bij collega’s.<br>
+    &bull; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
+    &bull; Yealink-adresboek: koppel je Yealink toestel met het C2D adresboek!<br>
+    &bull; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
+    &bull; Volledig-scherm-modus: alle Click-to-Dial tabs in één venster!<br>
+    <div><img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1592550677/edge_vynsgz.png" style="float: left; alt=""><p>Nu ook voor Microsoft Edge!</p></div>
+  position: image_left
+  image_position: end
+textblocksfooter:
+- title1: Hoe werkt het?
+  content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
+    getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
+    in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
+    app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de
+    telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je
+    zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten,
+    geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/"
+    target="_blank" class="button">Handleiding</a> '
+  title2: ''
+  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
+    hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
+    absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
+    title="YouTube Video"></iframe></div>'
 
 ---
 
