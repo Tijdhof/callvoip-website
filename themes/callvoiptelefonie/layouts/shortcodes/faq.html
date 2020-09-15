@@ -11,11 +11,11 @@
           {{  range $.Page.Params.faq }}
           <div class="accrodion-item">
             <div class="accrodion-item-header {{ .class }}">
-              <h4>{{ .question }}</h4>
+              <h4>{{ .question | markdownify}}</h4>
             </div>
             <div class="accrodion-item-body">
               <div class="accrodion-item-body-content">
-                <p>{{ .answer }}</p>
+                <p>{{ .answer | markdownify}}</p>
                 
               </div>
             </div>
