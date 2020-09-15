@@ -17,12 +17,12 @@ layout: landing
 blocks:
 - title: 'Zakelijke telefonie, veilig in de cloud'
   content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!<br><br>
-  <a href="#formuluer" class="button">Ontdek Hosted VoIP</a>'
+  <a href="#formulier" class="button">Ontdek Hosted VoIP</a>'
   position: image_right
   image: "/v1570098498/wolk_pklb2v.png"
 - title: 'Altijd bereikbaar met Vast Mobiel integratie'
   content: 'Onze slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?<br><br>
-  <a href="#formuluer" class="button">Word fan van de Qaller app</a>'
+  <a href="#formulier" class="button">Word fan van de Qaller app</a>'
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   position: image_left
 intro:
