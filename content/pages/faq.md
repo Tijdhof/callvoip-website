@@ -64,13 +64,18 @@ textblocks:
   content2: '<div class="blockquote"><p>Wij bellen al sinds 2011 en zijn erg tevreden over Callvoip. Samengevat kiezen wij voor Callvoip als provider vanwege: de kosten, de service en de klantgerichtheid..</p><footer>—R. Graziani, <cite>Kirchhoff Fysio</cite></footer></div>'
 
 faq: 
-  - question: "What are the minimum requirements?"
-    answer: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum.<br><br><a href="/aanbod" class="button">Button</a>'
+  - question: "De afspraken"
+    answer: 'De aftrap van alle samenwerkingen zijn goede afspraken. Samen met jou stemmen we af wat jouw wensen zijn en wat wij daar voor prachtige oplossingen voor hebben. We vullen samen het aanvraagformulier in en kunnen zonder onduidelijkheid het proces in.'
     class: "active"
-  - question: "What are the minimum requirements?"
-    answer: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum."
-  - question: "What are the minimum requirements?"
-    answer: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia beatae illum cupiditate ullam rerum obcaecati nam consequuntur, incidunt soluta quos sint itaque, voluptate nulla enim animi repellat iure mollitia nostrum."
+  - question: "De inrichting van jouw telefonie"
+    answer: "Hier komt onze specialiteit om de hoek kijken. Wij vinden het namelijk het allerbelangrijkst dat we jou persoonlijk helpen om alle mogelijkheden van onze centrale te benutten.<br><br>Dus niet: hier is je login en een linkje naar een handleiding en succes ermee! Nee, we nemen je aan de hand en met jouw kennis van je bedrijf en onze kennis van telefonie maken we het best mogelijke belplan met alles erop en eraan.<br><br>We nemen de tijd, zorgen dat alle toestellen klaar zijn voor hun taak binnen onze omgeving en drukken op de Grote Porteer Knop wanneer alles klaar staat."
+  - question: "Het verhuizen van het nummer: de portering"
+    answer: "We vragen aan de hand van jouw gegevens aan jouw huidige provider of we jouw nummer(s) mogen verhuizen. Bij groen licht krijgen wij in feite vrij baan om dit op een door ons gekozen moment te doen. Dit loopt dus parallel aan de inrichting van onze centrale."
+  - question: "Doe het lekker zelf"
+    answer: "Wij denken dat onze centrale best wel gebruiksvriendelijk is. Zo gebruiksvriendelijk zelfs dat je helemaal geen telefonie expert hoeft te zijn om bepaalde dingen gewoon zelf te doen. Zeker wanneer we daar bij jouw inrichting rekening mee houden. We denken graag mee! En heb je daar geen zin in of tijd voor? Doen wij het, hoor. ;-)"
+  - question: "Zo! Klaar!"
+    answer: "Nou nee. We laten je niet aan je lot over nu alles in de steigers staat. We checken nog even bij je in na de eerste gebruiksperiode om te kijken of we alles goed hebben ingericht of dat er door de eerste ervaringen aanpassingen nodig zijn. En als je zelf vragen hebt, zitten we aan de andere kant van jouw nieuwe lijn te wachten om jou te helpen."
+
 ---
 
 {{< faq >}}
