@@ -22,11 +22,11 @@ hideingoogle: true
 double_content:
   left:
     title: Nooit onbereikbaar
-    content: 'De kogel is door de kerk, je stapt over naar ons. Goeie keuze natuurlijk! :-) <br><br>Het eerste wat je moet weten, als we het je nog niet verteld hebben: <b>er is geen enkel moment dat je niet bereikbaar bent!</b> Het porteren van een nummer doen wij helemaal zelf met 1 druk op de knop. Die knop drukken we natuurlijk niet in als we niet zeker weten dat jouw nieuwe dienst helemaal klaar voor de start staat. We kiezen nadat jouw oude provider groen licht heeft gegeven in samenspraak met jou het perfecte moment.<br><br>Textje hier iets van... Lees hier de stappen hoe overstappen gaat... of juist text dat linkt met anchor naar de 2 andere content blokken'
+    content: 'De kogel is door de kerk, je stapt over naar ons. Goeie keuze natuurlijk! :-) <br><br>Het eerste wat je moet weten, als we het je nog niet verteld hebben: <b>er is geen enkel moment dat je niet bereikbaar bent!</b> Het porteren van een nummer doen wij helemaal zelf met 1 druk op de knop. Die knop drukken we natuurlijk niet in als we niet zeker weten dat jouw nieuwe dienst helemaal klaar voor de start staat. We kiezen nadat jouw oude provider groen licht heeft gegeven in samenspraak met jou het perfecte moment.<br><br><b>Textje hier iets van... Lees hier de stappen hoe overstappen gaat... of juist text dat linkt met anchor naar de 2 andere content blokken</b>'
   right:
     background: true
     background_color: "#efefef"
-    title: 'Ja, ik wil overstappen naar Callvoip'
+    title: '<div id="overstap">Ja, ik wil overstappen naar Callvoip</div>'
     content: '<br><br><div><form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8"
       method="POST" data-netlify="true"><input type="hidden" name="form-name" value="tourformulier"
       /><p class="hidden"> <label>Don’t fill this out if human <input name="bot-field">
@@ -62,7 +62,7 @@ faq:
 
 blocks:
 - content: |-
-    'Misschien twijfel je aan een overstap omdat je bang bent je veel werk op de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan. Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag, maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.'
+    'Misschien twijfel je aan een overstap omdat je bang bent je veel werk op de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan. Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag, maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a href="#overstap" class="button">Button</a>'
   image: "/v1572861318/unnamed_rfp5uo.jpg"
   position: image_left
   title: 'Het is allemaal zo geregeld'
@@ -72,7 +72,7 @@ blocks:
 
 textblocksfooter:
 - title2: Kant en klare toestellen
-  content2: 'Heb je ook toestellen bij ons aangeschaft? Dan stellen we die helemaal in voor ze jouw kant op komen. Bij aankomst maak je de doos open, doet de stekkers erin en de toestellen en voorinstellingen doen de rest. <br><br>Heb je bestaande toestellen die geschikt zijn voor VoIP? We kunnen je vaak assisteren om deze ook geschikt te maken voor onze dienst.'
+  content2: 'Heb je ook toestellen bij ons aangeschaft? Dan stellen we die helemaal in voor ze jouw kant op komen. Bij aankomst maak je de doos open, doet de stekkers erin en de toestellen en voorinstellingen doen de rest. <br><br>Heb je bestaande toestellen die geschikt zijn voor VoIP? We kunnen je vaak assisteren om deze ook geschikt te maken voor onze dienst.<br><br><a href="#overstap" class="button">Button</a>'
   title1: ''
   content1: '<img src="https://www.sbmania.net/pictures/_thumb/76b/219.jpg">'
 
