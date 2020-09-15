@@ -65,29 +65,20 @@ faq:
 
 blocks:
 - content: |-
-    2FA is een inlogmethode waarbij je twee stappen succesvol moet doorlopen om toegang te krijgen tot je account. Zo kan bij verlies van je wachtwoord (door welke manier dan ook) er geen ingelogd worden in de centrale of Qaller app. Dit omdat dan naast jouw gebruikersnaam en wachtwoord ook jouw smartphone nodig is om in te kunnen loggen.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/2fa/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/111_baqvxe.png"
+    'Misschien twijfel je aan een overstap omdat je bang bent je veel werk op de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan. Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag, maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.'
+  image: "/v1572861318/unnamed_rfp5uo.jpg"
   position: image_left
-  title: 'Wat is Two factor authentication (2FA)?'
+  title: 'Het is allemaal zo geregeld'
   image_position: center
-  position: image_left
+  position: image_right
   image_position: end
 
 textblocksfooter:
-- title1: Hoe werkt het?
-  content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
-    getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
-    in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
-    app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de
-    telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je
-    zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten,
-    geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/"
-    target="_blank" class="button">Handleiding</a> '
-  title2: ''
-  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
-    hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
-    absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
-    title="YouTube Video"></iframe></div>'
+- title2: Kant en klare toestellen
+  content2: 'Heb je ook toestellen bij ons aangeschaft? Dan stellen we die helemaal in voor ze jouw kant op komen. Bij aankomst maak je de doos open, doet de stekkers erin en de toestellen en voorinstellingen doen de rest. <br><br>Heb je bestaande toestellen die geschikt zijn voor VoIP? We kunnen je vaak assisteren om deze ook geschikt te maken voor onze dienst. 
+
+  title1: ''
+  content1: '<img src="https://www.sbmania.net/pictures/_thumb/76b/219.jpg">'
 
 ---
 
