@@ -16,7 +16,9 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-###Overstappen van telecomprovider? Zij gingen jou voor..
+### Overstappen van telecomprovider?
+
+<b>Zij gingen jou voor..</b>
 
 Ken je dat als ondernemer? Je zit bij een (grote) telecomprovider en de ‘samenwerking’ loopt niet naar wens. Je voelt je niet serieus genomen en wordt veelal van het kastje naar de muur gestuurd als het gaat om belangrijke, specifieke vraagstukken. Wat je zoekt is persoonlijke aandacht en service op maat en liefst van een vaste medewerker met verstand van zaken. 
 
@@ -24,7 +26,7 @@ Na lang twijfelen wil je nu overstappen naar een andere en wellicht kleinere aan
 
 
 
-###Praktijkcase in interviewvorm met ‘Bij Alex, brillen & contactlenzen’
+### Praktijkcase in interviewvorm met ‘Bij Alex, brillen & contactlenzen’
 
 Wat betrof het vraagstuk waarom je voornemens was om te switchen van telecomaanbieder Alex? 
 
