@@ -75,8 +75,7 @@ blocks:
 
 textblocksfooter:
 - title2: Kant en klare toestellen
-  content2: 'Heb je ook toestellen bij ons aangeschaft? Dan stellen we die helemaal in voor ze jouw kant op komen. Bij aankomst maak je de doos open, doet de stekkers erin en de toestellen en voorinstellingen doen de rest. <br><br>Heb je bestaande toestellen die geschikt zijn voor VoIP? We kunnen je vaak assisteren om deze ook geschikt te maken voor onze dienst. 
-
+  content2: 'Heb je ook toestellen bij ons aangeschaft? Dan stellen we die helemaal in voor ze jouw kant op komen. Bij aankomst maak je de doos open, doet de stekkers erin en de toestellen en voorinstellingen doen de rest. <br><br>Heb je bestaande toestellen die geschikt zijn voor VoIP? We kunnen je vaak assisteren om deze ook geschikt te maken voor onze dienst.'
   title1: ''
   content1: '<img src="https://www.sbmania.net/pictures/_thumb/76b/219.jpg">'
 
