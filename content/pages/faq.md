@@ -22,6 +22,7 @@ hideingoogle: true
 intro:
   title: ''
   content: ''
+double_content:
   left:
     title: Nooit onbereikbaar
     content: 'De kogel is door de kerk, je stapt over naar ons. Goeie keuze natuurlijk! :-) <br><br>Het eerste wat je moet weten, als we het je nog niet verteld hebben: <b>er is geen enkel moment dat je niet bereikbaar bent!</b> Het porteren van een nummer doen wij helemaal zelf met 1 druk op de knop. Die knop drukken we natuurlijk niet in als we niet zeker weten dat jouw nieuwe dienst helemaal klaar voor de start staat. We kiezen nadat jouw oude provider groen licht heeft gegeven in samenspraak met jou het perfecte moment.<br><br><b>Textje hier iets van... Lees hier de stappen hoe overstappen gaat... of juist text dat linkt met anchor naar de 2 andere content blokken</b>'
