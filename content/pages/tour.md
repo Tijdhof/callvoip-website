@@ -17,19 +17,19 @@ layout: landing
 blocks:
 - title: 'Zakelijke telefonie, veilig in de cloud'
   content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!<br><br>
-  <a href="/telefonie/hostedvoip" class="button">Ontdek Hosted VoIP</a>'
+  <a href="#formuluer" class="button">Ontdek Hosted VoIP</a>'
   position: image_right
   image: "/v1570098498/wolk_pklb2v.png"
-- title: 'Altijd bereikbaar met de Qaller app'
-  content: 'Qaller is jouw slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?<br><br>
-  <a href="/telefonie/qaller" class="button">Word fan van de Qaller app</a>'
+- title: 'Altijd bereikbaar met Vast Mobiel integratie'
+  content: 'Onze slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?<br><br>
+  <a href="#formuluer" class="button">Word fan van de Qaller app</a>'
   image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   position: image_left
 intro:
   title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
-      <br><br><div>
+      <br><br><div id="formulier">
           <form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
               <input type="hidden" name="form-name" value="tourformulier" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
@@ -48,8 +48,8 @@ intro:
                   <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
                           id="telefoonnummer" name="telefoonnummer"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
-                  <div class="mb-4"> <label for="terugbelmoment" class="block">Gewenste terugbelmoment</label> <input type="text"
-                          id="terugbelmoment" name="terugbelmoment"
+                  <div class="mb-4"> <label for="terugbelmoment" class="block">Wensen of vragen</label> <input type="text"
+                          id="wensenvragen" name="wensenvragen"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
               <center><div data-netlify-recaptcha="true"></div></center>
