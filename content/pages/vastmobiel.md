@@ -5,7 +5,7 @@ type: page
 layout: default2
 logos: false
 aliases: "/vastmobiel"
-url: "/vastmobiel"
+url: telefonie/vastmobiel/
 hero:
   title: Alles over integratie met mobiel
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
