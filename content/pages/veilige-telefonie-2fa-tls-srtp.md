@@ -9,9 +9,11 @@ aliases: "/integratie"
 url: "/telefonie/beveiliging/"
 hero:
   title: Alles over veilig bellen
-  content: 'Wij vinden het belangrijk dat jij veilig kunt bellen. En dat gaat verder dan een moeilijk te raden wachtwoord voor de centrale. 
-  We hanteren een hoge standaard voor al onze klanten met functies als 2FA en TLS ondersteuning. Is dat voor jou om welke reden dan ook 
-  niet voldoende? Dan zijn er extra mogelijkheden zoals volledige versleuteling van al jouw gesprekken.'
+  content: Wij vinden het belangrijk dat jij veilig kunt bellen. En dat gaat verder
+    dan een moeilijk te raden wachtwoord voor de centrale. We hanteren een hoge standaard
+    voor al onze klanten met functies als 2FA en TLS ondersteuning. Is dat voor jou
+    om welke reden dan ook niet voldoende? Dan zijn er extra mogelijkheden zoals volledige
+    versleuteling van al jouw gesprekken.
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
@@ -40,7 +42,7 @@ textblocks:
     kunnen worden. Onze centrale ondersteunt dit in ieder geval, maar de werking is
     ook afhankelijk van je toestellen.<br><br><a href="/telefonie/versleutelde-telefoongesprekken/"
     class="button">Meer informatie</a>
-  title3: 'Wat is dat: SRTP versleuteling'
+  title3: 'Wat is dat: SRTP versleuteling?'
   content3: Waar TLS de verbinding beveiligt, beveiligt deze SRTP versleuteling jouw
     daadwerkelijke gesprekken. SRTP staat voor Secure Real-time Transport Protocol
     en zorgt ervoor dat de spraak versleuteld verzonden wordt. Interne gesprekken
