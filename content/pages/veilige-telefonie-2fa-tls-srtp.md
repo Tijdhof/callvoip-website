@@ -8,7 +8,7 @@ logos: false
 aliases: "/integratie"
 url: "/telefonie/beveiliging/"
 hero:
-  title: Alles over integratie
+  title: Alles over veilig bellen
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
@@ -18,37 +18,39 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: "Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
-    al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Popups van
-    telefoontjes, een bedrijfstelefoonboek en meer. \nWil je integratie met jouw eigen
-    systeem? Dan komt de CRM Lookup in beeld: de uitbreiding van de Click-to-Dial.
-    Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt."
+- content: Veiligheid begint met het zo moeilijk mogelijk maken voor kwaadwillenden
+    om in de beheeromgeving te komen. Daarom kennen we geen beheerdersrechten toe
+    aan elke gebruiker en bieden we 2 Factor Authentication (2FA) zodat bij elke login
+    naast een gebruikersnaam/wachtwoord combinatie een extra stap op je mobiel nodig
+    is om in de centrale te komen.
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
   title: Onze standaard
   image_position: center
 textblocks:
-- title1: 'Wat is dat: Click-to-Dial?'
-  content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
-    je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
-    voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
+- title1: 'Wat is dat: 2FA?'
+  content1: Hoe lang en ingewikkeld je wachtwoord ook is, bij een hack kunnen kwaadwillenden
+    het toch achterhalen. Is jouw account beveiligd met 2 Factor Authentication dan
+    kan niemand erin die niet ook over jouw mobiel beschikt. Een geruststellend idee!<br><br><a
+    href="/telefonie/functionaliteiten/2fa/" class="button">Meer informatie</a>
+  title2: 'Wat is dat: TLS?'
+  content2: Transport Layer Security (TLS) is een beveiligingsprotocol speciaal voor
+    VoIP telefonie. Het is vergelijkbaar met het HTTPS certificaat voor websites en
+    zorgt ervoor dat de verbindingen tussen onze centrale en de toestellen beveiligd
+    kunnen worden. Onze centrale ondersteunt dit in ieder geval, maar de werking is
+    ook afhankelijk van je toestellen.<br><a href="/telefonie/versleutelde-telefoongesprekken/"
     class="button">Meer informatie</a>
-  title2: 'Wat is dat: CRM Lookup?'
-  content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
-    Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
-    Kun jij je concentreren op het gesprek zelf! <br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
-    class="button">Meer informatie</a>
-  title3: 'Wat is dat: VoIP CTI?'
-  content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
-    VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
-    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
-    class="button">Meer informatie</a>
+  title3: 'Wat is dat: SRTP versleuteling'
+  content3: Waar TLS de verbinding beveiligt, beveiligt deze SRTP versleuteling jouw
+    daadwerkelijke gesprekken. SRTP staat voor Secure Real-time Transport Protocol
+    en zorgt ervoor dat de spraak versleuteld verzonden wordt. Interne gesprekken
+    en de spraak tussen jouw toestellen en onze centrale is allemaal versleuteld.<br><br><a
+    href="/telefonie/versleutelde-telefoongesprekken/" class="button">Meer informatie</a>
   show_vshape: false
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-draft: true
 
 ---
