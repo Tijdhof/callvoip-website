@@ -1,6 +1,7 @@
 ---
 title: Integratie met je smartphone | Doorschakelen | Qaller | Vamos
-description: Concept
+description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
+  Vast en mobiel dichter bij elkaar
 type: page
 layout: default2
 logos: false
@@ -8,11 +9,12 @@ aliases: "/vastmobiel"
 url: telefonie/vastmobiel/
 hero:
   title: Alles over integratie met mobiel
-  content: 'Jouw smartphone is het hart van veel communicatie. Als jouw zakelijke telefonieprovider 
-  voor het vaste nummer hebben we verschillende manieren om die 2 bij elkaar te brengen. Wat te denken 
-  van een app waarmee je doorschakelingen kunt beïnvloeden? Of zelfs bellen met je vaste nummer op de 
-  smartphone. Of Whatsapp op datzelfde vaste nummer? En met onze sim oplossing VAMOS vervaagt de grens 
-  tussen vast mobiel helemaal.'
+  content: Jouw smartphone is het hart van veel communicatie. Als jouw zakelijke telefonieprovider
+    voor het vaste nummer hebben we verschillende manieren om die 2 bij elkaar te
+    brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden?
+    Of zelfs bellen met je vaste nummer op de smartphone. Of Whatsapp op datzelfde
+    vaste nummer? En met onze sim oplossing VAMOS vervaagt de grens tussen vast mobiel
+    helemaal.
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
