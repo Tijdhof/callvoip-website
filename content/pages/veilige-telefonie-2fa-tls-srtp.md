@@ -5,7 +5,7 @@ description: Alles over hoe Callvoip jouw telefonie zo veilig mogelijk maakt. Va
 type: page
 layout: default2
 logos: false
-aliases: "/integratie"
+aliases: "/beveiliging"
 url: "/telefonie/beveiliging/"
 hero:
   title: Alles over veilig bellen
