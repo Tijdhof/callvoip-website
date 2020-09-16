@@ -7,7 +7,7 @@ logos: false
 aliases: "/vastmobiel"
 url: "/vastmobiel"
 hero:
-  title: Alles over integratie
+  title: Alles over integratie met mobiel
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
@@ -28,21 +28,24 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocks:
-- title1: 'Goed: Click-to-Dial'
-  content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
-    je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
-    voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
-    class="button">Meer informatie</a>
-  title2: 'Beter: CRM Lookup'
-  content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
-    Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
-    Kun jij je concentreren op het gesprek zelf! <br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
-    class="button">Meer informatie</a>
-  title3: 'Best: VoIP CTI'
-  content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
-    VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
-    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
-    class="button">Meer informatie</a>
+- title1: 'Wat is dat: Qaller app?'
+  content1: 'Onze smartphone app heet Qaller. Hij is zowel voor de iPhone als een
+    Android toestel gratis te downloaden in de desbetreffende app store. Je zou het
+    een afstandsbediening kunnen noemen voor onze centrale: je regelt er doorschakelingen
+    mee, of activeert een storingsbandje. Waar je ook bent. Ideaal toch?<br><br><a
+    href="/telefonie/qaller/" class="button">Meer informatie</a>'
+  title2: 'Wat is dat: Qaller Plus app?'
+  content2: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
+    tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
+    en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
+    en zie of ze in gesprek zijn. <br><br><a href="/telefonie/qaller/" class="button">Meer
+    informatie</a>
+  title3: 'Wat is dat: Vamos SIM?'
+  content3: 'Stel je eens voor: alles wat met bellen en gebeld worden te maken heeft,
+    vast en mobiel, samen in 1 smartphone. Bellen met vast nummer zonder app, gewoon
+    met je standaard telefoon functie. Kiezen of je vast, mobiel of anoniem uitbelt,
+    mensen in de wacht zetten, doorverbinden. Alles is mogelijk.<br><br><br><a href="/telefonie/vastmobielintegratie/"
+    class="button">Meer informatie</a>'
   show_vshape: false
 images: []
 hideinsearch: false
