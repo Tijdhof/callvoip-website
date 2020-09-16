@@ -8,10 +8,11 @@ aliases: "/vastmobiel"
 url: telefonie/vastmobiel/
 hero:
   title: Alles over integratie met mobiel
-  content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
-    van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
-    goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
-    koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!'
+  content: 'Jouw smartphone is het hart van veel communicatie. Als jouw zakelijke telefonieprovider 
+  voor het vaste nummer hebben we verschillende manieren om die 2 bij elkaar te brengen. Wat te denken 
+  van een app waarmee je doorschakelingen kunt beïnvloeden? Of zelfs bellen met je vaste nummer op de 
+  smartphone. Of Whatsapp op datzelfde vaste nummer? En met onze sim oplossing VAMOS vervaagt de grens 
+  tussen vast mobiel helemaal.'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
