@@ -1,5 +1,5 @@
 ---
-title: Integratie mogelijkheden | Click-to-Dial | CRM | CRM-Lookup
+title: Integratie met je smartphone | Doorschakelen | Qaller | Vamos
 description: Concept
 type: page
 layout: default2
@@ -8,24 +8,24 @@ aliases: "/vastmobiel"
 url: "/vastmobiel"
 hero:
   title: Alles over integratie
-  content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen 
-  van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben 
-  goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens 
-  koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!'
+  content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
+    van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
+    goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
+    koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: "Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
-    al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Popups van
-    telefoontjes, een bedrijfstelefoonboek en meer. \nWil je integratie met jouw eigen
-    systeem? Dan komt de CRM Lookup in beeld: de uitbreiding van de Click-to-Dial.
-    Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt."
+- content: 'Als jouw zakelijke telefonieprovider negeren wij jouw smartphone zeker
+    niet! Vanzelfsprekend kunnen we op enig moment jouw vaste nummer doorschakelen
+    naar mobiel. Maar met onze Qaller app op je mobiel kun je ook overal bepaalde
+    routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
+    Business, op je vaste nummer! We helpen je graag.'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
-  title: Goed, beter, best
+  title: Onze standaard
   image_position: center
 textblocks:
 - title1: 'Goed: Click-to-Dial'
