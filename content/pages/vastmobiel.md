@@ -32,13 +32,13 @@ textblocks:
   content1: 'Onze smartphone app heet Qaller. Hij is zowel voor de iPhone als een
     Android toestel gratis te downloaden in de desbetreffende app store. Je zou het
     een afstandsbediening kunnen noemen voor onze centrale: je regelt er doorschakelingen
-    mee, of activeert een storingsbandje. Waar je ook bent. Ideaal toch?<br><br><a
+    mee, of activeert een storingsbandje. Waar je ook bent. Ideaal toch?<br><br><br><a
     href="/telefonie/qaller/" class="button">Meer informatie</a>'
   title2: 'Wat is dat: Qaller Plus app?'
   content2: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
     tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
     en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
-    en zie of ze in gesprek zijn. <br><br><a href="/telefonie/qaller/" class="button">Meer
+    en zie of ze in gesprek zijn. <br><br><br><br><a href="/telefonie/qaller/" class="button">Meer
     informatie</a>
   title3: 'Wat is dat: Vamos SIM?'
   content3: 'Stel je eens voor: alles wat met bellen en gebeld worden te maken heeft,
