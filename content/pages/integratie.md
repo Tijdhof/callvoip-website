@@ -5,8 +5,8 @@ description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome in
 type: page
 layout: default2
 logos: false
-aliases: "/integratie"
-url: "/telefonie/integratie"
+aliases: "/integratie/"
+url: "/telefonie/integratie/"
 hero:
   title: Alles over integratie
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
