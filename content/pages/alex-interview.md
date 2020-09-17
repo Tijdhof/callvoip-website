@@ -1,6 +1,6 @@
 ---
 type: page
-title: Overstappen van telecomprovider? <br> Zij gingen jou voor..
+title: Overstappen van telecomprovider? Zij gingen jou voor..
 description: Callvoip biedt zakelijke telefonie voor elke branche. Bekijk hier de
   mogelijkheden voor de advocatuur.
 images:
