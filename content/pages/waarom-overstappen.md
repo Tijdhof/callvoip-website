@@ -17,7 +17,7 @@ hideinsearch: true
 hideingoogle: true
 double_content:
   left:
-    title: Overstappen naar een andere telecomprovider. Waarom zou je dat doen?
+    title: Overstappen naar een andere telecomprovider.<br>Waarom zou je dat doen?
     content: 'Omdat je wellicht net als vele andere bedrijven liefde en persoonlijke aandacht verlangt binnen een samenwerking. Het gevoel wat je qua oplossingsgerichte en betrokken service van de grotere providers krijgt, is het best te omschrijven als vroeger steevast de laatst verkozen persoon te zijn tijdens gymnastiek. Geen liefde en geen ruimte voor jouw specifieke vraagstuk. Daar kunnen de grote providers niet zoveel aan doen. Het is een logisch gevolg van het willen bedienen van werkelijk iedereen. Aan de hand van vernuftig ingerichte klantenservice-omgevingen. Persoonlijke aandacht en maatwerk voor (zakelijke) klanten, is hierin zachtjes gezegd een wat onderbelicht aandachtspunt.'
   right:
     background: true
