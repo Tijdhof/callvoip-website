@@ -5,7 +5,7 @@ description: |2-
   Ben je startende ondernemer en zoek je naar de beste VoIP-oplossing voor jouw business? Dan volgen hier 7 bruikbare tips om daarin de juiste keuze te maken. Niet enkel op basis van prijs en specifiek aanbod, maar juist vanwege de vraag of deze partij aansluit op jouw persoonlijke wensen.
 images:
 - "/v1588839515/lets_go_wroayw.jpg"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
