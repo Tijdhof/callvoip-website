@@ -20,7 +20,7 @@ hideinsearch: true
 hideingoogle: true
 double_content:
   left:
-    title: 'Waarom zou je dat doen?'
+    title: Waarom zou je dat doen?
     content: |-
       Als iemand belt, rinkelt je telefoon en die van je collega’s. Je betaalt niet al te veel. Misschien heb je zelfs wel een keuzemenu en andere extra functionaliteiten. Als er iets niet werkt, bel je de helpdesk, geef je je klantnummer door en wordt je verzoek zo efficiënt mogelijk weggewerkt. Kortom: de telefonie zit je niet in de weg.
 
@@ -49,7 +49,7 @@ double_content:
       contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
       met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
 textblocksfooter:
-- title1: Wij, Marieke en team, zijn er voor jou!
+- title1: Marieke en team zijn er voor jou!
   content1: "Natuurlijk is allereerst belangrijk dat als jij een probleem hebt met
     de telefonie, dat dat zo snel mogelijk wordt opgelost. Dat kan bijvoorbeeld door
     een systeem waarbij je een ticket aanmaakt, jouw klantnummer invoert en vervolgens
@@ -67,13 +67,15 @@ textblocksfooter:
     zijn die mensen?</a>"
   title2: Klein team, grootse dienst
   content2: "Leuk, dat gezellige, kleine team. Maar krijg ik dan ook een klein, beperkt
-    systeem?\n\nNee! Onze Hosted VoIP centrale is één van de meest uitgebreide, flexibele
-    en gebruiksvriendelijke op de markt. Makkelijk doorschakelen naar mobiel, wachtrij,
-    keuzemenu en andere zaken die je kent van zakelijke telefonie zijn uiteraard allemaal
-    mogelijk. \n\nBovendien maken wij thuiswerken makkelijk met een krachtige vast-mobiel
+    systeem?\n\nNee! Onze <a href=\"/telefonie/hostedvoip/\">Hosted VoIP centrale</a>
+    is één van de meest uitgebreide, flexibele en gebruiksvriendelijke op de markt.
+    Makkelijk doorschakelen naar mobiel, wachtrij, keuzemenu en andere zaken die je
+    kent van zakelijke telefonie zijn uiteraard allemaal mogelijk. \n\nBovendien maken
+    wij thuiswerken makkelijk met een krachtige <a href=\"/telefonie/vastmobiel/\">vast-mobiel</a>
     oplossing met of zonder app. En wat te denken van bellen met je browser, gewoon
-    op je laptop? Of een integratie van jouw telefonie met jouw CRM pakket? Zo kun
-    je maximaal efficiënt werken en wordt jouw telefonie daadwerkelijk meer dan iets
+    op je laptop? Of een <a href=\"/telefonie/integratie/\">integratie</a> van jouw
+    telefonie met <a href=\"/telefonie/integratie/\">jouw CRM pakket</a>? Zo kun je
+    maximaal efficiënt werken en wordt jouw telefonie daadwerkelijk meer dan iets
     wat niet in de weg zit. \n\n<br><br><div class=\"usp-list\"><ul><li>Geavanceerde
     VoIP centrale</li><li>Bereikbaar hoe jij het wilt: vast, mobiel of zelfs via je
     browser</li><li>Integraties met veel CRM-/ software pakketten</li></ul></div><br><br><a
