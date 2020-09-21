@@ -1,5 +1,5 @@
 ---
-title: Waarom zou je dat doen?
+title: Waarom overstappen naar Callvoip?
 url: waarom-overstappen
 type: page
 hero:
@@ -20,7 +20,7 @@ hideinsearch: true
 hideingoogle: true
 double_content:
   left:
-    title: Overstappen naar een andere telefonieprovider.<br>Waarom zou je dat doen?
+    title: 'Waarom zou je dat doen?'
     content: |-
       Als iemand belt, rinkelt je telefoon en die van je collega’s. Je betaalt niet al te veel. Misschien heb je zelfs wel een keuzemenu en andere extra functionaliteiten. Als er iets niet werkt, bel je de helpdesk, geef je je klantnummer door en wordt je verzoek zo efficiënt mogelijk weggewerkt. Kortom: de telefonie zit je niet in de weg.
 
