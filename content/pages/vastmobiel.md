@@ -15,7 +15,7 @@ hero:
     Of zelfs bellen met je vaste nummer op de smartphone. Of Whatsapp op datzelfde
     vaste nummer? En met onze sim oplossing VAMOS vervaagt de grens tussen vast mobiel
     helemaal.
-  image: "/v1571655384//qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
+  image: "/v1571655384/calling_os7r1h.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -25,7 +25,7 @@ blocks:
     naar mobiel. Maar met onze Qaller app op je mobiel kun je ook overal bepaalde
     routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
     Business, op je vaste nummer! We helpen je graag.'
-  image: "/v1572861318/vamos5_fe4a57.png"
+  image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   zooming: true
   position: image_left
   title: Onze standaard
