@@ -7,7 +7,7 @@ hero:
     title: 'Overstappen: geen gedoe en snel geregeld.'
     text: 'Overstappen van telefonie kan spannend zijn. Lees hieronder waarom een overstap naar ons dat helemaal niet is.'
     align: left
-  image: "/v1593769110/header-internet-en-bellen_wskiox.png"
+  image: "/v1593769110/overstappen_u0g8tf.png"
   title: Callvoip - Overstappen
   disable_image_on_mobile: true
   link: ''
