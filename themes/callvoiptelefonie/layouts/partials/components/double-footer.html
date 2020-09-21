@@ -4,7 +4,7 @@
     {{ with .left }}
     {{ $backgroundColor := .background_color }}
     <div class="w-full md:w-3/5 md:px-8 clearfix mb-6 md:mb-0">
-       <div style="margin-top:50px!important; {{ if .background }} background-color: {{ $backgroundColor }}; {{ end }}" class="py-6 lg:py-10 {{ if .background }} rounded-lg px-6  {{ end }}">
+       <div style="{{ if .background }} background-color: {{ $backgroundColor }}; {{ end }}" class="py-6 lg:py-10 {{ if .background }} rounded-lg px-6  {{ end }}">
         {{ with .title }}
         <h2 class="text-3xl xl:text-3xl font-medium  mb-2 xxl:mb-6 leading-tight">{{ . | markdownify }}</h2>
         {{ end }}
