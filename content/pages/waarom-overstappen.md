@@ -88,12 +88,14 @@ double_footer:
       \n\nDat valt gelukkig mee. Je kunt al klant worden bij Callvoip met 1 nummer
       en 1 toestel of app vanaf € 13,50 per maand. Dan heb je al een groot deel van
       onze functionaliteiten. Kijk voor meer informatie over onze standaarden op de
-      verschillende pagina’s over Vast-Mobiel, Integraties met CRM, veiligheid en
-      meer. \n\nOnze kostenstructuur is verder transparant en flexibel. Een toestel
+      verschillende pagina’s over <a href=\"/telefonie/vastmobiel/\">Vast-Mobiel</a>,
+      <a href=\"/telefonie/integratie/\">Integraties met CRM</a>, <a href=\"/telefonie/beveiliging/\">veiligheid</a>
+      en meer. \n\nOnze kostenstructuur is verder transparant en flexibel. Een toestel
       of app erbij? Één druk op de knop en het is geregeld. Kosten: € 4,- per maand
       per toestel. Extra nummer? Geen probleem: € 2,- per maand. Zo bouw je jouw eigen
-      pakket. Bereken zelf jouw kosten met onze calculator via deze link. Of bel ons,
-      dan bekijken we samen hoe jouw pakket eruit kan komen te zien.\n"
+      pakket. Bereken zelf jouw kosten met <a href=\"/calculator/\">onze calculator
+      via deze link</a>. Of bel ons, dan bekijken we samen hoe jouw pakket eruit kan
+      komen te zien.\n"
   right:
     background: true
     background_color: "#ebf2f7"
