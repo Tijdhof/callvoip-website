@@ -63,7 +63,7 @@ faq:
 blocks:
 - content: |-
     Misschien twijfel je aan een overstap omdat je bang bent je veel werk op de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan. Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag, maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a href="#overstap" class="button">Button</a>
-  image: "/v1572861318/unnamed_rfp5uo.jpg"
+  image: "/v1572861318/toestellen_hsiapl.png"
   position: image_left
   title: 'Het is allemaal zo geregeld'
   image_position: center
