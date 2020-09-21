@@ -95,7 +95,7 @@ blocks:
     maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen
     akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a
     href="#overstap" class="button">Button</a>
-  image: "/v1572861318/unnamed_rfp5uo.jpg"
+  image: "/v1572861318/laptop_k98xlt.png"
   position: image_right
   title: Het is allemaal zo geregeld
   image_position: end
