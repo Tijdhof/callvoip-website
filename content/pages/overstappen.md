@@ -30,7 +30,8 @@ double_content:
       niet in als we niet zeker weten dat jouw nieuwe dienst helemaal klaar voor de
       start staat. We kiezen nadat jouw oude provider groen licht heeft gegeven in
       samenspraak met jou het perfecte moment.<br><br>Hoe dat gaat lees je op deze
-      pagina. Van de vaste stappen tot de toestellen.'
+      pagina. Van de vaste stappen tot de toestellen. En klein schot voor de boeg:
+      het is allemaal zo geregeld!'
   right:
     background: true
     background_color: "#efefef"
