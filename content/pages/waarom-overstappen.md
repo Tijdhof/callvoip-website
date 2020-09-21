@@ -78,20 +78,22 @@ textblocksfooter:
     het wilt: vast, mobiel of zelfs via je browser</li><li>Integraties met veel CRM-/
     software pakketten</li></ul></div>Om hier echter achter te komen en het daadwerkelijk
     te ervaren, zul je het moeten ondervinden door bewust over te stappen van telecomprovider.
-    Callvoip daagt je uit!<br><br><a href=\"/overstappen-interview\" class=\"button\">Interview
-    overstappen</a>"
+    Callvoip daagt je uit!<br><br><a href=\"/overstappen/\" class=\"button\">Hoe gaat
+    dat, overstappen?</a>"
 double_footer:
   left:
-    title: kosten title
-    content: Omdat je wellicht net als vele andere bedrijven liefde en persoonlijke
-      aandacht verlangt binnen een samenwerking. Het gevoel wat je qua oplossingsgerichte
-      en betrokken service van de grotere providers krijgt, is het best te omschrijven
-      als vroeger steevast de laatst verkozen persoon te zijn tijdens gymnastiek.
-      Geen liefde en geen ruimte voor jouw specifieke vraagstuk. Daar kunnen de grote
-      providers niet zoveel aan doen. Het is een logisch gevolg van het willen bedienen
-      van werkelijk iedereen. Aan de hand van vernuftig ingerichte klantenservice-omgevingen.
-      Persoonlijke aandacht en maatwerk voor (zakelijke) klanten, is hierin zachtjes
-      gezegd een wat onderbelicht aandachtspunt.
+    title: Wat kost dat?
+    content: "Het klinkt allemaal prachtig, Callvoip als telefonieprovider. Maar kost
+      al die persoonlijke service met dat prachtige product dan ook de hoofdprijs?
+      \n\nDat valt gelukkig mee. Je kunt al klant worden bij Callvoip met 1 nummer
+      en 1 toestel of app vanaf € 13,50 per maand. Dan heb je al een groot deel van
+      onze functionaliteiten. Kijk voor meer informatie over onze standaarden op de
+      verschillende pagina’s over Vast-Mobiel, Integraties met CRM, veiligheid en
+      meer. \n\nOnze kostenstructuur is verder transparant en flexibel. Een toestel
+      of app erbij? Één druk op de knop en het is geregeld. Kosten: € 4,- per maand
+      per toestel. Extra nummer? Geen probleem: € 2,- per maand. Zo bouw je jouw eigen
+      pakket. Bereken zelf jouw kosten met onze calculator via deze link. Of bel ons,
+      dan bekijken we samen hoe jouw pakket eruit kan komen te zien.\n"
   right:
     background: true
     background_color: "#efefef"
