@@ -49,4 +49,14 @@ textblocksfooter:
   title2: '“Er moet toch ook meer zijn dan dit?!”'
   content2: 'Lieve ondernemers, jullie moesten eens weten. Er gaat een wereld van innovatieve functionele oplossingen schuil achter het brede begrip ‘zakelijke telefonie & internet’. Functionaliteiten die jouw dagelijkse bestaan als hardwerkende ondernemer drastisch kunnen verlichten en verrijken. De meeste van deze stukjes aanbod zijn te vinden bij iedere provider. Het levert jou als ondernemer alleen pas echt iets op als je weet waar je het kunt vinden en hoe je het volle potentieel ervan dient te gebruiken. Daar heb je vaklieden voor nodig en geen callcenter vol gedesinteresseerde millennials zonder passie voor het onderwerp. Het draait allemaal om het samenspel tussen de mens en de technologie.<br><br>Providers die er bewust voor kiezen om klanten echt verder te helpen, daar wil je zitten als ondernemer die waarde hecht aan:<br><br><div class="usp-list"><ul><li>persoonlijke aandacht</li><li>een vast aanspreekpunt met verstand van zaken en aan een half woord genoeg heeft</li><li>Service en aanbod op maat dat aansluit op de specifieke wensen en behoeftes</li></ul></div>Om hier echter achter te komen en het daadwerkelijk te ervaren, zul je het moeten ondervinden door bewust over te stappen van telecomprovider. Callvoip daagt je uit!<br><br><a href="/overstappen-interview" class="button">Interview overstappen</a>'
 
+double_footer:
+  left:
+    title: kosten title
+    content: 'Omdat je wellicht net als vele andere bedrijven liefde en persoonlijke aandacht verlangt binnen een samenwerking. Het gevoel wat je qua oplossingsgerichte en betrokken service van de grotere providers krijgt, is het best te omschrijven als vroeger steevast de laatst verkozen persoon te zijn tijdens gymnastiek. Geen liefde en geen ruimte voor jouw specifieke vraagstuk. Daar kunnen de grote providers niet zoveel aan doen. Het is een logisch gevolg van het willen bedienen van werkelijk iedereen. Aan de hand van vernuftig ingerichte klantenservice-omgevingen. Persoonlijke aandacht en maatwerk voor (zakelijke) klanten, is hierin zachtjes gezegd een wat onderbelicht aandachtspunt.'
+  right:
+    background: true
+    background_color: "#efefef"
+    title: 'Kosteroverzicht'
+    content: 'ja afbeelding enzo'
+
 ---
