@@ -14,7 +14,7 @@ hero:
     voor al onze klanten met functies als 2FA en TLS ondersteuning. Is dat voor jou
     om welke reden dan ook niet voldoende? Dan zijn er extra mogelijkheden zoals volledige
     versleuteling van al jouw gesprekken.
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  image: "/v1571655384/Screenshot_7_zekrsa.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -24,7 +24,7 @@ blocks:
     aan elke gebruiker en bieden we 2 Factor Authentication (2FA) zodat bij elke login
     naast een gebruikersnaam/wachtwoord combinatie een extra stap op je mobiel nodig
     is om in de centrale te komen.
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1572861318/139_u8rw5r.png"
   zooming: true
   position: image_left
   title: Onze standaard
