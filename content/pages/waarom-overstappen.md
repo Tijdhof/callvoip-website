@@ -3,7 +3,7 @@ title: Waarom overstappen naar Callvoip?
 url: waarom-overstappen
 type: page
 hero:
-  image: "/v1593769110/header-internet-en-bellen_wskiox.png"
+  image: "/v1593769110/overstappen_yivgpm.png"
   title: Callvoip - Overstappen
   disable_image_on_mobile: true
   link: ''
