@@ -91,8 +91,8 @@ double_footer:
       dan bekijken we samen hoe jouw pakket eruit kan komen te zien.\n"
   right:
     background: true
-    background_color: "#efefef"
-    title: Kosteroverzicht
-    content: ja afbeelding enzo
+    background_color: "#ebf2f7"
+    title: Kostenoverzicht
+    content: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/voorbeeld_pl0ubu.png">
 
 ---
