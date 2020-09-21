@@ -21,7 +21,7 @@ double_content:
     content: |-
       Als iemand belt, rinkelt je telefoon en die van je collega’s. Je betaalt niet al te veel. Misschien heb je zelfs wel een keuzemenu en andere extra functionaliteiten. Als er iets niet werkt, bel je de helpdesk, geef je je klantnummer door en wordt je verzoek zo efficiënt mogelijk weggewerkt. Kortom: de telefonie zit je niet in de weg.
 
-      Wij vinden dat jouw telefonie veel meer moet doen dan niet in de weg zitten. Een uitgekiend ingericht belplan, slimme integraties en alles wat erbij hoort, dragen bij aan de efficiëntie van jouw dagelijkse werk. Zo werkt jouw telefonie vóór jou. En mocht er onverhoopt iets anders moeten, dan staat ons persoonlijke team voor je klaar.
+      Wij vinden dat jouw telefonie veel meer moet doen dan niet in de weg zitten. Een uitgekiend belplan, slimme integraties en alles wat erbij hoort, dragen bij aan de efficiëntie van jouw dagelijkse werk. Zo werkt jouw telefonie vóór jou. En mocht er onverhoopt iets anders moeten, dan staat ons persoonlijke team voor je klaar.
   right:
     background: true
     background_color: "#efefef"
@@ -71,15 +71,10 @@ textblocksfooter:
     oplossing met of zonder app. En wat te denken van bellen met je browser, gewoon
     op je laptop? Of een integratie van jouw telefonie met jouw CRM pakket? Zo kun
     je maximaal efficiënt werken en wordt jouw telefonie daadwerkelijk meer dan iets
-    wat niet in de weg zit. \n\nAl dat moois levert jou natuurlijk pas echt iets op
-    als je weet waar je het kunt vinden en hoe je het volle potentieel ervan gebruikt.
-    Daar heb je vaklieden voor nodig: toch weer dat kleine team ;-) \n<br><br><div
-    class=\"usp-list\"><ul><li>Geavanceerde VoIP centrale</li><li>Bereikbaar hoe jij
-    het wilt: vast, mobiel of zelfs via je browser</li><li>Integraties met veel CRM-/
-    software pakketten</li></ul></div>Om hier echter achter te komen en het daadwerkelijk
-    te ervaren, zul je het moeten ondervinden door bewust over te stappen van telecomprovider.
-    Callvoip daagt je uit!<br><br><a href=\"/overstappen/\" class=\"button\">Hoe gaat
-    dat, overstappen?</a>"
+    wat niet in de weg zit. \n\n<br><br><div class=\"usp-list\"><ul><li>Geavanceerde
+    VoIP centrale</li><li>Bereikbaar hoe jij het wilt: vast, mobiel of zelfs via je
+    browser</li><li>Integraties met veel CRM-/ software pakketten</li></ul></div><br><br><a
+    href=\"/overstappen/\" class=\"button\">Hoe gaat dat, overstappen?</a>"
 double_footer:
   left:
     title: Wat kost dat?
