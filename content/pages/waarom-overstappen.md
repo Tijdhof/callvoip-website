@@ -7,6 +7,9 @@ hero:
   title: Callvoip - Overstappen
   disable_image_on_mobile: true
   link: ''
+  content:
+    title: Overstappen naar een andere telefonieprovider
+    text: Waarom zou je dat doen?
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
   service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
   en ontvang binnen 1 dag een uitnodiging.
@@ -93,6 +96,6 @@ double_footer:
     background: true
     background_color: "#ebf2f7"
     title: Kostenoverzicht
-    content: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/voorbeeld_pl0ubu.png">'
+    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/voorbeeld_pl0ubu.png">
 
 ---
