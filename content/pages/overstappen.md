@@ -63,7 +63,7 @@ faq:
 blocks:
 - content: |-
     Misschien twijfel je aan een overstap omdat je bang bent je veel werk op de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan. Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag, maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a href="#overstap" class="button">Button</a>
-  image: "/v1572861318/toestellen_hsiapl.png"
+  image: "/v1572861318/unnamed_rfp5uo.jpg"
   position: image_left
   title: 'Het is allemaal zo geregeld'
   image_position: center
@@ -74,7 +74,7 @@ textblocksfooter:
 - title2: Kant en klare toestellen
   content2: 'Heb je ook toestellen bij ons aangeschaft? Dan stellen we die helemaal in voor ze jouw kant op komen. Bij aankomst maak je de doos open, doet de stekkers erin en de toestellen en voorinstellingen doen de rest. <br><br>Heb je bestaande toestellen die geschikt zijn voor VoIP? We kunnen je vaak assisteren om deze ook geschikt te maken voor onze dienst.<br><br><a href="#overstap" class="button">Button</a>'
   title1: ''
-  content1: '<img src="https://www.sbmania.net/pictures/_thumb/76b/219.jpg">'
+  content1: '<img src="/v1572861318/toestellen_hsiapl.png" width="490" height="385">'
 
 ---
 
