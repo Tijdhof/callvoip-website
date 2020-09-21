@@ -1,5 +1,5 @@
 ---
-title: Overstappen naar een andere telecomprovider. Waarom zou je dat doen?
+title: Waarom zou je dat doen?
 url: waarom-overstappen
 type: page
 hero:
@@ -9,7 +9,7 @@ hero:
   link: ''
   content:
     title: Overstappen naar een andere telefonieprovider
-    text: Waarom zou je dat doen?
+    text: ''
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
   service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
   en ontvang binnen 1 dag een uitnodiging.
