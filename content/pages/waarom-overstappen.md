@@ -3,13 +3,13 @@ title: Waarom overstappen naar Callvoip?
 url: waarom-overstappen
 type: page
 hero:
-  image: "/v1593769110/flag_otepnv.png"
+  image: "/v1593769110/flag_ssx6r2.png"
   title: Callvoip - Overstappen
   disable_image_on_mobile: true
   link: ''
   content:
-    title: 'Overstappen: One small step for us...'
-    text: "...a giant leap for your company."
+    title: ''
+    text: ''
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
   service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
   en ontvang binnen 1 dag een uitnodiging.
