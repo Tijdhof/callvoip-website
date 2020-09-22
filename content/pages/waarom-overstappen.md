@@ -8,8 +8,8 @@ hero:
   disable_image_on_mobile: true
   link: ''
   content:
-    title: Overstappen naar een andere telefonieprovider
-    text: ''
+    title: 'Overstappen: One small step for us...'
+    text: "...a giant leap for your company."
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
   service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
   en ontvang binnen 1 dag een uitnodiging.
