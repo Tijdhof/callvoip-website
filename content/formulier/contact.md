@@ -37,7 +37,7 @@ Callvoip, Koldingweg 19 -1, 9723 HL Groningen
 Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of heeft u hulp nodig? Neem dan gerust contact met ons op via onderstaand formulier in. Wij nemen dan spoedig contact met u op.
 
 {{< form "Contact formulier" "/contact/verzonden" >}}
-{{< form/template "d-bb5785f73c154508a7d4125575855140">}}
+{{< form/template "d-126942c712c44ec98eb3f158d6b2c826">}}
 {{< form/to "aanvraag">}}
 
 {{< layout/split >}}
