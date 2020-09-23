@@ -30,10 +30,11 @@ blocks:
   image_position: center
 textblocks:
 - title1: Regionaal of landelijk
-  content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
-    je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
-    voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
-    class="button">Meer informatie</a>
+  content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
+    actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
+    nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
+    actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
+    passender. <br><br><a href="/telefonie/telefoonnummers/" class="button">Meer informatie</a>
   title2: Internationaal
   content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
     Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
