@@ -1,11 +1,11 @@
 ---
-title: Integratie mogelijkheden | Click-to-Dial | CRM | CRM-Lookup
+title: Alles over nummers | Landelijk/regionaal | internationaal | Servicenummers
 description: Concept
 type: page
 layout: default2
 logos: false
 aliases: "/nummers"
-url: "/nummers"
+url: telefonie/nummers/
 hero:
   title: Alles over integratie
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
