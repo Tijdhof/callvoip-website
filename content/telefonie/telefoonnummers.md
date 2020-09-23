@@ -38,7 +38,7 @@ Heb je meer telefoonnummers nodig? Dan kun je kiezen voor een nummerblok met 10 
 
 ### Landelijke nummers
 
-Werk je landelijk of wil je een landelijke uitstraling? Kies voor **landelijke nummers: 085- en 088-nummers** Deze telefoonnummers zijn niet aan een specifieke regio verbonden. Jouw activiteiten krijgen een landelijke uitstraling. Handig als je landelijk opereert of meerdere vestigingen in Nederland heeft.
+Werk je landelijk of wil je een landelijke uitstraling? Kies voor **landelijke nummers: 085- en 088-nummers** Deze telefoonnummers zijn niet aan een specifieke regio verbonden. Jouw activiteiten krijgen een landelijke uitstraling. Handig als je landelijk opereert of meerdere vestigingen in Nederland hebt.
 
 {{< layout/columns >}}
 
@@ -59,7 +59,7 @@ Werk je landelijk of wil je een landelijke uitstraling? Kies voor **landelijke n
 ### Internationale nummers
 
 Met **internationale** nummers ben je ook bereikbaar voor jouw buitenlandse klanten. Heb je een Belgisch- of Duits telefoonnummer? Dan heb je geluk, want het is mogelijk om deze nummers te verhuizen (porteren) naar Callvoip. <br>  
-De kosten van een buitenlands nummer variëren, [vraag dit vrijblijvend bij ons na](https://www.callvoip.nl/contact/).   
+De kosten van een buitenlands nummer variëren, [vraag dit vrijblijvend bij ons na](https://www.callvoip.nl/contact/).  
 **NB:** in veel gevallen is een adres in het buitenland nodig om een buitenlands nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land waar jij een nummer wenst. <br><br>
 
 ### Servicenummers
