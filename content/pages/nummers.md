@@ -9,26 +9,24 @@ aliases: "/nummers"
 url: telefonie/nummers/
 hero:
   title: Alles over nummers
-  content: 'Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. 
-  Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. 
-  En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>  
-  
-  Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.'
+  content: |-
+    Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
+    Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: "Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
-    al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Deze biedt
-    popups van telefoontjes, een bedrijfstelefoonboek en meer. \nWil je meer, zoals
-    integratie met jouw eigen systeem? Dan komt de CRM Lookup in beeld: de uitbreiding
-    van de Click-to-Dial. Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld
-    wordt."
+- content: 'Alle soorten telefoonnummers die je kunt bedenken, hebben we. Natuurlijk
+    regionale nummers zoals 050, 020. Maar ook landelijk (085). Ben je ook actief
+    in andere landen? Geen probleem want ook internationale nummers zijn mogelijk.
+    Ook een SIM kaart met 06 nummer in combinatie met onze VaMos vast mobiel oplossing
+    behoort tot de mogelijkheden. Net als 0800 en 0900 servicenummers. Kortom: ontelbaar
+    veel nummers :-)'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
-  title: 'Nummerbehoud of nieuwe nummers '
+  title: 'Alle soorten nummers '
   image_position: center
 textblocks:
 - title1: Regionaal of landelijk
