@@ -1,6 +1,7 @@
 ---
 title: Alles over nummers | Landelijk/regionaal | Internationaal | Servicenummers
-description: Concept
+description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service
+  of internationaal. '
 type: page
 layout: default2
 logos: false
@@ -26,20 +27,20 @@ blocks:
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
-  title: Onze standaard
+  title: 'Nummerbehoud of nieuwe nummers '
   image_position: center
 textblocks:
-- title1: 'Wat is dat: Click-to-Dial?'
+- title1: Regionaal of landelijk
   content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
     je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
     voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
     class="button">Meer informatie</a>
-  title2: 'Wat is dat: CRM Lookup?'
+  title2: Internationaal
   content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
     Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
     Kun jij je concentreren op het gesprek zelf! <br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
     class="button">Meer informatie</a>
-  title3: 'Wat is dat: VoIP CTI?'
+  title3: Overige nummers (Mobiel of Service)
   content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
     VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
     van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
