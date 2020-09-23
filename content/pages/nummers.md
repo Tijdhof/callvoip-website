@@ -1,5 +1,5 @@
 ---
-title: Alles over nummers | Landelijk/regionaal | internationaal | Servicenummers
+title: Alles over nummers | Landelijk/regionaal | Internationaal | Servicenummers
 description: Concept
 type: page
 layout: default2
@@ -7,7 +7,7 @@ logos: false
 aliases: "/nummers"
 url: telefonie/nummers/
 hero:
-  title: Alles over integratie
+  title: Alles over nummers
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
