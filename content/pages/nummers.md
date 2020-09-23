@@ -9,10 +9,11 @@ aliases: "/nummers"
 url: telefonie/nummers/
 hero:
   title: Alles over nummers
-  content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
-    van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
-    goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
-    koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!'
+  content: 'Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. 
+  Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Zowel regionaal als landelijk. 
+  Maar ook internationale nummers of mobiele nummers kunnen we voor je leveren. 
+  
+  Heb je al een nummer? Dan zorgen we voor een probleemloze overstap met nummerbehoud, zodat je altijd bereikbaar blijft.'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
