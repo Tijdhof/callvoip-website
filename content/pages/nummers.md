@@ -23,7 +23,7 @@ blocks:
     Ook een SIM kaart met 06 nummer in combinatie met onze VaMos vast mobiel oplossing
     behoort tot de mogelijkheden. Net als 0800 en 0900 servicenummers. Kortom: ontelbaar
     veel nummers :-)'
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1572861318/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
   title: 'Alle soorten nummers '
