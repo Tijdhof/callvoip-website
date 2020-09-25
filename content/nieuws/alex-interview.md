@@ -32,6 +32,8 @@ Alex Vijfschaft is de ondernemer achter optiekbedrijf Bij Alex, brillen & contac
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1600778739/dc6cb1c4-0b19-4111-878c-902b427427b8_cd79cq.jpg)
 
+> **_“We gaan het samen doen.”; waren haar eerste woorden. Dit maken jullie waar_**
+
 <br><b>Waarom wilde je switchen van telecomaanbieder, Alex?</b>
 
 Ik ben wat jaren geleden simpelweg gaan zoeken naar een provider omdat ik mijn telefonie wilde professionaliseren. Dan kom je online snel uit bij de welbekende, grote partijen. Hun aanbod werkt in feite prima, maar als je ergens niet uitkomt krijg je geen adequate ondersteuning. Hier heb ik 2 jaar mee geworsteld, veel geld uitgegeven en weinig voor teruggekregen. Kortom, tijd voor iets anders.
