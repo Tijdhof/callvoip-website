@@ -26,9 +26,11 @@ Ken je dat als ondernemer? Je zit bij een (grote) telecomprovider en de ‘samen
 
 Na lang twijfelen wil je nu overstappen naar een andere en wellicht kleinere aanbieder van zakelijke telefonie en internet. Maar is dit slim en krijg je er achteraf geen spijt van? Het gras is tenslotte altijd groener bij de buren. Ons antwoord hierop luidt vanzelfsprekend; waarom heb je niet direct voor een partij als wij gekozen? Toch laten wij liever blije klanten van Callvoip voor ons spreken. Door middel van leuke praktijkcases. Dan is het tenminste echt en herkenbaar.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1600778739/dc6cb1c4-0b19-4111-878c-902b427427b8_cd79cq.jpg)
-
 ### Praktijkcase in interviewvorm met ‘Bij Alex, brillen & contactlenzen’
+
+Alex Vijfschaft is de ondernemer achter optiekbedrijf Bij Alex, brillen & contactlenzen. Hij koos recent voor Callvoip, overstappend van een grotere provider. Wij waren natuurlijk benieuwd waarom en hoe hij de overstap ervaren heeft. Daarom zochten we hem op in Leek voor een bak koffie en een goed gesprek.
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1600778739/dc6cb1c4-0b19-4111-878c-902b427427b8_cd79cq.jpg)
 
 <br><b>Waarom wilde je switchen van telecomaanbieder, Alex?</b>
 
@@ -68,6 +70,10 @@ Ja, want ik ben gewoon meer bereikbaar voor meer klanten. Men loopt niet meer te
 
 Ja. Misschien zou het in de toekomst bijvoorbeeld mogelijk kunnen zijn om koppelingen te maken tussen de online belcentrale en mijn eigen softwareleverancier. Deze is hier nu nog niet volledig in thuis, maar jullie zijn ook innovatief ingesteld en zitten er al klaar voor. Mocht dit straks gerealiseerd worden dan kunnen ik en mijn medewerkers wanneer we gebeld worden door een klant direct zijn/haar klantgegevens in beeld krijgen. Dit zijn met het oog op steeds efficiënter werken mooie vooruitzichten, waar wij als klant veel profijt van hebben.
 
-Het volledige interview is te beluisteren in de onderstaande podcast:
+\--
+
+Benieuwd waar we het verder met Alex over hebben gehad? Het volledige interview is te beluisteren in de onderstaande podcast:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/86IzGZ0FKrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="/waarom-overstappen/" class="button">Waarom zou ik overstappen?</a>

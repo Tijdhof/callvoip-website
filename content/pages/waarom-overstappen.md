@@ -28,7 +28,7 @@ double_content:
   right:
     background: true
     background_color: "#efefef"
-    title: <div id="overstap">Ik wil overstappen naar Callvoip</div>
+    title: <div id="overstap">JA! Vertel me meer over overstappen</div>
     content: <div><form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8"
       method="POST" data-netlify="true"><input type="hidden" name="form-name" value="tourformulier"
       /><p class="hidden"> <label>Don’t fill this out if human <input name="bot-field">
@@ -45,9 +45,9 @@ double_content:
       bg-white px-3 py-2 text-base"> </div><div class="mb-4"> <label for="Telefoonnummer"
       class="block">Telefoonnummer</label> <input type="text" id="Telefoonnummer"
       name="Telefoonnummer" class="w-full border border-grey-light bg-white px-3 py-2
-      text-base"> </div></div><center><br><p> <button type="submit" class="button">Neem
-      contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
-      met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
+      text-base"> </div></div><center><br><p> <button type="submit" class="button">Verzenden</button><br></p><p
+      class="mb-6 md:mb-0 text-sm">Je gaat akkoord met het eenmalig contact opnemen
+      ten behoeve van een passend aanbod.</center></p></form></div></div>
 textblocksfooter:
 - title1: Marieke en team zijn er voor jou!
   content1: "Natuurlijk is allereerst belangrijk dat als jij een probleem hebt met
