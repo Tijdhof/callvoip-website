@@ -23,19 +23,19 @@ hideingoogle: true
 double_content:
   left:
     title: Nooit onbereikbaar
-    content: 'De kogel is door de kerk, je stapt over naar ons. Goeie keuze natuurlijk!
-      :-) <br><br>Het eerste wat je moet weten, als we het je nog niet verteld hebben:
-      er is geen enkel moment dat je niet bereikbaar bent! Het porteren van een nummer
-      doen wij helemaal zelf met 1 druk op de knop. Die knop drukken we natuurlijk
-      niet in als we niet zeker weten dat jouw nieuwe dienst helemaal klaar voor de
-      start staat. We kiezen nadat jouw oude provider groen licht heeft gegeven in
-      samenspraak met jou het perfecte moment.<br><br>Hoe dat gaat lees je op deze
-      pagina. Van de vaste stappen tot de toestellen. En een klein schot voor de boeg:
-      het is allemaal zo geregeld!'
+    content: 'De kogel is door de kerk, je gaat overstappen. Maar wat nu? Hoe zou
+      het eruit zien als je naar Callvoip overstapt? <br><br>Het eerste wat je moet
+      weten, als we het je nog niet verteld hebben: er is geen enkel moment dat je
+      niet bereikbaar bent! Het porteren van een nummer doen wij helemaal zelf met
+      1 druk op de knop. Die knop drukken we natuurlijk niet in als we niet zeker
+      weten dat jouw nieuwe dienst helemaal klaar voor de start staat. We kiezen nadat
+      jouw oude provider groen licht heeft gegeven in samenspraak met jou het perfecte
+      moment.<br><br>Alles over overstappen lees je op deze pagina. Van de vaste stappen
+      tot de toestellen. En een klein schot voor de boeg: het is allemaal zo geregeld!'
   right:
     background: true
     background_color: "#efefef"
-    title: <div id="overstap">Ik wil overstappen naar Callvoip</div>
+    title: <div id="overstap">JA, vertel mij meer!</div>
     content: <div><form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8"
       method="POST" data-netlify="true"><input type="hidden" name="form-name" value="tourformulier"
       /><p class="hidden"> <label>Don’t fill this out if human <input name="bot-field">
