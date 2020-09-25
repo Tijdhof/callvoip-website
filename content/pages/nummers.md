@@ -46,7 +46,7 @@ textblocks:
   content3: Naast al die 'normale' nummers kun je bij ons ook terecht voor servicenummers.
     Denk hierbij aan een professionele klantenservice. Servicenummers zijn er in 2
     soorten (0800 en 0900). En wat te denken van onze eigen SIM kaart Vamos met 06
-    nummers <br><br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
+    nummers <br><br><br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
     informatie</a>
   show_vshape: false
 images: []
