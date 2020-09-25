@@ -16,8 +16,8 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: overstappen
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 double_content:
   left:
     title: Waarom zou je dat doen?
