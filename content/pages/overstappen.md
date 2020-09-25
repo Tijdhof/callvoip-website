@@ -52,9 +52,9 @@ double_content:
       bg-white px-3 py-2 text-base"> </div><div class="mb-4"> <label for="Telefoonnummer"
       class="block">Telefoonnummer</label> <input type="text" id="Telefoonnummer"
       name="Telefoonnummer" class="w-full border border-grey-light bg-white px-3 py-2
-      text-base"> </div></div><center><br><p> <button type="submit" class="button">Neem
-      contact met mij op</button><br></p><p class="mb-6 md:mb-0 text-sm">Je gaat akkoord
-      met het eenmalig contact opnemen ten behoeve van een passend aanbod.</center></p></form></div></div>
+      text-base"> </div></div><center><br><p> <button type="submit" class="button">Verzenden</button><br></p><p
+      class="mb-6 md:mb-0 text-sm">Je gaat akkoord met het eenmalig contact opnemen
+      ten behoeve van een passend aanbod.</center></p></form></div></div>
 faq:
 - question: De afspraken
   answer: De aftrap van alle samenwerkingen zijn goede afspraken. Samen met jou stemmen
