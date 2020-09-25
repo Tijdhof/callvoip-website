@@ -12,7 +12,7 @@ hero:
   content: |-
     Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
     Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  image: "/v1600956363/nummer_hcbd5s.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -23,7 +23,7 @@ blocks:
     Ook een SIM kaart met 06 nummer in combinatie met onze VaMos vast mobiel oplossing
     behoort tot de mogelijkheden. Net als 0800 en 0900 servicenummers. Kortom: ontelbaar
     veel nummers :-)'
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
   title: 'Alle soorten nummers '
@@ -42,11 +42,11 @@ textblocks:
     om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
     waar jij een nummer wenst.<br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
     informatie</a>
-  title3: Overige nummers (Mobiel of Service)
+  title3: Mobiel of Service nummers
   content3: Naast al die 'normale' nummers kun je bij ons ook terecht voor servicenummers.
     Denk hierbij aan een professionele klantenservice. Servicenummers zijn er in 2
-    soorten (0800 en 0900) waarbij een 0800 nummer gratis te bellen is en een 0900
-    nummer betaald is. <br><br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
+    soorten (0800 en 0900). En wat te denken van onze eigen SIM kaart Vamos met 06
+    nummers <br><br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
     informatie</a>
   show_vshape: false
 images: []
