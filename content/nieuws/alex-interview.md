@@ -76,4 +76,4 @@ Benieuwd waar we het verder met Alex over hebben gehad? Het volledige interview 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/86IzGZ0FKrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="/waarom-overstappen/" class="button">Waarom zou ik overstappen?</a>
+<br><br><a href="/waarom-overstappen/" class="button">Waarom zou ik overstappen?</a>
