@@ -32,7 +32,7 @@ Alex Vijfschaft is de ondernemer achter optiekbedrijf Bij Alex, brillen & contac
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1600778739/dc6cb1c4-0b19-4111-878c-902b427427b8_cd79cq.jpg)
 
-<div class="blockquote"><p>"We gaan het samen doen.” waren haar eerste woorden. Dit maken jullie waar</p></div>
+<div class="blockquote"><p>"We gaan het samen doen.” waren haar eerste woorden. Dit maken jullie waar."</p></div>
 
 <br><b>Waarom wilde je switchen van telecomaanbieder, Alex?</b>
 
@@ -62,9 +62,9 @@ Ik kan dat in een woord samenvatten; persoonlijk.
 
 <b>Wat zijn in brede zin goede ontwikkelingen binnen de zakelijke telecommarkt en wat niet? </b>
 
-We kunnen het hebben over het standaard aanbod van providers zoals het instellen van keuzemenu’s of persoonlijke bandjes inspreken. Maar vooral de extra functionaliteiten kunnen mij ontzettend helpen in mijn dagelijkse bestaan als ondernemer. Bijvoorbeeld de praktische app ‘Qaller’. Ik heb 2 vestigingen waarvan er bij één laatst een storing was vanuit onze grote provider, waardoor wij volledig van de aardkloot waren uitgewist. Gelukkig kon ik snel een schuifje omzetten via de Qaller-app waardoor ik alle verloren gewaande berichten alsnog binnenkreeg op mijn mobiele telefoon. 
+We kunnen het hebben over het standaard aanbod van providers zoals het instellen van keuzemenu’s of persoonlijke bandjes inspreken. Maar vooral de extra functionaliteiten kunnen mij ontzettend helpen in mijn dagelijkse bestaan als ondernemer. Bijvoorbeeld de praktische app ‘Qaller’. Ik heb 2 vestigingen waarvan er bij één laatst een storing was vanuit onze grote provider, waardoor wij volledig van de aardkloot waren uitgewist. Gelukkig kon ik snel een schuifje omzetten via de Qaller-app waardoor ik alle verloren gewaande berichten alsnog binnenkreeg op mijn mobiele telefoon.
 
-<div class="blockquote"><p>Ik ben altijd bereikbaar, tenzij ik dat niet wil.</p></div>
+<div class="blockquote"><p>"Ik ben altijd bereikbaar, tenzij ik dat niet wil."</p></div>
 
 Zo kon ik alles alsnog keurig afhandelen en klanten te woord staan. Dus voor mij echt een pré want ik ben altijd bereikbaar, tenzij ik dat niet wil. Dan kan ik via de app klanten doorschakelen naar mijn beschikbare medewerkers.
 
