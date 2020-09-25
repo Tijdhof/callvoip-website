@@ -93,8 +93,7 @@ blocks:
     de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan.
     Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag,
     maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen
-    akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a
-    href="#freePopup" class="button">Even bellen?</a>
+    akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><button type="button" id="triggerFreePopup">Even bellen?</button>
   image: "/v1572861318/laptop_k98xlt.png"
   position: image_right
   title: Het is allemaal zo geregeld
