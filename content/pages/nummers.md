@@ -43,10 +43,11 @@ textblocks:
     waar jij een nummer wenst.<br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
     informatie</a>
   title3: Overige nummers (Mobiel of Service)
-  content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
-    VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
-    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
-    class="button">Meer informatie</a>
+  content3: Naast al die 'normale' nummers kun je bij ons ook terecht voor servicenummers.
+    Denk hierbij aan een professionele klantenservice. Servicenummers zijn er in 2
+    soorten (0800 en 0900) waarbij een 0800 nummer gratis te bellen is en een 0900
+    nummer betaald is. <br><br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
+    informatie</a>
   show_vshape: false
 images: []
 hideinsearch: false
