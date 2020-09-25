@@ -32,7 +32,7 @@ Alex Vijfschaft is de ondernemer achter optiekbedrijf Bij Alex, brillen & contac
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1600778739/dc6cb1c4-0b19-4111-878c-902b427427b8_cd79cq.jpg)
 
-<div class="blockquote"><p>"_We gaan het samen doen.” waren haar eerste woorden. Dit maken jullie waar_</p></div>
+<div class="blockquote"><p>"We gaan het samen doen.” waren haar eerste woorden. Dit maken jullie waar</p></div>
 
 <br><b>Waarom wilde je switchen van telecomaanbieder, Alex?</b>
 
