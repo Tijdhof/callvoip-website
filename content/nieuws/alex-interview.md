@@ -30,7 +30,7 @@ Na lang twijfelen wil je nu overstappen naar een andere en wellicht kleinere aan
 
 ### Praktijkcase in interviewvorm met ‘Bij Alex, brillen & contactlenzen’
 
-<b>Waarom wilde je switchen van telecomaanbieder, Alex?</b>
+<br><b>Waarom wilde je switchen van telecomaanbieder, Alex?</b>
 
 Ik ben wat jaren geleden simpelweg gaan zoeken naar een provider omdat ik mijn telefonie wilde professionaliseren. Dan kom je online snel uit bij de welbekende, grote partijen. Hun aanbod werkt in feite prima, maar als je ergens niet uitkomt krijg je geen adequate ondersteuning. Hier heb ik 2 jaar mee geworsteld, veel geld uitgegeven en weinig voor teruggekregen. Kortom, tijd voor iets anders.
 
