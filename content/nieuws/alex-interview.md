@@ -80,6 +80,6 @@ Ja. Misschien zou het in de toekomst bijvoorbeeld mogelijk kunnen zijn om koppel
 
 Benieuwd waar we het verder met Alex over hebben gehad? Het volledige interview is te beluisteren in de onderstaande podcast:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/86IzGZ0FKrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkbKgYyS89o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br><a href="/waarom-overstappen/" class="button">Waarom zou ik overstappen?</a>
