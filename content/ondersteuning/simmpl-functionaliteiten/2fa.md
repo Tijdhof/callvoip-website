@@ -12,6 +12,6 @@ Nieuw: false
 Update: false
 
 ---
-### Two factor authentication
+### Two Factor Authentication
 
 <a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_2FA-Two-Factor-Authentication.pdf" target="_blank">Download hier</a> de Two Factor Authentication handleiding.
