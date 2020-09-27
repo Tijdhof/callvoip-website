@@ -15,3 +15,18 @@ Update: false
 ### Two Factor Authentication
 
 <a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_2FA-Two-Factor-Authentication.pdf" target="_blank">Download hier</a> de Two Factor Authentication handleiding.
+
+<br>
+
+### Soorten verificaties:
+
+* **Telefonisch** - je krijgt een telefoonbericht waarin de verificatiecode wordt doorgegeven 
+* **Pushbericht via Qaller** - je krijgt de code via een pushbericht op de Qaller app. 
+
+<br>
+
+### Hoe lig ik in met 2FA ingeschakeld?
+
+* **1. Log in als altijd** - ga naar www.callvoip.nl/login en log in zoals altijd.  
+* **2. Vraag een verificatiecode** - je komt op de 2FA pagina en kunt een code opvragen, vul deze in op de pagina . 
+* **3. Klaar!** – Na het invullen van de verificatiecode log je in, klaar! 
