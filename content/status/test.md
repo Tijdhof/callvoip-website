@@ -10,7 +10,7 @@ is jouw Click to Dial ineens leeg? Geen nood, je kunt de extensie in 30 seconden
 Volg daartoe onderstaande stappen: <br>
 1. Klik met de rechtermuisknop op het blauwe Click-to-Dial icoon rechtsboven in Chrome.<br>
 2. Kies in het menu Verwijderen uit Chrome...<br>
-3. <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Klik hier</a> en klik op Toevoegen aan Chrome
+3. <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Klik hier</a> en klik op Toevoegen aan Chrome<br>
 4. Klik op het Click-to-Dial icoon. <br>
 5. Zie je hem niet? Klik dan  op het puzzelstukje en pin hem vast.<br>
 6. Log in met je gegevens van onze centrale.<br>
