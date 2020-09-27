@@ -29,6 +29,5 @@ Update: false
 
 <br><h3>Meer weten? Download de handleiding!</h3>
 
-Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. <br><br>
-
+Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. <br>
 <a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_2FA-Two-Factor-Authentication.pdf" class="button">Download de 2FA handleiding</a>
