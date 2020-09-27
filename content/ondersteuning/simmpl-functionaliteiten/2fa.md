@@ -1,5 +1,5 @@
 ---
-title: Handleiding two factor authentication
+title: Handleiding Two Factor Authentication
 weight: 7
 description: ''
 images: []
@@ -12,7 +12,6 @@ Nieuw: false
 Update: false
 
 ---
-
 ### Two factor authentication
 
-<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_2FA-Two-Factor-Authentication.pdf" target="_blank">Download hier</a> de Two factor authentication handleiding
+<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_2FA-Two-Factor-Authentication.pdf" target="_blank">Download hier</a> de Two Factor Authentication handleiding.
