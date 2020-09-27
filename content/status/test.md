@@ -6,7 +6,8 @@ error: false
 Geen meldingen; de telefoondienst werkt naar behoren.<br><br> 
 
 <b>23-09-2020: Click-to-Dial update </b><br>
-Naast de Qaller app is ook onze Click-to-Dial Chrome extensie geupdatet. Het is mogelijk dat je daarom de extensie opnieuw moet installeren en activeren. Volg onderstaande stappen: <br>
+Onze Click-to-Dial Chrome-extensie is geupdatet. Het is mogelijk dat je daarom de extensie opnieuw moet installeren en activeren. <br>
+Volg onderstaande stappen: <br>
 * Klik met de rechtermuisknop op het blauwe Click-to-Dial icoon rechtsboven in Chrome.<br>
 * Kies in het menu Verwijderen uit Chrome...<br>
 * <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Klik hier</a> en klik op Toevoegen aan Chrome
