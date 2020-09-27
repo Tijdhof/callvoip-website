@@ -6,7 +6,8 @@ error: false
 Geen meldingen; de telefoondienst werkt naar behoren.<br><br> 
 
 <b>23-09-2020: Click-to-Dial is geupdate! </b><br>
-is jouw Click to Dial ineens leeg? Geen nood, je kunt de extensie in 30 seconden verwijderen en opnieuw installeren. <br>
+Is jouw Click to Dial ineens leeg? <br>
+Geen nood! Je kunt de extensie snel zelf weer werkend krijgen. <br>
 Volg daartoe onderstaande stappen: <br>
 1. Klik met de rechtermuisknop op het blauwe Click-to-Dial icoon rechtsboven in Chrome.<br>
 2. Kies in het menu Verwijderen uit Chrome...<br>
