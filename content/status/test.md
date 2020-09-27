@@ -5,9 +5,9 @@ error: false
 ---
 Geen meldingen; de telefoondienst werkt naar behoren.<br><br> 
 
-<b>23-09-2020: Click-to-Dial update </b><br>
-Onze Click-to-Dial Chrome-extensie is geupdatet. Het is mogelijk dat je daarom de extensie opnieuw moet installeren en activeren. <br>
-Volg onderstaande stappen: <br>
+<b>23-09-2020: Click-to-Dial is geupdate! </b><br>
+is jouw Click to Dial ineens leeg? Geen nood, je kunt de extensie in 30 seconden verwijderen en opnieuw installeren. <br>
+Volg daartoe onderstaande stappen: <br>
 1. Klik met de rechtermuisknop op het blauwe Click-to-Dial icoon rechtsboven in Chrome.<br>
 2. Kies in het menu Verwijderen uit Chrome...<br>
 3. <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Klik hier</a> en klik op Toevoegen aan Chrome
