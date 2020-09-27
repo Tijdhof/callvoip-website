@@ -16,6 +16,10 @@ Update: false
 
 <a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_2FA-Two-Factor-Authentication.pdf" target="_blank">Download hier</a> de Two Factor Authentication handleiding.
 
+<br><h3>Beveiliging via 2FA: Two-Factor Authentication</h3>
+Two-Factor Authentication (2FA) is een aanvullende beveiliging voor het inloggen op de Callvoip telefooncentrale. Naast de reguliere login met gebruikersnaam en password vul je bij 2FA een extra code in die je krijgt via de telefoon of als pushbericht via de Qaller app. 
+2FA kan worden optioneel of verplicht worden ingesteld voor een organisatie.
+
 <br><h3>2 manieren om de verificatiecode te krijgen: </h3>
 
 * Telefonisch - je krijgt een telefoonbericht waarin de verificatiecode wordt doorgegeven 
