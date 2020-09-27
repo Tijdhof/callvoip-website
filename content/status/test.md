@@ -3,7 +3,7 @@ title: Meldingen
 error: false
 
 ---
-Geen meldingen; de telefoondienst werkt naar behoren.<br><br> 
+Geen meldingen; de telefoondienst werkt naar behoren.<br> 
 
 <b>23-09-2020: Click-to-Dial is geupdate! </b><br>
 Is jouw Click to Dial ineens leeg? <br>
