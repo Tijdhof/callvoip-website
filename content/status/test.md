@@ -9,7 +9,8 @@ Geen meldingen; de telefoondienst werkt naar behoren.<br><br>
 
 Naast de Qaller app is ook onze Click-to-Dial Chrome extensie geupdatet. Het is mogelijk dat je daarom de extensie opnieuw moet installeren en activeren. Volg onderstaande stappen: 
 
-* Rightclick op het blauwe Click-to-Dial icoon rechtsboven in Chrome en kies Verwijderen uit Chrome<br>
+* Klik met de rechtermuisknop op het blauwe Click-to-Dial icoon rechtsboven in Chrome.
+* Kies in het menu Verwijderen uit Chrome...<br>
 * <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Klik hier</a> en klik op Toevoegen aan Chrome
 * Klik op het Click-to-Dial icoon. Zie je hem niet? Klik dan  op het puzzelstukje en pin hem vast.
 * Log in met je gegevens van onze centrale.
