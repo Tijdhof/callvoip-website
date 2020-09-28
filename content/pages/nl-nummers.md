@@ -11,7 +11,7 @@ hero:
   title: Alles over Nederlandse nummers
   content: |-
     Bereikbaar voor meerdere landen binnen 1 omgeving? Jouw toestel op je bureau laten rinkelen voor meerdere inkomende, internationale nummers? Dat kan allemaal. Onze centrale is erop ingericht om ook jouw internationale ambities makkelijk te ondersteunen.<br><br>Vraag een nummer aan voor het land waar je actief bent en richt jouw belroutes net zo makkelijk in als je gewend bent.
-  image: "/v1600956363/world_ia1iqs.png"
+  image: "/v1600956363/nl_aqzogh.png"
   image_position: center
   disable_image_on_mobile: false
 blocks:
