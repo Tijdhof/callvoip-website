@@ -31,8 +31,7 @@ blocks:
   title: Aandachtspunten
   image_position: center
 intro:
-  title: Overzicht categorieen buitenlandse nummers
-  content: Cool and good.
+  title: Overzicht buitenlandse nummers
 
 ---
 {{< nummer-tabel >}}
