@@ -30,8 +30,6 @@ blocks:
   position: image_left
   title: Aandachtspunten
   image_position: center
-intro:
-  title: Overzicht Nederlandse nummers
 textblocks:
 - title1: Regionaal of landelijk
   content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
@@ -43,6 +41,8 @@ textblocks:
   title2: ''
   content2: <img src="https://i.pinimg.com/474x/a0/1f/aa/a01faaf76ffe1ae9a0eeac3dfd1a44e0.jpg">
   show_vshape: false
+intro:
+  title: Overzicht Nederlandse nummers
 
 ---
 {{< nl-nummers >}}
