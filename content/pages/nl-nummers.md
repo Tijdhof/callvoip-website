@@ -9,7 +9,7 @@ blocks:
     voor jouw business? Vraag dan een premium nummer aan. Dat is een nummer wat er
     mooier uitziet en daardoor makkelijker te onthouden is en er natuurlijk gewoon
     goed uitziet op jouw website en visitekaartjes.'
-  image: "/v1600956804/phonenumber_rfynzr.png"
+  image: "/v1600956804/mapje_l2znsw.png"
   zooming: true
   position: image_left
   title: Regionaal en 085 landelijk
