@@ -27,9 +27,8 @@ blocks:
   title: 'Alle soorten nummers '
   image_position: center
 intro:
-  title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
-  content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
-  00 00</a>. Wij maken altijd tijd voor je!'
+  title: 'Overzicht categorieen buitenlandse nummers'
+  content: 'Cool and good.'
 
 ---
 
