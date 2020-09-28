@@ -11,7 +11,7 @@ hero:
   title: Alles over Nederlandse nummers
   content: Voor het aanvragen van een Nederlands vast nummer, zijn er stiekem ook nog best veel mogelijkheden. 
   Naast de voor de hand liggende regionale nummers zoals 050 (we kunnen alle regio’s leveren), kun je ook kiezen voor een landelijk nummer 085 of 088. 
-  Verder is er de mogelijkheid om te kiezen voor een servicenummer 0800/0900.<br> 
+  Verder is er de mogelijkheid om te kiezen voor een servicenummer 0800/0900. 
   De aanvraagprocedures en kenmerken verschillen aardig. Waar een regionaal nummer gemakkelijk en snel via ons te regelen is, 
   zul je voor bijvoorbeeld de servicenummers eerst via ACM een aanvraag moeten doen.
   image: "/v1600956363/nl_aqzogh.png"
