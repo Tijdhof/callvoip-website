@@ -10,8 +10,7 @@ url: telefonie/internationale-nummers/
 hero:
   title: Alles over buitenlandse nummers
   content: |-
-    Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
-    Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.
+    Bereikbaar voor meerdere landen binnen 1 omgeving? Jouw toestel op je bureau laten rinkelen voor meerdere inkomende, internationale nummers? Dat kan allemaal. Onze centrale is erop ingericht om ook jouw internationale ambities makkelijk te ondersteunen.<br><br>Vraag een nummer aan voor het land waar je actief bent en richt jouw belroutes net zo makkelijk in als je gewend bent.
   image: "/v1600956363/world_ia1iqs.png"
   image_position: center
   disable_image_on_mobile: false
