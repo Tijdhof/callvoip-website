@@ -1,5 +1,6 @@
 ---
-title: DSL | Callvoip biedt een ruim scala aan eigen verbindingen
+title: DSL | Callvoip biedt een ruim 
+aan eigen verbindingen
 type: page
 layout: default
 aliases:
@@ -7,8 +8,7 @@ aliases:
 - "/adsl"
 blocks:
 - content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding noodzakelijk. Callvoip kan je elk type verbinding leveren. Situaties en
-    wensen verschillen: wij assisteren graag bij het vinden van de
-    juiste mix van diensten en producten, van internet tot vast IP adres, tot Alarm- en PIN-certificering. Alles zodat je verzekerd bent van de beste
+    wensen verschillen: wij assisteren graag bij het vinden van de juiste mix van diensten en producten, van internet tot vast IP adres, tot Alarm- en PIN-certificering. Alles zodat je verzekerd bent van de beste
     basis voor jouw telefonie.
   image: "/v1565858232/DSL2_n4hzbr.png"
   position: image_left
