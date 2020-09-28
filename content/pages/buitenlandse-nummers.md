@@ -10,22 +10,22 @@ url: telefonie/internationale-nummers/
 hero:
   title: Alles over buitenlandse nummers
   content: |-
-    Bereikbaar voor meerdere landen binnen 1 omgeving? Jouw toestel op je bureau laten rinkelen voor meerdere inkomende, internationale nummers? Dat kan allemaal. Onze centrale 
-    is erop ingericht om ook jouw internationale ambities makkelijk te ondersteunen. <br><br>
-    Vraag een nummer aan voor het land waar je actief bent en richt jouw belroutes net zo makkelijk in als je gewend bent.
+    Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
+    Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.
   image: "/v1600956363/nummer_hcbd5s.png"
   image_position: center
   disable_image_on_mobile: false
 blocks:
 - content: "Voor het aanvragen en gebruiken van een internationaal nummer zijn afspraken
     gemaakt die afwijken van de standaard Nederlandse nummers. De volgende bijzonderheden
-    kunnen van toepassing zijn: \n * Een adres in het land is vaak vereist. Soms met
-    specifieke bewijsstukken. \n * Initiële looptijd van 1 jaar. Daarna vaak opzegbaar
-    per kalendermaand\n * Uitbellen niet altijd toegestaan.\n * Zogenaamde Call Cost
-    per Minute: ook kosten inkomende gesprekken.\n * Porteren (overnemen) van internationale
-    nummers niet altijd mogelijk.\n * Aanvragen en porteren kennen een langere doorlooptijd.\n
-    \  - Bij aanvragen tot een aantal weken\n   - Porteringen soms nog langer.\n\nInformeer
-    bij ons voor specifieke aanvragen en we vertellen je er alles over. "
+    kunnen van toepassing zijn: <br>\n * Een adres in het land is vaak vereist. Soms
+    met specifieke bewijsstukken. <br>\n * Initiële looptijd van 1 jaar. Daarna vaak
+    opzegbaar per kalendermaand.<br>\n * Uitbellen niet altijd toegestaan.<br>\n *
+    Zogenaamde Call Cost per Minute: ook kosten inkomende gesprekken.<br>\n * Porteren
+    (overnemen) van internationale nummers niet altijd mogelijk.<br>\n * Aanvragen
+    en porteren kennen een langere doorlooptijd.<br>\n   - Bij aanvragen tot een aantal
+    weken. <br>\n   - Porteringen soms nog langer. <br><br>\n\nInformeer bij ons voor
+    specifieke aanvragen en we vertellen je er alles over. "
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
