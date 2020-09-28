@@ -30,7 +30,7 @@ blocks:
   position: image_left
   title: Aandachtspunten
   image_position: center
-textblocks:
+textblocksfooter:
 - title1: Regionaal of landelijk
   content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
     actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
