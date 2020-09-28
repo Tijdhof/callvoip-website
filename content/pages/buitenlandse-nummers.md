@@ -1,12 +1,11 @@
 ---
 title: Alles over Buitenlandse nummers | internationale nummers
-description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service
-  of internationaal. '
+description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service of internationaal. '
 type: page
 layout: default2
 logos: false
 aliases: "/internationaal"
-url: telefonie/internationale-nummers/
+url: 'telefonie/internationale-nummers/'
 hero:
   title: Alles over buitenlandse nummers
   content: |-
@@ -30,7 +29,7 @@ blocks:
 intro:
   title: 'Wedden dat we ook jou in die 30 minuten fan maken?'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
-  00 00</a>. Wij maken altijd tijd voor je!
+  00 00</a>. Wij maken altijd tijd voor je!'
 
 ---
 
