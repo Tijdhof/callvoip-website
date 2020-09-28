@@ -1,6 +1,5 @@
 ---
-title: DSL | Callvoip biedt een ruim 
-aan eigen verbindingen
+title: DSL | Callvoip biedt een ruim aan eigen verbindingen
 type: page
 layout: default
 aliases:
