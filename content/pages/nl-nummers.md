@@ -27,13 +27,14 @@ blocks:
   title: Regionaal en 085 landelijk
   image_position: center
 textblocksfooter:
-- title1: Regionaal of landelijk
-  content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
-    actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
-    nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
-    actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
-    passender. Voor callcenters bijvoorbeeld kun je denken aan een 0800 of 0900 servicenummer
-    <br><br><a href="/telefonie/telefoonnummers/" class="button">Meer informatie</a>
+- title1: '088 en servicenummers 0800/0900'
+  content1: 'De <a href="https://www.acm.nl/nl/onderwerpen/telecommunicatie" target="_blank">
+    Autoriteit Consument & Markt (ACM)</a> kent op aanvraag ook nummers toe. Nummers
+    die alleen via ACM aan te vragen zijn zijn servicenummers 0800/0900 en een 088
+    blok (altijd 100 nummers). Wanneer de aanvraag bij ACM rond is, ontvang je een
+    beschikking waarmee je bij ons de nummers in de centrale kunt activeren. Dit soort
+    nummers kent dus 2 kostenposten: die van de nummers bij de ACM en die van gebruik
+    bij Callvoip.'
   title2: ''
   content2: <img src="https://i.pinimg.com/474x/a0/1f/aa/a01faaf76ffe1ae9a0eeac3dfd1a44e0.jpg">
   show_vshape: false
