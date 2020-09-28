@@ -9,11 +9,11 @@ aliases: "/nlnummers"
 url: telefonie/nederlandse-nummers/
 hero:
   title: Alles over Nederlandse nummers
-  content: Bereikbaar voor meerdere landen binnen 1 omgeving? Jouw toestel op je bureau
-    laten rinkelen voor meerdere inkomende, internationale nummers? Dat kan allemaal.
-    Onze centrale is erop ingericht om ook jouw internationale ambities makkelijk
-    te ondersteunen.<br><br>Vraag een nummer aan voor het land waar je actief bent
-    en richt jouw belroutes net zo makkelijk in als je gewend bent.
+  content: Voor het aanvragen van een Nederlands vast nummer, zijn er stiekem ook nog best veel mogelijkheden. 
+  Naast de voor de hand liggende regionale nummers zoals 050 (we kunnen alle regio’s leveren), kun je ook kiezen voor een landelijk nummer 085 of 088. 
+  Verder is er de mogelijkheid om te kiezen voor een servicenummer 0800/0900.<br> 
+  De aanvraagprocedures en kenmerken verschillen aardig. Waar een regionaal nummer gemakkelijk en snel via ons te regelen is, 
+  zul je voor bijvoorbeeld de servicenummers eerst via ACM een aanvraag moeten doen.
   image: "/v1600956363/nl_aqzogh.png"
   image_position: center
   disable_image_on_mobile: false
@@ -27,14 +27,13 @@ blocks:
   title: Regionaal en 085 landelijk
   image_position: center
 textblocksfooter:
-- title1: '088 en servicenummers 0800/0900'
-  content1: 'De <a href="https://www.acm.nl/nl/onderwerpen/telecommunicatie" target="_blank">
-    Autoriteit Consument & Markt (ACM)</a> kent op aanvraag ook nummers toe. Nummers
-    die alleen via ACM aan te vragen zijn zijn servicenummers 0800/0900 en een 088
-    blok (altijd 100 nummers). Wanneer de aanvraag bij ACM rond is, ontvang je een
-    beschikking waarmee je bij ons de nummers in de centrale kunt activeren. Dit soort
-    nummers kent dus 2 kostenposten: die van de nummers bij de ACM en die van gebruik
-    bij Callvoip.'
+- title1: Regionaal of landelijk
+  content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
+    actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
+    nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
+    actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
+    passender. Voor callcenters bijvoorbeeld kun je denken aan een 0800 of 0900 servicenummer
+    <br><br><a href="/telefonie/telefoonnummers/" class="button">Meer informatie</a>
   title2: ''
   content2: <img src="https://i.pinimg.com/474x/a0/1f/aa/a01faaf76ffe1ae9a0eeac3dfd1a44e0.jpg">
   show_vshape: false
