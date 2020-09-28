@@ -34,7 +34,8 @@ textblocks:
     actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
     nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
     actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
-    passender. <br><br><a href="/telefonie/telefoonnummers/" class="button">Meer informatie</a>
+    passender. Voor callcenters bijvoorbeeld kun je denken aan een 0800 of 0900 servicenummer
+    <br><br><a href="/telefonie/telefoonnummers/" class="button">Meer informatie</a>
   title2: Internationaal
   content2: Is jouw bedrijf ook internationaal actief? Bied jouw klanten een nummer
     om te bellen in hun eigen land. En dan hoeven de toestellen die rinkelen heus
@@ -42,12 +43,12 @@ textblocks:
     om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
     waar jij een nummer wenst.<br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
     informatie</a>
-  title3: Mobiel of Service nummers
-  content3: Naast al die 'normale' nummers kun je bij ons ook terecht voor servicenummers.
-    Denk hierbij aan een professionele klantenservice. Servicenummers zijn er in 2
-    soorten (0800 en 0900). En wat te denken van onze eigen SIM kaart Vamos met 06
-    nummers <br><br><br><br><a href="/telefonie/telefoonnummers/" class="button">Meer
-    informatie</a>
+  title3: Mobiele nummers met SIM kaart
+  content3: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
+    kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
+    dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
+    onze centrale voor maximale bereikbaarheid. <br><br><br><br><a href="/telefonie/functionaliteiten/vamos/"
+    class="button">Meer informatie</a>
   show_vshape: false
 images: []
 hideinsearch: false
