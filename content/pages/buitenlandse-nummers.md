@@ -5,8 +5,8 @@ description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, servic
 type: page
 layout: default2
 logos: false
-aliases: "/nummers"
-url: telefonie/nummers/
+aliases: "/internationaal"
+url: telefonie/internationale-nummers/
 hero:
   title: Alles over buitenlandse nummers
   content: |-
