@@ -7,9 +7,8 @@ aliases:
 - "/dsl"
 - "/adsl"
 blocks:
-- content: Voor een goede kwaliteit VoIP is een stabiele internetverbinding noodzakelijk. Callvoip kan je elk type verbinding leveren. Situaties en
-    wensen verschillen: wij assisteren graag bij het vinden van de juiste mix van diensten en producten, van internet tot vast IP adres, tot Alarm- en PIN-certificering. Alles zodat je verzekerd bent van de beste
-    basis voor jouw telefonie.
+- content: 'Voor een goede kwaliteit VoIP is een stabiele internetverbinding noodzakelijk. Callvoip kan je elk type verbinding leveren. Situaties en
+    wensen verschillen: wij assisteren graag bij het vinden van de juiste mix van diensten en producten, van internet tot vast IP adres, tot Alarm- en PIN-certificering. Alles zodat je verzekerd bent van de beste basis voor jouw telefonie.'
   image: "/v1565858232/DSL2_n4hzbr.png"
   position: image_left
   title: DSL-verbinding waar je op kunt vertrouwen
