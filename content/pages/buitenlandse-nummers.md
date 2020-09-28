@@ -23,9 +23,9 @@ blocks:
     opzegbaar per kalendermaand.<br>\n * Uitbellen niet altijd toegestaan.<br>\n *
     Zogenaamde Call Cost per Minute: ook kosten inkomende gesprekken.<br>\n * Porteren
     (overnemen) van internationale nummers niet altijd mogelijk.<br>\n * Aanvragen
-    en porteren kennen een langere doorlooptijd.<br>\n   - Bij aanvragen tot een aantal
-    weken. <br>\n   - Porteringen soms nog langer. <br><br>\n\nInformeer bij ons voor
-    specifieke aanvragen en we vertellen je er alles over. "
+    en porteren kennen een langere doorlooptijd.<br>\n &nbsp; &nbsp;  - Bij aanvragen
+    tot een aantal weken. <br>\n &nbsp; &nbsp;  - Porteringen soms nog langer. <br>\n\nInformeer
+    bij ons voor specifieke aanvragen en we vertellen je er alles over. "
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
