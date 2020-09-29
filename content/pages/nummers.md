@@ -47,7 +47,7 @@ textblocks:
   content3: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
     kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
     dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
-    onze centrale voor maximale bereikbaarheid. <br><br><br><a href="/telefonie/functionaliteiten/vamos/"
+    onze centrale voor maximale bereikbaarheid.<br><br><br><br><a href="/telefonie/functionaliteiten/vamos/"
     class="button">Meer informatie</a>
   show_vshape: false
 images: []
