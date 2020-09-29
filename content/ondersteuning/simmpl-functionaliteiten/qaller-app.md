@@ -73,4 +73,4 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 Hieronder een overzicht van Android en iOS versies en of zij geschikt zijn voor het gebruik van Qaller.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1573416725/Qaller_supported_OS_versions_tabel_1103x624_fp2ntj.jpg)
-<br><br><a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_koppelcode_100820MT-2.pdf" target="_blank">Handleiding: op Qaller inloggen met een koppelcode</a>
+<br><br><a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_inloggen-met-koppelcode.pdf" target="_blank">Handleiding: op Qaller inloggen met een koppelcode</a>
