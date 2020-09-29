@@ -20,7 +20,7 @@ blocks:
     'Ter zake: hoe kun je klant worden? Dat kan vanaf deze pagina op 3 verschillende manieren.<br>
     &nbsp; 1. Bel ons<br>
     &nbsp; 2. Vraag ons jou te bellen<br>
-    &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen<br>
+    &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen)<br>
     Als we eenmaal aan de praat raken, nemen we je mee door het proces en zorgen voor een probleemloze start als klant bij Callvoip. Voor jou geen zorgen, voor ons een kleine moeite!'
   image: "/v1600956804/41mMMgrHTGL._AC_SX355__phfrmc.jpg"
   zooming: true
@@ -28,20 +28,20 @@ blocks:
   title: Laten we beginnen
   image_position: center
 textblocks:
-- title1: '1. Bel ons'
+- title1: '1: Bel ons'
   content1: Noem ons ouderwets, maar wij bellen graag. Zo kunnen we jouw wensen aanhoren
     en belangrijker nog, de vragen stellen die jouw telefonie net wat slimmer maken
     dan je zelf had bedacht. Na dat gesprek gaan wij alles regelen zodat jij zo min
     mogelijk omkijken hebt naar het klant worden. Je hoeft dan alleen nog maar “Ja
     ik wil” te zeggen of mailen. ;-) <br><br><a href="tel:+31508200000" class="button">Nu
     bellen</a>
-  title2: '2. Vraag ons jou te bellen'
+  title2: '2: Vraag ons jou te bellen'
   content2: Leg je liever de bal bij ons als test van onze alertheid? Die uitdaging
     gaan we natuurlijk ook graag aan :-) Vul je gegevens onderaan deze pagina in en
     we nemen contact met je op voor een goed gesprek over jouw telefonie. Daarna regelen
     we alles voor je!<br><br><br><br><a href="#formulier" class="button">Bel
     mij</a>
-  title3: '3. Vul ons aanvraagformulier in'
+  title3: '3: Vul ons aanvraagformulier in'
   content3: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
     kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
     dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
