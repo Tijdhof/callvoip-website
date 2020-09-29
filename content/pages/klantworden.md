@@ -58,7 +58,7 @@ intro:
   title: <div id="formulier">JA! Ik wil klant worden</div>
   content: <br><br><div> <form class="mb-6" name="klantworden" action="/bedank/tour/"
     accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
-    <input type="hidden" name="form-name" value="tourformulier" /> <p class="hidden">
+    <input type="hidden" name="form-name" value="klantworden" /> <p class="hidden">
     <label>Don’t fill this out if human <input name="bot-field"> </label> </p> <p>
     <input type="hidden" id="formlayout" name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3"
     class="hidden"> </p> <p> <input type="hidden" id="formto" name="formto" value="offerte"
@@ -71,7 +71,7 @@ intro:
     <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label>
     <input type="text" id="telefoonnummer" name="telefoonnummer" class="w-full border
     border-grey-light bg-white px-3 py-2 text-base"> </div> <div class="mb-4"> <label
-    for="terugbelmoment" class="block">Wensen of vragen</label> <input type="text"
+    for="wensenvragen" class="block">Wensen of vragen</label> <input type="text"
     id="wensenvragen" name="wensenvragen" class="w-full border border-grey-light bg-white
     px-3 py-2 text-base"> </div> </div> <center><div data-netlify-recaptcha="true"></div></center>
     <br> <p> <button type="submit" class="button">Neem contact met mij op</button>
