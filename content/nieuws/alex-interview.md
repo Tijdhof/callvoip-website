@@ -28,7 +28,7 @@ Na lang twijfelen wil je nu overstappen naar een andere en wellicht kleinere aan
 
 ### Praktijkcase in interviewvorm met ‘Bij Alex, brillen & contactlenzen’
 
-Alex Vijfschaft is de ondernemer achter optiekbedrijf Bij Alex, brillen & contactlenzen. Hij koos recent voor Callvoip, overstappend van een grotere provider. Wij waren natuurlijk benieuwd waarom en hoe hij de overstap ervaren heeft. Daarom zochten we hem op in Leek voor een bak koffie en een goed gesprek.
+Alex Vijfschaft is de ondernemer achter optiekbedrijf Bij Alex, brillen & contactlenzen. Hij koos recent voor Callvoip, overstappend van een grotere provider. Wij waren natuurlijk benieuwd waarom en hoe hij de overstap ervaren heeft. Daarom zochten we hem op in Roden voor een bak koffie en een goed gesprek.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1600778739/dc6cb1c4-0b19-4111-878c-902b427427b8_cd79cq.jpg)
 
