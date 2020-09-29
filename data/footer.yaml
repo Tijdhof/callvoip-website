@@ -38,18 +38,16 @@ blocks:
         url: /telefonie/integratiemetcrm/
       - title: Videobellen
         url: /yealinkmeeting/
-  - title: Telefoonnummers
+  - title: Alles over
     links:
-      - title: Regionale nummers
-        url: /telefonie/telefoonnummers/
-      - title: Landelijke nummers (085/088)
-        url: /telefonie/telefoonnummers/
-      - title: Internationale nummers
-        url: /telefonie/telefoonnummers/
-      - title: Service nummers (0900/0800)
-        url: /telefonie/telefoonnummers/
-      - title: Mobiele nummers
-        url: /telefonie/functionaliteiten/vamos/
+      - title: Telefoonnummers
+        url: /telefonie/nummers/
+      - title: Vast Mobiel
+        url: /telefonie/vastmobiel/
+      - title: Integratie
+        url: /telefonie/integratie/
+      - title: Beveiliging
+        url: /telefonie/beveiliging/
   - title: Oplossingen
     links:
       - title: Uitgekiende telefonie
