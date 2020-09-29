@@ -10,7 +10,7 @@ hero:
   title: Overstappen of een schone lei?
   content: |-
     Als je op deze pagina bent aanbeland, ben je nog maar één stap verwijderd van klant worden bij Callvoip! Dat vinden we natuurlijk geweldig en we gaan er alles aan doen om 
-    ook jou tot tevreden klant te maken en houden. <br>
+    ook jou tot tevreden klant te maken en houden. <br><br>
     Misschien heb je al een telefoonnummer en wil je daar meer mee? Of je hebt je tot op heden met je mobiel gered maar zoekt nu naar de volgende stap qua telefonie. Of
     misschien ben je starter en op zoek naar een meegroeiende telefonie oplossing. Wie je ook bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br> 
     <a href="/overstappen/">Alles over overstappen</a> - Alles voor starters - Van je mobiel naar Hosted VoIP
