@@ -10,7 +10,7 @@ hero:
   content: |-
     Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
     Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.
-  image: "/v1600956363/nummer_hcbd5s.png"
+  image: "/v1600956363/spongebob-meme-surprisedpatrick_resirg.jpg"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -21,7 +21,7 @@ blocks:
     Ook een SIM kaart met 06 nummer in combinatie met onze VaMos vast mobiel oplossing
     behoort tot de mogelijkheden. Net als 0800 en 0900 servicenummers. Kortom: ontelbaar
     veel nummers :-)'
-  image: "/v1600956804/phonenumber_rfynzr.png"
+  image: "/v1600956804/41mMMgrHTGL._AC_SX355__phfrmc.jpg"
   zooming: true
   position: image_left
   title: 'Alle soorten nummers '
@@ -49,9 +49,9 @@ textblocks:
     class="button">Meer informatie</a>
   show_vshape: false
 intro:
-  title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
-  content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
-  00 00</a>. Wij maken altijd tijd voor je!
+  title: 'Wedden dat we ook jou klant kunnen maken???'
+  content: 'Cool and good phonen number <a href="tel:+31508200000">050 - 820
+  00 00</a>.
       <br><br><div>
           <form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
               <input type="hidden" name="form-name" value="tourformulier" />
