@@ -17,9 +17,9 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: |
-    Maar ter zake: hoe kun je klant worden? Dat kan vanaf deze pagina op 3 verschillende manieren.<br>
-    &nbsp; 1. Bel ons
-    &nbsp; 2. Vraag ons jou te bellen
+    Ter zake: hoe kun je klant worden? Dat kan vanaf deze pagina op 3 verschillende manieren.<br>
+    &nbsp; 1. Bel ons<br>
+    &nbsp; 2. Vraag ons jou te bellen<br>
     &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen ;-))<br>
     Als we eenmaal aan de praat raken, nemen we je mee door het proces en zorgen voor een probleemloze start als klant bij Callvoip. Voor jou geen zorgen, voor ons een kleine moeite!
   image: "/v1600956804/41mMMgrHTGL._AC_SX355__phfrmc.jpg"
