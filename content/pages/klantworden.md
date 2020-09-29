@@ -49,7 +49,7 @@ textblocks:
     class="button">Meer informatie</a>
   show_vshape: false
 intro:
-  title: <div id="formulier"JA! Ik wil klant worden</div>
+  title: <div id="formulier">JA! Ik wil klant worden</div>
   content: <br><br><div> <form class="mb-6" name="tourformulier" action="/bedank/tour/"
     accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
     <input type="hidden" name="form-name" value="tourformulier" /> <p class="hidden">
