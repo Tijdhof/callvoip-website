@@ -7,7 +7,7 @@ layout: default2
 logos: false
 url: "/klantworden"
 hero:
-  title: wow ik wil zo graag klant worden
+  title: Overstappen of een schone lei?
   content: |-
     Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
     Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.
@@ -16,16 +16,16 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Alle soorten telefoonnummers die je kunt bedenken, hebben we. Natuurlijk
-    regionale nummers zoals 050, 020. Maar ook landelijk (085). Ben je ook actief
-    in andere landen? Geen probleem want ook internationale nummers zijn mogelijk.
-    Ook een SIM kaart met 06 nummer in combinatie met onze VaMos vast mobiel oplossing
-    behoort tot de mogelijkheden. Net als 0800 en 0900 servicenummers. Kortom: ontelbaar
-    veel nummers :-)'
+- content: |
+    Maar ter zake: hoe kun je klant worden? Dat kan vanaf deze pagina op 3 verschillende manieren.<br>
+    &nbsp; 1. Bel ons
+    &nbsp; 2. Vraag ons jou te bellen
+    &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen ;-))<br>
+    Als we eenmaal aan de praat raken, nemen we je mee door het proces en zorgen voor een probleemloze start als klant bij Callvoip. Voor jou geen zorgen, voor ons een kleine moeite!
   image: "/v1600956804/41mMMgrHTGL._AC_SX355__phfrmc.jpg"
   zooming: true
   position: image_left
-  title: 'Alle soorten nummers '
+  title: Laten we beginnen
   image_position: center
 textblocks:
 - title1: Regionaal of landelijk
