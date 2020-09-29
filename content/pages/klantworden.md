@@ -8,13 +8,15 @@ logos: false
 url: "/klantworden"
 hero:
   title: Overstappen of een schone lei?
-  content: |-
-    Als je op deze pagina bent aanbeland, ben je nog maar één stap verwijderd van klant worden bij Callvoip! Dat vinden we natuurlijk geweldig en we gaan er alles aan doen om 
-    ook jou tot tevreden klant te maken en houden. <br><br>
-    Misschien heb je al een telefoonnummer en wil je daar meer mee? Of je hebt je tot op heden met je mobiel gered maar zoekt nu naar de volgende stap qua telefonie. Of
-    misschien ben je starter en op zoek naar een meegroeiende telefonie oplossing. Wie je ook bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br> 
-    <a href="/overstappen/">Alles over overstappen</a> - Alles voor starters - Van je mobiel naar Hosted VoIP
-
+  content: "Als je op deze pagina bent aanbeland, ben je nog maar één stap verwijderd
+    van klant worden bij Callvoip! Dat vinden we natuurlijk geweldig en we gaan er
+    alles aan doen om \nook jou tot tevreden klant te maken en houden. <br><br>\nMisschien
+    heb je al een telefoonnummer en wil je daar meer mee? Of je hebt je tot op heden
+    met je mobiel gered maar zoekt nu naar de volgende stap qua telefonie. Of\nmisschien
+    ben je starter en op zoek naar een meegroeiende telefonie oplossing. Wie je ook
+    bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br>
+    \n<a href=\"/overstappen/\">Alles over overstappen</a> - Alles voor starters -
+    Van je mobiel naar Hosted VoIP"
   image: "/v1600956363/spongebob-meme-surprisedpatrick_resirg.jpg"
   zooming: true
   image_position: center
@@ -43,14 +45,14 @@ textblocks:
   content2: Leg je liever de bal bij ons als test van onze alertheid? Die uitdaging
     gaan we natuurlijk ook graag aan :-) Vul je gegevens onderaan deze pagina in en
     we nemen contact met je op voor een goed gesprek over jouw telefonie. Daarna regelen
-    we alles voor je!<br><br><br><br><a href="#formulier" class="button">Bel
-    mij</a>
+    we alles voor je!<br><br><br><br><a href="#formulier" class="button">Bel mij</a>
   title3: '3: Vul ons aanvraagformulier in'
-  content3: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
-    kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
-    dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
-    onze centrale voor maximale bereikbaarheid.<br><br><br><br><a href="/telefonie/functionaliteiten/vamos/"
-    class="button">Meer informatie</a>
+  content3: Heb je zelf al je onderzoek gedaan en weet je precies wat je wilt? Dan
+    kun je natuurlijk ook meteen ons uitgebreide aanvraagformulier invullen. Dan kunnen
+    we meteen aan de slag en ben je vlot online. Omdat wij als specialisten graag
+    waarde toevoegen zou het kunnen dat we je toch nog even bellen om de details door
+    te spreken.<br><br><br><a href="/telefonie/functionaliteiten/vamos/" class="button">Meer
+    informatie</a>
   show_vshape: false
 intro:
   title: <div id="formulier">JA! Ik wil klant worden</div>
