@@ -48,6 +48,8 @@ blocks:
         url: /telefonie/integratie/
       - title: Beveiliging
         url: /telefonie/beveiliging/
+      - title: Overstappen
+        url: /overstappen/
   - title: Oplossingen
     links:
       - title: Uitgekiende telefonie
