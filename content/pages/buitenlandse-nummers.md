@@ -17,13 +17,13 @@ hero:
 blocks:
 - content: "Voor het aanvragen en gebruiken van een internationaal nummer zijn afspraken
     gemaakt die afwijken van de standaard Nederlandse nummers. De volgende bijzonderheden
-    kunnen van toepassing zijn: <br>\n * Een adres in het land is vaak vereist. Soms
-    met specifieke bewijsstukken. <br>\n * Initiële looptijd van 1 jaar. Daarna vaak
-    opzegbaar per kalendermaand.<br>\n * Uitbellen niet altijd toegestaan.<br>\n *
-    Zogenaamde Call Cost per Minute: ook kosten inkomende gesprekken.<br>\n * Porteren
-    (overnemen) van internationale nummers niet altijd mogelijk.<br>\n * Aanvragen
-    en porteren kennen een langere doorlooptijd.<br>\n &nbsp; &nbsp;  - Bij aanvragen
-    tot een aantal weken. <br>\n &nbsp; &nbsp;  - Porteringen soms nog langer. <br>\n\nInformeer
+    kunnen van toepassing zijn: <br>\n * vaak is een adres in het land vereist, soms
+    met specifieke bewijsstukken <br>\n * initiële looptijd van 1 jaar; veelal 
+    opzegbaar per kalendermaand <br>\n * het buitenland-nummer mag niet altijd worden meegestuurd bij uitbellen <br>\n *
+    zogenaamde CallCost per Minute: ook kosten inkomende gesprekken<br>\n * porteren
+    (verhuizen) van internationale nummers niet altijd mogelijk.<br>\n * aanvragen
+    en porteren kan langer duren (landspecifiek):<br>\n &nbsp; &nbsp;  - bij aanvragen
+    tot een aantal weken <br>\n &nbsp; &nbsp;  - Porteringen soms nog langer. <br>\n\nInformeer
     bij ons voor specifieke aanvragen en we vertellen je er alles over. "
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
