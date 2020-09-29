@@ -28,7 +28,7 @@ blocks:
     &nbsp; 2. Vraag ons jou te bellen<br>
     &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen)<br><br>
     Als we eenmaal aan de praat raken, nemen we je mee door het proces en zorgen voor een probleemloze start als klant bij Callvoip. Voor jou geen zorgen, voor ons een kleine moeite!
-  image: "/v1600956804/clipper_j6l0cj.png"
+  image: "/v1600956804/clipper_vyoos1.png"
   zooming: true
   position: image_left
   title: Laten we beginnen
