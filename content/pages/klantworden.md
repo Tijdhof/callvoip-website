@@ -9,19 +9,23 @@ url: "/klantworden"
 hero:
   title: Overstappen of een schone lei?
   content: |-
-    Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
-    Heb je al een nummer? Dan zorgen we voor een <a href="/overstappen/">probleemloze overstap</a> met nummerbehoud, zodat je altijd bereikbaar blijft.
+    Als je op deze pagina bent aanbeland, ben je nog maar één stap verwijderd van klant worden bij Callvoip! Dat vinden we natuurlijk geweldig en we gaan er alles aan doen om 
+    ook jou tot tevreden klant te maken en houden. <br>
+    Misschien heb je al een telefoonnummer en wil je daar meer mee? Of je hebt je tot op heden met je mobiel gered maar zoekt nu naar de volgende stap qua telefonie. Of
+    misschien ben je starter en op zoek naar een meegroeiende telefonie oplossing. Wie je ook bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br> 
+    <a href="/overstappen/">Alles over overstappen</a> - Alles voor starters - Van je mobiel naar Hosted VoIP
+
   image: "/v1600956363/spongebob-meme-surprisedpatrick_resirg.jpg"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
 - content: |
-    'Ter zake: hoe kun je klant worden? Dat kan vanaf deze pagina op 3 verschillende manieren.<br>
+    Ter zake: hoe kun je klant worden? Dat kan vanaf deze pagina op 3 verschillende manieren.<br>
     &nbsp; 1. Bel ons<br>
     &nbsp; 2. Vraag ons jou te bellen<br>
-    &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen)<br>
-    Als we eenmaal aan de praat raken, nemen we je mee door het proces en zorgen voor een probleemloze start als klant bij Callvoip. Voor jou geen zorgen, voor ons een kleine moeite!'
+    &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen)<br><br>
+    Als we eenmaal aan de praat raken, nemen we je mee door het proces en zorgen voor een probleemloze start als klant bij Callvoip. Voor jou geen zorgen, voor ons een kleine moeite!
   image: "/v1600956804/41mMMgrHTGL._AC_SX355__phfrmc.jpg"
   zooming: true
   position: image_left
