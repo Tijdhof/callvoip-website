@@ -28,21 +28,20 @@ blocks:
   title: Laten we beginnen
   image_position: center
 textblocks:
-- title1: Regionaal of landelijk
-  content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
-    actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
-    nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
-    actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
-    passender. Voor callcenters bijvoorbeeld kun je denken aan een 0800 of 0900 servicenummer
-    <br><br><a href="/telefonie/nederlandse-nummers/" class="button">Meer informatie</a>
-  title2: Internationaal
-  content2: Is jouw bedrijf ook internationaal actief? Bied jouw klanten een nummer
-    om te bellen in hun eigen land. En dan hoeven de toestellen die rinkelen heus
-    niet daar te staan. Wel is in veel gevallen een adres in het buitenland nodig
-    om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
-    waar jij een nummer wenst.<br><br><br><a href="/telefonie/internationale-nummers/"
-    class="button">Meer informatie</a>
-  title3: Mobiele nummers met SIM
+- title1: 1. Bel ons
+  content1: Noem ons ouderwets, maar wij bellen graag. Zo kunnen we jouw wensen aanhoren
+    en belangrijker nog, de vragen stellen die jouw telefonie net wat slimmer maken
+    dan je zelf had bedacht. Na dat gesprek gaan wij alles regelen zodat jij zo min
+    mogelijk omkijken hebt naar het klant worden. Je hoeft dan alleen nog maar “Ja
+    ik wil” te zeggen of mailen. ;-) <br><br><a href="tel:+31508200000" class="button">Nu
+    bellen</a>
+  title2: 2. Vraag ons jou te bellen
+  content2: Leg je liever de bal bij ons als test van onze alertheid? Die uitdaging
+    gaan we natuurlijk ook graag aan :-) Vul je gegevens onderaan deze pagina in en
+    we nemen contact met je op voor een goed gesprek over jouw telefonie. Daarna regelen
+    we alles voor je!<br><br><br><a href="/telefonie/internationale-nummers/" class="button">Bel
+    mij</a>
+  title3: 3. Vul ons aanvraagformulier in
   content3: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
     kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
     dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
