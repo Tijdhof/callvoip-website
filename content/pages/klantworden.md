@@ -20,7 +20,7 @@ blocks:
     Ter zake: hoe kun je klant worden? Dat kan vanaf deze pagina op 3 verschillende manieren.<br>
     &nbsp; 1. Bel ons<br>
     &nbsp; 2. Vraag ons jou te bellen<br>
-    &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen ;-))<br>
+    &nbsp; 3. Vul ons aanvraagformulier in (kans bestaat dat we je dan ook bellen<br>
     Als we eenmaal aan de praat raken, nemen we je mee door het proces en zorgen voor een probleemloze start als klant bij Callvoip. Voor jou geen zorgen, voor ons een kleine moeite!
   image: "/v1600956804/41mMMgrHTGL._AC_SX355__phfrmc.jpg"
   zooming: true
@@ -39,7 +39,7 @@ textblocks:
   content2: Leg je liever de bal bij ons als test van onze alertheid? Die uitdaging
     gaan we natuurlijk ook graag aan :-) Vul je gegevens onderaan deze pagina in en
     we nemen contact met je op voor een goed gesprek over jouw telefonie. Daarna regelen
-    we alles voor je!<br><br><br><a href="#formulier" class="button">Bel
+    we alles voor je!<br><br><br><br><a href="#formulier" class="button">Bel
     mij</a>
   title3: '3. Vul ons aanvraagformulier in'
   content3: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
