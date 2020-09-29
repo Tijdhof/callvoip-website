@@ -32,6 +32,7 @@ blocks:
   image_position: center
 intro:
   title: Overzicht buitenlandse nummers
+  content: ...
 
 ---
 {{< nummer-tabel >}}
