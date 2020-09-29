@@ -82,8 +82,8 @@ intro:
       </div>
   </div>'
 images: []
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: true
 
 ---
