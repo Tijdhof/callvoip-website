@@ -56,11 +56,11 @@ textblocks:
   show_vshape: false
 intro:
   title: <div id="formulier">JA! Ik wil klant worden</div>
-  content: <br><br><div> <form class="mb-6" name="tourformulier" action="/bedank/tour/"
+  content: <br><br><div> <form class="mb-6" name="klantworden" action="/bedank/tour/"
     accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
     <input type="hidden" name="form-name" value="tourformulier" /> <p class="hidden">
     <label>Don’t fill this out if human <input name="bot-field"> </label> </p> <p>
-    <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
+    <input type="hidden" id="formlayout" name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3"
     class="hidden"> </p> <p> <input type="hidden" id="formto" name="formto" value="offerte"
     class="hidden"> </p> <div class="layout-split"> <div class="mb-4"> <label for="bedrijfsnaam"
     class="block">Bedrijfsnaam</label> <input type="text" id="bedrijfsnaam" name="bedrijfsnaam"
