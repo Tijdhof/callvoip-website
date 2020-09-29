@@ -51,7 +51,7 @@ textblocks:
     kun je natuurlijk ook meteen ons uitgebreide aanvraagformulier invullen. Dan kunnen
     we meteen aan de slag en ben je vlot online. Omdat wij als specialisten graag
     waarde toevoegen zou het kunnen dat we je toch nog even bellen om de details door
-    te spreken.<br><br><br><a href="http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf"
+    te spreken.<br><br><a href="http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf"
     class="button" target="_blank">Kom maar op met dat formulier (PDF)</a>
   show_vshape: false
 intro:
