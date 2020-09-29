@@ -1,5 +1,5 @@
 ---
-title: Overstappen van telecomprovider? Zij gingen jou voor..
+title: Overstappen van telecomprovider? Zij gingen jou voor...
 description: ''
 images:
 - "/v1600778739/dc6cb1c4-0b19-4111-878c-902b427427b8_cd79cq.jpg"
