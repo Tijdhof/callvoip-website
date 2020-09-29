@@ -17,7 +17,7 @@ hero:
     bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br>
     \n<a href=\"/overstappen/\">Alles over overstappen</a> - Alles voor starters -
     Van je mobiel naar Hosted VoIP"
-  image: "/v1600956363/spongebob-meme-surprisedpatrick_resirg.jpg"
+  image: "/v1600956363/bordje_adftal.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
