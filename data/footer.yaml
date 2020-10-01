@@ -38,17 +38,17 @@ blocks:
         url: /telefonie/integratiemetcrm/
       - title: Videobellen
         url: /yealinkmeeting/
-  - title: Informatie
+  - title: Alles over...
     links:
-      - title: Alles over, Nummers
+      - title: Nummers
         url: /telefonie/nummers/
-      - title: Alles over, Vast Mobiel
+      - title: Vast Mobiel
         url: /telefonie/vastmobiel/
-      - title: Alles over, Integratie
+      - title: Integratie
         url: /telefonie/integratie/
-      - title: Alles over, Beveiliging
+      - title: Beveiliging
         url: /telefonie/beveiliging/
-      - title: Alles over, Overstappen
+      - title: Overstappen
         url: /overstappen/
   - title: Oplossingen
     links:
