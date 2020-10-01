@@ -47,7 +47,7 @@ textblocks:
   content3: 'Stel je eens voor: alles wat met bellen en gebeld worden te maken heeft,
     vast en mobiel, samen in 1 smartphone. Bellen met vast nummer zonder app, gewoon
     met je standaard telefoon functie. Kiezen of je vast, mobiel of anoniem uitbelt,
-    mensen in de wacht zetten, doorverbinden. Alles is mogelijk.<br><br><br><a href="/telefonie/vastmobielintegratie/"
+    mensen in de wacht zetten, doorverbinden. Alles is mogelijk.<br><br><br><a href="/telefonie/functionaliteiten/vamos/"
     class="button">Meer informatie</a>'
   show_vshape: false
 images: []
