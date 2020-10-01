@@ -52,7 +52,7 @@ Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel
 **Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi of 4G  
 **Wat kost het?** €4,- per gebruiker per maand  
 **Installatietijd?** 3 minuten  
-**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/qaller) en [www.callvoip.nl/qallerpdf](http://www.callvoip.nl/qallerpdf)
+**Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/qaller) en [www.callvoip.nl/qallerpdf](http://www.callvoip.nl/qallerpdf)<br>
 <b>Op Qaller inloggen met een koppelcode?</b><a href="ttp://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_inloggen-met-koppelcode.pdf" target="_blank">Handleiding: op Qaller inloggen met een koppelcode</a>
 
 <br>
