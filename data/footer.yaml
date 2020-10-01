@@ -38,9 +38,9 @@ blocks:
         url: /telefonie/integratiemetcrm/
       - title: Videobellen
         url: /yealinkmeeting/
-  - title: Alles over
+  - title: Alles over...
     links:
-      - title: Telefoonnummers
+      - title: Nummers
         url: /telefonie/nummers/
       - title: Vast Mobiel
         url: /telefonie/vastmobiel/
