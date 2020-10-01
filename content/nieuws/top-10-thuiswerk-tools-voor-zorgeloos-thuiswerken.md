@@ -22,6 +22,7 @@ tags: []
 aliases:
 - "/nieuws/top-8-thuiswerk-tools-voor-zorgeloos-thuiswerken"
 - "/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
+- "/thuiswerken/"
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1571403955/home_omkizz.png)
