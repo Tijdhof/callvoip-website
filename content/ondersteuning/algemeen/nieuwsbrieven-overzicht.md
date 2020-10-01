@@ -15,7 +15,7 @@ aliases: "/nieuwsbrieven"
 <h3>2020</h3>
 
 * <a href="https://sh1.sendinblue.com/vau7o8qutt7e.html?t=1601536801" target="_blank">Nieuwsbrief 30-09-20 | (Weer) thuis aan het werk?</a>
-* <a href="https://www.callvoip.nl/blog-veiligheid/")" target="_blank">Blog 31-08-20 | Better safe than sorry: hoe wij jou helpen veilig te telefoneren.</a>
+* <a href="https://www.callvoip.nl/blog-veiligheid/" target="_blank">Blog 31-08-20 | Better safe than sorry: hoe wij jou helpen veilig te telefoneren.</a>
 * <a href="https://sh1.sendinblue.com/v9sac8qutt7e.html?t=1597249697" target="_blank">Nieuwsbrief 11-08-20 | Qaller update, zo log je snel in met de koppelcode</a>
 * <a href="https://www.callvoip.nl/yealinkmeeting-blog/" target="_blank">Blog 08-07-20 | Videobellen: goede voorbereiding scheelt</a>
 * <a href="https://sh1.sendinblue.com/aek582wy9xpne.html?t=1593616830" target="_blank">Nieuwsbrief 01-07-20 | Yealink Meeting videobellen en CRM Lookup </a>
