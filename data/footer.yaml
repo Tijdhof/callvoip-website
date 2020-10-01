@@ -50,6 +50,8 @@ blocks:
         url: /telefonie/beveiliging/
       - title: Overstappen
         url: /overstappen/
+      - title: Thuiswerken
+        url: /thuiswerken/
   - title: Oplossingen
     links:
       - title: Uitgekiende telefonie
