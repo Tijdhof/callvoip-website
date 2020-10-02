@@ -1,5 +1,5 @@
 ---
-title: Integratie mogelijkheden | Click-to-Dial | CRM | CRM-Lookup
+title: Alles over integratie
 description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome integratie
   tot volledige koppeling met jouw CRM.
 type: page
@@ -49,5 +49,10 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-
+menu:
+  main:
+    weight: 4
+    parent: Telefonie
+    pre: 'Van gratis Chrome extensie tot CRM integratie'
+    post: fa-laptop
 ---
