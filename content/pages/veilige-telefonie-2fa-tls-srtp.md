@@ -13,7 +13,7 @@ hero:
     dan een moeilijk te raden wachtwoord voor de centrale. We hanteren een hoge standaard
     voor al onze klanten met functies als 2FA en TLS ondersteuning. Is dat voor jou
     om welke reden dan ook niet voldoende? Dan zijn er extra mogelijkheden zoals volledige
-    versleuteling van al jouw gesprekken.
+    versleuteling van al jouw gesprekken.<br><br><a href="/klantworden" class="button">Ook veilig telefoneren?</a>
   image: "/v1571655384/Screenshot_7_zekrsa.png"
   zooming: true
   image_position: center
