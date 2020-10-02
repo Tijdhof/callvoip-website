@@ -54,5 +54,11 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
+menu:
+  main:
+    weight: 3
+    parent: Telefonie
+    pre: Jouw smartphone, onze telefooncentrale
+    post: fa-mobile-alt
 
 ---
