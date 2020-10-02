@@ -157,7 +157,7 @@ menu:
   main:
     weight: 1
     parent: Telefonie
-    pre: 'De meeste moderne telefooncentrale in de wereld: Simmpl'
+    pre: 'De meeste moderne telefooncentrale in de wereld'
     post: fa-cloud
 
 ---
