@@ -54,5 +54,11 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
+menu:
+  main:
+    weight: 2
+    parent: Telefonie
+    pre: 'Regionaal, landelijk, internationaal of servicenummers'
+    post: fa-tty
 
 ---
