@@ -155,9 +155,9 @@ hideingoogle: false
 hidesocialshare: false
 menu:
   main:
-    weight: 4
+    weight: 1
     parent: Telefonie
     pre: 'De meeste moderne telefooncentrale in de wereld'
-    post: fa-laptop
+    post: fa-cloud
 
 ---
