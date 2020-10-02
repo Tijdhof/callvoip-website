@@ -175,6 +175,7 @@ Ook handig: met een keuzemenu kun je snel een directe bereikbaarheid van een per
 **Wat kost het?** Nummer: 2,- ex BTW p/mnd; Keuzemenu: 4,- ex BTW p/mnd  
 **Installatietijd?** afhankelijk van je wensen: met 5 tot 15 minuten ben je een eind; we helpen graag!  
 **Hoe?** Zie pagina 41 e.v. van de [deze handleiding ](http://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf)
+<br><br><a href="/klantworden" class="button">Ook Callvoip klant worden?</a>
 
 <br>**<h4>Wensen of vragen? Neem contact op via chat tel app of mail</h4>  
 In alle scenario’s:** neem vooral contact op met ons! Wij weten precies wat er kan, ook de dingen die jij niet bedenkt. Daar heb je ons voor. Dát noemen we: maatwerk op de plank - een zorgvuldig gelegd mozaïek aan mogelijkheden exact op maat voor jouw unieke situatie.  
