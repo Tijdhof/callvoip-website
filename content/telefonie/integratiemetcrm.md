@@ -93,11 +93,5 @@ double_content:
     undefined: ''
   right:
     undefined: ''
-menu:
-  main:
-    weight: 3
-    parent: Telefonie
-    pre: Verbind jouw klantsysteem met de telefooncentrale
-    post: fa-comment-alt-smile
 
 ---
