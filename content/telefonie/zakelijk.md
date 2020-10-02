@@ -14,8 +14,8 @@ hero:
     en slimme tips om je bereikbaarheid te optimaliseren.<br><br>We staan voor je
     klaar!
   button:
-    content: Offerte aanvragen
-    link: "/offerte"
+    content: Klant worden?
+    link: "/klantworden"
   image: "/v1574088232/hostedvoip_u8trwp.png"
   image_position: start
   disable_image_on_mobile: false
