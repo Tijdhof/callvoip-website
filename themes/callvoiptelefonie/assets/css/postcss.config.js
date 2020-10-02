@@ -6,6 +6,9 @@ const purgeTailwind = (content) => {
 const purgecss = require('@fullhuman/postcss-purgecss')
 
 module.exports = {
+  future: {
+    removeDeprecatedGapUtilities: true,
+  },
   plugins: [
     require('postcss-import')({
       path: ["themes/callvoiptelefonie/assets/css"],
