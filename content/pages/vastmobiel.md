@@ -14,7 +14,7 @@ hero:
     brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden?
     Of zelfs bellen met je vaste nummer op de smartphone. Of Whatsapp op datzelfde
     vaste nummer? En met onze sim oplossing VAMOS vervaagt de grens tussen vast mobiel
-    helemaal.
+    helemaal.<br><br><a href="/klantworden" class="button">Nog geen Callvoip klant?</a>
   image: "/v1571655384/calling_os7r1h.png"
   zooming: true
   image_position: center
