@@ -15,8 +15,7 @@ hero:
     met je mobiel gered maar zoekt nu naar de volgende stap qua telefonie. Of\nmisschien
     ben je starter en op zoek naar een meegroeiende telefonie oplossing. Wie je ook
     bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br>
-    \n<a href=\"/overstappen/\">Alles over overstappen</a> - Alles voor starters -
-    Van je mobiel naar Hosted VoIP"
+    <a href="/overstappen" class="button">Alles over overstappen</a>"
   image: "/v1600956363/bordje_adftal.png"
   zooming: true
   image_position: center
