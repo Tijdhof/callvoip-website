@@ -1,5 +1,5 @@
 ---
-title: Hosted VoIP | Slimme online telefooncentrale
+title: Alles over hosted VoIP
 type: page
 layout: default
 aliases: "/voip"
@@ -157,7 +157,7 @@ menu:
   main:
     weight: 1
     parent: Telefonie
-    pre: 'De meeste moderne telefooncentrale in de wereld'
+    pre: 'De meest moderne online telefooncentrale in de wereld'
     post: fa-cloud
 
 ---
