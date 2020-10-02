@@ -90,11 +90,5 @@ double_content:
     undefined: ''
   right:
     undefined: ''
-menu:
-  main:
-    weight: 4
-    parent: Telefonie
-    pre: Maak eenvoudig alle telefoonnummers klikbaar én meer!
-    post: fa-laptop
 
 ---
