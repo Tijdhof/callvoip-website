@@ -1,5 +1,5 @@
 ---
-title: Integratie met je smartphone | Doorschakelen | Qaller | Vamos
+title: Alles over vast mobiel
 description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
   Vast en mobiel dichter bij elkaar
 type: page
@@ -54,5 +54,11 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
+menu:
+  main:
+    weight: 3
+    parent: Telefonie
+    pre: 'Jouw smartphone, onze telefooncentrale'
+    post: fa-mobile-alt
 
 ---
