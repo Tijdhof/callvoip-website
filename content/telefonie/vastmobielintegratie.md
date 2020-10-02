@@ -146,12 +146,6 @@ double_content:
     undefined: ''
   right:
     undefined: ''
-menu:
-  main:
-    weight: 2
-    parent: Telefonie
-    pre: Integreer eenvoudig vaste en mobiele telefonie
-    post: fa-mobile-alt
 
 ---
 <h2>De mobiele app in gebruik nemen</h2>
