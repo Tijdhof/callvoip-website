@@ -1,5 +1,5 @@
 ---
-title: Alles over nummers | Landelijk/regionaal | Internationaal | Servicenummers
+title: Alles over nummers
 description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service
   of internationaal. '
 type: page
