@@ -1,7 +1,7 @@
 ---
 title: Bereikbaarheidsmonitor | Breng uw telefonische performance in kaart.
-description: De Bereikbaarheidsmonitor toont u in één oogopslag alles wat u wilt weten
-  om uw bereikbaarheid te beoordelen én dus te verbeteren.
+description: De Bereikbaarheidsmonitor toont je in één oogopslag alles wat je wilt weten
+  om jouw bereikbaarheid te beoordelen en te verbeteren.
 images:
 - "/v1567165784/icon_hwk0eh.png"
 type: page
@@ -9,8 +9,7 @@ layout: default
 logos: false
 hero:
   title: Bereikbaarheidsmonitor
-  content: de Bereikbaarheidsmonitor is een waardevolle tool om uw bereikbaarheid
-    te beoordelen en te optimaliseren.
+  content: Hoe bereikbaar is jouw onderneming? Hoeveel bellers zijn er buiten openingstijden? Wat is jouw piek-uur en piek-dag? En hoe lang dureninkomende gesprekken gemiddeld? Belangrijk vragen die de bereikbaarheid van je bedrijf in kaart brengen. Je ziet ze in één oogopslag in de bereikbaarheidsmonitor op de Callvoip-centrale.
   button:
     content: Bereken zelf uw kosten
     link: "/calculator/"
