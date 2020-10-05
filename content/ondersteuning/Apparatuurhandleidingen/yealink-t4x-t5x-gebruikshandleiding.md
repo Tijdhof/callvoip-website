@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 2
 title: Yealink T4x/T5x gebruikershandleiding
 description: ''
 images: []
