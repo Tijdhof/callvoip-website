@@ -37,7 +37,7 @@ textblocks:
     een afstandsbediening kunnen noemen voor onze centrale: je regelt er doorschakelingen
     mee, of activeert een storingsbandje. Waar je ook bent. Ideaal toch?<br><br><br><a
     href="/telefonie/qaller/" class="button">Meer informatie</a>'
-  title2: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qallerplus_ihroln.png">Wat is dat: Qaller Plus app?</div>'
+  title2: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qallerplus_wpdaq8.png">Wat is dat: Qaller Plus app?</div>'
   content2: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
     tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
     en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
