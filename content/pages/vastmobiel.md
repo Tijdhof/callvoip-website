@@ -31,19 +31,19 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocks:
-- title1: '<img src=/v1572861318/qaller32x32_absdge.png">"Wat is dat: Qaller app?'
+- title1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_absdge.png">Wat is dat: Qaller app?'
   content1: 'Onze smartphone app heet Qaller. Hij is zowel voor de iPhone als een
     Android toestel gratis te downloaden in de desbetreffende app store. Je zou het
     een afstandsbediening kunnen noemen voor onze centrale: je regelt er doorschakelingen
     mee, of activeert een storingsbandje. Waar je ook bent. Ideaal toch?<br><br><br><a
     href="/telefonie/qaller/" class="button">Meer informatie</a>'
-  title2: '<img src=/v1572861318/qallerplus32x32_o0e0nh.png">Wat is dat: Qaller Plus app?'
+  title2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qallerplus32x32_o0e0nh.png">Wat is dat: Qaller Plus app?'
   content2: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
     tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
     en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
     en zie of ze in gesprek zijn. <br><br><br><br><a href="/telefonie/qaller/" class="button">Meer
     informatie</a>
-  title3: '<img src=/v1572861318/vamos32x32_bptjzb.png">Wat is dat: Vamos SIM?'
+  title3: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/vamos32x32_bptjzb.png">Wat is dat: Vamos SIM?'
   content3: 'Stel je eens voor: alles wat met bellen en gebeld worden te maken heeft,
     vast en mobiel, samen in 1 smartphone. Bellen met vast nummer zonder app, gewoon
     met je standaard telefoon functie. Kiezen of je vast, mobiel of anoniem uitbelt,
