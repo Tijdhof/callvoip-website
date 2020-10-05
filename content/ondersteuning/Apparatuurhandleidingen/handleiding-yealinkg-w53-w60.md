@@ -1,6 +1,6 @@
 ---
 weight: 3
-title:  Yealink W53 en W60 DECT gebruikershandleiding
+title:  Yealink W53/W60 DECT gebruikershandleiding
 description: ''
 images: []
 hideinsearch: false
