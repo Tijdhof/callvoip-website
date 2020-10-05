@@ -19,7 +19,7 @@ hero:
   - iconimage: "/icons/qaller-icon.svg"
     title: Uitgekiende Vast Mobiel integratie
     content: Upgrade de smartphone naar volwaardige IP telefoon
-    link: telefonie/qaller/
+    link: telefonie/vastmobiel/
     id: cta-vamos
     icon: ''
 intro:
