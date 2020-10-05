@@ -31,7 +31,7 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocks:
-- title1: '<div class="md:flex justify-between items-center mb-6"<img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_absdge.png">Wat is dat: Qaller app?</div>'
+- title1: '<div class="md:flex justify-between items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_absdge.png">Wat is dat: Qaller app?</div>'
   content1: 'Onze smartphone app heet Qaller. Hij is zowel voor de iPhone als een
     Android toestel gratis te downloaden in de desbetreffende app store. Je zou het
     een afstandsbediening kunnen noemen voor onze centrale: je regelt er doorschakelingen
