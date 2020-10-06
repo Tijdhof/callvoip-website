@@ -17,7 +17,7 @@ hero:
 blocks:
 - content: |-
     Met een Vamos SIM is de smartphone volledig geïntegreerd in de Callvoip telefooncentrale.<br>- abonnementskosten zijn hoger dan bij Qaller Plus <br> - databundel vanaf 0 t/m 10GB maar niet onbeperkt <br> + alle mogelijkheden van Qaller Plus <br> + bellen via de native dialer <br> + onbeperkt bellen binnen EU is inbegrepen   <br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/vamos1_jkeoyg.png"
+  image: "/v1572861318/vamos-pijltjes_ecuaok.png"
   position: image_left
   title: 'Vamos SIM'
   image_position: center
