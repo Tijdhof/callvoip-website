@@ -24,7 +24,7 @@ blocks:
     niet! Vanzelfsprekend kunnen we op enig moment jouw vaste nummer doorschakelen
     naar mobiel. Maar met onze Qaller app op je mobiel kun je ook overal bepaalde
     routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
-    Business, op je vaste nummer! We helpen je graag.'
+    Business, op je vaste nummer! We helpen je graag.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button">Technische vergelijking</a>'
   image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   zooming: true
   position: image_left
