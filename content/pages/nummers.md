@@ -50,21 +50,6 @@ textblocks:
     onze centrale voor maximale bereikbaarheid.<br><br><br><br><a href="/telefonie/functionaliteiten/vamos/"
     class="button">Meer informatie</a>
   show_vshape: false
-textblocksfooter:
-- title1: Regionaal of landelijk
-  content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
-    actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
-    nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
-    actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
-    passender. Voor callcenters bijvoorbeeld kun je denken aan een 0800 of 0900 servicenummer
-    <br><br><a href="/telefonie/nederlandse-nummers/" class="button">Meer informatie</a>
-  title2: Internationaal
-  content2: Is jouw bedrijf ook internationaal actief? Bied jouw klanten een nummer
-    om te bellen in hun eigen land. En dan hoeven de toestellen die rinkelen heus
-    niet daar te staan. Wel is in veel gevallen een adres in het buitenland nodig
-    om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
-    waar jij een nummer wenst.<br><br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
-    informatie</a>
 images: []
 hideinsearch: false
 hideingoogle: false
