@@ -59,7 +59,7 @@ Hieronder vind je een stapsgewijze instructie bij de ingebruikname van Vamos.
     \* dit kan alleen als gespreksopname is ingeschakeld
 
     Je kunt in de Vamos App doorklikken naar Qaller app om je belroutes te beheren.  
-    ![](https://res.cloudinary.com/callvoip/image/upload/v1564576860/vamoshandleiding-2_kuzmbh.png)<br><br><img src="https://res.cloudinary.com/callvoip/image/upload/v1601980022/vamos-pijltjes_img0mg.png">
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1601980022/vamos-pijltjes_img0mg.png"><br>![](https://res.cloudinary.com/callvoip/image/upload/v1564576860/vamoshandleiding-2_kuzmbh.png)
  6. **<h3>Internet: vul de APN in</h3>**  
     Om internet te kunnen gebruiken moet je nog even de Vamos Access Point Name (APN) instellen, dat doe je als volgt:
 
