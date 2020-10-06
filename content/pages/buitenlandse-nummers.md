@@ -32,7 +32,7 @@ blocks:
   image_position: center
 intro:
   title: Overzicht buitenlandse nummers
-  content: We kunnen voor vrijwel elk land een nummer leveren. De landen hebben we onderverdeeld in 4 categorieën die bepalend zijn voor de kosten. Wil je een internationaal nummer aanvragen? Neem dan contact met ons op en  we vertellen je wat er mogelijk is en wat de verwachte doorlooptijd is.
+  content: We kunnen voor vrijwel elk land een nummer leveren. De landen hebben we onderverdeeld in 4 categorieën die bepalend zijn voor de kosten. Wil je een internationaal nummer aanvragen? Neem dan contact met ons op en  we vertellen je wat er mogelijk is en wat de verwachte doorlooptijd is.<br><br><a href="https://www.callvoip.nl/aanvragen/internationaal-nummer/" class="button">Direct aanvragen</a>
 
 ---
 {{< nummer-tabel >}}
