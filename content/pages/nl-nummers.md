@@ -36,7 +36,7 @@ description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, servic
 layout: default2
 aliases: "/nlnummers"
 textblocksfooter:
-- title1: '088 en servicenummers 0800/0900'
+- title1: '<div id="service">088 en servicenummers 0800/0900</div>'
   content1: 'De Autoriteit Consument & Markt (ACM) kent op aanvraag ook nummers toe.
     Nummers die alleen via ACM aan te vragen zijn zijn servicenummers 0800/0900 en
     een 088 blok (altijd 100 nummers). Wanneer de aanvraag bij ACM rond is, ontvang
