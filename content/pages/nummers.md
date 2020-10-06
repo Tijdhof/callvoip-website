@@ -50,7 +50,7 @@ textblocks:
     onze centrale voor maximale bereikbaarheid.<br><br><br><br><a href="/telefonie/functionaliteiten/vamos/"
     class="button">Meer informatie</a>
   show_vshape: false
-textblockfooter:
+textblocksfooter:
 - title1: Regionaal of landelijk
   content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
     actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
