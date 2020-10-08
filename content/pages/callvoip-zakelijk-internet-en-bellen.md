@@ -17,8 +17,8 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 blocks:
 - title: ''
   content: ''
