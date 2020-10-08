@@ -22,7 +22,7 @@ tags: []
 ---
 Bellen via VoIP is al meer dan 20 jaar mogelijk. Wij bij Callvoip zijn er ook al in 2006 mee begonnen en leverden toen ook de eerste VoIP toestellen aan onze klanten. 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1602160012/oldpc_iiv709.png" style="float:right" width="135px" height="135px">
-Waar je zeer hoogstwaarschijnlijk niet meer op dezelfde PC werkt als 10 jaar geleden, of dezelfde mobiele telefoon gebruikt, komt het relatief vaak voor dat VoIP telefoons op bureaus blijven staan tot ze het écht niet meer doen.
+<br><br>Waar je zeer hoogstwaarschijnlijk niet meer op dezelfde PC werkt als 10 jaar geleden, of dezelfde mobiele telefoon gebruikt, komt het relatief vaak voor dat VoIP telefoons op bureaus blijven staan tot ze het écht niet meer doen.
 
 <h3>Met de tijd mee</h3>
 
