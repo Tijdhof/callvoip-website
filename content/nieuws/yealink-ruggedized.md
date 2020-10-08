@@ -27,4 +27,4 @@ Tim pakte de nieuwe handset uit en nam hem onder de loep. Bekijk de unboxing vid
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/div51k3mweM](https://www.youtube.com/embed/div51k3mweM "https://www.youtube.com/embed/div51k3mweM")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
-<a href="[https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html](https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html "https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html")" class="button">Bestel hem hier!</a>:-)
+<a href="[https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html](https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html "https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html")" class="button">Bestel hem hier!</a>
