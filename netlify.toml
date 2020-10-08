@@ -37,7 +37,7 @@ HUGO_ENABLEGITINFO = "true"
   force = true
 [[redirects]]  
   from = "/ondersteuning/algemeen/storing/"
-  to = "/status/"
+  to = "/https://www.callvoip.nl/status/"
   status = 301
   force = true
 [[redirects]]
