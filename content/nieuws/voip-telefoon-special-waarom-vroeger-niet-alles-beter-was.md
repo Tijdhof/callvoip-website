@@ -1,6 +1,8 @@
 ---
 title: 'VoIP telefoon special: waarom vroeger niet alles beter was'
-description: ''
+description: Neem jij nog genoegen met je oude IP toestel? Of is het moment van afscheid
+  misschien daar en trakteer jij jezelf op de gemakken die hedendaagse VoIP telefoons
+  te bieden hebben?
 images: []
 featured: false
 hideinsearch: false
@@ -14,10 +16,11 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: voip-special
+url: voip-toestel-special
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 Bellen via VoIP is al meer dan 20 jaar mogelijk. Wij bij Callvoip zijn er ook al in 2006 mee begonnen en leverden toen ook de eerste VoIP toestellen aan onze klanten. 
