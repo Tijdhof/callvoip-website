@@ -1,6 +1,7 @@
 ---
 title: Status
 aliases: '/storing'
+url: '/status'
 hero:
   image: "/v1566566520/status_jq3tzw.png"
   disable_image_on_mobile: false
