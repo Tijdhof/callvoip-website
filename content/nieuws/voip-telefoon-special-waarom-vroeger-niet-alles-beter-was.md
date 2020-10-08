@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-10-07T22:00:00+00:00
 url: voip-toestel-special
 contactpersoon: []
 categories: []
