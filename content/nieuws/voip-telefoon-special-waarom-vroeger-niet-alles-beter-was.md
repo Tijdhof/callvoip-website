@@ -3,7 +3,8 @@ title: 'VoIP telefoon special: waarom vroeger niet alles beter was'
 description: Neem jij nog genoegen met je oude IP toestel? Of is het moment van afscheid
   misschien daar en trakteer jij jezelf op de gemakken die hedendaagse VoIP telefoons
   te bieden hebben?
-images: []
+images:
+- "/v1602161815/oldphone_oqajiy.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
