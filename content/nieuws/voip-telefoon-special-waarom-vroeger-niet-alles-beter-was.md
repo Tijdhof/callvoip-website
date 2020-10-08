@@ -9,14 +9,14 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1602161815/oldphone_oqajiy.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-10-07T22:00:00+00:00
+date: 2020-10-07T22:00:00.000+00:00
 url: voip-toestel-special
 contactpersoon: []
 categories: []
