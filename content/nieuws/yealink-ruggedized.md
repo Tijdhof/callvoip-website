@@ -1,7 +1,8 @@
 ---
-title: Yealink Ruggedized unboxing
+title: Yealink W59R Ruggedized unboxing
 description: ''
-images: []
+images:
+- "/v1602163561/Screenshot_YT_unbox_n3xsd0.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
