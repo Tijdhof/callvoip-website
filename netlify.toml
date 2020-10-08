@@ -35,4 +35,20 @@ HUGO_ENABLEGITINFO = "true"
   to = "/cast/"
   status = 301
   force = true
+  
+  from = "/ondersteuning/algemeen/storing/"
+  to = "/status/"
+  status = 301
+  force = true
+
+  from = "/ondersteuning/simmpl-instellen/snelstart-handleiding-telefooncentrale/"
+  to = "https://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf"
+  status = 301
+  force = true
+
+  from = "/ondersteuning/instructie-videos/"
+  to = "/cast/"
+  status = 301
+  force = true
+
 
