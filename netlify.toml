@@ -35,7 +35,7 @@ HUGO_ENABLEGITINFO = "true"
   to = "/cast/"
   status = 301
   force = true
-[[redirects]]  
+[[redirects]]
   from = "/ondersteuning/algemeen/storing/"
   to = "/status/"
   status = 301
