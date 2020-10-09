@@ -35,7 +35,7 @@ description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, servic
 layout: default2
 aliases: "/nlnummers"
 textblocksfooter:
-- title1: '088 blok (op Nederlandse nummers)'
+- title1: '088 blok'
   content1: 'De Autoriteit Consument & Markt (ACM) kent op aanvraag ook nummers toe. Je kunt er onder andere 088 nummers aanvragen. Deze gaan niet per stuk maar per 100 en komen altijd als opeenvolgend blok. Zo’n zogenaamd 100-blok is handig wanneer je medewerkers een direct nummer wilt geven bijvoorbeeld, of meerdere afdelingen.<br><br>Wanneer de aanvraag bij ACM rond is, ontvang je een beschikking waarmee je bij ons de nummers in de centrale kunt activeren. Dit soort nummers kent dus 2 kostenposten: die van de nummers bij de ACM en die van gebruik bij Callvoip.'
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/mapje_l2znsw.png">'
