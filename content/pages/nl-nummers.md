@@ -31,18 +31,17 @@ hero:
   disable_image_on_mobile: false
 intro:
   title: Overzicht Nederlandse nummers
-description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service
-  of internationaal. '
+description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service of internationaal. '
 layout: default2
 aliases: "/nlnummers"
 textblocksfooter:
 - title1: '088 blok (op Nederlandse nummers)'
   content1: 'De Autoriteit Consument & Markt (ACM) kent op aanvraag ook nummers toe. Je kunt er onder andere 088 nummers aanvragen. Deze gaan niet per stuk maar per 100 en komen altijd als opeenvolgend blok. Zo’n zogenaamd 100-blok is handig wanneer je medewerkers een direct nummer wilt geven bijvoorbeeld, of meerdere afdelingen.<br><br>Wanneer de aanvraag bij ACM rond is, ontvang je een beschikking waarmee je bij ons de nummers in de centrale kunt activeren. Dit soort nummers kent dus 2 kostenposten: die van de nummers bij de ACM en die van gebruik bij Callvoip.'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/mapje_l2znsw.png">
+  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/mapje_l2znsw.png">'
   show_vshape: false
 footer:
-- content: 'Via de ACM kun je ook een 0800 of 0900 servicenummer aanvragen. Dit type nummers wordt veelal gebruikt voor klantenservice of callcenter toepassingen. Het grote verschil tussen de 0800 en 0900 zit in de belkosten voor de beller.<br><br>Met een 0800-nummer ben je kosteloos bereikbaar voor je klanten. Dit verlaagt de drempel voor je klanten om contact op te nemen. Het 0800-nummer is in heel Nederland actief en bereikbaar.<br><br>Voor een 0900 nummer betalen klanten een minuut- of gesprekstarief en dit genereert inkomsten. Het tarief stel je zelf vast. De kostendrempel maakt dat je klant weloverwogen en doelgericht belt. Dit verhoogt de doeltreffendheid van de gesprekken.
+- content: 'Via de ACM kun je ook een 0800 of 0900 servicenummer aanvragen. Dit type nummers wordt veelal gebruikt voor klantenservice of callcenter toepassingen. Het grote verschil tussen de 0800 en 0900 zit in de belkosten voor de beller.<br><br>Met een 0800-nummer ben je kosteloos bereikbaar voor je klanten. Dit verlaagt de drempel voor je klanten om contact op te nemen. Het 0800-nummer is in heel Nederland actief en bereikbaar.<br><br>Voor een 0900 nummer betalen klanten een minuut- of gesprekstarief en dit genereert inkomsten. Het tarief stel je zelf vast. De kostendrempel maakt dat je klant weloverwogen en doelgericht belt. Dit verhoogt de doeltreffendheid van de gesprekken.'
   image: "/v1600956804/callcenter_hzyepj.png"
   zooming: true
   position: image_left
