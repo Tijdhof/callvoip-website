@@ -130,6 +130,8 @@ searchtags:
 - calculator
 - kosten
 - berekenen
+- prijzen
+- prijs
 aliases: "/calc"
 
 ---
