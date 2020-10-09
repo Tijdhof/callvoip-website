@@ -41,7 +41,7 @@ textblocksfooter:
     om te bellen in hun eigen land. En dan hoeven de toestellen die rinkelen heus
     niet daar te staan. Wel is in veel gevallen een adres in het buitenland nodig
     om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
-    waar jij een nummer wenst.<br><br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
+    waar jij een nummer wenst.<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
     informatie</a>
 textblocks:
 - title1: Servicenummers
