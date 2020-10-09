@@ -132,6 +132,8 @@ searchtags:
 - berekenen
 - prijzen
 - prijs
+- tarieven
+- tarief
 aliases: "/calc"
 
 ---
