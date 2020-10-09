@@ -34,7 +34,7 @@ textblocksfooter:
     actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
     nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
     actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
-    passender. Voor callcenters bijvoorbeeld kun je denken aan een 0800 of 0900 servicenummer
+    passender.
     <br><br><a href="/telefonie/nederlandse-nummers/" class="button">Meer informatie</a>
   title2: Internationaal
   content2: Is jouw bedrijf ook internationaal actief? Bied jouw klanten een nummer
