@@ -46,7 +46,7 @@ footer:
   image: "/v1600956804/callcenter_hzyepj.png"
   zooming: true
   position: image_left
-  title: <div id="service">Servicenummers</div>
+  title: '<div id="service">Servicenummers</div>'
   image_position: center
 
 ---
