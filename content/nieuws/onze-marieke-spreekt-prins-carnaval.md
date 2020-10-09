@@ -4,7 +4,7 @@ description: 'Wij zorgen voor een ongestoord carnavalsfeest! '
 images:
 - "/v1582100056/carnaval_youtube_q5b45m.png"
 featured: false
-hideinsearch: false
+hideinsearch: true
 hideingoogle: false
 hidesocialshare: false
 image_uitgelicht: "/v1582100056/carnaval_youtube_q5b45m.png"
