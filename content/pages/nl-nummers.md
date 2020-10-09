@@ -36,13 +36,8 @@ description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, servic
 layout: default2
 aliases: "/nlnummers"
 textblocksfooter:
-- title1: '<div id="service">088 en servicenummers 0800/0900</div>'
-  content1: 'De Autoriteit Consument & Markt (ACM) kent op aanvraag ook nummers toe.
-    Nummers die alleen via ACM aan te vragen zijn zijn servicenummers 0800/0900 en
-    een 088 blok (altijd 100 nummers). Wanneer de aanvraag bij ACM rond is, ontvang
-    je een beschikking waarmee je bij ons de nummers in de centrale kunt activeren.
-    Dit soort nummers kent dus 2 kostenposten: die van de nummers bij de ACM en die
-    van gebruik bij Callvoip.'
+- title1: '<div id="service">Servicenummers/div>'
+  content1: 'Servicenummers, ook wel informatienummers genoemd, zijn er in 2 soorten: 0800 en 0900. Je vraagt ze aan bij de ACM waarna wij ze in de centrale kunnen gebruiken, net als een 088 blok. Dit type nummers wordt bijvoorbeeld veel gebruikt bij grotere klantenservices of callcenters.'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/callcenter_hzyepj.png">
   show_vshape: false
