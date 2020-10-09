@@ -16,7 +16,7 @@ searchtags:
 ---
 Hier vindt u een overzicht van de gesprekskosten van Callvoip. Bij Callvoip betaalt u een vast laag tarief voor uw belminuten. Naast de abonnementskosten kunt u ook veel besparen op uw beltarieven, zowel nationaal als internationaal. Alle gesprekken worden gefactureerd per seconde, ook de eerste minuut. Medewerkers bellen onderling gratis, ook bij meerdere vestigingen.
 
-<a href="/offerte/" class="button">Vraag hier een offerte aan!</a>
+<a href="/klantworden/" class="button">Klant worden?</a>
 
 <br>
 
