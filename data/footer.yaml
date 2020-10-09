@@ -31,11 +31,11 @@ blocks:
       - title: VoIP Trunk
         url: /oplossingen/trunk/
       - title: Vast Mobiel integratie
-        url: /telefonie/vastmobielintegratie/
+        url: /telefonie/vastmobiel/
       - title: Click-to-Dial
         url: /telefonie/clicktodial/
       - title: Software integratie
-        url: /telefonie/integratiemetcrm/
+        url: /telefonie/integratie/
       - title: Videobellen
         url: /yealinkmeeting/
   - title: Alles over...
@@ -61,9 +61,9 @@ blocks:
       - title: Branche oplossingen
         url: /oplossingen/branches/
       - title: Software integratie
-        url: /telefonie/integratiemetcrm/
+        url: /telefonie/integratie/
       - title: Vast Mobiel integratie
-        url: /telefonie/functionaliteiten/vamos/
+        url: /telefonie/vastmobiel/
   - title: Kenniscentrum
     links:
       - title: Status
