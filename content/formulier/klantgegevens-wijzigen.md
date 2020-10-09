@@ -41,8 +41,6 @@ _Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgeg
 
 {{< form/input "Bedrijfsnaam (facturatie)" >}}
 
-{{< form/input "Contactpersoon (facturatie)" >}}
-
 {{< form/select "Aanhef (facturatie)" >}}
 
 {{< form/option "Heer" >}}
@@ -50,6 +48,8 @@ _Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgeg
 {{< form/option "Mevrouw" >}}
 
 {{</ form/select >}}
+
+{{< form/input "Contactpersoon (facturatie)" >}}
 
 {{< form/input "Adres (facturatie)" >}}
 
