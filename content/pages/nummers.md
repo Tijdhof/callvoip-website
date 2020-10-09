@@ -45,7 +45,7 @@ textblocksfooter:
     informatie</a>
 textblocks:
 - title1: Servicenummers
-  content1: 'Servicenummers, ook wel informatienummers genoemd, zijn er in 2 soorten: 0800 en 0900. Je vraagt ze aan bij de ACM waarna wij ze in de centrale kunnen gebruiken, net als een 088 blok. Dit type nummers wordt bijvoorbeeld veel gebruikt bij grotere klantenservices of callcenters.<br><br><a href="/telefonie/nederlandse-nummers/" class="button">Meer informatie</a>'
+  content1: 'Servicenummers, ook wel informatienummers genoemd, zijn er in 2 soorten: 0800 en 0900. Je vraagt ze aan bij de ACM waarna wij ze in de centrale kunnen gebruiken, net als een 088 blok. Dit type nummers wordt bijvoorbeeld veel gebruikt bij grotere klantenservices of callcenters.<br><br><a href="/telefonie/nederlandse-nummers/#service" class="button">Meer informatie</a>'
   title2: Mobiele nummers met SIM
   content2: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
     kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
