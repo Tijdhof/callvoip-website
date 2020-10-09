@@ -21,7 +21,7 @@
       <div class="flex-1">
       {{ $title := .title }}
       {{ with $title }}
-      <h2 class="text-3xl xl:text-3xl font-medium  mb-2 xxl:mb-6 leading-tight">{{ . }}</h2>
+      <h2 class="text-3xl xl:text-3xl font-medium  mb-2 xxl:mb-6 leading-tight">{{ . | markdownify }}</h2>
       {{ end }}
       {{ with .content }}
       <div class="lg:text-lg xl:text-xl mb-4 leading-loose user-content ">
