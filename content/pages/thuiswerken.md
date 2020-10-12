@@ -37,7 +37,7 @@ textblocksfooter:
     om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
     waar jij een nummer wenst.<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
     informatie</a>'
-  title3: '
+  title3: 'hallo'
   content3: 'hallo daar<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer informatie</a>
 hideinsearch: true
 hideingoogle: true
