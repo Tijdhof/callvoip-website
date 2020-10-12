@@ -9,9 +9,9 @@ url: telefonie/thuiswerken/
 hero:
   title: Alles over thuiswerken
   content: |-
-    Vroeger werkte de meerderheid van de mensen op één locatie. Die tijden zijn inmiddels natuurlijk al lang voorbij en thuiswerken hoort er in veel beroepsgroepen gewoon bij.
+    'Vroeger werkte de meerderheid van de mensen op één locatie. Die tijden zijn inmiddels natuurlijk al lang voorbij en thuiswerken hoort er in veel beroepsgroepen gewoon bij.
     Maar hoe zorg je ervoor dat je zakelijke vaste nummer ook op al die locaties bereikbaar is? Wij hebben daar natuurlijk een aantal slimme oplossingen voor, zodat jouw werk
-    overal kan, inclusief zakelijk bellen.
+    overal kan, inclusief zakelijk bellen.'
   image: "/v1600956363/nummer_hcbd5s.png"
   zooming: true
   image_position: center
@@ -22,7 +22,7 @@ blocks:
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
-  title: 'De standaard '
+  title: 'De standaard'
   image_position: center
 textblocksfooter:
 - title1: Regionaal of landelijk
