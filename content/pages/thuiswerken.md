@@ -40,7 +40,6 @@ textblocksfooter:
   title3: hallo
   content3: hallo daar<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
     informatie</a>
-images: []
 hideinsearch: true
 hideingoogle: true
 hidesocialshare: true
