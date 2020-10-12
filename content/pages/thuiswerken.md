@@ -42,16 +42,8 @@ textblocksfooter:
     om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
     waar jij een nummer wenst.<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
     informatie</a>
-textblocks:
-- title1: Servicenummers
-  content1: 'Servicenummers, ook wel informatienummers genoemd, zijn er in 2 soorten: 0800 en 0900. Je vraagt ze aan bij de ACM waarna wij ze in de centrale kunnen gebruiken, net als een 088 blok. Dit type nummers wordt bijvoorbeeld veel gebruikt bij grotere klantenservices of callcenters.<br><br><a href="/telefonie/nederlandse-nummers/#service" class="button">Meer informatie</a>'
-  title2: Mobiele nummers met SIM
-  content2: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
-    kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
-    dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
-    onze centrale voor maximale bereikbaarheid.<br><br><a href="/telefonie/functionaliteiten/vamos/"
-    class="button">Meer informatie</a>
-  show_vshape: false
+  title3: hallo
+  content3: hallo daar
 images: []
 hideinsearch: true
 hideingoogle: true
