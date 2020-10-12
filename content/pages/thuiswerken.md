@@ -8,36 +8,48 @@ logos: false
 url: telefonie/thuiswerken/
 hero:
   title: Alles over thuiswerken
-  content: 'Vroeger werkte de meerderheid van de mensen op één locatie. Die tijden zijn inmiddels natuurlijk al lang voorbij en thuiswerken hoort er in veel beroepsgroepen gewoon bij. Maar hoe zorg je ervoor dat je zakelijke vaste nummer ook op al die locaties bereikbaar is? Wij hebben daar natuurlijk een aantal slimme oplossingen voor, zodat jouw werk overal kan, inclusief zakelijk bellen.'
+  content: Vroeger werkte de meerderheid van de mensen op één locatie. Die tijden
+    zijn inmiddels natuurlijk al lang voorbij en thuiswerken hoort er in veel beroepsgroepen
+    gewoon bij. Maar hoe zorg je ervoor dat je zakelijke vaste nummer ook op al die
+    locaties bereikbaar is? Wij hebben daar natuurlijk een aantal slimme oplossingen
+    voor, zodat jouw werk overal kan, inclusief zakelijk bellen.
   image: "/v1600956363/nummer_hcbd5s.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Het leuke aan VoIP telefonie via Callvoip is dat er standaard al erg veel handige dingen voor thuiswerken in ons pakket zitten. We maakten er zelfs <a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/">een lijstje</a> van. Van het meenemen van je toestel naar huis tot een e-mailtje van jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten kun je verwachtingen van bellers perfect managen'
+- content: Het leuke aan VoIP telefonie via Callvoip is dat er standaard al erg veel
+    handige dingen voor thuiswerken in ons pakket zitten. We maakten er zelfs <a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/">een
+    lijstje</a> van. Van het meenemen van je toestel naar huis tot een e-mailtje van
+    jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel
+    is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten
+    kun je verwachtingen van bellers perfect managen
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
-  title: 'De standaard'
+  title: De standaard
   image_position: center
 textblocksfooter:
-- title1: Regionaal of landelijk
-  content1: 'Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
-    actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
-    nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
-    actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
-    passender.
-    <br><br><a href="/telefonie/nederlandse-nummers/" class="button">Meer informatie</a>'
-  title2: Internationaal
-  content2: 'Is jouw bedrijf ook internationaal actief? Bied jouw klanten een nummer
-    om te bellen in hun eigen land. En dan hoeven de toestellen die rinkelen heus
-    niet daar te staan. Wel is in veel gevallen een adres in het buitenland nodig
-    om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
-    waar jij een nummer wenst.<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
-    informatie</a>'
-  title3: 'hallo'
-  content3: 'hallo daar<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer informatie</a>'
+- title1: 'Wat is dat: Qaller Plus app?'
+  content1: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
+    tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
+    en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
+    en zie of ze in gesprek zijn. <br><br><a href="/telefonie/qaller/" class="button">Meer
+    informatie</a>
+  title2: 'Wat is dat: de E-mail app?'
+  content2: Zou het niet handig zijn om even een mailtje te krijgen van bellers die
+    een bepaald punt in jouw belroute passeren? Met wat basisgegevens als het nummer,
+    de tijd/datum en het gebelde nummer. Heb je altijd de gegevens bij de hand en
+    kun je terugbellen. En dat gewoon inbegrepen in het standaard pakket.<br><br><a
+    href="/telefonie/functionaliteiten/e-mail/" class="button">Meer informatie</a>
+  title3: 'Hoe werkt dat: mijn toestel thuis?'
+  content3: 'Een VoIP toestel heeft een aantal zaken nodig om te kunnen bellen. In
+    het toestel zelf moeten wat gegevens voor onze centrale maar verder zijn er maar
+    2 dingen nodig: stroom en internet. En dat heeft iedereen thuis ook! Dus gooi
+    dat ding in een tas, en neem hem mee naar huis. Bellen met het gemak van kantoor.  <br><br><a
+    href="/telefonie/functionaliteiten/toestelconfiguratie/" class="button">Meer informatie</a>'
 hideinsearch: true
 hideingoogle: true
 hidesocialshare: true
+
 ---
