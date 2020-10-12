@@ -42,7 +42,7 @@ textblocksfooter:
     de tijd/datum en het gebelde nummer. Heb je altijd de gegevens bij de hand en
     kun je terugbellen. En dat gewoon inbegrepen in het standaard pakket.<br><br><a
     href="/telefonie/functionaliteiten/e-mail/" class="button">Meer informatie</a>
-  title3: 'Hoe werkt dat: een toestel thuis?'
+  title3: Hoe werkt een toestel thuis?
   content3: 'Een VoIP toestel heeft een aantal zaken nodig om te kunnen bellen. In
     het toestel zelf moeten wat gegevens voor onze centrale maar verder zijn er maar
     2 dingen nodig: stroom en internet. En dat heeft iedereen thuis ook! Dus gooi
