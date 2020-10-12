@@ -17,7 +17,7 @@ let colors = {
   'amber': '#9f0100',
   'darkgreen': '#035837',
   'yellow': '#fcb603',
-  'black': '#000000'
+  'black': '#000000',
   'oranger': '#f78503'
 }
 
