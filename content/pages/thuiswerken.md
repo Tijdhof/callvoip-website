@@ -9,23 +9,20 @@ url: telefonie/thuiswerken/
 hero:
   title: Alles over thuiswerken
   content: |-
-    Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
-    Heb je al een nummer? Dan zorgen we voor een probleemloze overstap met nummerbehoud, zodat je altijd bereikbaar blijft.<br><br><a href="/overstappen" class="button">Overstappen naar Callvoip</a>
+    Vroeger werkte de meerderheid van de mensen op één locatie. Die tijden zijn inmiddels natuurlijk al lang voorbij en thuiswerken hoort er in veel beroepsgroepen gewoon bij.
+    Maar hoe zorg je ervoor dat je zakelijke vaste nummer ook op al die locaties bereikbaar is? Wij hebben daar natuurlijk een aantal slimme oplossingen voor, zodat jouw werk
+    overal kan, inclusief zakelijk bellen.
   image: "/v1600956363/nummer_hcbd5s.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Alle soorten telefoonnummers die je kunt bedenken, hebben we. Natuurlijk
-    regionale nummers zoals 050, 020. Maar ook landelijk (085). Ben je ook actief
-    in andere landen? Geen probleem want ook internationale nummers zijn mogelijk.
-    Ook een SIM kaart met 06 nummer in combinatie met onze VaMos vast mobiel oplossing
-    behoort tot de mogelijkheden. Net als 0800 en 0900 servicenummers. Kortom: ontelbaar
-    veel nummers :-)'
+- content: 
+  'Het leuke aan VoIP telefonie via Callvoip is dat er standaard al erg veel handige dingen voor thuiswerken in ons pakket zitten. We maakten er zelfs <a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/">een lijstje</a> van. Van het meenemen van je toestel naar huis tot een e-mailtje van jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten kun je verwachtingen van bellers perfect managen'
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
-  title: 'Alle soorten nummers '
+  title: 'De standaard '
   image_position: center
 textblocksfooter:
 - title1: Regionaal of landelijk
