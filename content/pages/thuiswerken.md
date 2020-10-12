@@ -24,7 +24,7 @@ blocks:
     jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel
     is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten
     kun je verwachtingen van bellers perfect managen
-  image: "/v1600956804/phonenumber_rfynzr.png"
+  image: "/v1602514591/pappathuis_e4husn.png"
   zooming: true
   position: image_left
   title: De standaard
@@ -34,7 +34,7 @@ textblocksfooter:
   content1: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
     tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
     en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
-    en zie of ze in gesprek zijn. <br><br><a href="/telefonie/qaller/" class="button">Meer
+    en zie of ze in gesprek zijn. <br><br><br><a href="/telefonie/qaller/" class="button">Meer
     informatie</a>
   title2: 'Wat is dat: de E-mail app?'
   content2: Zou het niet handig zijn om even een mailtje te krijgen van bellers die
