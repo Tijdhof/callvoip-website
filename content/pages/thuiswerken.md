@@ -13,7 +13,7 @@ hero:
     gewoon bij. Maar hoe zorg je ervoor dat je zakelijke vaste nummer ook op al die
     locaties bereikbaar is? Wij hebben daar natuurlijk een aantal slimme oplossingen
     voor, zodat jouw werk overal kan, inclusief zakelijk bellen.
-  image: "/v1600956363/nummer_hcbd5s.png"
+  image: "/v1602514226/hollandshuis_y13wm6.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
