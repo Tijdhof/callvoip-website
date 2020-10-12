@@ -14,8 +14,8 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Klant worden?
+    link: "/klantworden/"
 blocks:
 - content: |-
     Er zijn verschillende toepassingsmogelijkheden. Denk hierbij aan notificatie van alle of alleen de gemiste gesprekken. Ook kunt u analyseren hoeveel van de bellers wel/niet een voicemailbericht achterlaten. U kunt u de beller gemakkelijk de mogelijkheid bieden om te worden teruggebeld. In een keuzemenu plaatst u dan deze functionaliteit en als de beller bijvoorbeeld een 1 toetst wordt het telefoonnummer naar uw e-mail toegestuurd.<br><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/email-app/" class="button">Hoe werkt het?</a>
