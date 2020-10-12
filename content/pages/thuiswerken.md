@@ -14,8 +14,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 
-  'Het leuke aan VoIP telefonie via Callvoip is dat er standaard al erg veel handige dingen voor thuiswerken in ons pakket zitten. We maakten er zelfs <a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/">een lijstje</a> van. Van het meenemen van je toestel naar huis tot een e-mailtje van jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten kun je verwachtingen van bellers perfect managen'
+- content: 'Het leuke aan VoIP telefonie via Callvoip is dat er standaard al erg veel handige dingen voor thuiswerken in ons pakket zitten. We maakten er zelfs <a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/">een lijstje</a> van. Van het meenemen van je toestel naar huis tot een e-mailtje van jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten kun je verwachtingen van bellers perfect managen'
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
@@ -37,7 +36,7 @@ textblocksfooter:
     waar jij een nummer wenst.<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
     informatie</a>'
   title3: 'hallo'
-  content3: 'hallo daar<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer informatie</a>
+  content3: 'hallo daar<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer informatie</a>'
 hideinsearch: true
 hideingoogle: true
 hidesocialshare: true
