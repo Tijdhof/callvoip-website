@@ -48,8 +48,8 @@ textblocksfooter:
     2 dingen nodig: stroom en internet. En dat heeft iedereen thuis ook! Dus gooi
     dat ding in een tas, en neem hem mee naar huis. Bellen met het gemak van kantoor.  <br><br><a
     href="/telefonie/functionaliteiten/toestelconfiguratie/" class="button">Meer informatie</a>'
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: true
 
 ---
