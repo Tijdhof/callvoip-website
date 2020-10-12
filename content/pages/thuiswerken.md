@@ -43,7 +43,8 @@ textblocksfooter:
     waar jij een nummer wenst.<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
     informatie</a>
   title3: hallo
-  content3: hallo daar
+  content3: hallo daar<br><br><a href="/telefonie/internationale-nummers/" class="button">Meer
+    informatie</a>
 images: []
 hideinsearch: true
 hideingoogle: true
