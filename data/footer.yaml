@@ -51,7 +51,7 @@ blocks:
       - title: Overstappen
         url: /overstappen/
       - title: Thuiswerken
-        url: /thuiswerken/
+        url: /telefonie/thuiswerken/
   - title: Oplossingen
     links:
       - title: Uitgekiende telefonie
