@@ -1,7 +1,8 @@
 ---
 title: Toekomstige communicatie; de top 5 ‘flexibel mobiel verbonden zijn’
 description: ''
-images: []
+images:
+- "/v1602597047/dame_thuis_da1br5.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -14,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: ''
+url: toekomst-zakelijke-telefonie
 contactpersoon: []
 categories: []
 tags: []
