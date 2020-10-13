@@ -16,7 +16,7 @@ hero:
     link: "/klantworden"
 blocks:
 - content: |-
-    Callvoip biedt Advanced Provisioning; een slimme manier om jouw IP-toestel in één keer alle instructies te geven. En elk volgend toestel neemt de instellingen gewoon over. Ook bij het vervangen van een toestel worden eerdere instructies moeiteloos overgenomen. Dus stopt een toestel met dienst; met een reserve toestel en een een pitstop van 2 minuten sta jij weer in de race. <br><br><a href="https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/yealink-t4x-serie-provisioning/" class="button">Hoe werkt het?</a>
+    Callvoip biedt Advanced Provisioning; een slimme manier om jouw IP-toestel in één keer alle instructies te geven. En elk volgend toestel neemt de instellingen gewoon over. Ook bij het vervangen van een toestel worden eerdere instructies moeiteloos overgenomen. Dus stopt een toestel met dienst; met een reserve toestel en een pitstop van 2 minuten sta jij weer in de race. <br><br><a href="https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/yealink-t4x-serie-provisioning/" class="button">Hoe werkt het?</a>
   image: "/v1572861318/blf2_oolvgz.png"
   position: image_left
   title: 'Eén toestel instellen = alles klaar!'
