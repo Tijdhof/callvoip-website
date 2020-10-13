@@ -23,7 +23,7 @@ blocks:
     lijstje</a> van. Van het meenemen van je toestel naar huis tot een e-mailtje van
     jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel
     is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten
-    kun je verwachtingen van bellers perfect managen. <br><br><a href=""/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
+    kun je verwachtingen van bellers perfect managen. <br><br><a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
     class="button">Bekijk onze Thuiswerk Tools</a>
   image: "/v1602514591/pappathuis_e4husn.png"
   zooming: true
