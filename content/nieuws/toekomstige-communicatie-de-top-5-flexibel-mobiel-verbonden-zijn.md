@@ -22,7 +22,9 @@ tags: []
 draft: true
 
 ---
-**![](https://res.cloudinary.com/callvoip/image/upload/v1602597047/dame_thuis_da1br5.png)De wereld is veranderd. Evenals zakelijk communiceren. Drastisch moeten we concluderen. Waar het heen gaat weet alleen de toekomst, maar wij leven nu. En zoals Charles Darwin in een ver verleden al sprak met de woorden: _“It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change”._ Het is nu het moment om je gedegen voor te bereiden op de nabije toekomst. Want deze staat voor je deur voor je er erg in hebt. “Maar we werken toch al massaal thuis en redden ons prima?”; horen wij jullie denken. Klopt, we doen het ook niet zo slecht en zijn meer dan ooit mobiel verbonden. Toch betekent dit vooruitkijkend dat je er als organisatie verstandig aan doet, om wat essentiële zaken alvast te regelen. We sommen ze voor je op in ons lijstje:**
+**![](https://res.cloudinary.com/callvoip/image/upload/v1602597047/dame_thuis_da1br5.png)**_Foto door_ [_Yan_](https://www.pexels.com/nl-nl/@yankrukov?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) _via_ [_Pexels_](https://www.pexels.com/nl-nl/foto/vrouw-laptop-werken-internet-4458421/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+
+**De wereld is veranderd. Evenals zakelijk communiceren. Drastisch moeten we concluderen. Waar het heen gaat weet alleen de toekomst, maar wij leven nu. En zoals Charles Darwin in een ver verleden al sprak met de woorden: _“It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change”._ Het is nu het moment om je gedegen voor te bereiden op de nabije toekomst. Want deze staat voor je deur voor je er erg in hebt. “Maar we werken toch al massaal thuis en redden ons prima?”; horen wij jullie denken. Klopt, we doen het ook niet zo slecht en zijn meer dan ooit mobiel verbonden. Toch betekent dit vooruitkijkend dat je er als organisatie verstandig aan doet, om wat essentiële zaken alvast te regelen. We sommen ze voor je op in ons lijstje:**
 
 ### 1. Flexibiliteit en mobiliteit:
 
