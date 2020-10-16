@@ -49,4 +49,6 @@ footer:
   image_position: center
 
 ---
+<div id="kosten">
 {{< nl-nummers >}}
+</div>
