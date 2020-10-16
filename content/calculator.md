@@ -10,28 +10,28 @@ outputs:
 - JSON
 basic:
 - name: Telefooncentrale
-  description: De Callvoip online telefooncentrale.
+  description: De Callvoip online telefooncentrale
   min: 1
   max: 1
   price_monthly: 7.5
   price_onetime: 15
   required: true
 - name: Telefoonnummer
-  description: Aantal telefoon- en faxnummers.
+  description: Aantal telefoon- en faxnummers
   min: 
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
 - name: Toestelaccounts
-  description: Aantal gebruikers met een vast toestel.
+  description: Aantal gebruikers met een vast toestel
   min: 
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Webcall-accounts
-  description: Aantal gebruikers met browser based bellen.
+  description: Aantal gebruikers met browser based bellen
   min: 
   max: 999
   price_monthly: 4
