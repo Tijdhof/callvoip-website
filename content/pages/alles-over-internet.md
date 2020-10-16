@@ -12,7 +12,7 @@ hero:
     ongehinderd door kunnen wanneer de internetverbinding eruit ligt. Altijd online
     dus, maar ook graag wel beetje snel. Daarom leveren we je alle soorten en maten
     internetverbindingen. ADSL/VDSL, kabel, glasvezel of een professionele 4G oplossing.<br><br><a href="/internet/postcodecheck/" class="button">Postcode Check</a>
-  image: "/v1600956363/happy-woman-with-phone_qxvnhp.png"
+  image: "/v1600956363/internetman_lldgbp.jpg"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
