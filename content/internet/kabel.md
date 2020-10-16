@@ -61,11 +61,11 @@ prijzen:
     footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start (60-om-10)
-      price: '40.00'
+      price: 42.0
     - title: Complete (300-om-40)
-      price: '47.50'
+      price: 49.5
     - title: Max (600-om-50)
-      price: '65.00'
+      price: 65.0
 - title: Ziggo Zakelijk Internet Pro
   content: 'Ziggo Zakelijk Internet Pro is een supersnelle internetverbinding met
     1 vast IP-adres (uitbreidbaar naar 5). Een professionele basis voor je bedrijfsnetwerk.
@@ -79,11 +79,11 @@ prijzen:
     footer: 3 verschillende pakketten om tussen te kiezen
     items:
     - title: Start Pro (60-om-10)
-      price: '60.00'
+      price: 60.0
     - title: Complete Pro (300-om-40)
-      price: '80.00'
+      price: 80.0
     - title: Max Pro (600-om-50)
-      price: '100.00'
+      price: 100.0
 description: Met kabelinternet (Coax) van Ziggo heb je een perfecte basis voor VoIP-telefonie.
   Geen groene kabel? Wij bekijken graag of dit alsnog mogelijk is.
 images: []
@@ -91,6 +91,11 @@ hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
 logos: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 menu:
   main:
     name: Kabelinternet
