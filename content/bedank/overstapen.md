@@ -1,5 +1,5 @@
 ---
-title: Ovrstap aanvraag ontvangen
+title: Overstap aanvraag ontvangen
 url: 'bedank/overstappen'
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
