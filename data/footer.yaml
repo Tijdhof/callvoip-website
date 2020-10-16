@@ -52,20 +52,22 @@ blocks:
         url: /overstappen/
       - title: Thuiswerken
         url: /telefonie/thuiswerken/
+      - title: Internet
+        url: /internet/dsl/
       - title: Branche Oplossingen
         url: /oplossingen/branches/
-  - title: Oplossingen
+  - title: Tarieven
     links:
-      - title: Uitgekiende telefonie
-        url: /telefonie/
-      - title: Zakelijk internet
-        url: /internet/
-      - title: Branche oplossingen
-        url: /oplossingen/branches/
-      - title: Software integratie
-        url: /telefonie/integratie/
-      - title: Vast Mobiel integratie
-        url: /telefonie/vastmobiel/
+      - title: Kosten Calculator
+        url: /calculator/
+      - title: Gesprekskosten
+        url: /telefonie/gesprekskosten/
+      - title: Nederlandse Nummers
+        url: /telefonie/nederlandse-nummers/#kosten
+      - title: Internationale Nummers
+        url: /telefonie/internationale-nummers/#kosten
+      - title: DSL Internet
+        url: /internet/dsl/#kosten
   - title: Kenniscentrum
     links:
       - title: Status
