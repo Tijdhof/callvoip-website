@@ -12,7 +12,7 @@ hero:
     ongehinderd door kunnen wanneer de internetverbinding eruit ligt. Altijd online
     dus, maar ook graag wel beetje snel. Daarom leveren we je alle soorten en maten
     internetverbindingen. ADSL/VDSL, kabel, glasvezel of een professionele 4G oplossing.<br><br><a href="/internet/postcodecheck/" class="button">Postcode Check</a>
-  image: "/v1600956363/nummer_hcbd5s.png"
+  image: "/v1600956363/happy-woman-with-phone_qxvnhp.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -23,7 +23,7 @@ blocks:
     ‘providermodem’ van inferieure kwaliteit. We leveren topapparatuur van FRITZ!
     of Draytek. En ben je ook telefonieklant? Dan heb je lekker 1 aanspreekpunt én
     krijg je een mooie combinatiekorting!'
-  image: "/v1600956804/phonenumber_rfynzr.png"
+  image: "/v1600956804/3926910_ymql8s.jpg"
   zooming: true
   position: image_left
   title: Onze standaard
