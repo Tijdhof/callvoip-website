@@ -32,7 +32,7 @@ basic:
   required: false
 - name: Webcall-accounts
   description: Aantal gebruikers met browser based bellen
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
