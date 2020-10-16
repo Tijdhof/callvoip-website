@@ -54,20 +54,20 @@ blocks:
         url: /telefonie/thuiswerken/
       - title: Internet
         url: /internet/dsl/
-      - title: Branche Oplossingen
+      - title: Branche oplossingen
         url: /oplossingen/branches/
-  - title: Tarieven
+  - title: Onze tarieven
     links:
-      - title: Kosten Calculator
+      - title: Kosten calculator
         url: /calculator/
       - title: Gesprekskosten
         url: /telefonie/gesprekskosten/
-      - title: Nederlandse Nummers
-        url: /telefonie/nederlandse-nummers/#kosten
-      - title: Internationale Nummers
-        url: /telefonie/internationale-nummers/#kosten
-      - title: DSL Internet
-        url: /internet/dsl/#kosten
+      - title: Nederlandse nummers
+        url: /telefonie/nederlandse-nummers
+      - title: Internationale nummers
+        url: /telefonie/internationale-nummers/
+      - title: DSL internet
+        url: /internet/dsl/
   - title: Kenniscentrum
     links:
       - title: Status
