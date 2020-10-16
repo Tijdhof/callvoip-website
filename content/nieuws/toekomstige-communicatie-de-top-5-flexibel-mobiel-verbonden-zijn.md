@@ -19,7 +19,7 @@ url: toekomst-zakelijke-telefonie
 contactpersoon: []
 categories: []
 tags: []
-draft: true
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1602600016/dame_terras_y2agjq.png)
