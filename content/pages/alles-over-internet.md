@@ -44,8 +44,8 @@ textblocks:
   content1: Het best geteste internet volgens Tweakers, al jaren, komt van Ziggo.
     Het snelle netwerk is ook zakelijk een top product. Daarom kun je via Callvoip
     nu ook jouw Ziggo aansluiting regelen. Wel zo handig dat je alleen maar ons hoeft
-    te bellen als iets mis is, toch? En dat zonder hogere kosten!<br><br><br><a href="/internet/kabel/"
-    class="button">Meer informatie</a>
+    te bellen als iets mis is, toch? En dat zonder hogere kosten!<br><br><br><br><a
+    href="/internet/kabel/" class="button">Meer informatie</a>
   title2: 'Wat is dat: 4G oplossing?'
   content2: 'Stel: jouw bedrijf staat op een waanzinnig mooie, landelijke locatie.
     Heerlijk! Maar de snelle kabels van de grote providers lopen niet tot aan jouw
