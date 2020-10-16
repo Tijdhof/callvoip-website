@@ -30,6 +30,13 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
+- name: Webcall-accounts
+  description: Aantal gebruikers met browser based bellen.
+  min: 
+  max: 999
+  price_monthly: 4
+  price_onetime: 5
+  required: false
 - name: Qaller-Plus-accounts
   description: Aantal gebruikers met een mobiele app (Qaller Plus)
   min: 
