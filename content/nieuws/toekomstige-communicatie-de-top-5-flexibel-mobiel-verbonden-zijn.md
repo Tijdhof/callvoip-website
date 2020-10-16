@@ -38,7 +38,9 @@ Door alle werknemers zo uit te rusten dat ze altijd en overal flexibel en mobiel
 
 Ook kun je heel eenvoudig bellers omleiden in de app, zodat belangrijke belletjes altijd worden toegewezen aan beschikbare medewerkers. Waar men zich ook mag bevinden op dat moment. Even een bandje inspreken behoort trouwens ook tot de mogelijkheden, zodat niemand die belt in de kou blijft staan. En wat helemaal te gek is is dat je de boel zo kunt instellen dat niemand je privénummer te zien krijgt, maar juist het vaste nummer van kantoor. Tenslotte kun je zien of een inkomend nummer zakelijk is of privé. Ja hoor, drink maar even een slokje water en ga rustig zitten. Wij snappen ook niet dat jouw organisatie hier nog niet bekend mee was.
 
-> _“Meer dan het verleden interesseert mij de toekomst, want daarin ben ik van plan te leven.” - **Albert Einstein**_
+> _“Meer dan het verleden interesseert mij de toekomst, want daarin ben ik van plan te leven.”_
+>
+> _- **Albert Einstein**_
 
 ### 2. Integratiemogelijkheden
 
