@@ -23,7 +23,7 @@ blocks:
     ‘providermodem’ van inferieure kwaliteit. We leveren topapparatuur van FRITZ!
     of Draytek. En ben je ook telefonieklant? Dan heb je lekker 1 aanspreekpunt én
     krijg je een mooie combinatiekorting!'
-  image: "/v1600956804/internetglobe_pcrkfs.jpg"
+  image: "/v1600956804/400_bvg5r4.jpg"
   zooming: true
   position: image_left
   title: Onze standaard
