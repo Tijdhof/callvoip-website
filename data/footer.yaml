@@ -58,7 +58,7 @@ blocks:
         url: /oplossingen/branches/
   - title: Onze tarieven
     links:
-      - title: Kosten calculator
+      - title: Kostencalculator
         url: /calculator/
       - title: Gesprekskosten
         url: /telefonie/gesprekskosten/
