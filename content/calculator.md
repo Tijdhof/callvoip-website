@@ -18,28 +18,28 @@ basic:
   required: true
 - name: Telefoonnummer
   description: Aantal telefoon- en faxnummers
-  min: 
+  min: 0
   max: 999
   price_monthly: 2
   price_onetime: 15
   required: true
 - name: Toestelaccounts
   description: Aantal gebruikers met een vast toestel
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Webcall-accounts
   description: Aantal gebruikers met browser based bellen
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Qaller-Plus-accounts
   description: Aantal gebruikers met een mobiele app (Qaller Plus)
-  min: 
+  min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
@@ -89,14 +89,14 @@ options:
   items:
   - name: Wachtrij
     description: Heb je veel inkomend telefonieverkeer en wil je elke beller beantwoorden?
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
     required: false
   - name: Keuzemenu
     description: Begeleid de beller meteen naar de juiste persoon en/of afdeling?
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -104,7 +104,7 @@ options:
   - name: Faxbox
     description: Wil je met één van je nummers faxen ontvangen en versturen? Kies
       dan voor een faxbox!
-    min: 
+    min: 0
     max: 999
     price_monthly: 4
     price_onetime: 5
@@ -115,14 +115,14 @@ callrecording:
     op. '
   items:
   - name: Bewaartijd 30 dagen
-    min: 
+    min: 0
     max: 999
     price_monthly: 5
     price_onetime: 5
     required: false
 crm:
 - name: Koppeling CRM-pakket (aantal gebruikers)
-  min: 
+  min: 0
   max: 999
   price_monthly: 5
   price_onetime: 150
