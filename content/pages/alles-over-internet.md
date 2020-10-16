@@ -6,10 +6,9 @@ layout: default2
 logos: false
 url: internet/overzicht/
 hero:
-  title: Alles over nummers
+  title: Alles over internet
   content: |-
-    Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
-    Heb je al een nummer? Dan zorgen we voor een probleemloze overstap met nummerbehoud, zodat je altijd bereikbaar blijft.<br><br><a href="/overstappen" class="button">Overstappen naar Callvoip</a>
+    Zonder internet staat de wereld stil. Wij begrijpen dat een internetverbinding vooral betrouwbaar moet zijn. Er zijn nu eenmaal weinig organisaties meer die ongehinderd door kunnen wanneer de internetverbinding eruit ligt. Altijd online dus, maar ook graag wel beetje snel. Daarom leveren we je alle soorten en maten internetverbindingen. ADSL/VDSL, kabel, glasvezel of een professionele 4G oplossing.
   image: "/v1600956363/nummer_hcbd5s.png"
   zooming: true
   image_position: center
