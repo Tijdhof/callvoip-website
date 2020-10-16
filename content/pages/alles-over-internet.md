@@ -7,8 +7,11 @@ logos: false
 url: internet/overzicht/
 hero:
   title: Alles over internet
-  content: |-
-    Zonder internet staat de wereld stil. Wij begrijpen dat een internetverbinding vooral betrouwbaar moet zijn. Er zijn nu eenmaal weinig organisaties meer die ongehinderd door kunnen wanneer de internetverbinding eruit ligt. Altijd online dus, maar ook graag wel beetje snel. Daarom leveren we je alle soorten en maten internetverbindingen. ADSL/VDSL, kabel, glasvezel of een professionele 4G oplossing.
+  content: Zonder internet staat de wereld stil. Wij begrijpen dat een internetverbinding
+    vooral betrouwbaar moet zijn. Er zijn nu eenmaal weinig organisaties meer die
+    ongehinderd door kunnen wanneer de internetverbinding eruit ligt. Altijd online
+    dus, maar ook graag wel beetje snel. Daarom leveren we je alle soorten en maten
+    internetverbindingen. ADSL/VDSL, kabel, glasvezel of een professionele 4G oplossing.
   image: "/v1600956363/nummer_hcbd5s.png"
   zooming: true
   image_position: center
@@ -41,7 +44,7 @@ textblocks:
   content1: Het best geteste internet volgens Tweakers, al jaren, komt van Ziggo.
     Het snelle netwerk is ook zakelijk een top product. Daarom kun je via Callvoip
     nu ook jouw Ziggo aansluiting regelen. Wel zo handig dat je alleen maar ons hoeft
-    te bellen als iets mis is, toch? En dat zonder hogere kosten!<br><br><a href="/internet/kabel/"
+    te bellen als iets mis is, toch? En dat zonder hogere kosten!<br><br><br><a href="/internet/kabel/"
     class="button">Meer informatie</a>
   title2: 'Wat is dat: 4G oplossing?'
   content2: 'Stel: jouw bedrijf staat op een waanzinnig mooie, landelijke locatie.
