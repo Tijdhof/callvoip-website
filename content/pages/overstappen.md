@@ -36,7 +36,7 @@ double_content:
     background: true
     background_color: "#efefef"
     title: <div id="overstap">JA, vertel mij meer!</div>
-    content: <div><form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8"
+    content: <div><form class="mb-6" name="tourformulier" action="/bedank/overstappen/" accept-charset="UTF-8"
       method="POST" data-netlify="true"><input type="hidden" name="form-name" value="tourformulier"
       /><p class="hidden"> <label>Don’t fill this out if human <input name="bot-field">
       </label> </p><p> <input type="hidden" id="formlayout" name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3"
