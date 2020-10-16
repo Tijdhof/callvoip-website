@@ -1,19 +1,12 @@
 {{ define "main" }}
 <article class="mb-8 md:mb-24">
-  {{$title := .Title }}
-  {{$hero := "/v1566566520/banner_formaat_xqptws.jpg" }}
-  {{ with $hero}}
-  <header class="h-64 md:h-80 xxl:h-96 bg-grey-lightest">
-    <img data-src="{{ $.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto{{.}}"
-      class="h-full w-full cld-responsive" style="object-fit: cover;" alt="{{$title}}" />
-  </header>
-  {{ end }}
   <div class="container px-4 pt-12  {{ if not .Params.hero.image}} {{ end }}">
     <div class="max-w-lg mx-auto">
-      <h1 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">Pagina niet (meer) gevonden</h1>
+      <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1602840494/erro404_ynb1nt.png" width="500px" hieght="500px"></center>
+      <h1 class="text-3xl lg:text-4xl font-medium mb-4 leading-tight">OEPS!</h1>
       <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose">
-        <p>De pagina die u zoekt hebben we helaas niet kunnen vinden. Heeft u vragen, dan kunt u altijd contact met ons
-          opnemen via 050- 820 00 00 of stuur ons een email naar callvoip@callvoip.nl</p>
+        <p>Het lijkt erop dat de pagina waar je naar op zoek bent niet meer via deze link te vinden is.<br>Maar het hoeft hier niet te eindigen!<br>
+          Wellicht hebben we wel het antwoord op de vraag waarmee je hier kwam! Stel je vraag via chat, telefoon of gebruik de zoekfunctie hieronder en we gaan ons best doen! </p>
         <button type="button" class="button-icon chat-button xl:text-lg" id="openChat"><i
             class="fal fa-comments fa-2x mr-4"></i>Vraag een medewerker om hulp</button>
       </div>
