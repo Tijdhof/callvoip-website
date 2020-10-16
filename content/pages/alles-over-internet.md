@@ -4,7 +4,6 @@ description: 'Callvoip levert alle soorten internet: DSL, kabel, glasvezel en 4G
 type: page
 layout: default2
 logos: false
-aliases: "/nummers"
 url: internet/overzicht/
 hero:
   title: Alles over nummers
