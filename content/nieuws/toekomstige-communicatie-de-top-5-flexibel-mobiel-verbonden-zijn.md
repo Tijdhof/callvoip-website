@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 2020-10-19T22:00:00+00:00
-url: toekomst-zakelijke-telefonie
+url: "/nieuws/toekomst-zakelijke-telefonie/"
 contactpersoon: []
 categories: []
 tags: []
