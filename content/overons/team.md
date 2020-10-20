@@ -47,7 +47,7 @@ team:
   function: Support
   name: Tom Ravesloot
   linkedin: ''
-  image: ''
+  image: "/v1603205075/tom_yqm9df.png"
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
