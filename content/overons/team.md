@@ -60,8 +60,8 @@ team:
   linkedin: https://www.linkedin.com/in/timschouwenaar/?locale=nl_NL
   image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
   name: Tim Schouwenaar
-description: 'Maak kennis met het team van Callvoip: Tim, Ralph, Dion, Remco, Lynn,
-  Herman, Marieke & Robert.'
+description: 'Maak kennis met het team van Callvoip: Tim (2x), Tom, Remco, Lynn, Herman,
+  Marieke & Robert.'
 images: []
 hideinsearch: false
 hideingoogle: false
