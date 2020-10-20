@@ -41,9 +41,8 @@ team:
 - content: Dit charmante heerschap is de nieuwste Callvoip-telg. Steekt met zichtbaar
     plezier zijn neus in andermans zaken. Weet dan behendig doch subtiel zijn ‘weldoordachte’
     en brutale visie te ventileren. Ideale eigenschappen als support medewerker. Kleedt
-    zich met cachet zoals overeenkomstige kleurtjes. Heeft een voorliefde voor podcasts
-    en droomt ervan om zijn eigen podcast te lanceren. Kortom, mooie kerel die Tom.
-    Zijn we blij mee.
+    zich met cachet zoals overeenkomstige kleurtjes. Droomt nog van zijn eigen podcast.
+    Kortom, mooie kerel die Tom. Zijn we blij mee.
   function: Support
   name: Tom Ravesloot
   linkedin: ''
