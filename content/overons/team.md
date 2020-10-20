@@ -38,10 +38,16 @@ team:
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
   linkedin: ''
-- content: ''
-  function: ''
-  name: ''
-  linkedin: ''
+- content: Dit charmante heerschap is onze nieuwste Callvoip-telg. Steekt met zichtbaar
+    plezier zijn neus in andermans zaken. Weet er vervolgens behendig doch subtiel
+    zijn ‘weldoordachte’ en brutale visie over te ventileren. Ideale eigenschappen
+    als customer support medewerker. Verder kleedt hij zich met veel cachet als het
+    gaat om overeenkomstige kleurtjes. Heeft een voorliefde voor podcasts en droomt
+    er heimelijk van om ooit zijn eigen podcast te mogen lanceren. Kortom, mooie kerel
+    die Tom. Zijn we blij mee.
+  function: Support
+  name: Tom Ravesloot
+  linkedin: https://www.linkedin.com/in/tomravesloot/
   image: ''
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
