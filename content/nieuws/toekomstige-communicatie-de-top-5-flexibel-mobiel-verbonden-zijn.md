@@ -30,7 +30,7 @@ _Foto door_ [_Andrea Piacquadio_](https://www.pexels.com/nl-nl/@olly) _via_ [_Pe
 
 ### 1. Flexibiliteit en mobiliteit:
 
-Laten we eerlijk zijn; [thuiswerken](https://www.callvoip.nl/telefonie/thuiswerken/) is here to stay. In ieder geval gaan er veel stemmen op om thuiswerken of op kantoor, qua tijdsverdeling naar een 50/50 model te gaan. In de praktijk blijken alle ‘tegens’ het af te leggen tegen alle ‘voors’. Kortom, tegen alle organisaties met kantoren die geen fan zijn van dit voldongen feit; accepteer de nieuwe werkelijkheid en pas je beleid en bedrijfsprocessen eropaan.
+Laten we eerlijk zijn; [thuiswerken](https://www.callvoip.nl/telefonie/thuiswerken/) is here to stay. In ieder geval gaan er veel stemmen op om thuiswerken of op kantoor, qua tijdsverdeling naar een 50/50 model te gaan. In de praktijk blijken alle ‘tegens’ het af te leggen tegen alle ‘voors’. Kortom, tegen alle organisaties met kantoren die geen fan zijn van dit voldongen feit; accepteer de nieuwe werkelijkheid en pas je beleid en bedrijfsprocessen erop aan.
 
 #### “Hoe dan precies?”
 
