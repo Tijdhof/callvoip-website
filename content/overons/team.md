@@ -38,6 +38,11 @@ team:
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
   linkedin: ''
+- content: ''
+  function: ''
+  name: ''
+  linkedin: ''
+  image: ''
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
@@ -55,8 +60,8 @@ team:
 - content: Is breed inzetbaar want heeft veel kennis van marketing maar ook een gezond
     boerenverstand om de techniek met logica te benaderen. Komt op het werk met zo'n
     pedelec waardoor de 58 kilometer door de Groningse polder een eitje wordt met
-    zonder auto. Thuis ook druk met een gezin waar sinds kort ook katten bij horen.
-  function: Support/Marketing
+    zonder auto. Thuis ook druk met een gezin waar ook katten bij horen.
+  function: Marketing, communicatie en support
   linkedin: https://www.linkedin.com/in/timschouwenaar/?locale=nl_NL
   image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
   name: Tim Schouwenaar
