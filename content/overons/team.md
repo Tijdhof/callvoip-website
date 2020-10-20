@@ -46,7 +46,7 @@ team:
     Zijn we blij mee.
   function: Support
   name: Tom Ravesloot
-  linkedin: https://www.linkedin.com/in/tomravesloot/
+  linkedin: ''
   image: ''
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
