@@ -33,7 +33,7 @@ double_content:
     title: <div id="apparatuur">We hebben ook de benodigde apparatuur!</div>
     content: <div>Via onze eigen webshop kunnen we je ook voorzien van een toestel
       voor je bureau, in je magazijn. Maar ook andere netwerkapparatuur. Zo ben je
-      in een keer klaar en houd je één aanspreekpunt voor alles! <a href="callvoip.shop"
+      in een keer klaar en houd je één aanspreekpunt voor alles!<br><br> <a href="callvoip.shop"
       class="button">Bezoek onze webshop</a></div>
 faq:
 - question: De Email-app
@@ -64,15 +64,15 @@ faq:
     Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
     class="button">Lees meer</a>'
 blocks:
-- content: Misschien twijfel je aan een overstap omdat je bang bent je veel werk op
-    de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan.
-    Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag,
-    maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen
-    akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a
-    href="/terugbellen" class="button">Even bellen?</a>
+- content: " \nAls jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
+    niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
+    telefonie via het vaste nummer een plek krijgt op jouw smartphone. \n \n- Gemakkelijke
+    doorschakelingen. \n- Bellen met een app \n- Volledige integratie met een SIM
+    kaart oplossing. \n \nMeer weten? Bel ons of lees verder op onze <a href=\"/telefonie/vastmobiel/\">Alles
+    over Vast Mobiel</a> pagina.\n"
   image: "/v1572861318/laptop_k98xlt.png"
   position: image_right
-  title: Het is allemaal zo geregeld
+  title: Vast Mobiel
   image_position: end
 textblocksfooter:
 - title2: Integratie
@@ -88,11 +88,4 @@ textblocksfooter:
     width="490" height="385">
 
 ---
-**De Callvoip Centrale zelf**
-
-Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op. We lichten een paar veelgebruikte functionaliteiten eruit:
-
-  
 {{< faq >}}
-
-We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. Ben je naar iets gericht op zoek, laat het ons weten of kijk eens op onze [overzichtspagina](https://www.callvoip.nl/telefonie/functionaliteiten/) van alle kunstjes die onze centrale kent.
