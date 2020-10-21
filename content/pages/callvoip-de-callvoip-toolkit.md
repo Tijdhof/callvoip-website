@@ -17,8 +17,8 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: overstappen
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 double_content:
   left:
     title: Waar te beginnen?
@@ -64,15 +64,15 @@ faq:
     Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
     class="button">Lees meer</a>'
 blocks:
-- content: "Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
-    niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
-    telefonie via het vaste nummer een plek krijgt op jouw smartphone. \n \n- Gemakkelijke
-    doorschakelingen. \n- Bellen met een app \n- Volledige integratie met een SIM
-    kaart oplossing. \n \nMeer weten? Bel ons of lees verder op onze Alles over Vast
-    Mobiel pagina"
+- content: Misschien twijfel je aan een overstap omdat je bang bent je veel werk op
+    de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan.
+    Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag,
+    maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen
+    akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a
+    href="/terugbellen" class="button">Even bellen?</a>
   image: "/v1572861318/laptop_k98xlt.png"
   position: image_right
-  title: Vast Mobiel
+  title: Het is allemaal zo geregeld
   image_position: end
 textblocksfooter:
 - title2: Integratie
