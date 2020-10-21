@@ -48,17 +48,16 @@ faq:
     wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als
     de rest van onze centrale. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
     class="button">Lees meer</a>'
-- question: 'Het verhuizen van het nummer: de portering'
-  answer: We vragen aan de hand van jouw gegevens aan jouw huidige provider of we
-    jouw nummer(s) mogen verhuizen. Bij groen licht krijgen wij in feite vrij baan
-    om dit op een door ons gekozen moment te doen. Dit loopt dus parallel aan de inrichting
-    van onze centrale.
-- question: Doe het lekker zelf
-  answer: Wij denken dat onze centrale best wel gebruiksvriendelijk is. Zo gebruiksvriendelijk
-    zelfs dat je helemaal geen telefonie expert hoeft te zijn om bepaalde dingen gewoon
-    zelf te doen. Zeker wanneer we daar bij jouw inrichting rekening mee houden. We
-    denken graag mee! En heb je daar geen zin in of tijd voor? Doen wij het, hoor.
-    ;-)
+- question: Wachtrij
+  answer: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
+    is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
+    wachtende bent. <br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees
+    meer</a>'
+- question: Multiple Caller ID
+  answer: Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk kunt
+    wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple Caller
+    ID<br><br><a href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
+    meer</a>
 - question: Zo! Klaar!
   answer: Nou nee. We laten je niet aan je lot over nu alles in de steigers staat.
     We checken nog even bij je in na de eerste gebruiksperiode om te kijken of we
