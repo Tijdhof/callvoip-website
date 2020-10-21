@@ -37,7 +37,7 @@ double_content:
       class="button">Bezoek onze webshop</a></div>
 faq:
 - question: De Email-app
-  answer: We krijgen allemaal al veel mail. Maar een slim geplaatst e-mail app in
+  answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
     jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
     van het telefoontje, het gebelde nummer en het nummer van de beller. Handig als
     je even terug wilt bellen bijvoorbeeld. <br><br><a href="/telefonie/functionaliteiten/e-mail/"
