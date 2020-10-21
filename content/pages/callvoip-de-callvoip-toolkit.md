@@ -88,4 +88,4 @@ textblocksfooter:
     width="490" height="385">
 
 ---
-{{< faq >}}
+{{< toolkit >}}
