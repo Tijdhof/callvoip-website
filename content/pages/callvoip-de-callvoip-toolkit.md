@@ -21,40 +21,20 @@ hideinsearch: false
 hideingoogle: false
 double_content:
   left:
-    title: Nooit onbereikbaar
-    content: 'De kogel is door de kerk, je gaat overstappen. Maar wat nu? Hoe zou
-      het eruit zien als je naar Callvoip overstapt? <br><br>Het eerste wat je moet
-      weten, als we het je nog niet verteld hebben: er is geen enkel moment dat je
-      niet bereikbaar bent! Het porteren van een nummer doen wij helemaal zelf met
-      1 druk op de knop. Die knop drukken we natuurlijk niet in als we niet zeker
-      weten dat jouw nieuwe dienst helemaal klaar voor de start staat. We kiezen nadat
-      jouw oude provider groen licht heeft gegeven in samenspraak met jou het perfecte
-      moment.<br><br>Alles over overstappen lees je op deze pagina. Van de vaste stappen
-      tot de toestellen. En een klein schot voor de boeg: het is allemaal zo geregeld!'
+    title: Waar te beginnen?
+    content: Het kort omschrijven van alles wat je te bieden hebt is een uitdaging.
+      Zeker als je net als wij best veel moois voor je klanten hebt. :-) Daarom hebben
+      we op deze pagina een overzicht gemaakt waar je in 1 oogopslag een beeld krijgt
+      van telefonie via Callvoip. Ga er maar eens goed voor zitten, want achter het
+      rinkelen van een toestel gaat een hele wereld schuil!
   right:
     background: true
     background_color: "#efefef"
-    title: <div id="overstap">JA, vertel mij meer!</div>
-    content: <div><form class="mb-6" name="tourformulier" action="/bedank/overstappen/"
-      accept-charset="UTF-8" method="POST" data-netlify="true"><input type="hidden"
-      name="form-name" value="tourformulier" /><p class="hidden"> <label>Don’t fill
-      this out if human <input name="bot-field"> </label> </p><p> <input type="hidden"
-      id="formlayout" name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3"
-      class="hidden"> </p><p> <input type="hidden" id="formto" name="formto" value="offerte"
-      class="hidden"> </p><div class="layout-split"><div class="mb-4"> <label for="bedrijfsnaam"
-      class="block">Naam</label> <input type="text" id="naam" name="naam" class="w-full
-      border border-grey-light bg-white px-3 py-2 text-base"></div><div class="mb-4">
-      <label for="email" class="block">Email <span class="text-red">*</span></label>
-      <input type="email" id="email" name="email" class="w-full border border-grey-light
-      bg-white px-3 py-2 text-base" required=""> </div></div><div class="layout-split"><div
-      class="mb-4"> <label for="Organisatie" class="block">Organisatie</label> <input
-      type="text" id="Organisatie" name="Organisatie" class="w-full border border-grey-light
-      bg-white px-3 py-2 text-base"> </div><div class="mb-4"> <label for="Telefoonnummer"
-      class="block">Telefoonnummer</label> <input type="text" id="Telefoonnummer"
-      name="Telefoonnummer" class="w-full border border-grey-light bg-white px-3 py-2
-      text-base"> </div></div><center><br><p> <button type="submit" class="button">Verzenden</button><br></p><p
-      class="mb-6 md:mb-0 text-sm">Je gaat akkoord met het eenmalig contact opnemen
-      ten behoeve van een passend aanbod.</center></p></form></div></div>
+    title: <div id="apparatuur">We hebben ook de benodigde apparatuur!</div>
+    content: <div>Via onze eigen webshop kunnen we je ook voorzien van een toestel
+      voor je bureau, in je magazijn. Maar ook andere netwerkapparatuur. Zo ben je
+      in een keer klaar en houd je één aanspreekpunt voor alles! <a href="callvoip.shop"
+      class="button">Bezoek onze webshop</a></div>
 faq:
 - question: De afspraken
   answer: De aftrap van alle samenwerkingen zijn goede afspraken. Samen met jou stemmen
