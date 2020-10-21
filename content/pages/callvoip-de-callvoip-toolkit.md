@@ -75,13 +75,14 @@ blocks:
   title: Het is allemaal zo geregeld
   image_position: end
 textblocksfooter:
-- title2: Kant en klare toestellen
-  content2: Heb je ook toestellen bij ons aangeschaft? Dan stellen we die helemaal
-    in voor ze jouw kant op komen. Bij aankomst maak je de doos open, doet de stekkers
-    erin en de toestellen en voorinstellingen doen de rest. <br><br>Heb je bestaande
-    toestellen die geschikt zijn voor VoIP? We kunnen je vaak assisteren om deze ook
-    geschikt te maken voor onze dienst.<br><br><a href="/telefonie/functionaliteiten/toestelconfiguratie/"
-    class="button">Alles over toestelconfiguratie</a>
+- title2: Integratie
+  content2: "Zakelijke telefonie anno nu is dus veel meer dan een rinkelend toestel
+    op je bureau, dat is nu wel duidelijk. Maar er is meer! Wij integreren telefonie
+    namelijk met jouw bedrijfsprocessen en CRM. \n \n- Basis integratie: gratis Chrome
+    Extensie met popups telefoongesprekken en meer.\n- CRM lookup: jouw CRM gekoppeld
+    aan onze Chrome Extensie\n- VoIP CTI: Volledige integratie van jouw PC met de
+    telefonie. \n \nMeer weten? Bel ons of lees verder op onze Alles over Integratie
+    pagina."
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/toestellen_hsiapl.png"
     width="490" height="385">
