@@ -1,15 +1,14 @@
 ---
 title: Callvoip - De Callvoip Toolkit
-url: overstappen
+url: toolkit
 type: page
 hero:
   content:
-    title: 'Overstappen: geen gedoe en snel geregeld.'
-    text: Overstappen van telefonie kan spannend zijn. Lees hieronder waarom een overstap
-      naar ons dat helemaal niet is.
+    title: De Callvoip Toolkit
+    text: ''
     align: left
   image: "/v1593769110/overstappen_yivgpm.png"
-  title: Callvoip - Overstappen
+  title: Callvoip - De Toolkit van Callvoip
   disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
