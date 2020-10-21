@@ -33,7 +33,7 @@ double_content:
     title: <div id="apparatuur">We hebben ook de benodigde apparatuur!</div>
     content: <div>Via onze eigen webshop kunnen we je ook voorzien van een toestel
       voor je bureau, in je magazijn. Maar ook andere netwerkapparatuur. Zo ben je
-      in een keer klaar en houd je één aanspreekpunt voor alles!<br><br> <a href="callvoip.shop"
+      in een keer klaar en houd je één aanspreekpunt voor alles!<br><br> <a href="https://callvoip.shop/"
       class="button">Bezoek onze webshop</a></div>
 faq:
 - question: De Email-app
