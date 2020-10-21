@@ -58,12 +58,11 @@ faq:
     wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple Caller
     ID<br><br><a href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
     meer</a>
-- question: Zo! Klaar!
-  answer: Nou nee. We laten je niet aan je lot over nu alles in de steigers staat.
-    We checken nog even bij je in na de eerste gebruiksperiode om te kijken of we
-    alles goed hebben ingericht of dat er door de eerste ervaringen aanpassingen nodig
-    zijn. En als je zelf vragen hebt, zitten we aan de andere kant van jouw nieuwe
-    lijn te wachten om jou te helpen.
+- question: 'Omleidingen '
+  answer: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
+    in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
+    Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
+    class="button">Lees meer</a>'
 blocks:
 - content: Misschien twijfel je aan een overstap omdat je bang bent je veel werk op
     de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan.
@@ -89,4 +88,11 @@ textblocksfooter:
 draft: true
 
 ---
+**De Callvoip Centrale zelf**
+
+Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op. We lichten een paar veelgebruikte functionaliteiten eruit:
+
+  
 {{< faq >}}
+
+We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. Ben je naar iets gericht op zoek, laat het ons weten of kijk eens op onze [overzichtspagina](https://www.callvoip.nl/telefonie/functionaliteiten/) van alle kunstjes die onze centrale kent.
