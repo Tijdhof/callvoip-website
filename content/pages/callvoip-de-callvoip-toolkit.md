@@ -17,8 +17,8 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: overstappen
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 double_content:
   left:
     title: Waar te beginnen?
@@ -64,15 +64,15 @@ faq:
     Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
     class="button">Lees meer</a>'
 blocks:
-- content: Misschien twijfel je aan een overstap omdat je bang bent je veel werk op
-    de hals te halen. Niet gevreesd, het overstappen kan allemaal supersnel gaan.
-    Het gedeelte wat wij organiseren kan in 1 dag rond zijn. We verwerken je aanvraag,
-    maken jouw omgeving aan en vullen deze in samenspraak. Als de oude provider meteen
-    akkoord geeft op de verhuizing van het nummer kunnen we dat aansluitend overzetten.<br><br><a
-    href="/terugbellen" class="button">Even bellen?</a>
+- content: "Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
+    niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
+    telefonie via het vaste nummer een plek krijgt op jouw smartphone. \n \n- Gemakkelijke
+    doorschakelingen. \n- Bellen met een app \n- Volledige integratie met een SIM
+    kaart oplossing. \n \nMeer weten? Bel ons of lees verder op onze Alles over Vast
+    Mobiel pagina"
   image: "/v1572861318/laptop_k98xlt.png"
   position: image_right
-  title: Het is allemaal zo geregeld
+  title: Vast Mobiel
   image_position: end
 textblocksfooter:
 - title2: Integratie
@@ -86,7 +86,6 @@ textblocksfooter:
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/toestellen_hsiapl.png"
     width="490" height="385">
-draft: true
 
 ---
 **De Callvoip Centrale zelf**
