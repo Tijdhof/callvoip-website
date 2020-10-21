@@ -7,7 +7,7 @@ hero:
     title: De Callvoip Toolkit
     text: ''
     align: left
-  image: "/v1603285068/header_toolkit_ulnio5.png"
+  image: "/v1603285629/header_toolkit_wpwpiz.png"
   title: Callvoip - De Toolkit van Callvoip
   disable_image_on_mobile: true
   link: ''
