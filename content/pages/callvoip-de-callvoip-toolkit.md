@@ -36,7 +36,7 @@ double_content:
       in een keer klaar en houd je één aanspreekpunt voor alles!<br><br> <a href="https://callvoip.shop/"
       class="button">Bezoek onze webshop</a></div>
 faq:
-- question: De Email-app
+- question: Email-app
   answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
     jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
     van het telefoontje, het gebelde nummer en het nummer van de beller. Handig als
