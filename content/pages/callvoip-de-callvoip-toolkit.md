@@ -36,21 +36,18 @@ double_content:
       in een keer klaar en houd je één aanspreekpunt voor alles! <a href="callvoip.shop"
       class="button">Bezoek onze webshop</a></div>
 faq:
-- question: De afspraken
-  answer: De aftrap van alle samenwerkingen zijn goede afspraken. Samen met jou stemmen
-    we af wat jouw wensen zijn en wat wij daar voor prachtige oplossingen voor hebben.
-    We vullen samen het aanvraagformulier in en kunnen zonder onduidelijkheid het
-    proces in.
+- question: De Email-app
+  answer: We krijgen allemaal al veel mail. Maar een slim geplaatst e-mail app in
+    jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
+    van het telefoontje, het gebelde nummer en het nummer van de beller. Handig als
+    je even terug wilt bellen bijvoorbeeld. <br><br><a href="/telefonie/functionaliteiten/e-mail/"
+    class="button">Lees meer</a>
   class: active
-- question: De inrichting van jouw telefonie
-  answer: 'Hier komt onze specialiteit om de hoek kijken. Wij vinden het namelijk
-    het allerbelangrijkst dat we jou persoonlijk helpen om alle mogelijkheden van
-    onze centrale te benutten.<br><br>Dus niet: hier is je login en een linkje naar
-    een handleiding en succes ermee! Nee, we nemen je aan de hand en met jouw kennis
-    van je bedrijf en onze kennis van telefonie maken we het best mogelijke belplan
-    met alles erop en eraan.<br><br>We nemen de tijd, zorgen dat alle toestellen klaar
-    zijn voor hun taak binnen onze omgeving en drukken op de Grote Porteer Knop wanneer
-    alles klaar staat.'
+- question: Keuzemenu
+  answer: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
+    wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als
+    de rest van onze centrale. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
+    class="button">Lees meer</a>'
 - question: 'Het verhuizen van het nummer: de portering'
   answer: We vragen aan de hand van jouw gegevens aan jouw huidige provider of we
     jouw nummer(s) mogen verhuizen. Bij groen licht krijgen wij in feite vrij baan
