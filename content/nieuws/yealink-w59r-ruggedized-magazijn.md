@@ -14,8 +14,8 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-10-07T22:00:00.000+00:00
-url: Yealink-Ruggedized-unboxing
+date: 
+url: Yealink-Ruggedized-magazijn
 contactpersoon: []
 categories: []
 tags: []
@@ -23,10 +23,12 @@ type: ''
 draft: true
 
 ---
-Hij is binnen, de nieuwste telg in de DECT familie van één van onze favoriete merken Yealink: de W59R. De R staat voor Ruggedized. Een mooi woord voor dat hij tegen een stootje en een spetter water kan. 
+Daar is Tim weer, met de Yealink Ruggedized handset. Toen we hem net binnen hadden gekregen, vroegen we Tim om hem uit te pakken. En we weten inmiddels hoe dat is afgelopen. (Gemist? [Klik hier](https://www.youtube.com/watch?v=div51k3mweM))
 
-Tim pakte de nieuwe handset uit en nam hem onder de loep. Bekijk de unboxing video van de Yealink W59R hier. 
+Toch hebben we Tim nog eens op pad gestuurd met onze Yealink W59R Ruggedized. Namelijk een magazijn in. Want zeg nou zelf, waar komt zo'n robuuste handset nou beter tot zijn recht dan in een magazijn? 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/div51k3mweM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+Hoe dat allemaal ging, zie je hieronder...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWkrvjJ0XFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 <a href="https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html" class="button">Bestel hem hier!</a>
