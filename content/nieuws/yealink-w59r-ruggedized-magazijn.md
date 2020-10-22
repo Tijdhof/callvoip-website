@@ -30,6 +30,6 @@ Hoe dat allemaal ging, zie je hieronder...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SWkrvjJ0XFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
-Benieuwd wat we nog meer met de Ruggedized van plan zijn? Houd onze website en LinkedIn pagina in de gaten. Want we zijn nog niet klaar ;-)
+Benieuwd wat we nog meer met de Ruggedized van plan zijn? Houd onze website en [LinkedIn ](https://www.linkedin.com/company/callvoip-telefonie/)pagina in de gaten. Want we zijn nog niet klaar ;-)
 
 <a href="https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html" class="button">Bestel hem hier!</a>
