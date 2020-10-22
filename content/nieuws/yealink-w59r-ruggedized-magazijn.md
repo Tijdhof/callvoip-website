@@ -2,7 +2,7 @@
 title: Yealink W59R Ruggedized - Magazijn
 description: ''
 images:
-- "/v1602163561/Screenshot_YT_unbox_n3xsd0.png"
+- "/v1603378852/ruggedized_magazijn_rjjiff.png"
 featured: false
 hideinsearch: true
 hideingoogle: true
@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: Yealink-Ruggedized-magazijn
+url: yealink-ruggedized-magazijn
 contactpersoon: []
 categories: []
 tags: []
