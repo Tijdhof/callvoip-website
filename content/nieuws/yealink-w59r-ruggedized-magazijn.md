@@ -32,4 +32,5 @@ Hoe dat allemaal ging, zie je hieronder...
 
 Benieuwd wat we nog meer met de Ruggedized van plan zijn? Houd onze website en <a href="https://www.linkedin.com/company/callvoip-telefonie/" target="blank">LinkedIn pagina</a> in de gaten. Want we zijn nog niet klaar ;-)
 
-Ook zo'n stevige ruggedized hebben? <a href="https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html" class="button">Bestel hem hier!</a>
+Ook zo'n stevige ruggedized hebben?
+<br><br><a href="https://callvoip.shop/multicell-oplossingen/1053-yealink-w59r-ruggedized-hd-ip-dect-handset.html" class="button">Bestel hem hier!</a>
