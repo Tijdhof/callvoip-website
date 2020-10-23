@@ -4,8 +4,8 @@ description: ''
 images:
 - "/v1603378852/ruggedized_magazijn_rjjiff.png"
 featured: false
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-10-22T22:00:00+00:00
 url: yealink-ruggedized-magazijn
 contactpersoon: []
 categories: []
