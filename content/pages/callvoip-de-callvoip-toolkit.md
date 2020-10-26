@@ -38,7 +38,7 @@ double_content:
 intro:
   title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
-  00 00</a>. Wij maken altijd tijd voor je!
+  00 00</a>. Wij maken altijd tijd voor je!'
 faq:
 - question: Email-app
   answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
