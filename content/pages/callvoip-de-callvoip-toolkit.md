@@ -38,7 +38,7 @@ intro:
   title: Mooi hè?
   content: |2-
 
-    Wij zijn best wel trots op onze systeem en aanbod en hopen dan ook dat je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000" class="button">Bel ons!</a>
+    Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000" class="button">Bel ons!</a>
 faq:
 - question: Keuzemenu
   answer: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
