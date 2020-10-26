@@ -89,7 +89,7 @@ textblocksfooter:
     telefonie. \n \nMeer weten? Bel ons of lees verder op onze <a href=\"/telefonie/integratie/\">Alles
     over Integratie</a> pagina."
   title1: ''
-  content1: "/v1593437505/voipcti_gw0nmk.png"
+  content1: https://res.cloudinary.com/callvoip/image/upload/v1592571848/clicktodial-vegrootglas_omhsqy.png
 
 ---
 {{< toolkit >}}
