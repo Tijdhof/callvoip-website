@@ -15,7 +15,7 @@ description: 'De Callvoip Toolkit: een korte introductie van de vele functionali
   en voordelen van klant zijn of worden bij Callvoip.'
 images:
 - "/v1567165784/icon_hwk0eh.png"
-layout: overstappen
+layout: kit
 hideinsearch: true
 hideingoogle: true
 double_content:
