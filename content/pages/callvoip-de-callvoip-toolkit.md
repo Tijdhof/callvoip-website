@@ -7,7 +7,7 @@ hero:
     title: De Callvoip Toolkit
     text: ''
     align: left
-  image: "/v1603286044/header_toolkit1_uvzdat.png"
+  image: "/v1603706766/header_toolkit_orvj7l.png"
   title: Callvoip - De Toolkit van Callvoip
   disable_image_on_mobile: true
   link: ''
@@ -89,7 +89,7 @@ textblocksfooter:
     telefonie. \n \nMeer weten? Bel ons of lees verder op onze <a href=\"/telefonie/integratie/\">Alles
     over Integratie</a> pagina."
   title1: ''
-  content1: "/v1572861318/cti-small2_bvq2lx.png"
+  content1: "/v1593437505/voipcti_gw0nmk.png"
 
 ---
 {{< toolkit >}}
