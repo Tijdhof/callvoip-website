@@ -35,7 +35,7 @@ double_content:
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
       <a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div>
 intro:
-  title: <div id="formulier">De centrale zelf</div>
+  title: De centrale zelf
   content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
     er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
     er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
