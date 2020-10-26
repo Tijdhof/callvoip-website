@@ -91,8 +91,11 @@ textblocksfooter:
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1592571848/clicktodial-vegrootglas_omhsqy.png">
 intro_top:
-  title: Test
-  content: Test2
+  title: De centrale zelf
+  content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
+    er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
+    er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
+    We lichten een paar veelgebruikte functionaliteiten eruit.
 
 ---
 {{< toolkit >}}
