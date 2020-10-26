@@ -34,7 +34,7 @@ double_content:
       voor je bureau, in je magazijn. Maar ook andere netwerkapparatuur. Zo ben je
       in een keer klaar en houd je één aanspreekpunt voor alles!<br><br> <a href="https://callvoip.shop/"
       class="button">Bezoek onze webshop</a></div>
-intro:
+intro_top:
   title: <div id="formulier">De centrale zelf</div>
   content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
     er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
@@ -89,6 +89,12 @@ textblocksfooter:
     over Integratie</a> pagina."
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1592571848/clicktodial-vegrootglas_omhsqy.png">
+intro:
+  title: <div id="formulier">De centrale zelf</div>
+  content: 'Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
+    er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
+    er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
+    We lichten een paar veelgebruikte functionaliteiten eruit. <a href="https://i.pinimg.com/originals/85/3f/d1/853fd1da10f93090be7c4d2ae742833d.gif" class="button">Klik mij!</a>'
 
 ---
 {{< toolkit >}}
