@@ -36,7 +36,10 @@ double_content:
       class="button">Bezoek onze webshop</a></div>
 intro:
   title: <div id="formulier">De centrale zelf</div>
-  content: 'Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op. We lichten een paar veelgebruikte functionaliteiten eruit.'
+  content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
+    er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
+    er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
+    We lichten een paar veelgebruikte functionaliteiten eruit.
 faq:
 - question: Email-app
   answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
@@ -86,8 +89,7 @@ textblocksfooter:
     telefonie. \n \nMeer weten? Bel ons of lees verder op onze <a href=\"/telefonie/integratie/\">Alles
     over Integratie</a> pagina."
   title1: ''
-  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/toestellen_hsiapl.png"
-    width="490" height="385">
+  content1: "/v1572861318/cti-small2_bvq2lx.png"
 
 ---
 {{< toolkit >}}
