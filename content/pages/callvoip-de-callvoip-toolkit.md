@@ -35,6 +35,10 @@ double_content:
       voor je bureau, in je magazijn. Maar ook andere netwerkapparatuur. Zo ben je
       in een keer klaar en houd je één aanspreekpunt voor alles!<br><br> <a href="https://callvoip.shop/"
       class="button">Bezoek onze webshop</a></div>
+intro:
+  title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
+  content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
+  00 00</a>. Wij maken altijd tijd voor je!
 faq:
 - question: Email-app
   answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
