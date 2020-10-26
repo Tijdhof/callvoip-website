@@ -41,6 +41,16 @@ intro:
     er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
     We lichten een paar veelgebruikte functionaliteiten eruit.
 faq:
+- question: Keuzemenu
+  answer: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
+    wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als
+    de rest van onze centrale. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
+    class="button">Lees meer</a>'
+- question: 'Omleidingen '
+  answer: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
+    in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
+    Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
+    class="button">Lees meer</a>'
 - question: Email-app
   answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
     jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
@@ -48,11 +58,6 @@ faq:
     je even terug wilt bellen bijvoorbeeld. <br><br><a href="/telefonie/functionaliteiten/e-mail/"
     class="button">Lees meer</a>
   class: active
-- question: Keuzemenu
-  answer: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
-    wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als
-    de rest van onze centrale. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
-    class="button">Lees meer</a>'
 - question: Wachtrij
   answer: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
     is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
@@ -63,11 +68,6 @@ faq:
     wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple Caller
     ID<br><br><a href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
     meer</a>
-- question: 'Omleidingen '
-  answer: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
-    in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
-    Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
-    class="button">Lees meer</a>'
 blocks:
 - content: " \nAls jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
     niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
