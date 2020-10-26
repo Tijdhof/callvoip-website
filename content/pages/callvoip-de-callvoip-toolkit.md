@@ -11,9 +11,8 @@ hero:
   title: Callvoip - De Toolkit van Callvoip
   disable_image_on_mobile: true
   link: ''
-description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
-  service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
-  en ontvang binnen 1 dag een uitnodiging.
+description: 'De Callvoip Toolkit: een korte introductie van de vele functionaliteiten
+  en voordelen van klant zijn of worden bij Callvoip.'
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: overstappen
@@ -36,9 +35,10 @@ double_content:
       in een keer klaar en houd je één aanspreekpunt voor alles!<br><br> <a href="https://callvoip.shop/"
       class="button">Bezoek onze webshop</a></div>
 intro:
-  title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
-  content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
-  00 00</a>. Wij maken altijd tijd voor je!'
+  title: <div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>
+  content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel
+    ons nu meteen: <a href="tel:+31508200000">050 - 820 00 00</a>. Wij maken altijd
+    tijd voor je!'
 faq:
 - question: Email-app
   answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
@@ -85,8 +85,8 @@ textblocksfooter:
     namelijk met jouw bedrijfsprocessen en CRM. \n \n- Basis integratie: gratis Chrome
     Extensie met popups telefoongesprekken en meer.\n- CRM lookup: jouw CRM gekoppeld
     aan onze Chrome Extensie\n- VoIP CTI: Volledige integratie van jouw PC met de
-    telefonie. \n \nMeer weten? Bel ons of lees verder op onze Alles over Integratie
-    pagina."
+    telefonie. \n \nMeer weten? Bel ons of lees verder op onze <a href=\"/telefonie/integratie/\">Alles
+    over Integratie</a> pagina."
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/toestellen_hsiapl.png"
     width="490" height="385">
