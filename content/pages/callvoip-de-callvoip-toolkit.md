@@ -35,12 +35,10 @@ double_content:
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
       <a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div>
 intro:
-  title: De centrale zelf
-  content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
-    er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
-    er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
-    We lichten een paar veelgebruikte functionaliteiten eruit.<br><br><a href="google.com"
-    class="button">Button</a>
+  title: Mooi hè?
+  content: |2-
+
+    Wij zijn best wel trots op onze systeem en aanbod en hopen dan ook dat je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000" class="button">Bel ons!</a>
 faq:
 - question: Keuzemenu
   answer: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
