@@ -57,7 +57,6 @@ faq:
     van het telefoontje, het gebelde nummer en het nummer van de beller. Handig als
     je even terug wilt bellen bijvoorbeeld. <br><br><a href="/telefonie/functionaliteiten/e-mail/"
     class="button">Lees meer</a>
-  class: active
 - question: Wachtrij
   answer: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
     is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
