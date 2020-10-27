@@ -33,7 +33,7 @@ double_content:
     content: '<div>Via onze eigen webshop kunnen we je ook voorzien van een toestel
       voor je bureau, in je magazijn. Maar ook een handige headset of netwerkapparatuur.
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
-      <a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div>'
+      <center><a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div></center>'
 usps:
   title: De centrale zelf
   content: 'Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op. We lichten een paar veelgebruikte functionaliteiten eruit. Het kan zijn dat jouw keuzes hierin anders waren. Bij het inrichten van jouw eigen routes helpen we je uiteraard!'
