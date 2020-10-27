@@ -65,11 +65,11 @@ blocks:
 - content: 'Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
     niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
     telefonie via het vaste nummer een plek krijgt op jouw smartphone. 
-    {{< usps >}}  
-    * Gemakkelijke doorschakelingen.
-    * ellen met een app.
-    * Volledige integratie met een SIM kaart oplossing.
-    {{</ usps >}}
+    <ul>  
+    <li>Gemakkelijke doorschakelingen.</li>
+    <li>Bellen met een app.</li>
+    <li>Volledige integratie met een SIM kaart oplossing.</li>
+    </ul>
     Meer weten? Bel ons of lees verder op onze <a href="/telefonie/vastmobiel/">Alles
     over Vast Mobiel</a> pagina.'
   image: "/v1572861318/laptop_k98xlt.png"
