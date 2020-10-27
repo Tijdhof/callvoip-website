@@ -64,9 +64,9 @@ intro:
 blocks:
 - content: 'Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
     niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
-    telefonie via het vaste nummer een plek krijgt op jouw smartphone. \n \n- Gemakkelijke
-    doorschakelingen. \n- Bellen met een app \n- Volledige integratie met een SIM
-    kaart oplossing. \n \nMeer weten? Bel ons of lees verder op onze <a href="/telefonie/vastmobiel/">Alles
+    telefonie via het vaste nummer een plek krijgt op jouw smartphone. Gemakkelijke
+    doorschakelingen. Bellen met een app Volledige integratie met een SIM
+    kaart oplossing. Meer weten? Bel ons of lees verder op onze <a href="/telefonie/vastmobiel/">Alles
     over Vast Mobiel</a> pagina.'
   image: "/v1572861318/laptop_k98xlt.png"
   position: image_right
