@@ -21,29 +21,29 @@ hideingoogle: true
 double_content:
   left:
     title: Waar te beginnen?
-    content: Het kort omschrijven van alles wat je te bieden hebt is een uitdaging.
+    content: 'Het kort omschrijven van alles wat je te bieden hebt is een uitdaging.
       Zeker als je net als wij best veel moois voor je klanten hebt. :-) Daarom hebben
       we op deze pagina een overzicht gemaakt waar je in 1 oogopslag een beeld krijgt
       van telefonie via Callvoip. Ga er maar eens goed voor zitten, want achter het
-      rinkelen van een toestel gaat een hele wereld schuil!
+      rinkelen van een toestel gaat een hele wereld schuil!'
   right:
     background: true
     background_color: "#efefef"
-    title: <div id="apparatuur">We hebben ook alle apparatuur!</div>
-    content: <div>Via onze eigen webshop kunnen we je ook voorzien van een toestel
+    title: '<div id="apparatuur">We hebben ook alle apparatuur!</div>'
+    content: '<div>Via onze eigen webshop kunnen we je ook voorzien van een toestel
       voor je bureau, in je magazijn. Maar ook een handige headset of netwerkapparatuur.
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
-      <a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div>
+      <a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div>'
 usps:
   title: De centrale zelf
   content: 'Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op. We lichten een paar veelgebruikte functionaliteiten eruit. Het kan zijn dat jouw keuzes hierin anders waren. Bij het inrichten van jouw eigen routes helpen we je uiteraard!'
   items:
   - icon: fa-cog
     title: Keuzemenu
-    content: We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als de rest van onze centrale.<br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/" class="button">Lees meer</a>
+    content: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als de rest van onze centrale.<br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/" class="button">Lees meer</a>'
   - icon: fa-exclamation-circle
     title: Omleidingen
-    content: De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel. Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/" class="button">Lees meer</a>
+    content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel. Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/" class="button">Lees meer</a>'
   - icon: fa-heartbeat
     title: Wat heb ik nodig?
     content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
@@ -88,6 +88,7 @@ blocks:
   position: image_right
   title: Vast Mobiel
   image_position: end
+  
 textblocksfooter:
 - title2: Integratie
   content2: "Zakelijke telefonie anno nu is dus veel meer dan een rinkelend toestel
