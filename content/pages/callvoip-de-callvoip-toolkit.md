@@ -34,6 +34,54 @@ double_content:
       voor je bureau, in je magazijn. Maar ook een handige headset of netwerkapparatuur.
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
       <a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div>
+usps:
+  title: Veelgestelde vragen over VoIP
+  content: Callvoip zorgt ervoor dat je bereikbaar bent zoals jij dat wilt. We maken
+    hiervoor gebruik van onze Hosted VoIP oplossing. Maar wat is dat eigenlijk? En
+    hoe betrouwbaar is het?
+  items:
+  - icon: fa-cog
+    title: Hoe werkt VoIP?
+    content: VoIP (Voice over Internet Protocol) staat voor bellen over internet.
+      Waar voorheen ISDN lijnen werden gebruikt, wordt nu een klein gedeelte van de
+      internetverbinding gebruikt voor spraak. Per gesprek wordt ca. 100Kb aan data
+      gebruikt. Een eenvoudige 20 / 2 DSL verbinding is al geschikt voor zo'n 8 -
+      10 gelijktijdige gesprekken.
+  - icon: fa-exclamation-circle
+    title: Is VoIP betrouwbaar?
+    content: Geen internet, geen telefonie? Dat is gelukkig niet het geval, ook zonder
+      internetverbinding kan via de Callvoip hosted centrale worden doorgeschakeld
+      naar een ander (mobiel) nummer. Veel bedrijven kiezen voor een tweede <a href="/internet/postcodecheck/">internetverbinding</a>,
+      dat biedt nog meer zekerheid.
+  - icon: fa-heartbeat
+    title: Wat heb ik nodig?
+    content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
+      Om bereikbaar te zijn is een <a href="/telefonie/telefoonnummers/">telefoonnummer
+      </a>van belang, dit kan een nieuw maar ook een bestaand nummer zijn. Verder
+      kan gekozen worden uit diverse <a href="/pages/webshop/">VoIP apparatuur</a>,
+      hierin adviseren we je graag.
+  - icon: fa-money-bill
+    title: Is mijn apparatuur nog geschikt?
+    content: Standaard inventariseren we welke apparatuur aanwezig is, en of deze
+      nog geschikt en veilig is. Waar mogelijk maken we gebruik van bestaande apparatuur.<BR>Zelfs
+      voor een bestaande telefooncentrale op locatie bieden we een oplossing. Met
+      behulp van een <a href="/oplossingen/trunk/">SIP trunk</a> kan een centrale
+      met bijbehorende toestellen blijven behouden.
+  - icon: fa-wifi
+    title: Welk internet is geschikt?
+    content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
+      <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
+      de kabel</a>. Wij gaan graag voor je aan de slag voor  de beste internetverbinding.<BR>Bij
+      een snelle internetverbinding hoort geschikte apparatuur, wij beschikken over
+      ruime kennis voor een goed advies.
+  - icon: fa-cloud
+    title: Biedt VoIP voldoende functies?
+    content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
+      te missen. Zo zijn zaken als doorverbinden, beschikbaarheidsindicatie op het
+      toestel, voicemail etc. allemaal standaard inbegrepen. Maar ook slimme koppelingen
+      met software en vast mobiel integratie zijn mogelijk.<BR>Bij Callvoip staan
+      de ontwikkelingen nooit stil, zo zullen we binnenkort browser based bellen introduceren.
+
 intro:
   title: Mooi hè?
   content: |2-
