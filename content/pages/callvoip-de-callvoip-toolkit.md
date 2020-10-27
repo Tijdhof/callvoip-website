@@ -75,7 +75,7 @@ usps:
 
 intro:
   title: Mooi hè?
-  content: Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000" class="button">Bel ons!</a>
+  content: 'Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000" class="button">Bel ons!</a>'
 
 blocks:
 - content: 'Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
@@ -99,7 +99,7 @@ textblocksfooter:
     telefonie. Meer weten? Bel ons of lees verder op onze <a href="/telefonie/integratie/">Alles
     over Integratie</a> pagina.'
   title1: ''
-  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1592571848/clicktodial-vegrootglas_omhsqy.png">
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1592571848/clicktodial-vegrootglas_omhsqy.png">'
 
 ---
 {{< toolkit >}}
