@@ -45,26 +45,14 @@ usps:
     title: Omleidingen
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel. Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/" class="button">Lees meer</a>'
   - icon: fa-heartbeat
-    title: Wat heb ik nodig?
-    content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
-      Om bereikbaar te zijn is een <a href="/telefonie/telefoonnummers/">telefoonnummer
-      </a>van belang, dit kan een nieuw maar ook een bestaand nummer zijn. Verder
-      kan gekozen worden uit diverse <a href="/pages/webshop/">VoIP apparatuur</a>,
-      hierin adviseren we je graag.
+    title: Email-app
+    content: 'We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip van het telefoontje, het gebelde nummer en het nummer van de beller. Handig als je even terug wilt bellen bijvoorbeeld.<br><br><a href="/telefonie/functionaliteiten/e-mail/" class="button">Lees meer</a>'
   - icon: fa-money-bill
-    title: Is mijn apparatuur nog geschikt?
-    content: Standaard inventariseren we welke apparatuur aanwezig is, en of deze
-      nog geschikt en veilig is. Waar mogelijk maken we gebruik van bestaande apparatuur.<BR>Zelfs
-      voor een bestaande telefooncentrale op locatie bieden we een oplossing. Met
-      behulp van een <a href="/oplossingen/trunk/">SIP trunk</a> kan een centrale
-      met bijbehorende toestellen blijven behouden.
+    title: Wachtrij
+    content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste wachtende bent.<br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-wifi
-    title: Welk internet is geschikt?
-    content: Praktisch iedere internetverbinding is geschikt. Dit kan zowel <a href="/internet/dsl/">dsl</a>,
-      <a href="/internet/glasvezel/">glasvezel</a> of <a href="/internet/kabel/">via
-      de kabel</a>. Wij gaan graag voor je aan de slag voor  de beste internetverbinding.<BR>Bij
-      een snelle internetverbinding hoort geschikte apparatuur, wij beschikken over
-      ruime kennis voor een goed advies.
+    title: Multiple Caller ID
+    content: 'Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk kunt wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple Caller ID<br><br><a href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees meer</a>'
   - icon: fa-cloud
     title: Biedt VoIP voldoende functies?
     content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
