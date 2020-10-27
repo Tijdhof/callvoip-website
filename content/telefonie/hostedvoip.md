@@ -13,11 +13,12 @@ hero:
     om de bereikbaarheid van onze klanten te optimaliseren.<BR><BR>We staan voor je
     klaar!
   button:
-    content: Met eigen ogen zien?
-    link: "/tour"
+    content: Ook klant worden?
+    link: "/klantworden/"
   image: "/v1574088232/hostedvoip_u8trwp.png"
   image_position: start
   disable_image_on_mobile: false
+  mobile: ''
 blocks:
 - content: Een belangrijke basis bij ons is het belplan, hiermee bepaal je hoe en
     wanneer je bereikbaar bent. Dit belplan is zo ontwikkeld dat iedereen dit zelf
@@ -33,8 +34,8 @@ blocks:
 - content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
     vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
     toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller,</a>
-    of <a href="/telefonie/functionaliteiten/vamos/">Vamos</a> (volledige vast- en mobiele integratie).<BR><BR>
-    <a href="/offerte" class="button">Offerte aanvragen</a>'
+    of <a href="/telefonie/functionaliteiten/vamos/">Vamos</a> (volledige vast- en
+    mobiele integratie).<BR><BR> <a href="/offerte" class="button">Offerte aanvragen</a>'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
   title: Upgrade je smartphone naar IP toestel
@@ -105,11 +106,11 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Abonnement
-      price: '7.50'
+      price: 7.5
     - title: Telefoonnummer (1x)
-      price: '2.00'
+      price: 2.0
     - title: Toestelaccount (1x)
-      price: '4.00'
+      price: 4.0
 - title: MKB
   content: 10 medewerkers met allemaal een eigen telefoonnummer en toestel. 5 medewerkers
     moeten ook mobiel kunnen uitbellen met het zakelijke nummer. Verder is de wens
@@ -122,15 +123,15 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Abonnement
-      price: '7.50'
+      price: 7.5
     - title: Telefoonnummer (10x)
-      price: '20.00'
+      price: 20.0
     - title: Toestelaccount (10x)
-      price: '40.00'
+      price: 40.0
     - title: Qaller (5x)
-      price: '20.00'
+      price: 20.0
     - title: Keuzemenu (1x)
-      price: '4.00'
+      price: 4.0
 - title: Eigen telefooncentrale
   content: 'Beheer van eigen telefooncentrale via onze trunkoplossing met 10 gesprekskanalen.
     Allemaal bereikbaar onder één nummer. '
@@ -142,22 +143,27 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Basis Trunk
-      price: '10.00'
+      price: 10.0
     - title: Telefoonnummer
-      price: '2.00'
+      price: 2.0
     - title: Extra kanalen (6x)
-      price: '15.00'
+      price: 15.0
 description: Ontdek de volgende fase in hosted voip. Slim bereikbaar vanuit de cloud,
   wanneer en waar je wilt. Bekijk alle mogelijkheden en onze interessante abonnementen.
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 menu:
   main:
     weight: 1
     parent: Telefonie
-    pre: 'De meest moderne online telefooncentrale in de wereld'
+    pre: De meest moderne online telefooncentrale in de wereld
     post: fa-cloud
 
 ---
