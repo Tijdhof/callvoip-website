@@ -54,7 +54,8 @@ usps:
     title: Omleidingen
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
-      Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
+      Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
+      bureau. Handig en flexibel!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
   - icon: fa-heartbeat
     title: Email-app
@@ -67,21 +68,22 @@ usps:
     title: Wachtrij
     content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
       is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
-      wachtende bent.<br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees
+      wachtende bent. Verdeel de druk van een veelgebeld nummer en zorg voor effectieve
+      afhandeling. <br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees
       meer</a>'
   - icon: fa-wifi
     title: Multiple Caller ID
     content: Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk
       kunt wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple
-      Caller ID<br><br><a href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/"
-      class="button">Lees meer</a>
+      Caller ID. Switchen kan op je vaste toestel, maar ook met onze app. <br><br><a
+      href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
+      meer</a>
   - icon: fa-cloud
     title: Mis je iets?
     content: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
-      kunt maken. Weten wat er nog meer mogelijk is? Kijk eens op onze overzichtspagina
-      van alle kunstjes die onze centrale kent.<br><br><a href="/telefonie/functionaliteiten/"
-      class="button">Lees meer</a>
+      kunt maken. Weten wat er nog meer mogelijk is? <br><br><a href="/telefonie/functionaliteiten/"
+      class="button">Check het overzicht</a>
 intro:
   title: Mooi hè?
   content: 'Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat
