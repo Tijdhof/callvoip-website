@@ -54,12 +54,8 @@ usps:
     title: Multiple Caller ID
     content: 'Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk kunt wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple Caller ID<br><br><a href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees meer</a>'
   - icon: fa-cloud
-    title: Biedt VoIP voldoende functies?
-    content: Bij Callvoip hoef je geen enkele <a href="/telefonie/functionaliteiten/">functionaliteit</a>
-      te missen. Zo zijn zaken als doorverbinden, beschikbaarheidsindicatie op het
-      toestel, voicemail etc. allemaal standaard inbegrepen. Maar ook slimme koppelingen
-      met software en vast mobiel integratie zijn mogelijk.<BR>Bij Callvoip staan
-      de ontwikkelingen nooit stil, zo zullen we binnenkort browser based bellen introduceren.
+    title: Mis je iets?
+    content: 'We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen je om samen jouw eigen centrale in te richten, zodat je een vliegende start kunt maken. Weten wat er nog meer mogelijk is? Kijk eens op onze overzichtspagina van alle kunstjes die onze centrale kent.<br><br><a href="/telefonie/functionaliteiten/" class="button">Lees meer</a>'
 
 intro:
   title: Mooi hè?
@@ -90,4 +86,3 @@ textblocksfooter:
   content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1592571848/clicktodial-vegrootglas_omhsqy.png">'
 
 ---
-{{< toolkit >}}
