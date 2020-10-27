@@ -35,24 +35,15 @@ double_content:
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
       <a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div>
 usps:
-  title: Veelgestelde vragen over VoIP
-  content: Callvoip zorgt ervoor dat je bereikbaar bent zoals jij dat wilt. We maken
-    hiervoor gebruik van onze Hosted VoIP oplossing. Maar wat is dat eigenlijk? En
-    hoe betrouwbaar is het?
+  title: De centrale zelf
+  content: 'Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op. We lichten een paar veelgebruikte functionaliteiten eruit. Het kan zijn dat jouw keuzes hierin anders waren. Bij het inrichten van jouw eigen routes helpen we je uiteraard!'
   items:
   - icon: fa-cog
-    title: Hoe werkt VoIP?
-    content: VoIP (Voice over Internet Protocol) staat voor bellen over internet.
-      Waar voorheen ISDN lijnen werden gebruikt, wordt nu een klein gedeelte van de
-      internetverbinding gebruikt voor spraak. Per gesprek wordt ca. 100Kb aan data
-      gebruikt. Een eenvoudige 20 / 2 DSL verbinding is al geschikt voor zo'n 8 -
-      10 gelijktijdige gesprekken.
+    title: Keuzemenu
+    content: We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als de rest van onze centrale.<br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/" class="button">Lees meer</a>
   - icon: fa-exclamation-circle
-    title: Is VoIP betrouwbaar?
-    content: Geen internet, geen telefonie? Dat is gelukkig niet het geval, ook zonder
-      internetverbinding kan via de Callvoip hosted centrale worden doorgeschakeld
-      naar een ander (mobiel) nummer. Veel bedrijven kiezen voor een tweede <a href="/internet/postcodecheck/">internetverbinding</a>,
-      dat biedt nog meer zekerheid.
+    title: Omleidingen
+    content: De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel. Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/" class="button">Lees meer</a>
   - icon: fa-heartbeat
     title: Wat heb ik nodig?
     content: De basis voor VoIP is internet, een internetverbinding is dan ook essentieel.
@@ -84,36 +75,8 @@ usps:
 
 intro:
   title: Mooi hè?
-  content: |2-
+  content: Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000" class="button">Bel ons!</a>
 
-    Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000" class="button">Bel ons!</a>
-faq:
-- question: Keuzemenu
-  answer: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
-    wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel als
-    de rest van onze centrale. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
-    class="button">Lees meer</a>'
-- question: 'Omleidingen '
-  answer: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
-    in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
-    Of een storingsbandje.<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
-    class="button">Lees meer</a>'
-- question: Email-app
-  answer: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app in
-    jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
-    van het telefoontje, het gebelde nummer en het nummer van de beller. Handig als
-    je even terug wilt bellen bijvoorbeeld. <br><br><a href="/telefonie/functionaliteiten/e-mail/"
-    class="button">Lees meer</a>
-- question: Wachtrij
-  answer: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
-    is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
-    wachtende bent. <br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees
-    meer</a>'
-- question: Multiple Caller ID
-  answer: Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk kunt
-    wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple Caller
-    ID<br><br><a href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
-    meer</a>
 blocks:
 - content: " \nAls jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
     niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
@@ -136,12 +99,6 @@ textblocksfooter:
     over Integratie</a> pagina."
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1592571848/clicktodial-vegrootglas_omhsqy.png">
-intro_top:
-  title: De centrale zelf
-  content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
-    er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
-    er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
-    We lichten een paar veelgebruikte functionaliteiten eruit.
 
 ---
 {{< toolkit >}}
