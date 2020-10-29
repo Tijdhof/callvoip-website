@@ -6,9 +6,9 @@ type: page
 layout: default2
 logos: false
 aliases: "/integratie/"
-url: "/telefonie/bereikbaarheid"
+url: "/telefonie/bereikbaarheid/"
 hero:
-  title: Alles over integratie
+  title: Alles over jouw persoonlijke bereikbaarheid
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
@@ -20,9 +20,9 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: 'Het hart van jouw bereikbaarheid is onze zogenaamde Unified Communications
-    Panel (UC Panel). Hier bepaal je voor jouw eigen interne nummer waar er iets moet
-    gaan rinkelen: is dat op je smartphone via onze app? Of op je laptop omdat je
-    thuiswerkt? Of gewoon op je bureau? Allemaal tegelijk kan natuurlijk ook.'
+    Panel (UC Panel). Hier bepaal je voor jouw eigen, interne nummer waar er iets
+    moet gaan rinkelen: is dat op je smartphone via onze app? Of op je laptop omdat
+    je thuiswerkt? Of gewoon op je bureau? Allemaal tegelijk kan natuurlijk ook.'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
