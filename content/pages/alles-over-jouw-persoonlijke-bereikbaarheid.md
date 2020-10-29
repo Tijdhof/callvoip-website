@@ -1,6 +1,7 @@
 ---
 title: Alles over jouw persoonlijke bereikbaarheid
-description: Bij Callvoip bepaal jij waar jouw telefoontjes binnenkomen. Smartphone, laptop of toestel.
+description: Bij Callvoip bepaal jij waar jouw telefoontjes binnenkomen. Smartphone,
+  laptop of toestel.
 type: page
 layout: default2
 logos: false
@@ -8,12 +9,14 @@ aliases: "/bereikbaarheid/"
 url: "/telefonie/bereikbaarheid/"
 hero:
   title: Alles over jouw persoonlijke bereikbaarheid
-  content: 'Weet je nog, vroeger? Dat je een nummer belde en de PTT er voor zorgde dat ergens iets ging rinkelen?
-    Dat gaat nu natuurlijk helemaal anders. Bij Callvoip kies je zelf op welk van je apparaten jouw belletjes binnen komen. 
-    Met de keuze tussen het goeie ouwe vaste toestel, maar ook via een app op je smartphone of elk ander apparaat met een browser via Webcalls.
-    Jij hebt dus controle over jouw eigen bereikbaarheid. <br><br><a
-    href="/klantworden/" class="button">Ook zelf in controle? Word klant!</a>'
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  content: Weet je nog, vroeger? Dat je een nummer belde en de PTT er voor zorgde
+    dat ergens iets ging rinkelen? Dat gaat nu natuurlijk helemaal anders. Bij Callvoip
+    kies je zelf op welk van je apparaten jouw belletjes binnen komen. Met de keuze
+    tussen het goeie ouwe vaste toestel, maar ook via een app op je smartphone of
+    elk ander apparaat met een browser via Webcalls. Jij hebt dus controle over jouw
+    eigen bereikbaarheid. <br><br><a href="/klantworden/" class="button">Ook zelf
+    in controle? Word klant!</a>
+  image: "/v1603982195/friends-working-outdoors-technology-concept_fpzjec.jpg"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -22,7 +25,7 @@ blocks:
     Panel (UC Panel). Hier bepaal je voor jouw eigen, interne nummer waar er iets
     moet gaan rinkelen: is dat op je smartphone via onze app? Of op je laptop omdat
     je thuiswerkt? Of gewoon op je bureau? Allemaal tegelijk kan natuurlijk ook.'
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1603982183/UCpanel_wgdbp4.png"
   zooming: true
   position: image_left
   title: Onze standaard
