@@ -68,9 +68,8 @@ usps:
     title: Wachtrij
     content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
       is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
-      wachtende bent. Zo zorg je voor effectieve afhandeling van een drukke lijn.
-      <br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees
-      meer</a>'
+      wachtende bent. Dit zorgt voor effectiviteit op een druk nummer. <br><br><a
+      href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-wifi
     title: Multiple Caller ID
     content: Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk
