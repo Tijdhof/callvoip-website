@@ -93,10 +93,10 @@ intro:
 blocks:
 - content: Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
     niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
-    telefonie via het vaste nummer een plek krijgt op jouw smartphone.<br><ul> <li>Gemakkelijke
-    doorschakelingen.</li><li>Bellen met een app.</li><li>Volledige integratie met
-    een SIM kaart oplossing.</li></ul> Meer weten? Bel ons of lees verder op onze
-    <a href="/telefonie/vastmobiel/">Alles over Vast Mobiel</a> pagina.
+    telefonie via het vaste nummer een plek krijgt op jouw smartphone.<br><br><ul>
+    <li>Gemakkelijke doorschakelingen.</li><li>Bellen met een app.</li><li>Volledige
+    integratie met een SIM kaart oplossing.</li></ul> Meer weten? Bel ons of lees
+    verder op onze <a href="/telefonie/vastmobiel/">Alles over Vast Mobiel</a> pagina.
   image: "/v1572861318/laptop_k98xlt.png"
   position: image_right
   title: Vast Mobiel
@@ -105,7 +105,7 @@ textblocksfooter:
 - title2: Integratie
   content2: 'Zakelijke telefonie anno nu is dus veel meer dan een rinkelend toestel
     op je bureau, dat is nu wel duidelijk. Maar er is meer! Wij integreren telefonie
-    namelijk met jouw bedrijfsprocessen en CRM.<br><ul><li>Basis integratie: gratis
+    namelijk met jouw bedrijfsprocessen en CRM.<br><br><ul><li>Basis integratie: gratis
     Chrome Extensie met popups telefoongesprekken en meer.</li><li>CRM lookup: jouw
     CRM gekoppeld aan onze Chrome Extensie</li><li>VoIP CTI: Volledige integratie
     van jouw PC met de telefonie.</li></ul>Meer weten? Bel ons of lees verder op onze
