@@ -31,9 +31,9 @@ blocks:
   image_position: center
 textblocks:
 - title1: 'Wat is dat: Qaller Plus?'
-  content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
-    je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
-    voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
+  content1: Bel met jouw smartphone uit met je vaste nummer en ontvang telefoontjes.
+    Verbind gesprekken door, bel intern gratis met collega’s en zie of ze in gesprek
+    zijn. Alles wat je met een 'gewoon' toestel ook kunt. <br><br><a href="/telefonie/qaller/"
     class="button">Meer informatie</a>
   title2: 'Wat is dat: Webcalls?'
   content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
