@@ -16,8 +16,8 @@ description: 'De Callvoip Toolkit: een korte introductie van de vele functionali
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: kit
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 double_content:
   left:
     title: Waar te beginnen?
