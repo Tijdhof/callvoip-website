@@ -55,14 +55,14 @@ usps:
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
       Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
-      bureau. Handig en flexibel!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
+      bureau. Handig!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
   - icon: fa-heartbeat
     title: Email-app
     content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app
       in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
       van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
-      als je even terug wilt bellen bijvoorbeeld.<br><br><a href="/telefonie/functionaliteiten/e-mail/"
+      als je even terug wilt bellen.<br><br><a href="/telefonie/functionaliteiten/e-mail/"
       class="button">Lees meer</a>
   - icon: fa-money-bill
     title: Wachtrij
