@@ -7,8 +7,8 @@ hero:
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam. <br><br>Overstappen?
     <a href=\"/waarom-overstappen/\">Waarom zou je dat doen?</a> \U0001F914"
   button:
-    content: Ontdek onze oplossing
-    link: "/telefonie/hostedvoip/"
+    content: 'Ons aanbod: de Callvoip Toolkit'
+    link: "/toolkit/"
   items:
   - icon: fa-cloud
     title: Zakelijke telefonie
