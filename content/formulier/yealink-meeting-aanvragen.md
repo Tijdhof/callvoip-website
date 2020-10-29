@@ -1,6 +1,6 @@
 ---
-title: Aanvraag Yealink Meeting videobellen
-url: "/aanvragen/yealink-meeting/"
+title: Aanvraag Yealink Meeting DEMO videobellen
+url: "/aanvragen/yealink-meeting-demo/"
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht. Wij nemen contact op om je te assisteren bij de ingebruikname van Yealink Meeting. 
