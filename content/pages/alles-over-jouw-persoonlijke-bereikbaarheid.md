@@ -1,19 +1,18 @@
 ---
 title: Alles over jouw persoonlijke bereikbaarheid
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome integratie
-  tot volledige koppeling met jouw CRM.
+description: Bij Callvoip bepaal jij waar jouw telefoontjes binnenkomen. Smartphone, laptop of toestel.
 type: page
 layout: default2
 logos: false
-aliases: "/integratie/"
+aliases: "/bereikbaarheid/"
 url: "/telefonie/bereikbaarheid/"
 hero:
   title: Alles over jouw persoonlijke bereikbaarheid
-  content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
-    van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
-    goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
-    koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!<br><br><a
-    href="/klantworden" class="button">Ook integreren met Callvoip?</a>'
+  content: 'Weet je nog, vroeger? Dat je een nummer belde en de PTT er voor zorgde dat ergens iets ging rinkelen?
+    Dat gaat nu natuurlijk helemaal anders. Bij Callvoip kies je zelf op welk van je apparaten jouw belletjes binnen komen. 
+    Met de keuze tussen het goeie ouwe vaste toestel, maar ook via een app op je smartphone of elk ander apparaat met een browser via Webcalls.
+    Jij hebt dus controle over jouw eigen bereikbaarheid. <br><br><a
+    href="/klantworden/" class="button">Ook zelf in controle? Word klant!</a>'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
