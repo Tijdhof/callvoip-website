@@ -36,14 +36,14 @@ textblocks:
     zijn. Alles wat je met een 'gewoon' toestel ook kunt. <br><br><a href="/telefonie/qaller/"
     class="button">Meer informatie</a>
   title2: 'Wat is dat: Webcalls?'
-  content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
-    Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
-    Kun jij je concentreren op het gesprek zelf! <br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
+  content2: Web Calls biedt je de flexibiliteit van bellen met je computer, laptop
+    of tablet, zonder uitgebreide installaties. Zo ben je superflexibel! Ideaal dus
+    voor thuiswerk, onderweg of voor een snelle extra werkplek.<br><br><a href="/telefonie/functionaliteiten/webcalls/"
     class="button">Meer informatie</a>
   title3: 'Wat is dat: vast toestel?'
-  content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
-    VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
-    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
+  content3: Ze staan nog op veel bureaus, het zakelijke, vaste telefoontoestel. En
+    dat is niet voor niets. Het gebruiksgemak en de kwaliteit zijn hoog. En we houden
+    toch allemaal een beetje van nostalgie? <br><br><br><a href="/pages/webshop/"
     class="button">Meer informatie</a>
   show_vshape: false
 images: []
