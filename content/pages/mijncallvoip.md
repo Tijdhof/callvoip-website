@@ -118,6 +118,8 @@ usps:
       link: "/opzeggen/srtp/"
     - title: ServicePlus
       link: "/opzeggen/serviceplus/"
+    - title: Yealink Meeting
+      link: "/opzeggen/yealink-meeting/"
 menu:
   top:
     pre: external
