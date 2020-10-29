@@ -19,11 +19,10 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: "Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
-    al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Popups van
-    telefoontjes, een bedrijfstelefoonboek en meer. \nWil je integratie met jouw eigen
-    systeem? Dan komt de CRM Lookup in beeld: de uitbreiding van de Click-to-Dial.
-    Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt."
+- content: 'Het hart van jouw bereikbaarheid is onze zogenaamde Unified Communications
+    Panel (UC Panel). Hier bepaal je voor jouw eigen interne nummer waar er iets moet
+    gaan rinkelen: is dat op je smartphone via onze app? Of op je laptop omdat je
+    thuiswerkt? Of gewoon op je bureau? Allemaal tegelijk kan natuurlijk ook.'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
