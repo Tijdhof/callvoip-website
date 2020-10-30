@@ -12,7 +12,7 @@ hero:
   content: |-
     Je kunt de allermooiste telefoniedienst hebben, zonder een telefoonnummer zal er niks rinkelen. Daarom kunnen we alle soorten nummers regelen, in eigen beheer. Ze kunnen met een druk op de knop actief zijn. En heb je een blok van 10 opeenvolgende nummers nodig? Dan is dat ook zo geregeld!<br><br>
     Heb je al een nummer? Dan zorgen we voor een probleemloze overstap met nummerbehoud, zodat je altijd bereikbaar blijft.<br><br><a href="/overstappen" class="button">Overstappen naar Callvoip</a>
-  image: "/v1604048945/nummers_gydc4w.jpg"
+  image: "/v1604049415/nummers_tmjv48.jpg"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
