@@ -88,8 +88,8 @@ intro:
   title: Mooi hè?
   content: 'Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat
     je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk
-    allemaal en we vertellen je er graag meer over. <br><br><a href="tel:0508200000"
-    class="button">Bel ons!</a>'
+    allemaal en we vertellen je er graag meer over. <br><br><a href="https://www.callvoip.nl/contact/"
+    class="button">Neem contact op</a>'
 blocks:
 - content: Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
     niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
