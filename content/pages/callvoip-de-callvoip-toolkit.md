@@ -1,6 +1,7 @@
 ---
 title: Callvoip - De Callvoip Toolkit
 url: toolkit
+aliases: /toolbox
 type: page
 hero:
   content:
