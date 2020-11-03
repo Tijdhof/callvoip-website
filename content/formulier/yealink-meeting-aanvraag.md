@@ -1,6 +1,7 @@
 ---
 title: Aanvraag Yealink Meeting videobellen
 url: "/aanvragen/yealink-meeting-2/"
+aliases: /yealink-meeting-licentie
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht. Wij nemen contact op om je te assisteren bij de ingebruikname van Yealink Meeting. 
@@ -33,6 +34,14 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{</ form/fieldset >}}
 
 {{< form/fieldset "Callvoip Yealink Meeting" >}}
+
+{{< form/select "Abonnement keuze" >}}
+
+{{< form/option "1 maand, prijs 16,95 ex BTW" >}}
+
+{{< form/option "12 maanden, prijs 169,50 ex BTW" >}}
+
+{{</ form/select >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
