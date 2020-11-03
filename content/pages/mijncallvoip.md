@@ -68,9 +68,9 @@ usps:
       link: "/aanvragen/srtp/"
     - title: Gidsvermelding
       link: "/aanvragen/gidsvermelding/"
-    - title: YealinkMeeting DEMO
+    - title: Yealink Meeting DEMO
       link: "/aanvragen/yealink-meeting/"
-    - title: YealinkMeeting abonnement
+    - title: Yealink Meeting Abonnement
       link: "/aanvragen/yealink-meeting-2/"
 - title: Wijzigen
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
