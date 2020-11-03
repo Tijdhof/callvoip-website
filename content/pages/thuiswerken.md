@@ -37,12 +37,11 @@ textblocksfooter:
     en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
     en zie of ze in gesprek zijn. <br><br><br><a href="/telefonie/qaller/" class="button">Meer
     informatie</a>
-  title2: 'Wat is dat: de E-mail app?'
-  content2: Zou het niet handig zijn om even een mailtje te krijgen van bellers die
-    een bepaald punt in jouw belroute passeren? Met wat basisgegevens als het nummer,
-    de tijd/datum en het gebelde nummer. Heb je altijd de gegevens bij de hand en
-    kun je terugbellen. En dat gewoon inbegrepen in het standaard pakket.<br><br><a
-    href="/telefonie/functionaliteiten/e-mail/" class="button">Meer informatie</a>
+  title2: 'Wat is dat: Webcalls?'
+  content2: Web Calls biedt je de flexibiliteit van bellen met je computer, laptop
+    of tablet, zonder uitgebreide installaties. Zo ben je superflexibel! Ideaal dus
+    voor thuiswerk, onderweg of voor een snelle extra werkplek.<br><br><a href="/telefonie/functionaliteiten/webcalls/"
+    class="button">Meer informatie</a>
   title3: Hoe werkt een toestel thuis?
   content3: 'Een VoIP toestel heeft een aantal zaken nodig om te kunnen bellen. In
     het toestel zelf moeten wat gegevens voor onze centrale maar verder zijn er maar
