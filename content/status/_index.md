@@ -21,7 +21,7 @@ items:
 - title: Click-to-Dial
   status: false
 - title: Qaller Smartphone app
-  status: false
+  status: true
 - title: Vamos Vast-Mobiel
   status: true
 - title: Trunk
