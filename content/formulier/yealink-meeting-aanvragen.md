@@ -53,6 +53,12 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< layout/column3 >}}
 
+Jaarlijks
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
 Maandelijks
 
 {{</ layout/column3 >}}
@@ -65,11 +71,18 @@ Eenmalig
 
 {{</ layout/columns >}}
 
+
 {{< layout/columns >}}
 
 {{< layout/column3 >}}
 
 Yealink Meeting FREE
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 0,00 excl. BTW
 
 {{</ layout/column3 >}}
 
@@ -96,6 +109,13 @@ Yealink Meeting Enterprise Callvoip-abonnees
 
 {{< layout/column3 >}}
 
+
+€ 169,50 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
 € 16,95 excl. BTW
 
 {{</ layout/column3 >}}
@@ -113,6 +133,12 @@ Yealink Meeting Enterprise Callvoip-abonnees
 {{< layout/column3 >}}
 
 Yealink Meeting Enterprise <b>niet</b>-Callvoip-abonnees
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 189,50 excl. BTW
+
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
