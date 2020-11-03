@@ -2,7 +2,7 @@
 title: Yealink W59R Ruggedized - Water- en stoftest
 description: ''
 images:
-- "/v1603378852/ruggedized_magazijn_rjjiff.png"
+- "/v1604400522/ruggedized_stoftest_ene8ry.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -14,13 +14,12 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-10-22T22:00:00.000+00:00
-url: yealink-ruggedized-magazijn
+date: 2020-11-02T23:00:00+00:00
+url: yealink-ruggedized-waterstoftest
 contactpersoon: []
 categories: []
 tags: []
 type: ''
-draft: true
 
 ---
 Die arme Yealink W59r Ruggedized handset. Tim mepte 'm al van tafel, gooide 'm tegen de muur en liet 'm vallen van grote hoogte. 
