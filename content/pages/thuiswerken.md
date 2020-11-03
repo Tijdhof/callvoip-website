@@ -39,8 +39,9 @@ textblocksfooter:
     informatie</a>
   title2: 'Wat is dat: Webcalls?'
   content2: Web Calls biedt je de flexibiliteit van bellen met je computer, laptop
-    of tablet, zonder uitgebreide installaties. Zo ben je superflexibel! Ideaal dus
-    voor thuiswerk, onderweg of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
+    of tablet, zonder uitgebreide installaties. Gewoon in je browser (Chrome, Edge,
+    Firefox Safari). Zo ben je superflexibel! Ideaal dus voor thuiswerk, onderweg
+    of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
     class="button">Meer informatie</a>
   title3: Hoe werkt een toestel thuis?
   content3: 'Een VoIP toestel heeft een aantal zaken nodig om te kunnen bellen. In
