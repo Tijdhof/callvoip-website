@@ -5,7 +5,9 @@ error: false
 ---
 Geen meldingen; de telefoondienst werkt naar behoren.<br>
 
-<b>03-11-2020 - storingsmelding </b><br>  
+======================
+
+<b>03-11-2020 - storing opgelost </b>  
 19\.10: opgelost  
 Alle functies werken weer naar behoren.   
 Onze excuses voor het ongemak.  
