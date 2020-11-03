@@ -23,13 +23,11 @@ type: ''
 draft: true
 
 ---
-Daar is Tim weer, met de Yealink Ruggedized handset. Toen we hem net binnen hadden gekregen, vroegen we Tim om hem uit te pakken. En we weten inmiddels hoe dat is afgelopen. (Gemist? <a href="https://www.youtube.com/watch?v=div51k3mweM" target="blank">Klik hier</a>)
+Die arme Yealink W59r Ruggedized handset. Tim mepte 'm al van tafel, gooide 'm tegen de muur en liet 'm vallen van grote hoogte. 
 
-Toch hebben we Tim nog eens op pad gestuurd met onze Yealink W59R Ruggedized. Namelijk een magazijn in. Want zeg nou zelf, waar komt zo'n robuuste handset nou beter tot zijn recht dan in een magazijn? 
+En daar bleek de Yealink allemaal tegen te kunnen! Maar hoe vergaat het de Ruggedized in een serieuze test van de water- en stofdichtheid? Want ze kunnen wel mooi schermen met die IP67 certificering, wij testen dat toch even zelf! 
 
-Hoe dat allemaal ging, zie je hieronder...
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SWkrvjJ0XFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3YAFXek8M8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 Benieuwd wat we nog meer met de Ruggedized van plan zijn? Houd onze website en <a href="https://www.linkedin.com/company/callvoip-telefonie/" target="blank">LinkedIn pagina</a> in de gaten. Want we zijn nog niet klaar ;-)
 
