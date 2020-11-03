@@ -3,21 +3,15 @@ title: Meldingen
 error: false
 
 ---
-Geen meldingen; de telefoondienst werkt naar behoren.<br> 
+Geen meldingen; de telefoondienst werkt naar behoren.<br>
 
-<b>23-09-2020: Click-to-Dial is geupdate! </b><br>
-Is jouw Click to Dial ineens leeg? <br>
-Geen nood! Je kunt de extensie snel zelf weer werkend krijgen. <br>
-Volg daartoe onderstaande stappen: <br>
-1. Klik met de rechtermuisknop op het blauwe Click-to-Dial icoon rechtsboven in Chrome.<br>
-2. Kies in het menu Verwijderen uit Chrome...<br>
-3. <a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Klik hier</a> en klik op Toevoegen aan Chrome<br>
-4. Klik op het Click-to-Dial icoon. <br>
-5. Zie je hem niet? Klik dan  op het puzzelstukje en pin hem vast.<br>
-6. Log in met je gegevens van onze centrale.<br>
-Kom je er niet uit? Bel, chat of mail ons en we helpen je graag!<br><br>
-
-<b>10-08-2020: De Qaller Smartphone App is geupdate</b><br>
-Mogelijk dien je opnieuw in te loggen.<br>
-Snel inloggen met een koppelcode? <a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_inloggen-met-koppelcode.pdf" target=_blank">Klik hier voor uitleg</a>.<br>
-Of vraag ons via de chat om een koppelcode, vermeld dan je bedrijfsnaam en jouw interne nummer of naam, we sturen je dan gelijk de koppelcode die 10 minuten geldig is.
+<b>03-1-2020  18.15 uur: storingsmelding </b><br>  
+Op dit moment krijgen we meldingen van diverse telefonieproblemen:   
+\* beheerpagina's niet toegankelijk  
+\* wegvallende toestelregistraties  
+\* geen audio  
+\* doorrinkelende toestellen  
+  
+Onze technici zijn geïnformeerd en gaan het probleem onderzoeken.   
+Wij houden u op de hoogte van de voortgang. <br>  
+<br>

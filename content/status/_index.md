@@ -1,15 +1,15 @@
 ---
 title: Status
-aliases: '/storing'
-url: '/status'
+aliases: "/storing"
+url: "/status"
 hero:
   image: "/v1566566520/status_jq3tzw.png"
   disable_image_on_mobile: false
 items:
 - title: Online telefooncentrale
-  status: true
+  status: false
 - title: Inkomende gesprekken
-  status: true
+  status: false
 - title: Uitgaande gesprekken
   status: true
 - title: "(Extern) Doorschakelen"
