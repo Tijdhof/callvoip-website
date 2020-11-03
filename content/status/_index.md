@@ -11,17 +11,17 @@ items:
 - title: Inkomende gesprekken
   status: false
 - title: Uitgaande gesprekken
-  status: true
+  status: false
 - title: "(Extern) Doorschakelen"
   status: true
 - title: Toestelregistraties
-  status: true
+  status: false
 - title: BLF (statuslampjes)
   status: true
 - title: Click-to-Dial
-  status: true
+  status: false
 - title: Qaller Smartphone app
-  status: true
+  status: false
 - title: Vamos Vast-Mobiel
   status: true
 - title: Trunk
