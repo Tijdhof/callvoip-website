@@ -35,6 +35,14 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Callvoip Yealink Meeting" >}}
 
+{{< form/select "Wilt u eerst gratis de 30 dagen demolicentie van Yealink Meeting enterprise?" >}}
+
+{{< form/option "Ja" >}}
+
+{{< form/option "Nee" >}}
+
+{{</ form/select >}}
+
 {{< form/textarea "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
