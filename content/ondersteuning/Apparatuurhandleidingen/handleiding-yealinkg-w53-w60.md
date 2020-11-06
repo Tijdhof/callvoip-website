@@ -22,7 +22,7 @@ Zie ook de [Callvoip Casts](https://callvoip.nl/casts).
 2. Klik op de ok toets of op de beltoets<br>
 3. Om te beeindigen, klik op hangop
 
-<br><h3>Handsetnaam instellen</h3>  
+<br><h3>2. Handsetnaam instellen</h3>  
 1. Druk op ok<br>
 2. Kies Instellingen > handsetnaam<br>
 2. Geef de telefoon de juiste naam<br>
