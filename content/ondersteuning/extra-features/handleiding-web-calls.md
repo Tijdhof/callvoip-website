@@ -20,6 +20,10 @@ laptop of tablet tot je beschikking hebt.
 
 <a href="#video">Klik hier en bekijk de Webcalls video-tutorial</a>
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1604654040/Screenshot_1_jiptlu.png)
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1604654079/Screenshot_2_hr7na3.png)
+
 <h3>Dit kun je met Web Calls:</h3>
 
 * Bellen en gebeld worden zónder een telefoontoestel of smartphone
