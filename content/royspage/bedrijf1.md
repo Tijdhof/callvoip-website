@@ -4,9 +4,9 @@ type: roy
 hero:
   image: "/v1561543297/AVM-Logo_rgdwvt.png"
 headless: true
-link: "/oplossingen/branches/assurantie"
-name: C. Das - Taurus Financiële Belevingen
-website: https://taurusonline.nl/
+link: "/partners/avm"
+name: AVM - FRITZ! Producten
+website: https://nl.avm.de/
 hideinsearch: true
 hideingoogle: true
 
