@@ -1,13 +1,13 @@
 ---
 title: UC Panel | Het hart van jouw persoonlijke bereikbaarheid
-description: Met de Click-to-Dial-plugin van Callvoip maak je in een handomdraai alle
-  telefoonnummers in de Chrome webbrowser klikbaar én meer!
+description: 'UC Panel: bepaal waar jouw extensie rinkelt, beluister opnames en voicemails
+  of gebruik jouw browser als volwaardig toestel. De voordeur van onze centrale! '
 images:
 - "/v1556712559/clicktodial_chrome_2-150x150.png"
 type: page
 layout: default
 logos: false
-aliases: "/ucpanel"
+aliases: "/clicktodial"
 hero:
   title: Click-to-Dial
   content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
