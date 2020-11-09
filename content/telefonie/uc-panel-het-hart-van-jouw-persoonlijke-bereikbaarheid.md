@@ -37,10 +37,8 @@ textblocksfooter:
     alles wat je met een bureautoestel ook kunt. \n<br><br><a href=\"/telefonie/functionaliteiten/webcalls/\"
     target=\"_blank\" class=\"button\">Ik wil Webcalls!</a> "
   title2: ''
-  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
-    hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
-    absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
-    title="YouTube Video"></iframe></div>'
+  content2: '<img src="
+https://res.cloudinary.com/callvoip/image/upload/v1604925866/webcalls_mailing_f6ne3u.png">'
 usps:
   title: Functies UC Panel
   content: ''
