@@ -11,9 +11,9 @@
         {{ $paginator := .Paginate (where .Data.Pages.ByWeight "Type" "roy")  6 }}
         {{ range $i, $item := $paginator.Pages }}
         {{if not (modBool $i 2)}}
-        {{- partial "components/testimonial-item.html" (dict "item" . "ctx" $ "type" "light") -}}
+        {{- partial "components/roy-item.html" (dict "item" . "ctx" $ "type" "light") -}}
         {{ else }}
-        {{- partial "components/testimonial-item.html" (dict "item" . "ctx" $ "type" "dark") -}}
+        {{- partial "components/roy-item.html" (dict "item" . "ctx" $ "type" "dark") -}}
         {{ end }}
         {{ end }}
       </div>
