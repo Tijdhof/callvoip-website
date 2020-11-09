@@ -16,7 +16,7 @@ hero:
     interne nummer moet rinkelen, luister je voicemails af, luister opnames terug
     en bekijk gespreksstatistieken. En heb je Webcalls? Dan is het ook nog jouw eigen
     virtuele toestel!
-  image: "/v1604924497/UCpanel_header_k6jrea.png"
+  image: "/v1604925013/UCpanel_header_otcmmp.png"
   image_position: start
   disable_image_on_mobile: false
 blocks:
