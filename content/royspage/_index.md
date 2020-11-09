@@ -7,5 +7,6 @@ intro:
     mogen daarbij niet ontbreken.
 hero:
   image: ''
+url: /royspage
 
 ---
