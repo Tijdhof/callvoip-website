@@ -8,7 +8,7 @@
         {{- partial "components/page-intro.html" . -}}
       </div>
       <div style="max-width: 2600px" class="mx-auto">
-        {{ $paginator := .Paginate (where .Data.Pages.ByWeight "Type" "testimonial")  6 }}
+        {{ $paginator := .Paginate (where .Data.Pages.ByWeight "Type" "roy")  6 }}
         {{ range $i, $item := $paginator.Pages }}
         {{if not (modBool $i 2)}}
         {{- partial "components/testimonial-item.html" (dict "item" . "ctx" $ "type" "light") -}}
