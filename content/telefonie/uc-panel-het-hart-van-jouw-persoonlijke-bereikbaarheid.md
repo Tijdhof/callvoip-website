@@ -51,7 +51,7 @@ usps:
       Je vindt ze in je UC!
   - icon: fa-comment-alt-smile
     title: Duidelijk overzicht
-    content: Jouw bereikbaarheid in één oogopslag duidelijk
+    content: 'Jouw bereikbaarheid in één oogopslag duidelijk. '
   - icon: fa-gift
     title: Wat kost de UC panel?
     content: 'Helemaal niets! Het is onderdeel van onze standaard dienst. '
@@ -60,7 +60,7 @@ usps:
     content: Beluister jouw voicemailberichten gemakkelijk en snel.
   - icon: fa-rocket
     title: Webcalls
-    content: Bellen met je browser, allemaal in jouw UC
+    content: Bellen met je browser, allemaal in jouw UC dankzij <a href="/telefonie/webcalls/">Webcalls</a>.
   - icon: fa-arrows-h
     title: Toegang tot Callvoip Centrale
     content: Ben je beheerder? Dan is de UC panel jouw voordeur naar de centrale.
