@@ -21,8 +21,8 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - title: Wanneer rinkelt wat?
-  image: "/v1582639629/clicktdial_handleiding_middba.png"
-  content: Als Callvoip klant kunnen er maar liefst 4 verschillende apparaten rinkelen
+  image: "/v1603982183/UCpanel_wgdbp4.png"
+  content: Als Callvoip klant kunnen er maar liefst 3 verschillende apparaten rinkelen
     als je interne nummer wordt gebeld. Binnen het UC panel kun je gemakkelijk bepalen
     welke dat zijn. Maar je bedient dit ook met je <a href="/telefonie/qaller/">Qaller
     app</a>. Je bent zo bereikbaar als jij wilt en kunt dit met een druk op de knop
