@@ -11,14 +11,9 @@ aliases: "/ucpanel/"
 url: "/telefonie/ucpanel/"
 hero:
   title: 'UC Panel: het hart van jouw bereikbaarheid'
-  content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
-    webbrowser klikbaar. Eén klik op het nummer en uw toestel belt uit. <b>Is dit
-    alles? Nee!</b> Zo krijgt u bij inkomende oproepen een notificatie, ziet u de
-    beschikbaarheid van uw collega's, kunt u gesprekken doorverbinden en heeft u een
-    telefoonboek. En alsof dat allemaal niet genoeg is, kun je Click-to-Dial nu ook
-    <a href="https://www.callvoip.nl/telefonie/functionaliteiten/crm-lookup/"> koppelen
-    met verschillende CRM pakketten</a>. <br><br><a href="https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl"
-    target="_blank"class="button">Download plugin</a>
+  content: Onze zogenaamde Unified Communications Panel (UC Panel) kun je zien als de plaats waar alles rondom jouw bereikbaarheid samenkomt. 
+    Bepaal waar jouw eigen interne nummer moet rinkelen, luister je voicemails af, luister opnames terug en bekijk gespreksstatistieken. En heb je Webcalls? 
+    Dan is het ook nog jouw eigen virtuele toestel! 
   image: "/v1580985070/clicktodial-vegrootglas_omhsqy.png"
   image_position: start
   disable_image_on_mobile: false
