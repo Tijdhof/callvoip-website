@@ -2,7 +2,7 @@
 title: 2e bedrijf
 type: roy
 hero:
-  image: "/v1561543297/lydis-logo-wit_dy3smq.png"
+  image: "/v1561543297/lydis_pejaim.png"
 headless: true
 link: "/partners/lydis"
 name: Lydis - onze partner
