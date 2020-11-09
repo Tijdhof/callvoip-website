@@ -8,9 +8,9 @@ type: page
 layout: default
 logos: false
 aliases: "/ucpanel/"
-url: /telefonie/ucpanel
+url: "/telefonie/ucpanel"
 hero:
-  title: Click-to-Dial
+  title: 'UC Panel: het hart van jouw bereikbaarheid'
   content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
     webbrowser klikbaar. Eén klik op het nummer en uw toestel belt uit. <b>Is dit
     alles? Nee!</b> Zo krijgt u bij inkomende oproepen een notificatie, ziet u de
@@ -23,23 +23,13 @@ hero:
   image_position: start
   disable_image_on_mobile: false
 blocks:
-- title: 'Click-to-Dial plugin: Welke functies heeft het?'
+- title: Wanneer rinkelt wat?
   image: "/v1582639629/clicktdial_handleiding_middba.png"
-  content: |2-
-
-    <br>
-    &bull; Click-to-dial: klik en bel een nummer op je VoIP-toestel<br>
-    &bull; Select-and-Dial: selecteer en right-click om te bellen<br>
-    &bull; Paste-and-Dial: plak/type een nummer in de app en bel!<br>
-    &bull; Logboek met in-/uitgaande gesprekken, datum, tijd en tijdsduur<br>
-    &bull; Pop-up inkomend gesprek:</u> met nummer en naam<br>
-    &bull; Adresboek: voeg naam toe en bookmark: privé/gedeeld<br>
-    &bull; Bedrijfstelefoonboek: gedeelde nummers ook zichtbaar bij collega’s.<br>
-    &bull; Nummer-kopie-functie: kopieer nummer en vind klanten snel in je CRM!<br>
-    &bull; Yealink-adresboek: koppel je Yealink toestel met het C2D adresboek!<br>
-    &bull; Collega-tab: lijst met collega's, hun status, en onscreen doorverbinden<br>
-    &bull; Volledig-scherm-modus: alle Click-to-Dial tabs in één venster!<br>
-    <div><img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1592550677/edge_vynsgz.png" style="float: left; alt=""><p>Nu ook voor Microsoft Edge!</p></div>
+  content: Als Callvoip klant kunnen er maar liefst 4 verschillende apparaten rinkelen
+    als je interne nummer wordt gebeld. Binnen het UC panel kun je gemakkelijk bepalen
+    welke dat zijn. Maar je bedient dit ook met je <a href="/telefonie/qaller/">Qaller
+    app</a>. Je bent zo bereikbaar als jij wilt en kunt dit met een druk op de knop
+    aanpassen.
   position: image_left
   image_position: end
 textblocksfooter:
