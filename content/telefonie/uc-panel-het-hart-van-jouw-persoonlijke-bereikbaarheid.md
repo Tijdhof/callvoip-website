@@ -8,6 +8,7 @@ type: page
 layout: default
 logos: false
 aliases: "/ucpanel/"
+url: /telefonie/ucpanel
 hero:
   title: Click-to-Dial
   content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
