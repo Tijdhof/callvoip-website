@@ -11,9 +11,11 @@ aliases: "/ucpanel/"
 url: "/telefonie/ucpanel/"
 hero:
   title: 'UC Panel: het hart van jouw bereikbaarheid'
-  content: Onze zogenaamde Unified Communications Panel (UC Panel) kun je zien als de plaats waar alles rondom jouw bereikbaarheid samenkomt. 
-    Bepaal waar jouw eigen interne nummer moet rinkelen, luister je voicemails af, luister opnames terug en bekijk gespreksstatistieken. En heb je Webcalls? 
-    Dan is het ook nog jouw eigen virtuele toestel! 
+  content: Onze zogenaamde Unified Communications Panel (UC Panel) kun je zien als
+    de plaats waar alles rondom jouw bereikbaarheid samenkomt. Bepaal waar jouw eigen
+    interne nummer moet rinkelen, luister je voicemails af, luister opnames terug
+    en bekijk gespreksstatistieken. En heb je Webcalls? Dan is het ook nog jouw eigen
+    virtuele toestel!
   image: "/v1580985070/clicktodial-vegrootglas_omhsqy.png"
   image_position: start
   disable_image_on_mobile: false
@@ -44,23 +46,24 @@ usps:
   content: ''
   items:
   - icon: fa-laptop
-    title: Pop-up notificatie
-    content: Krijg een melding met naam & telefoonnummer bij inkomende gesprekken.
+    title: Beluister opnames
+    content: Gebruik je <a href="/telefonie/functionaliteiten/gespreksopname">gespreksopname</a>?
+      Je vindt ze in je UC!
   - icon: fa-comment-alt-smile
-    title: Eenvoudige installatie
-    content: Gemakkelijk geïnstalleerd met onze handleiding.
+    title: Duidelijk overzicht
+    content: Jouw bereikbaarheid in één oogopslag duidelijk
   - icon: fa-gift
-    title: Wat kost Click-to-Dial?
-    content: " Helemaal niets! Het is gratis voor klanten van Callvoip."
+    title: Wat kost de UC panel?
+    content: 'Helemaal niets! Het is onderdeel van onze standaard dienst. '
   - icon: fa-users
-    title: Telefoonboek
-    content: U houdt eenvoudig een privé en bedrijfstelefoonboek bij.
+    title: Voicemails
+    content: Beluister jouw voicemailberichten gemakkelijk en snel.
   - icon: fa-rocket
-    title: BLF
-    content: 'Zie snel & eenvoudig of uw collega in gesprek of beschikbaar is. '
+    title: Webcalls
+    content: Bellen met je browser, allemaal in jouw UC
   - icon: fa-arrows-h
-    title: Verbind gesprekken door
-    content: U kunt nu inkomende oproepen doorverbinden naar uw collega's.
+    title: Toegang tot Callvoip Centrale
+    content: Ben je beheerder? Dan is de UC panel jouw voordeur naar de centrale.
 intro:
   title: ''
   content: ''
