@@ -1,6 +1,6 @@
 ---
 title: 1e bedrijf
-type: royspage
+type: roy
 hero:
   image: "/v1561543297/callvoip-website-branches-assurantie-groot.png"
 headless: true
