@@ -42,12 +42,12 @@ textblocksfooter:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
 usps:
-  title: Voordelen Click-to-Dial
+  title: Functies UC Panel
   content: ''
   items:
   - icon: fa-laptop
     title: Beluister opnames
-    content: Gebruik je <a href="/telefonie/functionaliteiten/gespreksopname">gespreksopname</a>?
+    content: Gebruik je <a href="/telefonie/functionaliteiten/gespreksopname/">gespreksopname</a>?
       Je vindt ze in je UC!
   - icon: fa-comment-alt-smile
     title: Duidelijk overzicht
