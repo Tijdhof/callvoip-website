@@ -8,7 +8,7 @@
 <div class='flex items-center {{ if eq $type "light" }} flex-row-reverse bg-grey-dark text-white {{ else }} flex-row bg-grey-lightest {{ end }}  '>
     <div class="w-1/3">
         {{ with $item.Params.hero.image}}
-        <img data-src="{{ $ctx.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto,c_scale,f_auto,q_auto/{{.}}" class="cld-responsive"
+        <img data-src="{{ $ctx.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{.}}" class="cld-responsive"
              alt="{{ $item.Title }}" />
         {{ end }}
     </div>
