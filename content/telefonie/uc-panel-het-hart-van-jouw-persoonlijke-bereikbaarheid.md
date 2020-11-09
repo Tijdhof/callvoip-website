@@ -8,7 +8,7 @@ type: page
 layout: default
 logos: false
 aliases: "/ucpanel/"
-url: "/telefonie/ucpanel"
+url: "/telefonie/ucpanel/"
 hero:
   title: 'UC Panel: het hart van jouw bereikbaarheid'
   content: Met de Click-to-Dial-plugin van Callvoip worden telefoonnummers in de Chrome
@@ -33,15 +33,12 @@ blocks:
   position: image_left
   image_position: end
 textblocksfooter:
-- title1: Hoe werkt het?
-  content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
-    getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
-    in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
-    app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de
-    telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je
-    zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten,
-    geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/"
-    target="_blank" class="button">Handleiding</a> '
+- title1: 'Web Calls: UC Panel als jouw eigen toestel'
+  content1: "Je haalt het maximale uit jouw UC panel als je Webcalls gebruikt. Webcalls
+    tovert jouw PC of laptop namelijk om in een volwaardig telefoontoestel. Ontvang
+    inkomende gesprekken en bel uit in een browser. Verbind door, zet in de wacht,
+    alles wat je met een bureautoestel ook kunt. \n<br><br><a href=\"/telefonie/functionaliteiten/webcalls/\"
+    target=\"_blank\" class=\"button\">Ik wil Webcalls!</a> "
   title2: ''
   content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
     hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
@@ -81,6 +78,5 @@ double_content:
     undefined: ''
   right:
     undefined: ''
-draft: true
 
 ---
