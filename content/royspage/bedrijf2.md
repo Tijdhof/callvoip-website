@@ -2,10 +2,9 @@
 title: 2e bedrijf
 type: roy
 hero:
-  image: "/v1561543297/callvoip-website-branches-assurantie-groot.png"
+  image: "/v1561543297/AVM-Logo_rgdwvt.png"
 headless: true
 link: "/oplossingen/branches/assurantie"
-logo: "/v1563975233/callvoip-website-testimonial-financieelNW.png"
 name: C. Das - Taurus Financiële Belevingen
 website: https://taurusonline.nl/
 hideinsearch: true
