@@ -1,5 +1,5 @@
 ---
-title: 'Kwebbl Parnter Interview’
+title: Kwebbl Parnter Interview
 description: ''
 images:
 - "/v1602600016/dame_terras_y2agjq.png"
@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-url: "/partner/Kwebbl"
+url: "/partners/Kwebbl"
 contactpersoon: []
 categories: []
 tags: []
