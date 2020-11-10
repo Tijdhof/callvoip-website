@@ -2,7 +2,8 @@
 title: 'Feature update november 2020: veel nieuws! '
 description: 'Overzicht van alle functionaliteiten en updates die we met de nieuwste
   update van ons platform toevoegen. '
-images: []
+images:
+- "/v1605020941/breaking-news_sf3f1g.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -15,14 +16,13 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: ''
+url: nieuws/novemberupdate
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
-Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws is dat we **Webcalls** volledig uitrollen: vanaf 16 november kun je bellen en gebeld worden in je browser op elke PC of laptop. In een volgend bericht gaan we uitgebreid in op Webcalls. Maar er zijn meer veranderingen onderdeel van deze grote update, bijvoorbeeld ook voor de Qaller app.. In dit overzicht zetten we alles op een rijtje.
+Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws is dat we [**Webcalls** ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)volledig uitrollen: vanaf 16 november kun je bellen en gebeld worden in je browser op elke PC of laptop. In een volgend bericht gaan we uitgebreid in op Webcalls. Maar er zijn meer veranderingen onderdeel van deze grote update, bijvoorbeeld ook voor de [Qaller app](https://www.callvoip.nl/telefonie/qaller/).. In dit overzicht zetten we alles op een rijtje.
 
 ### Belangrijkste aandachtspunten
 
@@ -35,13 +35,13 @@ Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 
 ### Nieuwe startpagina
 
-Wanneer je inlogt op onze centrale kom je in het dashboard van jouw bedrijf met een samenvatting van jouw gehele omgeving. Na de update van 16 november zal je na inloggen terecht komen op jouw persoonlijke UC panel!
+Wanneer je inlogt op onze centrale kom je in het dashboard van jouw bedrijf met een samenvatting van jouw gehele omgeving. Na de update van 16 november zal je na inloggen terecht komen op jouw persoonlijke [UC panel](https://www.callvoip.nl/telefonie/ucpanel/)!
 
 Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de bekende beheeromgeving.
 
 ### Webcalls
 
-Eindelijk beschikbaar voor iedereen volgende week. Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor thuiswerken!
+Eindelijk beschikbaar voor iedereen volgende week. Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken]()!
 
 ### Qaller update
 
@@ -54,7 +54,7 @@ Ook voor de steeds populairdere Qaller app is er een grote update. Zowel Android
 
 ### VoIP CTI update
 
-Gebruik je onze VoIP CTI koppeling tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
+Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
 
 ### Overige updates:
 
