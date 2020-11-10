@@ -16,7 +16,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: nieuws/novemberupdate
+url: "/nieuws/novemberupdate/"
 contactpersoon: []
 categories: []
 tags: []
