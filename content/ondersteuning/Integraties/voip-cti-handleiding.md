@@ -17,7 +17,7 @@ hidesocialshare: false
 * [VoIP CTI Recognition Configuration Tool (v241219)](http://files.callvoip.nl/downloads/voipcticonfigurationsetup.exe)
 
 <hr>
-
+<br><br>
 <h3>Wat houdt CRM integratie in?</h3>
 
 Met CRM integratie worden de nummers van bellers opgezocht in uw CRM pakket en wordt de bijbehorende klantenkaart getoond. Andersom kunt u met één klik vanuit uw CRM naar relaties bellen.
