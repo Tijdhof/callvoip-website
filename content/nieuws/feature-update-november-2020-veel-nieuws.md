@@ -20,16 +20,18 @@ url: "/nieuws/novemberupdate/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws is dat we [**Webcalls** ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)volledig uitrollen: vanaf 16 november kun je bellen en gebeld worden in je browser op elke PC of laptop. In een volgend bericht gaan we uitgebreid in op Webcalls. Maar er zijn meer veranderingen onderdeel van deze grote update, bijvoorbeeld ook voor de [Qaller app](https://www.callvoip.nl/telefonie/qaller/).. In dit overzicht zetten we alles op een rijtje.
 
 ### Belangrijkste aandachtspunten
 
-* pagina na login verandert naar UC panel
+* Pagina na login verandert naar UC panel
 * Webcalls beschikbaar
 * Qaller app update
 * VoIP CTI update noodzakelijk
+* Yealink toestellen firmware update
 
 Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 
@@ -39,22 +41,31 @@ Wanneer je inlogt op onze centrale kom je in het dashboard van jouw bedrijf met 
 
 Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de bekende beheeromgeving.
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1605182285/UC-beheerder_yqricl.png)
+
 ### Webcalls
 
-Eindelijk beschikbaar voor iedereen volgende week. Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken]()!
+Volgende week is onze Webcalls volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken]()!
 
 ### Qaller update
 
-Ook voor de steeds populairdere Qaller app is er een grote update. Zowel Android als iOS ontvangt een update. Deze is inmiddels al uitgerold.
+Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update. Zowel Android als iOS ontvangt een update. Deze is inmiddels al uitgerold.
 
 * Aan de oppervlakte vind je zowel op Android als iOS nu op je hoofdscherm de mogelijkheid om te kiezen voor ‘browser’ als optie waar je gesprekken moeten rinkelen. Dit natuurlijk omdat Webcalls nu beschikbaar komt!
 * Bij Android vind je een grotere wijziging: de gesprekken worden nu binnen de Qaller app afgehandeld. Voorheen leek een Qaller gesprek sterk op een ‘regulier’ gesprek via je mobiele nummers (via de zgn. native dialler). Hier is nu duidelijker onderscheid in. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
-* We voegden ook meldingen voor gemiste gesprekken toe op Android.
+* We voegden ook meldingen voor gemiste gesprekken toe op Android. 
+* De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
 * Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.
 
 ### VoIP CTI update
 
 Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
+
+### Yealink Firmware update
+
+Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld. 
+
+Bij een herstart kan het zijn dat jouw toestel een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Aan de oppervlakte is het merkbaar door o.a. een prominentere melding van gemiste gesprekken. Wil je dit niet? **Zo zet je het uit!**
 
 ### Overige updates:
 
