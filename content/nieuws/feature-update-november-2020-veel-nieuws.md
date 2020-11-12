@@ -23,7 +23,7 @@ tags: []
 type: ''
 
 ---
-Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws is dat we [**Webcalls** ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)volledig uitrollen: vanaf 16 november kun je bellen en gebeld worden in je browser op elke PC of laptop. In een volgend bericht gaan we uitgebreid in op Webcalls. Maar er zijn meer veranderingen onderdeel van deze grote update, bijvoorbeeld ook voor de [Qaller app](https://www.callvoip.nl/telefonie/qaller/).. In dit overzicht zetten we alles op een rijtje.
+Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws is dat we [**Webcalls** ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)volledig uitrollen: vanaf 16 november kun je bellen en gebeld worden in je browser op elke PC of laptop. In een volgend bericht gaan we uitgebreid in op Webcalls. Maar er zijn meer veranderingen onderdeel van deze grote update, bijvoorbeeld ook voor de [Qaller app](https://www.callvoip.nl/telefonie/qaller/). In dit overzicht zetten we alles op een rijtje.
 
 <h3>Belangrijkste aandachtspunten</h3>
 
@@ -48,7 +48,7 @@ Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel 
 <h3>2. Webcalls</h3>
 </div>
 
-Volgende week is onze Webcalls volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken]()!
+Volgende week is onze Webcalls volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken](https://www.callvoip.nl/webcalls/)!
 <div id="3">
 <h3>3. Qaller update</h3>
 </div>
