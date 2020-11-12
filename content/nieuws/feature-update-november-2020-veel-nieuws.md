@@ -44,7 +44,6 @@ Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1605187419/UC-beheerder_yuwjuu.png)
 
-
 <div id="2">
 <h3>2. Webcalls</h3>
 </div>
@@ -61,9 +60,9 @@ Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/q
 * We voegden ook meldingen voor gemiste gesprekken toe op Android.
 * De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
 * Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.<br><br>
-<div id="4">
-<h3>4. VoIP CTI update</h3>
-</div>
+  <div id="4">
+  <h3>4. VoIP CTI update</h3>
+  </div>
 
 Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
 <div id="5">
@@ -72,7 +71,7 @@ Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integrati
 
 Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld.
 
-Bij een herstart kan het zijn dat jouw toestel een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Aan de oppervlakte is het merkbaar door o.a. een prominentere melding van gemiste gesprekken. Wil je dit niet? **Zo zet je het uit!**
+Bij een herstart kan het zijn dat jouw toestel een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Aan de oppervlakte is het merkbaar door o.a. een prominentere melding van gemiste gesprekken. Wil je dit niet? [Zo zet je het uit!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/aanpassing-display/)
 <div id="6">
 <h3>6. Overige updates:</h3>
 </div>
