@@ -27,15 +27,15 @@ Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws
 
 ### Belangrijkste aandachtspunten
 
-* Pagina na login verandert naar UC panel
-* Webcalls beschikbaar
-* Qaller app update
-* VoIP CTI update noodzakelijk
-* Yealink toestellen firmware update
+1. Pagina na login verandert naar UC panel
+2. Webcalls beschikbaar
+3. Qaller app update
+4. VoIP CTI update noodzakelijk
+5. Yealink toestellen firmware update
 
 Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 
-### Nieuwe startpagina
+### 1. Nieuwe startpagina
 
 Wanneer je inlogt op onze centrale kom je in het dashboard van jouw bedrijf met een samenvatting van jouw gehele omgeving. Na de update van 16 november zal je na inloggen terecht komen op jouw persoonlijke [UC panel](https://www.callvoip.nl/telefonie/ucpanel/)!
 
@@ -43,11 +43,11 @@ Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel 
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1605182285/UC-beheerder_yqricl.png)
 
-### Webcalls
+### 2. Webcalls
 
 Volgende week is onze Webcalls volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken]()!
 
-### Qaller update
+### 3. Qaller update
 
 Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update. Zowel Android als iOS ontvangt een update. Deze is inmiddels al uitgerold.
 
@@ -57,17 +57,17 @@ Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/q
 * De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
 * Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.
 
-### VoIP CTI update
+### 4. VoIP CTI update
 
 Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
 
-### Yealink Firmware update
+### 5. Yealink Firmware update
 
 Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld. 
 
 Bij een herstart kan het zijn dat jouw toestel een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Aan de oppervlakte is het merkbaar door o.a. een prominentere melding van gemiste gesprekken. Wil je dit niet? **Zo zet je het uit!**
 
-### Overige updates:
+### 6. Overige updates:
 
 Naast de genoemde paradepaardjes maken we van deze verbeteringsronde ook gebruik voor een aantal kleinere verbeteringen op het gebied van onze provisioning en veiligheid binnen de API:
 
