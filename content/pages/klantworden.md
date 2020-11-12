@@ -5,7 +5,7 @@ description: Klant worden van Callvoip? Graag natuurlijk en we zorgen voor een w
 type: page
 layout: default2
 logos: false
-url: "/klantworden"
+url: "/klantworden/"
 hero:
   title: Overstappen of een schone lei?
   content: Als je op deze pagina bent aanbeland, ben je nog maar één stap verwijderd
@@ -14,7 +14,8 @@ hero:
     heb je al een telefoonnummer en wil je daar meer mee? Of je hebt je tot op heden
     met je mobiel gered maar zoekt nu naar de volgende stap qua telefonie. Of misschien
     ben je starter en op zoek naar een meegroeiende telefonie oplossing. Wie je ook
-    bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br><a href="/overstappen" class="button">Alles over overstappen</a>
+    bent, we denken graag mee en hebben een passende oplossing voor je. Beloofd!<br><br><a
+    href="/overstappen" class="button">Alles over overstappen</a>
   image: "/v1600956363/bordje_adftal.png"
   zooming: true
   image_position: center
@@ -55,25 +56,24 @@ textblocks:
 intro:
   title: <div id="formulier">JA! Ik wil klant worden</div>
   content: <br><br><div> <form class="mb-6" name="klantworden" action="/bedank/klantworden/"
-    accept-charset="UTF-8" method="POST" data-netlify="true">
-    <input type="hidden" name="form-name" value="klantworden" /> <p class="hidden">
-    <label>Don’t fill this out if human <input name="bot-field"> </label> </p> <p>
-    <input type="hidden" id="formlayout" name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3"
-    class="hidden"> </p> <p> <input type="hidden" id="formto" name="formto" value="offerte"
-    class="hidden"> </p> <div class="layout-split"> <div class="mb-4"> <label for="bedrijfsnaam"
-    class="block">Bedrijfsnaam</label> <input type="text" id="bedrijfsnaam" name="bedrijfsnaam"
-    class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div> <div
-    class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label>
-    <input type="email" id="email" name="email" class="w-full border border-grey-light
-    bg-white px-3 py-2 text-base" required=""> </div> </div> <div class="layout-split">
-    <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label>
+    accept-charset="UTF-8" method="POST" data-netlify="true"> <input type="hidden"
+    name="form-name" value="klantworden" /> <p class="hidden"> <label>Don’t fill this
+    out if human <input name="bot-field"> </label> </p> <p> <input type="hidden" id="formlayout"
+    name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3" class="hidden"> </p>
+    <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
+    </p> <div class="layout-split"> <div class="mb-4"> <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label>
+    <input type="text" id="bedrijfsnaam" name="bedrijfsnaam" class="w-full border
+    border-grey-light bg-white px-3 py-2 text-base"> </div> <div class="mb-4"> <label
+    for="email" class="block">Email <span class="text-red">*</span></label> <input
+    type="email" id="email" name="email" class="w-full border border-grey-light bg-white
+    px-3 py-2 text-base" required=""> </div> </div> <div class="layout-split"> <div
+    class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label>
     <input type="text" id="telefoonnummer" name="telefoonnummer" class="w-full border
     border-grey-light bg-white px-3 py-2 text-base"> </div> <div class="mb-4"> <label
-    for="wensenvragen" class="block">Wensen of vragen</label> <input type="text"
-    id="wensenvragen" name="wensenvragen" class="w-full border border-grey-light bg-white
-    px-3 py-2 text-base"> </div> </div>
-    <br> <p> <button type="submit" class="button">Neem contact met mij op</button>
-    </p> </form> </div> </div>
+    for="wensenvragen" class="block">Wensen of vragen</label> <input type="text" id="wensenvragen"
+    name="wensenvragen" class="w-full border border-grey-light bg-white px-3 py-2
+    text-base"> </div> </div> <br> <p> <button type="submit" class="button">Neem contact
+    met mij op</button> </p> </form> </div> </div>
 images: []
 hideinsearch: true
 hideingoogle: true
