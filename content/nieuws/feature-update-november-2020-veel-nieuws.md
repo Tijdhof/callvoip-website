@@ -60,7 +60,7 @@ Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/q
 * Bij Android vind je een grotere wijziging: de gesprekken worden nu binnen de Qaller app afgehandeld. Voorheen leek een Qaller gesprek sterk op een ‘regulier’ gesprek via je mobiele nummers (via de zgn. native dialler). Hier is nu duidelijker onderscheid in. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
 * We voegden ook meldingen voor gemiste gesprekken toe op Android.
 * De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
-* Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.
+* Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.<br><br>
 <div id="4">
 <h3>4. VoIP CTI update</h3>
 </div>
