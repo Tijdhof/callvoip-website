@@ -35,12 +35,13 @@ Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws
 
 Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 <div id="1">
-<h3>1. Nieuwe startpagina</h3>
+<h3>1. Inloggen? Nieuwe startpagina!</h3>
 </div>
 
-Wanneer je inlogt op onze centrale kom je in het dashboard van jouw bedrijf met een samenvatting van jouw gehele omgeving. Na de update van 16 november zal je na inloggen terecht komen op jouw persoonlijke [UC panel](https://www.callvoip.nl/telefonie/ucpanel/)!
+Als je inlogt op de Callvoip-telefooncentrale kwam je tot nu toe het bedrijfsdashboard van de beheerder met een samenvatting van jouw gehele omgeving. Na de update van 16 november kom je altijd op je persoonlijke [UC panel](https://www.callvoip.nl/telefonie/ucpanel/)!
 
-Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de bekende beheeromgeving.
+Ben jij beheerder van jouw organisatie? 
+Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de bekende beheeromgeving.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1605187419/UC-beheerder_yuwjuu.png)
 
