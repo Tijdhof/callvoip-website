@@ -27,11 +27,11 @@ Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws
 
 ### Belangrijkste aandachtspunten
 
-<a href="1">1. Pagina na login verandert naar UC panel</a>
-<a href="2">2. Webcalls beschikbaar</a>
-<a href="3">3. Qaller app update</a>
-<a href="4">4. VoIP CTI update noodzakelijk</a>
-<a href="5">5. Yealink toestellen firmware update</a>
+<a href="#1">1. Pagina na login verandert naar UC panel</a><br>
+<a href="#2">2. Webcalls beschikbaar</a><br>
+<a href="#3">3. Qaller app update</a><br>
+<a href="#4">4. VoIP CTI update noodzakelijk</a><br>
+<a href="#5">5. Yealink toestellen firmware update</a>
 
 Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 <div id="1">
