@@ -61,7 +61,7 @@ Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/q
 * We voegden ook meldingen voor gemiste gesprekken toe op Android.
 * De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
 * Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.
-div id="4">
+<div id="4">
 <h3>4. VoIP CTI update</h3>
 </div>
 
