@@ -35,38 +35,46 @@ Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws
 
 Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 <div id="1">
+
 ### 1. Nieuwe startpagina</div>
 
 Wanneer je inlogt op onze centrale kom je in het dashboard van jouw bedrijf met een samenvatting van jouw gehele omgeving. Na de update van 16 november zal je na inloggen terecht komen op jouw persoonlijke [UC panel](https://www.callvoip.nl/telefonie/ucpanel/)!
 
 Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de bekende beheeromgeving.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1605182285/UC-beheerder_yqricl.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1605187419/UC-beheerder_yuwjuu.png)
+
+
 <div id="2">
+
 ### 2. Webcalls</div>
 
 Volgende week is onze Webcalls volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken]()!
 <div id="3">
+
 ### 3. Qaller update</div>
 
 Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update. Zowel Android als iOS ontvangt een update. Deze is inmiddels al uitgerold.
 
 * Aan de oppervlakte vind je zowel op Android als iOS nu op je hoofdscherm de mogelijkheid om te kiezen voor ‘browser’ als optie waar je gesprekken moeten rinkelen. Dit natuurlijk omdat Webcalls nu beschikbaar komt!
 * Bij Android vind je een grotere wijziging: de gesprekken worden nu binnen de Qaller app afgehandeld. Voorheen leek een Qaller gesprek sterk op een ‘regulier’ gesprek via je mobiele nummers (via de zgn. native dialler). Hier is nu duidelijker onderscheid in. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
-* We voegden ook meldingen voor gemiste gesprekken toe op Android. 
+* We voegden ook meldingen voor gemiste gesprekken toe op Android.
 * De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
 * Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.
-<div id="4">
+  <div id="4">
+
 ### 4. VoIP CTI update</div>
 
 Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
 <div id="5">
+
 ### 5. Yealink Firmware update</div>
 
-Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld. 
+Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld.
 
 Bij een herstart kan het zijn dat jouw toestel een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Aan de oppervlakte is het merkbaar door o.a. een prominentere melding van gemiste gesprekken. Wil je dit niet? **Zo zet je het uit!**
 <div id="6">
+
 ### 6. Overige updates:</div>
 
 Naast de genoemde paradepaardjes maken we van deze verbeteringsronde ook gebruik voor een aantal kleinere verbeteringen op het gebied van onze provisioning en veiligheid binnen de API:
