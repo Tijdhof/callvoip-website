@@ -25,7 +25,7 @@ type: ''
 ---
 Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws is dat we [**Webcalls** ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)volledig uitrollen: vanaf 16 november kun je bellen en gebeld worden in je browser op elke PC of laptop. In een volgend bericht gaan we uitgebreid in op Webcalls. Maar er zijn meer veranderingen onderdeel van deze grote update, bijvoorbeeld ook voor de [Qaller app](https://www.callvoip.nl/telefonie/qaller/).. In dit overzicht zetten we alles op een rijtje.
 
-### Belangrijkste aandachtspunten
+<h3>Belangrijkste aandachtspunten</h3>
 
 <a href="#1">1. Pagina na login verandert naar UC panel</a><br>
 <a href="#2">2. Webcalls beschikbaar</a><br>
@@ -36,7 +36,7 @@ Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws
 Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 <div id="1">
 
-### 1. Nieuwe startpagina</div>
+<h3>1. Nieuwe startpagina</h3></div>
 
 Wanneer je inlogt op onze centrale kom je in het dashboard van jouw bedrijf met een samenvatting van jouw gehele omgeving. Na de update van 16 november zal je na inloggen terecht komen op jouw persoonlijke [UC panel](https://www.callvoip.nl/telefonie/ucpanel/)!
 
@@ -47,12 +47,12 @@ Ben jij beheerder van jouw organisatie? Dan kun je via het menu van de UC panel 
 
 <div id="2">
 
-### 2. Webcalls</div>
+<h3>2. Webcalls</h3></div>
 
 Volgende week is onze Webcalls volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken]()!
 <div id="3">
 
-### 3. Qaller update</div>
+<h3>3. Qaller update</h3></div>
 
 Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update. Zowel Android als iOS ontvangt een update. Deze is inmiddels al uitgerold.
 
@@ -63,19 +63,19 @@ Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/q
 * Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.
   <div id="4">
 
-### 4. VoIP CTI update</div>
+<h3>4. VoIP CTI update</h3></div>
 
 Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
 <div id="5">
 
-### 5. Yealink Firmware update</div>
+<h3>5. Yealink Firmware update</h3></div>
 
 Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld.
 
 Bij een herstart kan het zijn dat jouw toestel een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Aan de oppervlakte is het merkbaar door o.a. een prominentere melding van gemiste gesprekken. Wil je dit niet? **Zo zet je het uit!**
 <div id="6">
 
-### 6. Overige updates:</div>
+<h3>6. Overige updates:</h3></div>
 
 Naast de genoemde paradepaardjes maken we van deze verbeteringsronde ook gebruik voor een aantal kleinere verbeteringen op het gebied van onze provisioning en veiligheid binnen de API:
 
