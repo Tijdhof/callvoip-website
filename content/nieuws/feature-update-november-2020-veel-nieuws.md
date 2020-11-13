@@ -71,7 +71,7 @@ Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeter
   <h3>4. VoIP CTI update</h3>
   </div>
 
-Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) om onze telefonie aan jouw CRM te koppelen? Vooruitgang van de technologie vereist ook hier even een upgrade van de software. Dit is zo gedaan. Mail of bel ons, of stuur een bericht via de website-chat, dan assisteren we je hierbij zodat alles betrouwbaar en fijn blijft werken. 
+Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) om onze telefonie aan jouw CRM te koppelen? Vooruitgang van de technologie vereist ook hier even een upgrade van de software. Dit is zo gedaan. [Mail of bel ons](https://www.callvoip.nl/contact/), of stuur een bericht via de website-chat, dan assisteren we je hierbij zodat alles betrouwbaar en fijn blijft werken. 
 <div id="5">
 <h3>5. Yealink en melding van gemiste gesprekken</h3>
 </div>
