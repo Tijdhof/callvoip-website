@@ -31,7 +31,7 @@ Deze maand komt weer een uitgebreide update uit van onze dienst. Grootste nieuws
 <a href="#2">2. Webcalls beschikbaar</a><br>
 <a href="#3">3. Update Qaller App</a><br>
 <a href="#4">4. VoIP CTI? Update noodzakelijk!</a><br>
-<a href="#5">5. Yealink en melding van gemiste gesprekken</a>
+<a href="#5">5. Yealink en melding van gemiste gesprekken</a><br>
 <a href="#6">6. En dan nog dit: </a>
 
 Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
