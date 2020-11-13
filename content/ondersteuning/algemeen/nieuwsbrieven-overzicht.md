@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2020</h3>
 
+* <a href="https://sh1.sendinblue.com/vfek48qutt7e.html?t=1605249198" target="_blank">Nieuwsbrief 13-11-20 | November update!</a>
 * <a href="https://sh1.sendinblue.com/vau7o8qutt7e.html?t=1601536801" target="_blank">Nieuwsbrief 30-09-20 | (Weer) thuis aan het werk?</a>
 * <a href="https://www.callvoip.nl/blog-veiligheid/" target="_blank">Blog 31-08-20 | Better safe than sorry: hoe wij jou helpen veilig te telefoneren.</a>
 * <a href="https://sh1.sendinblue.com/v9sac8qutt7e.html?t=1597249697" target="_blank">Nieuwsbrief 11-08-20 | Qaller update, zo log je snel in met de koppelcode</a>
