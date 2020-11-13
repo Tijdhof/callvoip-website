@@ -49,14 +49,15 @@ Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de be
 <h3>2. Webcalls</h3>
 </div>
 
-Volgende week is onze Webcalls volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken](https://www.callvoip.nl/webcalls/)!
+Volgende week is onze [Webcalls](https://www.callvoip.nl/webcalls/) volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken](https://www.callvoip.nl/webcalls/)!
 <div id="3">
 <h3>3. Qaller update</h3>
 </div>
 
-Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update. Zowel Android als iOS ontvangt een update. Deze is inmiddels al uitgerold.
+Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update, voor zowel Android als iPhone / iOS. De update is al uitgerold. Wat is er veranderd? 
 
-* Aan de oppervlakte vind je zowel op Android als iOS nu op je hoofdscherm de mogelijkheid om te kiezen voor ‘browser’ als optie waar je gesprekken moeten rinkelen. Dit natuurlijk omdat Webcalls nu beschikbaar komt!
+* Aan-uit-button voor Webcalls: 
+Zet met één klik Webcalls aan en uit. Naast VAST, QALLER en VAMOS is er nu ook een cirkelbutton BROWSER voor webcalls. Hier kies je waar jouw  gesprekken rinkelen. 
 * Bij Android vind je een grotere wijziging: de gesprekken worden nu binnen de Qaller app afgehandeld. Voorheen leek een Qaller gesprek sterk op een ‘regulier’ gesprek via je mobiele nummers (via de zgn. native dialler). Hier is nu duidelijker onderscheid in. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
 * We voegden ook meldingen voor gemiste gesprekken toe op Android.
 * De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
