@@ -70,14 +70,15 @@ Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeter
   <h3>4. VoIP CTI update</h3>
   </div>
 
-Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) tussen onze telefonie en jouw CRM? Dan is in verband met deze grote update ook een update van deze koppeling noodzakelijk. Neem contact met ons op en we begeleiden je hierbij!
+Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) om onze telefonie aan jouw CRM te koppelen? Vooruitgang van de technologie vereist ook hier even een upgrade van de software. Dit is zo gedaan. Mail of mail ons even, dan assisteren we je hierbij zodat alles betrouwbaar en fijn blijft werken. 
 <div id="5">
-<h3>5. Yealink Firmware update</h3>
+<h3>5. Yealink en melding van gemiste gesprekken</h3>
 </div>
 
 Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld.
 
-Bij een herstart kan het zijn dat jouw toestel een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Aan de oppervlakte is het merkbaar door o.a. een prominentere melding van gemiste gesprekken. Wil je dit niet? [Zo zet je het uit!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/aanpassing-display/)
+Bij een herstart kan het zijn dat jouw toestel automatisch een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Een recente update heeft tot gevolg dat je de gemiste gesprekken in een grote witte popup op je scherm ziet. Handig. Of niet? We kregen hiervan veel meldingen en daarom laten we je graag even weten hoe je dit weer uitzet. 
+[Zo zet je het uit!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/aanpassing-display/)
 <div id="6">
 <h3>6. Overige updates:</h3>
 </div>
