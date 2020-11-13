@@ -76,8 +76,7 @@ Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integrati
 <h3>5. Yealink en melding van gemiste gesprekken</h3>
 </div>
 
-Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld.
-
+Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld.<br>
 Bij een herstart kan het zijn dat jouw toestel automatisch een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Een recente update heeft tot gevolg dat je de gemiste gesprekken in een grote witte popup op je scherm ziet. Handig. Of niet? We kregen hiervan veel meldingen en daarom laten we je graag even weten hoe je dit weer uitzet. <br>
 [Zo zet je de popup gemiste gesprekken het uit!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/aanpassing-display/)
 <div id="6">
