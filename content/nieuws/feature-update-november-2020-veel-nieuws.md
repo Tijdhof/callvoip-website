@@ -88,7 +88,7 @@ Naast de genoemde paradepaardjes maken we van deze verbeteringsronde ook gebruik
 * Panasonic Provisioning<br>
 Heb je Panasonic toestellen in onze provisioning? Dan kun je een firmware update via onze centrale verwachten. Ben je weer helemaal bij! Het kan zijn dat de toestellen in kwestie enige tijd niet te gebruiken zijn tijdens deze update en een aantal keer opnieuw opstarten. Dit gaat automatisch. Vertonen jouw Panasonics vreemd gedrag? Bel ons en we kijken graag mee!
 * API en beveiliging<br>
-Gebruik je onze API voor een op maat koppeling met onze telefonie? Dan vragen we je aandacht voor het feit dat we onze TLS versie gaan updaten naar 1.2. TLS is een versleuteling die we hanteren. De oudere versies (1.0 en 1.1) zullen niet meer werken in de nabije toekomst. 
+Gebruik je onze API voor een op maat koppeling met onze telefonie? Dan vragen we je aandacht voor het feit dat we onze TLS versie gaan updaten naar 1.2. TLS is een versleuteling die we hanteren. De oudere versies (1.0 en 1.1) zullen niet meer werken in de nabije toekomst. <br>
 Lees meer over [veilig telefoneren in de blog](https://www.callvoip.nl/blog-veiligheid/) die we erover schreven.
 
 Concluderend komt er veel goeds aan in de komende productupdates. Vanzelfsprekend worden deze updates aan het systeem zo gepland en uitgevoerd dat jij als klant daar weinig of niets van merkt. Is er toch iets wat niet goed gaat? Bel ons en we lossen het op!
