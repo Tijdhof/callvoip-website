@@ -57,7 +57,7 @@ Volgende week is onze [Webcalls](https://www.callvoip.nl/webcalls/) volledig fun
 
 Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update, voor zowel Android als iPhone / iOS. De update is al uitgerold. Wat is er veranderd? 
 
-* Android / iOS: extra aan-uit-button voor Browser (= Webcalls): 
+* Android / iOS: extra aan-uit-button voor Browser (= Webcalls): <br>
 Zet met één klik Webcalls aan en uit. Naast VAST, QALLER en VAMOS is er nu ook een cirkelbutton BROWSER voor webcalls. Hier kies je waar jouw  gesprekken rinkelen. 
 * Android: gesprekken zicthbaar via Qaller
 Eerder kon je  niet altijd goed herkennen of het een gewoon mobiel gesprek of Qaller-call was, dat kun je nu wel zien. Dit scheelt weer in de instellingen. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
