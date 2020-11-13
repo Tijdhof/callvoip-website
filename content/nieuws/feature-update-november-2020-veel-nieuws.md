@@ -58,19 +58,14 @@ Volgende week is onze [Webcalls](https://www.callvoip.nl/webcalls/) volledig fun
 Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update, voor zowel Android als iPhone / iOS. De update is al uitgerold. Wat is er veranderd? 
 
 * Android / iOS: extra aan-uit-button voor Browser (= Webcalls): 
-
 Zet met één klik Webcalls aan en uit. Naast VAST, QALLER en VAMOS is er nu ook een cirkelbutton BROWSER voor webcalls. Hier kies je waar jouw  gesprekken rinkelen. 
 * Android: gesprekken zicthbaar via Qaller
-
 Eerder kon je  niet altijd goed herkennen of het een gewoon mobiel gesprek of Qaller-call was, dat kun je nu wel zien. Dit scheelt weer in de instellingen. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
 * Android: melding gemiste gesprekken
-
 En ja, nu is het ook beter zichtbaar welk gesprek je op Qaller hebt gemist, en bel terug met één klik.
 * Android: popup met prefix, wachtrij-tijd en nummervan de beller
-
 Inkomend Qaller gesprek? De popup geeft de prefix weer, dus je ziet direct voor welk bedrijf het is, of welke menu-optie. Bovendien zie je ook evt wachtrij-indicaties (bv wachttijd van de beller) en natuurlijk het nummer van de beller. 
 * Android en iOS: algemene verbeteringen
-
 Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.<br><br>
   <div id="4">
   <h3>4. VoIP CTI update</h3>
