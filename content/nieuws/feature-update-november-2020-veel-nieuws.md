@@ -56,7 +56,7 @@ Volgende week is onze [Webcalls](https://www.callvoip.nl/webcalls/) volledig fun
 
 Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update, voor zowel Android als iPhone / iOS. De update is al uitgerold. Wat is er veranderd? 
 
-* Aan-uit-button voor Webcalls: 
+* Android / iOS: extra aan-uit-button voor Browser (= Webcalls): 
 Zet met één klik Webcalls aan en uit. Naast VAST, QALLER en VAMOS is er nu ook een cirkelbutton BROWSER voor webcalls. Hier kies je waar jouw  gesprekken rinkelen. 
 * Android: gesprekken zicthbaar via Qaller
 Eerder kon je  niet altijd goed herkennen of het een gewoon mobiel gesprek of Qaller-call was, dat kun je nu wel zien. Dit scheelt weer in de instellingen. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
@@ -78,7 +78,7 @@ Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integrati
 Veel mensen gebruiken als vast toestel een Yealink. Logisch, ze zijn gebruiksvriendelijk en werken perfect samen met onze provisioning bijvoorbeeld.
 
 Bij een herstart kan het zijn dat jouw toestel automatisch een update installeert van de firmware. Dat is altijd goed: up-to-date firmware zorgt voor betere beveiliging en de laatste functionaliteiten. Een recente update heeft tot gevolg dat je de gemiste gesprekken in een grote witte popup op je scherm ziet. Handig. Of niet? We kregen hiervan veel meldingen en daarom laten we je graag even weten hoe je dit weer uitzet. 
-[Zo zet je het uit!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/aanpassing-display/)
+[Zo zet je de popup gemiste gesprekken het uit!](https://www.callvoip.nl/ondersteuning/apparatuurhandleidingen/aanpassing-display/)
 <div id="6">
 <h3>6. Overige updates:</h3>
 </div>
