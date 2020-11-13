@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-11-11T23:00:00+00:00
+date: 2020-11-11T23:00:00.000+00:00
 url: "/nieuws/novemberupdate/"
 contactpersoon: []
 categories: []
@@ -41,7 +41,7 @@ Hieronder zullen we alle genoemde punten en overige updates nader toelichten.
 
 Als je inlogt op de Callvoip-telefooncentrale kwam je tot nu toe het bedrijfsdashboard van de beheerder met een samenvatting van jouw gehele omgeving. Na de update van 16 november kom je altijd op je persoonlijke [UC panel](https://www.callvoip.nl/telefonie/ucpanel/)!
 
-Ben jij beheerder van jouw organisatie? 
+Ben jij beheerder van jouw organisatie?
 Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de bekende beheeromgeving.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1605187419/UC-beheerder_yuwjuu.png)
@@ -55,23 +55,21 @@ Volgende week is onze [Webcalls](https://www.callvoip.nl/webcalls/) volledig fun
 <h3>3. Qaller update</h3>
 </div>
 
-Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update, voor zowel Android als iPhone / iOS. De update is al uitgerold. Wat is er veranderd? 
+Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/qaller/) is er een grote update, voor zowel Android als iPhone / iOS. De update is al uitgerold. Wat is er veranderd?
 
 * Android / iOS: extra aan-uit-button voor Browser (= Webcalls): <br>
-Zet met één klik Webcalls aan en uit. Naast VAST, QALLER en VAMOS is er nu ook een cirkelbutton BROWSER voor webcalls. Hier kies je waar jouw  gesprekken rinkelen. 
-* Android: gesprekken zicthbaar via Qaller<br>
-Eerder kon je  niet altijd goed herkennen of het een gewoon mobiel gesprek of Qaller-call was, dat kun je nu wel zien. Dit scheelt weer in de instellingen. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
-* Android: melding gemiste gesprekken<br>
-En ja, nu is het ook beter zichtbaar welk gesprek je op Qaller hebt gemist, en bel terug met één klik.
+  Zet met één klik Webcalls aan en uit. Naast VAST, QALLER en VAMOS is er nu ook een cirkelbutton BROWSER voor webcalls. Hier kies je waar jouw  gesprekken rinkelen.
+* Android: gesprekken zichtbaar via Qaller<br> Eerder kon je niet altijd goed herkennen of het een gewoon mobiel gesprek of Qaller-call was, dat kun je nu wel zien. Dit scheelt weer in de instellingen. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
+* Android: melding gemiste gesprekken<br> Het is nu ook beter zichtbaar welk gesprek je op Qaller hebt gemist, en bel terug met één klik.
 * Android: popup met prefix, wachtrij-tijd en nummervan de beller<br>
-Inkomend Qaller gesprek? De popup geeft de prefix weer, dus je ziet direct voor welk bedrijf het is, of welke menu-optie. Bovendien zie je ook evt wachtrij-indicaties (bv wachttijd van de beller) en natuurlijk het nummer van de beller. 
+  Inkomend Qaller gesprek? De popup geeft de prefix weer, dus je ziet direct voor welk bedrijf het is, of welke menu-optie. Bovendien zie je ook evt wachtrij-indicaties (bv wachttijd van de beller) en natuurlijk het nummer van de beller.
 * Android en iOS: algemene verbeteringen<br>
-Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.<br><br>
+  Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.<br><br>
   <div id="4">
   <h3>4. VoIP CTI update</h3>
   </div>
 
-Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) om onze telefonie aan jouw CRM te koppelen? Vooruitgang van de technologie vereist ook hier even een upgrade van de software. Dit is zo gedaan.<br> [Mail of bel ons](https://www.callvoip.nl/contact/), of stuur een bericht via de website-chat, dan assisteren we je hierbij zodat alles betrouwbaar en fijn blijft werken. 
+Gebruik je onze [VoIP CTI koppeling](https://www.callvoip.nl/telefonie/integratiemetcrm/) om onze telefonie aan jouw CRM te koppelen? Vooruitgang van de technologie vereist ook hier even een upgrade van de software. Dit is zo gedaan.<br> [Mail of bel ons](https://www.callvoip.nl/contact/), of stuur een bericht via de website-chat, dan assisteren we je hierbij zodat alles betrouwbaar en fijn blijft werken.
 <div id="5">
 <h3>5. Yealink en melding van gemiste gesprekken</h3>
 </div>
@@ -86,9 +84,9 @@ Bij een herstart kan het zijn dat jouw toestel automatisch een update installeer
 Naast de genoemde paradepaardjes maken we van deze verbeteringsronde ook gebruik voor een aantal andere verbeteringen op het gebied van onze provisioning en veiligheid binnen de API:
 
 * Panasonic Provisioning<br>
-Heb je Panasonic toestellen in onze provisioning? Dan kun je een firmware update via onze centrale verwachten. Ben je weer helemaal bij! Het kan zijn dat de toestellen in kwestie enige tijd niet te gebruiken zijn tijdens deze update en een aantal keer opnieuw opstarten. Dit gaat automatisch. Vertonen jouw Panasonics vreemd gedrag? Bel ons en we kijken graag mee!
+  Heb je Panasonic toestellen in onze provisioning? Dan kun je een firmware update via onze centrale verwachten. Ben je weer helemaal bij! Het kan zijn dat de toestellen in kwestie enige tijd niet te gebruiken zijn tijdens deze update en een aantal keer opnieuw opstarten. Dit gaat automatisch. Vertonen jouw Panasonics vreemd gedrag? Bel ons en we kijken graag mee!
 * API en beveiliging<br>
-Gebruik je onze API voor een op maat koppeling met onze telefonie? Dan vragen we je aandacht voor het feit dat we onze TLS versie gaan updaten naar 1.2. TLS is een versleuteling die we hanteren. De oudere versies (1.0 en 1.1) zullen niet meer werken in de nabije toekomst. <br>
-Lees meer over [veilig telefoneren in de blog](https://www.callvoip.nl/blog-veiligheid/) die we erover schreven.
+  Gebruik je onze API voor een op maat koppeling met onze telefonie? Dan vragen we je aandacht voor het feit dat we onze TLS versie gaan updaten naar 1.2. TLS is een versleuteling die we hanteren. De oudere versies (1.0 en 1.1) zullen niet meer werken in de nabije toekomst. <br>
+  Lees meer over [veilig telefoneren in de blog](https://www.callvoip.nl/blog-veiligheid/) die we erover schreven.
 
 Concluderend komt er veel goeds aan in de komende productupdates. Vanzelfsprekend worden deze updates aan het systeem zo gepland en uitgevoerd dat jij als klant daar weinig of niets van merkt. Is er toch iets wat niet goed gaat? Bel ons en we lossen het op!
