@@ -58,10 +58,14 @@ Ook voor de steeds populairdere [Qaller app](https://www.callvoip.nl/telefonie/q
 
 * Aan-uit-button voor Webcalls: 
 Zet met één klik Webcalls aan en uit. Naast VAST, QALLER en VAMOS is er nu ook een cirkelbutton BROWSER voor webcalls. Hier kies je waar jouw  gesprekken rinkelen. 
-* Bij Android vind je een grotere wijziging: de gesprekken worden nu binnen de Qaller app afgehandeld. Voorheen leek een Qaller gesprek sterk op een ‘regulier’ gesprek via je mobiele nummers (via de zgn. native dialler). Hier is nu duidelijker onderscheid in. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
-* We voegden ook meldingen voor gemiste gesprekken toe op Android.
-* De Prefix van de centrale én de wachttijd in een evt. wachtrij komen in beeld.
-* Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.<br><br>
+* Android: gesprekken zicthbaar via Qaller
+Eerder kon je  niet altijd goed herkennen of het een gewoon mobiel gesprek of Qaller-call was, dat kun je nu wel zien. Dit scheelt weer in de instellingen. Bijkomend voordeel is dat de app er een stuk sneller van wordt!
+* Android: melding gemiste gesprekken
+En ja, nu is het ook beter zichtbaar welk gesprek je op Qaller hebt gemist, en bel terug met één klik.
+* Android: popup met prefix, wachtrij-tijd en nummervan de beller
+Inkomend Qaller gesprek? De popup geeft de prefix weer, dus je ziet direct voor welk bedrijf het is, of welke menu-optie. Bovendien zie je ook evt wachtrij-indicaties (bv wachttijd van de beller) en natuurlijk het nummer van de beller. 
+* Android en iOS: algemene verbeteringen
+Verder werden beide apps verbeterd met een aantal kleinere, onderhuidse verbeteringen en bugfixes.<br><br>
   <div id="4">
   <h3>4. VoIP CTI update</h3>
   </div>
