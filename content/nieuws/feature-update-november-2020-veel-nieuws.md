@@ -86,9 +86,9 @@ Bij een herstart kan het zijn dat jouw toestel automatisch een update installeer
 
 Naast de genoemde paradepaardjes maken we van deze verbeteringsronde ook gebruik voor een aantal andere verbeteringen op het gebied van onze provisioning en veiligheid binnen de API:
 
-* Panasonic Provisioning
+* Panasonic Provisioning<br>
 Heb je Panasonic toestellen in onze provisioning? Dan kun je een firmware update via onze centrale verwachten. Ben je weer helemaal bij! Het kan zijn dat de toestellen in kwestie enige tijd niet te gebruiken zijn tijdens deze update en een aantal keer opnieuw opstarten. Dit gaat automatisch. Vertonen jouw Panasonics vreemd gedrag? Bel ons en we kijken graag mee!
-* API en beveiliging
+* API en beveiliging<br>
 Gebruik je onze API voor een op maat koppeling met onze telefonie? Dan vragen we je aandacht voor het feit dat we onze TLS versie gaan updaten naar 1.2. TLS is een versleuteling die we hanteren. De oudere versies (1.0 en 1.1) zullen niet meer werken in de nabije toekomst. 
 Lees meer over [veilig telefoneren in de blog](https://www.callvoip.nl/blog-veiligheid/) die we erover schreven.
 
