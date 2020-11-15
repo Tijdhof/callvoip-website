@@ -50,8 +50,7 @@ Dan kun je via het menu van de UC panel aan de linkerkant doorklikken naar de be
 <h3>2. Webcalls</h3>
 </div>
 
-Volgende week is onze [Webcalls](https://www.callvoip.nl/webcalls/) volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken](https://www.callvoip.nl/webcalls/)!
-
+Volgende week is onze [Webcalls](https://www.callvoip.nl/webcalls/) volledig functioneel: inkomend en uitgaand! Houd je mailbox en onze kanalen in de gaten, want we gaan er uitgebreid over berichten. Zowel inkomende als uitgaand bellen in je browser. Geen installatie, kant en klaar. Ideaal voor [thuiswerken](https://www.callvoip.nl/webcalls/)!<br>
 [Klik hier voor de handleiding](https://www.callvoip.nl/ondersteuning/extra-features/handleiding-web-calls/)
 <div id="3">
 <h3>3. Qaller update</h3>
