@@ -1,10 +1,11 @@
 ---
 title: 'Wij presenteren met gepaste trots: CALLVOIP WEBCALLS'
 description: ''
-images: []
+images:
+- "/v1604925866/webcalls_mailing_f6ne3u.png"
 featured: false
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -13,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-11-15T23:00:00+00:00
 url: "/nieuws/webcalls/"
 contactpersoon: []
 categories: []
