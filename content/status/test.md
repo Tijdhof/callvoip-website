@@ -17,7 +17,7 @@ Het onderhoud is succesvol uitgevoerd.
 **Let op**: vanaf nu is de startpagina van de centrale het UC Panel.  
 Via **menu -> telefooncentrale**, kom je weer in het bedrijfsbeheerpaneel.
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1605516064/panelswitch_ylly7n.png">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1605526837/panelswitch_dxfj6a.png">
 
 ======================
 
