@@ -18,6 +18,7 @@ url: "/nieuws/webcalls/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 Tijden veranderen. Nog niet heel lang geleden bestond een standaard kantoorwerkplek uit een PC of laptop met daarnaast een vast telefoontoestel. Nu was daar al wat verandering gaande, en was een vaste werkplek op kantoor al bijna ouderwets geworden. Werken moet overal kunnen. Dus laptops namen de overhand en de zakelijke smartphones vliegen je om de oren.
@@ -54,4 +55,4 @@ Waar je bij sommige telefoontoestellen echt wel de handleiding nodig hebt om te 
 
 Al met al zijn wij best wel enthousiast over deze nieuwe toevoeging aan ons toch al geweldige product. En dat niet alleen: het kan toch niet anders of jij, als klant, gaat hier ook veel aan hebben!
 
-Ben je benieuwd en wil je eens testen of het wat voor jullie is? Dan hebben we nog meer goed nieuws: Webcalls is namelijk **tot 1 januari 2021 gratis, voor niks, kosteloos!** Daarna ??
+Ben je benieuwd en wil je eens testen of het wat voor jullie is? Dan hebben we nog meer goed nieuws: Webcalls is namelijk **tot 1 januari 2021 gratis, voor niks, kosteloos!** Na de aanbieding zullen de kosten gelijk zijn aan een toestelaccount: € 4,- / maand. 
