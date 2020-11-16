@@ -23,7 +23,7 @@ type: ''
 ---
 Tijden veranderen. Nog niet heel lang geleden bestond een standaard kantoorwerkplek uit een PC of laptop met daarnaast een vast telefoontoestel. Nu was daar al wat verandering gaande, en was een vaste werkplek op kantoor al bijna ouderwets geworden. Werken moet overal kunnen. Dus laptops namen de overhand en de zakelijke smartphones vliegen je om de oren.
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1604416632/werkplek-toen-nu_abladm.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1605538679/werkplek-toen-nu_lcmp07.png)
 
 Maar hoe blijf je als bedrijf centraal bereikbaar met allemaal 06 nummers op verschillende locaties? En nu COVID veel mensen dwingt vanuit huis te werken, moet je dan ineens voor écht iedereen een smartphone gaan kopen, inclusief duur abonnement? Jouw bereikbaarheid wordt extra op de proef gesteld in deze toch al roerige tijden.
 
