@@ -42,9 +42,9 @@ Want dat is Webcalls: bellen vanuit je browser (Chrome, Edge, Firefox, Safari), 
 #### Wanneer is Webcalls handig?
 
 Wij denken dan meteen aan [thuiswerkers](https://www.callvoip.nl/telefonie/thuiswerken/). Geen gedoe met apps, doorschakelingen etc. Iedereen kan gewoon bellen zoals op kantoor maar dan op de zolder-/werkkamer. Ook handig is dat je met collega’s onderling gratis belt, dat zijn interne gesprekken, waar je ook zit (dit geldt overigens ook voor bellen met onze [Qaller plus app](https://www.callvoip.nl/telefonie/qaller/)).
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1604925866/webcalls_mailing_f6ne3u.png" style="float:right">
-Omdat je Webcalls binnen 1 minuut actief kunt hebben, is het ook handig voor nieuwe collega’s. Of die stagiair die ook mee moet draaien in de telefoondienst.
 
+Omdat je Webcalls binnen 1 minuut actief kunt hebben, is het ook handig voor nieuwe collega’s. Of die stagiair die ook mee moet draaien in de telefoondienst.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1605539914/webcallertje_cwr7l4.png" style="float:right">
 #### Wat kan Webcalls?
 
 Het antwoord is simpel: alles wat een gewoon toestel ook kan. Uitbellen, telefoontjes ontvangen, doorverbinden, in de wacht zetten, allemaal geen probleem.
