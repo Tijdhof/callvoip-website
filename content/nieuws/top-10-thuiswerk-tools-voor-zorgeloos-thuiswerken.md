@@ -59,9 +59,9 @@ Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel
 <br>
 
 **<h4>3. WebCalls: bellen zónder telefoon, maar met je browser!</h4>  
-Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg geen telefoon nodig hebt! Enkel een adequaat USB headsetje en klaar is kees. Let op: je kunt nu alleen nog uitbellen met WebCalls, gebeld worden volgt in Q4-2020.  
+Wat is het?** De mogelijkheid om te bellen via de browser, waardoor je gewoonweg geen telefoon nodig hebt! Enkel een adequaat (bluetooth) USB headsetje en klaar is kees. Echt een AMAZING handige oplossing is dit, voor bellen en gebeld worden.    
 **Wat heb je nodig?** Een computer met internet en een Bluetooth / USB headsetje  
-**Wat kost het?** Niets, dit is nu nog gratis  
+**Wat kost het?** Niets, niente, tot eind 2020, daarna de reguliere toestelprijs (4,-)  
 **Installatietijd?** 1 minuut  
 **Hoe?** Zie [www.callvoip.nl/webcalls](http://www.callvoip.nl/webcalls)<br>
 **Uitleg** Zie [www.callvoip.nl/casts](http://www.callvoip.nl/casts) > videotutorial WebCalls
