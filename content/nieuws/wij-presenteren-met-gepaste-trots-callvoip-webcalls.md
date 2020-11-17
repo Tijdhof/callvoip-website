@@ -51,7 +51,7 @@ Omdat je Webcalls binnen 1 minuut actief kunt hebben, is het ook handig voor nie
 
 Het antwoord is simpel: alles wat een gewoon toestel ook kan. Uitbellen, telefoontjes ontvangen, doorverbinden, in de wacht zetten, allemaal geen probleem.
 
-Waar je bij sommige telefoontoestellen echt wel de handleiding nodig hebt om te leren doorverbinden, is het bij Webcalls zo simpel als ‘klik op doorverbinden” :-) En dat geldt voor de overige functionaliteiten ook.
+Waar je bij sommige telefoontoestellen echt wel de handleiding nodig hebt om te leren doorverbinden, is het bij Webcalls zo simpel als ‘klik op doorverbinden” :-) En dat geldt voor de overige functionaliteiten ook. [Kijk maar!](https://www.callvoip.nl/ondersteuning/extra-features/handleiding-web-calls/)
 
 ### Dit wil jij ook!
 
