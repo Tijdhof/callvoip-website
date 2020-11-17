@@ -49,8 +49,8 @@ NB: let op dat je thuis **vaak wel een voedingsadapter** nodig hebt, die kunnen 
 <br>
 
 **<h4>2. Qaller Plus smartphone app</h4>  
-Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel wordt, je kunt bellen en gebeld worden met het zaaknummer, intern bellen, gesprekken doorverbinden en gesprekken opnemen mits ingeschakeld. Bovendien zie je of collega's in gesprek zijn én is de app je regelpaneel (bv zaaknummer doorschakelen naar mobiel of voicemail).  
-**Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi of 4G  
+Wat is het?** Een app voor de smartphone waarmee je smartphone je kantoortoestel wordt, je kunt bellen en gebeld worden met het zaaknummer, intern bellen, gesprekken doorverbinden en gesprekken opnemen mits ingeschakeld. Bovendien zie je of collega's in gesprek zijn én is de app je regelpaneel (bv zaaknummer doorschakelen naar mobiel of voicemail). En: kies of je werkt met WiFi, 4G of zelf de GSM verbinding! 
+**Wat heb je nodig?** Een smartphone (Android of iPhone) met WiFi, 4G of GSM!  
 **Wat kost het?** €4,- per gebruiker per maand  
 **Installatietijd?** 3 minuten  
 **Hoe?** Zie [www.callvoip.nl/qaller](http://www.callvoip.nl/qaller) en [www.callvoip.nl/qallerpdf](http://www.callvoip.nl/qallerpdf)<br>
