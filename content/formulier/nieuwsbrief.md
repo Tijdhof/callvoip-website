@@ -26,9 +26,9 @@ id="bedrijfsnaam" name="bedrijfsnaam" class="w-full border border-grey-light bg-
 type="email" id="email" name="email"
 class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
 </div>
-<center><div data-netlify-recaptcha="true"></div></center>
+<center><div data-netlify-recaptcha="true"></div>
 <br>
-<p> <button type="submit" class="button">Verstuur aanmelding</button> </p>
+<p> <button type="submit" class="button">Verstuur aanmelding</button> </p></center>
 </form>
 </div>
 </div>
