@@ -22,7 +22,7 @@ Qaller is een gratis Smartphone app en de afstandsbediening bij de Callvoip tele
 
 <h3>Qaller Plus: afstandbediening én telefoon:</h3>
 
-**![](https://res.cloudinary.com/callvoip/image/upload/v1570901823/Qaller_plus_admin_wbtab1.jpg)**
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1605775583/webcalls-qaller_ppqsyf.png">
 
 <h3>Qaller: alleen afstandbediening, geen telefoon</h3>
 
