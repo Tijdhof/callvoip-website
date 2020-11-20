@@ -63,12 +63,12 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 * OPNEMEN | RECORD: neem het gesprek op*
 * TOETSEN | KEYPAD: toon het toetsenbord
 * DOORVERBINDEN | TRANSFER: verbind het gesprek door naar een collega
+<br>\* _hiervoor dient gespreksopname te zijn ingeschakeld, dit is een dienst met een meerprijs._
 
 4\. Prefix pop-up<br>
 Ook de prefix van een nummer zie je terug in Qaller met deze handige pop-up!<br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1605876761/popup_acwztt.png" height="122" width="401">
 
-\* _hiervoor dient gespreksopname te zijn ingeschakeld, dit is een dienst met een meerprijs._
 
 <h3>Op welke Smartphones werkt de Qaller App?</h3>
 
