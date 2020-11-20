@@ -46,7 +46,7 @@ Met Multiple Caller ID kun je instellen welke nummers je wilt kunnen meesturen b
 
 <h3>Bellen met de Qaller Plus app</h3>
 
-Om te bellen, klik op TELEFOONBOEK of op het DIALPAD icoon.1. Telefoonboek - klik op één van de categorieën, bv collega’s: hier zie je alle collega’s en hun actuele belstatus terug.
+Om te bellen, klik op TELEFOONBOEK of op het DIALPAD icoon.<br>1. Telefoonboek - klik op één van de categorieën, bv collega’s: hier zie je alle collega’s en hun actuele belstatus terug.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1570967083/doorverbinden_m14bet.jpg)
 
@@ -63,6 +63,10 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 * OPNEMEN | RECORD: neem het gesprek op*
 * TOETSEN | KEYPAD: toon het toetsenbord
 * DOORVERBINDEN | TRANSFER: verbind het gesprek door naar een collega
+
+4. Prefix pop-up
+Ook de prefix van een nummer zie je terug in Qaller met deze handige pop-up!
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1605876761/popup_acwztt.png">
 
 \* _hiervoor dient gespreksopname te zijn ingeschakeld, dit is een dienst met een meerprijs._
 
