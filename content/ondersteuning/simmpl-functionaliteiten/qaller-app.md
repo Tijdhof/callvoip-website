@@ -64,8 +64,8 @@ Nog handiger: je kunt gesprekken ook in de wacht zetten, doorverbinden, en meer:
 * TOETSEN | KEYPAD: toon het toetsenbord
 * DOORVERBINDEN | TRANSFER: verbind het gesprek door naar een collega
 
-4. Prefix pop-up
-Ook de prefix van een nummer zie je terug in Qaller met deze handige pop-up!
+4. Prefix pop-up<br>
+Ook de prefix van een nummer zie je terug in Qaller met deze handige pop-up!<br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1605876761/popup_acwztt.png">
 
 \* _hiervoor dient gespreksopname te zijn ingeschakeld, dit is een dienst met een meerprijs._
