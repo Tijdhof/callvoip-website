@@ -6,7 +6,7 @@ images: []
 hideinsearch: false
 Nieuw: false
 Update: true
-pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus_30.pdf
+pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_Plus.pdf
 hideingoogle: false
 hidesocialshare: false
 
