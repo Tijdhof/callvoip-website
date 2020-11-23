@@ -35,7 +35,7 @@ We vroegen om te komen tot deze tips niet de minsten, namelijk onze eigen Suppor
 
 **Tom**
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png" style="float:left">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png" style="float:right">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
 
 Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
 
