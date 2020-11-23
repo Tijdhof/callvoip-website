@@ -5,8 +5,8 @@ description: 'Ervaringen en tips voor bellen met je browser van echte veelbeller
 images:
 - "/v1606138439/marieke_tom_fs3brz.png"
 featured: false
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -15,8 +15,8 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
-url: "/nieuws/webcalls-tips"
+date: 2020-11-23T23:00:00+00:00
+url: "/nieuws/webcalls-tips/"
 contactpersoon: []
 categories: []
 tags: []
@@ -25,7 +25,7 @@ type: ''
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1606138439/marieke_tom_fs3brz.png)<br>We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
 
-We vroegen om te komen tot deze tips niet de minsten, namelijk onze eigen Support Toppers. Want wie belt er nou meer en weet er meer van dan zij? Precies: niemand. We stellen ze even voor:
+We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. Want wie belt er nou meer en weet er meer van dan zij? Precies: niemand. We stellen ze even voor:
 
 **Marieke**
 
