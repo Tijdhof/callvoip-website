@@ -42,19 +42,21 @@ Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, iede
 
 Herken je dat? Je bent aan het werk en hebt 387 tabbladen open in je browser. Geeft niks, je bent niet alleen. Ook bij Callvoip hebben we een paar tabjeskoningen en koninginnen waar Marieke er zeker één van is.
 
-Marieke: “Ik belde altijd door in Click to Dial het nummer te zoeken en via mijn Yealink uit te bellen. Ik hoef niet te zoeken en kan op het display van de Yealink alle info zien.”
+> Marieke: “Ik belde altijd door in Click to Dial het nummer te zoeken en via mijn Yealink uit te bellen. Ik hoef niet te zoeken en kan op het display van de Yealink alle info zien.”
 
 Maar wat nu als je Webcalls gebruikt, en je wilt gaan bellen? Hoe vind je dan snel in het oerwoud van tabjes jouw Webcalls terug?
 
-Tom: “Je loopt, zeker als je uit wilt bellen, al snel door je openstaande tabs heen te klikken. Heb je hem als zgn. ‘snelle link’ in Chrome of Edge dan staat Webcalls altijd paraat. Vergelijkbaar aan Marieke’s geliefde Yealink op het bureau ;-)”
+> Tom: “Je loopt, zeker als je uit wilt bellen, al snel door je openstaande tabs heen te klikken. Heb je hem als zgn. ‘snelle link’ in Chrome of Edge dan staat Webcalls altijd paraat. Vergelijkbaar aan Marieke’s geliefde Yealink op het bureau ;-)”
 
-Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en je haalt dan de tab met Webcalls los als apart venster. Heb je hem zo gevonden als je wilt bellen!
+Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en je haalt dan de tab met Webcalls los als apart venster. Heb je hem zo gevonden als je wilt bellen! 
 
-2. **Gebruik verschillende browsers**
+Bekijk [onze handleiding, pagina 5,](https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf) hoe vastpinnen in de browser werkt. 
+
+1. **Gebruik verschillende browsers**
 
 Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon je Webcalls in een andere browser openen. Surf je altijd in Chrome? Open je Webcalls dan in bijvoorbeeld Firefox. Zo heb je lekker overzichtelijk in je taakbalk onder in beeld je verschillende vensters. Webcalls werkt in alle bekende browsers.
 
-3. **Maak de UC panel standaard in het opstarten van je browser**
+1. **Maak de UC panel standaard in het opstarten van je browser**
 
 Bellen in je browser, dat is Webcalls. Kort door de bocht betekent dat dus wel: geen browser open? Niet bereikbaar via Webcalls. Anders dan een toestel op je bureau wat altijd klaar voor de start staat, moet je voor Webcalls wel je browser openen en ingelogd zijn op jouw UC panel.
 
@@ -62,7 +64,7 @@ Nu bestaat de kans dat je toch wel elke ochtend aan het begin van je werkdag een
 
 **Hoe dan?**
 
-4. **Creëer overzicht in al je gesprekken**
+1. **Creëer overzicht in al je gesprekken**
 
 Doordat je nu je computerscherm als dashboard hebt voor je telefonie, en niet het vaak kleine schermpje met een paar regels tekst van je vaste toestel, heb je beter overzicht.
 
@@ -76,7 +78,7 @@ Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. E
 
 Uitbellen kan door in je telefoonboek op een naam te klikken, zonder de dial te openen. Ook in de dial heb je natuurlijk je telefoonboek. Het werkt allemaal zowel overzichtelijk als intuïtief.
 
-5. **Handige accessoires en andere tips**
+1. **Handige accessoires en andere tips**
 
 Waar kun je niet zonder als je via Webcalls gaat bellen? Zowel Marieke als Tom noemen meteen een goede, draadloze headset.
 
