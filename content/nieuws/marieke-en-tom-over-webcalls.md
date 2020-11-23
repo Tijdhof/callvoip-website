@@ -37,7 +37,7 @@ Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waa
 
 Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
 
-1. **Vastpinnen in Chrome / Edge**
+<b>1. **Vastpinnen in Chrome / Edge**</b>
 
 Herken je dat? Je bent aan het werk en hebt 387 tabbladen open in je browser. Geeft niks, je bent niet alleen. Ook bij Callvoip hebben we een paar tabjeskoningen en koninginnen waar Marieke er zeker één van is.
 
@@ -51,13 +51,13 @@ Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en j
 
 Bekijk [onze handleiding, pagina 5,](https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf) hoe vastpinnen in de browser werkt. 
 
-2. **Gebruik verschillende browsers**
+<b>2. **Gebruik verschillende browsers**</b>
 
 Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon je Webcalls in een andere browser openen. Surf je altijd in Chrome? Open je Webcalls dan in bijvoorbeeld Firefox. Zo heb je lekker overzichtelijk in je taakbalk onder in beeld je verschillende vensters. Webcalls werkt in alle bekende browsers, dus je hebt volop keuze.
 
 > Marieke: "In de praktijk gebruik ik nu een combinatie van vastpinnen én een andere browser. Ik open 's morgens de vastgepinde link in de browser waarmee ik bel naast mijn standaard favoriete browser. Het is even een nieuwe routine maar die heb je binnen een week te pakken."
 
-3. **Maak de UC panel standaard in het opstarten van je browser**
+<b>3. **Maak de UC panel standaard in het opstarten van je browser**</b>
 
 Bellen in je browser, dat is Webcalls. Kort door de bocht betekent dat dus wel: geen browser open? Niet bereikbaar via Webcalls. Anders dan een toestel op je bureau wat altijd klaar voor de start staat, moet je voor Webcalls wel eerst je browser openen en ingelogd zijn op jouw UC panel.
 
@@ -65,7 +65,7 @@ Nu bestaat de kans dat je toch wel elke ochtend aan het begin van je werkdag een
 
 In Chrome of Edge: ga naar je instellingen en zoek het kopje _Bij opstarten_. Daar kun je aangeven dat je bij het openen een specifieke pagina, in dit geval jouw UC Panel, altijd wilt starten. Bij Firefox ga je naar _Opties_ en vervolgens _Startpagina._
 
-4. **Creëer overzicht in al je gesprekken**
+<b>4. **Creëer overzicht in al je gesprekken**</b>
 
 Doordat je nu je computerscherm als dashboard hebt voor je telefonie, en niet het vaak kleine schermpje met een paar regels tekst van je vaste toestel, heb je beter overzicht.
 
@@ -79,7 +79,7 @@ Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. E
 
 Uitbellen kan door in je telefoonboek op een naam te klikken, zonder de dial te openen. Ook in de dial heb je natuurlijk je telefoonboek. Het werkt allemaal zowel overzichtelijk als intuïtief.
 
-5. **Handige accessoires en andere tips**
+<b>5. **Handige accessoires en andere tips**</b>
 
 Waar kun je niet zonder als je via Webcalls gaat bellen? Zowel Marieke als Tom noemen meteen een goede, draadloze headset.
 
@@ -92,5 +92,5 @@ Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale
 > Marieke: “Iedereen weet dat ik groot fan ben van onze [Click to Dial](https://www.callvoip.nl/telefonie/clicktodial/). Webcalls en die Click to Dial is een geslaagd huwelijk. Ik bel vrijwel altijd uit met die handige Chrome extensie, dus het feit dat mijn favoriete tools zo goed samenwerken, vind ik fantastisch!"
 
 ***
-
+<br>
 Inmiddels draait de Callvoip Support volledig op Webcalls. Dat alleen al vertelt je dat het een prettige, goed doordachte oplossing is. Onze Marieke en Tom zijn namelijk niet de minste bellers, goed voor vele uurtjes per week. Wil jij ook meer weten over Webcalls? Neem dan contact met ze op, ze vertellen je graag meer. En je kunt dan meteen horen hoe het klinkt.
