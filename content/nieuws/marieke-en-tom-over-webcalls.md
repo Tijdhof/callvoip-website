@@ -84,10 +84,14 @@ Uitbellen kan door in je telefoonboek op een naam te klikken, zonder de dial te 
 
 Waar kun je niet zonder als je via Webcalls gaat bellen? Zowel Marieke als Tom noemen meteen een goede, draadloze headset.
 
-Marieke: “Zeker voor veelbellers als wij is een comfortabele, goede headset onontbeerlijk. Wij bellen met bluetooth Jabra Evolves die een opvallend hoge prijs-kwaliteit verhouding hebben. Ze hebben goede, heldere audio aan beide kanten van de lijn, zitten ook aan het eind van de dag nog comfortabel en zijn gemakkelijk in gebruik.”
+> Marieke: “Zeker voor veelbellers als wij is een comfortabele, goede headset onontbeerlijk. Wij bellen met bluetooth Jabra Evolves die een opvallend hoge prijs-kwaliteit verhouding hebben. Ze hebben goede, heldere audio aan beide kanten van de lijn, zitten ook aan het eind van de dag nog comfortabel en zijn gemakkelijk in gebruik.”
 
 Vind ook jouw ideale headset met de [nieuwe keuzehulp in onze webshop](https://callvoip.shop/module/choosist/Choosist?id_choosist_question=8)!
 
 Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale. Zo krijg je de [prefix](https://www.callvoip.nl/telefonie/functionaliteiten/prefix/) gewoon op de popup als je gebeld wordt. Heb je een [wachtrij](https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/), dan zie je de tijd dat iemand in de wacht heeft gestaan. Nuttige informatie dus aan het begin van zo’n gesprek.
 
-Marieke: “Iedereen weet dat ik groot fan ben van onze [Click to Dial](https://www.callvoip.nl/telefonie/clicktodial/). Webcalls en die Click to Dial is een geslaagd huwelijk. Ik bel vrijwel altijd uit met die handige Chrome extensie, dus het feit dat mijn favoriete tools zo goed samenwerken, vind ik fantastisch!”
+> Marieke: “Iedereen weet dat ik groot fan ben van onze [Click to Dial](https://www.callvoip.nl/telefonie/clicktodial/). Webcalls en die Click to Dial is een geslaagd huwelijk. Ik bel vrijwel altijd uit met die handige Chrome extensie, dus het feit dat mijn favoriete tools zo goed samenwerken, vind ik fantastisch!"
+
+***
+
+Inmiddels draait de Callvoip Support volledig op Webcalls. Dat alleen al vertelt je dat het een prettige, goed doordachte oplossing is. Onze Marieke en Tom zijn namelijk niet de minste bellers, goed voor vele uurtjes per week. Wil jij ook meer weten over Webcalls? Neem dan contact met ze op, ze vertellen je graag meer. En je kunt dan meteen horen hoe het klinkt.
