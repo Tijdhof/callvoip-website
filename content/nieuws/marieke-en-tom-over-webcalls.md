@@ -1,0 +1,89 @@
+---
+title: Marieke en Tom over Webcalls
+description: 'Ervaringen en tips voor bellen met je browser van echte veelbellers:
+  onze Marieke en Tom. '
+images: []
+featured: false
+hideinsearch: true
+hideingoogle: true
+hidesocialshare: false
+image_uitgelicht: ''
+hero:
+  image: ''
+  mobile: ''
+  link: ''
+  disable_image_on_mobile: false
+author: ''
+date: 
+url: webcalls-tips
+contactpersoon: []
+categories: []
+tags: []
+draft: true
+
+---
+We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
+
+We vroegen om te komen tot deze tips niet de minsten, namelijk onze eigen Support Toppers. Want wie belt er nou meer en weet er meer van dan zij? Precies: niemand. We stellen ze even voor:
+
+**Marieke**
+
+Op onze [teampagina ](https://www.callvoip.nl/overons/team/)wordt ze het Orakel van Callvoip genoemd, en niets is minder waar. Het leeuwendeel van de Callvoip klanten kent haar en ze kan je alles over de centrale en aanverwanten vertellen. Maar voor deze test is hoeveel je van onze centrale weet eigenlijk niet relevant. Het gaat om de activiteit bellen zelf. Hoe belde Marieke al die uren vóór de komst van Webcalls? Want dat bepaalt voor een groot deel haar blik.
+
+> “Mijn Yealink T46s is al jaren mijn steun en toeverlaat in het bellend leven. Hij staat me bij tijdens alle supporttelefoontjes en ik kan ermee lezen en schrijven. Ik combineer dit toestel met mijn trouwe Plantronics DECT headset voor draadloos gemak en comfort.”
+
+**Tom**
+
+Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+
+Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
+
+1. **Vastpinnen in Chrome / Edge**
+
+Herken je dat? Je bent aan het werk en hebt 387 tabbladen open in je browser. Geeft niks, je bent niet alleen. Ook bij Callvoip hebben we een paar tabjeskoningen en koninginnen waar Marieke er zeker één van is.
+
+Marieke: “Ik belde altijd door in Click to Dial het nummer te zoeken en via mijn Yealink uit te bellen. Ik hoef niet te zoeken en kan op het display van de Yealink alle info zien.”
+
+Maar wat nu als je Webcalls gebruikt, en je wilt gaan bellen? Hoe vind je dan snel in het oerwoud van tabjes jouw Webcalls terug?
+
+Tom: “Je loopt, zeker als je uit wilt bellen, al snel door je openstaande tabs heen te klikken. Heb je hem als zgn. ‘snelle link’ in Chrome of Edge dan staat Webcalls altijd paraat. Vergelijkbaar aan Marieke’s geliefde Yealink op het bureau ;-)”
+
+Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en je haalt dan de tab met Webcalls los als apart venster. Heb je hem zo gevonden als je wilt bellen!
+
+2. **Gebruik verschillende browsers**
+
+Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon je Webcalls in een andere browser openen. Surf je altijd in Chrome? Open je Webcalls dan in bijvoorbeeld Firefox. Zo heb je lekker overzichtelijk in je taakbalk onder in beeld je verschillende vensters. Webcalls werkt in alle bekende browsers.
+
+3. **Maak de UC panel standaard in het opstarten van je browser**
+
+Bellen in je browser, dat is Webcalls. Kort door de bocht betekent dat dus wel: geen browser open? Niet bereikbaar via Webcalls. Anders dan een toestel op je bureau wat altijd klaar voor de start staat, moet je voor Webcalls wel je browser openen en ingelogd zijn op jouw UC panel.
+
+Nu bestaat de kans dat je toch wel elke ochtend aan het begin van je werkdag een browser opent. Voor je mail, CRM, noem het maar op. Dan kun je gemakkelijk instellen dat bepaalde websites standaard geopend worden zodra jij jouw browser start. Zet daar dus de UC panel bij en klaar!
+
+**Hoe dan?**
+
+4. **Creëer overzicht in al je gesprekken**
+
+Doordat je nu je computerscherm als dashboard hebt voor je telefonie, en niet het vaak kleine schermpje met een paar regels tekst van je vaste toestel, heb je beter overzicht.
+
+Tom: “Naast Webcalls staat er ook nog een vast toestel op mijn bureau, een Yealink T42s. Mooi ding natuurlijk, maar een displaytje van een paar centimeter breed en hoog. Het grote scherm voor mijn neus kan mij veel meer en vooral ook overzichtelijker informeren over mijn lopende gesprekken. Dat werkt erg prettig“
+
+Het UC-Panel is de omgeving waarin Webcalls actief is. Het biedt, naast je gesprekken, al je persoonlijke informatie omtrent jouw telefonie. Denk aan gespreksgeschiedenis, telefoonboek etc.
+
+Marieke: “Wat ik ook mooi vind aan Webcalls is dat de profielfoto’s van gebruikers nu écht een plek krijgen. Op mijn Yealink lachen mijn collega’s mij niet toe, in Webcalls wel. Dit doet stiekem veel voor het persoonlijke aspect, zeker in tijden van thuiswerken waar je elkaar minder treft.”
+
+Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van je gesprekken links in beeld, de actieve bovenin, wisselen met 1 klik. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de melding te klikken.
+
+Uitbellen kan door in je telefoonboek op een naam te klikken, zonder de dial te openen. Ook in de dial heb je natuurlijk je telefoonboek. Het werkt allemaal zowel overzichtelijk als intuïtief.
+
+5. **Handige accessoires en andere tips**
+
+Waar kun je niet zonder als je via Webcalls gaat bellen? Zowel Marieke als Tom noemen meteen een goede, draadloze headset.
+
+Marieke: “Zeker voor veelbellers als wij is een comfortabele, goede headset onontbeerlijk. Wij bellen met bluetooth Jabra Evolves die een opvallend hoge prijs-kwaliteit verhouding hebben. Ze hebben goede, heldere audio aan beide kanten van de lijn, zitten ook aan het eind van de dag nog comfortabel en zijn gemakkelijk in gebruik.”
+
+Vind ook jouw ideale headset met de nieuwe keuzehulp in onze webshop!
+
+Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale. Zo krijg je de prefix gewoon op de popup als je gebeld wordt. Heb je een wachtrij, dan zie je de tijd dat iemand in de wacht heeft gestaan. Nuttige informatie dus aan het begin van zo’n gesprek.
+
+Marieke: “Iedereen weet dat ik groot fan ben van onze Click to Dial. Webcalls en die Click to Dial is een geslaagd huwelijk. Ik bel vrijwel altijd uit met die handige Chrome extensie, dus het feit dat mijn favoriete tools zo goed samenwerken, vind ik fantastisch!”
