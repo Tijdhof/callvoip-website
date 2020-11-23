@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: webcalls-tips
+url: "/nieuws/webcalls-tips"
 contactpersoon: []
 categories: []
 tags: []
