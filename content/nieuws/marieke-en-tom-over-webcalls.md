@@ -87,6 +87,8 @@ Waar kun je niet zonder als je via Webcalls gaat bellen? Zowel Marieke als Tom n
 
 > Marieke: “Zeker voor veelbellers als wij is een comfortabele, goede headset onontbeerlijk. Wij bellen met bluetooth Jabra Evolves die een opvallend hoge prijs-kwaliteit verhouding hebben. Ze hebben goede, heldere audio aan beide kanten van de lijn, zitten ook aan het eind van de dag nog comfortabel en zijn gemakkelijk in gebruik.”
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1605539914/webcallertje_cwr7l4.png)
+
 Vind ook jouw ideale headset met de [nieuwe keuzehulp in onze webshop](https://callvoip.shop/module/choosist/Choosist?id_choosist_question=8)!
 
 Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale. Zo krijg je de [prefix](https://www.callvoip.nl/telefonie/functionaliteiten/prefix/) gewoon op de popup als je gebeld wordt. Heb je een [wachtrij](https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/), dan zie je de tijd dat iemand in de wacht heeft gestaan. Nuttige informatie dus aan het begin van zo’n gesprek.
@@ -97,3 +99,7 @@ Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale
 
 <br>
 Inmiddels draait de Callvoip Support volledig op Webcalls. Dat alleen al vertelt je dat het een prettige, goed doordachte oplossing is. Onze Marieke en Tom zijn namelijk niet de minste bellers, goed voor vele uurtjes per week. Wil jij ook meer weten over Webcalls? Neem dan contact met ze op, ze vertellen je graag meer. En je kunt dan meteen horen hoe het klinkt.
+
+Telefoonnummer: 050 820 00 00
+
+E-mail: callvoip@callvoip.nl
