@@ -52,19 +52,19 @@ Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en j
 
 Bekijk [onze handleiding, pagina 5,](https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf) hoe vastpinnen in de browser werkt. 
 
-1. **Gebruik verschillende browsers**
+2. **Gebruik verschillende browsers**
 
-Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon je Webcalls in een andere browser openen. Surf je altijd in Chrome? Open je Webcalls dan in bijvoorbeeld Firefox. Zo heb je lekker overzichtelijk in je taakbalk onder in beeld je verschillende vensters. Webcalls werkt in alle bekende browsers.
+Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon je Webcalls in een andere browser openen. Surf je altijd in Chrome? Open je Webcalls dan in bijvoorbeeld Firefox. Zo heb je lekker overzichtelijk in je taakbalk onder in beeld je verschillende vensters. Webcalls werkt in alle bekende browsers, dus je hebt volop keuze.
 
-1. **Maak de UC panel standaard in het opstarten van je browser**
+3. **Maak de UC panel standaard in het opstarten van je browser**
 
-Bellen in je browser, dat is Webcalls. Kort door de bocht betekent dat dus wel: geen browser open? Niet bereikbaar via Webcalls. Anders dan een toestel op je bureau wat altijd klaar voor de start staat, moet je voor Webcalls wel je browser openen en ingelogd zijn op jouw UC panel.
+Bellen in je browser, dat is Webcalls. Kort door de bocht betekent dat dus wel: geen browser open? Niet bereikbaar via Webcalls. Anders dan een toestel op je bureau wat altijd klaar voor de start staat, moet je voor Webcalls wel eerst je browser openen en ingelogd zijn op jouw UC panel.
 
 Nu bestaat de kans dat je toch wel elke ochtend aan het begin van je werkdag een browser opent. Voor je mail, CRM, noem het maar op. Dan kun je gemakkelijk instellen dat bepaalde websites standaard geopend worden zodra jij jouw browser start. Zet daar dus de UC panel bij en klaar!
 
 **Hoe dan?**
 
-1. **Creëer overzicht in al je gesprekken**
+4. **Creëer overzicht in al je gesprekken**
 
 Doordat je nu je computerscherm als dashboard hebt voor je telefonie, en niet het vaak kleine schermpje met een paar regels tekst van je vaste toestel, heb je beter overzicht.
 
