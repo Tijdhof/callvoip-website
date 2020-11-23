@@ -28,13 +28,13 @@ We vroegen om te komen tot deze tips niet de minsten, namelijk onze eigen Suppor
 
 **Marieke**
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1606139132/marieke_h7gzfs.png)Op onze [teampagina ](https://www.callvoip.nl/overons/team/)wordt ze het Orakel van Callvoip genoemd, en niets is minder waar. Het leeuwendeel van de Callvoip klanten kent haar en ze kan je alles over de centrale en aanverwanten vertellen. Maar voor deze test is hoeveel je van onze centrale weet eigenlijk niet relevant. Het gaat om de activiteit bellen zelf. Hoe belde Marieke al die uren vóór de komst van Webcalls? Want dat bepaalt voor een groot deel haar blik.
+![](https://res.cloudinary.com/callvoip/image/upload/v1606139518/marieke_n4y4ri.png)Op onze [teampagina ](https://www.callvoip.nl/overons/team/)wordt ze het Orakel van Callvoip genoemd, en niets is minder waar. Het leeuwendeel van de Callvoip klanten kent haar en ze kan je alles over de centrale en aanverwanten vertellen. Maar voor deze test is hoeveel je van onze centrale weet eigenlijk niet relevant. Het gaat om de activiteit bellen zelf. Hoe belde Marieke al die uren vóór de komst van Webcalls? Want dat bepaalt voor een groot deel haar blik.
 
 > “Mijn Yealink T46s is al jaren mijn steun en toeverlaat in het bellend leven. Hij staat me bij tijdens alle supporttelefoontjes en ik kan ermee lezen en schrijven. Ik combineer dit toestel met mijn trouwe Plantronics DECT headset voor draadloos gemak en comfort.”
 
 **Tom**
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1606139061/tom_fpzgjg.png)Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+![](https://res.cloudinary.com/callvoip/image/upload/v1606139675/tom_spiqst.png)Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
 
 Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
 
