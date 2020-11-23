@@ -72,22 +72,22 @@ Doordat je nu je computerscherm als dashboard hebt voor je telefonie, en niet he
 
 > Tom: “Naast Webcalls staat er ook nog een vast toestel op mijn bureau, een Yealink T42s. Mooi ding natuurlijk, maar een displaytje van een paar centimeter breed en hoog. Het grote scherm voor mijn neus kan mij veel meer en vooral ook overzichtelijker informeren over mijn lopende gesprekken. Dat werkt erg prettig“
 
-Het UC-Panel is de omgeving waarin Webcalls actief is. Het biedt, naast je gesprekken, al je persoonlijke informatie omtrent jouw telefonie. Denk aan gespreksgeschiedenis, telefoonboek etc.
+Het [UC-Panel](https://www.callvoip.nl/telefonie/ucpanel/) is de omgeving waarin Webcalls actief is. Het biedt, naast je gesprekken, al je persoonlijke informatie omtrent jouw telefonie. Denk aan gespreksgeschiedenis, telefoonboek etc.
 
-Marieke: “Wat ik ook mooi vind aan Webcalls is dat de profielfoto’s van gebruikers nu écht een plek krijgen. Op mijn Yealink lachen mijn collega’s mij niet toe, in Webcalls wel. Dit doet stiekem veel voor het persoonlijke aspect, zeker in tijden van thuiswerken waar je elkaar minder treft.”
+> Marieke: “Wat ik ook mooi vind aan Webcalls is dat de profielfoto’s van gebruikers nu écht een plek krijgen. Op mijn Yealink lachen mijn collega’s mij niet toe, in Webcalls wel. Dit doet stiekem veel voor het persoonlijke aspect, zeker in tijden van thuiswerken waar je elkaar minder treft.”
 
 Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van je gesprekken links in beeld, de actieve bovenin, wisselen met 1 klik. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de melding te klikken.
 
 Uitbellen kan door in je telefoonboek op een naam te klikken, zonder de dial te openen. Ook in de dial heb je natuurlijk je telefoonboek. Het werkt allemaal zowel overzichtelijk als intuïtief.
 
-1. **Handige accessoires en andere tips**
+5. **Handige accessoires en andere tips**
 
 Waar kun je niet zonder als je via Webcalls gaat bellen? Zowel Marieke als Tom noemen meteen een goede, draadloze headset.
 
 Marieke: “Zeker voor veelbellers als wij is een comfortabele, goede headset onontbeerlijk. Wij bellen met bluetooth Jabra Evolves die een opvallend hoge prijs-kwaliteit verhouding hebben. Ze hebben goede, heldere audio aan beide kanten van de lijn, zitten ook aan het eind van de dag nog comfortabel en zijn gemakkelijk in gebruik.”
 
-Vind ook jouw ideale headset met de nieuwe keuzehulp in onze webshop!
+Vind ook jouw ideale headset met de [nieuwe keuzehulp in onze webshop](https://callvoip.shop/module/choosist/Choosist?id_choosist_question=8)!
 
-Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale. Zo krijg je de prefix gewoon op de popup als je gebeld wordt. Heb je een wachtrij, dan zie je de tijd dat iemand in de wacht heeft gestaan. Nuttige informatie dus aan het begin van zo’n gesprek.
+Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale. Zo krijg je de [prefix](https://www.callvoip.nl/telefonie/functionaliteiten/prefix/) gewoon op de popup als je gebeld wordt. Heb je een [wachtrij](https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/), dan zie je de tijd dat iemand in de wacht heeft gestaan. Nuttige informatie dus aan het begin van zo’n gesprek.
 
-Marieke: “Iedereen weet dat ik groot fan ben van onze Click to Dial. Webcalls en die Click to Dial is een geslaagd huwelijk. Ik bel vrijwel altijd uit met die handige Chrome extensie, dus het feit dat mijn favoriete tools zo goed samenwerken, vind ik fantastisch!”
+Marieke: “Iedereen weet dat ik groot fan ben van onze [Click to Dial](https://www.callvoip.nl/telefonie/clicktodial/). Webcalls en die Click to Dial is een geslaagd huwelijk. Ik bel vrijwel altijd uit met die handige Chrome extensie, dus het feit dat mijn favoriete tools zo goed samenwerken, vind ik fantastisch!”
