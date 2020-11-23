@@ -19,7 +19,6 @@ url: webcalls-tips
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
 We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
