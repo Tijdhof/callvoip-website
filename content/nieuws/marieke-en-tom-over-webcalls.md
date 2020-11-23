@@ -22,19 +22,19 @@ categories: []
 tags: []
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1606138439/marieke_tom_fs3brz.png)We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
+![](https://res.cloudinary.com/callvoip/image/upload/v1606138439/marieke_tom_fs3brz.png)<br>We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
 
 We vroegen om te komen tot deze tips niet de minsten, namelijk onze eigen Support Toppers. Want wie belt er nou meer en weet er meer van dan zij? Precies: niemand. We stellen ze even voor:
 
 **Marieke**
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1606139518/marieke_n4y4ri.png)Op onze [teampagina ](https://www.callvoip.nl/overons/team/)wordt ze het Orakel van Callvoip genoemd, en niets is minder waar. Het leeuwendeel van de Callvoip klanten kent haar en ze kan je alles over de centrale en aanverwanten vertellen. Maar voor deze test is hoeveel je van onze centrale weet eigenlijk niet relevant. Het gaat om de activiteit bellen zelf. Hoe belde Marieke al die uren vóór de komst van Webcalls? Want dat bepaalt voor een groot deel haar blik.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1606139518/marieke_n4y4ri.png" style="float:right">Op onze [teampagina ](https://www.callvoip.nl/overons/team/)wordt ze het Orakel van Callvoip genoemd, en niets is minder waar. Het leeuwendeel van de Callvoip klanten kent haar en ze kan je alles over de centrale en aanverwanten vertellen. Maar voor deze test is hoeveel je van onze centrale weet eigenlijk niet relevant. Het gaat om de activiteit bellen zelf. Hoe belde Marieke al die uren vóór de komst van Webcalls? Want dat bepaalt voor een groot deel haar blik.
 
 > “Mijn Yealink T46s is al jaren mijn steun en toeverlaat in het bellend leven. Hij staat me bij tijdens alle supporttelefoontjes en ik kan ermee lezen en schrijven. Ik combineer dit toestel met mijn trouwe Plantronics DECT headset voor draadloos gemak en comfort.”
 
 **Tom**
 
-![](https://res.cloudinary.com/callvoip/image/upload/v1606139675/tom_spiqst.png)Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1606139675/tom_spiqst.png" style="float:left">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
 
 Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
 
