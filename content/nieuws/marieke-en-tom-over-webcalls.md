@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-11-23T23:00:00+00:00
+date: 2020-11-22T23:00:00+00:00
 url: "/nieuws/webcalls-tips/"
 contactpersoon: []
 categories: []
