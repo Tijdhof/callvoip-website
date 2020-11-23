@@ -20,6 +20,7 @@ url: "/nieuws/webcalls-tips"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1606138439/marieke_tom_fs3brz.png)<br>We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
@@ -34,7 +35,7 @@ We vroegen om te komen tot deze tips niet de minsten, namelijk onze eigen Suppor
 
 **Tom**
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1606139675/tom_spiqst.png" style="float:left">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+<img src="![](https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png)" style="float:left">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
 
 Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
 
