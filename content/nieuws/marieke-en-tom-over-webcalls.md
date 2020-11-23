@@ -21,7 +21,7 @@ categories: []
 tags: []
 
 ---
-We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
+![](https://res.cloudinary.com/callvoip/image/upload/v1606138439/marieke_tom_fs3brz.png)We hebben iets nieuws! [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)heet het, en bellen via je browser is het. Dat is natuurlijk erg kort door de bocht voor een functionaliteit die heel wat in zijn mars heeft! Daarom gaan we in deze blog in op wat je allemaal kunt doen om optimaal van Webcalls gebruik te maken.
 
 We vroegen om te komen tot deze tips niet de minsten, namelijk onze eigen Support Toppers. Want wie belt er nou meer en weet er meer van dan zij? Precies: niemand. We stellen ze even voor:
 
@@ -47,9 +47,9 @@ Maar wat nu als je Webcalls gebruikt, en je wilt gaan bellen? Hoe vind je dan sn
 
 > Tom: “Je loopt, zeker als je uit wilt bellen, al snel door je openstaande tabs heen te klikken. Heb je hem als zgn. ‘snelle link’ in Chrome of Edge dan staat Webcalls altijd paraat. Vergelijkbaar aan Marieke’s geliefde Yealink op het bureau ;-)”
 
-Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en je haalt dan de tab met Webcalls los als apart venster. Heb je hem zo gevonden als je wilt bellen! 
+Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en je haalt dan de tab met Webcalls los als apart venster. Heb je hem zo gevonden als je wilt bellen!
 
-Bekijk [onze handleiding, pagina 5,](https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf) hoe vastpinnen in de browser werkt. 
+Bekijk [onze handleiding, pagina 5,](https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf) hoe vastpinnen in de browser werkt.
 
 <b>2. **Gebruik verschillende browsers**</b>
 
@@ -92,5 +92,6 @@ Verder werkt Webcalls ook samen met de verschillende handigheden van de centrale
 > Marieke: “Iedereen weet dat ik groot fan ben van onze [Click to Dial](https://www.callvoip.nl/telefonie/clicktodial/). Webcalls en die Click to Dial is een geslaagd huwelijk. Ik bel vrijwel altijd uit met die handige Chrome extensie, dus het feit dat mijn favoriete tools zo goed samenwerken, vind ik fantastisch!"
 
 ***
+
 <br>
 Inmiddels draait de Callvoip Support volledig op Webcalls. Dat alleen al vertelt je dat het een prettige, goed doordachte oplossing is. Onze Marieke en Tom zijn namelijk niet de minste bellers, goed voor vele uurtjes per week. Wil jij ook meer weten over Webcalls? Neem dan contact met ze op, ze vertellen je graag meer. En je kunt dan meteen horen hoe het klinkt.
