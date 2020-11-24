@@ -37,7 +37,17 @@ We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. 
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png" style="float:right">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
 
-Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
+<b>Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?</b>
+
+<hr>
+
+1. Pin Webcalls vast in Chrome of Edge
+2. Gebruik verschillende browsers
+3. Open het UC Panel zodra je je browser opent
+4. Overzicht en snelheid dankzij dashboard en Click to Dial
+5. Handige accessoires en andere tips 
+
+<hr>
 
 <b>1. **Vastpinnen in Chrome / Edge**</b>
 
