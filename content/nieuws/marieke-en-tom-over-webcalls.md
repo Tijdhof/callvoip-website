@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-11-22T23:00:00+00:00
+date: 2020-11-22T23:00:00.000+00:00
 url: "/nieuws/webcalls-tips/"
 contactpersoon: []
 categories: []
@@ -41,8 +41,6 @@ Onze laatste aanwinst maakt veel bel-uren in zijn rol als support medewerker. Wa
 
 <br>
 
-<hr>
-
 <br>
 
 Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
@@ -51,7 +49,7 @@ Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, iede
 2. Gebruik verschillende browsers
 3. Open het UC Panel zodra je je browser opent
 4. Overzicht en snelheid dankzij dashboard en Click to Dial app
-5. Handige accessoires en andere tips 
+5. Handige accessoires en andere tips
 
 <hr>
 
@@ -103,11 +101,11 @@ Met Webcalls heb je op je computerscherm nu je telefonie-dashboard. Dat biedt me
 
 > Tom: “Naast Webcalls staat er ook nog een vast toestel op mijn bureau, een Yealink T42S. Mooi ding natuurlijk, maar een displaytje van een paar centimeter breed en hoog. Het grote scherm voor mijn neus kan mij veel meer en vooral ook overzichtelijker informeren over mijn lopende gesprekken. Dat werkt erg prettig.“
 
-Het [UC-Panel](https://www.callvoip.nl/telefonie/ucpanel/) is de omgeving waarin Webcalls actief is. Het biedt, naast je gesprekken, al je persoonlijke informatie omtrent jouw telefonie. Denk aan gespreksgeschiedenis, telefoonboek etc. En je kunt klikken en gelijk bellen. 
+Het [UC-Panel](https://www.callvoip.nl/telefonie/ucpanel/) is de omgeving waarin Webcalls actief is. Het biedt, naast je gesprekken, al je persoonlijke informatie omtrent jouw telefonie. Denk aan gespreksgeschiedenis, telefoonboek etc. En je kunt klikken en gelijk bellen.
 
 > Marieke: “Wat ik ook mooi vind aan Webcalls is dat je de profielfoto’s van je collega's in beeld ziet. Op mijn Yealink lachen mijn collega’s mij niet toe, in Webcalls wel. Dit doet stiekem veel voor het persoonlijke aspect, zeker in tijden van thuiswerken waar je elkaar minder treft. Verder is het overzicht over alle gelijktijdige gesprekken en hun status én de prefix en tijdsduur echt subliem voor het overzicht! En dankzij de Click to Dial extensie heb ik ook een Webcalls telefoonboek. ”
 
-Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van alle inkomende, lopende, wachtende en afgeronde gesprekken links in beeld, op kleur, met de tijd, met de prefix. De actieve gesprekken staan bovenaan de lijst. Je wisselt met één klik tussen gesprekken en verbindt gemakkelijk door. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de browsermelding te klikken. In Firefox heb je continu een handig icoontje bovenaan je venster. 
+Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van alle inkomende, lopende, wachtende en afgeronde gesprekken links in beeld, op kleur, met de tijd, met de prefix. De actieve gesprekken staan bovenaan de lijst. Je wisselt met één klik tussen gesprekken en verbindt gemakkelijk door. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de browsermelding te klikken. In Firefox heb je continu een handig icoontje bovenaan je venster.
 
 Uitbellen kan door in je dashboard op een recent nummer of collega te klikken, door een nummer te toetsen of te plakken en - nog makkelijker - door de Click to Dial te gebruiken. Zoek en klik een contact in je Click to Dial bedrijfstelefoonboek; webcalls gaat bellen, neem aan en je belt al uit. Gewoon een ander nummer kopiëren en plakken werkt uiteraard ook. Het werkt allemaal erg overzichtelijk en intuïtief.
 
