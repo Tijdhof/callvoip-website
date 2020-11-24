@@ -87,19 +87,19 @@ In Chrome of Edge: open Webcalls; ga dan linksboven naar de browser-instellingen
 
 <br><hr>
 
-<b>4. **Creëer overzicht in al je gesprekken**</b>
+<b>4. **Overzicht in al je gesprekken dankzij Dashboard en Click to Dial**</b>
 
-Doordat je nu je computerscherm als dashboard hebt voor je telefonie, en niet het vaak kleine schermpje met een paar regels tekst van je vaste toestel, heb je beter overzicht.
+Met Webcalls heb je op je computerscherm nu je telefonie-dashboard. Dat biedt meer overzicht dan het vaak kleine schermpje met een paar regels tekst van je vaste bureautoestel. Dat maakt dat je meer en beter overzicht hebt.
 
-> Tom: “Naast Webcalls staat er ook nog een vast toestel op mijn bureau, een Yealink T42s. Mooi ding natuurlijk, maar een displaytje van een paar centimeter breed en hoog. Het grote scherm voor mijn neus kan mij veel meer en vooral ook overzichtelijker informeren over mijn lopende gesprekken. Dat werkt erg prettig“
+> Tom: “Naast Webcalls staat er ook nog een vast toestel op mijn bureau, een Yealink T42S. Mooi ding natuurlijk, maar een displaytje van een paar centimeter breed en hoog. Het grote scherm voor mijn neus kan mij veel meer en vooral ook overzichtelijker informeren over mijn lopende gesprekken. Dat werkt erg prettig.“
 
-Het [UC-Panel](https://www.callvoip.nl/telefonie/ucpanel/) is de omgeving waarin Webcalls actief is. Het biedt, naast je gesprekken, al je persoonlijke informatie omtrent jouw telefonie. Denk aan gespreksgeschiedenis, telefoonboek etc.
+Het [UC-Panel](https://www.callvoip.nl/telefonie/ucpanel/) is de omgeving waarin Webcalls actief is. Het biedt, naast je gesprekken, al je persoonlijke informatie omtrent jouw telefonie. Denk aan gespreksgeschiedenis, telefoonboek etc. En je kunt klikken en gelijk bellen. 
 
-> Marieke: “Wat ik ook mooi vind aan Webcalls is dat de profielfoto’s van gebruikers nu écht een plek krijgen. Op mijn Yealink lachen mijn collega’s mij niet toe, in Webcalls wel. Dit doet stiekem veel voor het persoonlijke aspect, zeker in tijden van thuiswerken waar je elkaar minder treft.”
+> Marieke: “Wat ik ook mooi vind aan Webcalls is dat je de profielfoto’s van je collega's in beeld ziet. Op mijn Yealink lachen mijn collega’s mij niet toe, in Webcalls wel. Dit doet stiekem veel voor het persoonlijke aspect, zeker in tijden van thuiswerken waar je elkaar minder treft. Verder is het overzicht over alle gelijktijdige gesprekken en hun status én de prefix en tijdsduur echt subliem voor het overzicht! En dankzij de Click to Dial extensie heb ik ook een Webcalls telefoonboek. ”
 
-Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van je gesprekken links in beeld, de actieve bovenin, wisselen met 1 klik. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de melding te klikken.
+Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van alle inkomende, lopende, wachtende en afgeronde gesprekken links in beeld, op kleur, met de tijd, met de prefix. De actieve gesprekken staan bovenaan de lijst. Je wisselt met één klik tussen gesprekken en verbindt gemakkelijk door. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de browsermelding te klikken. In Firefox heb je continu een handig icoontje bovenaan je venster. 
 
-Uitbellen kan door in je telefoonboek op een naam te klikken, zonder de dial te openen. Ook in de dial heb je natuurlijk je telefoonboek. Het werkt allemaal zowel overzichtelijk als intuïtief.
+Uitbellen kan door in je dahsboard op een recent nummer of collega te klikken, door een nummer te toetsen of te plakken en - nog makkelijker - door de Click to Dial te gebruiken. Zoek en klik een contact in je Click to Dial bedrijfstelefoonboek; webcalls gaat bellen, neem aan en je belt al uit. Gewoon een ander nummer kopieren en plakken werkt uiteraard ook. Het werkt allemaal erg overzichtelijk en intuïtief.
 
 <br><hr>
 
