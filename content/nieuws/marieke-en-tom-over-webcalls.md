@@ -35,11 +35,9 @@ We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. 
 
 <br>
 
-<img src="![](https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png)" style="float:right">**Tom**
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png)" style="float:right">**Tom**
 
 Onze laatste aanwinst maakt veel bel-uren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse bel-uurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
-
-<br>
 
 <br>
 
@@ -73,7 +71,9 @@ Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en j
 
 Bekijk [onze handleiding, pagina 5,](https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf) hoe vastpinnen in de browser werkt.
 
-<br><hr>
+<br>
+
+<hr>
 
 <b>2. **Gebruik verschillende browsers naast elkaar**</b>
 
@@ -81,7 +81,9 @@ Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon
 
 > Marieke: "In de praktijk gebruik ik nu een combinatie van vastpinnen én een andere browser. Ik open 's morgens de vastgepinde link in de browser waarmee ik bel naast mijn standaard favoriete browser. Het is even een nieuwe routine maar die heb je binnen een week te pakken."
 
-<br><hr>
+<br>
+
+<hr>
 
 <b>3. **Open het UC Panel standaard zodra je de browser start**</b>
 
@@ -91,7 +93,9 @@ Nu bestaat de kans dat je toch wel elke ochtend aan het begin van je werkdag een
 
 In Chrome of Edge: open Webcalls; ga dan linksboven naar de browser-instellingen en zoek naar het kopje _Bij opstarten_. Geef daar aan dat je bij het openen een pagina altijd wilt starten. Bij Firefox ga je naar _Opties_ en vervolgens _Startpagina._ Voilá!
 
-<br><hr>
+<br>
+
+<hr>
 
 <b>4. **Overzicht in al je gesprekken dankzij Dashboard en Click to Dial**</b>
 
@@ -107,7 +111,9 @@ Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. E
 
 Uitbellen kan door in je dashboard op een recent nummer of collega te klikken, door een nummer te toetsen of te plakken en - nog makkelijker - door de Click to Dial te gebruiken. Zoek en klik een contact in je Click to Dial bedrijfstelefoonboek; webcalls gaat bellen, neem aan en je belt al uit. Gewoon een ander nummer kopiëren en plakken werkt uiteraard ook. Het werkt allemaal erg overzichtelijk en intuïtief.
 
-<br><hr>
+<br>
+
+<hr>
 
 <b>5. **Handige accessoires en andere tips**</b>
 
