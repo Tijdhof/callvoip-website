@@ -39,6 +39,8 @@ We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. 
 
 <b>Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?</b>
 
+<br>
+
 <hr>
 
 1. Pin Webcalls vast in Chrome of Edge
@@ -49,7 +51,9 @@ We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. 
 
 <hr>
 
-<b>1. **Vastpinnen in Chrome / Edge**</b>
+<br>
+
+<b>1. **Pin Webcalls vast in Chrome of Edge**</b>
 
 Herken je dat? Je bent aan het werk en hebt 387 tabbladen open in je browser. Geeft niks, je bent niet alleen. Ook bij Callvoip hebben we een paar tabjeskoningen en koninginnen waar Marieke er zeker één van is.
 
@@ -63,11 +67,15 @@ Pin de tab met Webcalls dus als snelle link vast! Dat kan in Chrome of Edge en j
 
 Bekijk [onze handleiding, pagina 5,](https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf) hoe vastpinnen in de browser werkt.
 
-<b>2. **Gebruik verschillende browsers**</b>
+<br><hr>
+
+<b>2. **Gebruik verschillende browsers naast elkaar**</b>
 
 Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon je Webcalls in een andere browser openen. Surf je altijd in Chrome? Open je Webcalls dan in bijvoorbeeld Firefox. Zo heb je lekker overzichtelijk in je taakbalk onder in beeld je verschillende vensters. Webcalls werkt in alle bekende browsers, dus je hebt volop keuze.
 
 > Marieke: "In de praktijk gebruik ik nu een combinatie van vastpinnen én een andere browser. Ik open 's morgens de vastgepinde link in de browser waarmee ik bel naast mijn standaard favoriete browser. Het is even een nieuwe routine maar die heb je binnen een week te pakken."
+
+<br><hr>
 
 <b>3. **Maak de UC panel standaard in het opstarten van je browser**</b>
 
