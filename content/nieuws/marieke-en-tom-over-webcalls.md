@@ -33,20 +33,26 @@ We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. 
 
 > “Mijn Yealink T46s is al jaren mijn steun en toeverlaat in het bellend leven. Hij staat me bij tijdens alle supporttelefoontjes en ik kan ermee lezen en schrijven. Ik combineer dit toestel met mijn trouwe Plantronics DECT headset voor draadloos gemak en comfort.”
 
+<br>
+
 **Tom**
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png" style="float:right">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png" style="float:right">Onze laatste aanwinst maakt veel bel-uren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse bel-uurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+
+<br>
 
 <br>
 
 <hr>
+
+<br>
 
 Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
 
 1. Pin Webcalls vast in Chrome of Edge
 2. Gebruik verschillende browsers
 3. Open het UC Panel zodra je je browser opent
-4. Overzicht en snelheid dankzij dashboard en Click to Dial
+4. Overzicht en snelheid dankzij dashboard en Click to Dial app
 5. Handige accessoires en andere tips 
 
 <hr>
@@ -99,7 +105,7 @@ Het [UC-Panel](https://www.callvoip.nl/telefonie/ucpanel/) is de omgeving waarin
 
 Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van alle inkomende, lopende, wachtende en afgeronde gesprekken links in beeld, op kleur, met de tijd, met de prefix. De actieve gesprekken staan bovenaan de lijst. Je wisselt met één klik tussen gesprekken en verbindt gemakkelijk door. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de browsermelding te klikken. In Firefox heb je continu een handig icoontje bovenaan je venster. 
 
-Uitbellen kan door in je dahsboard op een recent nummer of collega te klikken, door een nummer te toetsen of te plakken en - nog makkelijker - door de Click to Dial te gebruiken. Zoek en klik een contact in je Click to Dial bedrijfstelefoonboek; webcalls gaat bellen, neem aan en je belt al uit. Gewoon een ander nummer kopieren en plakken werkt uiteraard ook. Het werkt allemaal erg overzichtelijk en intuïtief.
+Uitbellen kan door in je dashboard op een recent nummer of collega te klikken, door een nummer te toetsen of te plakken en - nog makkelijker - door de Click to Dial te gebruiken. Zoek en klik een contact in je Click to Dial bedrijfstelefoonboek; webcalls gaat bellen, neem aan en je belt al uit. Gewoon een ander nummer kopiëren en plakken werkt uiteraard ook. Het werkt allemaal erg overzichtelijk en intuïtief.
 
 <br><hr>
 
