@@ -35,9 +35,9 @@ We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. 
 
 <br>
 
-**Tom**
+<img src="![](https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png)" style="float:right">**Tom**
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png" style="float:right">Onze laatste aanwinst maakt veel bel-uren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse bel-uurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
+Onze laatste aanwinst maakt veel bel-uren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse bel-uurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
 
 <br>
 
