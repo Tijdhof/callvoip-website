@@ -37,11 +37,11 @@ We vroegen voor deze tips niet de minsten, namelijk onze eigen Support Toppers. 
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1606140370/tom_ywvpbo.png" style="float:right">Onze laatste aanwinst maakt veel beluren in zijn rol als support medewerker. Waar Marieke en haar Yealink een volledig op elkaar ingespeeld team waren, mocht Tom eigenlijk al vrij snel in de bèta van Webcalls werken voor zijn dagelijkse beluurtjes. Dit geeft hem een ander perspectief op veel bellen dan Marieke.
 
-<b>Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?</b>
-
 <br>
 
 <hr>
+
+Wat vinden Marieke en Tom nu van onze nieuwste functionaliteit en wat zijn, ieder met een eigen bril, hun tips?
 
 1. Pin Webcalls vast in Chrome of Edge
 2. Gebruik verschillende browsers
@@ -77,13 +77,15 @@ Je kunt dus een tab van je favoriete browser vastpinnen. Maar je kunt ook gewoon
 
 <br><hr>
 
-<b>3. **Maak de UC panel standaard in het opstarten van je browser**</b>
+<b>3. **Open het UC Panel standaard zodra je de browser start**</b>
 
 Bellen in je browser, dat is Webcalls. Kort door de bocht betekent dat dus wel: geen browser open? Niet bereikbaar via Webcalls. Anders dan een toestel op je bureau wat altijd klaar voor de start staat, moet je voor Webcalls wel eerst je browser openen en ingelogd zijn op jouw UC panel.
 
-Nu bestaat de kans dat je toch wel elke ochtend aan het begin van je werkdag een browser opent. Voor je mail, CRM, noem het maar op. Dan kun je gemakkelijk instellen dat bepaalde websites standaard geopend worden zodra jij jouw browser start. Zet daar dus de UC panel bij en klaar!
+Nu bestaat de kans dat je toch wel elke ochtend aan het begin van je werkdag een browser opent. Voor je mail, CRM, noem het maar op. Dan kun je gemakkelijk instellen dat bepaalde websites standaard geopend worden zodra jij jouw browser start. Voeg daar dus het UC Panel met Webcalls aan toe - en klaar!
 
-In Chrome of Edge: ga naar je instellingen en zoek het kopje _Bij opstarten_. Daar kun je aangeven dat je bij het openen een specifieke pagina, in dit geval jouw UC Panel, altijd wilt starten. Bij Firefox ga je naar _Opties_ en vervolgens _Startpagina._
+In Chrome of Edge: open Webcalls; ga dan linksboven naar de browser-instellingen en zoek naar het kopje _Bij opstarten_. Geef daar aan dat je bij het openen een pagina altijd wilt starten. Bij Firefox ga je naar _Opties_ en vervolgens _Startpagina._ Voilá!
+
+<br><hr>
 
 <b>4. **Creëer overzicht in al je gesprekken**</b>
 
@@ -98,6 +100,8 @@ Het [UC-Panel](https://www.callvoip.nl/telefonie/ucpanel/) is de omgeving waarin
 Voor allebei geldt dat ze erg te spreken zijn over de gebruiksvriendelijkheid. Een duidelijk overzicht van je gesprekken links in beeld, de actieve bovenin, wisselen met 1 klik. Ook wanneer er een gesprek binnenkomt als je Webcalls tab niet actief is kun je deze met 1 klik naar voren halen door op de melding te klikken.
 
 Uitbellen kan door in je telefoonboek op een naam te klikken, zonder de dial te openen. Ook in de dial heb je natuurlijk je telefoonboek. Het werkt allemaal zowel overzichtelijk als intuïtief.
+
+<br><hr>
 
 <b>5. **Handige accessoires en andere tips**</b>
 
