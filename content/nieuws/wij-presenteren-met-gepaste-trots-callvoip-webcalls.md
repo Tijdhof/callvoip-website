@@ -7,14 +7,14 @@ featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1606376955/Screenshot_3_zcmy6w.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-11-15T23:00:00+00:00
+date: 2020-11-15T23:00:00.000+00:00
 url: "/nieuws/webcalls/"
 contactpersoon: []
 categories: []
@@ -59,4 +59,4 @@ Al met al zijn wij best wel enthousiast over deze nieuwe toevoeging aan ons toch
 
 Ben je benieuwd en wil je eens testen of het wat voor jullie is? Dan hebben we nog meer goed nieuws: Webcalls is namelijk **tot 1 januari 2021 gratis, voor niks, kosteloos!** Na de aanbieding zullen de kosten gelijk zijn aan een toestelaccount: € 4,- / maand.
 
-Wil je Webcalls proberen of zat je er als velen eigenlijk simpelweg op te wachten? Activeer het dan bij de gebruikersinstellingen in onze panel ([klik hier](https://www.callvoip.nl/login/) om in te loggen) of bel/mail/chat ons, we helpen je graag en laten je zien hoe het werkt. 
+Wil je Webcalls proberen of zat je er als velen eigenlijk simpelweg op te wachten? Activeer het dan bij de gebruikersinstellingen in onze panel ([klik hier](https://www.callvoip.nl/login/) om in te loggen) of bel/mail/chat ons, we helpen je graag en laten je zien hoe het werkt.
