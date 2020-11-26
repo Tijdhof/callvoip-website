@@ -3,7 +3,7 @@ title: 'Better safe than sorry: hoe wij jou helpen veilig te telefoneren.'
 description: ''
 images:
 - "/v1598968424/Screenshot_7_zekrsa.png"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
