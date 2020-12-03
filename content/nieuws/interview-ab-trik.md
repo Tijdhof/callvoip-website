@@ -1,5 +1,5 @@
 ---
-title: Interview Ab Trik
+title: Interview Kwebbl - Ab Trik
 description: ''
 images: []
 featured: false
@@ -20,6 +20,7 @@ categories: []
 tags: []
 
 ---
+<center><img src="https://res.cloudinary.com/callvoip/image/upload/v1607004573/logo.ea4919e3_isp74d.svg"></center>
 #### 1. Wie zijn jullie en welke producten / diensten leveren jullie?
 
 (Wellicht nog oprichtingsdatum en het aantal jaren dat we samenwerken)
