@@ -53,7 +53,7 @@ Door het vertrouwen en steun van Callvoip heeft Kwebbl zich kunnen concentreren 
 #### 6. Terugblik op 2020; een raar/bijzonder jaar…
 
 **_Hoe kijken jullie over het algemeen terug op dit jaar?_**
-<img style="float:right" src="https://res.cloudinary.com/callvoip/image/upload/v1607004756/113219-de1417ad-7aa4-4c04-bcec-33e69a3e4999-kwebbllogo_smart-medium-1383927530_cyf1ym.png">
+<img style="float:right" src="https://res.cloudinary.com/callvoip/image/upload/v1607004756/113219-de1417ad-7aa4-4c04-bcec-33e69a3e4999-kwebbllogo_smart-medium-1383927530_cyf1ym.png"><br>
 2020 is een heel bijzonder jaar waarbij een groot gedeelte van onze gebruikers gedwongen werden om thuis te werken. Hiervoor hebben wij hele mooie nieuwe functionaliteiten kunnen toevoegen aan ons platform, waaronder Web Calls, 2-Factor Autentication als extra beveiliginglaag voor gebruikers en uitgebreide CRM integraties.
 
 **_Wat was het effect van Corona op de vraag naar de producten/diensten?_**
