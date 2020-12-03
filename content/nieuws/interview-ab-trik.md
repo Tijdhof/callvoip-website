@@ -94,3 +94,4 @@ Regelmatig hebben we sessies om door te nemen wat Kwebbl kan verbeteren aan de h
 **_Hebben jullie nog een eindejaars-boodschap of wens voor onze gezamenlijk klanten voor 2021?_**
 
 Wij kijken uit naar een voortzetting van onze goede samenwerking met Callvoip in 2021 en dat we er voor zorgen dat we in goede gezondheid veel klanten blijven voorzien van een stabiele, gebruiksvriendelijke en multifunctionele communicatie-oplossing.
+<center><img src="https://res.cloudinary.com/callvoip/image/upload/v1607004755/images_u4dh1h.jpg"></center>
