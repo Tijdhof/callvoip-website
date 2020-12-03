@@ -73,7 +73,7 @@ Gezien het feit dat ook de ontwikkelaars van Kwebbl thuis werken en niet gezamen
 Zonder twijfel missen we het contact van de collega’s op de werkvloer die belangrijk is voor de afstemming van de werkzaamheden. We hebben door de Corona wel andere opvattingen gekregen over de richting van de ontwikkeling van het platform wat een hele goede zaak is.
 
 **_Hoe zien jullie de komende periode tegemoet voor de korte en lange termijn?_**
-<img style="float:left" src="https://res.cloudinary.com/callvoip/image/upload/v1607004762/Hero.1615cc45_ncv3ia.gif">
+<img style="float:left" src="https://res.cloudinary.com/callvoip/image/upload/v1607004762/Hero.1615cc45_ncv3ia.gif" height="200" width="203"><br>
 Zaken die aanvankelijk voor de lange termijn werden verwacht, zullen door de Corona meer korte termijn ontwikkelingen zijn. Denk hierbij aan meer thuis werken, meer mobiel werken, minder vaste telefonie en meer integraties om efficienter te werken.
 
 **_Wat blijft er en wat zou weer anders kunnen worden?_**
