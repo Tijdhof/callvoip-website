@@ -29,23 +29,23 @@ Zijn strategie is altijd geweest om in eerste instantie alles naar zich toe trek
 In zijn begintijd was XS4ALL als grondleggende internetprovider bezig om met een armada aan producten (waaronder FRITZ!-producten) en diensten de markt fundamenteel te veroveren en te innoveren. Andere soortgelijke organisaties zoals AVM, die hier slim op wisten in te spelen, plukten hier dankbaar de vruchten van en verdienden zo hun eigen stuk(je) terrein binnen een ondertussen volwassen geworden markt. AVM is XS4ALL namens Eric daarom met recht dankbaar voor hun baanbrekende werk en voortschrijdend inzicht.
 
 #### Eric, waarin is AVM uniek in haar soort volgens jou?
-
+<br>
 **Eric;** _“In een notendop onderscheidt AVM zich binnen haar markt door in alle varianten op het gebied van internettoegang passende FRITZ!-producten aan te bieden. De kunst daarin is om de lijn van passende producten door te trekken tot ieder denkbaar device van de eindgebruiker. Anders heb je er uiteindelijk niks aan_._”_
-
+<br>
 #### Maar waarin komt het snijvlak met de dienstverlening van Callvoip dan duidelijk naar voren binnen ons partnerschap?
-
+<br>
 **Eric;** _“Niet alleen stabiele en snelle internetverbinding is belangrijk voor de klant. Maar net zo goed of zij alles kunnen doen op hun ‘eind-device’. Om dat totale traject doortastend te reguleren heb je een autoriteit nodig die het je haarfijn en begrijpelijk kan uitleggen. Zonder al teveel commerciële bijbedoelingen of opsmuk. Callvoip heeft dit als geen ander in de vingers. Het gaat tegenwoordig meer dan ooit om het kunnen aanbieden van de juiste combinatie van passende producten en diensten. Samen vormen die de beste totaaloplossing voor ieder type klant. Daarin zit de kracht van Callvoip en in het verlengde daarvan ons jarenlange partnerschap. De meeste AVM-klanten hebben een duidelijke behoefte aan kwaliteit en heldere uitleg; hoe dan, waarom dan en met wat? Alle specialisten bij jullie zijn in staat zijn om verschillende combinaties van de beste producten uit te zoeken voor klanten. Jullie staan al jaren mee te doen met Coolblue en andere grote jongens. Dat is krachtig en uniek voor zo’n relatief kleine organisatie. Door sterke providers krijgen klanten extra inhoud en kwaliteit.”_
 
 **Wij;** _Nou ehm.., zonder al teveel woorden vuil te maken aan de spreekwoordelijke wc-eend, zijn wij je dankbaar voor deze woorden. Het staat met gepaste trots op onze website, maar jij zegt het gelukkig._
-
+<br>
 #### Hoe kijk jij verder eigenlijk aan tegen succesvolle partnerschappen tussen organisaties Eric? Wat maakt een dergelijke samenwerking zoals die van ons in concrete zin tot een sterk verhaal?
-
+<br>
 **Eric;** _“Als je zolang samenwerkt als wij kun je elkaar op de juiste manier feedback geven. Laten we eerlijk zijn, er gaan soms zaken niet helemaal goed. Maar dan kun je elkaar oprecht de waarheid vertellen ten gunste van de kwaliteit voor de klant. Op elkaar bouwen en elkaar blindelings vertrouwen om het maar zo te zeggen. Soms goed ruziemaken geeft ook kracht aan je partnerschap.”_
-
+<br>
 #### Even iets anders ten aanzien van de huidige spelers op de Europese/Duitse en Nederlandse markt. Hoe zie jij de toekomst zich ontvouwen als het gaat om concurrentie met een gigant als Amazon? Ook t.o.v. onze eigen brand awareness?
-
+<br>
 **Eric;** _“Jullie brand awareness is nog niet optimaal. Daar kun je jaar in jaar uit aan blijven werken. Een brand bouwen dient eerst een solide basis te hebben. Voor betere brand awareness hebben kleinere bedrijven juist grote reuzen als Amazon nodig om de massa te bereiken met dezelfde producten. Zij schuiven eerst een x-aantal aan grote hoeveelheden naar voren in de totale markt. XS4ALL deed dat vroeger al, Amazon doet dat nu._ _Vervolgens moeten klanten het je gunnen op basis van kwaliteit, persoonlijke service en gemak. Die gunfactor heeft Callvoip. Wees eerlijk, puur op prijs leg je het gewoon af tegen zulke spelers. Blijf daarom betrouwbaar, toegankelijk en authentiek, in plaats van nietszeggende dozenschuiver. Dit zal zich op de langere termijn altijd uitbetalen.”_
-
+<br>
 #### Hoe ziet de toekomst eruit voor AVM in z’n algemeenheid volgens jou met betrekking tot de Duitse markt?
-
+<br>
 **Eric;** “_Als je kijkt naar de totale afzetmarkt is die enorm. Bij een zeker ‘tweakers-publiek’ zijn sommigen verliefd op ons of ze haten ons juist. Onze totale verkoop door de jaren heen is tot stand gekomen door de juiste kruisbestuiving tussen verschillende verbonden markten en betrokken partijen. Duitsland zit zakelijk gezien een beetje anders in elkaar dan bijvoorbeeld Nederland. Alleen AVM doet het bijna Nederlands in Duitsland en dat werkt verfrissend. Ik mag met mijn ‘Hollandse benadering’ in ieder geval 1x per jaar met de vuist op tafel slaan bij mijn collega’s op het hoofdkantoor in Duitsland. Daar vinden ze overigens dat ik dat nog wel iets vaker mag doen. Die sporen heb ik geloof ik door mijn ervaring en dienstjaren verdiend. Kortom, we zetten onze lijn qua strategie lekker door en zullen daar waar nodig en kansen liggen altijd blijven verbeteren en innoveren.”_
