@@ -20,7 +20,7 @@ categories: []
 tags: []
 
 ---
-#### 1 Wat is jullie rol als onze partner en waarin verschilt onze samenwerking tov andere partnerschappen in onze business? Waarin onderscheiden wij ons in ons partnerschap?
+#### 1. Wat is jullie rol als onze partner en waarin verschilt onze samenwerking tov andere partnerschappen in onze business? Waarin onderscheiden wij ons in ons partnerschap?
 
 * Lydis is een kenniscentrum. Naast de support aan onze resellers, geven wij advies, demo’s, POC presentaties bij eindgebruikers.
 * Lydis biedt als Value Added Distributeur exceptionele ondersteuning op zowel commercieel als technisch vlak voor al onze producten. Al onze producten zijn officieel gecertificeerd bij een groot aantal providers en carriers  in de Benelux  
@@ -38,11 +38,11 @@ tags: []
 * De samenwerking ervaren wij als trouw en loyaal naar elkaar.
 * Waar Lydis voor staat komt overeen met de normen en waarden van Tijdhof.
 
-  \-Service gericht
+  \- Service gericht
 
-  \-Sparringpartner op basis van wederzijds vertrouwen 
+  \- Sparringpartner op basis van wederzijds vertrouwen 
 
-  \-Kijkend naar passende oplossingen,
+  \- Kijkend naar passende oplossingen,
 
 #### 4. We werken al lang samen, wat zien jullie als grootste voordeel van onze langdurige samenwerking? 
 
