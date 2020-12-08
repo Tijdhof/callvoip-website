@@ -30,7 +30,7 @@ In zijn begintijd was XS4ALL als grondleggende internetprovider bezig om met een
 
 #### Eric, waarin is AVM uniek in haar soort volgens jou?
 
-**Eric;** _“In een notendop onderscheidt AVM zich binnen haar markt door in alle varianten op het gebied van internettoegang passende FRITZ!-producten aan te bieden. De kunst daarin is om de lijn van passende producten door te trekken tot ieder denkbaar device van de eindgebruiker. Anders heb je er uiteindelijk niks aan.”_
+**Eric;** _“In een notendop onderscheidt AVM zich binnen haar markt door in alle varianten op het gebied van internettoegang passende FRITZ!-producten aan te bieden. De kunst daarin is om de lijn van passende producten door te trekken tot ieder denkbaar device van de eindgebruiker. Anders heb je er uiteindelijk niks aan_._”_
 
 #### Maar waarin komt het snijvlak met de dienstverlening van Callvoip dan duidelijk naar voren binnen ons partnerschap?
 
