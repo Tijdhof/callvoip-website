@@ -22,8 +22,6 @@ tags: []
 ---
 #### Wie zijn jullie en welke producten / diensten leveren jullie?
 
-(Wellicht nog oprichtingsdatum en het aantal jaren dat we samenwerken)
-
 AVM is in 1986 opgericht in Berlijn door een 4-tal studenten opgericht en die zijn nog altijd aandeelhouder. Het begon met de webshop die in eerste instantie met XS4ALL klanten die via de shop Fritz-producten konden kopen. Destijds waren de belangrijkste producten modem-routers die gebruikt werden door de providers. Uiteindelijk werden deze door de jaren heen opgevolgd door diverse innovatieve nieuwe productlijnen van Fritz. 
 
 #### Wat is jullie rol als onze partner en waarin verschilt onze samenwerking tov andere partnerschappen in onze business? Waarin onderscheiden wij ons in ons partnerschap?
@@ -89,5 +87,7 @@ Jullie spreken regelmatig met onze support-afdeling en als daarbij via jullie bo
 ####  Wens of boodschap voor onze gezamenlijk klanten
 
 **Hebben jullie nog een eindejaars-boodschap of wens voor onze gezamenlijk klanten voor 2021?**
+
+ 
 
 Dat het een heel mooi en succesvol jaar mag worden. Dat jullie en jullie klanten veelvuldig mogen genieten van onze producten en service en blijf vooral verbonden.
