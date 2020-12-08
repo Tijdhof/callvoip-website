@@ -35,7 +35,7 @@ In zijn begintijd was XS4ALL als grondleggende internetprovider bezig om met een
 <h4>Maar waarin komt het snijvlak met de dienstverlening van Callvoip dan duidelijk naar voren binnen ons partnerschap?</h4>
 <br>
 <b>Eric;</b> <i>“Niet alleen stabiele en snelle internetverbinding is belangrijk voor de klant. Maar net zo goed of zij alles kunnen doen op hun ‘eind-device’. Om dat totale traject doortastend te reguleren heb je een autoriteit nodig die het je haarfijn en begrijpelijk kan uitleggen. Zonder al teveel commerciële bijbedoelingen of opsmuk. Callvoip heeft dit als geen ander in de vingers. Het gaat tegenwoordig meer dan ooit om het kunnen aanbieden van de juiste combinatie van passende producten en diensten. Samen vormen die de beste totaaloplossing voor ieder type klant. Daarin zit de kracht van Callvoip en in het verlengde daarvan ons jarenlange partnerschap. De meeste AVM-klanten hebben een duidelijke behoefte aan kwaliteit en heldere uitleg; hoe dan, waarom dan en met wat? Alle specialisten bij jullie zijn in staat zijn om verschillende combinaties van de beste producten uit te zoeken voor klanten. Jullie staan al jaren mee te doen met Coolblue en andere grote jongens. Dat is krachtig en uniek voor zo’n relatief kleine organisatie. Door sterke providers krijgen klanten extra inhoud en kwaliteit.”</i>
-<br>
+<br><br>
 <b>Wij;</b> <i>Nou ehm.., zonder al teveel woorden vuil te maken aan de spreekwoordelijke wc-eend, zijn wij je dankbaar voor deze woorden. Het staat met gepaste trots op onze website, maar jij zegt het gelukkig.</i>
 <br><br>
 <h4>Hoe kijk jij verder eigenlijk aan tegen succesvolle partnerschappen tussen organisaties Eric? Wat maakt een dergelijke samenwerking zoals die van ons in concrete zin tot een sterk verhaal?</h4>
