@@ -18,7 +18,6 @@ url: interview-avm
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
 **Ken je die? Mensen die zoveel bloed, zweet en tranen in hun passie stoppen, dat ze één geheel vormen met een bewuste materie. Ze staan in kennis, ervaring en visie binnen hun vakgebied op eenzame hoogte. Eric van Uden uit Wijchen is er zo eentje vinden wij bij Callvoip. Een mastodont binnen de wereld van intelligente wifi-verbindingen en smarthome-infrastructuren. Beter gezegd een internet opperhoofd, al kroont zijn organisatie AVM hem sinds wat jaartjes tot country manager. Staat Eric van Uden dan symbool voor AVM Nederland? “Absoluut niet, belangrijk om te duiden!”; luidt zijn repliek. AVM Nederland draait al lang niet meer om enkel Eric van Uden. Ze zijn een volwassen team van 9 man sterk en in breed verband sterk vertegenwoordigd in specifieke kennis en kunde. Wij van Callvoip mochten Eric even lenen en aan de tand voelen over strategieën, visies en succesvolle partnerschappen.**
