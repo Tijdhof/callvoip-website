@@ -1,5 +1,5 @@
 ---
-title: Interview Raymond Stuk
+title: Interview Raymond Teigeler - AVM
 description: ''
 images: []
 featured: false
@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: interview-raymondstuk
+url: interview-raymond
 contactpersoon: []
 categories: []
 tags: []
