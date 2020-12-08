@@ -37,12 +37,9 @@ tags: []
 
 * De samenwerking ervaren wij als trouw en loyaal naar elkaar.
 * Waar Lydis voor staat komt overeen met de normen en waarden van Tijdhof.
-
-  \- Service gericht
-
-  \- Sparringpartner op basis van wederzijds vertrouwen 
-
-  \- Kijkend naar passende oplossingen,
+  - Service gericht
+  - Sparringpartner op basis van wederzijds vertrouwen 
+  - Kijkend naar passende oplossingen,
 
 #### 4. We werken al lang samen, wat zien jullie als grootste voordeel van onze langdurige samenwerking? 
 
