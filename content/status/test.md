@@ -7,29 +7,19 @@ Geen meldingen; de telefoondienst werkt naar behoren.<br>
 
 ======================
 
-<b>Onderhoud succesvol uitgevoerd: </b>
+<b>allestoringen.nl</b>
 
-Onderhoud van het telefoonsysteem werd uitgevoerd op:  
-Start: vrij 13 nov 2020 om 23.00 uur  
-Eind: za 14 nov 2020 om 06.00 uur
+Op dit moment ervaren veel klanten problemen met de telefonie als gevolg van storingen bij diverse grote internetproviders zoals Ziggo, KPN, etc.   
+Er is geen storing met de telefoondienst, maar omdat uw telefoon gebruik maakt van de internetverbinding kunt u toch problemen ervaren. <br>  
+> zie <a href="http://www.allestoringen.nl">www.allestoringen.nl</a> voor de status.
 
-Het onderhoud is succesvol uitgevoerd.  
-**Let op**: vanaf nu is de startpagina van de centrale het UC Panel.  
-Via **menu -> telefooncentrale**, kom je weer in het bedrijfsbeheerpaneel.
+U kunt op uw Callvoip telefooncentrale inloggen en hier bv een doorschakeling naar mobiel, meldtekst of voicemail instellen om de hinder voor uw klanten te beperken. 
 
+Kunnen wij assisteren? Stuur dan een email naar callvoip@callvoip.nl met uw wens, wij maken dit dan zo snel mogelijk in orde. 
+
+====
+
+LET OP: voortaan log je in via het UC Panel, klik op telefooncentrale om naar de beheeromgeving te gaan.   
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1605526837/panelswitch_dxfj6a.png">
-
-======================
-
-<b>13-11-2020 - XS4ALL modemupdates </b>
-
-Heb je XS4ALL internet en werkt de telefonie niet meer na de update van de FRITZBox<br>  
-Doe dan het volgende:  
-\* Doe de FRITZBox uit, wacht 30 sec en doe hem weer aan  
-\* Doe daarna uw telefoon/DECT basisstation uit, wacht 30 sec, en weer aan  
-\* test of alles weer werkt
-
-Lukt het niet, stuur dan een email naar callvoip@callvoip.nl met je telefoonnummer.  
-Wij proberen je dan spoedig te assisteren bij het herstellen ervan.
 
 ======================
