@@ -15,7 +15,9 @@ Er is geen storing met de telefoondienst, maar omdat uw telefoon gebruik maakt v
 
 U kunt op uw Callvoip telefooncentrale inloggen en hier bv een doorschakeling naar mobiel, meldtekst of voicemail instellen om de hinder voor uw klanten te beperken. 
 
-Kunnen wij assisteren? Stuur dan een email naar callvoip@callvoip.nl met uw wens, wij maken dit dan zo snel mogelijk in orde. 
+Kunnen wij assisteren? Stuur dan een email naar callvoip@callvoip.nl met uw wens, wij maken dit dan zo snel mogelijk in orde.
+<br>
+<a href="https://allestoringen.nl/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1607592762/Screenshot_5_js0udn.png"></a>
 
 ====
 
