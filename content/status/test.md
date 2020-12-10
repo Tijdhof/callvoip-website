@@ -7,7 +7,7 @@ Geen meldingen; de telefoondienst werkt naar behoren.<br>
 
 ======================
 
-<b>allestoringen.nl</b>
+<b>Storingsmelding 10 december 2020:</b>
 
 Op dit moment ervaren veel klanten problemen met de telefonie als gevolg van storingen bij diverse grote internetproviders zoals Ziggo, KPN, etc.   
 Er is geen storing met de telefoondienst, maar omdat uw telefoon gebruik maakt van de internetverbinding kunt u toch problemen ervaren. <br>  
