@@ -26,6 +26,12 @@ aliases: "/roadmap"
 type: ''
 
 ---
+<h2>2020:</h2><br>
+<h2>Onze belovtes van 2019:</h2>
+<br>
+We hebben in 2019 een aantal updates belooft...<br>
+
+<h2>2019:</h2>
 <br>
 2019: kleurrijk jaar met veel hoogtepunten.<br>
 Wandel mee langs een aantal Callvoip mijlpalen en voel de energie!<br>
