@@ -1,5 +1,5 @@
 ---
-title: Partner profiel 1
+title: 'Callvoip''s partners: AVM'
 url: "/partners/avm/"
 type: page
 hero:
@@ -25,17 +25,20 @@ blocks:
 double_content:
   left:
     title: ''
-    content: Misschien ken je AVM wel helemaal niet. Dat horen we namelijk wel vaker.
+    content: "Misschien ken je AVM wel helemaal niet. Dat horen we namelijk wel vaker.
       Toch is het een grote speler die met name bekend is van de FRITZ!Box modem routers.
-      En die kennen dan weer wel veel mensen. Er wordt over gezegd dat ze een sterke
+      Maar ze hebben veel meer in hun mars en timmeren ook aan de weg binnen smart
+      home toepassingen, repeaters etc. <br>\n\nDe FRITZ!Box is in tegenstelling tot
+      de naam AVM wel bekend bijl veel mensen. Er wordt over gezegd dat ze een sterke
       combinatie zijn van hoge kwaliteit hardware met een super gebruiksvriendelijke
-      interface. En dat vinden wij ook.
+      interface. En dat vinden wij ook. Daarom maken we graag gebruik van de apparatuur
+      van AVM. En raden we bij bijvoorbeeld onze <a href=\"/internet/overzicht/\">eigen
+      internetverbindingen</a> ook vaak een FRITZ!Box aan als modem-router.  \n"
   right:
     background: true
     background_color: "#efefef"
-    title: In het kort
+    title: 'In het kort: AVM GmbH'
     content: |-
-      <b>AVM GmbH</b><br>
       <div class="usp-list"><ul><li>
       Hoofdkantoor: Berlijn, Duitsland</li>
       <li>Bestaat sinds: 1986</li>
