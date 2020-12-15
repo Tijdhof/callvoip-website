@@ -16,7 +16,7 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
   en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
-layout: landing
+layout: partnerprofiel
 hideinsearch: false
 hideingoogle: false
 blocks:
@@ -28,11 +28,7 @@ double_content:
     content: 'Alles onder 1 dak, kant en klaar en supersnel geleverd. Callvoip combineert
       de ongeëvenaarde online telefooncentrale met een internetverbinding waar je
       op kunt vertrouwen. Dit alles laten we je in een telefoongesprek zien. We zoomen
-      in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!<br><br><b>Wij
-      bieden:</b><div class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet
-      en apparatuur</li><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets
-      persoonlijke service</li><li>Volledige controle over jouw telefonie</li><li>Volledige
-      integratie vast en mobiel</li></ul></div>'
+      in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!'
   right:
     background: true
     background_color: "#efefef"
@@ -41,8 +37,16 @@ double_content:
 textblocks:
 - title1: Eerst meer weten?
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
-    <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>'
+    <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a><div class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet
+      en apparatuur</li><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets
+      persoonlijke service</li><li>Volledige controle over jouw telefonie</li><li>Volledige
+      integratie vast en mobiel</li></ul></div>'
   title2: Wat anderen over Callvoip zeggen
   content2: '<div class="blockquote"><p>Wij bellen al sinds 2011 en zijn erg tevreden over Callvoip. Samengevat kiezen wij voor Callvoip als provider vanwege: de kosten, de service en de klantgerichtheid..</p><footer>—R. Graziani, <cite>Kirchhoff Fysio</cite></footer></div>'
+textblocksfooter:
+- title2: 'extra block
+  content2: 'wowzers
+  title1: 'Meer over de verbondenheid van partners
+  content1: 'Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons op via <br>050 820 00 00.<br><br><div class="usp-list"><ul><li>24 / 7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div><a href="/tour" class="button">Dit wil ik ook!</a>'
 
 ---
