@@ -53,7 +53,7 @@ textblocks:
     nu net zijn wat je krijgt met een FRITZ!Box. Alleen dat is al reden genoeg voor
     ons om fan te zijn en een FRITZ!Box aan onze klanten aan te bevelen. \n\nMaar
     AVM biedt veel meer: repeaters, DECT telefoons en Smart Home. Daarom hebben we
-    ook een webshop waar je al dat moois kunt kopen. \n\n<a href=\"https://fritzshop.nl/\"
+    ook een webshop waar je al dat moois kunt kopen. \n<br><br>\n<a href=\"https://fritzshop.nl/\"
     class=\"button\" target=\"_blank\">Bezoek onze Fritzshop</a>"
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608047263/fritz_assortiment_v3dgez.png">
