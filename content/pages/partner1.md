@@ -38,12 +38,12 @@ textblocks:
 - title1: Eerst meer weten?
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
     <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a><div class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet n apparatuur</li><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke service</li><li>Volledige controle over jouw telefonie</li><li>Volledige integratie vast en mobiel</li></ul></div>'
-  title2: 'Wat anderen over Callvoip zeggen'
-  content2: '<div class="blockquote"><p>Wij bellen al sinds 2011 en zijn erg tevreden over Callvoip. Samengevat kiezen wij voor Callvoip als provider vanwege: de kosten, de service en de klantgerichtheid..</p><footer>—R. Graziani, <cite>Kirchhoff Fysio</cite></footer></div>'
+  title2: ''
+  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1606376955/Screenshot_3_zcmy6w.png">'
 blocks:
-- title2: 'extra block'
-  content2: 'wowzers'
-  title1: 'Meer over de verbondenheid van partners'
-  content1: 'Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons op via <br>050 820 00 00.<br><br><div class="usp-list"><ul><li>24 / 7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div><a href="/tour" class="button">Dit wil ik ook!</a>'
+- title1: ''
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1606376955/Screenshot_3_zcmy6w.png">'
+  title2: 'Meer over de verbondenheid van partners'
+  content2: 'Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons op via <br>050 820 00 00.<br><br><div class="usp-list"><ul><li>24 / 7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div><a href="/tour" class="button">Dit wil ik ook!</a>'
 
 ---
