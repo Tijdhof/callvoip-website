@@ -43,7 +43,7 @@ double_content:
       <li>Actief in: wereldwijd</li>
       <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li><br></div>
 
-      <img src="/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
 textblocks:
 - title2: Eerst meer weten?
   content2: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
