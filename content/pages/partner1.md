@@ -62,12 +62,12 @@ double_footer:
     title: ''
     content: <img src="https://media.nu.nl/m/2w2xghiaiav3_wd1280.jpg/patrick-ster-uit-animatieserie-spongebob-squarepants-krijgt-eigen-serie.jpg">
   left:
-    title: Ja, ik wil kennismaken met bedrijf
-    content: Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a
-      href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons
-      op via <br>050 820 00 00.<br><br><div class="usp-list"><ul><li>24 / 7 optimale
-      service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe,
-      alles onder één dak!</li></ul></div><a href="/tour" class="button">Dit wil ik
-      ook!</a>
+    title: Wat zij over ons zeggen
+    content: "We werken erg prettig samen met AVM. We schakelen graag met de heren
+      en dames in de Nederlandse vestigingen en trekken samen op in acties. Maar we
+      vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken
+      Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
+      \n\n<a href=\"/interview-avm/\" class=\"button\">Lees het interview met Erik</a><br>\n<a
+      href=\"/tour\" class=\"button\">Lees het interview met Raymond</a>"
 
 ---
