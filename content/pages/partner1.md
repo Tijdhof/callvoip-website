@@ -4,11 +4,11 @@ url: "/partners/avm/"
 type: page
 hero:
   content:
-    title: Betrouwbaar en snel internet en bellen
-    text: Snel internet en telefooncentrale met maatwerk inrichting
+    title: 'Callvoip''s Partners: AVM'
+    text: Makers van FRITZ!Box en andere FRITZ! apparatuur
     align: left
   image: "/v1593769110/header-internet-en-bellen_wskiox.png"
-  title: Callvoip - VoIP Telefonie - Slim en persoonlijk
+  title: Callvoip - Partners - AVM - FRITZ!
   disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
