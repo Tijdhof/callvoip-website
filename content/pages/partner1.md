@@ -56,7 +56,7 @@ textblocks:
     ook een webshop waar je al dat moois kunt kopen. \n\n<a href=\"https://fritzshop.nl/\"
     class=\"button\" target=\"_blank\">Bezoek onze Fritzshop</a>"
   title1: ''
-  content1: <img src="https://deadline.com/wp-content/uploads/2016/05/spongebob.jpg?w=600&h=383&crop=1">
+  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608047263/fritz_assortiment_v3dgez.png">
 double_footer:
   right:
     title: ''
