@@ -26,14 +26,29 @@ aliases: "/roadmap"
 type: ''
 
 ---
-<h2>2020:</h2>![](https://res.cloudinary.com/callvoip/image/upload/v1608046277/Webcals_part_2_q4weh3.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046277/Ruggedized_rttbv6.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046277/Tom_qv6vhr.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046277/Waterloo_r2vxiq.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046101/MS_Team_koppeling_bdpy7p.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046100/Yealink_Meeting_mzv9si.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046099/CRM_Lookup_yytvmi.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046099/podcast_verbonden_ntaud4.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608046099/tips_ondernemers_shwfa7.png)
-
-![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/Qaller_update_android_gvwkg6.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/thuiswerk_vju3mx.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/Corona_knvqla.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/Carnaval_ukwpxo.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608043846/whatsapp_business_bgvzuo.png)
+<h2>2020:</h2>
+<a href="https://www.callvoip.nl/nieuws/webcalls/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Webcals_part_2_q4weh3.png"></a>
+<a href="https://www.callvoip.nl/yealink-ruggedized-unboxing/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Ruggedized_rttbv6.png"></a>
+<a href="https://www.callvoip.nl/overons/team/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Tom_qv6vhr.png"></a>
+<a href=""><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Waterloo_r2vxiq.png"></a>
+<a href="https://www.callvoip.nl/callvoip-koppelt-met-microsoft-teams/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046101/MS_Team_koppeling_bdpy7p.png"></a>
+<a href="https://www.callvoip.nl/telefonie/functionaliteiten/yealink-meeting/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046100/Yealink_Meeting_mzv9si.png"></a>
+<a href="https://www.callvoip.nl/telefonie/functionaliteiten/crm-lookup/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046099/CRM_Lookup_yytvmi.png"></a>
+<a href="https://www.callvoip.nl/verbonden/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046099/podcast_verbonden_ntaud4.png"></a>
+<a href="https://www.callvoip.nl/nieuws/voip-oplossing-voor-startende-ondernemers-7-tips/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046099/tips_ondernemers_shwfa7.png"></a>
+<a href="https://www.callvoip.nl/nieuws/qaller-android-update-nu-beschikbaar/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/Qaller_update_android_gvwkg6.png"></a>
+<a href="https://www.callvoip.nl/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/thuiswerk_vju3mx.png"></a>
+<a href="https://www.callvoip.nl/nieuws/corona/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/Corona_knvqla.png"></a>
+<a href="https://www.callvoip.nl/carnaval/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/Carnaval_ukwpxo.png"></a>
+<a href="https://www.callvoip.nl/whatsapp-business-blog/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608043846/whatsapp_business_bgvzuo.png"></a>
 
 <h2>Onze beloftes van 2019:</h2>
 
 We hebben in 2019 een aantal updates beloofd...  
-![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_2_wsm4md.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_3_lgogxs.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_4_ur6ta9.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_1_krxxrg.png)
+<a href=""><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_2_wsm4md.png"></a>
+<a href=""><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_3_lgogxs.png"></a>
+<a href=""><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_4_ur6ta9.png"></a>
+<a href=""><img src="https://res.cloudinary.com/callvoip/image/upload/v1608041909/Group_1_krxxrg.png"></a>
 
 <h2>2019:</h2>
 2019: kleurrijk jaar met veel hoogtepunten.<br>
