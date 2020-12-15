@@ -34,9 +34,15 @@ double_content:
     background: true
     background_color: "#efefef"
     title: In het kort
-    content: "AVM GmbH\nHoofdkantoor: Berlijn, Duitsland\nBestaat sinds: 1986\nGrootte:
-      > 800 medewerkers\nActief in: wereldwijd\nBekend van: FRITZ!Box en andere netwerkapparatuur.
-      \n\n<img src=https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png\">"
+    content: |-
+      AVM GmbH<br>
+      Hoofdkantoor: Berlijn, Duitsland<br>
+      Bestaat sinds: 1986<br>
+      Grootte: > 800 medewerkers<br>
+      Actief in: wereldwijd<br>
+      Bekend van: FRITZ!Box en andere netwerkapparatuur. <br><br>
+
+      <img src="/v1604916674/AVM-Logo_rgdwvt.png">
 textblocks:
 - title1: Eerst meer weten?
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
