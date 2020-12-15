@@ -36,11 +36,12 @@ double_content:
     title: In het kort
     content: |-
       AVM GmbH<br>
-      Hoofdkantoor: Berlijn, Duitsland<br>
-      Bestaat sinds: 1986<br>
-      Grootte: > 800 medewerkers<br>
-      Actief in: wereldwijd<br>
-      Bekend van: FRITZ!Box en andere netwerkapparatuur. <br><br>
+      <div class="usp-list"><ul><li>
+      Hoofdkantoor: Berlijn, Duitsland</li><br>
+      <li>Bestaat sinds: 1986</li><br>
+      <li>Grootte: > 800 medewerkers</li><br>
+      <li>Actief in: wereldwijd</li><br>
+      <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li><br><br>
 
       <img src="/v1604916674/AVM-Logo_rgdwvt.png">
 textblocks:
