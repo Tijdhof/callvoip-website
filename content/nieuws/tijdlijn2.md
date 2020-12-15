@@ -26,13 +26,16 @@ aliases: "/roadmap"
 type: ''
 
 ---
-<h2>2020:</h2><br>
+<h2>2020:</h2>
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/Webcals_part_2_thr4x6.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/Ruggedized_zsmixv.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/Tom_a4jcxt.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/Waterloo_rvyzbu.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/MS_Team_koppeling_cu3a6c.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/Yealink_Meeting_o5gri0.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/CRM_Lookup_xuwyre.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/podcast_verbonden_xhvrhm.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/tips_ondernemers_crjnss.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/Qaller_update_android_c6dllv.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/thuiswerk_dygxs1.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/Corona_gj7ftn.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/Carnaval_iwz6fg.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/whatsapp_business_ignree.png)
+
 <h2>Onze belovtes van 2019:</h2>
-<br>
-We hebben in 2019 een aantal updates belooft...<br>
+
+We hebben in 2019 een aantal updates belooft...  
+![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/Group_2_fldrfl.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038213/Group_3_umoued.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/Group_4_zyfti2.png)![](https://res.cloudinary.com/callvoip/image/upload/v1608038212/Group_1_axq6fk.png)
 
 <h2>2019:</h2>
-<br>
 2019: kleurrijk jaar met veel hoogtepunten.<br>
 Wandel mee langs een aantal Callvoip mijlpalen en voel de energie!<br>
 Met dezelfde energie stappen we 2020 en het komende decennium in. <br>
