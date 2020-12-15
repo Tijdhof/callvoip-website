@@ -29,8 +29,8 @@ double_content:
       Toch is het een grote speler die met name bekend is van de FRITZ!Box modem routers.
       Maar ze hebben veel meer in hun mars en timmeren ook aan de weg binnen smart
       home toepassingen, repeaters etc. <br>\n\nDe FRITZ!Box is in tegenstelling tot
-      de naam AVM wel bekend bijl veel mensen. Er wordt over gezegd dat ze een sterke
-      combinatie zijn van hoge kwaliteit hardware met een super gebruiksvriendelijke
+      de naam AVM dus wel bekend bij veel mensen. Er wordt over gezegd dat ze een
+      sterke combinatie zijn van hoge kwaliteit hardware met een super gebruiksvriendelijke
       interface. En dat vinden wij ook. Daarom maken we graag gebruik van de apparatuur
       van AVM. En raden we bij bijvoorbeeld onze <a href=\"/internet/overzicht/\">eigen
       internetverbindingen</a> ook vaak een FRITZ!Box aan als modem-router.  \n"
