@@ -1,6 +1,6 @@
 ---
 title: Partner profiel 1
-url: /partners/avm/
+url: "/partners/avm/"
 type: page
 hero:
   content:
@@ -24,28 +24,40 @@ blocks:
   content: ''
 double_content:
   left:
-    title: Betrouwbaar en snel internet en bellen.
-    content: 'Alles onder 1 dak, kant en klaar en supersnel geleverd. Callvoip combineert
-      de ongeëvenaarde online telefooncentrale met een internetverbinding waar je
-      op kunt vertrouwen. Dit alles laten we je in een telefoongesprek zien. We zoomen
-      in op jouw vragen en situatie. Helemaal gratis en vrijblijvend!'
+    title: ''
+    content: Misschien ken je AVM wel helemaal niet. Dat horen we namelijk wel vaker.
+      Toch is het een grote speler die met name bekend is van de FRITZ!Box modem routers.
+      En die kennen dan weer wel veel mensen. Er wordt over gezegd dat ze een sterke
+      combinatie zijn van hoge kwaliteit hardware met een super gebruiksvriendelijke
+      interface. En dat vinden wij ook.
   right:
     background: true
     background_color: "#efefef"
     title: In het kort
-    content: Enter bedrijfs profile here
+    content: "AVM GmbH\nHoofdkantoor: Berlijn, Duitsland\nBestaat sinds: 1986\nGrootte:
+      > 800 medewerkers\nActief in: wereldwijd\nBekend van: FRITZ!Box en andere netwerkapparatuur.
+      \n\n<img src=https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png\">"
 textblocks:
 - title1: Eerst meer weten?
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
-    <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a><div class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet n apparatuur</li><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke service</li><li>Volledige controle over jouw telefonie</li><li>Volledige integratie vast en mobiel</li></ul></div>'
+    <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a><div
+    class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet n apparatuur</li><li>Een
+    betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke
+    service</li><li>Volledige controle over jouw telefonie</li><li>Volledige integratie
+    vast en mobiel</li></ul></div>'
   title2: ''
-  content2: '<img src="https://deadline.com/wp-content/uploads/2016/05/spongebob.jpg?w=600&h=383&crop=1">'
+  content2: <img src="https://deadline.com/wp-content/uploads/2016/05/spongebob.jpg?w=600&h=383&crop=1">
 double_footer:
   left:
     title: ''
-    content: '<img src="https://media.nu.nl/m/2w2xghiaiav3_wd1280.jpg/patrick-ster-uit-animatieserie-spongebob-squarepants-krijgt-eigen-serie.jpg">'
+    content: <img src="https://media.nu.nl/m/2w2xghiaiav3_wd1280.jpg/patrick-ster-uit-animatieserie-spongebob-squarepants-krijgt-eigen-serie.jpg">
   right:
     title: Ja, ik wil kennismaken met bedrijf
-    content: 'Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons op via <br>050 820 00 00.<br><br><div class="usp-list"><ul><li>24 / 7 optimale service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe, alles onder één dak!</li></ul></div><a href="/tour" class="button">Dit wil ik ook!</a>'
+    content: Nieuwsgierig naar onze VoIP-oplossingen? Maak dan kennis via onze <a
+      href="/tour">persoonlijke rondleiding</a> of neem vrijblijvend contact met ons
+      op via <br>050 820 00 00.<br><br><div class="usp-list"><ul><li>24 / 7 optimale
+      service en ondersteuning</li><li>Altijd en overal bereikbaar</li><li>Geen gedoe,
+      alles onder één dak!</li></ul></div><a href="/tour" class="button">Dit wil ik
+      ook!</a>
 
 ---
