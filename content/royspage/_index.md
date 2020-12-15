@@ -1,5 +1,5 @@
 ---
-title: Royspage
+title: Partners van Callvoip
 intro:
   title: Partners
   content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
