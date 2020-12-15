@@ -39,7 +39,7 @@ textblocks:
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
     <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a><div class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet n apparatuur</li><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke service</li><li>Volledige controle over jouw telefonie</li><li>Volledige integratie vast en mobiel</li></ul></div>'
   title2: ''
-  content2: '<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" height="300" width"260">'
+  content2: '<img src="https://deadline.com/wp-content/uploads/2016/05/spongebob.jpg?w=600&h=383&crop=1">'
 double_footer:
   left:
     title: ''
