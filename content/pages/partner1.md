@@ -1,6 +1,6 @@
 ---
 title: Partner profiel 1
-url: /partner1/
+url: /partners/avm/
 type: page
 hero:
   content:
@@ -32,7 +32,7 @@ double_content:
   right:
     background: true
     background_color: "#efefef"
-    title: Ja, ik wil kennismaken met bedrijf
+    title: In het kort
     content: Enter bedrijfs profile here
 textblocks:
 - title1: Eerst meer weten?
