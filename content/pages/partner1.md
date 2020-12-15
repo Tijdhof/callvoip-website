@@ -7,7 +7,7 @@ hero:
     title: 'Callvoip''s Partners: AVM'
     text: Makers van FRITZ!Box en andere FRITZ! apparatuur
     align: left
-  image: "/v1593769110/header-internet-en-bellen_wskiox.png"
+  image: "/v1608046576/headeravm_mn4isg.png"
   title: Callvoip - Partners - AVM - FRITZ!
   disable_image_on_mobile: true
   link: ''
@@ -67,7 +67,7 @@ double_footer:
       en dames in de Nederlandse vestigingen en trekken samen op in acties. Maar we
       vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken
       Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
-      \n\n<a href=\"/interview-avm/\" class=\"button\">Lees het interview met Erik</a><br><br>\n<a
+      \n\n<a href=\"/interview-avm/\" class=\"button\">Lees het interview met Eric</a><br><br>\n<a
       href=\"/tour\" class=\"button\">Lees het interview met Raymond</a>"
 
 ---
