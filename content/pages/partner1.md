@@ -48,13 +48,13 @@ double_content:
 
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
 textblocks:
-- title2: Eerst meer weten?
-  content2: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
-    <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a><div
-    class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet n apparatuur</li><li>Een
-    betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke
-    service</li><li>Volledige controle over jouw telefonie</li><li>Volledige integratie
-    vast en mobiel</li></ul></div>'
+- title2: Waarom wij fan zijn
+  content2: "Een basisvoorwaarde voor VoIP telefonie is stabiel internet. Laat dat
+    nu net zijn wat je krijgt met een FRITZ!Box. Alleen dat is al reden genoeg voor
+    ons om fan te zijn en een FRITZ!Box aan onze klanten aan te bevelen. \n\nMaar
+    AVM biedt veel meer: repeaters, DECT telefoons en Smart Home. Daarom hebben we
+    ook een webshop waar je al dat moois kunt kopen. \n\n<a href=\"https://fritzshop.nl/\"
+    class=\"button\" target=\"_blank\">Bezoek onze Fritzshop</a>"
   title1: ''
   content1: <img src="https://deadline.com/wp-content/uploads/2016/05/spongebob.jpg?w=600&h=383&crop=1">
 double_footer:
