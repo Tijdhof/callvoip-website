@@ -35,15 +35,15 @@ double_content:
     background_color: "#efefef"
     title: In het kort
     content: |-
-      AVM GmbH<br>
+      <b>AVM GmbH</b><br>
       <div class="usp-list"><ul><li>
-      Hoofdkantoor: Berlijn, Duitsland</li><br>
-      <li>Bestaat sinds: 1986</li><br>
-      <li>Grootte: > 800 medewerkers</li><br>
-      <li>Actief in: wereldwijd</li><br>
-      <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li><br><br>
+      Hoofdkantoor: Berlijn, Duitsland</li>
+      <li>Bestaat sinds: 1986</li>
+      <li>Grootte: > 800 medewerkers</li>
+      <li>Actief in: wereldwijd</li>
+      <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li><br></div>
 
-      <img src="/v1604916674/AVM-Logo_rgdwvt.png">
+      <img src="/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
 textblocks:
 - title1: Eerst meer weten?
   content1: 'Neem dan contact met ons op! We vertellen je graag meer.<br>Telefoonnummer:
