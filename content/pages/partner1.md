@@ -40,7 +40,7 @@ textblocks:
     <a href="tel:31508200000">050-820 00 00</a><br>E-mail: <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a><div class="usp-list"><ul><li>Alles onder 1 dak: Telefonie, internet n apparatuur</li><li>Een betrouwbare, flexibele online telefooncentrale</li><li>Ouderwets persoonlijke service</li><li>Volledige controle over jouw telefonie</li><li>Volledige integratie vast en mobiel</li></ul></div>'
   title2: 'Wat anderen over Callvoip zeggen'
   content2: '<div class="blockquote"><p>Wij bellen al sinds 2011 en zijn erg tevreden over Callvoip. Samengevat kiezen wij voor Callvoip als provider vanwege: de kosten, de service en de klantgerichtheid..</p><footer>—R. Graziani, <cite>Kirchhoff Fysio</cite></footer></div>'
-textblocksfooter:
+blocks:
 - title2: 'extra block'
   content2: 'wowzers'
   title1: 'Meer over de verbondenheid van partners'
