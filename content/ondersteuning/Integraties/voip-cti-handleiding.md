@@ -15,8 +15,7 @@ hidesocialshare: false
 
 * [VoIP CTI Client Software (v091120)](https://downloadcloudcti.blob.core.windows.net/files/setups/voipcticlientsetup.exe)
 * [VoIP CTI Recognition Configuration Tool (v241219)](http://files.callvoip.nl/downloads/voipcticonfigurationsetup.exe)
-
-* [VoIP CTI koppeling herstellen](http://files.callvoip.nl/downloads/Callvoip_handleiding_VoIP_CTI_login.pdf)
+* [PDF: VoIP CTI koppeling herstellen](http://files.callvoip.nl/downloads/Callvoip_handleiding_VoIP_CTI_login.pdf)
 
 <hr>
 <br><br>
