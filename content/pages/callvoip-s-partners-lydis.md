@@ -61,7 +61,7 @@ textblocks:
 double_footer:
   right:
     title: ''
-    content: <img src="https://media.nu.nl/m/2w2xghiaiav3_wd1280.jpg/patrick-ster-uit-animatieserie-spongebob-squarepants-krijgt-eigen-serie.jpg">
+    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608214480/quote_rosalie_itb4uz.png">
   left:
     title: Wat zij over ons zeggen
     content: "Het moge duidelijk zijn dat wij erg te spreken zijn over onze samenwerking
