@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip''s partners: Kwebbl'
-url: "/partners/lydis/"
+url: "/partners/kwebbl/"
 type: page
 hero:
   content:
@@ -25,29 +25,30 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "Bij het samenwerken met partners is het wat ons betreft van essentieel
-      belang dat je uit hetzelfde hout gesneden bent. Natuurlijk moet je ook een aanbod
-      hebben wat bij elkaar aansluit, maar minstens zo belangrijk is hoe je naar dat
-      aanbod kijkt en hoe je omgaat met je klanten. \n\nOnze partner Lydis is een
-      mooi voorbeeld waarbij alles past. Als distributeur en IP communicatie specialist
-      leveren zij de hardware waarmee onze klanten kunnen bellen. Grote kans dat je
-      een Yealink op je bureau hebt staan die via Lydis door ons geleverd is. Dus
-      qua producten is er een logische match. Maar in de samenwerking met Lydis gaat
-      dat gelukkig nog een stapje verder. "
+    content: "Wij weten veel van telefonie. Hoe je je bereikbaarheid het beste kunt
+      regelen bijvoorbeeld. Of hoe je jouw toestel moet instellen. Of hoe het komt
+      dat bepaalde telefonie gerelateerde zaken niet doen wat ze moeten doen. Daar
+      zijn we goed in en helpen we je graag bij. Dat doen we natuurlijk met een grote
+      set tools en systemen die we daarvoor kunnen inzetten.\n\nMaar het daadwerkelijk
+      maken van een VoIP telefoniesysteem, inclusief die ontzettend fijne beheeromgeving
+      die je wellicht van ons kent, dat is andere koek. Daar heb je weer andere specialisten
+      voor nodig. En in ons geval is dat Kwebbl Smart Cloud Solutions. Zij zijn de
+      makers van het platform wat ons in staat stelt op ons niveau service en gemak
+      aan onze klanten te bieden. "
   right:
     background: true
     background_color: "#efefef"
-    title: 'In het kort: Lydis B.V.'
+    title: 'In het kort: Kwebbl Smart Cloud Solutions'
     content: |-
       <div class="usp-list"><ul><li>
-      Hoofdkantoor: Almere</li>
+      Hoofdkantoor: Amsterdam</li>
       <li>Bestaat sinds: 2013</li>
-      <li>Grootte: > 20 medewerkers</li>
-      <li>Actief in: Benelux</li>
-      <li>Bekend van: Distributeur Yealink en IP communicatiespecialist</li>
-      <li>Website: <a href="https://www.lydis.nl/" target="_blank">www.lydis.nl</a></li><br></div>
+      <li>Grootte: > 30 medewerkers</li>
+      <li>Actief in: Europa</li>
+      <li>Bekend van: Onze eigen onvolprezen online telefoondienst :-)</li>
+      <li>Website: <a href="https://kwebbl.com/" target="_blank">www.kwebble.com</a></li><br></div>
 
-      <img src="https://res.cloudinary.com/callvoip/image/upload/v1604923324/lydis-logo-wit_dy3smq.png" alt="Lydis logo">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1604923393/kwebbl_v99d46.png" alt="kwebbl logo">
 textblocks:
 - title2: Waarom wij fan zijn
   content2: |-
@@ -64,11 +65,11 @@ double_footer:
     content: <img src="https://media.nu.nl/m/2w2xghiaiav3_wd1280.jpg/patrick-ster-uit-animatieserie-spongebob-squarepants-krijgt-eigen-serie.jpg">
   left:
     title: Wat zij over ons zeggen
-    content: "Het moge duidelijk zijn dat wij erg te spreken zijn over onze samenwerking
-      met Lydis. Maar wat vinden zij er eigenlijk zelf van? Wij vroegen het en niet
-      geheel tot onze verrassing was het enthousiasme heus wederzijds. Lees daarom
-      ook de andere kant in het interview wat we hadden met Rosalie Heide, marketing
-      bij Lydis. \n\nURL<a href=\"/interview-avm/\">Lees het interview met Rosalie</a><br><br>\n"
+    content: "“Launching Customer” dus. Het lijkt erop dat Kwebbl net zo blij met
+      ons is, als wij met hen :-) Maar aannames doen we niet, dus we vroegen Ab Trik,
+      CEO bij Kwebbl, maar eens zelf wat hij eigenlijk van ons vindt. Dat leverde
+      een leuk gesprek op, over samenwerking, de toekomst en het bizarre jaar 2020.\n
+      \n\nURL<a href=\"/interview-avm/\">Lees het interview met Ab</a><br><br>\n"
 draft: true
 
 ---
