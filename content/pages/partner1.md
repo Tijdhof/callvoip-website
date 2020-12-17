@@ -44,7 +44,8 @@ double_content:
       <li>Bestaat sinds: 1986</li>
       <li>Grootte: > 800 medewerkers</li>
       <li>Actief in: wereldwijd</li>
-      <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li><br></div>
+      <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li>
+      <li>Website: <a href="https://nl.avm.de/" target="_blank">www.avm.nl</a><br></div>
 
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
 textblocks:
