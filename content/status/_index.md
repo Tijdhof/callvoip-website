@@ -17,7 +17,7 @@ items:
 - title: Toestelregistraties
   status: false
 - title: BLF (statuslampjes)
-  status: false
+  status: true
 - title: Click-to-Dial
   status: true
 - title: Qaller Smartphone app
