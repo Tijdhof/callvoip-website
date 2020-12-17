@@ -69,6 +69,5 @@ double_footer:
       Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
       \n\n<a href=\"/interview-avm/\">Lees het interview met Eric</a><br><br>\n<a
       href=\"/tour\">Lees het interview met Raymond</a>"
-draft: true
 
 ---
