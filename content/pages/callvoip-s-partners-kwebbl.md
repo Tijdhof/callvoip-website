@@ -7,7 +7,7 @@ hero:
     title: 'Callvoip''s Partners: Kwebbl'
     text: 'Smart Cloud Solutions: maker van het Callvoip telefonieplatform'
     align: left
-  image: "/v1608046576/headeravm_mn4isg.png"
+  image: "/v1608211277/headerkwebbl_sk2mcq.png"
   title: Callvoip - Partners - Kwebbl
   disable_image_on_mobile: true
   link: ''
