@@ -51,12 +51,13 @@ double_content:
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1604923393/kwebbl_v99d46.png" alt="kwebbl logo">
 textblocks:
 - title2: Waarom wij fan zijn
-  content2: |-
-    Je kunt de beste, mooiste, gebruiksvriendelijkste online telefooncentrale van de hele wereld hebben, maar zonder iets van hardware gaat er nooit iets rinkelen. Daarom zijn we blij met een partner als Lydis. Want zij leveren niet alleen de dozen met de spullen, maar ook kennis en service. Alleen zo kunnen we samen het beste voor jou als eindklant regelen. <br>
-
-    Via Lydis zijn we ook fan van het merk Yealink. Zo veel zelfs, dat we er een eigen webshop voor hebben!
-    <br><br>
-    <a href="https://yealinkshop.nl/" class="button" target="_blank">Bezoek onze Yealinkshop</a>
+  content2: 'We hebben onze partner voor ons daadwerkelijke systeem natuurlijk niet
+    zomaar gekozen. Wij waren bijna vanaf het begin betrokken bij Kwebbl. Zij noemen
+    ons zelf een zgn. Launching Customer, een hele eer. Kwebbl is innovatief en heeft
+    gebruiksgemak hoog in het vaandel. Net als wij. De samenwerking is dan ook niet
+    partij A gebruikt systeem partij B, maar gaat veel verder. We vertalen onze kennis
+    van de markt richting het platform. Zo krijgen we het beste resultaat, en daar
+    zijn we trots op! '
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608047263/fritz_assortiment_v3dgez.png">
 double_footer:
@@ -70,6 +71,5 @@ double_footer:
       CEO bij Kwebbl, maar eens zelf wat hij eigenlijk van ons vindt. Dat leverde
       een leuk gesprek op, over samenwerking, de toekomst en het bizarre jaar 2020.\n
       \n\nURL<a href=\"/interview-avm/\">Lees het interview met Ab</a><br><br>\n"
-draft: true
 
 ---
