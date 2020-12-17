@@ -18,7 +18,8 @@ let colors = {
   'darkgreen': '#035837',
   'yellow': '#fcb603',
   'black': '#000000',
-  'oranger': '#f78503'
+  'oranger': '#f78503',
+  'lighter': '#274091'
 }
 
 module.exports = {
