@@ -59,7 +59,7 @@ textblocks:
     van de markt richting het platform. Zo krijgen we het beste resultaat, en daar
     zijn we trots op! '
   title1: ''
-  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608047263/fritz_assortiment_v3dgez.png">
+  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608211462/kwebbl_ucxpce.gif">
 double_footer:
   right:
     title: ''
