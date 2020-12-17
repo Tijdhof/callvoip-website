@@ -6,7 +6,7 @@ intro:
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
 hero:
-  image: "/v1603982195/friends-working-outdoors-technology-concept_fpzjec.jpg"
+  image: "/v1603982195/partners_edcvym.png"
 url: /partners
 
 ---
