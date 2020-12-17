@@ -6,7 +6,7 @@ intro:
     gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
     mogen daarbij niet ontbreken.
 hero:
-  image: "/v1603982195/partners_vwdszl.png"
+  image: "/v1603982195/partners_qcxwzp.png"
 url: /partners
 
 ---
