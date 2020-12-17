@@ -64,11 +64,10 @@ double_footer:
     content: <img src="https://media.nu.nl/m/2w2xghiaiav3_wd1280.jpg/patrick-ster-uit-animatieserie-spongebob-squarepants-krijgt-eigen-serie.jpg">
   left:
     title: Wat zij over ons zeggen
-    content: "We werken erg prettig samen met Test. We schakelen graag met de heren
-      en dames in de Nederlandse vestigingen en trekken samen op in acties. Maar we
-      vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken
-      Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
-      \n\n<a href=\"/interview-avm/\">Lees het interview met Eric</a><br><br>\n<a
-      href=\"/tour\">Lees het interview met Raymond</a>"
+    content: "Het moge duidelijk zijn dat wij erg te spreken zijn over onze samenwerking
+      met Lydis. Maar wat vinden zij er eigenlijk zelf van? Wij vroegen het en niet
+      geheel tot onze verrassing was het enthousiasme heus wederzijds. Lees daarom
+      ook de andere kant in het interview wat we hadden met Rosalie Heide, marketing
+      bij Lydis. \n\nURL<a href=\"/interview-avm/\">Lees het interview met Rosalie</a><br><br>\n"
 
 ---
