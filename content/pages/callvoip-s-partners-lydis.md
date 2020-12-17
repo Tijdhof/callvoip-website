@@ -49,12 +49,12 @@ double_content:
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
 textblocks:
 - title2: Waarom wij fan zijn
-  content2: "Een basisvoorwaarde voor VoIP telefonie is stabiel internet. Laat dat
-    nu net zijn wat je krijgt met een FRITZ!Box. Alleen dat is al reden genoeg voor
-    ons om fan te zijn en een FRITZ!Box aan onze klanten aan te bevelen. \n\nMaar
-    AVM biedt veel meer: repeaters, DECT telefoons en Smart Home. Daarom hebben we
-    ook een webshop waar je al dat moois kunt kopen. \n<br><br>\n<a href=\"https://fritzshop.nl/\"
-    class=\"button\" target=\"_blank\">Bezoek onze Fritzshop</a>"
+  content2: |-
+    Je kunt de beste, mooiste, gebruiksvriendelijkste online telefooncentrale van de hele wereld hebben, maar zonder iets van hardware gaat er nooit iets rinkelen. Daarom zijn we blij met een partner als Lydis. Want zij leveren niet alleen de dozen met de spullen, maar ook kennis en service. Alleen zo kunnen we samen het beste voor jou als eindklant regelen. <br>
+
+    Via Lydis zijn we ook fan van het merk Yealink. Zo veel zelfs, dat we er een eigen webshop voor hebben!
+    <br><br>
+    <a href="https://yealinkshop.nl/" class="button" target="_blank">Bezoek onze Yealinkshop</a>
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608047263/fritz_assortiment_v3dgez.png">
 double_footer:
