@@ -11,9 +11,8 @@ hero:
   title: Callvoip - Partners - Kwebbl
   disable_image_on_mobile: true
   link: ''
-description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
-  service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
-  en ontvang binnen 1 dag een uitnodiging.
+description: 'Samen met onze partners staan we sterker. Daarom staan ze op het podium
+  op deze pagina. '
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: partnerprofielzwart
@@ -70,6 +69,6 @@ double_footer:
       ons is, als wij met hen :-) Maar aannames doen we niet, dus we vroegen Ab Trik,
       CEO bij Kwebbl, maar eens zelf wat hij eigenlijk van ons vindt. Dat leverde
       een leuk gesprek op, over samenwerking, de toekomst en het bizarre jaar 2020.\n
-      \n\nURL<a href=\"/interview-avm/\">Lees het interview met Ab</a><br><br>\n"
+      \n\n<a href=\"/interview-ab-trik-kwebbl/\">Lees het interview met Ab</a><br><br>\n"
 
 ---
