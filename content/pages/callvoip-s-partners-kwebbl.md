@@ -48,7 +48,7 @@ double_content:
       <li>Bekend van: Onze eigen onvolprezen online telefoondienst :-)</li>
       <li>Website: <a href="https://kwebbl.com/" target="_blank">www.kwebbl.com</a></li><br></div>
 
-      <img src="https://res.cloudinary.com/callvoip/image/upload/v1604923393/kwebbl_v99d46.png" alt="kwebbl logo">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1608216492/kwebbl_mrgkh8.png" alt="kwebbl logo">
 textblocks:
 - title2: Waarom wij fan zijn
   content2: 'We hebben onze partner voor ons daadwerkelijke systeem natuurlijk niet
