@@ -13,7 +13,10 @@
         {{ end }}
     </div>
     
-    <div class='p-12 xl:p-12 {{ if eq $type "light" }} w-2/3 style="padding-left:250px" {{ else }} w-2/3 {{ end }} '>
+    { if eq $type "light" }}
+    <div class="p-12 xl:p-12 w-2/3" style="padding-left:250px">
+    {{ else }}
+    <div class="p-12 xl:p-12 w-2/3"> {{ end }}
         {{ with $item.Params.logo }}
         <a href="{{ $link }}" class="px-2">
             <img data-src="{{ $ctx.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto/{{.}}"
