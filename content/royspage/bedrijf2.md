@@ -2,7 +2,7 @@
 title: Lydis en Callvoip
 type: roy
 hero:
-  image: "/v1561543297/test2_z41duo.png"
+  image: "/v1561543297/test5_comisq.png"
 headless: true
 link: "/partners/lydis"
 name: Lydis - onze partner
