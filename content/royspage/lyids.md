@@ -1,11 +1,11 @@
 ---
-title: Lydis Parnter Interview
+title: Lydis Partner Interview
 description: ''
 images:
 - "/v1602600016/dame_terras_y2agjq.png"
 featured: false
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-url: "/partners/lydis"
+url: "/partners/lydis_oud/"
 contactpersoon: []
 categories: []
 tags: []
