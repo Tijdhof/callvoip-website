@@ -1,8 +1,8 @@
 ---
-title: 2e bedrijf
+title: Lydis en Callvoip
 type: roy
 hero:
-  image: "/v1561543297/lydis_pejaim.png"
+  image: "/v1561543297/test2_z41duo.png"
 headless: true
 link: "/partners/lydis"
 name: Lydis - onze partner
