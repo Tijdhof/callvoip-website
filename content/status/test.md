@@ -5,9 +5,17 @@ error: false
 ---
 Storingsmelding 17 december 2020:<br>
 
-Update 12:45 uur:   
-Het netwerk is terug, de services en het beheersysteem worden nu zo spoedig mogelijk hersteld.  
+Update 13:00 uur:   
+De storing is opgelost en alle diensten zijn hersteld.   
+Ervaart u nog een probleem met uw toestel?   
+Doe het toestel dan 30 sec uit, en weer aan, en check.  
+Ervaart u andere problemen? Als een herstart geen oplossing biedt, laat ons dan weten wat er loos is (chat, email of telefoon), zodat we u helpen om zo spoedig mogelijk weer in de lucht te zijn.   
   
+=====
+
+Update 12:45 uur:  
+Het netwerk is terug, de services en het beheersysteem worden nu zo spoedig mogelijk hersteld.
+
 =====
 
 Update 12.30 uur:  
