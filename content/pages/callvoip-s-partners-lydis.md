@@ -68,6 +68,7 @@ double_footer:
       met Lydis. Maar wat vinden zij er eigenlijk zelf van? Wij vroegen het en niet
       geheel tot onze verrassing was het enthousiasme heus wederzijds. Lees daarom
       ook de andere kant in het interview wat we hadden met Rosalie Heide, marketing
-      bij Lydis. \n\nURL<a href=\"/interview-avm/\">Lees het interview met Rosalie</a><br><br>\n"
+      bij Lydis. \n\n<a href=\"/interview-lydis-rosalie-heide/\">Lees het interview
+      met Rosalie</a><br><br>\n"
 
 ---

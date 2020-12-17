@@ -69,6 +69,6 @@ double_footer:
       vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken
       Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
       \n\n<a href=\"/interview-avm/\">Lees het interview met Eric</a><br><br>\n<a
-      href=\"/tour\">Lees het interview met Raymond</a>"
+      href=\"interview-raymond-teigeler-avm/\">Lees het interview met Raymond</a>"
 
 ---

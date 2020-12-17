@@ -1,10 +1,10 @@
 ---
-title: Partner Interview - Lydis
+title: Partner Interview - Rosalie Heide - Lydis
 description: ''
 images: []
 featured: false
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -14,10 +14,11 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: interview-lydis
+url: interview-lydis-rosalie-heide/
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 #### 1. Wat is jullie rol als onze partner en waarin verschilt onze samenwerking tov andere partnerschappen in onze business? Waarin onderscheiden wij ons in ons partnerschap?
