@@ -12,7 +12,8 @@
              alt="{{ $item.Title }}" />
         {{ end }}
     </div>
-    <div class="w-2/3 p-12 xl:p-12">
+    
+    <div {{ if eq $type "light" }} class="w-1/3 p-12 xl:p-12" {{ else }} class="w-2/3 p-12 xl:p-12">
         {{ with $item.Params.logo }}
         <a href="{{ $link }}" class="px-2">
             <img data-src="{{ $ctx.Site.Params.cloudinary_base_url }}/w_auto,dpr_auto/{{.}}"
