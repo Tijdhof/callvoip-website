@@ -7,7 +7,7 @@ hero:
     title: 'Callvoip''s Partners: Lydis'
     text: Distributeur van o.a. Yealink en IP communicatiespecialist
     align: left
-  image: "/v1608046576/headeravm_mn4isg.png"
+  image: "/v1608212177/headerlydis_cgajts.png"
   title: Callvoip - Partners - Lydis
   disable_image_on_mobile: true
   link: ''
@@ -16,7 +16,7 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
   en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
-layout: partnerprofielzwart
+layout: partnerprofiel
 hideinsearch: true
 hideingoogle: true
 blocks:
@@ -57,7 +57,7 @@ textblocks:
     <br><br>
     <a href="https://yealinkshop.nl/" class="button" target="_blank">Bezoek onze Yealinkshop</a>
   title1: ''
-  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608047263/fritz_assortiment_v3dgez.png">
+  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1600683919/toestellen_hsiapl.png">
 double_footer:
   right:
     title: ''
