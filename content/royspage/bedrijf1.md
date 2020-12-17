@@ -2,7 +2,7 @@
 title: AVM en Callvoip
 type: roy
 hero:
-  image: "/v1561543297/avmfinal-lichter_bwvdln.png"
+  image: "/v1561543297/avmwit_ejo4fi.png"
 headless: true
 link: "/partners/avm"
 name: AVM - FRITZ! Producten
