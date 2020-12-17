@@ -3,7 +3,17 @@ title: Meldingen
 error: false
 
 ---
-Geen meldingen; de telefoondienst werkt naar behoren.<br>
+Storingsmelding 17 december 2020:<br>
+
+Op dit moment kunt u problemen ervaren met de telefonie.   
+\* wisselende registratie van uw toestel  
+\* Webcalls en Qaller werken wisselend  
+\* beheerpanel laadt niet  
+  
+Het team is op de hoogte; de oorzaak wordt gezocht en we hopen het probleem zo snel mogelijk op te lossen.   
+  
+Onze welgemeende excuses voor het ongemak.   
+<br>
 
 ======================
 
