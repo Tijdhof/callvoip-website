@@ -7,7 +7,7 @@ hero:
     title: 'Callvoip''s Partners: AVM'
     text: Makers van FRITZ!Box en andere FRITZ! apparatuur
     align: left
-  image: "/v1608046576/headeravm_mn4isg.png"
+  image: "/v1608217126/headeravm_w6rrja.png"
   title: Callvoip - Partners - AVM - FRITZ!
   disable_image_on_mobile: true
   link: ''
