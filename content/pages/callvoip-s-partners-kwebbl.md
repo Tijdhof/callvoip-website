@@ -63,7 +63,7 @@ textblocks:
 double_footer:
   right:
     title: ''
-    content: <img src="https://media.nu.nl/m/2w2xghiaiav3_wd1280.jpg/patrick-ster-uit-animatieserie-spongebob-squarepants-krijgt-eigen-serie.jpg">
+    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608213904/quote_ab_mm23f1.png">
   left:
     title: Wat zij over ons zeggen
     content: "“Launching Customer” dus. Het lijkt erop dat Kwebbl net zo blij met
