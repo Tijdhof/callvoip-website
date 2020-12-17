@@ -2,7 +2,7 @@
 title: 2e bedrijf
 type: roy
 hero:
-  image: "/v1561543297/kwebbl_pds1re.png"
+  image: "/v1561543297/kwebbl_mrgkh8.png"
 headless: true
 link: "/partners/Kwebbl"
 name: Kwebbl - onze partner
