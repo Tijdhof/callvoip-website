@@ -5,8 +5,16 @@ error: false
 ---
 Storingsmelding 17 december 2020:<br>
 
+Update 12.30 uur:   
+De storing is nog altijd gaande.   
+Een deel van het telefoonverkeer wordt niet goed afgehandeld.  
+Er kunnen ups en downs in de performance zitten.   
+Er wordt hard gewerkt aan een oplossing. 
+
+=====
+
 Op dit moment kunt u problemen ervaren met de telefonie.   
-\* wisselende registratie van uw toestel  
+\* wisselende registratie van uw vaste toestelaccounts  
 \* Webcalls en Qaller werken wisselend  
 \* beheerpanel laadt niet  
   
