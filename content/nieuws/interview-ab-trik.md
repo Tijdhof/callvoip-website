@@ -20,6 +20,8 @@ categories: []
 tags: []
 
 ---
+Met Ab Trik als CEO aan het roer heeft Kwebbl een absolute alleskunner aan boord op het gebied van de wereld van telecom en media. In die laatste was hij 22 jaar werkzaam als voormalig topman van Sky Radio/Radio Veronica/Classic FM en als oprichter van Radio 538. Niet de minste dus als het gaat om strategisch denken in innovatie en oplossingen voor de klant. Sinds 2013 is Ab aangetreden als CEO- en mede-investeerder van onze partner Kwebbl en geeft hij met hart en ziel leiding aan dit telecombedrijf. Het voornaamste doel van Kwebbl binnen de zakelijke telecommarkt is, om als slim ‘cloud communicatie platform’ de razendsnelle ontwikkeling van internettechnologie, online (thuis)werken en VoIP naadloos met elkaar te integreren. Dit doen zij door middel van; partnerschappen, innovatie en onafhankelijkheid na te streven. Waar ligt nou die telkens die behoefte van de klant en hoe spelen we daar perfect op in. Een prachtige klus waar wij visionair Ab Trik graag een paar vragen over stelden met betrekking tot ons partnerschap.
+
 #### 1. Wie zijn jullie en welke producten / diensten leveren jullie?
 
 (Wellicht nog oprichtingsdatum en het aantal jaren dat we samenwerken)
