@@ -4,11 +4,11 @@ url: "/partners/kwebbl/"
 type: page
 hero:
   content:
-    title: 'Callvoip''s Partners: Lydis'
-    text: Distributeur van o.a. Yealink en IP communicatiespecialist
+    title: 'Callvoip''s Partners: Kwebbl'
+    text: 'Smart Cloud Solutions: maker van het Callvoip telefonieplatform'
     align: left
   image: "/v1608046576/headeravm_mn4isg.png"
-  title: Callvoip - Partners - Lydis
+  title: Callvoip - Partners - Kwebbl
   disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
@@ -46,7 +46,7 @@ double_content:
       <li>Grootte: > 30 medewerkers</li>
       <li>Actief in: Europa</li>
       <li>Bekend van: Onze eigen onvolprezen online telefoondienst :-)</li>
-      <li>Website: <a href="https://kwebbl.com/" target="_blank">www.kwebble.com</a></li><br></div>
+      <li>Website: <a href="https://kwebbl.com/" target="_blank">www.kwebbl.com</a></li><br></div>
 
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1604923393/kwebbl_v99d46.png" alt="kwebbl logo">
 textblocks:
