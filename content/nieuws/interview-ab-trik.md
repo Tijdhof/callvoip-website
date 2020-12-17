@@ -3,8 +3,8 @@ title: Interview Kwebbl - Ab Trik
 description: ''
 images: []
 featured: false
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -14,13 +14,12 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: "/interview-ab/"
+url: "/interview-ab-trik-kwebbl/"
 contactpersoon: []
 categories: []
 tags: []
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1607004573/logo.ea4919e3_isp74d.svg">
 #### 1. Wie zijn jullie en welke producten / diensten leveren jullie?
 
 (Wellicht nog oprichtingsdatum en het aantal jaren dat we samenwerken)
@@ -49,11 +48,10 @@ De kennis en ervaring van Callvoip is voor Kwebbl van onschatbare waarde gezien 
 
 Door het vertrouwen en steun van Callvoip heeft Kwebbl zich kunnen concentreren op de ontwikkeling van het platform.
 
-
 #### 6. Terugblik op 2020; een raar/bijzonder jaar…
 
 **_Hoe kijken jullie over het algemeen terug op dit jaar?_**
-<img style="float:right" src="https://res.cloudinary.com/callvoip/image/upload/v1607004756/113219-de1417ad-7aa4-4c04-bcec-33e69a3e4999-kwebbllogo_smart-medium-1383927530_cyf1ym.png" height="114" width="266"><br>
+
 2020 is een heel bijzonder jaar waarbij een groot gedeelte van onze gebruikers gedwongen werden om thuis te werken. Hiervoor hebben wij hele mooie nieuwe functionaliteiten kunnen toevoegen aan ons platform, waaronder Web Calls, 2-Factor Autentication als extra beveiliginglaag voor gebruikers en uitgebreide CRM integraties.
 
 **_Wat was het effect van Corona op de vraag naar de producten/diensten?_**
@@ -73,7 +71,7 @@ Gezien het feit dat ook de ontwikkelaars van Kwebbl thuis werken en niet gezamen
 Zonder twijfel missen we het contact van de collega’s op de werkvloer die belangrijk is voor de afstemming van de werkzaamheden. We hebben door de Corona wel andere opvattingen gekregen over de richting van de ontwikkeling van het platform wat een hele goede zaak is.
 
 **_Hoe zien jullie de komende periode tegemoet voor de korte en lange termijn?_**
-<img style="float:right" src="https://res.cloudinary.com/callvoip/image/upload/v1607004762/Hero.1615cc45_ncv3ia.gif" height="150" width="153"><br>
+
 Zaken die aanvankelijk voor de lange termijn werden verwacht, zullen door de Corona meer korte termijn ontwikkelingen zijn. Denk hierbij aan meer thuis werken, meer mobiel werken, minder vaste telefonie en meer integraties om efficienter te werken.
 
 **_Wat blijft er en wat zou weer anders kunnen worden?_**
@@ -95,4 +93,3 @@ Regelmatig hebben we sessies om door te nemen wat Kwebbl kan verbeteren aan de h
 **_Hebben jullie nog een eindejaars-boodschap of wens voor onze gezamenlijk klanten voor 2021?_**
 
 Wij kijken uit naar een voortzetting van onze goede samenwerking met Callvoip in 2021 en dat we er voor zorgen dat we in goede gezondheid veel klanten blijven voorzien van een stabiele, gebruiksvriendelijke en multifunctionele communicatie-oplossing.
-<center><img src="https://res.cloudinary.com/callvoip/image/upload/v1607004755/images_u4dh1h.jpg"></center>
