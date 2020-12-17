@@ -4,11 +4,11 @@ url: "/partners/lydis/"
 type: page
 hero:
   content:
-    title: 'Callvoip''s Partners: AVM'
-    text: Makers van FRITZ!Box en andere FRITZ! apparatuur
+    title: 'Callvoip''s Partners: Lydis'
+    text: Distributeur van o.a. Yealink en IP communicatiespecialist
     align: left
   image: "/v1608046576/headeravm_mn4isg.png"
-  title: Callvoip - Partners - AVM - FRITZ!
+  title: Callvoip - Partners - Lydis
   disable_image_on_mobile: true
   link: ''
 description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
