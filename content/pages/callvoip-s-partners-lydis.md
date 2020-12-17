@@ -37,16 +37,17 @@ double_content:
   right:
     background: true
     background_color: "#efefef"
-    title: 'In het kort: AVM GmbH'
+    title: 'In het kort: Lydis B.V.'
     content: |-
       <div class="usp-list"><ul><li>
-      Hoofdkantoor: Berlijn, Duitsland</li>
-      <li>Bestaat sinds: 1986</li>
-      <li>Grootte: > 800 medewerkers</li>
-      <li>Actief in: wereldwijd</li>
-      <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li><br></div>
+      Hoofdkantoor: Almere</li>
+      <li>Bestaat sinds: 2013</li>
+      <li>Grootte: > 20 medewerkers</li>
+      <li>Actief in: Benelux</li>
+      <li>Bekend van: Distributeur Yealink en IP communicatiespecialist</li>
+      <li>Website: <a href="https://www.lydis.nl/" target="_blank">www.lydis.nl</a></li><br></div>
 
-      <img src="https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1604923324/lydis-logo-wit_dy3smq.png" alt="Lydis logo">
 textblocks:
 - title2: Waarom wij fan zijn
   content2: |-
