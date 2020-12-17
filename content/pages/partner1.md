@@ -16,7 +16,7 @@ description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod w
   en ontvang binnen 1 dag een uitnodiging.
 images:
 - "/v1567165784/icon_hwk0eh.png"
-layout: partnerprofiel
+layout: partnerprofielzwart
 hideinsearch: true
 hideingoogle: true
 blocks:
