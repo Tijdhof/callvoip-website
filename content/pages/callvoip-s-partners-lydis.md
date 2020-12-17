@@ -25,15 +25,15 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "Misschien ken je AVM wel helemaal niet. Dat horen we namelijk wel vaker.
-      Toch is het een grote speler die met name bekend is van de FRITZ!Box modem routers.
-      Maar ze hebben veel meer in hun mars en timmeren ook aan de weg binnen smart
-      home toepassingen, repeaters etc. <br>\n\nDe FRITZ!Box is in tegenstelling tot
-      de naam AVM dus wel bekend bij veel mensen. Er wordt over gezegd dat ze een
-      sterke combinatie zijn van hoge kwaliteit hardware met een super gebruiksvriendelijke
-      interface. En dat vinden wij ook. Daarom maken we graag gebruik van de apparatuur
-      van AVM. En raden we bij bijvoorbeeld onze <a href=\"/internet/overzicht/\">eigen
-      internetverbindingen</a> ook vaak een FRITZ!Box aan als modem-router.  \n"
+    content: "Bij het samenwerken met partners is het wat ons betreft van essentieel
+      belang dat je uit hetzelfde hout gesneden bent. Natuurlijk moet je ook een aanbod
+      hebben wat bij elkaar aansluit, maar minstens zo belangrijk is hoe je naar dat
+      aanbod kijkt en hoe je omgaat met je klanten. \n\nOnze partner Lydis is een
+      mooi voorbeeld waarbij alles past. Als distributeur en IP communicatie specialist
+      leveren zij de hardware waarmee onze klanten kunnen bellen. Grote kans dat je
+      een Yealink op je bureau hebt staan die via Lydis door ons geleverd is. Dus
+      qua producten is er een logische match. Maar in de samenwerking met Lydis gaat
+      dat gelukkig nog een stapje verder. "
   right:
     background: true
     background_color: "#efefef"
