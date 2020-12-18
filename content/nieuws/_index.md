@@ -10,7 +10,7 @@ menu:
     weight: 4
     parent: Over ons
   overons:
-    weight: 4
+    weight: 6
     Name: Nieuws
 
 ---
