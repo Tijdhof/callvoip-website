@@ -27,7 +27,7 @@ We gingen met hen in gesprek over onze samenwerking, maar ook over de invloed va
 
 #### Even voorstellen
 
-"Wij zijn Lydis, IP communicatiespecialist en distributeur van merken als Yealink, Jabra en meer. Wij zijn echt een kenniscentrum. Naast de support aan onze resellers, geven wij advies, demo’s en POC presentaties aan de eindgebruikers. Wij vinden dat wij als ‘Value Added Distributeur’ exceptionele ondersteuning bieden, op zowel commercieel als technisch vlak voor al onze producten. Diezelfde producten zijn officieel gecertificeerd bij een groot aantal providers en carriers in de Benelux. 
+"Wij zijn Lydis, IP communicatiespecialist en distributeur van merken als Yealink, Jabra en meer. Wij zijn echt een kenniscentrum. Naast de support aan onze resellers, geven wij advies, demo’s en POC presentaties aan de eindgebruikers. Wij vinden dat wij als ‘Value Added Distributeur’ exceptionele ondersteuning bieden, op zowel commercieel als technisch vlak voor al onze producten. Diezelfde producten zijn officieel gecertificeerd bij een groot aantal providers en carriers in de Benelux. "
 
 #### Onze samenwerking
 
