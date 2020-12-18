@@ -12,4 +12,8 @@ hideingoogle: true
 
 
 ---
-“Callvoip is al jaren een **gedegen partner** voor onze telefonie. We zijn ook erg te spreken over de Qaller app ter ondersteuning. Bood ons de ideale uitkomst toen onlangs de bliksem insloeg en het internet er geruime tijd uit lag.”
+Kwebbl is de maker van onze onvolprezen online telefooncentrale en maakt zo dus onze dienstverlening mogelijk. Een cruciale en zeer gewaardeerde partner dus. En die waardering is gelukkig wederzijds :-)
+<br><br>
+“Callvoip heeft vanaf het begin geloofd in het platform en mede met hun expertise is het platform ontwikkeld en vormgegeven.”
+<br><br>
+Ab Trik, CEO Kwebbl
