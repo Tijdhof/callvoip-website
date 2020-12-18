@@ -2,15 +2,13 @@
 title: Partners van Callvoip
 intro:
   title: Partners
-  content: Callvoip zorgt ervoor dat u als ondernemer altijd bereikbaar bent, dat
-    gaat verder dan alleen maar telefonie. Betrouwbaar internet en goede apparatuur
-    mogen daarbij niet ontbreken.
+  content: Wij hechten veel waarde aan samenwerken met partners. Wat ons betreft is het dan van essentieel belang dat niet alleen het aanbod aansluit, maar minstens zo belangrijk is hoe je naar dat aanbod kijkt en hoe je omgaat met je klanten. Wij zijn trots op onze samenwerkingen met onderstaande bedrijven.
 hero:
   image: "/v1603982195/partners_qcxwzp.png"
 url: /partners
 menu:
   main:
-    weight: 5
+    weight: 6
     parent: Over ons
   overons:
     weight: 6
