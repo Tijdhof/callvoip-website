@@ -1,5 +1,5 @@
 ---
-title: Gesprek met Eric van Uden - AVM
+title: Gesprek met Eric van Uden - Countrymanager AVM
 description: ''
 images: []
 featured: false
@@ -13,8 +13,8 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
-url: interview-avm
+date: 2020-12-17T23:00:00+00:00
+url: interview-avm-eric-van-uden
 contactpersoon: []
 categories: []
 tags: []
