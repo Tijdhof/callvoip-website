@@ -12,4 +12,8 @@ hideingoogle: true
 
 
 ---
-“Callvoip is al jaren een **gedegen partner** voor onze telefonie. We zijn ook erg te spreken over de Qaller app ter ondersteuning. Bood ons de ideale uitkomst toen onlangs de bliksem insloeg en het internet er geruime tijd uit lag..”
+Zonder hardware rinkelt er niets. Daarom zijn we ook zo blij met een partner als Lydis. Zij voorzien ons en onze klanten niet alleen van toestellen, headsets en andere oplossingen, zij bieden daarbij service en ondersteuning op hoog niveau. 
+<br><br>
+“Onze samenwerking onderscheidt zich op het gebied van optimale service en persoonlijke support”
+<br><br>
+Rosalie Heide - Marketing Kwebb
