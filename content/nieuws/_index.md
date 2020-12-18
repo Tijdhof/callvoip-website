@@ -7,7 +7,7 @@ intro:
     mogen daarbij niet ontbreken.
 menu:
   main:
-    weight: 4
+    weight: 6
     parent: Over ons
   overons:
     weight: 6
