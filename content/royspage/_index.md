@@ -8,5 +8,11 @@ intro:
 hero:
   image: "/v1603982195/partners_qcxwzp.png"
 url: /partners
-
+menu:
+  main:
+    weight: 5
+    parent: Over ons
+  overons:
+    weight: 6
+    Name: Onze partners
 ---
