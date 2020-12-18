@@ -1,5 +1,5 @@
 ---
-title: Partners van Callvoip
+title: Onze partners
 intro:
   title: Partners
   content: Wij hechten veel waarde aan samenwerken met partners. Wat ons betreft is het dan van essentieel belang dat niet alleen het aanbod aansluit, maar minstens zo belangrijk is hoe je naar dat aanbod kijkt en hoe je omgaat met je klanten. Wij zijn trots op onze samenwerkingen met onderstaande bedrijven.
