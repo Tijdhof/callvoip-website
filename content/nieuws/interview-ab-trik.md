@@ -21,7 +21,7 @@ tags: []
 type: ''
 
 ---
-Met Ab Trik als CEO aan het roer heeft Kwebbl een absolute alleskunner aan boord op het gebied van de wereld van telecom en media. In die laatste was hij 22 jaar werkzaam als topman van Sky Radio/Radio Veronica/Classic FM en als oprichter van Radio 538. Niet de minste dus als het gaat om strategisch denken in innovatie en oplossingen voor de klant. Sinds 2013 is Ab aangetreden als CEO- en mede-investeerder van onze partner Kwebbl en geeft hij met hart en ziel leiding aan dit telecombedrijf. Het voornaamste doel van Kwebbl binnen de zakelijke telecommarkt is, om als slim ‘cloud communicatie platform’ de razendsnelle ontwikkeling van internettechnologie, online (thuis)werken en VoIP naadloos met elkaar te integreren. Dit doen zij door middel van; partnerschappen, innovatie en onafhankelijkheid na te streven. Waar ligt nou die telkens die behoefte van de klant en hoe spelen we daar perfect op in? Een prachtige klus waar wij visionair Ab Trik graag een paar vragen over stelden met betrekking tot ons partnerschap.
+Met Ab Trik als CEO aan het roer heeft Kwebbl een absolute alleskunner aan boord op het gebied van de wereld van telecom en media. In die laatste was hij 22 jaar werkzaam als topman van Sky Radio/Radio Veronica/Classic FM en als oprichter van Radio 538. Niet de minste dus als het gaat om strategisch denken in innovatie en oplossingen voor de klant. Sinds 2013 is Ab aangetreden als CEO- en mede-investeerder van onze partner Kwebbl en geeft hij met hart en ziel leiding aan dit telecombedrijf. Het voornaamste doel van Kwebbl binnen de zakelijke telecommarkt is, om als slim ‘cloud communicatie platform’ de razendsnelle ontwikkeling van internettechnologie, online (thuis)werken en VoIP naadloos met elkaar te integreren. Dit doen zij door middel van; partnerschappen, innovatie en onafhankelijkheid na te streven. Waar ligt nou die telkens die behoefte van de klant en hoe spelen we daar perfect op in? Een prachtige klus waar wij visionair Ab Trik graag een paar vragen over stelden met betrekking tot [ons partnerschap](https://www.callvoip.nl/partners/kwebbl/).
 
 #### Even voorstellen
 
@@ -41,9 +41,9 @@ We vroegen Ab natuurlijk ook om wat te vertellen over onze samenwerking. Zelf er
 
 #### Terugblik op 2020; een raar/bijzonder jaar…
 
-Het behoeft weinig toelichting dat 2020 een jaar is om nooit te vergeten. COVID drukte een stempel op de wereld, maar zeker ook op de manier waarop iedereen met elkaar samenwerkt. Ab licht toe: 
+Het behoeft weinig toelichting dat 2020 een jaar is om nooit te vergeten. COVID drukte een stempel op de wereld, maar zeker ook op de manier waarop iedereen met elkaar samenwerkt. Ab licht toe:
 
-> "2020 is een heel bijzonder jaar waarbij een groot gedeelte van onze gebruikers gedwongen werden om thuis te werken. Hiervoor hebben wij hele mooie nieuwe functionaliteiten kunnen toevoegen aan ons platform, waaronder [Web Calls](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/), [2-Factor Authentication](https://www.callvoip.nl/telefonie/functionaliteiten/2fa/) als extra beveiliginglaag voor gebruikers en uitgebreide [CRM integraties](https://www.callvoip.nl/telefonie/integratie/). 
+> "2020 is een heel bijzonder jaar waarbij een groot gedeelte van onze gebruikers gedwongen werden om thuis te werken. Hiervoor hebben wij hele mooie nieuwe functionaliteiten kunnen toevoegen aan ons platform, waaronder [Web Calls](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/), [2-Factor Authentication](https://www.callvoip.nl/telefonie/functionaliteiten/2fa/) als extra beveiliginglaag voor gebruikers en uitgebreide [CRM integraties](https://www.callvoip.nl/telefonie/integratie/).
 >
 > Door de Corona zijn we anders gaan nadenken over nieuwe innovatieve functionaliteiten die we willen toevoegen aan het platform. Het Kwebbl platform wordt in razend tempo verder ontwikkeld en Corona heeft daarmee de innovatie niet versneld, maar wel de focus op nieuwe functionaliteiten veranderd."
 
@@ -53,7 +53,7 @@ Natuurlijk kende Corona ook zijn weerslag op Kwebbl zelf.
 
 #### Vooruitblik: wat brengt de toekomst?
 
-Een belangrijke les van 2020 is misschien wel dat je nooit precies weet wat de toekomst je brengt. Wel is de ervaring die we op hebben gedaan met zijn alle van waarde bij het vooruitkijken. Ab vertelt: 
+Een belangrijke les van 2020 is misschien wel dat je nooit precies weet wat de toekomst je brengt. Wel is de ervaring die we op hebben gedaan met zijn alle van waarde bij het vooruitkijken. Ab vertelt:
 
 > "Zaken die aanvankelijk voor de lange termijn werden verwacht, zullen door de Corona meer korte termijn ontwikkelingen zijn. Denk hierbij natuurlijk aan meer thuiswerken, meer mobiel werken, minder vaste telefonie en meer integraties om efficiënter te werken.
 >
@@ -61,6 +61,6 @@ Een belangrijke les van 2020 is misschien wel dat je nooit precies weet wat de t
 
 #### Wensen voor het nieuwe jaar
 
-Als laatst vragen we Ab of hij nog een eindejaarswens in het licht van onze partnerschap, en die heeft hij! 
+Als laatst vragen we Ab of hij nog een eindejaarswens in het licht van onze partnerschap, en die heeft hij!
 
 > "Wij kijken uit naar een voortzetting van onze goede samenwerking met Callvoip in 2021 en dat we er voor zorgen dat we in goede gezondheid veel klanten blijven voorzien van een stabiele, gebruiksvriendelijke en multifunctionele communicatie-oplossing."
