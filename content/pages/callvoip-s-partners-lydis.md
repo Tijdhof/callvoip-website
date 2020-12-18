@@ -11,14 +11,13 @@ hero:
   title: Callvoip - Partners - Lydis
   disable_image_on_mobile: true
   link: ''
-description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
-  service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
-  en ontvang binnen 1 dag een uitnodiging.
+description: 'Zonder partners waren we niet waar we nu zijn. Daarom zetten we ze graag
+  in het zonnetje. Op de pagina Lydis. '
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: partnerprofielzwart
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 blocks:
 - title: ''
   content: ''
@@ -68,7 +67,6 @@ double_footer:
       met Lydis. Maar wat vinden zij er eigenlijk zelf van? Wij vroegen het en niet
       geheel tot onze verrassing was het enthousiasme heus wederzijds. Lees daarom
       ook de andere kant in het interview wat we hadden met Rosalie Heide, marketing
-      bij Lydis. \n\n<a href=\"/interview-lydis-rosalie-heide/\">Lees het interview
-      met Rosalie</a><br><br>\n"
+      bij Lydis. \n\n<a href=\"/interview-lydis-rosalie-heide/\">Rosalie aan het woord</a><br><br>\n"
 
 ---
