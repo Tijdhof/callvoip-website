@@ -11,14 +11,13 @@ hero:
   title: Callvoip - Partners - AVM - FRITZ!
   disable_image_on_mobile: true
   link: ''
-description: Ben je op zoek naar het beste zakelijke internet en bellen aanbod waar
-  service nog ouderwets persoonlijk is? Vraag dan een rondleiding aan bij Callvoip
-  en ontvang binnen 1 dag een uitnodiging.
+description: 'Zonder partners waren we niet waar we nu zijn. Daarom zetten we ze graag
+  in het zonnetje. Op de pagina AVM. '
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: partnerprofielzwart
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 blocks:
 - title: ''
   content: ''
@@ -68,7 +67,7 @@ double_footer:
       en dames in de Nederlandse vestigingen en trekken samen op in acties. Maar we
       vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken
       Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
-      \n\n<a href=\"/interview-avm/\">Lees het interview met Eric</a><br><br>\n<a
-      href=\"/interview-raymond-teigeler-avm/\">Lees het interview met Raymond</a>"
+      \n\n<a href=\"/interview-avm/\">Eric aan het woord</a><br><br>\n<a href=\"/interview-raymond-teigeler-avm/\">Raymond
+      aan het woord</a>"
 
 ---

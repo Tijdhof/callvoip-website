@@ -11,8 +11,8 @@ hero:
   title: Callvoip - Partners - Kwebbl
   disable_image_on_mobile: true
   link: ''
-description: 'Samen met onze partners staan we sterker. Daarom staan ze op het podium
-  op deze pagina. '
+description: 'Zonder partners waren we niet waar we nu zijn. Daarom zetten we ze graag
+  in het zonnetje. Op de pagina Kwebbl. '
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: partnerprofielzwart
@@ -69,6 +69,6 @@ double_footer:
       ons is, als wij met hen :-) Maar aannames doen we niet, dus we vroegen Ab Trik,
       CEO bij Kwebbl, maar eens zelf wat hij eigenlijk van ons vindt. Dat leverde
       een leuk gesprek op, over samenwerking, de toekomst en het bizarre jaar 2020.\n
-      \n\n<a href=\"/interview-ab-trik-kwebbl/\">Lees het interview met Ab</a><br><br>\n"
+      \n\n<a href=\"/interview-ab-trik-kwebbl/\">Ab aan het woord</a><br><br>\n"
 
 ---
