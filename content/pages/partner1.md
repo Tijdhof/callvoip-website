@@ -67,7 +67,7 @@ double_footer:
       en dames in de Nederlandse vestigingen en trekken samen op in acties. Maar we
       vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken
       Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
-      \n\n<a href=\"/interview-avm/\">Eric aan het woord</a><br><br>\n<a href=\"/interview-raymond-teigeler-avm/\">Raymond
-      aan het woord</a>"
+      \n\n<a href=\"/interview-avm-eric-van-uden/\">Eric aan het woord</a><br><br>\n<a
+      href=\"/interview-raymond-teigeler-avm/\">Raymond aan het woord</a>"
 
 ---
