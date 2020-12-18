@@ -9,10 +9,10 @@ hero:
   image: ''
 menu:
   main:
-    weight: 5
+    weight: 4
     parent: Over ons
   overons:
-    weight: 5
+    weight: 4
     Name: Succesverhalen
 
 ---
