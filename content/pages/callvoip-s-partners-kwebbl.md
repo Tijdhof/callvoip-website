@@ -16,8 +16,8 @@ description: 'Samen met onze partners staan we sterker. Daarom staan ze op het p
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: partnerprofielzwart
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 blocks:
 - title: ''
   content: ''
@@ -52,7 +52,7 @@ textblocks:
 - title2: Waarom wij fan zijn
   content2: 'We hebben onze partner voor ons daadwerkelijke systeem natuurlijk niet
     zomaar gekozen. Wij waren bijna vanaf het begin betrokken bij Kwebbl. Zij noemen
-    ons zelf een zgn. Launching Customer, een hele eer. Kwebbl is innovatief en heeft
+    ons zelfs een zgn. Launching Customer, een hele eer. Kwebbl is innovatief en heeft
     gebruiksgemak hoog in het vaandel. Net als wij. De samenwerking is dan ook niet
     partij A gebruikt systeem partij B, maar gaat veel verder. We vertalen onze kennis
     van de markt richting het platform. Zo krijgen we het beste resultaat, en daar
