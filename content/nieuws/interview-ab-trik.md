@@ -1,10 +1,10 @@
 ---
-title: Interview Kwebbl - Ab Trik
+title: Wij spraken Ab Trik, CEO van Kwebbl, over onze samenwerking
 description: ''
 images: []
 featured: false
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -13,30 +13,29 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-12-17T23:00:00+00:00
 url: "/interview-ab-trik-kwebbl/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
-Met Ab Trik als CEO aan het roer heeft Kwebbl een absolute alleskunner aan boord op het gebied van de wereld van telecom en media. In die laatste was hij 22 jaar werkzaam als voormalig topman van Sky Radio/Radio Veronica/Classic FM en als oprichter van Radio 538. Niet de minste dus als het gaat om strategisch denken in innovatie en oplossingen voor de klant. Sinds 2013 is Ab aangetreden als CEO- en mede-investeerder van onze partner Kwebbl en geeft hij met hart en ziel leiding aan dit telecombedrijf. Het voornaamste doel van Kwebbl binnen de zakelijke telecommarkt is, om als slim ‘cloud communicatie platform’ de razendsnelle ontwikkeling van internettechnologie, online (thuis)werken en VoIP naadloos met elkaar te integreren. Dit doen zij door middel van; partnerschappen, innovatie en onafhankelijkheid na te streven. Waar ligt nou die telkens die behoefte van de klant en hoe spelen we daar perfect op in. Een prachtige klus waar wij visionair Ab Trik graag een paar vragen over stelden met betrekking tot ons partnerschap.
+Met Ab Trik als CEO aan het roer heeft Kwebbl een absolute alleskunner aan boord op het gebied van de wereld van telecom en media. In die laatste was hij 22 jaar werkzaam als topman van Sky Radio/Radio Veronica/Classic FM en als oprichter van Radio 538. Niet de minste dus als het gaat om strategisch denken in innovatie en oplossingen voor de klant. Sinds 2013 is Ab aangetreden als CEO- en mede-investeerder van onze partner Kwebbl en geeft hij met hart en ziel leiding aan dit telecombedrijf. Het voornaamste doel van Kwebbl binnen de zakelijke telecommarkt is, om als slim ‘cloud communicatie platform’ de razendsnelle ontwikkeling van internettechnologie, online (thuis)werken en VoIP naadloos met elkaar te integreren. Dit doen zij door middel van; partnerschappen, innovatie en onafhankelijkheid na te streven. Waar ligt nou die telkens die behoefte van de klant en hoe spelen we daar perfect op in? Een prachtige klus waar wij visionair Ab Trik graag een paar vragen over stelden met betrekking tot ons partnerschap.
 
 #### 1. Wie zijn jullie en welke producten / diensten leveren jullie?
 
-(Wellicht nog oprichtingsdatum en het aantal jaren dat we samenwerken)
-
 Wij zijn Kwebbl Smart Cloud Communications, een Nederlands bedrijf opgericht in 2013, hebben kantoren in Amsterdam (hoofdkantoor), Kiev (Oekraïne), Berlijn (Duitsland) en Baar (Zwitserland). Kwebbl
 
-heeft een eigen ontwikkelteam, dat een volledig nieuw communicatieplatform heeft gebouwd, dat een schaalbaar en veilig systeem is met een sterke focus op gebruikersgemak.
+We hebben een eigen ontwikkelteam, dat een volledig nieuw communicatieplatform heeft gebouwd. Een schaalbaar en veilig systeem met een sterke focus op gebruikersgemak.
 
 Het communicatieplatform stelt haar zakelijke gebruikers in staat om het zakelijke belverkeer voor iedere organisatie te beheren waarbij gebeld kan worden met vaste telefoons, mobiele telefoons, via de browser of anderszins, waarbij alle devices een integraal onderdeel zijn van het platform.
 
 Callvoip is zoals wij dat noemen, de launching customer van het Kwebbl platform. Robert Tijdhof heeft vanaf het begin geloofd in het platform en mede met zijn expertise is het platform ontwikkeld en vormgegeven.
 
-#### 2. Wat is jullie rol als onze partner en waarin verschilt onze samenwerking tov andere partnerschappen in onze business? Waarin onderscheiden wij ons in ons partnerschap?
+#### 2. Wat is jullie rol als onze partner en waarin verschilt onze samenwerking t.o.v. andere partnerschappen in onze business? 
 
-Kwebbl zorgt voor de ontwikkeling en onderhoud van het communicatieplatform waarbij Kwebbl gebruik kan maken van de expertise en kennis van Callvoip. Callvoip is zeer nauw betrokken bij haar klanten en weet de wensen van klanten goed te vertalen naar oplossingen en alle functionaliteiten van Kwebbl in te zetten om klanten goed bereikbaar te maken.
+Kwebbl zorgt voor de ontwikkeling en onderhoud van het communicatieplatform waarbij we gebruik kunnen maken van de expertise en kennis van Callvoip. Callvoip is zeer nauw betrokken bij haar klanten en weet de wensen van klanten goed te vertalen naar oplossingen. Zo worden alle functionaliteiten van Kwebbl ingezet om klanten goed bereikbaar te maken.
 
 #### 3. Hoe kan een partner als wij waarde toevoegen aan jullie producten en diensten?
 
@@ -54,7 +53,7 @@ Door het vertrouwen en steun van Callvoip heeft Kwebbl zich kunnen concentreren 
 
 **_Hoe kijken jullie over het algemeen terug op dit jaar?_**
 
-2020 is een heel bijzonder jaar waarbij een groot gedeelte van onze gebruikers gedwongen werden om thuis te werken. Hiervoor hebben wij hele mooie nieuwe functionaliteiten kunnen toevoegen aan ons platform, waaronder Web Calls, 2-Factor Autentication als extra beveiliginglaag voor gebruikers en uitgebreide CRM integraties.
+2020 is een heel bijzonder jaar waarbij een groot gedeelte van onze gebruikers gedwongen werden om thuis te werken. Hiervoor hebben wij hele mooie nieuwe functionaliteiten kunnen toevoegen aan ons platform, waaronder [Web Calls](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/), [2-Factor Authentication](https://www.callvoip.nl/telefonie/functionaliteiten/2fa/) als extra beveiliginglaag voor gebruikers en uitgebreide [CRM integraties](https://www.callvoip.nl/telefonie/integratie/).
 
 **_Wat was het effect van Corona op de vraag naar de producten/diensten?_**
 
@@ -70,21 +69,21 @@ Gezien het feit dat ook de ontwikkelaars van Kwebbl thuis werken en niet gezamen
 
 **_Als jullie de de balans opmaken: wat ging er dit jaar beter, en wat minder?_**
 
-Zonder twijfel missen we het contact van de collega’s op de werkvloer die belangrijk is voor de afstemming van de werkzaamheden. We hebben door de Corona wel andere opvattingen gekregen over de richting van de ontwikkeling van het platform wat een hele goede zaak is.
+Zonder twijfel missen we het contact van de collega’s op de werkvloer dat belangrijk is voor de afstemming van de werkzaamheden. We hebben door de Corona wel andere opvattingen gekregen over de richting van de ontwikkeling van het platform wat een hele goede zaak is.
 
 **_Hoe zien jullie de komende periode tegemoet voor de korte en lange termijn?_**
 
-Zaken die aanvankelijk voor de lange termijn werden verwacht, zullen door de Corona meer korte termijn ontwikkelingen zijn. Denk hierbij aan meer thuis werken, meer mobiel werken, minder vaste telefonie en meer integraties om efficienter te werken.
+Zaken die aanvankelijk voor de lange termijn werden verwacht, zullen door de Corona meer korte termijn ontwikkelingen zijn. Denk hierbij aan meer thuis werken, meer mobiel werken, minder vaste telefonie en meer integraties om efficiënter te werken.
 
 **_Wat blijft er en wat zou weer anders kunnen worden?_**
 
-Uiteindelijk zullen werknemers na de Corona pandemie veelal weer terugkeren naar kantoor. Echter zal thuiswerken een onderdeel blijven voor veel werknemers en zal het gebruik van het communicatieplatform meer flexibel moeten zijn. Hiervoor zal Kwebbl zich blijven ontwikkelen op het gebied van vaste toestellen, Web Calls, Vast-mobiel integraties en de Qaller app.
+Uiteindelijk zullen werknemers na de Corona pandemie veelal weer terugkeren naar kantoor. Echter zal thuiswerken een onderdeel blijven voor veel werknemers en zal het gebruik van het communicatieplatform meer flexibel moeten zijn. Hiervoor zal Kwebbl zich blijven ontwikkelen op het gebied van vaste toestellen, Web Calls, [Vast-mobiel integraties](https://www.callvoip.nl/telefonie/vastmobiel/) en de Qaller app.
 
 #### 7. Vooruitblik met het oog op gezamenlijke kansen in onze samenwerking
 
 **_Hoe ervaren jullie onze vormgeving aan jullie producten en diensten op onze website, diverse documentatie, het klantcontact en onze marketing via diverse media?_**
 
-Callvoip is een hele professionele partij die haar klanten centraal heeft staan en een uitstekende dienstverlening biedt en die ook aanbiedt door middel van een mooie website, goede documentatie en met een uitstekende klantvriendelijke dienstverlening.
+Callvoip is een hele professionele partij die haar klanten centraal heeft staan en een uitstekende dienstverlening biedt en die ook aanbiedt door middel van een mooie website, goede documentatie en met een uitstekende, klantvriendelijke dienstverlening.
 
 **_Krijgen jullie van ons ook nuttige input terug om de producten en diensten verder te ontwikkelen?_**
 
@@ -92,6 +91,6 @@ Regelmatig hebben we sessies om door te nemen wat Kwebbl kan verbeteren aan de h
 
 #### 8. Wens of boodschap voor onze gezamenlijk klanten
 
-**_Hebben jullie nog een eindejaars-boodschap of wens voor onze gezamenlijk klanten voor 2021?_**
+**_Hebben jullie nog een eindejaarsboodschap of wens voor onze gezamenlijk klanten voor 2021?_**
 
 Wij kijken uit naar een voortzetting van onze goede samenwerking met Callvoip in 2021 en dat we er voor zorgen dat we in goede gezondheid veel klanten blijven voorzien van een stabiele, gebruiksvriendelijke en multifunctionele communicatie-oplossing.
