@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2020-12-17T23:00:00+00:00
 url: interview-lydis-rosalie-heide/
 contactpersoon: []
 categories: []
