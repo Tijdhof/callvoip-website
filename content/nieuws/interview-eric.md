@@ -2,7 +2,7 @@
 title: Gesprek met Eric van Uden - Countrymanager AVM
 description: ''
 images:
-- "/v1608543726/avmmainimage_aeoldn.png"
+- "/v1608544941/eric_idvivo.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
