@@ -1,12 +1,13 @@
 ---
 title: Wij spraken Rosalie Heide, marketing bij Lydis, over onze samenwerking
 description: ''
-images: []
+images:
+- "/v1608543726/lydismainimage_wkrzsn.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1608543726/lydismainimage_wkrzsn.png"
 hero:
   image: ''
   mobile: ''

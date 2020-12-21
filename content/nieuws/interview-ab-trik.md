@@ -1,19 +1,20 @@
 ---
 title: Wij spraken Ab Trik, CEO van Kwebbl, over onze samenwerking
 description: ''
-images: []
+images:
+- "/v1608543726/kwebblmainimage_zys4na.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1608543726/kwebblmainimage_zys4na.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-12-17T23:00:00+00:00
+date: 2020-12-17T23:00:00.000+00:00
 url: "/interview-ab-trik-kwebbl/"
 contactpersoon: []
 categories: []
