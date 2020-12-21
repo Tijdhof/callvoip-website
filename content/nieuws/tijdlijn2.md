@@ -17,7 +17,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2019-12-31
+date: 2020-12-21
 url: tijdlijn
 contactpersoon: []
 categories: []
@@ -26,6 +26,8 @@ aliases: "/roadmap"
 type: ''
 
 ---
+<h2>2021:</h2>
+Een blik vooruit in 2021: wat kun je verwachten?
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537536/webcalls2_jac0f9.png">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537761/phonebook_gqfked.png">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537298/reportingcdr_yumnrk.png">
