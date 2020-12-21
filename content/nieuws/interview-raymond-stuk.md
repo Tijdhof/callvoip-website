@@ -2,7 +2,7 @@
 title: Wij spraken Raymond Teigeler - Key Account Manager AVM, over onze samenwerking
 description: ''
 images:
-- "/v1608543726/avmmainimage_aeoldn.png"
+- "/v1608545337/raymond_sk2fn9.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -22,9 +22,7 @@ tags: []
 type: ''
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1608543726/avmmainimage_aeoldn.png)
-
-Raymond Teigeler; 36 jaar, getrouwd, papa van 2 dochters en alweer 7 jaar in trotse dienst bij AVM. Zijn rol is die van Key Account Manager voor de BeNeLux. In eerste instantie werd Raymond aangenomen voor de samenwerking van AVM met de Mediamarkt, aangezien hij daarvoor eerder werkzaam was. Momenteel ligt zijn focus meer en meer op de vakhandel met het oog op de retail & etail kanalen. Tevens is Raymond ons vaste aanspreekpunt als partner van Callvoip. Daarom weet hij goed in te schatten wat het partnerschap tussen Callvoip en AVM met zich meebrengt. Wij stelden Raymond enkele vragen..
+![](https://res.cloudinary.com/callvoip/image/upload/v1608545337/raymond_sk2fn9.png)Raymond Teigeler; 36 jaar, getrouwd, papa van 2 dochters en alweer 7 jaar in trotse dienst bij AVM. Zijn rol is die van Key Account Manager voor de BeNeLux. In eerste instantie werd Raymond aangenomen voor de samenwerking van AVM met de Mediamarkt, aangezien hij daarvoor eerder werkzaam was. Momenteel ligt zijn focus meer en meer op de vakhandel met het oog op de retail & etail kanalen. Tevens is Raymond ons vaste aanspreekpunt als partner van Callvoip. Daarom weet hij goed in te schatten wat het partnerschap tussen Callvoip en AVM met zich meebrengt. Wij stelden Raymond enkele vragen..
 
 #### Even voorstellen
 
