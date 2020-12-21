@@ -26,6 +26,7 @@ aliases: "/roadmap"
 type: ''
 
 ---
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1608537298/reportingcdr_yumnrk.png">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608536787/2021_kdet9k.png">
 <h2>2020:</h2>
 <a target="_blank" href="https://www.callvoip.nl/nieuws/webcalls/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Webcals_part_2_q4weh3.png"></a>
