@@ -1,19 +1,20 @@
 ---
 title: Wij spraken Raymond Teigeler - Key Account Manager AVM, over onze samenwerking
 description: ''
-images: []
+images:
+- "/v1608543726/avmmainimage_aeoldn.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1608543726/avmmainimage_aeoldn.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-12-17T23:00:00+00:00
+date: 2020-12-17T23:00:00.000+00:00
 url: interview-raymond-teigeler-avm/
 contactpersoon: []
 categories: []
