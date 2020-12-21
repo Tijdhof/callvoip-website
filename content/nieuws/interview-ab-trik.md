@@ -65,4 +65,4 @@ Als laatst vragen we Ab of hij nog een eindejaarswens in het licht van onze part
 
 > "Wij kijken uit naar een voortzetting van onze goede samenwerking met Callvoip in 2021 en dat we er voor zorgen dat we in goede gezondheid veel klanten blijven voorzien van een stabiele, gebruiksvriendelijke en multifunctionele communicatie-oplossing."
 <br>
-<a target="_blank" href="https://kwebbl.com/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608541160/Kwebbl_cjckfn.png"></a>
+<a target="_blank" href="https://kwebbl.com/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608541160/Kwebbl_cjckfn.png" height="125" width="264"></a>
