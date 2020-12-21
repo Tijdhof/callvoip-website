@@ -64,4 +64,5 @@ Een belangrijke les van 2020 is misschien wel dat je nooit precies weet wat de t
 Als laatst vragen we Ab of hij nog een eindejaarswens in het licht van onze partnerschap, en die heeft hij!
 
 > "Wij kijken uit naar een voortzetting van onze goede samenwerking met Callvoip in 2021 en dat we er voor zorgen dat we in goede gezondheid veel klanten blijven voorzien van een stabiele, gebruiksvriendelijke en multifunctionele communicatie-oplossing."
+<br>
 <a target="_blank" href="https://kwebbl.com/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608541160/Kwebbl_cjckfn.png"></a>
