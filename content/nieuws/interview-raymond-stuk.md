@@ -67,4 +67,5 @@ Raymond:
 
 > "Dat het een heel mooi en succesvol jaar mag worden. Dat jullie en jullie klanten veelvuldig mogen genieten van onze producten en service en blijf vooral verbonden."
 
-Dat doen we zeker, Raymond! Dank voor jouw antwoorden! 
+Dat doen we zeker, Raymond! Dank voor jouw antwoorden!
+<a href="https://nl.avm.de/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608539538/avm_logo_ud8jh7.png"></a>
