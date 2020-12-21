@@ -5,12 +5,12 @@ description: Altijd leuk om een kleurrijk jaar in vogelvlucht te herbeleven. Omd
   Het is een tijdlijn met hoogtepunten geworden, die ook nog eens doorloopt in de
   toekomst.
 images:
-- "/v1575627317/2020_pkajd2.png"
+- "/v1608536787/2021_kdet9k.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: "/v1577781063/2020_pkajd2.png"
+image_uitgelicht: "/v1608536787/2021_kdet9k.png"
 hero:
   image: ''
   mobile: ''
