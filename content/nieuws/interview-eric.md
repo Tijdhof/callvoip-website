@@ -22,6 +22,8 @@ tags: []
 type: ''
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1608543726/avmmainimage_aeoldn.png)
+
 <b>Ken je die? Mensen die zoveel bloed, zweet en tranen in hun passie stoppen, dat ze één geheel vormen met een bewuste materie. Ze staan in kennis, ervaring en visie binnen hun vakgebied op eenzame hoogte. Eric van Uden uit Wijchen is er zo eentje vinden wij bij Callvoip. Een mastodont binnen de wereld van intelligente wifi-verbindingen en smarthome-infrastructuren. Beter gezegd een internet opperhoofd, al kroont zijn organisatie AVM hem sinds wat jaartjes tot country manager. Staat Eric van Uden dan symbool voor AVM Nederland? “Absoluut niet, belangrijk om te duiden!”; luidt zijn repliek. AVM Nederland draait al lang niet meer om enkel Eric van Uden. Ze zijn een volwassen team van 9 man sterk en in breed verband sterk vertegenwoordigd in specifieke kennis en kunde. Wij van Callvoip mochten Eric even lenen en aan de tand voelen over strategieën, visies en succesvolle partnerschappen.</b>
 
 AVM bestaat sinds 1986. In Duitsland zijn ze de grootste aanbieder binnen hun business met de FRITZ!-producten en toonaangevend in Europa. Eric was sinds 1995 werkzaam als systeemintegrator voor diverse organisaties en stapte vanaf 2000 in bij AVM. Hij runde destijds alleen de complete AVM Nederland-operatie. Eric staat binnen de Nederlandse tak van AVM garant voor veel bruikbare kennis op het gebied van techniek en innovatie. Hij wil alleen geen wandelende helpdesk zijn.
@@ -36,7 +38,7 @@ Zijn strategie is altijd geweest om in eerste instantie alles naar zich toe trek
 
 “Niet alleen stabiele en snelle internetverbinding is belangrijk voor de klant. Maar net zo goed of zij alles kunnen doen op hun ‘eind-device’. Om dat totale traject doortastend te reguleren heb je een autoriteit nodig die het je haarfijn en begrijpelijk kan uitleggen. Zonder al teveel commerciële bijbedoelingen of opsmuk. Callvoip heeft dit als geen ander in de vingers. Het gaat tegenwoordig meer dan ooit om het kunnen aanbieden van de juiste combinatie van passende producten en diensten. Samen vormen die de beste totaaloplossing voor ieder type klant. Daarin zit de kracht van Callvoip en in het verlengde daarvan ons jarenlange partnerschap. De meeste AVM-klanten hebben een duidelijke behoefte aan kwaliteit en heldere uitleg; hoe dan, waarom dan en met wat? Alle specialisten bij jullie zijn in staat zijn om verschillende combinaties van de beste producten uit te zoeken voor klanten. Jullie staan al jaren mee te doen met Coolblue en andere grote jongens. Dat is krachtig en uniek voor zo’n relatief kleine organisatie. Door sterke providers krijgen klanten extra inhoud en kwaliteit.”
 
-Wij; 
+Wij;
 
 "Nou ehm.., zonder al teveel woorden vuil te maken aan de spreekwoordelijke wc-eend, zijn wij je dankbaar voor deze woorden. Het staat met gepaste trots op onze website, maar jij zegt het gelukkig. ;-)"
 

@@ -22,9 +22,11 @@ tags: []
 type: ''
 
 ---
-Ook Lydis is een [belangrijke partner](https://www.callvoip.nl/partners/lydis/) voor Callvoip. Want zij zorgen ervoor dat bijvoorbeeld bij veel van onze klanten een Yealink gaat rinkelen wanneer wij dat willen. Als essentiële leverancier van hardware voor diverse IP communicatie sluit Lydis naadloos aan bij ons. 
+![](https://res.cloudinary.com/callvoip/image/upload/v1608543726/lydismainimage_wkrzsn.png)
 
-We gingen met hen in gesprek over onze samenwerking, maar ook over de invloed van de COVID pandemie van 2020 op de business. Aan het woord namens Lydis Rosalie Heide. Zij is verantwoordelijk voor de marketing en kan zo een mooie helikopterview geven. 
+Ook Lydis is een [belangrijke partner](https://www.callvoip.nl/partners/lydis/) voor Callvoip. Want zij zorgen ervoor dat bijvoorbeeld bij veel van onze klanten een Yealink gaat rinkelen wanneer wij dat willen. Als essentiële leverancier van hardware voor diverse IP communicatie sluit Lydis naadloos aan bij ons.
+
+We gingen met hen in gesprek over onze samenwerking, maar ook over de invloed van de COVID pandemie van 2020 op de business. Aan het woord namens Lydis Rosalie Heide. Zij is verantwoordelijk voor de marketing en kan zo een mooie helikopterview geven.
 
 #### Even voorstellen
 
@@ -62,7 +64,7 @@ Het behoeft weinig toelichting dat 2020 een jaar is om nooit te vergeten. COVID 
 
 #### Vooruitblik: wat brengt de toekomst?
 
-Een jaar als 2020 brengt ontegenzeggelijk een andere toekomst dan we 1 jaar geleden dachten. Wat ziet Lydis daar allemaal gebeuren? Rosalie: 
+Een jaar als 2020 brengt ontegenzeggelijk een andere toekomst dan we 1 jaar geleden dachten. Wat ziet Lydis daar allemaal gebeuren? Rosalie:
 
 > "Wij denken dat afgelopen haar innovatie versneld heeft, er zal steeds meer vraag komen naar zogenaamde hybride werkoplossingen. Wij zien de komende periode dan ook zeer positief tegemoet, waarbij wij ervan uitgaan, dat de markt steeds meer zal gaan kantelen naar videoconferentie en hybride werken. Hier bouwen we dan ook samen met onze leveranciers een uitgebreid portfolio voor, zodat we onze partners zo goed mogelijk kunnen bedienen en hen de producten leveren waarom de klant vraagt.
 >

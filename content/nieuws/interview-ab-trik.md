@@ -22,6 +22,8 @@ tags: []
 type: ''
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1608543726/kwebblmainimage_zys4na.png)
+
 Met Ab Trik als CEO aan het roer heeft Kwebbl een absolute alleskunner aan boord op het gebied van de wereld van telecom en media. In die laatste was hij 22 jaar werkzaam als topman van Sky Radio/Radio Veronica/Classic FM en als oprichter van Radio 538. Niet de minste dus als het gaat om strategisch denken in innovatie en oplossingen voor de klant. Sinds 2013 is Ab aangetreden als CEO- en mede-investeerder van onze partner Kwebbl en geeft hij met hart en ziel leiding aan dit telecombedrijf. Het voornaamste doel van Kwebbl binnen de zakelijke telecommarkt is, om als slim ‘cloud communicatie platform’ de razendsnelle ontwikkeling van internettechnologie, online (thuis)werken en VoIP naadloos met elkaar te integreren. Dit doen zij door middel van; partnerschappen, innovatie en onafhankelijkheid na te streven. Waar ligt nou die telkens die behoefte van de klant en hoe spelen we daar perfect op in? Een prachtige klus waar wij visionair Ab Trik graag een paar vragen over stelden met betrekking tot [ons partnerschap](https://www.callvoip.nl/partners/kwebbl/).
 
 #### Even voorstellen
@@ -65,5 +67,5 @@ Een belangrijke les van 2020 is misschien wel dat je nooit precies weet wat de t
 Als laatst vragen we Ab of hij nog een eindejaarswens in het licht van onze partnerschap, en die heeft hij!
 
 > "Wij kijken uit naar een voortzetting van onze goede samenwerking met Callvoip in 2021 en dat we er voor zorgen dat we in goede gezondheid veel klanten blijven voorzien van een stabiele, gebruiksvriendelijke en multifunctionele communicatie-oplossing."
-<br>
-<a target="_blank" href="https://kwebbl.com/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608541160/Kwebbl_cjckfn.png" height="125" width="264"></a>
+> <br>
+> <a target="_blank" href="https://kwebbl.com/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608541160/Kwebbl_cjckfn.png" height="125" width="264"></a>
