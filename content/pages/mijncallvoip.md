@@ -110,6 +110,8 @@ usps:
       link: "/opzeggen/voipcti/"
     - title: Conference Service
       link: "/opzeggen/conference/"
+    - title: CRM Lookup
+      link: "/opzeggen/crmlookup/"
   - title: Overig
     items:
     - title: Belbundel
