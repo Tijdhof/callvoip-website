@@ -23,7 +23,7 @@ team:
   function: Business Operations
   image: "/v1566806438/marieke_jqs8iq.png"
   name: Marieke Timmer
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/marieketimmergroningen/'
 - content: Heeft de nauwkeurigheid van een precisie-instrument. Is dit misschien ook
     wel, hoewel we betwijfelen of die wel anekdotes kunnen vertellen. Deelt graag
     de koffie uit. Passie voor techniek.
