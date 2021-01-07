@@ -1,6 +1,6 @@
 ---
 title: Handleiding Click-to-Dial
-weight: 
+weight: 1
 description: ''
 images: []
 pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Click-to-Dial.pdf
