@@ -1,6 +1,6 @@
 ---
 title: Handleiding VoIP CTI (CRM-integratie)
-weight: 
+weight: 6
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_bij_VoIP-CTI_CRM-koppelingen.pdf
