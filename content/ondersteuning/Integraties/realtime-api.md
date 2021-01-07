@@ -1,6 +1,6 @@
 ---
 title: Handleiding Realtime API
-weight: 
+weight: 5
 description: ''
 images: []
 pdf: ''
