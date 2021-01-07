@@ -18,7 +18,8 @@ Gaat het nog niet goed:
   check of alles goed werkt. 
 
 Werkt het niet goed?   
-Neem dan contact op met ons, we assisteren je graag even!  
+Neem dan contact op met ons, we assisteren je graag even!
+
 ======================
 
 LET OP: voortaan log je in via het UC Panel, klik op telefooncentrale om naar de beheeromgeving te gaan.  
