@@ -3,7 +3,7 @@ title: 'Wij presenteren met gepaste trots: CALLVOIP WEBCALLS'
 description: ''
 images:
 - "/v1604925866/webcalls_mailing_f6ne3u.png"
-featured: true
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
