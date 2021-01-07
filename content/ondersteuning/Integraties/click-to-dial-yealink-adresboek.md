@@ -1,6 +1,6 @@
 ---
 title: Handleiding Click-to-Dial Yealink
-weight: 
+weight: 2
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf
