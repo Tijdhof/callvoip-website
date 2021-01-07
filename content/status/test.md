@@ -3,39 +3,22 @@ title: Meldingen
 error: false
 
 ---
-Storingsmelding 17 december 2020:<br>
+6 januari 2021: update VoIP CTI:<br>
 
-Update 13:00 uur:   
-De storing is opgelost en alle diensten zijn hersteld.   
-Ervaart u nog een probleem met uw toestel?   
-Doe het toestel dan 30 sec uit, en weer aan, en check.  
-Ervaart u andere problemen? Als een herstart geen oplossing biedt, laat ons dan weten wat er loos is (chat, email of telefoon), zodat we u helpen om zo spoedig mogelijk weer in de lucht te zijn.   
-  
-=====
+Er is een update beschikbaar voor de VoIP CTI koppeling: <br>
 
-Update 12:45 uur:  
-Het netwerk is terug, de services en het beheersysteem worden nu zo spoedig mogelijk hersteld.
+* bij het starten van de computer krijgt je de update-melding  
+  doorloop de updates en check of alles blijft werken. 
 
-=====
+Gaat het nog niet goed: 
 
-Update 12.30 uur:  
-De storing is nog altijd gaande.  
-Een deel van het telefoonverkeer wordt niet goed afgehandeld.  
-Er kunnen ups en downs in de performance zitten.  
-Er wordt hard gewerkt aan een oplossing.
+* open de VoIP CTI Client (blauw) en klik op UPDATE
+* open de VoIP CTI Recognition and Configuration tool (groen) en klik op UPDATE
 
-=====
+  check of alles goed werkt. 
 
-Op dit moment kunt u problemen ervaren met de telefonie.  
-\* wisselende registratie van uw vaste toestelaccounts  
-\* Webcalls en Qaller werken wisselend  
-\* beheerpanel laadt niet
-
-Het team is op de hoogte; de oorzaak wordt gezocht en we hopen het probleem zo snel mogelijk op te lossen.
-
-Onze welgemeende excuses voor het ongemak.  
-<br>
-
+Werkt het niet goed?   
+Neem dan contact op met ons, we assisteren je graag even!  
 ======================
 
 LET OP: voortaan log je in via het UC Panel, klik op telefooncentrale om naar de beheeromgeving te gaan.  
