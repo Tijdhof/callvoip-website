@@ -50,3 +50,8 @@ HUGO_ENABLEGITINFO = "true"
   to = "/cast/"
   status = 301
   force = true
+[[redirects]]
+  from = "/ondersteuning/integraties/voipcti-koppeling-herstellen/"
+  to = "http://files.callvoip.nl/downloads/Callvoip_handleiding_VoIP_CTI_login.pdf"
+  status = 301
+  force = true
