@@ -1,3 +1,4 @@
+---
 title: VoIP CTI koppeling herstellen
 weight: 7
 description: ''
@@ -8,4 +9,5 @@ Nieuw: false
 Update: false
 hideingoogle: false
 hidesocialshare: false
+
 ---
