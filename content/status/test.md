@@ -7,18 +7,17 @@ error: false
 
 Er is een update beschikbaar voor de VoIP CTI koppeling: <br>
 
-* bij het starten van de computer krijgt je de update-melding  
-  doorloop de updates en check of alles blijft werken. 
+* bij het starten van de computer krijgt je de update-melding  <br>
+doorloop de updates en check of alles blijft werken. <br>
 
-Gaat het nog niet goed: 
+Gaat het nog niet goed: <br>
+* open de VoIP CTI Client (blauw) en klik op UPDATE<br>
+* open de VoIP CTI Recognition and Configuration tool (groen) en klik op UPDATE<br>
+  check of alles goed werkt. <br>
 
-* open de VoIP CTI Client (blauw) en klik op UPDATE
-* open de VoIP CTI Recognition and Configuration tool (groen) en klik op UPDATE
-
-  check of alles goed werkt. 
-
-Werkt het niet goed?   
-Neem dan contact op met ons, we assisteren je graag even!
+Werkt het niet goed?   <br>
+Neem dan contact op met ons, we assisteren je graag even!<br>
+<br>
 
 ======================
 
