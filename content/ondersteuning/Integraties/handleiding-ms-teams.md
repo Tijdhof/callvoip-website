@@ -1,5 +1,5 @@
 ---
-weight: 0
+weight: 4
 title: Handleiding MS Teams
 description: ''
 images: []
