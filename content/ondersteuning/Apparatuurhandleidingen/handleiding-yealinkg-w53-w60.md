@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 2
 title:  Yealink W53 / W60 DECT handleiding
 description: ''
 images: []
