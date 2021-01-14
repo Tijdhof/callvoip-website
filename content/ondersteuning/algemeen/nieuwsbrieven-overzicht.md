@@ -13,22 +13,22 @@ aliases: "/nieuwsbrieven"
 
 ---
 <h3>2020</h3>
-* <a href="https://www.callvoip.nl/tijdlijn/" target="_blank">Tijdlijn 21-12-20 | Callvoip tijdlijn: terugblik en preview</a>
-* <a href="https://sh1.sendinblue.com/vmfec8qutt7e.html?t=1608561995" target="_blank">Nieuwsbrief 21-12-20 | Eindejaars mailing: Callvoip blijft verbonden</a>
-* <a href="https://sh1.sendinblue.com/vdnck8qutt7e.html?t=1605624086" target="_blank">Nieuwsbrief 17-11-20 | NIEUW: WEBCALLS</a>
-* <a href="https://sh1.sendinblue.com/vfek48qutt7e.html?t=1605249198" target="_blank">Nieuwsbrief 13-11-20 | November update!</a>
-* <a href="https://sh1.sendinblue.com/vau7o8qutt7e.html?t=1601536801" target="_blank">Nieuwsbrief 30-09-20 | (Weer) thuis aan het werk?</a>
-* <a href="https://www.callvoip.nl/blog-veiligheid/" target="_blank">Blog 31-08-20 | Better safe than sorry: hoe wij jou helpen veilig te telefoneren.</a>
-* <a href="https://sh1.sendinblue.com/v9sac8qutt7e.html?t=1597249697" target="_blank">Nieuwsbrief 11-08-20 | Qaller update, zo log je snel in met de koppelcode</a>
-* <a href="https://www.callvoip.nl/yealinkmeeting-blog/" target="_blank">Blog 08-07-20 | Videobellen: goede voorbereiding scheelt</a>
-* <a href="https://sh1.sendinblue.com/aek582wy9xpne.html?t=1593616830" target="_blank">Nieuwsbrief 01-07-20 | Yealink Meeting videobellen en CRM Lookup </a>
-* <a href="https://www.callvoip.nl/nieuws/voip-oplossing-voor-startende-ondernemers-7-tips/" target="_blank">Blog 06-05-20 | VoIP-oplossing voor startende ondernemers: 7 tips</a>
-* <a href="https://sh1.sendinblue.com/v69v88qutt7e.html?t=1593623949" target="_blank">Nieuwsbrief 29-04-20 | Qaller Smartphone update</a>
-* <a href="http://sh1.sendinblue.com/v3gqc8qutt7e.html?t=1584628085" target="_blank">Nieuwsbrief 18-03-20 | Thuiswerken? Hier onze tips. </a>
-* <a href="https://www.callvoip.nl/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/" target="_blank">Blog 11-03-20 | Top 10 ‘thuiswerk-tools’ voor zorgeloos thuiswerken</a>
-* <a href="http://sh1.sendinblue.com/2met08qutt7e.html?t=1582268275" target="_blank">Nieuwsbrief 20-02-20 | Carnaval! Zelf meldteksten instellen? </a>
+* <a href="https://www.callvoip.nl/tijdlijn/" target="_blank">Tijdlijn 21-12-20 | Callvoip tijdlijn: terugblik en preview</a><br>
+* <a href="https://sh1.sendinblue.com/vmfec8qutt7e.html?t=1608561995" target="_blank">Nieuwsbrief 21-12-20 | Eindejaars mailing: Callvoip blijft verbonden</a><br>
+* <a href="https://sh1.sendinblue.com/vdnck8qutt7e.html?t=1605624086" target="_blank">Nieuwsbrief 17-11-20 | NIEUW: WEBCALLS</a><br>
+* <a href="https://sh1.sendinblue.com/vfek48qutt7e.html?t=1605249198" target="_blank">Nieuwsbrief 13-11-20 | November update!</a><br>
+* <a href="https://sh1.sendinblue.com/vau7o8qutt7e.html?t=1601536801" target="_blank">Nieuwsbrief 30-09-20 | (Weer) thuis aan het werk?</a><br>
+* <a href="https://www.callvoip.nl/blog-veiligheid/" target="_blank">Blog 31-08-20 | Better safe than sorry: hoe wij jou helpen veilig te telefoneren.</a><br>
+* <a href="https://sh1.sendinblue.com/v9sac8qutt7e.html?t=1597249697" target="_blank">Nieuwsbrief 11-08-20 | Qaller update, zo log je snel in met de koppelcode</a><br>
+* <a href="https://www.callvoip.nl/yealinkmeeting-blog/" target="_blank">Blog 08-07-20 | Videobellen: goede voorbereiding scheelt</a><br>
+* <a href="https://sh1.sendinblue.com/aek582wy9xpne.html?t=1593616830" target="_blank">Nieuwsbrief 01-07-20 | Yealink Meeting videobellen en CRM Lookup </a><br>
+* <a href="https://www.callvoip.nl/nieuws/voip-oplossing-voor-startende-ondernemers-7-tips/" target="_blank">Blog 06-05-20 | VoIP-oplossing voor startende ondernemers: 7 tips</a><br>
+* <a href="https://sh1.sendinblue.com/v69v88qutt7e.html?t=1593623949" target="_blank">Nieuwsbrief 29-04-20 | Qaller Smartphone update</a><br>
+* <a href="http://sh1.sendinblue.com/v3gqc8qutt7e.html?t=1584628085" target="_blank">Nieuwsbrief 18-03-20 | Thuiswerken? Hier onze tips. </a><br>
+* <a href="https://www.callvoip.nl/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/" target="_blank">Blog 11-03-20 | Top 10 ‘thuiswerk-tools’ voor zorgeloos thuiswerken</a><br>
+* <a href="http://sh1.sendinblue.com/2met08qutt7e.html?t=1582268275" target="_blank">Nieuwsbrief 20-02-20 | Carnaval! Zelf meldteksten instellen? </a><br>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/1.html" target="_blank">Nieuwsbrief 30-01-20 | Wachtrij positiemelding, trunk failover, Web Calls en meer updates!</a>
-* <a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" target="_blank">Callvoip Feature Update – januari 2020</a>
+* <a href="https://files.callvoip.nl/downloads/Callvoip_Feature-Update-jan-2020.pdf" target="_blank">Callvoip Feature Update – januari 2020</a><br>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/2.html" target="_blank">Nieuwsbrief 15-01-20 | Whatsapp Zakelijk, Qaller en Android 10, updates!</a>
 
 <h3>2019</h3>
