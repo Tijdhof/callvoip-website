@@ -42,7 +42,7 @@ textblocksfooter:
     Video"></iframe></div>'
 prijzen:
 - title: Webcalls
-  content: Browser based bellen, tijdelijk gratis!
+  content: Browser based bellen.
   button:
     title: Meer informatie
     link: https://files.callvoip.nl/downloads/Callvoip_handleiding_Web-Calls-Browser-Based-Bellen.pdf
@@ -51,9 +51,9 @@ prijzen:
     footer: Prijzen zijn excl. BTW
     items:
     - title: Eenmalig
-      price: 0,-
+      price: 5,-
     - title: Maandelijks
-      price: 0,-
+      price: 4,-
 images: []
 hideinsearch: false
 hideingoogle: false
