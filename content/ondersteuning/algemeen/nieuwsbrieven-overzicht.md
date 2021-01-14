@@ -13,6 +13,7 @@ aliases: "/nieuwsbrieven"
 
 ---
 <h3>2020</h3>
+
 * <a href="https://www.callvoip.nl/tijdlijn/" target="_blank">Tijdlijn 2020 | Callvoip tijdlijn: terugblik en preview</a><br>
 * <a href="https://sh1.sendinblue.com/vmfec8qutt7e.html?t=1608561995" target="_blank">Nieuwsbrief 21-12-20 | Eindejaars mailing: Callvoip blijft verbonden</a><br>
 * <a href="https://sh1.sendinblue.com/vdnck8qutt7e.html?t=1605624086" target="_blank">Nieuwsbrief 17-11-20 | NIEUW: WEBCALLS</a><br>
