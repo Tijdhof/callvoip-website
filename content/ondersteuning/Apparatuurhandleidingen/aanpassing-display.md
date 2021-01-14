@@ -1,12 +1,12 @@
 ---
-weight: 2
+weight: 3
 title: Aanpassen Yealink Missed Calls popup
 description: Aanpassen Yealink Missed Calls popup
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-Nieuw: true
+Nieuw: false
 Update: false
 pdf: http://timvaek453.453.axc.nl/Callvoip_handleiding_Yealink-missed-calls-popup_121120MT.pdf
 
