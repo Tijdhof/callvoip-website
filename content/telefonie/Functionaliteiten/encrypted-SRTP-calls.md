@@ -30,7 +30,7 @@ textblocksfooter:
   content2: 'Leer hoe je gemakkelijk meldteksten inspreekt en hoe je deze zelf op de online telefooncentrale kunt plaatsen.<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/MX5HN2AzgU8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>'
   title1: 'Waarom een meldtekst?'
-  content1: 'Met meldteksten maak je al veel duidelijk aan de beller voordat je de beller aan de lijn heb
+  content1: 'Met meldteksten maak je al veel duidelijk aan de beller voordat je de beller aan de lijn heb'
 prijzen: []
 hideinsearch: false
 hideingoogle: false
