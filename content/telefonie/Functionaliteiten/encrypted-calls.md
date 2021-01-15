@@ -24,24 +24,11 @@ blocks:
 intro_top:
   title: 'Callvoip biedt twee lagen van beveiliging'
   content: ''
-introtop:
-  title: 'Callvoip biedt twee lagen van beveiliging'
-  content: ''
 textblocksfooter:
-- title1: Hoe werkt het?
-  content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
-    getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
-    in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
-    app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de
-    telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je
-    zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten,
-    geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/"
-    target="_blank" class="button">Handleiding</a> '
-  title2: ''
-  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
-    hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
-    absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
-    title="YouTube Video"></iframe></div>'
+- title1: SRTP
+  content2: 'TLS staat voor Transport Layer Security: dit is te vergelijken met een HTTPS-verbinding (het slotje ten teken van beveiligd internetverkeer) en dan specifiek voor VoIP. Dankzij de TLS-beveiliging gaan alle gegevens van uw telefoon beveiligd naar onze telefooncentrale: een veilig idee.<br>Alle internetverkeer van Callvoip verloopt via TLS – dit is standaard inbegrepen. TLS als standaard voor VoIP-verkeer is uniek in Nederland en dat maakt Callvoip een van de veiligste providers.<br><b>TLS is standaard inbegrepen en gratis voor alle klanten.</b>'
+  title2: 'TLS'
+  content1: 'SRTP staat voor Secure Real-time Transport Protocol, ofwel de beveiliging van uw werkelijke telefoongesprekken. Deze zijn beveiligd tegen meeluisteren. De spraak van uw telefoongesprekken tussen onze telefooncentrale en uw telefoon zijn dan beveiligd.<br><br><b>SRTP is een extra functie die u kunt aanvragen. Hiervoor geldt een meerprijs.</b><br>Door het aanzetten van SRTP beveiligd spraakverkeer, worden alle telefoongesprekken van al uw telefoontoestellen versleuteld. Er geldt een meerprijs van € 2,00 excl. BTW per telefoon per maand. Deze meerprijs wordt berekend voor alle toestellen in uw klantomgeving.'
 prijzen: []
 hideinsearch: false
 hideingoogle: false
