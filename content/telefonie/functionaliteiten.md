@@ -246,7 +246,7 @@ usps:
     title: MS Teams
     link: "/msteams"
     content: 'Integratie van MS Teams met je Callvoip-systeem.'
-    icon: '
+    icon: ''
 hideingoogle: false
 hidesocialshare: false
 slug: ''
