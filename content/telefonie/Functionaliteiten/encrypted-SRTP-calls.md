@@ -22,27 +22,36 @@ blocks:
   content: Het kabinet is bezig met een wetsvoorstel dat de AIVD en MIVD meer bevoegdheden geeft voor het aftappen van gesprekken. Justitie en veiligheidsdiensten mogen in de huidige wetgeving al internetverkeer aftappen, maar slechts één tap tegelijk te plaatsen. Met dit nieuwe wetsvoorstel mogen justitie en de veiligheidsdiensten in bulk gesprekken aftappen. Dankzij SRTP is het niet meer mogelijk dat gesprekken in bulk worden afgetapt.
   position: image_left
   image_position: end
-double_footer:
+double_content:
   left:
-    title: Wat kost dat?
-    content: "Het klinkt allemaal prachtig, Callvoip als telefonieprovider. Maar kost
-      al die persoonlijke service met dat prachtige product dan ook de hoofdprijs?
-      \n\nDat valt gelukkig mee. Je kunt al klant worden bij Callvoip met 1 nummer
-      en 1 toestel of app vanaf € 13,50 per maand. Dan heb je al een groot deel van
-      onze functionaliteiten. Kijk voor meer informatie over onze standaarden op de
-      verschillende pagina’s over <a href=\"/telefonie/vastmobiel/\">Vast-Mobiel</a>,
-      <a href=\"/telefonie/integratie/\">Integraties met CRM</a>, <a href=\"/telefonie/beveiliging/\">veiligheid</a>
-      en meer. \n\nOnze kostenstructuur is verder transparant en flexibel. Een toestel
-      of app erbij? Één druk op de knop en het is geregeld. Kosten: € 4,- per maand
-      per toestel. Extra nummer? Geen probleem: € 2,- per maand. Zo bouw je jouw eigen
-      pakket. Bereken zelf jouw kosten met <a href=\"/calculator/\">onze calculator
-      via deze link</a>. Of bel ons, dan bekijken we samen hoe jouw pakket eruit kan
-      komen te zien.\n"
+    title: Waarom zou je dat doen?
+    content: |-
+      Als iemand belt, rinkelt je telefoon en die van je collega’s. Je betaalt niet al te veel. Misschien heb je zelfs wel een keuzemenu en andere extra functionaliteiten. Als er iets niet werkt, bel je de helpdesk, geef je je klantnummer door en wordt je verzoek zo efficiënt mogelijk weggewerkt. Kortom: de telefonie zit je niet in de weg.
+
+      Wij vinden dat jouw telefonie veel meer moet doen dan niet in de weg zitten. Een uitgekiend belplan, slimme integraties en alles wat erbij hoort, dragen bij aan de efficiëntie van jouw dagelijkse werk. Zo werkt jouw telefonie vóór jou. En mocht er onverhoopt iets anders moeten, dan staat ons persoonlijke team voor je klaar.
   right:
     background: true
-    background_color: "#ebf2f7"
-    title: Kostenoverzicht
-    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/voorbeeld_pl0ubu.png">
+    background_color: "#efefef"
+    title: <div id="overstap">JA! Vertel me meer over overstappen</div>
+    content: <div><form class="mb-6" name="tourformulier" action="/bedank/overstappen/" accept-charset="UTF-8"
+      method="POST" data-netlify="true"><input type="hidden" name="form-name" value="tourformulier"
+      /><p class="hidden"> <label>Don’t fill this out if human <input name="bot-field">
+      </label> </p><p> <input type="hidden" id="formlayout" name="formlayout" value="d-23f3cd981aa749f793cc16353039c3e3"
+      class="hidden"> </p><p> <input type="hidden" id="formto" name="formto" value="offerte"
+      class="hidden"> </p><div class="layout-split"><div class="mb-4"> <label for="bedrijfsnaam"
+      class="block">Naam</label> <input type="text" id="naam" name="naam" class="w-full
+      border border-grey-light bg-white px-3 py-2 text-base"></div><div class="mb-4">
+      <label for="email" class="block">Email <span class="text-red">*</span></label>
+      <input type="email" id="email" name="email" class="w-full border border-grey-light
+      bg-white px-3 py-2 text-base" required=""> </div></div><div class="layout-split"><div
+      class="mb-4"> <label for="Organisatie" class="block">Organisatie</label> <input
+      type="text" id="Organisatie" name="Organisatie" class="w-full border border-grey-light
+      bg-white px-3 py-2 text-base"> </div><div class="mb-4"> <label for="Telefoonnummer"
+      class="block">Telefoonnummer</label> <input type="text" id="Telefoonnummer"
+      name="Telefoonnummer" class="w-full border border-grey-light bg-white px-3 py-2
+      text-base"> </div></div><center><br><p> <button type="submit" class="button">Verzenden</button><br></p><p
+      class="mb-6 md:mb-0 text-sm">Je gaat akkoord met het eenmalig contact opnemen
+      ten behoeve van een passend aanbod.</center></p></form></div></div>
 intro:
   title: 'Callvoip biedt twee lagen van beveiliging'
   content: ''
