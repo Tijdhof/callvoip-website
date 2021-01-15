@@ -22,18 +22,20 @@ blocks:
   content: Het kabinet is bezig met een wetsvoorstel dat de AIVD en MIVD meer bevoegdheden geeft voor het aftappen van gesprekken. Justitie en veiligheidsdiensten mogen in de huidige wetgeving al internetverkeer aftappen, maar slechts één tap tegelijk te plaatsen. Met dit nieuwe wetsvoorstel mogen justitie en de veiligheidsdiensten in bulk gesprekken aftappen. Dankzij SRTP is het niet meer mogelijk dat gesprekken in bulk worden afgetapt.
   position: image_left
   image_position: end
-textblocks:
-- title1: Callvoip biedt twee lagen van beveiliging
-  content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
+double_footer:
+  left:
+    title: Callvoip biedt twee lagen van beveiliging
+    content: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
     getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
     in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
     app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de
     telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je
     zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten,
     geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/"
-    target="_blank" class="button">Handleiding</a> '
-  title2: ''
-  content2: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
+    target="_blank" class="button">Handleiding</a>'
+ right:
+    title: test
+    content: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
     hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
