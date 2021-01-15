@@ -225,6 +225,16 @@ usps:
     link: "/telefonie/functionaliteiten/versleutelde-telefoongesprekken/"
     content: 'Extra beveiliging tegen meeluisteren.'
     icon: ''
+  - image: "/v1566559951/yealink-meeting_i8salg.png"
+    title: Yealink Meeting Enterprise
+    link: "/yealinkmeeting"
+    content: 'Professionele Yealink conference oplossingen.'
+    icon: ''
+  - image: "/v1566559951/teams-icon_tutsm9.png"
+    title: MS Teams
+    link: "/msteams"
+    content: 'Integratie van MS Teams met je Callvoip-systeem.'
+    icon: ''
   - image: "/v1566559951/vamos_logov2_fbelhc.png"
     title: Vamos
     link: "/telefonie/functionaliteiten/vamos"
@@ -237,16 +247,6 @@ usps:
     content: Jouw smartphone als zaaktoestel! Bel uit met het zaaknummer.
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/yealink-meeting_i8salg.png"
-    title: Yealink Meeting Enterprise
-    link: "/yealinkmeeting"
-    content: 'Professionele Yealink conference oplossingen.'
-    icon: ''
-  - image: "/v1566559951/teams-icon_tutsm9.png"
-    title: MS Teams
-    link: "/msteams"
-    content: 'Integratie van MS Teams met je Callvoip-systeem.'
-    icon: ''
 hideingoogle: false
 hidesocialshare: false
 slug: ''
