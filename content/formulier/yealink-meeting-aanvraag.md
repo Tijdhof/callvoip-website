@@ -1,7 +1,8 @@
 ---
 title: Aanvraag Yealink Meeting videobellen
-url: "/aanvragen/yealink-meeting-2/"
+url: "/aanvragen/yealink-meeting-abonnement/"
 aliases: /yealink-meeting-licentie
+ "/aanvragen/yealink-meeting-2/"
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht. Wij nemen contact op om je te assisteren bij de ingebruikname van Yealink Meeting. 
