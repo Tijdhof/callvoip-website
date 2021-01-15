@@ -5,15 +5,21 @@ error: false
 ---
 15 januari 2021: storingsmelding<br>
 
-11\.45: Alle diensten zijn weer operationeel, behalve de Qaller app. 
+14\.00: bij een aantal klanten werkt de wachtrij niet goed. Hier wordt naar gekeken, u kunt een doorschakeling of GROEP voor de wachtrij zetten om de bereikbaarheid te behouden.   
+Geeft uw Gigaset telefoon nog problemen? Haal dan min. 30 seconden de stroom van het BASISSTATION af (een zwart of wit vierkant kastje, vaak in de meterkast) en sluit weer aan, in veel gevallen zal de Gigaset dan weer goed werken.   
+\----    
 
-11\.30: De beheerpanels zijn weer beschikbaar, dat betekent dat er ook weer instellingen kunnen worden aangepast. Webcalls is ook weer in de lucht.   
-Aan herstel van de Qaller app wordt hard gewerkt.  
+12:00 de Qaller app werkt ook weer, alles zou nu weer goed moeten werken. 
 
-11\.00: Toestellen registreren weer en kunnen weer bellen en gebeld worden. Als je toestel niet werkt, haal hem 30 sec of langer van de stroom af en sluit hem weer aan om te kijken of hij dan wel registreert.   
+11\.45: Alle diensten zijn weer operationeel, behalve de Qaller app.
+
+11\.30: De beheerpanels zijn weer beschikbaar, dat betekent dat er ook weer instellingen kunnen worden aangepast. Webcalls is ook weer in de lucht.  
+Aan herstel van de Qaller app wordt hard gewerkt.
+
+11\.00: Toestellen registreren weer en kunnen weer bellen en gebeld worden. Als je toestel niet werkt, haal hem 30 sec of langer van de stroom af en sluit hem weer aan om te kijken of hij dan wel registreert.  
 NB: bij inkomend en uitgaand belverkeer kan er enige vertraging optreden.  
 Er wordt gewerkt aan herstel van Webcalls, de Qaller app en toegang tot de beheerpagina's.  
-Helaas is het daardoor niet mogelijk om doorschakelingen naar bv mobiel in te stellen (ook niet voor ons). 
+Helaas is het daardoor niet mogelijk om doorschakelingen naar bv mobiel in te stellen (ook niet voor ons).
 
 10\.45: een deel van de services lijkt weer te werken: bellen en gebeld worden komt weer op gang met nog enige performance issues. De panels zijn nog niet beschikbaar.
 
