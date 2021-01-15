@@ -23,7 +23,7 @@ blocks:
   position: image_left
   image_position: end
 textblocksfooter:
-- title1: Hoe werkt het?
+- title1: Callvoip biedt twee lagen van beveiliging
   content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
     getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
     in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
@@ -37,39 +37,12 @@ textblocksfooter:
     hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
-usps:
-  title: Voordelen Click-to-Dial
-  content: ''
-  items:
-  - icon: fa-laptop
-    title: Pop-up notificatie
-    content: Krijg een melding met naam & telefoonnummer bij inkomende gesprekken.
-  - icon: fa-comment-alt-smile
-    title: Eenvoudige installatie
-    content: Gemakkelijk geïnstalleerd met onze handleiding.
-  - icon: fa-gift
-    title: Wat kost Click-to-Dial?
-    content: " Helemaal niets! Het is gratis voor klanten van Callvoip."
-  - icon: fa-users
-    title: Telefoonboek
-    content: U houdt eenvoudig een privé en bedrijfstelefoonboek bij.
-  - icon: fa-rocket
-    title: BLF
-    content: 'Zie snel & eenvoudig of uw collega in gesprek of beschikbaar is. '
-  - icon: fa-arrows-h
-    title: Verbind gesprekken door
-    content: U kunt nu inkomende oproepen doorverbinden naar uw collega's.
 intro:
-  title: ''
+  title: 'Callvoip biedt twee lagen van beveiliging'
   content: ''
 prijzen: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-double_content:
-  left:
-    undefined: ''
-  right:
-    undefined: ''
 
 ---
