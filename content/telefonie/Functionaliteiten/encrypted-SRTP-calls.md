@@ -37,7 +37,7 @@ textblocksfooter:
     hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
     absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
     title="YouTube Video"></iframe></div>'
-intro:
+intro_top:
   title: 'Callvoip biedt twee lagen van beveiliging'
   content: ''
 prijzen: []
