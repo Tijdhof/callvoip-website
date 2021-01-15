@@ -220,12 +220,11 @@ usps:
     content: De zoekactie in jouw CRM volledig automatiseren!
     icon: ''
     iconimage: ''
-  - image: "/v1566559951/teams-icon_tutsm9.png"
-    title: MS Teams
-    link: "/msteams"
-    content: 'Integratie van MS Teams met je Callvoip-systeem.'
+  - image: "/v1566559951/SRTP_etulom.png"
+    title: SRTP beveiliging
+    link: "/telefonie/functionaliteiten/versleutelde-telefoongesprekken/"
+    content: 'Extra beveiliging tegen meeluisteren.'
     icon: ''
-    iconimage: ''
   - image: "/v1566559951/vamos_logov2_fbelhc.png"
     title: Vamos
     link: "/telefonie/functionaliteiten/vamos"
@@ -243,7 +242,11 @@ usps:
     link: "/yealinkmeeting"
     content: 'Professionele Yealink conference oplossingen.'
     icon: ''
-    iconimage: ''
+  - image: "/v1566559951/teams-icon_tutsm9.png"
+    title: MS Teams
+    link: "/msteams"
+    content: 'Integratie van MS Teams met je Callvoip-systeem.'
+    icon: '
 hideingoogle: false
 hidesocialshare: false
 slug: ''
