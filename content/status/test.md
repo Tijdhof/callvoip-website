@@ -3,9 +3,11 @@ title: Meldingen
 error: false
 
 ---
-15 januari 2021 - 10.30 uur: storingsmelding<br>
+15 januari 2021 : storingsmelding<br>
 
-Op dit moment is er een storing met de telefoondienst.   
+10\.40: de oorzaak is gevonden en er zijn acties in gang gezet om het probleem zo snel mogelijk op te lossen. Meer informatie volgt. 
+
+10\.30 uur: Op dit moment is er een storing met de telefoondienst.   
 Technici zijn op de hoogte en werken aan een spoedige oplossing.  
 Zodra er meer informatie bekend is delen we dat op deze pagina.   
 Onze welgemeende excuses voor het ongemak.   
