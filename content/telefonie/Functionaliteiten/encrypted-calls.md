@@ -24,6 +24,9 @@ blocks:
 intro_top:
   title: 'Callvoip biedt twee lagen van beveiliging'
   content: ''
+introtop:
+  title: 'Callvoip biedt twee lagen van beveiliging'
+  content: ''
 textblocksfooter:
 - title1: Hoe werkt het?
   content1: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
