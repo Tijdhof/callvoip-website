@@ -6,7 +6,7 @@ images:
 type: page
 layout: default
 logos: false
-url: "/telefonie/versleutelde-telefoongesprekken/"
+url: "/telefonie/functionaliteiten/versleutelde-telefoongesprekken/"
 aliases:
 - "/telefonie/versleutelde-telefoongesprekken/"
 - "/encrypted-calls/"
