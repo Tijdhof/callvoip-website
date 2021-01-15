@@ -7,13 +7,13 @@ hero:
   disable_image_on_mobile: false
 items:
 - title: Online telefooncentrale
-  status: false
+  status: true
 - title: Inkomende gesprekken
   status: true
 - title: Uitgaande gesprekken
   status: true
 - title: "(Extern) Doorschakelen"
-  status: false
+  status: true
 - title: Toestelregistraties
   status: true
 - title: BLF (statuslampjes)

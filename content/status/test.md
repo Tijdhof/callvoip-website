@@ -5,6 +5,8 @@ error: false
 ---
 15 januari 2021: storingsmelding<br>
 
+11\.45: Alle diensten zijn weer operationeel, behalve de Qaller app. 
+
 11\.30: De beheerpanels zijn weer beschikbaar, dat betekent dat er ook weer instellingen kunnen worden aangepast. Webcalls is ook weer in de lucht.   
 Aan herstel van de Qaller app wordt hard gewerkt.  
 
