@@ -24,21 +24,25 @@ blocks:
   image_position: end
 double_footer:
   left:
-    title: Callvoip biedt twee lagen van beveiliging
-    content: 'Alle telefoonnummers in de Chrome browser worden belbaar. Nummers worden
-    getoond met een groen hoorntje of je kunt ze rechts-klikken of kopiëren en plakken
-    in de Click to Dial app. Zodra je klikt, rechts klikt of het nummer plakt in de
-    app, zal je eigen IP-telefoon direct overgaan. Zodra je de hoorn opneemt zal de
-    telefoon starten met bellen naar het nummer waarop je klikte. Hierdoor hoef je
-    zelf geen telefoonnummers meer in te toetsen: geen fouten, geen bril opzetten,
-    geen tijdverlies: gewoon snel en Simmpl bellen!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/"
-    target="_blank" class="button">Handleiding</a>'
- right:
-    title: test
-    content: '<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow:
-    hidden;"> <iframe src="https://www.youtube.com/embed/F8_S8d0HK04" style="position:
-    absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
-    title="YouTube Video"></iframe></div>'
+    title: Wat kost dat?
+    content: "Het klinkt allemaal prachtig, Callvoip als telefonieprovider. Maar kost
+      al die persoonlijke service met dat prachtige product dan ook de hoofdprijs?
+      \n\nDat valt gelukkig mee. Je kunt al klant worden bij Callvoip met 1 nummer
+      en 1 toestel of app vanaf € 13,50 per maand. Dan heb je al een groot deel van
+      onze functionaliteiten. Kijk voor meer informatie over onze standaarden op de
+      verschillende pagina’s over <a href=\"/telefonie/vastmobiel/\">Vast-Mobiel</a>,
+      <a href=\"/telefonie/integratie/\">Integraties met CRM</a>, <a href=\"/telefonie/beveiliging/\">veiligheid</a>
+      en meer. \n\nOnze kostenstructuur is verder transparant en flexibel. Een toestel
+      of app erbij? Één druk op de knop en het is geregeld. Kosten: € 4,- per maand
+      per toestel. Extra nummer? Geen probleem: € 2,- per maand. Zo bouw je jouw eigen
+      pakket. Bereken zelf jouw kosten met <a href=\"/calculator/\">onze calculator
+      via deze link</a>. Of bel ons, dan bekijken we samen hoe jouw pakket eruit kan
+      komen te zien.\n"
+  right:
+    background: true
+    background_color: "#ebf2f7"
+    title: Kostenoverzicht
+    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/voorbeeld_pl0ubu.png">
 intro:
   title: 'Callvoip biedt twee lagen van beveiliging'
   content: ''
