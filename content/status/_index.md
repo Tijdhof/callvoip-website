@@ -9,21 +9,21 @@ items:
 - title: Online telefooncentrale
   status: false
 - title: Inkomende gesprekken
-  status: false
+  status: true
 - title: Uitgaande gesprekken
-  status: false
+  status: true
 - title: "(Extern) Doorschakelen"
   status: false
 - title: Toestelregistraties
-  status: false
+  status: true
 - title: BLF (statuslampjes)
-  status: false
+  status: true
 - title: Click-to-Dial
   status: true
 - title: Qaller Smartphone app
   status: false
 - title: Vamos Vast-Mobiel
-  status: false
+  status: true
 - title: Trunk
   status: true
 - title: Callvoip Internet

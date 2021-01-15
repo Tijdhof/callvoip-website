@@ -5,6 +5,8 @@ error: false
 ---
 15 januari 2021 : storingsmelding<br>
 
+10\.45: een deel van de services lijkt weer te werken: bellen en gebeld worden komt weer op gang met nog enige performance issues. De panels zijn nog niet beschikbaar. 
+
 10\.40: de oorzaak is gevonden en er zijn acties in gang gezet om het probleem zo snel mogelijk op te lossen. Meer informatie volgt. 
 
 10\.30 uur: Op dit moment is er een storing met de telefoondienst.   
