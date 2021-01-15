@@ -7,7 +7,7 @@ error: false
 
 11\.00: Toestellen registreren weer en kunnen weer bellen en gebeld worden. Als je toestel niet werkt, haal hem 30 sec of langer van de stroom af en sluit hem weer aan om te kijken of hij dan wel registreert.   
 NB: bij inkomend en uitgaand belverkeer kan er enige vertraging optreden.  
-Er wordt gewerkt aan herstel van de Qaller app en toegang tot de beheerpagina's.  
+Er wordt gewerkt aan herstel van Webcalls, de Qaller app en toegang tot de beheerpagina's.  
 Helaas is het daardoor niet mogelijk om doorschakelingen naar bv mobiel in te stellen (ook niet voor ons). 
 
 10\.45: een deel van de services lijkt weer te werken: bellen en gebeld worden komt weer op gang met nog enige performance issues. De panels zijn nog niet beschikbaar.
