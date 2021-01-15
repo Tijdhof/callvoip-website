@@ -5,7 +5,6 @@ images:
 - "/v1556712559/clicktodial_chrome_2-150x150.png"
 type: page
 layout: landing
-logos: false
 url: "/telefonie/functionaliteiten/versleutelde-telefoongesprekken/"
 aliases:
 - "/telefonie/versleutelde-telefoongesprekken/"
