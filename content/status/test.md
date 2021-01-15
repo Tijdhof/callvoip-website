@@ -3,7 +3,10 @@ title: Meldingen
 error: false
 
 ---
-15 januari 2021 : storingsmelding<br>
+15 januari 2021: storingsmelding<br>
+
+11\.30: De beheerpanels zijn weer beschikbaar, dat betekent dat er ook weer instellingen kunnen worden aangepast. Webcalls is ook weer in de lucht.   
+Aan herstel van de Qaller app wordt hard gewerkt.  
 
 11\.00: Toestellen registreren weer en kunnen weer bellen en gebeld worden. Als je toestel niet werkt, haal hem 30 sec of langer van de stroom af en sluit hem weer aan om te kijken of hij dan wel registreert.   
 NB: bij inkomend en uitgaand belverkeer kan er enige vertraging optreden.  
