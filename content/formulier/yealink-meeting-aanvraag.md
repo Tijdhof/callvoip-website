@@ -1,7 +1,8 @@
 ---
 title: Aanvraag Yealink Meeting videobellen
 url: "/aanvragen/yealink-meeting-abonnement/"
-aliases: /yealink-meeting-licentie
+aliases: 
+ "/yealink-meeting-licentie"
  "/aanvragen/yealink-meeting-2/"
 
 ---
