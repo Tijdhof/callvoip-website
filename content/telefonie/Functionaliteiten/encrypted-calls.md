@@ -4,7 +4,7 @@ description: Encrypted Calls (beveiligde gesprekken) bieden wij de mogelijkheid 
 images:
 - "/v1556712559/clicktodial_chrome_2-150x150.png"
 type: page
-layout: landing
+layout: default
 url: "/telefonie/functionaliteiten/versleutelde-telefoongesprekken/"
 aliases:
 - "/telefonie/versleutelde-telefoongesprekken/"
