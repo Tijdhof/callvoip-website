@@ -21,7 +21,7 @@ blocks:
   content: Het kabinet is bezig met een wetsvoorstel dat de AIVD en MIVD meer bevoegdheden geeft voor het aftappen van gesprekken. Justitie en veiligheidsdiensten mogen in de huidige wetgeving al internetverkeer aftappen, maar slechts één tap tegelijk te plaatsen. Met dit nieuwe wetsvoorstel mogen justitie en de veiligheidsdiensten in bulk gesprekken aftappen. Dankzij SRTP is het niet meer mogelijk dat gesprekken in bulk worden afgetapt.
   position: image_left
   image_position: end
-intro:
+intro_top:
   title: 'Callvoip biedt twee lagen van beveiliging'
   content: ''
 textblocksfooter:
