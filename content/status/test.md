@@ -3,7 +3,6 @@ title: Meldingen
 error: false
 
 ---
-Geen meldingen  
 De telefooncentrale werkt naar behoren. 
 
 ======================
