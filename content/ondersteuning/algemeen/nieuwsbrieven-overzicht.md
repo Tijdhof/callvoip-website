@@ -25,7 +25,7 @@ aliases: "/nieuwsbrieven"
 * <a href="https://sh1.sendinblue.com/aek582wy9xpne.html?t=1593616830" target="_blank">Nieuwsbrief 01-07-20 | Yealink Meeting videobellen en CRM Lookup </a>
 * <a href="https://www.callvoip.nl/nieuws/voip-oplossing-voor-startende-ondernemers-7-tips/" target="_blank">Blog 06-05-20 | VoIP-oplossing voor startende ondernemers: 7 tips</a>
 * <a href="https://sh1.sendinblue.com/v69v88qutt7e.html?t=1593623949" target="_blank">Nieuwsbrief 29-04-20 | Qaller Smartphone update</a>  
-  <a href="http://sh1.sendinblue.com/v3gqc8qutt7e.html?t=1584628085" target="_blank">Nieuwsbrief 18-03-20 | Thuiswerken? Hier onze tips. </a>
+* <a href="http://sh1.sendinblue.com/v3gqc8qutt7e.html?t=1584628085" target="_blank">Nieuwsbrief 18-03-20 | Thuiswerken? Hier onze tips. </a>
 * <a href="https://www.callvoip.nl/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/" target="_blank">Blog 11-03-20 | Top 10 ‘thuiswerk-tools’ voor zorgeloos thuiswerken</a>
 * <a href="http://sh1.sendinblue.com/2met08qutt7e.html?t=1582268275" target="_blank">Nieuwsbrief 20-02-20 | Carnaval! Zelf meldteksten instellen? </a>
 * <a href="http://files.callvoip.nl/nieuwsbrieven/1.html" target="_blank">Nieuwsbrief 30-01-20 | Wachtrij positiemelding, trunk failover, Web Calls en meer updates!</a>
