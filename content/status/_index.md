@@ -23,7 +23,7 @@ items:
 - title: Qaller Smartphone app
   status: true
 - title: Vamos Vast-Mobiel
-  status: true
+  status: false
 - title: Trunk
   status: true
 - title: Callvoip Internet
