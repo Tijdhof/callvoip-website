@@ -90,6 +90,7 @@ prijzen:
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+aliases: "/operatorpanel/"
 double_content:
   left:
     undefined: ''
