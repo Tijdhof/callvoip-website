@@ -23,7 +23,7 @@ team:
   function: Business Operations
   image: "/v1612448387/mt_pasfoto_bauhaus_ncbmuc.jpg"
   name: Marieke Timmer
-  linkedin: https://www.linkedin.com/in/marieketimmergroningen/
+  linkedin: https://www.linkedin.com/in/marieketimmergroningen
 - content: Heeft de nauwkeurigheid van een precisie-instrument. Is dit misschien ook
     wel, hoewel we betwijfelen of die wel anekdotes kunnen vertellen. Deelt graag
     de koffie uit. Passie voor techniek.
