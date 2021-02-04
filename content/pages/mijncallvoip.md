@@ -4,7 +4,7 @@ layout: mijncallvoip
 type: page
 url: "/mijncallvoip"
 usps:
-- title: Aanvragen
+- title: <div id="#1">Aanvragen</div>
   content: <p>Als bestaande klant van Callvoip kun je altijd je abonnement uitbreiden.
     Zo kun je extra diensten afnemen zoals de Conference Service, buitenlandse nummers
     aanvragen of servicenummers.</p>  <br> <a href="/klantworden"
@@ -129,5 +129,6 @@ menu:
 
 ---
 Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen.
+<a href="#1">Aanvragen</a>
 
  <a href="/login" target="_blank" class="button">Telefooncentrale login</a> <a href="/tour" class="button">Nog geen klant? Start de grand tour</a>
