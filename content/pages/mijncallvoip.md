@@ -4,7 +4,7 @@ layout: mijncallvoip
 type: page
 url: "/mijncallvoip"
 usps:
-- title: <div id="#aanvragen">Aanvragen</div>
+- title: <div id="aanvragen">Aanvragen</div>
   content: <p>Als bestaande klant van Callvoip kun je altijd je abonnement uitbreiden.
     Zo kun je extra diensten afnemen zoals de Conference Service, buitenlandse nummers
     aanvragen of servicenummers.</p>  <br> <a href="/klantworden"
@@ -72,7 +72,7 @@ usps:
       link: "/aanvragen/yealink-meeting/"
     - title: Yealink Meeting Abonnement
       link: "/aanvragen/yealink-meeting-2/"
-- title: <div id="#wijzigen">Wijzigen</div>
+- title: <div id="wijzigen">Wijzigen</div>
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
     Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
   items:
@@ -88,7 +88,7 @@ usps:
       link: "/wijzigen/gidsvermelding/"
     - title: Rekeningnummer
       link: "/wijzigen/rekeningnummer/"
-- title: <div id="#opzeggen">Opzeggen</div>
+- title: <div id="opzeggen">Opzeggen</div>
   content: 'Wil je één van de diensten beeïndigen? Kies rechts de dienst die je wilt
     opzeggen en wij zullen de opzegging verwerken en bevestigen. '
   items:
