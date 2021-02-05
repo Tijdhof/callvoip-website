@@ -60,8 +60,8 @@ _Tom: Jazeker! Het valt me doorgaans op dat de onderlinge interne communicatie d
 <b>Leuk om te horen! Zijn er nog meer zaken die je in het verlengde hiervan ziet?</b><br>
 _Tom: Een ander voorbeeld is het oppakken, behandelen en managen van mailtjes. Door middel van tags geven wij elkaar direct en expliciet aan wie welk mailtje zal gaan aanpakken. Dit deden we al hoor maar door de afstand gebeurt dit vaker en beter. Kortom, we zijn noodgedwongen om meer te vertrouwen op onze ingerichte systemen, maar juist nu merk je hoe goed en slim dit alles in z’n werk gaat._
 
-\<b>Goed Tom, kunnen wij hieruit opmaken dat we je nooit meer terug zullen zien op kantoor?</b><br>
-\Tom: Haha, nou nee hoor. Maar qua reguliere werkzaamheden mis ik niets. Ik heb juist meer focus. Maar natuurlijk mis ik mijn collega’s en de gezelligheid op z’n tijd. Toch is er met puur werk op zich niets mis met in je eentje zitten. Het is lekker rustig, maak mijn eigen koffie, pak mijn eigen snackie uit de kast, haal af en toe een koffietje, draai mijn eigen muziek, geniet van het zonnetje door mijn eigen raam, ontvang pakketjes, doe een kaartje op de bus, ruim de vaat in en uit, ga soms even aan de wandel, leg mijn pootjes op het bureau zonder schoeisel. Mensen, het is verrukkelijk. I’m living the good life!
+<b>Goed Tom, kunnen wij hieruit opmaken dat we je nooit meer terug zullen zien op kantoor?</b><br>
+_Tom: Haha, nou nee hoor. Maar qua reguliere werkzaamheden mis ik niets. Ik heb juist meer focus. Maar natuurlijk mis ik mijn collega’s en de gezelligheid op z’n tijd. Toch is er met puur werk op zich niets mis met in je eentje zitten. Het is lekker rustig, maak mijn eigen koffie, pak mijn eigen snackie uit de kast, haal af en toe een koffietje, draai mijn eigen muziek, geniet van het zonnetje door mijn eigen raam, ontvang pakketjes, doe een kaartje op de bus, ruim de vaat in en uit, ga soms even aan de wandel, leg mijn pootjes op het bureau zonder schoeisel. Mensen, het is verrukkelijk. I’m living the good life!_
 
 <b>_Ehm..ok bedankt Tom. Succes daar en we spreken je snel._<b>
 
