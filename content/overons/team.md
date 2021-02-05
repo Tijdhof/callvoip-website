@@ -21,7 +21,7 @@ team:
     Zelf fan van planten en mooie vergezichten. Mag graag uit eten. Schijnt een zak
     koffiebonen per dag weg te drinken.
   function: Business Operations
-  image: "/v1612448387/mt_pasfoto_bauhaus_ncbmuc.jpg"
+  image: "/v1612448387/marieke_hejup5.png"
   name: Marieke Timmer
   linkedin: https://www.linkedin.com/in/marieketimmergroningen
 - content: Heeft de nauwkeurigheid van een precisie-instrument. Is dit misschien ook
