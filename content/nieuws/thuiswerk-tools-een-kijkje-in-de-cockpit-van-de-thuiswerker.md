@@ -26,19 +26,19 @@ Wij schreven in maart 2020 al een blog over; [“Top 10 ‘thuiswerk-tools’ vo
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1612453829/Screenshot_34_mgbtoz.png)
 
-<b>Hoi Lynn, wij zien dat jij er prinsheerlijk bijzit in jouw thuiswerk-cockpit. Wil je eens uit de doeken doen hoe jij thuiswerken anno nu ervaart?</b>
+<b>Hoi Lynn, wij zien dat jij er prinsheerlijk bijzit in jouw thuiswerk-cockpit. Wil je eens uit de doeken doen hoe jij thuiswerken anno nu ervaart?</b><br>
 _Lynn: Ja hoor! Zoals jullie zien heb ik geen reden tot klagen hier in ons huis als het gaat om thuiswerken. Toen duidelijk werd dat op kantoor werken wegens de lockdown geen optie meer was, heb ik direct onze technisch medewerker Herman Willems gevraagd of hij hier thuis wat ICT-zaken voor mij wilde inrichten. Daarop heeft hij eenvoudig de populaire_ [_FRITZ!Box 7590_](https://fritzshop.nl/fritzbox/592-fritzbox-7590.html) _als perfecte router bij mij geïnstalleerd via Wizard. Mijn dagelijkse werkzaamheden bestaan uit veelvuldig telefoneren en mailen. Daarom is deze FRITZ!Box voor mij een verademing als het gaat om prettig werken. Ook heeft Herman mij voorzien van de_ [_Repeater 3000_](https://fritzshop.nl/repeater/853-fritzrepeater-3000.html) _van FRITZ!. Zo geniet ik van een nog groter en sterker WiFi-bereik en dit fijne apparaatje is tevens draadloos, zodat ik niet met allerlei kabels in de weer hoefde. Tenslotte mag ik thuis gebruikmaken van de_ [_FRITZ!Dect 200_](https://fritzshop.nl/smart-home/15-fritzdect-200-intelligent-stopcontact.html?)_. Met dit intelligente stopcontact bestuur ik slim de stroomtoevoer van bijvoorbeeld mijn koffiezetapparaat en kan ik handig het energieverbruik daarvan meten, registreren en analyseren. Ideaal!_
 
-<b>Dat klinkt super Lynn, blij dat je zo optimaal mogelijk thuis kunt werken! Van welke tools maak jij daarnaast nog meer gebruik en hoe bevallen deze?</b>
+<b>Dat klinkt super Lynn, blij dat je zo optimaal mogelijk thuis kunt werken! Van welke tools maak jij daarnaast nog meer gebruik en hoe bevallen deze?</b><br>
 _Lynn: Ik maak veel gebruik van de ‘_[_Click-to-Dial-plug-in’_](https://www.callvoip.nl/telefonie/clicktodial/)_. Hiermee kan ik telefoonnummers in de Chrome webbrowser aanklikken en worden ze direct gebeld. Ook krijg ik bij inkomende oproepen een notificatie en zie ik of mijn collega’s bereikbaar zijn. Daarbij kan ik gesprekken doorverbinden en heb ik een telefoonboek._
 
-<b>Wat goed om te horen! Zijn er nog meer tools die jij gebruikt en wil jij jouw ervaringen daarover met ons delen?</b>
+<b>Wat goed om te horen! Zijn er nog meer tools die jij gebruikt en wil jij jouw ervaringen daarover met ons delen?</b><br>
 _Lynn: Ja, de_ [_Operator Console/Bedienpost_](https://www.callvoip.nl/telefonie/operator-console/) _geeft mij een helder overzicht van wat er op dat moment gebeurt in onze organisatie. Dat is echt ideaal om:_
 
 1. _In één oogopslag te zien of collega’s beschikbaar zijn; Ik klik en neem aan, verbind door of zet diegene in de wacht, of ik trek een gesprek naar me toe. Erg handig en overzichtelijk_
 2. _Of ik kan direct de wachtrijen zien met: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Daarbij kan ik doorklikken naar specifieke details per wachtrij (welke bellers wachten, worden geholpen)._
 
-<b>Al met al bevalt thuiswerken je tot nu toe dus eigenlijk best goed?</b>
+<b>Al met al bevalt thuiswerken je tot nu toe dus eigenlijk best goed?</b><br>
 _Lynn: Ja, thuiswerken is voor mij een goed werkbare situatie door alle beschikbare tools. Of ik nou op kantoor zit of thuis, dat is mij om het even. Iedereen is goed bereikbaar via de chat en anders bel ik via videobellen, webcalls of zie ik via het operator panel erg overzichtelijk of iemand beschikbaar is of niet._
 
 <b>Erg fijn! Is er nog iets wat beter kan of dat je graag anders ziet?</b><br>
