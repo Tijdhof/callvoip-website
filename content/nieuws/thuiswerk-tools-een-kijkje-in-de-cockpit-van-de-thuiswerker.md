@@ -41,26 +41,26 @@ _Lynn: Ja, de_ [_Operator Console/Bedienpost_](https://www.callvoip.nl/telefonie
 <b>Al met al bevalt thuiswerken je tot nu toe dus eigenlijk best goed?</b>
 _Lynn: Ja, thuiswerken is voor mij een goed werkbare situatie door alle beschikbare tools. Of ik nou op kantoor zit of thuis, dat is mij om het even. Iedereen is goed bereikbaar via de chat en anders bel ik via videobellen, webcalls of zie ik via het operator panel erg overzichtelijk of iemand beschikbaar is of niet._
 
-<b>Erg fijn! Is er nog iets wat beter kan of dat je graag anders ziet?</b>
+<b>Erg fijn! Is er nog iets wat beter kan of dat je graag anders ziet?</b><br>
 _Lynn: Nou naast dat thuiswerken op zich goed bevalt mis ik uiteraard wel de gezelligheid met collega’s en de gezamenlijke energie. En natuurlijk ons vrijdagmiddag-visje. Het ontbreken van het sociale en een beetje aanspraak hebben is wel jammer. Ook al zorgen we er iedere dag voor dat we even een digitaal praatje maken en elkaar op de hoogte houden van ons wel en wee._
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1612453844/Screenshot_35_texsn8.png)
 
-<b>Dag Tom! Althans, dag kantoor van Tom. We dromen jou er maar even bij voor het gemak. Hoe bevalt thuiswerken jou tot nu toe?</b>
+<b>Dag Tom! Althans, dag kantoor van Tom. We dromen jou er maar even bij voor het gemak. Hoe bevalt thuiswerken jou tot nu toe?</b><br>
 _Tom: Om eerlijk te zijn uitstekend! In feite ervaar ik in praktische zin geen verschil tussen mijn werkzaamheden op kantoor en hier thuis. Nu moet eerlijk bekennen dat ik wat minder gebruik maak van handige thuiswerk-tools dan bijvoorbeeld Lynn. Simpelweg omdat mijn werkzaamheden als customer support medewerker daar niet direct om vragen._
 
 > **_“Alsof je een kantoortoestel mee naar huis neemt, maar dan zonder het gesjouw”_**
 
-<b>Duidelijk, welke tool(s) gebruik je dan wel veelvuldig omdat ze jouw thuiswerk-situatie ten goede komen?</b>
+<b>Duidelijk, welke tool(s) gebruik je dan wel veelvuldig omdat ze jouw thuiswerk-situatie ten goede komen?</b><br>
 _Tom: Ik maak dagelijks gebruik van Webcalls en daar ben ik erg blij mee. Het werkt gewoon super eenvoudig en efficiënt. Even overstappen en je bent op dezelfde manier bereikbaar als voorheen. Alsof je een kantoortoestel mee naar huis neemt, maar dan zonder het gesjouw. Leuk concreet voorbeeld trouwens: Vorige week sprak ik een klant die geregeld voor 3 maanden naar Amerika reist voor zijn werk. Die liep altijd te hannesen met de gebrekkige mogelijkheden inzake zakelijk bellen op zijn werkplek. Ik adviseerde hem onze Webcalls-tool en hij is als een kind zo blij. Je hebt genoeg aan een laptop/computer met internet, een browser (bv Google Chrome) en speakers + microfoon om te horen en te praten. Klaar ben je!_
 
-<b>Ha, jij bent duidelijk fan van Webcalls! Nou ja, je hebt gelijk ook. Het is een prachtig stukje innovatie binnen de VoIP-branche. Verder nog zaken die je opvallen m.b.t. thuiswerken?</b>
+<b>Ha, jij bent duidelijk fan van Webcalls! Nou ja, je hebt gelijk ook. Het is een prachtig stukje innovatie binnen de VoIP-branche. Verder nog zaken die je opvallen m.b.t. thuiswerken?</b><br>
 _Tom: Jazeker! Het valt me doorgaans op dat de onderlinge interne communicatie door thuiswerken beter en efficiënter verloopt. Dat was op zich al uitstekend, maar je merkt duidelijk dat we zeer gefocust communiceren. Het is meer gericht en expliciet op specifieke onderwerpen of ad hoc zaken. Ik vermoed dat het verband houdt met het feit dat je optimaal gebruik dient te maken van de meer spaarzame momenten dat je communiceert. Hierdoor intensiveert alles, worden gesprekken concreter en wil je uit ieder gesprek optimaal rendement halen. Ik hou wel van dat nadrukkelijke merk ik._
 
-<b>Leuk om te horen! Zijn er nog meer zaken die je in het verlengde hiervan ziet?</b>
+<b>Leuk om te horen! Zijn er nog meer zaken die je in het verlengde hiervan ziet?</b><br>
 _Tom: Een ander voorbeeld is het oppakken, behandelen en managen van mailtjes. Door middel van tags geven wij elkaar direct en expliciet aan wie welk mailtje zal gaan aanpakken. Dit deden we al hoor maar door de afstand gebeurt dit vaker en beter. Kortom, we zijn noodgedwongen om meer te vertrouwen op onze ingerichte systemen, maar juist nu merk je hoe goed en slim dit alles in z’n werk gaat._
 
-\<b>Goed Tom, kunnen wij hieruit opmaken dat we je nooit meer terug zullen zien op kantoor?</b>
+\<b>Goed Tom, kunnen wij hieruit opmaken dat we je nooit meer terug zullen zien op kantoor?</b><br>
 \Tom: Haha, nou nee hoor. Maar qua reguliere werkzaamheden mis ik niets. Ik heb juist meer focus. Maar natuurlijk mis ik mijn collega’s en de gezelligheid op z’n tijd. Toch is er met puur werk op zich niets mis met in je eentje zitten. Het is lekker rustig, maak mijn eigen koffie, pak mijn eigen snackie uit de kast, haal af en toe een koffietje, draai mijn eigen muziek, geniet van het zonnetje door mijn eigen raam, ontvang pakketjes, doe een kaartje op de bus, ruim de vaat in en uit, ga soms even aan de wandel, leg mijn pootjes op het bureau zonder schoeisel. Mensen, het is verrukkelijk. I’m living the good life!
 
 <b>_Ehm..ok bedankt Tom. Succes daar en we spreken je snel._<b>
