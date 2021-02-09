@@ -22,6 +22,13 @@ hero:
     link: telefonie/vastmobiel/
     id: cta-vamos
     icon: ''
+  items:
+  - icon: fa-laptop
+    title: Nieuw, bellen met je computer
+    content: 'Ontdek het gemak op kantoor, thuis en onderweg'
+    link: webcalls/
+    id: cta-webcalls
+    iconimage: ''
 intro:
   image: "/v1571400615/home_omkizz.png"
   title: Voordelig bellen vanuit de cloud
