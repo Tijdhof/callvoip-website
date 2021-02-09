@@ -22,7 +22,6 @@ hero:
     link: telefonie/vastmobiel/
     id: cta-vamos
     icon: ''
-  items:
   - icon: fa-laptop
     title: Nieuw, bellen met je computer
     content: 'Ontdek het gemak op kantoor, thuis en onderweg'
