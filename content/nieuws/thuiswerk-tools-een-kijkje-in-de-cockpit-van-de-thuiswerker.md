@@ -1,7 +1,8 @@
 ---
 title: Thuiswerk-tools; een kijkje in de cockpit van de thuiswerker
 description: ''
-images: []
+images:
+- "/v1612946212/beautiful-twilight-sunset-sky-high-altitude-from-airplane-cockpit-view_cre5ta.jpg"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -13,31 +14,39 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
-url: thuiswerktools-blog
+date: 2021-02-09T23:00:00+00:00
+url: nieuws/thuiswerktools-blog
 contactpersoon: []
 categories: []
 tags: []
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1612946212/beautiful-twilight-sunset-sky-high-altitude-from-airplane-cockpit-view_cre5ta.jpg)
+
 **Geheel of gedeeltelijk thuiswerken mogen we onderhand rekenen tot de categorie: “here to stay’. Wat door de wereldwijde pandemie begon als pure noodzaak is in rap tempo uitgegroeid tot de nieuwe realiteit, als het gaat om onze dagelijkse manier van werken. Sterker nog, bedrijven en organisaties ondervinden momenteel positieve ontwikkelingen en voordelen met thuiswerken ten opzichte van werken op kantoor. Denk aan minder stressfactoren onder personeel, verhoogde arbeidsproductiviteit en door o.a. het reduceren van reiskosten plus kantoorruimte lijkt thuiswerken ook bedrijfseconomische voordelen op te leveren. Natuurlijk zijn er ook verbeterpunten te bespeuren, zoals het sociale aspect en het optimaliseren van de gemiddelde thuiswerk-situatie. Ook de beschikbare tools die thuiswerken makkelijker kunnen maken is iets wat extra aandacht mag krijgen. Wij namen de proef op de som.**
 
-Wij schreven in maart 2020 al een blog over; [“Top 10 ‘thuiswerk-tools’ voor zorgeloos thuiswerken”](https://www.callvoip.nl/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/). De ad-hoc noodsprong naar de geïmproviseerde thuiswerkplek maakt nu plaats voor thuiswerken 2.0: finetuning the thuiswerkplek en professionele tools voor optimaal samenwerken! De hoogste tijd om ons destijds hoofdzakelijk theoretische aanbod eens te toetsen op basis van ervaringen in praktische zin.   
-**Hoe dan?** Nou, als telecombedrijf dat klanten ondersteunt met slimme ICT-oplossingen geven wij vanzelfsprekend graag zelf het goede voorbeeld. Daarom vroegen wij onze medewerkers [Lynn de Goede en Tom Ravesloot](https://www.callvoip.nl/overons/team/) over hun eigen thuiswerk-ervaringen inclusief het gebruik van sommige van onze thuiswerktools. Kortom, een kijkje in hun cockpits:
+### Thuiswerken is nu een serieuze en professionele aangelegenheid geworden
+
+Het ligt voor heel werkend Nederland nog vers in het geheugen; om het virus structureel de kop in te drukken wordt er verwacht dat iedereen daar waar kan zoveel mogelijk thuiswerkt. Dit betekende voor veel mensen dat we plaatsnamen aan de keukentafel, de laptop opensloegen en de telefoon ernaast legden. Klaar is Kees, voor nu even behelpen maar we zullen vast snel weer ‘echt’ aan het werk kunnen. Sommigen namen het thuiswerken iets serieuzer en brachten hun kantoortoestel mee naar huis, even snel aansluiten, doorschakelen en hup; gaan met die banaan!
+
+En nu blijkt dat thuiswerken een blijvende realiteit is geworden.In ieder geval voor een deel van de werkweek voor het gros van de werkende Nederlanders. Daar kunnen we van alles van vinden maar een feit is een feit, dus is het zaak om ons hieraan zo goed mogelijk aan te passen en te verbeteren.
+
+Wat aanpassen en verbeteren betreft was het voor ons simpel; laten we als ICT-dienstverlenend telecombedrijf inspelen op de vraag naar onze diensten en producten met betrekking tot het optimaliseren van de thuiswerk-situatie van onze klanten. En laten we dit aanbod eveneens toetsen op onze eigen thuiswerkende medewerkers. Onze klanten en medewerkers maakten dan ook meer en meer dankbaar gebruik van handige en slimme tools als; Webcalls, [Qaller Plus](https://www.callvoip.nl/telefonie/qaller/), de Operator Panel, beschikbare statistieken, handige aan/uitschakelaars in een belroute en nog veel meer tools van ons systeem. Daarnaast zijn wij uiteraard ook niet te beroerd om alle beschikbare tools die ons eigen aanbod verder aanvullen, met liefde te adopteren. Denk bijvoorbeeld aan; Google Meet, Google Chat, Trello en de superhandige ToDo- and Tasklist TickTick!
+
+Wij schreven in maart 2020 al een blog over; [“Top 10 ‘thuiswerk-tools’ voor zorgeloos thuiswerken”](https://www.callvoip.nl/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/). Hoogste tijd om ons destijds hoofdzakelijk theoretische aanbod nu eens te testen op basis van ervaringen in praktische zin. Daarom vroegen wij onze eigen medewerkers [Lynn de Goede en Tom Ravesloot](https://www.callvoip.nl/overons/team/) over hun eigen thuiswerk-ervaringen inclusief het gebruik van sommige van onze thuiswerktools. Kortom, een kijkje in de cockpits van thuiswerken 2.0:
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1612453829/Screenshot_34_mgbtoz.png)
 
 <b>Hoi Lynn, wij zien dat jij er prinsheerlijk bijzit in jouw thuiswerk-cockpit. Wil je eens uit de doeken doen hoe jij thuiswerken anno nu ervaart?</b>
 _Lynn: Ja hoor! Zoals jullie zien heb ik geen reden tot klagen hier in ons huis als het gaat om thuiswerken. Toen duidelijk werd dat op kantoor werken wegens de lockdown geen optie meer was, heb ik direct onze technisch medewerker Herman Willems gevraagd of hij hier thuis wat ICT-zaken voor mij wilde inrichten. Daarop heeft hij eenvoudig de populaire_ [_FRITZ!Box 7590_](https://fritzshop.nl/fritzbox/592-fritzbox-7590.html) _als perfecte router bij mij geïnstalleerd via Wizard. Mijn dagelijkse werkzaamheden bestaan uit veelvuldig telefoneren en mailen. Daarom is deze FRITZ!Box voor mij een verademing als het gaat om prettig werken. Ook heeft Herman mij voorzien van de_ [_Repeater 3000_](https://fritzshop.nl/repeater/853-fritzrepeater-3000.html) _van FRITZ!. Zo geniet ik van een nog groter en sterker WiFi-bereik en dit fijne apparaatje is tevens draadloos, zodat ik niet met allerlei kabels in de weer hoefde. Tenslotte mag ik thuis gebruikmaken van de_ [_FRITZ!Dect 200_](https://fritzshop.nl/smart-home/15-fritzdect-200-intelligent-stopcontact.html?)_. Met dit intelligente stopcontact bestuur ik slim de stroomtoevoer van bijvoorbeeld mijn koffiezetapparaat en kan ik handig het energieverbruik daarvan meten, registreren en analyseren. Ideaal!_
 
-<b>Dat klinkt super Lynn, blij dat je zo optimaal mogelijk thuis kunt werken! Van welke tools maak jij daarnaast nog meer gebruik en hoe bevallen deze?</b>
-_Lynn: Ik maak veel gebruik van de ‘_[_Click-to-Dial-plug-in’_](https://www.callvoip.nl/telefonie/clicktodial/)_. Hiermee kan ik telefoonnummers in de Chrome webbrowser aanklikken en worden ze direct gebeld. Ook krijg ik bij inkomende oproepen een notificatie en zie ik of mijn collega’s bereikbaar zijn. Daarbij kan ik gesprekken doorverbinden en heb ik een telefoonboek._
+<b>Dat klinkt super Lynn, blij dat je zo optimaal mogelijk thuis kunt werken! Van welke tools maak jij daarnaast nog meer gebruik en hoe bevallen deze?</b>_Lynn: Ik maak veel gebruik van Webcalls en laat Qaller meerinkelen zodat ik ook weet dat ik gebeld word als ik even bij m’n computer weg ben. Ik maak ook veel gebruik van de ‘_[_Click-to-Dial-plug-in’_](https://www.callvoip.nl/telefonie/clicktodial/)_. Hiermee kan ik telefoonnummers in de Chrome webbrowser aanklikken en worden ze direct gebeld. Ook krijg ik bij inkomende oproepen een notificatie en zie ik of mijn collega’s bereikbaar zijn. Daarbij kan ik gesprekken doorverbinden en heb ik een telefoonboek._
 
 <b>Wat goed om te horen! Zijn er nog meer tools die jij gebruikt en wil jij jouw ervaringen daarover met ons delen?</b>
-_Lynn: Ja, de_ [_Operator Console/Bedienpost_](https://www.callvoip.nl/telefonie/operator-console/) _geeft mij een helder overzicht van wat er op dat moment gebeurt in onze organisatie. Dat is echt ideaal om:_
+_Lynn: Ja, de_ [_Operator Console ofwel ons bedrijfstelefoon-dashboard_](https://www.callvoip.nl/telefonie/operator-console/) _geeft mij een helder overzicht van wat er op dat moment gebeurt in onze organisatie. Dat is echt ideaal:_
 
-1. _In één oogopslag te zien of collega’s beschikbaar zijn; Ik klik en neem aan, verbind door of zet diegene in de wacht, of ik trek een gesprek naar me toe. Erg handig en overzichtelijk_
-2. _Of ik kan direct de wachtrijen zien met: key statistics (wachtenden, gem. wachttijd, ingelogde agenten). Daarbij kan ik doorklikken naar specifieke details per wachtrij (welke bellers wachten, worden geholpen)._
+1. _Ik zie in één oogopslag of collega’s beschikbaar zijn.; Ik klik en neem aan, verbind door en of zet diegene in de wacht, of ik trek een gesprek naar me toe. Erg handig en overzichtelijk!_
+2. _En ik kan direct de wachtrijen zien met handige statistieken, zoals aantal wachtenden, gemiddelde wachttijd en welke collega’s zijn ingelogd. Ook kan ik doorklikken naar een specifieke wachtrij en zien welke bellers wachten en nu worden geholpen. Echt ideaal!_
 
 <b>Al met al bevalt thuiswerken je tot nu toe dus eigenlijk best goed?</b>
 _Lynn: Ja, thuiswerken is voor mij een goed werkbare situatie door alle beschikbare tools. Of ik nou op kantoor zit of thuis, dat is mij om het even. Iedereen is goed bereikbaar via de chat en anders bel ik via videobellen, webcalls of zie ik via het operator panel erg overzichtelijk of iemand beschikbaar is of niet._
