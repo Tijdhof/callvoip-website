@@ -73,7 +73,7 @@ _Tom: Een ander voorbeeld is het oppakken, behandelen en managen van mailtjes. D
 <b>Goed Tom, kunnen wij hieruit opmaken dat we je nooit meer terug zullen zien op kantoor?</b>
 \\Tom: Haha, nou nee hoor. Maar qua reguliere werkzaamheden mis ik niets. Ik heb juist meer focus. Maar natuurlijk mis ik mijn collega’s en de gezelligheid op z’n tijd. Toch is er met puur werk op zich niets mis met in je eentje zitten. Het is lekker rustig, maak mijn eigen koffie, pak mijn eigen snackie uit de kast, haal af en toe een koffietje, draai mijn eigen muziek, geniet van het zonnetje door mijn eigen raam, ontvang pakketjes, doe een kaartje op de bus, ruim de vaat in en uit, ga soms even aan de wandel, leg mijn pootjes op het bureau zonder schoeisel. Mensen, het is verrukkelijk. I’m living the good life!
 
-<b>_Ehm... ok bedankt Tom. Succes daar en we spreken je snel._<b>
+<b>_Ehm... ok bedankt Tom. Succes daar en we spreken je snel._</b>
 
 Welnu lieve lezers, jullie zien dat thuiswerken best plezierig kan zijn, behalve het soms verlangen naar het sociale en fysieke contact. Wellicht kunnen we straks massaal overstappen op een aantal dagen in de week thuiswerken en bijvoorbeeld 2 dagen op kantoor. We gaan het zien. Tot die tijd adviseren wij jullie om het jezelf niet al te lastig te maken en door middel van een aantal handige en slimme thuiswerk-tools zo optimaal mogelijk je werkzame uren door te brengen.
 
