@@ -128,6 +128,6 @@ menu:
     weight: 2
 
 ---
-Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen.<br><br><b>Snelkeuzes:</b> <a href="#aanvragen">Aanvragen<a>, <a href="#wijzigen">Wijzigen</a>, <a href="#opzeggen">Opzeggen</a><br>
+Als bestaande klant van Callvoip kun je altijd je abonnement <a href="#wijzigen">Wijzigen</a>.<br>Ook kun je extra diensten <a href="#aanvragen">Aanvragen<a> of a href="#opzeggen">Opzeggen</a>.
 
- <a href="/login" target="_blank" class="button">Telefooncentrale login</a> <a href="/tour" class="button">Nog geen klant? Start de grand tour</a>
+ <a href="/login" target="_blank" class="button">Telefooncentrale login</a>
