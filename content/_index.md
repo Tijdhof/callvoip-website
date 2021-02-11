@@ -23,7 +23,7 @@ hero:
     id: cta-vamos
     icon: ''
   - icon: fa-laptop
-    title: <font color="#f78503">Nieuw</font>, bellen met je computer
+    title: <font color="#f78503">Nieuw:</font> Bellen met je computer
     content: 'Ontdek het gemak op kantoor, thuis en onderweg'
     link: webcalls/
     id: cta-webcalls
