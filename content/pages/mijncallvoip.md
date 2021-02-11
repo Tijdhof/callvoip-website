@@ -44,7 +44,7 @@ usps:
       link: https://bestellen.ziggozakelijk.nl/zakelijk_internet/P-540-U7383
     - title: Ziggo Zakelijk Internet Pro - Portal
       link: https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro/P-540-U7383
-  - title: Integratie
+  - title: <div id="wijzigen">Integratie</div>
     items:
     - title: Vast Mobiel (Vamos)
       link: "/aanvragen/vamos/"
@@ -72,7 +72,7 @@ usps:
       link: "/aanvragen/yealink-meeting/"
     - title: Yealink Meeting Abonnement
       link: "/aanvragen/yealink-meeting-2/"
-- title: <div id="wijzigen">Wijzigen</div>
+- title: Wijzigen
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
     Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
   items:
@@ -128,6 +128,6 @@ menu:
     weight: 2
 
 ---
-Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen.<br><br><b>Snelkeuzes:</b><br><a href="#aanvragen">Aanvragen<a><br><a href="#wijzigen">Wijzigen</a><br><a href="#opzeggen">Opzeggen</a><br>
+Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen.<br><br><b>Snelkeuzes:</b> <a href="#aanvragen">Aanvragen<a>, <a href="#wijzigen">Wijzigen</a>, <a href="#opzeggen">Opzeggen</a><br>
 
  <a href="/login" target="_blank" class="button">Telefooncentrale login</a> <a href="/tour" class="button">Nog geen klant? Start de grand tour</a>
