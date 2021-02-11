@@ -7,8 +7,7 @@ usps:
 - title: <div id="aanvragen">Aanvragen</div>
   content: <p>Als bestaande klant van Callvoip kun je altijd je abonnement uitbreiden.
     Zo kun je extra diensten afnemen zoals de Conference Service, buitenlandse nummers
-    aanvragen of servicenummers.</p>  <br> <a href="/klantworden"
-    class="button">Word klant</a>
+    aanvragen of servicenummers.</p>  <br> <a href="/tour" class="button">Nog geen klant? Start de grand tour</a>
   items:
   - title: Nummers
     items:
