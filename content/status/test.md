@@ -3,9 +3,12 @@ title: Meldingen
 error: false
 
 ---
-Donderdag 11 februari 2021 - 9.30 uur
+Donderdag 11 februari 2021
 
-Momenteel zijn er problemen met de audio van gesprekken, vertragingen en bereikbaarheidsproblemen.   
+10\.00 uur: De problemen doen zich helaas nog steeds voor.   
+Er wordt hard gewerkt aan een oplossing; de toestelregistraties komen weer terug. 
+
+09\.30 uur: Momenteel zijn er problemen met de audio van gesprekken, vertragingen en bereikbaarheidsproblemen.   
 Onze technici zijn op de hoogte en het onderzoek loopt.   
 Het probleem wordt met de hoogste urgentie behandeld.  
   
