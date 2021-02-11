@@ -5,7 +5,7 @@ error: false
 ---
 Donderdag 11 februari 2021
 
-10\.20 uur: De dienst komt langzaam weer terug.   
+10\.30 uur: De dienst komt langzaam weer terug.   
 Toegang tot de panels werkt weer, de UC Panel en webcalls kan weer worden gestart, toestellen registreren weer. Bellen is mogelijk maar nog met enige delay en langere wachttijd. We verwachten dat de services nu snel terug zijn. 
 
 10\.00 uur: De problemen doen zich helaas nog steeds voor.   
