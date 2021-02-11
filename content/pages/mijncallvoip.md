@@ -9,6 +9,7 @@ usps:
     Zo kun je extra diensten afnemen zoals de Conference Service, buitenlandse nummers
     aanvragen of servicenummers.</p>  <br> <a href="/klantworden"
     class="button">Word klant</a>
+  items:
   - title: Nummers
     items:
     - title: Aanvraagformulier
@@ -127,6 +128,6 @@ menu:
     weight: 2
 
 ---
-Als bestaande klant van Callvoip kun je altijd je abonnement <a href="#wijzigen">wijzigen</a>.<br>Ook kun je extra diensten <a href="#aanvragen">aanvragen<a> of <a href="#opzeggen">opzeggen</a>.
+Als bestaande klant van Callvoip kun je altijd je abonnement wijzigen. Ook kun je extra diensten aanvragen of opzeggen.<br><br><b>Snelkeuzes:</b> <a href="#aanvragen">Aanvragen<a>, <a href="#wijzigen">Wijzigen</a>, <a href="#opzeggen">Opzeggen</a><br>
 
- <a href="/login" target="_blank" class="button">Telefooncentrale login</a>
+ <a href="/login" target="_blank" class="button">Telefooncentrale login</a> <a href="/tour" class="button">Nog geen klant? Start de grand tour</a>
