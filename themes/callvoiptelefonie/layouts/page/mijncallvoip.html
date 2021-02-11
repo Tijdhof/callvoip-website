@@ -32,7 +32,7 @@
           {{ range .items }}
           <div class="md:w-1/2 md:px-8 xl:px-4  mb-8 lg:mb-12">
             {{ with .title }}
-            <h4 class="text-lg lg:text-2xl font-normal mb-2 block">{{ . }}</h4>
+            <h4 class="text-lg lg:text-2xl font-normal mb-2 block">{{ . | markdownify }}</h4>
             {{ end }}
             {{ with .items }}
               <ul>
