@@ -82,13 +82,13 @@ usps:
       link: "/wijzigen/klantgegevens/"
     - title: Verhuisbericht
       link: "/wijzigen/verhuisbericht/"
-  - title: Overig
+  - title: <div id="opzeggen">Overig</div>
     items:
     - title: Gidsvermelding
       link: "/wijzigen/gidsvermelding/"
     - title: Rekeningnummer
       link: "/wijzigen/rekeningnummer/"
-- title: <div id="opzeggen">Opzeggen</div>
+- title: Opzeggen
   content: 'Wil je één van de diensten beeïndigen? Kies rechts de dienst die je wilt
     opzeggen en wij zullen de opzegging verwerken en bevestigen. '
   items:
