@@ -3,7 +3,7 @@ title: Thuiswerk-tools; een kijkje in de cockpit van de thuiswerker
 description: ''
 images:
 - "/v1612946212/beautiful-twilight-sunset-sky-high-altitude-from-airplane-cockpit-view_cre5ta.jpg"
-featured: false
+featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
@@ -14,11 +14,12 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2021-02-09T23:00:00+00:00
+date: 2021-02-09T23:00:00.000+00:00
 url: nieuws/thuiswerktools-blog
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1612946212/beautiful-twilight-sunset-sky-high-altitude-from-airplane-cockpit-view_cre5ta.jpg)
