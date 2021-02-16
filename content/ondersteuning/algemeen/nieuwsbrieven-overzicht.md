@@ -12,6 +12,10 @@ hidesocialshare: false
 aliases: "/nieuwsbrieven"
 
 ---
+<h3>2021</h3>
+
+* <a href="https://www.callvoip.nl/nieuws/thuiswerktools-blog/" target="_blank">Blog 9-2-2021 | Thuiswerk-tools; een kijkje in de cockpit van de thuiswerker</a>
+
 <h3>2020</h3>
 
 * <a href="https://www.callvoip.nl/tijdlijn/" target="_blank">Tijdlijn 2020 | Callvoip tijdlijn: terugblik en preview</a>
