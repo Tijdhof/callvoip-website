@@ -54,5 +54,5 @@ menu:
     weight: 4
     parent: Telefonie
     pre: 'Van gratis Chrome extensie tot CRM integratie'
-    post: fa-laptop
+    post: fa-mouse-pointer
 ---
