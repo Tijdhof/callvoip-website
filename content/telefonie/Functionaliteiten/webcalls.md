@@ -14,7 +14,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Ook klant worden?
+    content: Ik wil Webcalls!
     link: "/klantworden/"
 blocks:
 - content: |-
