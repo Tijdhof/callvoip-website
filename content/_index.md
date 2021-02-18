@@ -29,7 +29,7 @@ hero:
     id: cta-webcalls
     iconimage: ''
 intro:
-  image: "/v1571400615/homepage_webcalls_f0tsci.png"
+  image: "/v1571400615/homepage_webcalls_jpvsi2.png"
   title: Voordelig bellen vanuit de cloud
   content: Callvoip zorgt voor slimme zakelijke telefonische bereikbaarheid. Op kantoor
     via een vast toestel, onderweg via je eigen mobiel of overal via je eigen computer. En dat tegen scherpe tarieven!
