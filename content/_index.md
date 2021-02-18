@@ -4,7 +4,7 @@ hero:
   title: Succes begint met slimme telefonie
   content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
-    plaats achter het stuur of laat je rijden door ons enthousiaste supportteam. <br><br>Overstappen?
+    plaats achter het stuur of laat je rijden door ons enthousiaste supportteam. <br><br>
     <a href="/webcalls/">NIEUW: Webcalls, probeer tot 1 april gratis uit!</a> \U+1F4BB4'
   button:
     content: 'Ons aanbod: de Callvoip Toolkit'
