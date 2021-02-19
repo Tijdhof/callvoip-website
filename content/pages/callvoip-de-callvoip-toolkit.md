@@ -52,15 +52,15 @@ usps:
       persoon belanden. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
       class="button">Lees meer</a>'
   - icon: fa-exclamation-circle
-    title: Omleidingen
+    title: Slimme schakelaars
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
       Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
       bureau. Handig!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
   - icon: fa-heartbeat
-    title: Email-app
-    content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mail app
+    title: Email notificatie
+    content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mailmelding
       in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
       van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
       als je even terug wilt bellen.<br><br><a href="/telefonie/functionaliteiten/e-mail/"
@@ -72,7 +72,7 @@ usps:
       wachtende bent. Dit zorgt voor effectiviteit op een druk nummer. <br><br><a
       href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-wifi
-    title: Multiple Caller ID
+    title: Keuze uitgaand nummer
     content: Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk
       kunt wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple
       Caller ID. Switchen kan op je vaste toestel, maar ook met onze app. <br><br><a
