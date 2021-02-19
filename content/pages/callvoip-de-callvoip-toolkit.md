@@ -63,7 +63,7 @@ usps:
     content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mailmelding
       in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
       van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
-      als je even terug wilt bellen.<br><br><a href="/telefonie/functionaliteiten/e-mail/"
+      als je even terug wilt bellen.<br><a href="/telefonie/functionaliteiten/e-mail/"
       class="button">Lees meer</a>
   - icon: fa-money-bill
     title: Wachtrij
