@@ -13,11 +13,12 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2021-02-18T23:00:00+00:00
 url: ''
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 Webcalls, bellen met de computer: we introduceerden het in november. Inmiddels is er een eindeloos aantal gebruikers dat met een willekeurige computer en een headsetje met de rest van de wereld communiceert. Vrijheid blijheid! Ideaal voor thuiswerken, quarantaine, deeltijd, invallen, waarnemen, en noem maar op!   
