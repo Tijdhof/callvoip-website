@@ -6,7 +6,7 @@ logos: true
 aliases: "/webcalls"
 hero:
   title: Bellen zonder telefoon? Webcalls!
-  content: Web Calls biedt je de flexibiliteit van bellen met je computer, laptop
+  content: Webcalls biedt je de flexibiliteit van bellen met je computer, laptop
     of tablet. Zo ben je superflexibel! En dus ideaal voor thuiswerk, onderweg of
     voor een snelle extra werkplek. Maar ook als je telefonie nodig hebt op bijzondere
     plaatsen, zoals in het datacenter.
