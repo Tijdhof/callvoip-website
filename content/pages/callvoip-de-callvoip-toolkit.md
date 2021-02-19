@@ -1,7 +1,7 @@
 ---
 title: Callvoip - De Callvoip Toolkit
 url: toolkit
-aliases: /toolbox
+aliases: "/toolbox"
 type: page
 hero:
   content:
@@ -79,11 +79,11 @@ usps:
       href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
       meer</a>
   - icon: fa-cloud
-    title: Mis je iets?
-    content: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen
-      je om samen jouw eigen centrale in te richten, zodat je een vliegende start
-      kunt maken. Weten wat er nog meer mogelijk is? <br><br><a href="/telefonie/functionaliteiten/"
-      class="button">Check het overzicht</a>
+    title: Bellen met je computer
+    content: Met onze Webcalls kun je op elke computer met internet bellen met jouw
+      vaste nummer. Ideaal voor de thuiswerkplek, onderweg of voor die nieuwe collega
+      die nog geen toestel heeft. <br><br><a href="/telefonie/functionaliteiten/webcalls/"
+      class="button">Lees meer</a>
 intro:
   title: Mooi hè?
   content: 'Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat
