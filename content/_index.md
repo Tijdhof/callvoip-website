@@ -5,7 +5,7 @@ hero:
   content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam. <br><br>
-    <a href="/webcalls/">Webcalls, bellen met je computer: tot 1 april gratis!</a>'
+    <a href="/nieuws/nieuw-webcalls-probeer-tot-1-april-2021-gratis-uit/">Webcalls, bellen met je computer: tot 1 april gratis!</a>'
   button:
     content: 'Ons aanbod: de Callvoip Toolkit'
     link: "/toolkit/"
@@ -29,7 +29,7 @@ hero:
     id: cta-webcalls
     iconimage: ''
 intro:
-  image: "/v1571400615/homepage_webcalls_jpvsi2.png"
+  image: "/v1571400615/homepage_webcalls_fplmay.png"
   title: Voordelig bellen vanuit de cloud
   content: Callvoip zorgt voor slimme zakelijke telefonische bereikbaarheid. Op kantoor
     via een vast toestel, onderweg via je eigen mobiel of overal via je eigen computer. En dat tegen scherpe tarieven!
