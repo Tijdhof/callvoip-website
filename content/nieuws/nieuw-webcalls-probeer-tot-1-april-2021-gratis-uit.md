@@ -1,7 +1,8 @@
 ---
 title: 'Nieuw: Webcalls, probeer tot 1 april 2021 gratis uit!'
 description: 'Nieuw: Webcalls, probeer tot 1 april 2021 gratis uit!'
-images: []
+images:
+- "/v1605539914/webcallertje_cwr7l4.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -13,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2021-02-18T23:00:00+00:00
+date: 2021-02-18T23:00:00.000+00:00
 url: ''
 contactpersoon: []
 categories: []
