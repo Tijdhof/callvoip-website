@@ -1,8 +1,9 @@
 ---
-title: VoIP CTI (Koppeling met uw CRM-pakket) aanvragen
+title: VoIP CTI aanvragen
 url: "/aanvragen/voip-cti/"
 
 ---
+<center><h1>(Koppeling met uw CRM-pakket)</h1></center><br>
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
 {{< form "aanvragen-voipcti" "/aanvragen/verzonden" >}}  
@@ -125,7 +126,7 @@ Per gebruiker
 
 {{< layout/column3 >}}
 
-€ 0,00 excl. BTW
+€ 15,00 excl. BTW
 
 {{</ layout/column3 >}}
 
