@@ -5,8 +5,7 @@ description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome in
 type: page
 layout: default2
 logos: false
-aliases: "/integratie/"
-url: "/telefonie/integratie/"
+url: "/branches/tandarts/"
 hero:
   title: Alles voor tandartsen
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
