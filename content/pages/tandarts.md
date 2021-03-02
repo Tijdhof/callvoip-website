@@ -33,13 +33,6 @@ textblocksfooter:
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">'
   show_vshape: false
-footer:
-- content: 'Via de ACM kun je ook een 0800 of 0900 servicenummer aanvragen. Dit type nummers wordt veelal gebruikt voor klantenservice of callcenter toepassingen. Het grote verschil tussen de 0800 en 0900 zit in de belkosten voor de beller.<br><br>Met een 0800-nummer ben je kosteloos bereikbaar voor je klanten. Dit verlaagt de drempel voor je klanten om contact op te nemen. Het 0800-nummer is in heel Nederland actief en bereikbaar.<br><br>Voor een 0900 nummer betalen klanten een minuut- of gesprekstarief en dit genereert inkomsten. Het tarief stel je zelf vast. De kostendrempel maakt dat je klant weloverwogen en doelgericht belt. Dit verhoogt de doeltreffendheid van de gesprekken.'
-  image: "/v1600956804/callcenter_eqrona.png"
-  zooming: true
-  position: image_left
-  title: '<br><div id="service">Servicenummers</div>'
-  image_position: center
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
   content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
