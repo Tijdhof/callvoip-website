@@ -38,7 +38,7 @@ textblocksfooter:
     en zie of ze in gesprek zijn. <br><br><br><a href="/telefonie/qaller/" class="button">Meer
     informatie</a>
   title2: 'Wat is dat: Webcalls?'
-  content2: Web Calls biedt je de flexibiliteit van bellen met je computer, laptop
+  content2: Webcalls biedt je de flexibiliteit van bellen met je computer, laptop
     of tablet, zonder uitgebreide installaties. Gewoon in je browser (Chrome, Edge,
     Firefox, Safari). Zo ben je superflexibel! Ideaal dus voor thuiswerk, onderweg
     of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
