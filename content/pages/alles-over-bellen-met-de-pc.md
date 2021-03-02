@@ -31,19 +31,19 @@ blocks:
   title: De standaard
   image_position: center
 textblocksfooter:
-- title1: 'Wat is dat: Qaller Plus app?'
-  content1: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
-    tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
-    en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
-    en zie of ze in gesprek zijn. <br><br><br><a href="/telefonie/qaller/" class="button">Meer
-    informatie</a>
-  title2: 'Wat is dat: Webcalls?'
+- title1: 'Wat is dat: Webcalls?'
+  content1: Webcalls biedt je de flexibiliteit van bellen met je computer, laptop
+    of tablet, zonder uitgebreide installaties. Gewoon in je browser (Chrome, Edge,
+    Firefox, Safari). Zo ben je superflexibel! Ideaal dus voor thuiswerk, onderweg
+    of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
+    class="button">Meer informatie</a>
+  title2: 'Wat is dat: Operator Panel?'
   content2: Webcalls biedt je de flexibiliteit van bellen met je computer, laptop
     of tablet, zonder uitgebreide installaties. Gewoon in je browser (Chrome, Edge,
     Firefox, Safari). Zo ben je superflexibel! Ideaal dus voor thuiswerk, onderweg
     of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
     class="button">Meer informatie</a>
-  title3: Hoe werkt een toestel thuis?
+  title3: 'Wat is dat: VoIP CTI?'
   content3: 'Een VoIP toestel heeft een aantal zaken nodig om te kunnen bellen. In
     het toestel zelf moeten wat gegevens voor onze centrale maar verder zijn er maar
     2 dingen nodig: stroom en internet. En dat heeft iedereen thuis ook! Dus gooi
