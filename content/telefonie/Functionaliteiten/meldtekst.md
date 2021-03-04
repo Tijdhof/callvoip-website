@@ -7,7 +7,7 @@ logos: true
 aliases: "/meldtekst"
 hero:
   title: Meldtekst (Sound)
-  content: "Met deze functionaliteit kun je verschillende meldteksten in jou belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen."
+  content: "Met deze functionaliteit kun je verschillende meldteksten in jouw belplan plaatsen. Denk hierbij aan bijvoorbeeld een welkomst-meldtekst, een tekst wanneer iedereen in gesprek is, meldteksten voor binnen & buiten werktijd en aparte vakantiemeldingen."
   image: "/v1571655384/tape_bvvb2g_taogx4.png"
   image_position: center
   disable_image_on_mobile: false
