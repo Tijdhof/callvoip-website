@@ -38,10 +38,10 @@ textblocksfooter:
     of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
     class="button">Meer informatie</a>
   title2: 'Wat is dat: Operator Panel?'
-  content2: Webcalls biedt je de flexibiliteit van bellen met je computer, laptop
-    of tablet, zonder uitgebreide installaties. Gewoon in je browser (Chrome, Edge,
-    Firefox, Safari). Zo ben je superflexibel! Ideaal dus voor thuiswerk, onderweg
-    of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
+  content2: Met de Operator Panel maak je op maat een realtime dashboard voor jouw
+    telefonie. Zie wie in gesprek is met wie en hoelang en bekijk uitgebreide (wachtrij-)statistieken.
+    Maar er zijn ook trainingsmogelijkheden zoals meeluisteren en influisteren. Waardevol
+    voor callcenters maar ook inzichten voor thuiswerkers.<br><br><br><a href="/telefonie/operator-console/"
     class="button">Meer informatie</a>
   title3: 'Wat is dat: VoIP CTI?'
   content3: |-
