@@ -1,11 +1,11 @@
 ---
-title: Ben jij onze nieuwe commerciële hulpsheriff?
+title: Ben jij onze nieuwe sales/support held(-in)
 tag: vacature
 excerpt: Wij zoeken een sales/support held(-in)
-url: "/vacatures/hulpsheriff"
+url: "/vacatures/sales-support-held/"
 aliases: "/vacatures/support"
 card:
-  title: Commerciële hulpsheriff
+  title: Sales/support held(-in)
   content: Ben jij een enthousiaste kandidaat met een servicegerichte instelling en
     een groot verantwoordelijkheidsgevoelzijn? Dan wij op zoek naar jou!
   link:
