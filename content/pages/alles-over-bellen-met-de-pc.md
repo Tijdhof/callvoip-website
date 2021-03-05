@@ -7,7 +7,7 @@ layout: default2
 logos: false
 url: telefonie/bellenmetpc/
 hero:
-  title: Alles over thuiswerken
+  title: Alles over bellen met je PC
   content: Vroeger werkte de meerderheid van de mensen op één locatie. Die tijden
     zijn inmiddels natuurlijk al lang voorbij en thuiswerken hoort er in veel beroepsgroepen
     gewoon bij. Maar hoe zorg je ervoor dat je zakelijke vaste nummer ook op al die
