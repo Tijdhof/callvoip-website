@@ -8,7 +8,7 @@ logos: false
 url: telefonie/bellenmetpc/
 hero:
   title: Alles over bellen met je PC
-  content: Of je nu thuis of op kantoor zit te werken, veel mensen zitten achter een PC. Die gebruiken we al voor bijna alles en daar komt nu ook bellen bij. Niet alleen de Teams of Zooms meeting, nee, we hebben het over het gebruik van jouw vaste nummer op de PC. Dat kan met namelijk met <a href="/webcalls/">Webcalls</a>. Maar ook het <a href-"/telefonie/integratie/">integreren</a> van onze telefonie met jouw CRM is mogelijk. Maak van jouw PC dus ook jouw persoonlijke belcentrale!
+  content: Of je nu thuis of op kantoor zit te werken, veel mensen zitten achter een PC. Die gebruiken we al voor bijna alles en daar komt nu ook bellen bij. Niet alleen de Teams of Zoom meeting, nee, we hebben het over het gebruik van jouw vaste nummer op de PC. Dat kan met namelijk met <a href="/webcalls/">Webcalls</a>. Maar ook het <a href-"/telefonie/integratie/">integreren</a> van onze telefonie met jouw CRM is mogelijk. Maak van jouw PC dus ook jouw persoonlijke belcentrale!
   image: "/v1602514226/hollandshuis_y13wm6.png"
   zooming: true
   image_position: center
