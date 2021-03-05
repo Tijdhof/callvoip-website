@@ -41,12 +41,12 @@ textblocksfooter:
   content2: Met de Operator Panel maak je op maat een realtime dashboard voor jouw
     telefonie. Zie wie in gesprek is met wie en hoelang en bekijk uitgebreide (wachtrij-)statistieken.
     Maar er zijn ook trainingsmogelijkheden zoals meeluisteren en influisteren. Waardevol
-    voor callcenters maar ook inzichten voor thuiswerkers.<br><br><br><a href="/telefonie/operator-console/"
+    voor callcenters maar ook inzichten voor thuiswerkers.<br><br><a href="/telefonie/operator-console/"
     class="button">Meer informatie</a>
   title3: 'Wat is dat: Click-to-Dial?'
   content3: |-
     Deze Chrome Extensie maakt het leven een stuk makkelijker. Popups van je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek voor je Yealink. Allemaal standaard, zonder meerprijs!
-    <br><br><a href="/telefonie/clicktodial/" class="button">Meer informatie</a>
+    <br><br><br><br><a href="/telefonie/clicktodial/" class="button">Meer informatie</a>
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
