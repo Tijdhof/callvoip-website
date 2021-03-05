@@ -44,11 +44,9 @@ textblocksfooter:
     of voor een snelle extra werkplek.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
     class="button">Meer informatie</a>
   title3: 'Wat is dat: VoIP CTI?'
-  content3: 'Een VoIP toestel heeft een aantal zaken nodig om te kunnen bellen. In
-    het toestel zelf moeten wat gegevens voor onze centrale maar verder zijn er maar
-    2 dingen nodig: stroom en internet. En dat heeft iedereen thuis ook! Dus gooi
-    dat ding in een tas, en neem hem mee naar huis. Bellen met het gemak van kantoor.  <br><br><a
-    href="/telefonie/functionaliteiten/toestelconfiguratie/" class="button">Meer informatie</a>'
+  content3: |-
+    Koppel nu onze telefonie met jouw CRM systeem. Ontvang notificaties van telefoongesprekken en open meteen de bijpassende pagina in je CRM. Dat kan met onze VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die van jou ertussen zit is groot!
+    <br><br><a href="/telefonie/integratiemetcrm/" class="button">Meer informatie</a>
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
