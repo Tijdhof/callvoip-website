@@ -18,13 +18,13 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: Het leuke aan VoIP telefonie via Callvoip is dat er standaard al erg veel
-    handige dingen voor thuiswerken in ons pakket zitten. We maakten er zelfs <a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/">een
-    lijstje</a> van. Van het meenemen van je toestel naar huis tot een e-mailtje van
-    jouw telefoontjes zodat je makkelijk terug kunt bellen. Doorschakelen naar mobiel
-    is natuurlijk een fluitje van een cent en met slim toepassen van gesproken berichten
-    kun je verwachtingen van bellers perfect managen. <br><br><a href="/nieuws/top-10-thuiswerk-tools-voor-zorgeloos-thuiswerken/"
-    class="button">Bekijk onze Thuiswerk Tools</a>
+- content: "Met je PC heb je sowieso al complete regie over onze centrale. Log in
+    en je regelt alles voor jouw telefonie. Daarbij bieden we standaard een Chrome
+    Extensie (Click-to-Dial) met telefoonboek en notificaties van gesprekken. Koppel
+    je telefoonboek aan jouw Yealink toestel of bel uit met de extensie. Allemaal
+    standaard in onze dienstverlening. Maar dé toevoeging voor de PC is Webcalls:
+    bellen met je browser. \n <br><br><a href=\"/telefonie/webcalls/\" class=\"button\">Meer
+    over Webcalls</a>"
   image: "/v1602514591/pappathuis_e4husn.png"
   zooming: true
   position: image_left
@@ -43,10 +43,10 @@ textblocksfooter:
     Maar er zijn ook trainingsmogelijkheden zoals meeluisteren en influisteren. Waardevol
     voor callcenters maar ook inzichten voor thuiswerkers.<br><br><br><a href="/telefonie/operator-console/"
     class="button">Meer informatie</a>
-  title3: 'Wat is dat: VoIP CTI?'
+  title3: 'Wat is dat: Click-to-Dial?'
   content3: |-
-    Koppel nu onze telefonie met jouw CRM systeem. Ontvang notificaties van telefoongesprekken en open meteen de bijpassende pagina in je CRM. Dat kan met onze VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die van jou ertussen zit is groot!
-    <br><br><a href="/telefonie/integratiemetcrm/" class="button">Meer informatie</a>
+    Deze Chrome Extensie maakt het leven een stuk makkelijker. Popups van je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek voor je Yealink. Allemaal standaard, zonder meerprijs!
+    <br><br><a href="/telefonie/clicktodial/" class="button">Meer informatie</a>
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
