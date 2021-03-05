@@ -50,6 +50,5 @@ textblocksfooter:
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-draft: true
 
 ---
