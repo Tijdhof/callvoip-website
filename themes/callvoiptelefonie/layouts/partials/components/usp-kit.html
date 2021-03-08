@@ -17,7 +17,7 @@
         <div class="bg-white min-h-full w-full py-6 sm:py-8 px-4 sm:px-8 rounded-lg text-grey-dark ">
           <div class="flex-1 pt-2">
             {{ with .title }}
-            <h4 class="text-lg lg:text-2xl font-medium mb-2">{{ . }}</h4>
+            <h4 class="text-lg lg:text-2xl font-medium mb-2">{{ . | markdownify }}</h4>
             {{ end }}
             {{ with .content }}
             <p class="font-medium opacity-75 leading-large lg:text-lg mb-4">{{ . | markdownify }} </p>
