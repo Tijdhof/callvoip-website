@@ -45,17 +45,17 @@ usps:
     je uiteraard!
   items:
   - icon: fa-cloud
-    title: <img style="height:20px;" src="https://res.cloudinary.com/callvoip/image/upload/v1615214233/laptop_snry4c.png" style="float:left;"> Bellen met je computer
+    title: <img style="height:20px; float:left;" src="https://res.cloudinary.com/callvoip/image/upload/v1615214233/laptop_snry4c.png"> Bellen met je computer
     content: Met onze Webcalls kun je op elke computer met internet bellen met jouw
       vaste nummer. Ideaal voor de thuiswerkplek, onderweg of voor die nieuwe collega
       die nog geen toestel heeft.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
       class="button">Lees meer</a>
   - icon: fa-cloud
-    title: <img style="height:20px;" src="https://res.cloudinary.com/callvoip/image/upload/v1615214233/smartphone_rltbua.png" style="float:left;"> Vaste nummer op je mobiel
+    title: <img style="height:20px; float:left;" src="https://res.cloudinary.com/callvoip/image/upload/v1615214233/smartphone_rltbua.png"> Vaste nummer op je mobiel
     content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij elkaar te brengen. Denk aan een app waarmee je doorschakelingen kunt regelen of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
       class="button">Lees meer</a>
   - icon: fa-heartbeat
-    title: <img style="height:20px;" src="https://res.cloudinary.com/callvoip/image/upload/v1615214233/email_jqaheu.png" style="float:left;"> Email notificatie
+    title: <img style="height:20px; float:left;" src="https://res.cloudinary.com/callvoip/image/upload/v1615214233/email_jqaheu.png"> Email notificatie
     content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mailmelding
       in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
       van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
