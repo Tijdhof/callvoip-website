@@ -51,7 +51,7 @@ usps:
       die nog geen toestel heeft. <br><br><a href="/telefonie/functionaliteiten/webcalls/"
       class="button">Lees meer</a>
   - icon: fa-cloud
-    title: Vast nummer op mobiel
+    title: Vaste nummer op je mobiel
     content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij elkaar te brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden? Of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
       class="button">Lees meer</a>
   - icon: fa-heartbeat
