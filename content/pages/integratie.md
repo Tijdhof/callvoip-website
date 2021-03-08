@@ -28,6 +28,17 @@ blocks:
   position: image_left
   title: Onze standaard
   image_position: center
+blocks:
+- content: "Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
+    al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Popups van
+    telefoontjes, een bedrijfstelefoonboek en meer. \nWil je integratie met jouw eigen
+    systeem? Dan komt de CRM Lookup in beeld: de uitbreiding van de Click-to-Dial.
+    Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt."
+  image: "/v1572861318/cti-small2_bvq2lx.png"
+  zooming: true
+  position: image_right
+  title: Onze standaard
+  image_position: center
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
   content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
