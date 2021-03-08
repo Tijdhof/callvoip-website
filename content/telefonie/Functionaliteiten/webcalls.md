@@ -58,11 +58,5 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-menu:
-  main:
-    weight: 5
-    parent: Telefonie
-    pre: Ontdek het gemak op kantoor, thuis en onderweg
-    post: fa-laptop
 
 ---
