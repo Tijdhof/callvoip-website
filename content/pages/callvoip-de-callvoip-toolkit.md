@@ -52,7 +52,7 @@ usps:
       class="button">Lees meer</a>
   - icon: fa-cloud
     title: Vaste nummer op je mobiel
-    content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij elkaar te brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden? Of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
+    content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij elkaar te brengen. Denk aan een app waarmee je doorschakelingen kunt regelen of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
       class="button">Lees meer</a>
   - icon: fa-heartbeat
     title: Email notificatie
