@@ -13,19 +13,19 @@ hero:
     alleen de Teams of Zoom meeting, nee, we hebben het over het gebruik van jouw
     vaste nummer op de PC. Dat kan met namelijk met <a href="/webcalls/">Webcalls</a>.
     Maar ook het <a href-"/telefonie/integratie/">integreren</a> van onze telefonie
-    met jouw CRM is mogelijk. Maak van jouw PC dus ook jouw persoonlijke belcentrale!<br><br><a href=\"/telefonie/webcalls/\" class=\"button\">Meer
+    met jouw CRM is mogelijk. Maak van jouw PC dus ook jouw persoonlijke belcentrale!<br><br><a href="/telefonie/webcalls/" class=\"button\">Meer
     over Webcalls</a>'
   image: "/v1614959368/bellenmetdepc_id2g5t.jpg"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: "Met je PC heb je sowieso al complete regie over onze centrale. Log in
+- content: 'Met je PC heb je sowieso al complete regie over onze centrale. Log in
     en je regelt alles voor jouw telefonie. Daarbij bieden we standaard een Chrome
     Extensie (Click-to-Dial) met telefoonboek en notificaties van gesprekken. Koppel
     je telefoonboek aan jouw Yealink toestel of bel uit met de extensie. Allemaal
     standaard in onze dienstverlening. Maar dé toevoeging voor de <a href="/webcalls/">PC is Webcalls:
-    bellen met je browser.</a>"
+    bellen met je browser.</a>'
   image: "/v1615191642/webcalls_yealink2_vu4ukt.png"
   zooming: true
   position: image_left
