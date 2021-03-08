@@ -84,6 +84,20 @@ usps:
       vaste nummer. Ideaal voor de thuiswerkplek, onderweg of voor die nieuwe collega
       die nog geen toestel heeft. <br><br><a href="/telefonie/functionaliteiten/webcalls/"
       class="button">Lees meer</a>
+  - icon: fa-cloud
+    title: Vast nummer op mobiel
+    content: Als jouw zakelijke telefonieprovider voor het vaste nummer hebben we verschillende manieren om die 2 bij elkaar te brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden? Of zelfs bellen met je vaste nummer op de smartphone. Of Whatsapp op datzelfde vaste nummer? <br><br><a href="/telefonie/vastmobiel/"
+      class="button">Lees meer</a>
+  - icon: fa-cloud
+    title: Integratie
+    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem! <br><br><a href="/telefonie/integratie/"
+      class="button">Lees meer</a>
+  - icon: fa-cloud
+    title: Mis je iets?
+    content: We noemen er 8, maar er zijn meer functionaliteiten natuurlijk. We bellen
+      je om samen jouw eigen centrale in te richten, zodat je een vliegende start
+      kunt maken. Weten wat er nog meer mogelijk is? <br><br><a href="/telefonie/functionaliteiten/"
+      class="button">Check het overzicht</a>
 intro:
   title: Mooi hè?
   content: 'Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat
