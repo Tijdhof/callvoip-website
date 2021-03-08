@@ -48,7 +48,7 @@ usps:
     title: Bellen met je computer
     content: Met onze Webcalls kun je op elke computer met internet bellen met jouw
       vaste nummer. Ideaal voor de thuiswerkplek, onderweg of voor die nieuwe collega
-      die nog geen toestel heeft. <br><br><a href="/telefonie/functionaliteiten/webcalls/"
+      die nog geen toestel heeft.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
       class="button">Lees meer</a>
   - icon: fa-cloud
     title: Vaste nummer op je mobiel
@@ -72,7 +72,7 @@ usps:
     title: Wachtrij
     content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
       is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
-      wachtende bent. Dit zorgt voor effectiviteit op een druk nummer. <br><br><a
+      wachtende bent. Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
       href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-exclamation-circle
     title: Slimme schakelaars
