@@ -28,17 +28,12 @@ blocks:
   position: image_left
   title: Onze standaard
   image_position: center
-blocks:
-- content: "Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
-    al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Popups van
-    telefoontjes, een bedrijfstelefoonboek en meer. \nWil je integratie met jouw eigen
-    systeem? Dan komt de CRM Lookup in beeld: de uitbreiding van de Click-to-Dial.
-    Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt."
-  image: "/v1572861318/cti-small2_bvq2lx.png"
-  zooming: true
-  position: image_right
-  title: Onze standaard
-  image_position: center
+textblocksfooter:
+- title1: 'Customized popups'
+  content1: 'Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid. Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen, zie je met welke collga de beller voor het laatst sprak en wanneer en kun je bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je na een dag niet meer zonder!'
+  title2: ''
+  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup_tgk6ew.png">'
+  show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
   content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
