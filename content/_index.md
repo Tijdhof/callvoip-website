@@ -25,7 +25,7 @@ hero:
   - icon: fa-laptop
     title: <font color="#f78503">Nieuw:</font> bellen met je computer
     content: 'Ontdek het gemak op kantoor, thuis en onderweg'
-    link: webcalls/
+    link: /telefonie/bellenmetpc/
     id: cta-webcalls
     iconimage: ''
 intro:
