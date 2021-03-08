@@ -26,7 +26,7 @@ blocks:
     standaard in onze dienstverlening. Maar dé toevoeging voor de PC is Webcalls:
     bellen met je browser. \n <br><br><a href=\"/telefonie/webcalls/\" class=\"button\">Meer
     over Webcalls</a>"
-  image: "/v1602514591/pappathuis_e4husn.png"
+  image: "/v1615191642/webcalls_yealink2_vu4ukt.png"
   zooming: true
   position: image_left
   title: De standaard
