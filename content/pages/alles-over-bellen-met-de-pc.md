@@ -51,5 +51,11 @@ textblocksfooter:
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
+menu:
+  main:
+    weight: 5
+    parent: Telefonie
+    pre: Ontdek het gemak op kantoor, thuis en onderweg
+    post: fa-laptop
 
 ---
