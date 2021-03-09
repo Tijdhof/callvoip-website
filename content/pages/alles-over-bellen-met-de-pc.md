@@ -24,7 +24,7 @@ blocks:
     en je regelt alles voor jouw telefonie. Daarbij bieden we standaard een Chrome
     Extensie (Click-to-Dial) met telefoonboek en notificaties van gesprekken. Koppel
     je telefoonboek aan jouw Yealink toestel of bel uit met de extensie. Allemaal
-    standaard in onze dienstverlening. Maar dé toevoeging voor de <a href="/webcalls/">PC is Webcalls:
+    standaard in onze dienstverlening. Maar dé toevoeging voor de PC is <a href="/webcalls/">Webcalls:
     bellen met je browser.</a>'
   image: "/v1615191642/webcalls_yealink2_vu4ukt.png"
   zooming: true
