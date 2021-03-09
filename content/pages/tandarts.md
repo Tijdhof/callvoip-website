@@ -20,18 +20,19 @@ blocks:
   position: image_left
   title: Geen stress, de handjes vrij en toch altijd en overal bereikbaar
   image_position: center
-- content: "Altijd bereikbaar zijn is voor jou als tandarts erg belangrijk. Zeker wanneer het druk is en bij spoeddienst. Vaak is het in de ochtenden spitsuur met bellers. Met een handige wachtrij kun je dit kinderlijk eenvoudig doseren. Door tijdscondities te bepalen kun je bijvoorbeeld pauzes inbouwen. Snel zelf een persoonlijk bandje inspreken en deze staat direct online. Dit kunnen wij overigens ook op professionele wijze voor je verzorgen. Heb je spoeddienst, hanteer dan onze spoed-route voor patiënten in nood. Dit stel je op dezelfde manier makkelijk in en is daarmee zonder problemen aangepast."
-  image: "/v1572861318/cti-small2_bvq2lx.png"
-  zooming: true
-  position: image_right
-  title: Geen stress, de handjes vrij en toch altijd en overal bereikbaar
-  image_position: center
 textblocksfooter:
 - title1: 'Sommige dingen wil je toch lekker zelf doen? Ons flexibele systeem biedt;'
   content1: 'Callvoip begrijpt dat jouw tandartspraktijk het beste functioneert als alles precies klopt en werkt zoals jij het wenst. Logische structuur en perfectie zonder verrassingen zijn een pré. Daarom doen wij niet aan keurslijven, waarbij jij gebonden bent aan onze systemen en tools. Ongewenste concessies doen en te afhankelijk zijn willen we allemaal niet toch? Nee, jouw systeem staat voor 95% accuraat op maat ingericht. De resterende 5% biedt juist die ruimte om processen naar wens zelf in te stellen of aan te passen. Denk aan slimme knoppen op je toestel om teksten in of uit te schakelen en met een lampje je status aan te geven. Bandjes zelf kunnen inspreken is wel zo fijn. Deze service en ad hoc-flexibiliteit zijn een wezenlijk onderdeel van ons onderscheidend vermogen. Iets wat voor de klant belangrijk is en niet bij iedere dienstverlenende partij te vinden is.'
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">'
   show_vshape: false
+extracontent:
+- content: "Altijd bereikbaar zijn is voor jou als tandarts erg belangrijk. Zeker wanneer het druk is en bij spoeddienst. Vaak is het in de ochtenden spitsuur met bellers. Met een handige wachtrij kun je dit kinderlijk eenvoudig doseren. Door tijdscondities te bepalen kun je bijvoorbeeld pauzes inbouwen. Snel zelf een persoonlijk bandje inspreken en deze staat direct online. Dit kunnen wij overigens ook op professionele wijze voor je verzorgen. Heb je spoeddienst, hanteer dan onze spoed-route voor patiënten in nood. Dit stel je op dezelfde manier makkelijk in en is daarmee zonder problemen aangepast."
+  image: "/v1572861318/cti-small2_bvq2lx.png"
+  zooming: true
+  position: image_right
+  title: Geen stress, de handjes vrij en toch altijd en overal bereikbaar
+  image_position: center
 textblocks:
 - title1: ' Wachtrijen efficiënt inrichten'
   content1: Een professioneel ingerichte wachtrij voor de opvang van bellers tijdens piekmomenten. Even gemakkelijk in- als uitloggen en voorzien van een duidelijk overzicht en liefst een positiemelding zoals; “u bent de ... wachtende”. Wij kunnen tandartsen tot onze klanten rekenen die juist vanwege onze geavanceerde wachtrij-mogelijkheden voor ons systeem kiezen. Opgave van reden is bijvoorbeeld een vaak wisselend team van parttime werkenden. De flexibiliteit en betrouwbaarheid van ons systeem is dan een waardevolle aanvulling ten aanzien van bedrijfsvoering- en processen. <br><br><a href="/telefonie/functionaliteiten/wachtrij/"
