@@ -26,7 +26,7 @@ textblocksfooter:
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">'
   show_vshape: false
-whitefooter:
+white_footer:
 - title: Test
   content: Test
 textblocks:
