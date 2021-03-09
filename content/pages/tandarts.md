@@ -31,7 +31,7 @@ extracontent:
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_right
-  title: Geen stress, de handjes vrij en toch altijd en overal bereikbaar
+  title: Test blok
   image_position: center
 textblocks:
 - title1: ' Wachtrijen efficiënt inrichten'
