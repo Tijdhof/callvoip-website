@@ -26,9 +26,6 @@ textblocksfooter:
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">'
   show_vshape: false
-white_footer:
-- title: Test
-  content: Test
 textblocks:
 - title1: ' Wachtrijen efficiënt inrichten'
   content1: Een professioneel ingerichte wachtrij voor de opvang van bellers tijdens piekmomenten. Even gemakkelijk in- als uitloggen en voorzien van een duidelijk overzicht en liefst een positiemelding zoals; “u bent de ... wachtende”. Wij kunnen tandartsen tot onze klanten rekenen die juist vanwege onze geavanceerde wachtrij-mogelijkheden voor ons systeem kiezen. Opgave van reden is bijvoorbeeld een vaak wisselend team van parttime werkenden. De flexibiliteit en betrouwbaarheid van ons systeem is dan een waardevolle aanvulling ten aanzien van bedrijfsvoering- en processen. <br><br><a href="/telefonie/functionaliteiten/wachtrij/"
