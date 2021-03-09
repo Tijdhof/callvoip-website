@@ -27,11 +27,11 @@ textblocksfooter:
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">'
   show_vshape: false
 extracontent:
-- content: "Altijd bereikbaar zijn is voor jou als tandarts erg belangrijk. Zeker wanneer het druk is en bij spoeddienst. Vaak is het in de ochtenden spitsuur met bellers. Met een handige wachtrij kun je dit kinderlijk eenvoudig doseren. Door tijdscondities te bepalen kun je bijvoorbeeld pauzes inbouwen. Snel zelf een persoonlijk bandje inspreken en deze staat direct online. Dit kunnen wij overigens ook op professionele wijze voor je verzorgen. Heb je spoeddienst, hanteer dan onze spoed-route voor patiënten in nood. Dit stel je op dezelfde manier makkelijk in en is daarmee zonder problemen aangepast."
+- content: "Vroeger was zakelijke telefonie best saai en statisch. Wist je dat dit tegenwoordig niet meer zo hoeft te zijn? Onze handige integraties kunnen het werkplezier van jullie team zelfs vergroten. Door ze slim te gebruiken bespaar je bovendien veel tijd en ongemak. Kijk vooral even naar onze koppelingen met alle voor jou waarschijnlijk bekende en toonaangevende tandartspakketten;"
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_right
-  title: Test blok
+  title: De slimme tools- en koppelingen van Callvoip maken bellen leuk
   image_position: center
 textblocks:
 - title1: ' Wachtrijen efficiënt inrichten'
