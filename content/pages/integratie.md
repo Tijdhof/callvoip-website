@@ -12,7 +12,8 @@ hero:
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
-    koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!<br><br><a href="/klantworden" class="button">Ook integreren met Callvoip?</a>'
+    koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!<br><br><a
+    href="/klantworden" class="button">Ook integreren met Callvoip?</a>'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
@@ -29,10 +30,15 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocksfooter:
-- title1: 'Customized popups'
-  content1: 'Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid. Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen, zie je met welke collga de beller voor het laatst sprak en wanneer en kun je bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je na een dag niet meer zonder!'
+- title1: Customized popups
+  content1: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
+    Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
+    zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
+    bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
+    naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
+    na een dag niet meer zonder!
   title2: ''
-  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup_tgk6ew.png">'
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup_tgk6ew.png">
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
@@ -59,6 +65,7 @@ menu:
   main:
     weight: 4
     parent: Telefonie
-    pre: 'Van gratis Chrome extensie tot CRM integratie'
+    pre: Van gratis Chrome extensie tot CRM integratie
     post: fa-mouse-pointer
+
 ---
