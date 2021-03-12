@@ -14,7 +14,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<a href="google.com" class="button">"heb ik ook nog wat aanvullende idee:en voor ;-)"</a>'
+- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
