@@ -7,18 +7,18 @@ layout: default2
 logos: false
 url: "/branches/tandarts/"
 hero:
-  title: Zonder te overschreeuwen; dit wil je gewoon als tandarts 
-  content: 'Als tandarts zijn werkdagen strak geregisseerd. Afspraken gestroomlijnd inplannen en de behandeling van patiënten zonder pijntje laten verlopen. Telefoniesystemen en processen dienen daarom efficiënt, servicegericht en zonder fouten te werken. Deze kunnen tenslotte flinke problemen opleveren ten aanzien van; bereikbaarheid, drukke spitsuren of de spoeddienst. Met de slimme tools van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze cloud-oplossing doet de rest. En het fijnste moet nog komen! Er staan heuse betrokken mensen voor je klaar als je ergens hulp of ondersteuning wenst. Of je nou een grote of kleine tandartspraktijk bent, wij zorgen dat telefonie doet wat het moet doen en meer. Jou ontzorgen en dienen.'
+  title: Alles voor tandartsen
+  content: 'Telefonie voor een tandartsenpraktijk vraagt specifieke kennis en toepassingen om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden. Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen van spoeddiensten en handige koppelingen met alle veelvoorkomende CRM systemen voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental ). Dit vind je allemaal bij ons en vele tandartsen gingen je voor.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials van tandartspraktijken</a>'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: "Altijd bereikbaar zijn is voor jou als tandarts erg belangrijk. Zeker wanneer het druk is en bij spoeddienst. Vaak is het in de ochtenden spitsuur met bellers. Met een handige wachtrij kun je dit kinderlijk eenvoudig doseren. Door tijdscondities te bepalen kun je bijvoorbeeld pauzes inbouwen. Snel zelf een persoonlijk bandje inspreken en deze staat direct online. Dit kunnen wij overigens ook op professionele wijze voor je verzorgen. Heb je spoeddienst, hanteer dan onze spoed-route voor patiënten in nood. Dit stel je op dezelfde manier makkelijk in en is daarmee zonder problemen aangepast."
+- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<a href="google.com" class="button">"heb ik ook nog wat aanvullende idee:en voor ;-)"</a>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
-  title: Geen stress, de handjes vrij en toch altijd en overal bereikbaar
+  title: Altijd bereikbaar
   image_position: center
 textblocksfooter:
 - title1: 'Sommige dingen wil je toch lekker zelf doen? Ons flexibele systeem biedt;'
