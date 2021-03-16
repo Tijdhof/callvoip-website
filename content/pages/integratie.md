@@ -40,6 +40,17 @@ textblocksfooter:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup2_ca6tqu.png.png">
   show_vshape: false
+footer:
+- title1: Customized popups2
+  content1: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
+    Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
+    zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
+    bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
+    naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
+    na een dag niet meer zonder!
+  title2: ''
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup2_ca6tqu.png.png">
+  show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
   content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
