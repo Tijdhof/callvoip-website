@@ -24,7 +24,7 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "Als je je dagelijks brood verdient met het aan naadloos laten samenwerken
+    content: "Als je je dagelijks brood verdient met het naadloos laten samenwerken
       van verschillende systemen, dan ligt het natuurlijk wel in de lijn der verwachting
       dat je ook met je partners goed samen kunt werken. Red Cactus maakt dat vooroordeel
       volledig waar. \n\nRed Cactus zorgt ervoor dat ons prachtige telefoniesysteem
@@ -46,7 +46,7 @@ double_content:
       <li>Bekend van: de Bubble, onze koppelingen met jouw CRM. </li>
       <li>Website: <a href="https://redcactus.nl/" target="_blank">www.redcactus.nl</a><br></div>
 
-      <img src="https://res.cloudinary.com/callvoip/image/upload/v1615902470/redCactus-favicon-10_hayscu.png" alt="Red Cactus logo">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1615904546/redCactus-icon_bqdw7l.png" alt="Red Cactus logo">
 textblocks:
 - title2: Waarom wij fan zijn
   content2: "Er zijn meer partijen die systemen aan elkaar kunnen knopen. Wij houden
