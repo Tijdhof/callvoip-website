@@ -1,6 +1,6 @@
 ---
 title: De bubbel uitgelegd
-weight: 8
+weight: 11
 description: ''
 images: []
 pdf: ''
