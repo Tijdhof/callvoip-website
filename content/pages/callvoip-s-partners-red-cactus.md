@@ -39,14 +39,14 @@ double_content:
     title: 'In het kort: AVM GmbH'
     content: |-
       <div class="usp-list"><ul><li>
-      Hoofdkantoor: Berlijn, Duitsland</li>
-      <li>Bestaat sinds: 1986</li>
-      <li>Grootte: > 800 medewerkers</li>
-      <li>Actief in: wereldwijd</li>
-      <li>Bekend van: FRITZ!Box en andere netwerkapparatuur. </li>
-      <li>Website: <a href="https://nl.avm.de/" target="_blank">www.avm.nl</a><br></div>
+      Hoofdkantoor: Goes, Nederland</li>
+      <li>Bestaat sinds: 2020</li>
+      <li>Grootte: > 3 medewerkers</li>
+      <li>Actief in: Nederland</li>
+      <li>Bekend van: Onze koppelingen met jouw CRM. </li>
+      <li>Website: <a href="https://redcactus.nl/" target="_blank">www.redcactus.nl</a><br></div>
 
-      <img src="https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1615902470/redCactus-favicon-10_hayscu.png" alt="Red Cactus logo">
 textblocks:
 - title2: Waarom wij fan zijn
   content2: "Er zijn meer partijen die systemen aan elkaar kunnen knopen. Wij houden
