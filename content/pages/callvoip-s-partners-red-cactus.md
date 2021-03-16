@@ -24,15 +24,15 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "Misschien ken je AVM wel helemaal niet. Dat horen we namelijk wel vaker.
-      Toch is het een grote speler die met name bekend is van de FRITZ!Box modem routers.
-      Maar ze hebben veel meer in hun mars en timmeren ook aan de weg binnen smart
-      home toepassingen, repeaters etc. <br>\n\nDe FRITZ!Box is in tegenstelling tot
-      de naam AVM dus wel bekend bij veel mensen. Er wordt over gezegd dat ze een
-      sterke combinatie zijn van hoge kwaliteit hardware met een super gebruiksvriendelijke
-      interface. En dat vinden wij ook. Daarom maken we graag gebruik van de apparatuur
-      van AVM. En raden we bij bijvoorbeeld onze <a href=\"/internet/overzicht/\">eigen
-      internetverbindingen</a> ook vaak een FRITZ!Box aan als modem-router.  \n"
+    content: "Als je je dagelijks brood verdient met het aan naadloos laten samenwerken
+      van verschillende systemen, dan ligt het natuurlijk wel in de lijn der verwachting
+      dat je ook met je partners goed samen kunt werken. Red Cactus maakt dat vooroordeel
+      volledig waar. \n\nRed Cactus zorgt ervoor dat ons prachtige telefoniesysteem
+      gekoppeld wordt aan jouw eigen CRM systeem. Het resultaat van zo’n koppeling
+      is een erg handige popup ‘bubble’ die helemaal aan jouw eigen smaak is aan te
+      passen. Knop erin voor de klantkaart? Of de laatste notities van de bewuste
+      klant? Of meteen zien wie de vorige persoon is die de beller aan de lijn had?
+      Het kan allemaal. Flexibel en op maat! \n"
   right:
     background: true
     background_color: "#efefef"
