@@ -49,7 +49,7 @@ textblocksfooter2:
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
     na een dag niet meer zonder!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/redcactus/" class="button">Hoe werkt het?</a>
   title1: ''
-  content1: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="400" height="275"></iframe>
+  content1: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="520" height="325"></iframe>
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
