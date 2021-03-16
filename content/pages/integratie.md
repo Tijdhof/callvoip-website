@@ -51,18 +51,6 @@ textblocksfooter2:
   title1: ''
   content1: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="400" height="275"></iframe>
   show_vshape: false
-extracontent:
-- content: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
-    Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
-    zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
-    bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
-    naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
-    na een dag niet meer zonder!
-  image: "/v1601302814/popup2_ca6tqu.png"
-  zooming: true
-  position: image_right
-  title: Customized popups
-  image_position: center
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
   content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
