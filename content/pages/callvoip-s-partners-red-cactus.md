@@ -36,14 +36,14 @@ double_content:
   right:
     background: true
     background_color: "#efefef"
-    title: 'In het kort: AVM GmbH'
+    title: 'In het kort: Red Cactus B.V.'
     content: |-
       <div class="usp-list"><ul><li>
       Hoofdkantoor: Goes, Nederland</li>
       <li>Bestaat sinds: 2020</li>
       <li>Grootte: > 3 medewerkers</li>
       <li>Actief in: Nederland</li>
-      <li>Bekend van: Onze koppelingen met jouw CRM. </li>
+      <li>Bekend van: de Bubble, onze koppelingen met jouw CRM. </li>
       <li>Website: <a href="https://redcactus.nl/" target="_blank">www.redcactus.nl</a><br></div>
 
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1615902470/redCactus-favicon-10_hayscu.png" alt="Red Cactus logo">
