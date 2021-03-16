@@ -8,7 +8,7 @@ hero:
     text: De koppelaars van onze centrale aan jouw systeem
     align: left
   image: "/v1608217126/headeravm_w6rrja.png"
-  title: Callvoip - Partners - AVM - FRITZ!
+  title: Callvoip - Partners - Red Cactus
   disable_image_on_mobile: true
   link: ''
 description: 'Zonder partners waren we niet waar we nu zijn. Daarom zetten we ze graag
