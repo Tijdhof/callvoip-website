@@ -38,7 +38,7 @@ textblocksfooter:
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
     na een dag niet meer zonder!<br><br><a href="#" class="button">Hoe werkt het?</a>
   title2: ''
-  content2: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1"></iframe>
+  content2: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="400"></iframe>
   show_vshape: false
 extracontent:
 - content: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
