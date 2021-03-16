@@ -30,28 +30,16 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocksfooter:
-- title1: Redcactus bubbel
+- title1: Customized popups
   content1: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
     Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
     zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
     bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
-    na een dag niet meer zonder!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/redcactus/" class="button">Hoe werkt het?</a>
-  title2: ''
-  content2: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="600" height="400"></iframe>
-  show_vshape: false
-extracontent:
-- content: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
-    Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
-    zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
-    bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
-    naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
     na een dag niet meer zonder!
-  image: "/v1601302814/popup2_ca6tqu.png"
-  zooming: true
-  position: image_right
-  title: Customized popups
-  image_position: center
+  title2: ''
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615889535/popup2_ca6tqu.png">
+  show_vshape: false
 textblocksfooter2:
 - title2: Redcactus bubbel
   content2: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
@@ -61,7 +49,7 @@ textblocksfooter2:
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
     na een dag niet meer zonder!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/redcactus/" class="button">Hoe werkt het?</a>
   title1: ''
-  content1: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="600" height="400"></iframe>
+  content1: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="400" height="275"></iframe>
   show_vshape: false
 extracontent:
 - content: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
