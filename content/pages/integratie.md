@@ -38,7 +38,7 @@ textblocksfooter:
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
     na een dag niet meer zonder!
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup_tgk6ew.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup2_ca6tqu.png.png">
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
