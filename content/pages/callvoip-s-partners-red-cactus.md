@@ -64,12 +64,9 @@ double_footer:
     content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608215133/quote_eric_z5xprz.png">
   left:
     title: Wat zij over ons zeggen
-    content: "We werken erg prettig samen met AVM. We schakelen graag met de heren
-      en dames in de Nederlandse vestigingen en trekken samen op in acties. Maar we
-      vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken
-      Eric van Uden, Country Manager Nederland en Raymond Teigeler, Key Account Manager.
-      \n\n<a href=\"/interview-avm-eric-van-uden/\">Eric aan het woord</a><br><br>\n<a
-      href=\"/interview-raymond-teigeler-avm/\">Raymond aan het woord</a>"
-draft: true
+    content: |-
+      Dat er sprake is van een koppeling tussen Callvoip en Red Cactus met wederzijds goedvinden moge duidelijk zijn. We zijn erg enthousiast over de toegevoegde waarde die zij voor onze klanten kunnen leveren. Maar we vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken Pietje Puk, Eindbaas van Red Cactus.
+
+      <a href="/interview-avm-eric-van-uden/">Pietje aan het woord</a>
 
 ---
