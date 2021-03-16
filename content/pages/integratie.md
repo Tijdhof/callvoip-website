@@ -30,7 +30,7 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocksfooter:
-- title1: Customized popups
+- title1: Redcactus bubbel
   content1: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
     Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
     zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
@@ -41,15 +41,16 @@ textblocksfooter:
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup2_ca6tqu.png">
   show_vshape: false
 extracontent:
-- content: Vroeger was zakelijke telefonie best saai en statisch. Wist je dat dit
-    tegenwoordig niet meer zo hoeft te zijn? Onze handige integraties kunnen het werkplezier
-    van jullie team zelfs vergroten. Door ze slim te gebruiken bespaar je bovendien
-    veel tijd en ongemak. Kijk vooral even naar onze koppelingen met alle voor jou
-    waarschijnlijk bekende en toonaangevende tandartspakketten;
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+- content: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
+    Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
+    zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
+    bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
+    naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
+    na een dag niet meer zonder!
+  image: "/v1601302814/popup2_ca6tqu.png"
   zooming: true
   position: image_right
-  title: De slimme tools- en koppelingen van Callvoip maken bellen leuk
+  title: Customized popups
   image_position: center
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
