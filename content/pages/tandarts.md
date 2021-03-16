@@ -3,7 +3,7 @@ title: Alles voor tandartsen
 description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome integratie
   tot volledige koppeling met jouw CRM.
 type: page
-layout: kit
+layout: default2
 logos: false
 url: "/branches/tandarts/"
 hero:
@@ -42,69 +42,41 @@ textblocksfooter:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">
   show_vshape: false
-usps:
-  title: De centrale zelf
-  content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
-    er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
-    er een mailtje krijgt, wanneer je überhaupt bereikbaar bent, noem het maar op.
-    We lichten een paar veelgebruikte functionaliteiten eruit. Het kan zijn dat jouw
-    keuzes hierin anders waren. Bij het inrichten van jouw eigen routes helpen we
-    je uiteraard!
-  items:
-  - icon: fa-cloud
-    title: Bellen met je computer
-    content: Met onze Webcalls kun je op elke computer met internet bellen met jouw
-      vaste nummer. Ideaal voor de thuiswerkplek, onderweg of voor die nieuwe collega
-      die nog geen toestel heeft.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
-      class="button">Lees meer</a>
-  - icon: fa-cloud
-    title: Vaste nummer op je mobiel
-    content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij elkaar te brengen. Denk aan een app waarmee je doorschakelingen kunt regelen of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
-      class="button">Lees meer</a>
-  - icon: fa-heartbeat
-    title: Email notificatie
-    content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mailmelding
-      in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
-      van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
-      als je even terug wilt bellen.<br><a href="/telefonie/functionaliteiten/e-mail/"
-      class="button">Lees meer</a>
-  - icon: fa-cog
-    title: Keuzemenu
-    content: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
-      wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel
-      als de rest van onze centrale. Zorg ervoor dat bellers makkelijk bij de juiste
-      persoon belanden. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
-      class="button">Lees meer</a>'
-  - icon: fa-money-bill
-    title: Wachtrij
-    content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
-      is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
-      wachtende bent. Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
-      href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
-  - icon: fa-exclamation-circle
-    title: Slimme schakelaars
-    content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
-      in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
-      Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
-      bureau. Handig!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
-      class="button">Lees meer</a>'
-  - icon: fa-wifi
-    title: Keuze uitgaand nummer
-    content: Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk
-      kunt wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple
-      Caller ID. Switchen kan op je vaste toestel, maar ook met onze app. <br><br><a
-      href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
-      meer</a>
-  - icon: fa-cloud
-    title: Integratie
-    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten.<br><br><a href="/telefonie/integratie/"
-      class="button">Lees meer</a>
-  - icon: fa-cloud
-    title: Mis je iets?
-    content: We noemen er 8, maar er zijn meer functionaliteiten natuurlijk. We bellen
-      je om samen jouw eigen centrale in te richten, zodat je een vliegende start
-      kunt maken. Weten wat er nog meer mogelijk is? <br><br><a href="/telefonie/functionaliteiten/"
-      class="button">Check het overzicht</a>
+extracontent:
+- content: Vroeger was zakelijke telefonie best saai en statisch. Wist je dat dit
+    tegenwoordig niet meer zo hoeft te zijn? Onze handige integraties kunnen het werkplezier
+    van jullie team zelfs vergroten. Door ze slim te gebruiken bespaar je bovendien
+    veel tijd en ongemak. Kijk vooral even naar onze koppelingen met alle voor jou
+    waarschijnlijk bekende en toonaangevende tandartspakketten;
+  image: "/v1572861318/cti-small2_bvq2lx.png"
+  zooming: true
+  position: image_right
+  title: De slimme tools- en koppelingen van Callvoip maken bellen leuk
+  image_position: center
+textblocks:
+- title1: " Wachtrijen efficiënt inrichten"
+  content1: Een professioneel ingerichte wachtrij voor de opvang van bellers tijdens
+    piekmomenten. Even gemakkelijk in- als uitloggen en voorzien van een duidelijk
+    overzicht en liefst een positiemelding zoals; “u bent de ... wachtende”. Wij kunnen
+    tandartsen tot onze klanten rekenen die juist vanwege onze geavanceerde wachtrij-mogelijkheden
+    voor ons systeem kiezen. Opgave van reden is bijvoorbeeld een vaak wisselend team
+    van parttime werkenden. De flexibiliteit en betrouwbaarheid van ons systeem is
+    dan een waardevolle aanvulling ten aanzien van bedrijfsvoering- en processen.
+    <br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Meer informatie</a>
+  title2: Zelf meldteksten inspreken kan bij ons eenvoudig
+  content2: Ken je ze; die standaard meldteksten op voicemails zonder eigen geformuleerde
+    inspreek-optie? Niet handig als je essentiële informatie wilt verschaffen aan
+    de beller, waarmee al veel duidelijk wordt voordat je deze persoon spreekt. Je
+    kunt in ons systeem erg makkelijk zelf meldteksten inspreken, zodat de beller
+    weet of hij/zij het juiste nummer belt en jullie kunnen de belletjes filteren
+    met een keuzemenu bestaande uit verschillende meldteksten.  <br><br><a href="/telefonie/functionaliteiten/meldtekst/
+    " class="button">Meer informatie</a>
+  title3: 'Wat is dat: VoIP CTI?'
+  content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
+    VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
+    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
+    class="button">Meer informatie</a>
+  show_vshape: false
 images: []
 hideinsearch: true
 hideingoogle: true
