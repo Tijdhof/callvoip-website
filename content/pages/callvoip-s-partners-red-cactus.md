@@ -4,8 +4,8 @@ url: "/partners/redcactus/"
 type: page
 hero:
   content:
-    title: 'Callvoip''s Partners: AVM'
-    text: Makers van FRITZ!Box en andere FRITZ! apparatuur
+    title: 'Callvoip''s Partners: Red Cactus'
+    text: De koppelaars van onze centrale aan jouw systeem
     align: left
   image: "/v1608217126/headeravm_w6rrja.png"
   title: Callvoip - Partners - AVM - FRITZ!
