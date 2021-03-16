@@ -24,7 +24,7 @@ blocks:
 double_content:
   left:
     title: ''
-    content: "Als je je dagelijks brood verdient met het naadloos laten samenwerken
+    content: "Als je je dagelijks brood verdient met het aan naadloos laten samenwerken
       van verschillende systemen, dan ligt het natuurlijk wel in de lijn der verwachting
       dat je ook met je partners goed samen kunt werken. Red Cactus maakt dat vooroordeel
       volledig waar. \n\nRed Cactus zorgt ervoor dat ons prachtige telefoniesysteem
