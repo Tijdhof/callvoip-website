@@ -49,12 +49,13 @@ double_content:
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1604916674/AVM-Logo_rgdwvt.png" alt="avm logo">
 textblocks:
 - title2: Waarom wij fan zijn
-  content2: "Een basisvoorwaarde voor VoIP telefonie is stabiel internet. Laat dat
-    nu net zijn wat je krijgt met een FRITZ!Box. Alleen dat is al reden genoeg voor
-    ons om fan te zijn en een FRITZ!Box aan onze klanten aan te bevelen. \n\nMaar
-    AVM biedt veel meer: repeaters, DECT telefoons en Smart Home. Daarom hebben we
-    ook een webshop waar je al dat moois kunt kopen. \n<br><br>\n<a href=\"https://fritzshop.nl/\"
-    class=\"button\" target=\"_blank\">Bezoek onze Fritzshop</a>"
+  content2: "Er zijn meer partijen die systemen aan elkaar kunnen knopen. Wij houden
+    van Red Cactus vanwege zowel hun doordachte werkwijze als ook hun flexibele en
+    snelle manier van schakelen. Ze denken mee hoe we jou als klant de beste oplossing
+    kunnen bieden, en zetten zich in om daar het maximale uit te halen. \n\nDe kans
+    is klein, maar er bestaan nog systemen die Red Cactus niet kan koppelen. Maar
+    dat duurt zelden lang. Met grote snelheid en vaardigheid wordt zo'n koppeling
+    dan vaak alsnog gemaakt. Geen wonder dat wij fan zijn, toch?"
   title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1608047263/fritz_assortiment_v3dgez.png">
 double_footer:
