@@ -36,9 +36,9 @@ textblocksfooter:
     zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
     bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
-    na een dag niet meer zonder!
+    na een dag niet meer zonder!<br><br><a href="#" class="button">Hoe werkt het?</a>
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/popup2_ca6tqu.png">
+  content2: <source src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" type="video/mp4">
   show_vshape: false
 extracontent:
 - content: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
