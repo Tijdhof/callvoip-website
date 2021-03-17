@@ -7,7 +7,7 @@ hero:
     title: 'Callvoip''s Partners: Red Cactus'
     text: De koppelaars van onze centrale aan jouw systeem
     align: left
-  image: "/v1608217126/headeravm_w6rrja.png"
+  image: "/v1615968419/headerpartners_redcactus_o4i491.png"
   title: Callvoip - Partners - Red Cactus
   disable_image_on_mobile: true
   link: ''
