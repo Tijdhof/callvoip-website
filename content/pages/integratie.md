@@ -30,7 +30,7 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocksfooter:
-- title1: Customized popups
+- title1: Customized popups & Redcactus bubbel
   content1: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
     Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
     zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
@@ -38,18 +38,7 @@ textblocksfooter:
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
     na een dag niet meer zonder!
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615889535/popup2_ca6tqu.png">
-  show_vshape: false
-textblocksfooter2:
-- title2: Redcactus bubbel
-  content2: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
-    Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
-    zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
-    bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
-    naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
-    na een dag niet meer zonder!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/redcactus/" class="button">Hoe werkt het?</a>
-  title1: ''
-  content1: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1&" width="520" height="325" volume="0" allowfullscreen></iframe>
+  content2: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1&" width="520" height="325" volume="0" allowfullscreen></iframe>
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
