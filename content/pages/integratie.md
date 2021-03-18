@@ -36,7 +36,7 @@ textblocksfooter:
     zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
     bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
-    na een dag niet meer zonder!
+    na een dag niet meer zonder!<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/redcactus/" class="button">Hoe werkt het?</a>
   title2: ''
   content2: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1&" width="520" height="325" volume="0" allowfullscreen></iframe>
   show_vshape: false
