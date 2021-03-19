@@ -30,7 +30,7 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocksfooter:
-- title1: Customized popups & Redcactus bubbel
+- title1: Customized popups en bubbles
   content1: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
     Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
     zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
