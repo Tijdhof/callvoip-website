@@ -40,6 +40,12 @@ textblocksfooter:
   title2: ''
   content2: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1&" width="520" height="325" volume="0" allowfullscreen></iframe>
   show_vshape: false
+textblocksfooter2:
+- title1: ''
+  content1: ''
+  title2: ''
+  content2: ''
+  show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
   content1: Deze Chrome Extensie maakt het leven al een stuk makkelijker. Popups van
