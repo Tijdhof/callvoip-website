@@ -52,22 +52,15 @@ usps:
     je uiteraard!
   items:
   - icon: fa-cloud
-    title: Bellen met je computer
-    content: Met onze Webcalls kun je op elke computer met internet bellen met jouw
-      vaste nummer. Ideaal voor de thuiswerkplek, onderweg of voor die nieuwe collega
-      die nog geen toestel heeft.<br><br><br><a href="/telefonie/functionaliteiten/webcalls/"
+    title: Integratie
+    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten.<br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
-  - icon: fa-cloud
-    title: Vaste nummer op je mobiel
-    content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij elkaar te brengen. Denk aan een app waarmee je doorschakelingen kunt regelen of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
-      class="button">Lees meer</a>
-  - icon: fa-heartbeat
-    title: Email notificatie
-    content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mailmelding
-      in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
-      van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
-      als je even terug wilt bellen.<br><a href="/telefonie/functionaliteiten/e-mail/"
-      class="button">Lees meer</a>
+  - icon: fa-money-bill
+    title: Wachtrij
+    content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
+      is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
+      wachtende bent. Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
+      href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-cog
     title: Keuzemenu
     content: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
@@ -75,12 +68,6 @@ usps:
       als de rest van onze centrale. Zorg ervoor dat bellers makkelijk bij de juiste
       persoon belanden. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
       class="button">Lees meer</a>'
-  - icon: fa-money-bill
-    title: Wachtrij
-    content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
-      is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
-      wachtende bent. Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
-      href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-exclamation-circle
     title: Slimme schakelaars
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
@@ -88,6 +75,19 @@ usps:
       Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
       bureau. Handig!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
+  - icon: fa-heartbeat
+    title: Email notificatie
+    content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mailmelding
+      in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
+      van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
+      als je even terug wilt bellen.<br><a href="/telefonie/functionaliteiten/e-mail/"
+      class="button">Lees meer</a>
+  - icon: fa-cloud
+    title: Mis je iets?
+    content: We noemen er 8, maar er zijn meer functionaliteiten natuurlijk. We bellen
+      je om samen jouw eigen centrale in te richten, zodat je een vliegende start
+      kunt maken. Weten wat er nog meer mogelijk is? <br><br><a href="/telefonie/functionaliteiten/"
+      class="button">Check het overzicht</a>
 images: []
 hideinsearch: false
 hideingoogle: false
