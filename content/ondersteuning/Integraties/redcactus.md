@@ -9,12 +9,11 @@ Nieuw: true
 Update: false
 
 ---
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-0_yzyyrb.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!<br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-0_yzyyrb.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-1_iugjgi.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!<br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-1_iugjgi.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
-
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-2_y7ngfe.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-2_y7ngfe.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!<br><br><br><br><br><br><br>
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-3_kee8nq.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
 
