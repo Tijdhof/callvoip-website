@@ -42,7 +42,7 @@ textblocksfooter:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">
   show_vshape: false
-usps:
+uspsnoicon:
   title: De centrale zelf
   content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
     er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
