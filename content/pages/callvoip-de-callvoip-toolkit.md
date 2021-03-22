@@ -35,7 +35,7 @@ double_content:
       voor je bureau, in je magazijn. Maar ook een handige headset of netwerkapparatuur.
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
       <center><a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div></center>
-uspsnoicon:
+usps:
   title: De centrale zelf
   content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
     er gebeurt als iemand jouw nummer(s) belt. Bij wie er hoelang iets rinkelt, wie
