@@ -42,44 +42,9 @@ textblocksfooter:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">
   show_vshape: false
-extracontent:
-- content: Vroeger was zakelijke telefonie best saai en statisch. Wist je dat dit
-    tegenwoordig niet meer zo hoeft te zijn? Onze handige integraties kunnen het werkplezier
-    van jullie team zelfs vergroten. Door ze slim te gebruiken bespaar je bovendien
-    veel tijd en ongemak. Kijk vooral even naar onze koppelingen met alle voor jou
-    waarschijnlijk bekende en toonaangevende tandartspakketten;
-  image: "/v1572861318/cti-small2_bvq2lx.png"
-  zooming: true
-  position: image_right
-  title: De slimme tools- en koppelingen van Callvoip maken bellen leuk
-  image_position: center
-textblocks:
-- title1: " Wachtrijen efficiënt inrichten"
-  content1: Een professioneel ingerichte wachtrij voor de opvang van bellers tijdens
-    piekmomenten. Even gemakkelijk in- als uitloggen en voorzien van een duidelijk
-    overzicht en liefst een positiemelding zoals; “u bent de ... wachtende”. Wij kunnen
-    tandartsen tot onze klanten rekenen die juist vanwege onze geavanceerde wachtrij-mogelijkheden
-    voor ons systeem kiezen. Opgave van reden is bijvoorbeeld een vaak wisselend team
-    van parttime werkenden. De flexibiliteit en betrouwbaarheid van ons systeem is
-    dan een waardevolle aanvulling ten aanzien van bedrijfsvoering- en processen.
-    <br><br><a href="/telefonie/functionaliteiten/wachtrij/" class="button">Meer informatie</a>
-  title2: Zelf meldteksten inspreken kan bij ons eenvoudig
-  content2: Ken je ze; die standaard meldteksten op voicemails zonder eigen geformuleerde
-    inspreek-optie? Niet handig als je essentiële informatie wilt verschaffen aan
-    de beller, waarmee al veel duidelijk wordt voordat je deze persoon spreekt. Je
-    kunt in ons systeem erg makkelijk zelf meldteksten inspreken, zodat de beller
-    weet of hij/zij het juiste nummer belt en jullie kunnen de belletjes filteren
-    met een keuzemenu bestaande uit verschillende meldteksten.  <br><br><a href="/telefonie/functionaliteiten/meldtekst/
-    " class="button">Meer informatie</a>
-  title3: 'Wat is dat: VoIP CTI?'
-  content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
-    VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
-    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
-    class="button">Meer informatie</a>
-  show_vshape: false
 images: []
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: true
 
 ---
