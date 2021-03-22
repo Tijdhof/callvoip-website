@@ -9,7 +9,7 @@ Nieuw: true
 Update: false
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-0_yzyyrb.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte 0</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!<br><br><br><br><br><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-0_yzyyrb.jpg" style="float:left padding:5px;" width="398" height="224"><h3>Title ruimte 0</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!<br><br><br><br><br><br><br>
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-1_iugjgi.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte 1</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!<br><br><br><br><br><br><br>
 
