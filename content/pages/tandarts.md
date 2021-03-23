@@ -77,7 +77,7 @@ usps:
     content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je een persoonlijke teint
       aan jouw telefonie. Bovendien komt het professioneel over als je je eigen 'stem' laat horen in alle aspecten
       van de telefoonervaring van jouw patienten. Met onze dienst is het zelf inspreken zo geregeld! 
-      <br><br><a href="/telefonie/functionaliteiten/e-mail/"
+      <br><br><a href="/telefonie/functionaliteiten/meldtekst/"
       class="button">Lees meer</a>
   - icon: fa-cloud
     title: Mis je iets?
