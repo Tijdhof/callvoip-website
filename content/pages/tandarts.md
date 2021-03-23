@@ -60,10 +60,10 @@ usps:
       href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-cog
     title: Keuzemenu
-    content: 'We kennen allemaal wel een keuzemenu: kies 1 voor X, 2 voor Y etc. Hebben
-      wij natuurlijk ook. En het inrichten ervan is al even makkelijk en flexibel
-      als de rest van onze centrale. Zorg ervoor dat bellers makkelijk bij de juiste
-      persoon belanden. <br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
+    content: 'Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.
+      Door het slim inrichten van een keuzemenu zorg je voor een efficiënte en klantvriendelijke 
+      afhandeling van alle inkomende telefoongesprekken. 
+      <br><br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
       class="button">Lees meer</a>'
   - icon: fa-exclamation-circle
     title: Slimme schakelaars
