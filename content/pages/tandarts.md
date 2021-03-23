@@ -70,20 +70,20 @@ usps:
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
       Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
-      bureau. Handig!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
+      bureau. Handig!<br><br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
   - icon: fa-heartbeat
     title: Spreek je eigen teksten in
     content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je een persoonlijke teint
       aan jouw telefonie. Bovendien komt het professioneel over als je je eigen 'stem' laat horen in alle aspecten
       van de telefoonervaring van jouw patienten. Met onze dienst is het zelf inspreken zo geregeld! 
-      <br><a href="/telefonie/functionaliteiten/e-mail/"
+      <br><br><a href="/telefonie/functionaliteiten/e-mail/"
       class="button">Lees meer</a>
   - icon: fa-cloud
     title: Mis je iets?
     content: We noemen er 8, maar er zijn meer functionaliteiten natuurlijk. We bellen
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
-      kunt maken. Weten wat er nog meer mogelijk is? <br><br><a href="/telefonie/functionaliteiten/"
+      kunt maken. Weten wat er nog meer mogelijk is? <br><br><br><br><a href="/telefonie/functionaliteiten/"
       class="button">Check het overzicht</a>
 images: []
 hideinsearch: false
