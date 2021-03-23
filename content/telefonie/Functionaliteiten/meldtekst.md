@@ -12,8 +12,8 @@ hero:
   image_position: center
   disable_image_on_mobile: false
   button:
-    content: Bereken je kosten
-    link: "/calculator"
+    content: Klant worden?
+    link: "/klantworden"
 textblocksfooter:
 - title2: ''
   content2: 'Leer hoe je gemakkelijk meldteksten inspreekt en hoe je deze zelf op de online telefooncentrale kunt plaatsen.<br><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
