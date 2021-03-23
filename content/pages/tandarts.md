@@ -44,9 +44,9 @@ textblocksfooter:
   show_vshape: false
 usps:
   title: Handig voor jou als tandarts
-  content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige voor elke tandartspraktijk.
+  content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken voor elke tandartspraktijk.
     Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken.
-    Meer weten over de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!
+    Meer weten over de vele functionaliteiten? Neem <a href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je er alles over!
   items:
   - icon: fa-cloud
     title: Integratie
