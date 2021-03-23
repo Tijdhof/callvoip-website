@@ -73,11 +73,11 @@ usps:
       bureau. Handig!<br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
   - icon: fa-heartbeat
-    title: Email notificatie
-    content: We krijgen allemaal al veel mail. Maar een slim geplaatste e-mailmelding
-      in jouw belroute kan erg handig zijn. Je ontvangt een korte melding met tijdstip
-      van het telefoontje, het gebelde nummer en het nummer van de beller. Handig
-      als je even terug wilt bellen.<br><a href="/telefonie/functionaliteiten/e-mail/"
+    title: Spreek je eigen teksten in
+    content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je een persoonlijke teint
+      aan jouw telefonie. Bovendien komt het professioneel over als je je eigen 'stem' laat horen in alle aspecten
+      van de telefoonervaring van jouw patienten. Met onze dienst is het zelf inspreken zo geregeld! 
+      <br><a href="/telefonie/functionaliteiten/e-mail/"
       class="button">Lees meer</a>
   - icon: fa-cloud
     title: Mis je iets?
