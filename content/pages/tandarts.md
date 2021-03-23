@@ -50,13 +50,13 @@ usps:
   items:
   - icon: fa-cloud
     title: Integratie
-    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten.<br><br><a href="/telefonie/integratie/"
+    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen als Oase Dental, Excuise en vele anderen.<br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
   - icon: fa-money-bill
     title: Wachtrij
-    content: 'Bel met de Belastingdienst en je krijgt een indruk van wat een wachtrij
-      is: je hangt in de wacht, muziekje erbij, en hoort af en toe dat je de zoveelste
-      wachtende bent. Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
+    content: 'Vang de drukke piekmomenten van bellers gemakkelijk op met onze geavanceerde wachtrij.
+      Bellers worden opgevangen in de wachtrij met muziek en horen steeds hoeveel wachtenden nog voor ze zijn.
+      Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
       href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
   - icon: fa-cog
     title: Keuzemenu
