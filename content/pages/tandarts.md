@@ -26,7 +26,7 @@ blocks:
     rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools
     van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze
     cloud-oplossing en toegewijd support team doet de rest.'
-  image: "/v1572861318/exquise_bepgmy.png"
+  image: "/v1572861318/Group_52x_uzfds9.png"
   zooming: true
   position: image_left
   title: Altijd bereikbaar
