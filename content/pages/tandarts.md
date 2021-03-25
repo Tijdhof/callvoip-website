@@ -40,7 +40,7 @@ textblocksfooter:
     pakket. Alle bekende namen ondersteunen we: Bytegear, Oase Dental, Exquise, Simplex
     en nog veel meer.'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/088_giacj3.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
   show_vshape: false
 usps:
   title: Handig voor jou als tandarts
