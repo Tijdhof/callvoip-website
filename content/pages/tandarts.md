@@ -12,7 +12,7 @@ hero:
     om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden.
     Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen
     van spoeddiensten en handige koppelingen met alle veelvoorkomende CRM systemen
-    voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental ). Dit vind
+    voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental). Dit vind
     je allemaal bij ons en vele tandartsen gingen je voor.<br><br><a href="/testimonials/"
     class="button">Bekijk onze testimonials van tandartspraktijken</a>
   image: "/v1571655384/dentist_w87pke.png"
