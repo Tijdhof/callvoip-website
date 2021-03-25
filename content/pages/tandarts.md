@@ -15,7 +15,7 @@ hero:
     voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental ). Dit vind
     je allemaal bij ons en vele tandartsen gingen je voor.<br><br><a href="/testimonials/"
     class="button">Bekijk onze testimonials van tandartspraktijken</a>
-  image: "/v1571655384/c2d-small2_qpj5cy.png"
+  image: "/v1571655384/dentist_w87pke.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -26,7 +26,7 @@ blocks:
     rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools
     van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze
     cloud-oplossing en toegewijd support team doet de rest.'
-  image: "/v1572861318/cti-small2_bvq2lx.png"
+  image: "/v1572861318/exquise_bepgmy.png"
   zooming: true
   position: image_left
   title: Altijd bereikbaar
