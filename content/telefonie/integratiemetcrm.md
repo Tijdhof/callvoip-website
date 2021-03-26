@@ -11,7 +11,7 @@ hero:
   button:
     content: Bereken je kosten
     link: "/calculator"
-  image: "/v1577105792/cti_new_zkrvij.png"
+  image: "/v1577105792/cti_new_rbk3xf.png"
   image_position: center
   disable_image_on_mobile: false
   mobile: ''
