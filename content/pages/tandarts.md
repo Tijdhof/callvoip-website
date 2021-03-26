@@ -38,7 +38,7 @@ textblocksfooter:
     Met zo’n koppeling verschijnt op de computer van de assistente / praktijkondersteuner
     een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw
     pakket. Alle bekende namen ondersteunen we: Bytegear, Oase Dental, Exquise, Simplex
-    en nog veel meer.'
+    en nog veel meer.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
   show_vshape: false
