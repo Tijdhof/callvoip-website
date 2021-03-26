@@ -65,8 +65,8 @@ double_footer:
   left:
     title: Wat zij over ons zeggen
     content: |-
-      Dat er sprake is van een koppeling tussen Callvoip en Red Cactus met wederzijds goedvinden moge duidelijk zijn. We zijn erg enthousiast over de toegevoegde waarde die zij voor onze klanten kunnen leveren. Maar we vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken Pietje Puk, Eindbaas van Red Cactus.
+      Dat er sprake is van een koppeling tussen Callvoip en Red Cactus met wederzijds goedvinden moge duidelijk zijn. We zijn erg enthousiast over de toegevoegde waarde die zij voor onze klanten kunnen leveren. Maar we vroegen ze ook wat zij eigenlijk van de samenwerking met ons vonden. We spraken Mark Minnaard, mede-eigenaar van Red Cactus.
 
-      <a href="/interview-avm-eric-van-uden/">Pietje aan het woord</a>
+      <a href="/interview-avm-eric-van-uden/">Mark aan het woord</a>
 
 ---
