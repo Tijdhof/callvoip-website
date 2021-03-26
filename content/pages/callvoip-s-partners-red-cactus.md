@@ -61,7 +61,7 @@ textblocks:
 double_footer:
   right:
     title: ''
-    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615969123/quote_redcactus_xb3aqc.png">
+    content: <img src="https://res.cloudinary.com/callvoip/image/upload/v1616760741/quote_redcactus_fd1tw7.png">
   left:
     title: Wat zij over ons zeggen
     content: |-
