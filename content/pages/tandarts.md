@@ -85,18 +85,6 @@ usps:
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
       kunt maken. Weten wat er nog meer mogelijk is? <br><br><br><br><a href="/telefonie/functionaliteiten/"
       class="button">Check het overzicht</a>
-textblocksfooter2:
-- title1: 'test1'
-  content1: ''
-  title2: ''
-  content2: ''
-  show_vshape: false
-footer:
-- title1: 'test2'
-  content1: ''
-  title2: ''
-  content2: ''
-  show_vshape: false
 images: []
 hideinsearch: false
 hideingoogle: false
