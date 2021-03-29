@@ -81,7 +81,7 @@ usps:
       class="button">Lees meer</a>
   - icon: fa-cloud
     title: Mis je iets?
-    content: We noemen er 8, maar er zijn meer functionaliteiten natuurlijk. We bellen
+    content: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
       kunt maken. Weten wat er nog meer mogelijk is? <br><br><br><br><a href="/telefonie/functionaliteiten/"
       class="button">Check het overzicht</a>
