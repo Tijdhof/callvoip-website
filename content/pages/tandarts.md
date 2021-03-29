@@ -87,7 +87,41 @@ usps:
       class="button">Check het overzicht</a>
 bottom:
 - title1: 'test'
-  content1: ''
+  content1: '<div class="bg-grey-lightest rounded-lg shadow">
+          
+          <div class="uppercase px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4">
+            Per gebruiker
+          </div>
+          
+          <div class="px-6 clearfix">
+          
+              
+                <div class="flex justify-between mb-3 clearfix items-end">
+                  
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1"> Eenmalig</span>
+                  
+                  
+                  <span class="text-lg md:text-2xl font-medium opacity-75">€0,-</span>
+                  
+                </div>
+              
+                <div class="flex justify-between mb-3 clearfix items-end">
+                  
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1"> Maandelijks</span>
+                  
+                  
+                  <span class="text-lg md:text-2xl font-medium opacity-75">€0,-</span>
+                  
+                </div>
+              
+              
+            </div>
+            
+            <div class="text-right px-6 text-sm pb-6 italic">
+              Prijzen zijn excl. BTW
+            </div>
+            
+        </div>'
   title2: 'test'
   content2: ''
 images: []
