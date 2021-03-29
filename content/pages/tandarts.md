@@ -163,7 +163,7 @@ bottom:
               Prijzen zijn excl. BTW en per maand
             </div>
             
-        </div>'
+        </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>'
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new_rlbkem.png">'
 images: []
