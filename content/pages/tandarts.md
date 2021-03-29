@@ -164,8 +164,8 @@ bottom:
             </div>
             
         </div>'
-  title2: 'test'
-  content2: ''
+  title2: ''
+  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new_rlbkem.png">'
 images: []
 hideinsearch: false
 hideingoogle: false
