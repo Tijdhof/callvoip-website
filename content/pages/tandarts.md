@@ -165,7 +165,7 @@ bottom:
             
         </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>'
   title2: ''
-  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new_rlbkem.png">'
+  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png">'
 images: []
 hideinsearch: false
 hideingoogle: false
