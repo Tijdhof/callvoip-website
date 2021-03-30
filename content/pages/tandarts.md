@@ -122,7 +122,7 @@ bottom:
                 </div>                
             </div>
             <div class="text-right px-6 text-sm pb-6 italic">
-              Prijzen zijn excl. BTW en per maand
+              Prijzen per maand,  excl. belkosten en excl. BTW
             </div>
         </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>'
   title2: ''
