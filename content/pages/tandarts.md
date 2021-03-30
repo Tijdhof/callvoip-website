@@ -88,81 +88,42 @@ usps:
 bottom:
 - title1: ''
   content1: '<div class="bg-grey-lightest rounded-lg shadow">
-          
           <div class="uppercase px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4">
             Voorbeeld kostenoverzicht
           </div>
-          
           <div class="px-6 clearfix">
-          
-              
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Telefooncentrale</span>
-                  
-                  
                   <span class="text-lg md:text-2xl font-medium opacity-75">€7,50</span>
-                  
                 </div>
-
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Telefoonnummer</span>
-                  
-                  
                   <span class="text-lg md:text-2xl font-medium opacity-75">€2,-</span>
-                  
                 </div>
-
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">3x Toestelaccount</span>
-                  
-                  
                   <span class="text-lg md:text-2xl font-medium opacity-75">€12,-</span>
-                  
                 </div>
-              
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Wachtrij</span>
-                  
-                  
                   <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
-                  
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Keuzemenu</span>
-                  
-                  
                   <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
-                  
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Integratie CRM</span>
-                  
-                  
                   <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
-                  
                 </div>
-
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  
                   <span class="text-base md:text-lg font-medium opacity-75 flex-1">Totaal</span>
-                  
-                  
                   <span class="text-lg md:text-2xl font-medium opacity-75">€34,50</span>
-                  
                 </div>                
-              
             </div>
-            
             <div class="text-right px-6 text-sm pb-6 italic">
               Prijzen zijn excl. BTW en per maand
             </div>
-            
         </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>'
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png">'
