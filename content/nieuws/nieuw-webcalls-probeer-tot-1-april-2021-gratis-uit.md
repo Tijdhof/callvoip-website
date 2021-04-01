@@ -1,6 +1,6 @@
 ---
-title: 'Nieuw: Webcalls, probeer tot 1 april 2021 gratis uit!'
-description: 'Nieuw: Webcalls, probeer tot 1 april 2021 gratis uit!'
+title: 'Nieuw: Webcalls, probeer tot 1 mei 2021 gratis uit!'
+description: 'Nieuw: Webcalls, probeer tot 1 mei 2021 gratis uit!'
 images:
 - "/v1605539914/webcallertje_cwr7l4.png"
 featured: false
@@ -25,7 +25,7 @@ type: ''
 Webcalls, bellen met de computer: we introduceerden het in november. Inmiddels is er een eindeloos aantal gebruikers dat met een willekeurige computer en een headsetje met de rest van de wereld communiceert. Vrijheid blijheid! Ideaal voor thuiswerken, quarantaine, deeltijd, invallen, waarnemen, en noem maar op!   
   
 Heb jij nog níet kennisgemaakt met webcalls?   
-Dan hebben we goed nieuws: **tot 1 april 2021 kun je je Webcalls gratis uitproberen!**  
+Dan hebben we goed nieuws: **tot 1 mei 2021 kun je je Webcalls gratis uitproberen!**  
 Daarna betaal je het normale toesteltarief, t.w. 4 euro per maand.   
 Ervaar dus ook snel het gemak, het overzicht en de kwaliteit hiervan. 
 
@@ -54,6 +54,6 @@ Waar je bij sommige telefoontoestellen echt wel de handleiding nodig hebt om te 
 
 Al met al zijn wij best wel enthousiast over deze nieuwe toevoeging aan ons toch al geweldige product. En dat niet alleen: het kan toch niet anders of jij, als klant, gaat hier ook veel aan hebben!
 
-Ben je benieuwd en wil je eens testen of het wat voor jullie is? Dan hebben we nog meer goed nieuws: Webcalls is namelijk **tot 1 april 2021 gratis, voor niks, kosteloos!** Na de aanbieding zullen de kosten gelijk zijn aan een toestelaccount: € 4,- / maand.
+Ben je benieuwd en wil je eens testen of het wat voor jullie is? Dan hebben we nog meer goed nieuws: Webcalls is namelijk **tot 1 mei 2021 gratis, voor niks, kosteloos!** Na de aanbieding zullen de kosten gelijk zijn aan een toestelaccount: € 4,- / maand.
 
 Wil je Webcalls proberen of zat je er als velen eigenlijk simpelweg op te wachten? Activeer het dan bij de gebruikersinstellingen in onze panel ([klik hier](https://www.callvoip.nl/login/) om in te loggen) of bel/mail/chat ons, we helpen je graag en laten je zien hoe het werkt.
