@@ -92,32 +92,44 @@ bottom:
             Indicatie kostenoverzicht per praktijk per maand
           </div>
           <div class="px-6 clearfix">
-                <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Hosted telefooncentrale in de cloud</span>
+                <div class="flex justify-between clearfix items-end">
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">1x Hosted telefooncentrale in de cloud</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">€7,50</span>
                 </div>
-                <div class="flex justify-between mb-3 clearfix items-end">
+                <div class="flex justify-between clearfix items-end">
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Zelf meldteksten inspreken en plaatsen</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
                 </div>
+                <div class="flex justify-between clearfix items-end">
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Tijdscondities toevoegen en wijzigen</span>
+                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
+                </div>
+                <div class="flex justify-between clearfix items-end">
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Aan-/uitschakelaar met indicatielampje op toestel</span>
+                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
+                </div>
+                <div class="flex justify-between clearfix items-end">
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Afstandsbeniening op de smartphone</span>
+                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
+                </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Telefoonnummer</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">1x Telefoonnummer</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">€2,-</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">3x Toestelaccount</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">3x Gebruikersaccount telefonie (toestel, PC of smartphone)</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">€12,-</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Wachtrij</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">1x Wachtrij</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Keuzemenu</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">1x Keuzemenu</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Integratie CRM</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Exquise, Simplex, Oase, etc. per gebruiker</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
