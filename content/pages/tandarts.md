@@ -108,7 +108,7 @@ bottom:
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Aan-/uitschakelaar met indicatielampje op toestel</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
                 </div>
-                <div class="flex justify-between clearfix items-end">
+                <div class="flex justify-between mb-3 clearfix items-end">
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Afstandsbeniening op de smartphone</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
                 </div>
