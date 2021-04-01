@@ -93,8 +93,10 @@ bottom:
           </div>
           <div class="px-6 clearfix">
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Hosted telefooncentrale in de cloud<br>Zelf meldteksten inspreken en plaatsen</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Hosted telefooncentrale in de cloud</span>
                   <span class="text-lg md:text-2xl font-medium opacity-75">€7,50</span>
+                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Zelf meldteksten inspreken en plaatsen</span>
+                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">Telefoonnummer</span>
