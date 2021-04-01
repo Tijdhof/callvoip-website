@@ -49,42 +49,42 @@ usps:
     Meer weten over de vele functionaliteiten? Neem <a href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je er alles over!
   items:
   - icon: fa-cloud
-    title: Integratie
-    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen als Oase Dental, Excuise en vele anderen.<br><br><a href="/telefonie/integratie/"
-      class="button">Lees meer</a>
+    title: <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1617271177/integratieicon_lho6s1.png" width="60" height="60">Integratie</center>
+    content: <center>Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen als Oase Dental, Excuise en vele anderen.<br><br><a href="/telefonie/integratie/"
+      class="button">Lees meer</a></center>
   - icon: fa-money-bill
-    title: Wachtrij
-    content: 'Vang de drukke piekmomenten van bellers gemakkelijk op met onze geavanceerde wachtrij.
+    title: <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1617271177/integratieicon_lho6s1.png" width="60" height="60">Wachtrij</center>
+    content: '<center>Vang de drukke piekmomenten van bellers gemakkelijk op met onze geavanceerde wachtrij.
       Bellers worden opgevangen in de wachtrij met muziek en horen steeds hoeveel wachtenden nog voor ze zijn.
       Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
-      href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
+      href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a></center>'
   - icon: fa-cog
-    title: Keuzemenu
-    content: 'Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.
+    title: <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1617271177/integratieicon_lho6s1.png" width="60" height="60">Keuzemenu</center>
+    content: '<center>Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.
       Door het slim inrichten van een keuzemenu zorg je voor een efficiënte en klantvriendelijke 
       afhandeling van alle inkomende telefoongesprekken. 
       <br><br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
-      class="button">Lees meer</a>'
+      class="button">Lees meer</a></center>'
   - icon: fa-exclamation-circle
-    title: Slimme schakelaars
-    content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
+    title: <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1617271177/integratieicon_lho6s1.png" width="60" height="60">Slimme schakelaars</center>
+    content: '<center>De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
       Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
       bureau. Handig!<br><br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
-      class="button">Lees meer</a>'
+      class="button">Lees meer</a></center>'
   - icon: fa-heartbeat
-    title: Spreek je eigen teksten in
-    content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je een persoonlijke teint
+    title: <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1617271177/integratieicon_lho6s1.png" width="60" height="60">Spreek je eigen teksten in</center>
+    content: <center>Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je een persoonlijke teint
       aan jouw telefonie. Bovendien komt het professioneel over als je je eigen 'stem' laat horen in alle aspecten
       van de telefoonervaring van jouw patienten. Met onze dienst is het zelf inspreken zo geregeld! 
       <br><br><a href="/telefonie/functionaliteiten/meldtekst/"
-      class="button">Lees meer</a>
+      class="button">Lees meer</a></center>
   - icon: fa-cloud
-    title: Mis je iets?
-    content: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen
+    title: <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1617271177/integratieicon_lho6s1.png" width="60" height="60">Mis je iets?</center>
+    content: <center>We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
       kunt maken. Weten wat er nog meer mogelijk is? <br><br><br><br><a href="/telefonie/functionaliteiten/"
-      class="button">Check het overzicht</a>
+      class="button">Check het overzicht</a></center>
 bottom:
 - title1: ''
   content1: '<div class="bg-grey-lightest rounded-lg shadow">
