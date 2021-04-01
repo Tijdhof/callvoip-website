@@ -48,38 +48,38 @@ usps:
     Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken.
     Meer weten over de vele functionaliteiten? Neem <a href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je er alles over!
   items:
-  - icon: fa-cloud
+  - icon: fa-cog
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen als Oase Dental, Excuise en vele anderen.<br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
-  - icon: fa-money-bill
+  - icon: fa-users
     title: Wachtrij
     content: 'Vang de drukke piekmomenten van bellers gemakkelijk op met onze geavanceerde wachtrij.
       Bellers worden opgevangen in de wachtrij met muziek en horen steeds hoeveel wachtenden nog voor ze zijn.
       Dit zorgt voor effectiviteit op een druk nummer.<br><br><br><a
       href="/telefonie/functionaliteiten/wachtrij/" class="button">Lees meer</a>'
-  - icon: fa-cog
+  - icon: fa-SortNumericDown 
     title: Keuzemenu
     content: 'Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.
       Door het slim inrichten van een keuzemenu zorg je voor een efficiënte en klantvriendelijke 
       afhandeling van alle inkomende telefoongesprekken. 
       <br><br><br><a href="/telefonie/functionaliteiten/keuzemenu-ivr/"
       class="button">Lees meer</a>'
-  - icon: fa-exclamation-circle
+  - icon: fa-toggle-on
     title: Slimme schakelaars
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
       Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
       bureau. Handig!<br><br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
-  - icon: fa-heartbeat
+  - icon: fa-microphone-alt
     title: Spreek je eigen teksten in
     content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je een persoonlijke teint
       aan jouw telefonie. Bovendien komt het professioneel over als je je eigen 'stem' laat horen in alle aspecten
       van de telefoonervaring van jouw patienten. Met onze dienst is het zelf inspreken zo geregeld! 
       <br><br><a href="/telefonie/functionaliteiten/meldtekst/"
       class="button">Lees meer</a>
-  - icon: fa-cloud
+  - icon: fa-comment-dots
     title: Mis je iets?
     content: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
