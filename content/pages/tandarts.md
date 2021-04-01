@@ -25,7 +25,7 @@ blocks:
     online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden
     rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools
     van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze
-    cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1">Lees meer over bereikbaarheid</a>'
+    cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
   image: "/v1572861318/tandartsCRM_u8kddl.png"
   zooming: true
   position: image_left
@@ -33,17 +33,17 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppel jouw eigen praktijksoftware
-  content1: '<div id="1">Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt
+  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt
     aan bijdraagt is het koppelen van jouw praktijksoftware/CRM met onze telefonie.
     Met zo’n koppeling verschijnt op de computer van de assistente / praktijkondersteuner
     een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw
     pakket. Alle bekende namen ondersteunen we: Bytegear, Oase Dental, Exquise, Simplex
-    en nog veel meer.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees meer over integratie</a></div>'
+    en nog veel meer.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
   show_vshape: false
 usps:
-  title: Handig voor jou als tandarts
+  title: <div id="1">Handig voor jou als tandarts</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken voor elke tandartspraktijk.
     Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken.
     Meer weten over de vele functionaliteiten? Neem <a href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je er alles over!
