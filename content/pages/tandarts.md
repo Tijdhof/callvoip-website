@@ -25,7 +25,7 @@ blocks:
     online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden
     rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools
     van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze
-    cloud-oplossing en toegewijd support team doet de rest.'
+    cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1">Lees meer over bereikbaarheid</a>'
   image: "/v1572861318/tandartsCRM_u8kddl.png"
   zooming: true
   position: image_left
@@ -33,12 +33,12 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppel jouw eigen praktijksoftware
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt
+  content1: '<div id="1">Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt
     aan bijdraagt is het koppelen van jouw praktijksoftware/CRM met onze telefonie.
     Met zo’n koppeling verschijnt op de computer van de assistente / praktijkondersteuner
     een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw
     pakket. Alle bekende namen ondersteunen we: Bytegear, Oase Dental, Exquise, Simplex
-    en nog veel meer.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees meer over integratie</a>'
+    en nog veel meer.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees meer over integratie</a></div>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
   show_vshape: false
