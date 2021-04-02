@@ -5,8 +5,8 @@ description: Door samen te werken met slimme partners kunnen we jou als klant me
   Cactus.
 images: []
 featured: false
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: false
 image_uitgelicht: ''
 hero:
@@ -21,7 +21,6 @@ contactpersoon: []
 categories: []
 tags: []
 type: ''
-draft: true
 
 ---
 Bij Callvoip doen wij het niet alleen als het gaat om ons aanbod naar jullie als klant. Naast ons staan samenwerkingspartners met veel kennis, kunde en ervaring. Allemaal essentiële zaken wat betreft ons totale aanbod. Zakelijke telefonie is al lang niet meer enkel bellen via internet. Het is veel meer dan dat. Innoverende technologie gaat zo snel en wij willen jullie als onze klant graag gebruik laten maken van het grootste gemak en efficiency. Daarom benutten wij en onze betrokken partners elkaars expertise zo optimaal mogelijk. Met als collectieve doel om jullie op professionele en daarbij persoonlijke wijze elke dag weer zo goed mogelijk te ondersteunen. Van samenwerken worden we tenslotte allemaal beter.
