@@ -5,7 +5,7 @@ hero:
   image: "/v1561543297/redCactus-icon_bqdw7l.png"
 headless: true
 link: "/partners/redcactus"
-name: Mark Minnaard
+name: Mark Minnaard, Mede-eigenaar Red Cactus
 website: https://redcactus.nl
 hideinsearch: true
 hideingoogle: true
