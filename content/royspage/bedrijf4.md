@@ -2,7 +2,7 @@
 title: Redcactus
 type: roy
 hero:
-  image: "/v1561543297/redCactus-icon_bqdw7l.png"
+  image: "/v1561543297/redcactus_wp4u5c.png"
 headless: true
 link: "/partners/redcactus"
 name: Mark Minnaard, Mede-eigenaar Red Cactus
