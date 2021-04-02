@@ -78,6 +78,6 @@ Mark: _Laat ik het zo zeggen. Wij worden nu veel meer toeleverancier in plaats v
 
 Mark: _Zo, wat een vraag even tussendoor. Maar ik hou er wel een filosofie op na. Ik was voorheen een echte workaholic. Dit breekt je ergens uiteraard een keertje op. Mede daardoor ben ik tot het geloof gekomen. Dat heeft mijn perceptie van het leven en alles daarin dusdanig veranderd. Ik zoek daarom tegenwoordig veel meer de balans in alles. Ik ben ervan overtuigd dat je werkweek in 40 uur moet kunnen passen. Daar ben je zelf verantwoordelijk voor._
 
-**Tenslotte; de naam Red Cactus, hoe zijn jullie tot deze unieke naamgeving gekomen?**
-
-Mark: _Oh dat is niet zo spannend eigenlijk. Het is altijd lastig om een naam  aan een nieuw bedrijf te geven die nog niet bezet is. Dat betekent creatief zoeken en nog eens zoeken. Uiteindelijk heb ik iedereen gevraagd op een vrijdag om de maandag erop allemaal 6 namen te bedenken.<img src="https://res.cloudinary.com/callvoip/image/upload/v1617354337/image_12_vlz4m4.png" style="float:right" width="300" height="200"> Daar rolde deze uit en we vonden hem unaniem de leukste. Het heeft dus verder niet een directe betekenis ten opzichte van wat we doen. Het moet simpelweg toch een beetje hip zijn tegenwoordig._
+**Tenslotte; de naam Red Cactus, hoe zijn jullie tot deze unieke naamgeving gekomen?** 
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1617354337/image_12_vlz4m4.png" style="float:right" width="300" height="200">
+Mark: <u>Oh dat is niet zo spannend eigenlijk. Het is altijd lastig om een naam  aan een nieuw bedrijf te geven die nog niet bezet is. Dat betekent creatief zoeken en nog eens zoeken. Uiteindelijk heb ik iedereen gevraagd op een vrijdag om de maandag erop allemaal 6 namen te bedenken. Daar rolde deze uit en we vonden hem unaniem de leukste. Het heeft dus verder niet een directe betekenis ten opzichte van wat we doen. Het moet simpelweg toch een beetje hip zijn tegenwoordig.</u>
