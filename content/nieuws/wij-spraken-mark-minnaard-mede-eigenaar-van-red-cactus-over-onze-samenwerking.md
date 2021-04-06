@@ -66,7 +66,7 @@ Mark: _Nooit helemaal denk ik, omdat het voor een groot gedeelte te maken heeft 
 
 **Hoe zie jij de toekomst van onze samenwerking?**
 
-Mark: _Als jullie topper Marieke en haar collega’s enthousiast blijven en ons proactief aanbieden naar jullie klanten, dan wordt het een gezamenlijk succes. Wij moeten zorgen dat we relevant blijven aan de achterkant. Wij slikken de pijn als leverancier en dat heeft een grotere uitwerking op de langere termijn._
+Mark: _Als jullie topper Marieke en haar collega’s enthousiast blijven en ons proactief aanbieden naar jullie klanten, dan wordt het een gezamenlijk succes. Wij moeten zorgen dat we relevant blijven aan de achterkant._ 
 
 **Hoe zie jij/jullie de toekomst van communicatie in het algemeen?**
 
