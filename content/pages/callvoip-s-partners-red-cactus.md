@@ -57,7 +57,7 @@ textblocks:
     dat duurt zelden lang. Met grote snelheid en vaardigheid wordt zo'n koppeling
     dan vaak alsnog gemaakt. Geen wonder dat wij fan zijn, toch?"
   title1: ''
-  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615889535/popup2_ca6tqu.png">
+  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1615889535/redcactusbubble_immruh.png">
 double_footer:
   right:
     title: ''
