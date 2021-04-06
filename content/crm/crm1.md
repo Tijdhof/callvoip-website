@@ -13,7 +13,7 @@ tags:
   - "summer"
   - "winter"
 ---
-# CRM optie 1
+# Crm optie 1 {. text-3xl}
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus expedita, doloribus illum laborum maiores aperiam hic natus officiis, sit, quidem impedit ipsam dolorum! Odit quidem fugit, nobis officiis facere soluta.
 
