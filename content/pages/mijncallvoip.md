@@ -40,9 +40,9 @@ usps:
     - title: " Ziggo Zakelijk Internet Pro - PDF"
       link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
     - title: Ziggo Zakelijk Internet - Portal
-      link: https://bestellen.ziggozakelijk.nl/zakelijk_internet/P-540-U7383
+      link: https://www.ziggo.nl/zakelijk/stel-samen
     - title: Ziggo Zakelijk Internet Pro - Portal
-      link: https://bestellen.ziggozakelijk.nl/zakelijk_internet_pro/P-540-U7383
+      link: https://www.ziggo.nl/zakelijk/internet/pro/bestellen
   - title: <div id="wijzigen">Integratie</div>
     items:
     - title: Vast Mobiel (Vamos)
