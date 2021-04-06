@@ -34,7 +34,7 @@ Bij Callvoip doen wij het niet alleen als het gaat om ons aanbod naar jullie als
 
 ### Mark Minnaard - mede-eigenaar Red Cactus; even voorstellen..
 
-Mark Minnaard is een creatieve, intelligente innovator binnen de telecombranche. Hij denkt en wandelt graag buiten de gebaande paden, altijd op zoek naar nieuwe constructieve samenwerkingen. Zijn doel is om digitale communicatieprocessen onuitputtelijk te optimaliseren voor iedereen; van aanbieders tot en met de eindgebruikers. Het waren Mark en zijn kompaan Pieter blok die vorig jaar namens Conniption ‘Eigennummer.nl’ verkochten aan het Groningse Voys. Een succesvolle zet voor beide partijen, maar geen reden om achterover te gaan zitten leunen.
+Mark Minnaard is een creatieve, intelligente innovator binnen de telecombranche. Hij denkt en wandelt graag buiten de gebaande paden, altijd op zoek naar nieuwe constructieve samenwerkingen. Zijn doel is om digitale communicatieprocessen onuitputtelijk te optimaliseren voor iedereen; van aanbieders tot en met de eindgebruikers. Het waren Mark en zijn kompaan Pieter Blok die vorig jaar namens Conniption ‘Eigennummer.nl’ verkochten aan het Groningse Voys. Een succesvolle zet voor beide partijen, maar geen reden om achterover te gaan zitten leunen.
 
 Sterker nog; Mark heeft samen met 3 andere innoverende ondernemers Red Cactus gelanceerd. Dit softwaredevelopment-bedrijf ontstond feitelijk uit ergernis. Een ‘state of mind’ die binnen de snel veranderende wereld van de ICT vaker voor baanbrekende nieuwe technologie en concepten zorgt. Maar hoe goed software ook is, de mensen erachter staan nog altijd centraal als het gaat om daadwerkelijk succesvol zijn. Wij wilden Mark zijn scherpzinnige en kritische geest eens van binnen bekijken.
 
@@ -78,6 +78,6 @@ Mark: _Laat ik het zo zeggen. Wij worden nu veel meer toeleverancier in plaats v
 
 Mark: _Zo, wat een vraag even tussendoor. Maar ik hou er wel een filosofie op na. Ik was voorheen een echte workaholic. Dit breekt je ergens uiteraard een keertje op. Mede daardoor ben ik tot het geloof gekomen. Dat heeft mijn perceptie van het leven en alles daarin dusdanig veranderd. Ik zoek daarom tegenwoordig veel meer de balans in alles. Ik ben ervan overtuigd dat je werkweek in 40 uur moet kunnen passen. Daar ben je zelf verantwoordelijk voor._
 
-**Tenslotte; de naam Red Cactus, hoe zijn jullie tot deze unieke naamgeving gekomen?** 
+**Tenslotte; de naam Red Cactus, hoe zijn jullie tot deze unieke naamgeving gekomen?**
 <br><br><img src="https://res.cloudinary.com/callvoip/image/upload/v1617354337/image_12_vlz4m4.png" style="float:right" width="300" height="200">
 Mark: <i>Oh dat is niet zo spannend eigenlijk. Het is altijd lastig om een naam  aan een nieuw bedrijf te geven die nog niet bezet is. Dat betekent creatief zoeken en nog eens zoeken. Uiteindelijk heb ik iedereen gevraagd op een vrijdag om de maandag erop allemaal 6 namen te bedenken. Daar rolde deze uit en we vonden hem unaniem de leukste. Het heeft dus verder niet een directe betekenis ten opzichte van wat we doen. Het moet simpelweg toch een beetje hip zijn tegenwoordig.</i>
