@@ -61,6 +61,7 @@
           {{ end -}}
         </div>
         <div class="lg:p-12 md:w-2/3">
+          <h3 class="text-3xl mb-2">{{.Title}}</h3>
           <div class="text-lg lg:text-xl xl:text-l mb-6 space-y-4">{{ $item.Content }}</div>
           {{ with $item.Params.link }}
           <a href="{{ .url }}" class="button md:text-lg">{{.text}}</a>
