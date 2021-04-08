@@ -35,7 +35,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akko
 
 {{< form/fieldset "Aanvraag meldtekst inspreken" >}}
 
-{{< form/textarea "Eventuele wensen (datum, bijzonderheden uistraak, overige voorkeuren)" >}}
+{{< form/textarea "Eventuele wensen (datum meldtekst actief, bijzonderheden uitspraak, overige voorkeuren)" >}}
 
 
 {{< form/textarea "Gewenste meldtekst" required >}}
