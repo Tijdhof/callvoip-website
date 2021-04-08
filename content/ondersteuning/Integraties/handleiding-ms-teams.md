@@ -26,3 +26,6 @@ pdf: 'http://files.callvoip.nl/downloads/Callvoip_handleiding_MS-Teams-koppeling
 •	De Realtime API en de Operator Console werken alleen voor inkomende / uitgaande oproepen, interne oproepen in MS Teams worden niet weergegeven<br>
 •	Het Persoonlijke belplan van een gebruiker werkt alleen voor inkomende oproepen, niet voor interne MS Teams gesprekken<br>
 •	De BLF functie bij interne gesprekken tussen de Callvoip centrale en MS Teams werkt niet - MS Teams geeft nog geen status terug. Binnen MS Teams is de status uiteraard wel te zien en bij externe gesprekken binnen Callvoip ook.
+<br><br>
+<h3>Licentie informatie</h3>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1617870874/msteams_ver4uq.jpg">
