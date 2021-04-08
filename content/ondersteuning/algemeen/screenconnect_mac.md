@@ -9,7 +9,8 @@ hideinsearch: true
 hideingoogle: true
 Nieuw: false
 Update: false
-pdf: 'http://files.callvoip.nl/Callvoip_handleiding_Connectwise-op-Apple_Mac.pdf'
+pdf: 'http://files.callvoip.nl/downloads/Callvoip_handleiding_Connectwise-op-Apple_Mac.pdf'
 hidesocialshare: false
 
 ---
+<a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Connectwise-op-Apple_Mac.pdf" class="button">Download de PDF</a>
