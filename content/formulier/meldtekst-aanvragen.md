@@ -3,9 +3,9 @@ title: Nieuwe meldtekst op maat aanvragen
 url: "/aanvragen/meldtekst/"
 
 ---
-Vraag hieronder eenvoudig een of meer nieuwe meldteksten aan. De teksten worden door ons ingesproken en verwerkt in de belroute.<br>
-De kosten voor een compleet verwerkte nieuwe meldtekst op maat bedragen €20,- voor het inspreken en €  22,50 voor het nabewerken en integreren in de belroute. Voor € 42,50 heb je een complete, all-in eigen meldtekst.<br><br>
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akkoord per mail naar ons ter bevestiging van je aanvraag. We zullen dan nog per e-mail bevestigen wat we gaan inspreken en wat de kosten zijn
+Vraag hieronder eenvoudig een of meer nieuwe meldteksten aan. De teksten worden door ons ingesproken en verwerkt in de belroute.<br><br>
+De kosten voor een compleet verwerkte nieuwe meldtekst op maat bedragen €20,- voor het inspreken en €  22,50 voor het nabewerken en integreren in de belroute.<br>Voor € 42,50 heb je een complete, all-in eigen meldtekst.<br><br>
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akkoord per mail naar ons ter bevestiging van je aanvraag. We zullen dan nog per e-mail bevestigen wat we gaan inspreken en wat de kosten zijn.
 
 {{< form "aanvragen-meldtekst" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -33,7 +33,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akko
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag Meldtekst inspreken" >}}
+{{< form/fieldset "Aanvraag meldtekst inspreken" >}}
 
 {{< form/input "Eventuele wensen" >}}
 
