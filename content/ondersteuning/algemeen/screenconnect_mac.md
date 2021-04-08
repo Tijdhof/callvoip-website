@@ -1,6 +1,6 @@
 ---
 title: Screenconnect via MAC handleiding
-weight: 6
+weight: 10
 onderdelen:
 - Algemeen
 description: ''
