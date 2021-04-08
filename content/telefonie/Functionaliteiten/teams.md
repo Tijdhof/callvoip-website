@@ -8,6 +8,7 @@ layout: default
 logos: true
 aliases:
 - "/msteams"
+- "/teams"
 - "/telefonie/functionaliteiten/msteams/"
 hero:
   title: Koppel Callvoip met Microsoft Teams
