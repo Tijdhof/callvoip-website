@@ -97,20 +97,20 @@ bottom:
                   <span class="text-lg md:text-2xl font-medium opacity-75">€7,50</span>
                 </div>
                 <div class="flex justify-between clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Zelf meldteksten inspreken en plaatsen</span>
-                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
+                  <span class="text-base md:text font-medium opacity-50 flex-1" style="margin-left:20px">- Zelf meldteksten inspreken en plaatsen</span>
+                  <span class="text-lg md:text font-medium opacity-75">Inclusief</span>
                 </div>
                 <div class="flex justify-between clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Tijdscondities toevoegen en wijzigen</span>
-                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
+                  <span class="text-base md:text font-medium opacity-50 flex-1" style="margin-left:20px">- Tijdscondities toevoegen en wijzigen</span>
+                  <span class="text-lg md:text font-medium opacity-75">Inclusief</span>
                 </div>
                 <div class="flex justify-between clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Aan-/uitschakelaar met indicatielampje op toestel</span>
-                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
+                  <span class="text-base md:text font-medium opacity-50 flex-1" style="margin-left:20px">- Aan-/uitschakelaar met indicatielampje op toestel</span>
+                  <span class="text-lg md:text font-medium opacity-75">Inclusief</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
-                  <span class="text-base md:text-lg font-medium opacity-50 flex-1">Afstandsbeniening op de smartphone</span>
-                  <span class="text-lg md:text-2xl font-medium opacity-75">Inclusief</span>
+                  <span class="text-base md:text font-medium opacity-50 flex-1" style="margin-left:20px">- Afstandsbeniening op de smartphone</span>
+                  <span class="text-lg md:text font-medium opacity-75">Inclusief</span>
                 </div>
                 <div class="flex justify-between mb-3 clearfix items-end">
                   <span class="text-base md:text-lg font-medium opacity-50 flex-1">1x Telefoonnummer</span>
