@@ -1,5 +1,5 @@
 ---
-title: Nieuwe meldtekst op maat aanvragen
+title: Opdracht inspreken en plaatsen meldtekst
 url: "/aanvragen/meldtekst/"
 
 ---
@@ -35,7 +35,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply met akko
 
 {{< form/fieldset "Aanvraag meldtekst inspreken" >}}
 
-{{< form/input "Eventuele wensen" >}}
+{{< form/textarea "Eventuele wensen (datum, bijzonderheden uistraak, overige voorkeuren)" >}}
 
 
 {{< form/textarea "Gewenste meldtekst" required >}}
