@@ -59,6 +59,8 @@ usps:
       link: "/aanvragen/ms-teams/"
   - title: Overig
     items:
+    - title: Opdracht inspreken meldtekst
+      link: "/aanvragen/meldtekst/"
     - title: Belbundel
       link: "/aanvragen/belbundel/"
     - title: ServicePlus
@@ -71,8 +73,6 @@ usps:
       link: "/aanvragen/yealink-meeting/"
     - title: Yealink Meeting Abonnement
       link: "/aanvragen/yealink-meeting-2/"
-    - title: Meldteksten
-      link: "/aanvragen/meldtekst/"
 - title: Wijzigen
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
     Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
