@@ -61,7 +61,7 @@ Nog zo’n apparaat wat zich ten volle laaft met al dat internet is natuurlijk d
 
 > **Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Kies Webcalls!**
 
-Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Dan zit er niks anders op dan Callvoip klant worden of, als je dat al bent, je pakket uit te breiden. Want dan heb je Webcalls! Gewoon in je favoriete browser. Headset aansluiten, inloggen en je bent klaar om te bellen met al je vaste, zakelijke nummers. Als je gebeld wordt krijg je een melding met geluid en popup. Heel simpel en geschikt voor alle PCs/Laptops.
+Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Dan zit er niks anders op dan Callvoip klant worden of, als je dat al bent, je pakket uit te breiden. Want dan heb je [Webcalls](https://www.callvoip.nl/telefonie/bellenmetpc/)! Gewoon in je favoriete browser. Headset aansluiten, inloggen en je bent klaar om te bellen met al je vaste, zakelijke nummers. Als je gebeld wordt krijg je een melding met geluid en popup. Heel simpel en geschikt voor alle PCs/Laptops.
 
 ### Zelf kiezen hoe je bereikbaar bent
 
@@ -72,7 +72,7 @@ Nu we toch stoer aan het doen zijn over de flexibiliteit waarmee je bij ons bere
 * Browser
 * Sim kaart
 
-Kies dus gemakkelijk waar al jouw gesprekken binnenkomen, dit kan als je inlogt in onze cloud centrale, of via de app (Qaller). Je kunt er 1 of meerdere kiezen. En ja: een sim kaart is meestal alleen voor mobiele nummers, maar onze abonnementen met eigen sim kaart (Vamos) kunnen een paar extra kunstjes, zoals rinkelen als je vaste nummer gebeld wordt. Daarover in een volgende blog meer.
+Kies dus gemakkelijk waar al jouw gesprekken binnenkomen, dit kan als je inlogt in onze cloud centrale, of via de app ([Qaller](https://www.callvoip.nl/telefonie/qaller/)). Je kunt er 1 of meerdere kiezen. En ja: een sim kaart is meestal alleen voor mobiele nummers, maar onze abonnementen met eigen sim kaart ([Vamos](https://www.callvoip.nl/telefonie/functionaliteiten/vamos/)) kunnen een paar extra kunstjes, zoals rinkelen als je vaste nummer gebeld wordt. Daarover in een volgende blog meer.
 
 ### Meer weten?
 
