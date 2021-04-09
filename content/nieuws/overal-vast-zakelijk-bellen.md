@@ -57,6 +57,8 @@ Wat kun je er vervolgens mee? Simpel: bellen! Maar dan wel met je vaste nummer (
 
 Nog zo’n apparaat wat zich ten volle laaft met al dat internet is natuurlijk de laptop of PC. Bellen met een laptop/pc kan op verschillende manieren. Er bestaan zogenaamde softphones. Programma’s die je installeert die vervolgens doen alsof ze een vast toestel zijn en verbinden met de cloud telefoniedienst. Verder kun je natuurlijk via de verschillende vergaderplatformen als Teams, Zoom en Google Meet praten met wie dan ook in de wereld, al dan niet met beeld. Maar daarvoor gebruik je geen telefoonnummer.
 
+> **Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Webcalls!**
+
 Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Dan zit er niks anders op dan Callvoip klant worden of, als je dat al bent, je pakket uit te breiden. Want dan heb je Webcalls! Gewoon in je favoriete browser. Headset aansluiten, inloggen en je bent klaar om te bellen met al je vaste, zakelijke nummers. Als je gebeld wordt krijg je een melding met geluid en popup. Heel simpel en geschikt voor alle PCs/Laptops.
 
 ### Zelf kiezen hoe je bereikbaar bent
