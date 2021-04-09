@@ -26,15 +26,14 @@ tags: []
 
 Bellen kan overal, de mobiel geeft ons veel vrijheid. Maar wat als je met een vast, zakelijk nummer wil bellen? Zit je dan meteen vast aan je bureau op kantoor?
 
-Gelukkig is ook die tijd voorbij. In deze blog laten we zien dat jouw vaste, zakelijke nummer net zo flexibel kan zijn als de mobiel, misschien nog wel iets veelzijdiger:
+Gelukkig is ook die tijd voorbij. In deze blog laten we zien dat jouw vaste, zakelijke nummer net zo flexibel kan zijn als de mobiel, misschien nog wel iets **veelzijdiger**:
 
 * Bel ermee met je vaste toestel
 * Bel ermee met een app
 * Bel ermee in je browser op elke PC/laptop
 * Bel ermee met een sim kaart
-* Schakel ‘m door met 1 druk op de knop.
 
-Kortom: voor flexibel bellen, onafhankelijk van je locatie, zijn heus meerdere oplossingen.
+Kortom: voor flexibel bellen, onafhankelijk van je locatie, zijn heus meerdere oplossingen dan een mobiel nummer.
 
 ### Altijd online
 
@@ -60,7 +59,7 @@ Wat kun je er vervolgens mee? Simpel: bellen! Maar dan wel met je vaste nummer (
 
 Nog zo’n apparaat wat zich ten volle laaft met al dat internet is natuurlijk de laptop of PC. Bellen met een laptop/pc kan op verschillende manieren. Er bestaan zogenaamde softphones. Programma’s die je installeert die vervolgens doen alsof ze een vast toestel zijn en verbinden met de cloud telefoniedienst. Verder kun je natuurlijk via de verschillende vergaderplatformen als Teams, Zoom en Google Meet praten met wie dan ook in de wereld, al dan niet met beeld. Maar daarvoor gebruik je geen telefoonnummer.
 
-> **Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Webcalls!**
+> **Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Kies Webcalls!**
 
 Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Dan zit er niks anders op dan Callvoip klant worden of, als je dat al bent, je pakket uit te breiden. Want dan heb je Webcalls! Gewoon in je favoriete browser. Headset aansluiten, inloggen en je bent klaar om te bellen met al je vaste, zakelijke nummers. Als je gebeld wordt krijg je een melding met geluid en popup. Heel simpel en geschikt voor alle PCs/Laptops.
 
