@@ -68,7 +68,7 @@ blocks:
         url: /telefonie/internationale-nummers/
       - title: DSL internet
         url: /internet/dsl/
-    content: <p class="mb-4"><br><b>Callvoip introductie</b><br><a href="/tour/">Onze tour</a><br><a href="httpsL//files.callvoip.nl" target="_blank">Live demo</a><br><a href="/toolkit/">Callvoip toolkit</a><br><a href="/klantworden/">Klant worden?</a></p>
+    content: <p class="mb-4"><br><b>Callvoip introductie</b><br><a href="/tour/">Onze tour</a><br><a href="https//files.callvoip.nl" target="_blank">Live demo</a><br><a href="/toolkit/">Callvoip toolkit</a><br><a href="/klantworden/">Klant worden?</a></p>
   - title: Kenniscentrum
     links:
       - title: Status
