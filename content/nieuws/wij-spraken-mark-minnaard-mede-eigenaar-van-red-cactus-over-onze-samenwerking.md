@@ -16,7 +16,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2021-04-05T22:00:00+00:00
 url: interview-mark-minnaard-redcactus/
 contactpersoon: []
 categories: []
