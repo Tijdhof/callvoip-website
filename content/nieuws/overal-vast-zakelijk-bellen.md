@@ -2,7 +2,8 @@
 title: 'Overal vast, zakelijk bellen '
 description: Flexibel en overal bereikbaar zijn op jouw vaste, zakelijke nummer? Dat
   kan bij ons!
-images: []
+images:
+- "/v1617959961/overalbellen_le6waj.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -21,6 +22,8 @@ categories: []
 tags: []
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1617959961/overalbellen_le6waj.png)
+
 Bellen kan overal, de mobiel geeft ons veel vrijheid. Maar wat als je met een vast, zakelijk nummer wil bellen? Zit je dan meteen vast aan je bureau op kantoor?
 
 Gelukkig is ook die tijd voorbij. In deze blog laten we zien dat jouw vaste, zakelijke nummer net zo flexibel kan zijn als de mobiel, misschien nog wel iets veelzijdiger:
