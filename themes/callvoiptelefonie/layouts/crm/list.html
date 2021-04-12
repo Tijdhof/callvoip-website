@@ -49,7 +49,7 @@
     <div style="width: 2600px" class="mx-auto">
       {{ $pageVar := . }}
       {{ $cloudinary := .Site.Params.cloudinary_base_url }}
-      {{ $paginator := .Paginate .Pages 6 }}
+      {{ $paginator := .Paginate .Pages 60 }}
       {{ range $i, $item := $paginator.Pages -}}
       {{ $title := .Title }}
       <div
