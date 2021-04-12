@@ -13,7 +13,7 @@ hero:
     alleen de Teams of Zoom meeting, nee, we hebben het over het gebruik van jouw
     vaste nummer op de PC. Dat kan met namelijk met <a href="/webcalls/">Webcalls</a>.
     Maar ook het <a href-"/telefonie/integratie/">integreren</a> van onze telefonie
-    met jouw CRM is mogelijk. Maak van jouw PC dus ook jouw persoonlijke belcentrale!<br><br><a href="/telefonie/webcalls/" class="button">Meer
+    met jouw CRM is mogelijk. Maak van jouw PC dus ook jouw persoonlijke belcentrale!<br><br><a href="/webcalls/" class="button">Meer
     over Webcalls</a>'
   image: "/v1614959368/bellenmetdepc_id2g5t.jpg"
   zooming: true
