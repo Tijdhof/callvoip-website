@@ -68,7 +68,7 @@ blocks:
         url: /telefonie/internationale-nummers/
       - title: DSL internet
         url: /internet/dsl/
-    content: <p class="mb-4"><br><h5 class="text-lg text-grey-dark font-medium mb-2">Callvoip introductie</h5><li class="mb-1"><a href="/tour/" class="text-grey-dark font-medium text-sm hover:text-blue">Onze tour</a></li><li class="mb-1"><a href="https://files.callvoip.nl" target="_blank" class="text-grey-dark font-medium text-sm hover:text-blue">Live demo</a></li><li class="mb-1"><a href="/toolkit/" class="text-grey-dark font-medium text-sm hover:text-blue">Callvoip toolkit</a></li><li class="mb-1"><a href="/klantworden/" class="text-grey-dark font-medium text-sm hover:text-blue">Klant worden?</a></li></p>
+    content: <p class="mb-4"><br><h5 class="text-lg text-grey-dark font-medium mb-2">Callvoip introductie</h5><ul><li class="mb-1"><a href="/tour/" class="text-grey-dark font-medium text-sm hover:text-blue">Onze tour</a></li><li class="mb-1"><a href="https://files.callvoip.nl" target="_blank" class="text-grey-dark font-medium text-sm hover:text-blue">Live demo</a></li><li class="mb-1"><a href="/toolkit/" class="text-grey-dark font-medium text-sm hover:text-blue">Callvoip toolkit</a></li><li class="mb-1"><a href="/klantworden/" class="text-grey-dark font-medium text-sm hover:text-blue">Klant worden?</a></li></ul></p>
   - title: Kenniscentrum
     links:
       - title: Status
