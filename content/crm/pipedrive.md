@@ -10,4 +10,6 @@ tags:
   - "Sales"
   - "CustomerService"
   - "Marketing"
+  - "Relatiebeheer"
+  - "Klantcontact"
 ---
