@@ -64,7 +64,7 @@ Nog zo’n apparaat wat zich ten volle laaft met al dat internet is natuurlijk d
 Geen zin in softphone installaties waarbij je drivers, SIP gegevens en serveradressen moet configureren? Dan zit er niks anders op dan Callvoip klant worden of, als je dat al bent, je pakket uit te breiden. Want dan heb je [Webcalls](https://www.callvoip.nl/telefonie/bellenmetpc/)! Gewoon in je favoriete browser. Headset aansluiten, inloggen en je bent klaar om te bellen met al je vaste, zakelijke nummers. Als je gebeld wordt krijg je een melding met geluid en popup. Heel simpel en geschikt voor alle PCs/Laptops.
 
 ### Zelf kiezen hoe je bereikbaar bent
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1618214201/bereikbaarheid_lhwm13.png" style="float:right" height="420" width="478">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1618214201/bereikbaarheid_lhwm13.png" style="float:right" height="357" width="406">
 Nu we toch stoer aan het doen zijn over de flexibiliteit waarmee je bij ons bereikbaar bent op je vaste nummer: wist je dat je met één druk op de knop bij ons kunt kiezen hoe je bereikbaar bent op je vaste, zakelijke nummer? Er zijn 4 opties:
 
 * Vast toestel
