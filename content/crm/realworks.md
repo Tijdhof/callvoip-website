@@ -1,6 +1,6 @@
 ---
 title: Realworks
-logo: "/Realworks-403x153px_wvrw72.png"
+logo: "/TSD-logo-kleur_nqtxk1.svg"
 link:
   url: "#"
   text: "Meer informatie"
