@@ -9,4 +9,6 @@ tags:
   - "Workflow"
   - "Planning"
   - "Projecten"
+  - "Relatiebeheer"
+  - "Klantcontact"
 ---
