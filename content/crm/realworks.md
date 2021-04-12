@@ -1,11 +1,11 @@
 ---
-title: Realworks
-logo: "/Realworks-403x153px_wvrw72.png"
+title: AFAS Profit CRM
+logo: "/logo-afas-software_vh2j1y.png"
 link:
   url: "#"
   text: "Meer informatie"
 tags:
-  - "Makelaar"
-  - "PropertyManagement"
-  - "Realworks"
+  - "AFAS"
+  - "Relatiebeheer"
+  - "Klantcontact"
 ---
