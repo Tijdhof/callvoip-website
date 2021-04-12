@@ -6,6 +6,6 @@ link:
   text: "Meer informatie"
 tags:
   - "Makelaar"
-  - "Property Management"
+  - "PropertyManagement"
   - "Realworks"
 ---
