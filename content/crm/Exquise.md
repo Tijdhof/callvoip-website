@@ -5,7 +5,7 @@ link:
   url: "#"
   text: "Meer informatie"
 tags:
-  - "tandarts"
-  - "crm"
+  - "Tandarts"
+  - "Orthodontist"
   - "Exquise"
 ---
