@@ -9,3 +9,5 @@ tags:
   - "Relatiebeheer"
   - "Klantcontact "
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Alexion Software. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Relatiebeheer en klantcontact .
