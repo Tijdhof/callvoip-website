@@ -9,3 +9,5 @@ tags:
   - "Assurantiesoftware"
   - "Assurantieën"
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Assu. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt in de Assurantieën branche.
