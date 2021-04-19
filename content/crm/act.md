@@ -10,6 +10,5 @@ tags:
   - "Planning"
   - "Projecten"
 ---
-Meteen een melding op je PC bij elk gesprek met de Callvoip integratie met Act!. Melding aanklikken en je<br>
-hebt de klantgegevens voor je.<br>
-Dit pakket wordt veel gebruikt in de Workflow, planning en projecten branche.
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Act!. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt in de Workflow, planning en projecten branche.
