@@ -11,4 +11,4 @@ tags:
   - "Klantcontact "
 ---
 Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met AFAS Profit CRM. Één keer klikken en je<br>
-hebt alle gegevens voor je. Dit pakket wordt veel gebruikt in voor Relatiebeheer en klantcontact.
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Relatiebeheer en klantcontact.
