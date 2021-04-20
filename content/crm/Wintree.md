@@ -2,7 +2,7 @@
 title: Wintree TSD
 logo: "/TSD-logo-kleur_nqtxk1.svg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Boomkwekerij"
