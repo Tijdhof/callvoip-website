@@ -2,7 +2,7 @@
 title: Taxsys Pro CRM
 logo: "/BS-Automatisering_tzn1kq.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Taxsys"
