@@ -2,7 +2,7 @@
 title: SalesForce
 logo: "/Salesforce_logo_up3miw.svg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "SalesForce"
