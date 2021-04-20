@@ -2,7 +2,7 @@
 title: ZoHo
 logo: "/1200px-ZOHO.svg_hud2qb.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "ZoHo"
