@@ -2,7 +2,7 @@
 title: Outsmart
 logo: "/OutSmart-e1572857184201-300x233_auzo7d.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Outsmart"
