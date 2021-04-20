@@ -2,7 +2,7 @@
 title: Teamleader
 logo: "/logo-green_dhmbb6.svg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Teamleader"
