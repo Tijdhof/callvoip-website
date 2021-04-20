@@ -2,7 +2,7 @@
 title: Kolibri
 logo: "/download_1_bfizss.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Makelaar"
