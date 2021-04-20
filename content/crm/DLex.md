@@ -2,7 +2,7 @@
 title: DLex Wolters Kluwer
 logo: "/512x512bb_gtmdlz.jpg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "DLex"
