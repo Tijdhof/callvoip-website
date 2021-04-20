@@ -2,7 +2,7 @@
 title: Google CRM
 logo: "/Google-CRM_ehjv9h.jpg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Google"
