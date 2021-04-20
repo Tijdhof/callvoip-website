@@ -2,7 +2,7 @@
 title: Radar360
 logo: "/Logo_radar_retina_1_uylkbd.jpg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Radar360"
