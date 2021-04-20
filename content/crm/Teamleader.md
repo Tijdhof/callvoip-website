@@ -10,3 +10,5 @@ tags:
   - "Planning"
   - "Projecten"
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Teamleader. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Workflow, planning, projecten.
