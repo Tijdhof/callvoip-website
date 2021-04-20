@@ -11,3 +11,5 @@ tags:
   - "StratechCRS"
   - "Stratech"
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Stratech CRS. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Recreatie branche.
