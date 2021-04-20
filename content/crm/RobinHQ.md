@@ -2,7 +2,7 @@
 title: RobinHQ
 logo: "/robin_head_dark_eexzj9.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "RobinHQ"
