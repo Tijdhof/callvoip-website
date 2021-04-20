@@ -2,7 +2,7 @@
 title: Alexion Software
 logo: "/alexioncrm_logo-1_c8yjau.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Alexion"
