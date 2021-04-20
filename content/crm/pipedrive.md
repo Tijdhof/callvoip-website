@@ -2,7 +2,7 @@
 title: Pipedrive
 logo: "/Pipedrive_Logo_ufkkbq.svg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Pipedrive"
