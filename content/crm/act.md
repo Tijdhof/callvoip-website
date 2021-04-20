@@ -2,7 +2,7 @@
 title: Act!
 logo: "/act-logo-circle_bfafty.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Act!"
