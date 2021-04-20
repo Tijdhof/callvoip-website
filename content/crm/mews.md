@@ -2,7 +2,7 @@
 title: Mews
 logo: "/MEWS_logo_B_RGB__2_pugglx.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Makelaar"
