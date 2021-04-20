@@ -2,7 +2,7 @@
 title: AFAS Small Business
 logo: "/logo-afas-software_vh2j1y.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "AFAS"
