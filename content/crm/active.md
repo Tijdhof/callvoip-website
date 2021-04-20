@@ -2,7 +2,7 @@
 title: Active Campaign Software
 logo: "/social-2x_dauwho.webp"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Active"
