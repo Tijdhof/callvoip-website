@@ -2,7 +2,7 @@
 title: Medicom Pharmapartners
 logo: "/496388_980_k96bbl.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Medicom"
