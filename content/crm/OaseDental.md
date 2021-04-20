@@ -9,3 +9,5 @@ tags:
   - "Orthodontist"
   - "OaseDental"
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met OaseDental. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Tandartsen en Orthodontisten.
