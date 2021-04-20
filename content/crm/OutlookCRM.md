@@ -2,7 +2,7 @@
 title: Outlook CRM
 logo: "/microsoft-outlook-logo_yfq8ro.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Outlook"
