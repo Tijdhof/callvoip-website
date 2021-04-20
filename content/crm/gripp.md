@@ -2,7 +2,7 @@
 title: Gripp
 logo: "/logo1604331312logo_fzkq0g.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Gripp"
