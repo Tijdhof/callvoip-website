@@ -2,7 +2,7 @@
 title: Connectwise
 logo: "/ConnectWiseLogo_iu7vym.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Connectwise"
