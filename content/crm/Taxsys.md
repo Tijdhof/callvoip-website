@@ -9,3 +9,5 @@ tags:
   - "Taxi"
   - "Vervoer"
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Taxsys Pro CRM. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Taxi branche.
