@@ -2,7 +2,7 @@
 title: Simplicate
 logo: "/simplicate-logo-1024x310-1_scl1tf.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Simplicate"
