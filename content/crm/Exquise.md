@@ -2,7 +2,7 @@
 title: Exquise
 logo: "/Vertimart-Exquise-Next-Generation-2_itjubo.jpg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Tandarts"
