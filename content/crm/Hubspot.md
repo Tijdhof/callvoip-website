@@ -2,7 +2,7 @@
 title: Hubspot
 logo: "/hubspot-logo-1000x393_hkjw4d.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Hubspot"
