@@ -9,3 +9,5 @@ tags:
   - "PropertyManagement"
   - "Realworks"
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Realworks. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Makelaars.
