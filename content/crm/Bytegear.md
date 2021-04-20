@@ -2,7 +2,7 @@
 title: Bytegear
 logo: "/logotop_vyrawf.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Tandarts"
