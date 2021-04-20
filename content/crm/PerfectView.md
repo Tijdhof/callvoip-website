@@ -2,7 +2,7 @@
 title: PerfectView
 logo: "/perfectview-blue_kwm2ui.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "PerfectView"
