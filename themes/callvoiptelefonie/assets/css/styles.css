@@ -498,6 +498,29 @@ html {
   @apply text-center flex items-center justify-center;
 }
 
+.button-small {
+    --bg-opacity: 1;
+    background-color: #2069f3;
+    background-color: rgba(32,105,243,var(--bg-opacity));
+    --text-opacity: 1;
+    color: #fff;
+    color: rgba(255,255,255,var(--text-opacity));
+    text-decoration: none;
+    border-radius: 9999px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+    font-size: 1rem!important;
+    font-weight: 500;
+    pointer-events: auto;
+    box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+    transition: all .15s ease;
+}
+
 
 @media (max-width: 767px){
   .faq-accrodion .accrodion .accrodion-item-header h4{
