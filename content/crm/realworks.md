@@ -2,7 +2,7 @@
 title: Realworks
 logo: "/Realworks-403x153px_wvrw72.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Makelaar"
