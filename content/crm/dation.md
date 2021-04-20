@@ -2,7 +2,7 @@
 title: Dation Rijlesplanner
 logo: "/Dation-Logo_toyloe.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Dation"
