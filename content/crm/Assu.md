@@ -2,7 +2,7 @@
 title: Assu Assurantiesoftware
 logo: "/unnamed_invkti.jpg"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Assu"
