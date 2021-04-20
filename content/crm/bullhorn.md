@@ -2,7 +2,7 @@
 title: Bullhorn
 logo: "/Bullhorn-2016-rebrand_dwm3vw.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Bullhorn"
