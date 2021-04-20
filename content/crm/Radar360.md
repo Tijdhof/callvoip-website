@@ -9,3 +9,5 @@ tags:
   - "Accountancy"
   - "Accountant"
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Radar360. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Accountants.
