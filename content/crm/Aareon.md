@@ -2,7 +2,7 @@
 title: Tobias AX Aareon
 logo: "/Aareon-Logo-300x106-300x106_nw1wjf.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Tobias"
