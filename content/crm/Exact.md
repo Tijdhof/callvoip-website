@@ -9,3 +9,5 @@ tags:
   - "Relatiebeheer"
   - "Klantcontact "
 ---
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Exact Online. Één keer klikken en je<br>
+hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Klantcontact en Relatiebeheer.
