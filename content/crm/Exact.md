@@ -2,7 +2,7 @@
 title: Exact Online
 logo: "/Logo-Exact-Online-e1578486135684_wtjdep.png"
 link:
-  url: "#"
+  url: /telefonie/integratie/
   text: "Meer informatie"
 tags:
   - "Exact"
