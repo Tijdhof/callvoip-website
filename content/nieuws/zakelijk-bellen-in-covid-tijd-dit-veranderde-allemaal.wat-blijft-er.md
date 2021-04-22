@@ -1,5 +1,5 @@
 ---
-title: 'Zakelijk bellen in COVID tijd: dit veranderde allemaal. Wat blijft er?'
+title: 'Zakelijk bellen in COVID tijd: dit veranderde allemaal. En wat blijft er?'
 description: 'Wij zien, als zakelijke telefonieprovider, de effecten van corona op
   de telefonie van uiteenlopende organisaties. Welke zaken vallen op? En zijn er ook
   oplossingen die handig zijn wanneer we weer terug gaan naar ‘normaal’? '
