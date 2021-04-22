@@ -65,7 +65,7 @@ Het is juist het gemak waarmee je wijzigingen uit kunt voeren wat de ruimte geef
 
 Je kunt ook zelf met de centrale in de weer. En wil je even een korte check? Doen we ook graag. Dit zijn de momenten dat de persoonlijke benadering en het tijd nemen het beste tot hun recht komen. Zo valt er voor ons, zelfs in crisistijden, toch nog wat te genieten :-)
 
-* Wat blijft?
+#### Wat blijft?
 
 Er wordt gerept over verschillende zaken die we uit de coronacrisis meenemen voor de toekomst. Thuiswerken is daar een vaak genoemde. Dus ook de telefonieoplossingen die daarvoor afgelopen jaar ingericht zijn, blijven bruikbaar. Wellicht zal een hybride beeld ontstaan, half op kantoor, half thuis. In zo’n situatie zijn de locatieonafhankelijke belmogelijkheden met de app of browser helemaal handig. Beter dan bij elke locatiewissel een toestel in een boodschappentas mee te nemen. Daarbij komt dat alles gemakkelijk volautomatisch of met een handige schakelaar in te regelen is.
 
