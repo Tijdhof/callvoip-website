@@ -15,11 +15,12 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
-url: "/nieuws/overalbellen"
+date: 2021-04-13T22:00:00+00:00
+url: "/nieuws/overalbellen/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1617959961/overalbellen_le6waj.png)
