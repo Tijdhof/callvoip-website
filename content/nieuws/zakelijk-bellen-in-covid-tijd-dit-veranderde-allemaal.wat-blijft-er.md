@@ -57,6 +57,8 @@ Werk dan bijvoorbeeld met een gedeelde vervolgroute waar de beller, voorzien van
 
 Heeft de hele situatie merkbaar effect op jouw mogelijkheden om de beller adequaat te woord te staan? Dan kan een verklarend bandje met de vraag om begrip al veel doen. Onze ervaring is dat bellers informeren altijd tot meer begrip leidt en de bereidheid tot wachten vergroot. Zo’n bandje kun je zelf inspreken of wij doen het voor je. Gemak dient de mens!
 
+> **Een verklarend bandje met de vraag om begrip kan al veel doen.**
+
 Met onze flexibele online centrale is voor elk vraagstuk een handige oplossing te bedenken. Zelfs voor een crisis als dit zijn er tools die het bellend leven in ieder geval gemakkelijker maken. Schakelaars in de route die met 1 druk op de knop een andere belroute activeren of doorschakelen naar mobiel. Handig als er iemand ziek is bijvoorbeeld. (en dat komt helaas met regelmaat voor nu).
 
 #### Creatief zijn
@@ -68,5 +70,7 @@ Je kunt ook zelf met de centrale in de weer. En wil je even een korte check? Doe
 #### Wat blijft?
 
 Er wordt gerept over verschillende zaken die we uit de coronacrisis meenemen voor de toekomst. Thuiswerken is daar een vaak genoemde. Dus ook de telefonieoplossingen die daarvoor afgelopen jaar ingericht zijn, blijven bruikbaar. Wellicht zal een hybride beeld ontstaan, half op kantoor, half thuis. In zo’n situatie zijn de locatieonafhankelijke belmogelijkheden met de app of browser helemaal handig. Beter dan bij elke locatiewissel een toestel in een boodschappentas mee te nemen. Daarbij komt dat alles gemakkelijk volautomatisch of met een handige schakelaar in te regelen is.
+
+> **In een toekomstige hybride situatie thuiswerken/kantoor zijn de locatieonafhankelijke belmogelijkheden met de app of browser erg handig.**
 
 Wil jij ook eens sparren over al die handigheden? Marieke en Tom zitten op jouw telefoontje te wachten.
