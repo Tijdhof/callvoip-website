@@ -498,7 +498,7 @@ html {
   @apply text-center flex items-center justify-center;
 }
 
-.button-small {
+.button-tiny {
     --bg-opacity: 1;
     background-color: #2069f3;
     background-color: rgba(32,105,243,var(--bg-opacity));
