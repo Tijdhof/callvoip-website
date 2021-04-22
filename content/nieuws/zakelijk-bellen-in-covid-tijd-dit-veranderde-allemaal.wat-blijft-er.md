@@ -49,7 +49,7 @@ Door de bellers een uitgekiend [keuzemenu ](https://www.callvoip.nl/telefonie/fu
 
 Het inrichten van zo’n keuzemenu is een fluitje van een cent, zeker als wij je helpen. Wij doen het vaker :-)
 
-* Slimme belroutes
+#### Slimme belroutes
 
 Doorgaand op het voorbeeld van een aantal rinkelende toestellen wat vervangen wordt door een slim keuzemenu, zijn er nog wat haken en ogen. Wat gebeurt er bijvoorbeeld als de juiste persoon niet beschikbaar is? In gesprek, koffie halen, noem maar op. Niemand ziet of hoort de beller. Maar hij/zij moet wel te woord gestaan worden.
 
@@ -59,7 +59,7 @@ Heeft de hele situatie merkbaar effect op jouw mogelijkheden om de beller adequa
 
 Met onze flexibele online centrale is voor elk vraagstuk een handige oplossing te bedenken. Zelfs voor een crisis als dit zijn er tools die het bellend leven in ieder geval gemakkelijker maken. Schakelaars in de route die met 1 druk op de knop een andere belroute activeren of doorschakelen naar mobiel. Handig als er iemand ziek is bijvoorbeeld. (en dat komt helaas met regelmaat voor nu).
 
-* Creatief zijn
+#### Creatief zijn
 
 Het is juist het gemak waarmee je wijzigingen uit kunt voeren wat de ruimte geeft om creatief te zijn. Dat is wat wij bij Callvoip het allerleukst vinden en waar we jou mee kunnen helpen. Bel ons en wij luisteren eerst naar wat jouw specifieke situatie en vraagstuk is. Alleen dan kunnen we ook voor jou doe perfecte, uitgekiende oplossing in elkaar draaien. Die kan elke keer een beetje anders zijn.
 
