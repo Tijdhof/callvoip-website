@@ -26,7 +26,7 @@
           <div class="bg-grey-dark pb-4 pt-8 px-4 md:px-8  rounded-lg">
             <form @submit.prevent="submit" ref="form">
               <div class="mb-4  mx-auto relative">
-                <input type="text" id="globalsearchinput" name="globalsearch" placeholder="Type uw zoekterm in..."
+                <input type="text" id="globalsearchinput" name="globalsearch" placeholder="Type een zoekterm in..."
                   class="w-full border border-grey-light focus:outline-none bg-white rounded-lg px-4 py-4 relative z-30"
                   v-model="filter" autocomplete="off" autofocus :autofocus="'autofocus'" @keyup.down="onArrowDown"
                   @keyup.up="onArrowUp" @keyup.enter.stop="onEnter(event)">
