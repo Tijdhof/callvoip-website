@@ -7,7 +7,7 @@
       <div class="bg-grey-dark pt-2 rounded-lg">
         <form @submit.prevent="submit" ref="form">
           <div class="mb-4  mx-auto relative">
-            <input type="text" id="globalsearchinput" name="globalsearch" placeholder="Type uw zoekterm in..."
+            <input type="text" id="globalsearchinput" name="globalsearch" placeholder="Typ een zoekterm in..."
               class="w-full border border-grey-light focus:outline-none bg-white rounded-lg px-4 py-4 relative z-30"
               v-model="filter" autocomplete="off"   @keyup.enter.stop="onEnter(event)">
             <button type="button" class="absolute inset-y-0 right-0 mr-2 flex items-center px-2 text-gray-700">
