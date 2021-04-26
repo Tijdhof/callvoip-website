@@ -3,6 +3,7 @@ layout: newpage
 title: SUCCESS BEGINT
 subtitle: SLIMME TELEFONIE
 type: page
+url: /newpage
 
 testimonial:
   - name: Carlo Galliam - Alpha Labs
