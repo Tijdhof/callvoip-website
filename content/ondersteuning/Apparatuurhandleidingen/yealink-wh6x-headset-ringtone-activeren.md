@@ -6,9 +6,8 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-Nieuw: false
+Nieuw: true
 Update: false
-pdf: ''
-draft: true
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_WH6x-headset-ringtone-inschakelen.pdf
 
 ---
