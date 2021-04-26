@@ -1,6 +1,6 @@
 ---
-weight: 2
-title:  Yealink W53 / W60 DECT handleiding
+weight: 20
+title: Yealink W53 / W60 DECT handleiding
 description: ''
 images: []
 hideinsearch: false
@@ -9,8 +9,8 @@ hidesocialshare: false
 Nieuw: true
 Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-DECT-W53-W60.pdf
----
 
+---
 Hoe gebruik je jouw prachtige telefoon?  
 Ontdek hem aan de hand van de meest gebruikte features, die hieronder worden toegelicht.  
 Zie ook de [Callvoip Casts](https://callvoip.nl/casts).
