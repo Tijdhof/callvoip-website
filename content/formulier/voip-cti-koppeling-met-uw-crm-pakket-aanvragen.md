@@ -126,7 +126,7 @@ Per gebruiker
 
 {{< layout/column3 >}}
 
-€ 15,00 excl. BTW
+€ 25,00 excl. BTW
 
 {{</ layout/column3 >}}
 
