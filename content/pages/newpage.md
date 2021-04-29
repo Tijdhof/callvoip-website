@@ -1,6 +1,6 @@
 ---
 layout: newpage
-title: Boek een persoonlijke meet & greet
+title: Boek een meet & greet
 subtitle: met Marieke
 type: page
 url: "/meetandgreet/"
@@ -31,7 +31,7 @@ Op afstand hoeft niet onpersoonlijk te zijn. Ervaar direct onze persoonlijke ben
 
 <br> <span class="text-blue-light"><b>Wat staat er op de agenda?</b> </span>
 
-* Persoonlijke kennismaking: wie ben jij, wie zijn wij en waar ben je naar op zoek?
+* Kennismaking: wie ben jij, wie zijn wij en waar ben je naar op zoek?
 * Rondleiding door de Callvoip VoIP centrale: een blik op de mogelijkheden.
 * Ruimte voor vragen en/of opmerkingen
 
