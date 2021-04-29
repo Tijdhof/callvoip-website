@@ -58,7 +58,7 @@ usps:
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
       eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen
-      als Oase Dental, Excuise en vele anderen.<br><br><a href="/telefonie/integratie/"
+      als Oase Dental, Exquise en vele anderen.<br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
