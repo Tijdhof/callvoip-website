@@ -3,7 +3,8 @@ title: 'Zakelijk bellen in COVID tijd: dit veranderde allemaal. En wat blijft er
 description: 'Wij zien, als zakelijke telefonieprovider, de effecten van corona op
   de telefonie van uiteenlopende organisaties. Welke zaken vallen op? En zijn er ook
   oplossingen die handig zijn wanneer we weer terug gaan naar ‘normaal’? '
-images: []
+images:
+- "/v1619682311/coronatelefonie_w1pn8w.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -15,13 +16,16 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2021-04-29T07:00:00+00:00
 url: "/nieuws/zakelijkbellencovid/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1619682311/coronatelefonie_w1pn8w.png)
+
 Al ruim een jaar leven we allemaal in het tijdperk van het Coronavirus. De invloed van de daarbij ingestelde maatregelen is natuurlijk in alle hoeken en gaten van onze samenleving merkbaar. Wij zien, als zakelijke telefonieprovider, de effecten hiervan op de telefonie van uiteenlopende organisaties. Welke zaken vallen op? En zijn er ook oplossingen die handig zijn wanneer we weer terug gaan naar ‘normaal’?
 
 ### Werkplek van kantoor naar thuis
@@ -42,7 +46,6 @@ Je zat op kantoor. Er werd gebeld en een aantal toestellen ging rinkelen. Je zie
 
 Herkenbaar scenario? Nu niet meer waarschijnlijk. Waar het voorheen handig was als er een groep toestellen tegelijk rinkelde, is dat nu anders omdat je veelal niet allemaal fysiek bij elkaar zit. Wij zouden Callvoip niet zijn als we daar geen passende oplossing voor hadden.
 
-  
 Door de bellers een uitgekiend [keuzemenu ](https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/)aan te bieden maak je het mogelijk dat de beller zelf ervoor zorgt dat hij/zij direct bij de juiste persoon terecht komt. Waar deze ook zit. Geen onzekere blikken op displays meer of onterechte aannames dat een collega elders ‘dit lijntje wel even oppakt’ terwijl een beller vergeefs het de telefoon hoort overgaan.
 
 > **Geen onterechte aannames dat een collega elders ‘dit lijntje wel even oppakt’**
