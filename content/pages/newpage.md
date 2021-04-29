@@ -1,46 +1,40 @@
 ---
 layout: newpage
-title: SUCCESS BEGINT
-subtitle: SLIMME TELEFONIE
+title: Boek een persoonlijke meet & greet
+subtitle: met Marieke
 type: page
-url: /newpage
-
+url: "/meetandgreet/"
 testimonial:
-  - name: Carlo Galliam - Alpha Labs
-    text:
-      "1Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni fugiat
-      perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus ut necessitatibus magnam. Debitis
-      velit inventore quaerat."
-    rating: ★★★★★
-  - name: Carlo Galliam - Alpha Labs
-    text:
-      "2Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni fugiat
-      perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus ut necessitatibus magnam. Debitis
-      velit inventore quaerat."
-    rating: ★★★★☆
-  - name: Carlo Galliam - Alpha Labs
-    text:
-      "3Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni fugiat
-      perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus ut necessitatibus magnam. Debitis
-      velit inventore quaerat."
-    rating: ★★★★★
-  - name: Carlo Galliam - Alpha Labs
-    text:
-      "4Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni fugiat
-      perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus ut necessitatibus magnam. Debitis
-      velit inventore quaerat."
-    rating: ★★★★★
+- name: Carlo Galliam - Alpha Labs
+  text: 1Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni
+    fugiat perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus
+    ut necessitatibus magnam. Debitis velit inventore quaerat.
+  rating: "★★★★★"
+- name: Carlo Galliam - Alpha Labs
+  text: 2Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni
+    fugiat perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus
+    ut necessitatibus magnam. Debitis velit inventore quaerat.
+  rating: "★★★★☆"
+- name: Carlo Galliam - Alpha Labs
+  text: 3Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni
+    fugiat perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus
+    ut necessitatibus magnam. Debitis velit inventore quaerat.
+  rating: "★★★★★"
+- name: Carlo Galliam - Alpha Labs
+  text: 4Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni
+    fugiat perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus
+    ut necessitatibus magnam. Debitis velit inventore quaerat.
+  rating: "★★★★★"
+
 ---
+Op afstand hoeft niet onpersoonlijk te zijn. Ervaar direct onze persoonlijke benadering in een kennismaking en rondleiding langs wat we te bieden hebben in een video-gesprek met onze Marieke.
 
-Nesciunt adipisci explicabo alias velit consequuntur illum similique nisi perspiciatis ratione officia fuga fugit suscipit cum aliquam sed soluta, dolor sequi.
+<br> <span class="text-blue-light"><b>Wat staat er op de agenda?</b> </span>
 
-<br>
-<span class="text-blue-light"><b>Halo ik ben hen:</b> </span>
-
-- Lorem ipsum dolor
-- Quisquam doloremque perferendis
-- Nulla temporibus debitis
+* Persoonlijke kennismaking: wie ben jij, wie zijn wij en waar ben je naar op zoek?
+* Rondleiding door de Callvoip VoIP centrale: een blik op de mogelijkheden.
+* Ruimte voor vragen en/of opmerkingen
 
 <br>
 
-Nesciunt adipisci explicabo alias velit consequuntur illum similique nisi perspiciatis ratione officia fuga fugit suscipit cum aliquam sed soluta.
+We denken dat we een half uurtje nodig hebben om ook jou fan te maken van onze zakelijke telefonie incl. persoonlijke service. Ben je benieuwd? Vul dan je gegevens in en we nemen contact op voor een afspraak.
