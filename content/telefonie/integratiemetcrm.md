@@ -83,7 +83,7 @@ prijzen:
     - title: Maandelijks per gebruiker
       price: 5
     - title: Éénmalig per gebruiker
-      price: 15
+      price: 25
     - title: Eenmalig per organisatie
       price: 150
     title: Kosten VoIP CTI
