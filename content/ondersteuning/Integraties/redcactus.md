@@ -29,6 +29,6 @@ Update: false
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-9_m2tu3o.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble is veilig</h3>Geen gedoe met extra wachtwoorden: inloggen gaat met zgn. Single Sign On. (Google of Microsoft)</p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-10_r37js3.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 10</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-10_r37js3.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble houdt niet van dubbel werk</h3>Had jij al een (ondergeschikte :-)) pop-up van je CRM systeem? Bubble zet die uit en geeft je alleen de Bubble Pop-up. </p><br><br><br><br><br><br><br>
 
 <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1" width="600" height="400"></iframe>
