@@ -25,9 +25,9 @@ Update: false
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-7_xavxmc.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble verschijnt waar jij wil</h3>Werk je met meerdere schermen? Bepaal dan zelf gemakkelijk op welk scherm jouw Bubble verschijnt.</p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-8_mugkon.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte 8</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-8_mugkon.jpg" style="float:left;" width="398" height="224"><h3>Bubble kan multitasken</h3>Gebruik je meerdere pakketten met klantgegevens? Bubble is niet eenkennig en kan met meerdere CRMs tegelijk koppelen!</p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-9_m2tu3o.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 9</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-9_m2tu3o.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble is veilig</h3>Geen gedoe met extra wachtwoorden: inloggen gaat met zgn. Single Sign On. (Google of Microsoft)</p><br><br><br><br><br><br><br>
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-10_r37js3.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 10</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
 
