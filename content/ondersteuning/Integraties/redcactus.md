@@ -13,9 +13,9 @@ Update: false
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-1_iugjgi.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble praat je bij</h3>Nog voor je de beller spreekt, weet je welke collega deze als laatst sprak. <br><br><br><br><br><br><br>
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-2_y7ngfe.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 2</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!<br><br><br><br><br><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-2_y7ngfe.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble is flexibel</h3>De klikbare knoppen in de Bubble zijn volledig zelf te definiëren. Kies de maximaal 4 acties die jij het handigst vindt bij elk gesprek.<br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-3_kee8nq.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 3</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-3_kee8nq.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble is slim</h3>Bubble weet wanneer je het gesprek hebt aangenomen of nog laat rinkelen en past hier de kleur van de pop-up op aan. </p><br><br><br><br><br><br><br>
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-4_ajd4c2.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 4</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
 
