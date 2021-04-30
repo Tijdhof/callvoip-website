@@ -21,9 +21,9 @@ Update: false
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-5_hnroea.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble geeft alles door</h3>Verbind je een gesprek door aan een collega? Dan krijgt die ook alle bijbehorende informatie.</p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-6_irzpdb.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 6</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-6_irzpdb.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble belt ook zelf</h3>Naast info over de binnenkomende gesprekken, kun je ook gemakkelijk met 1 klik op een nummer uitbellen. </p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-7_xavxmc.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 7</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-7_xavxmc.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble verschijnt waar jij wil</h3>Werk je met meerdere schermen? Bepaal dan zelf gemakkelijk op welk scherm jouw Bubble verschijnt.</p><br><br><br><br><br><br><br>
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-8_mugkon.jpg" style="float:left;" width="398" height="224"><h3>Title ruimte 8</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
 
