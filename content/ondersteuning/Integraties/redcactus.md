@@ -17,7 +17,7 @@ Update: false
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-3_kee8nq.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble is slim</h3>Bubble weet wanneer je het gesprek hebt aangenomen of nog laat rinkelen en past hier de kleur van de pop-up op aan. </p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-4_ajd4c2.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 4</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-4_ajd4c2.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble geeft alles door</h3>Verbind je een gesprek door aan een collega? Dan krijgt die ook alle bijbehorende informatie.</p><br><br><br><br><br><br><br>
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-5_hnroea.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Title ruimte 5</h3>Hier beland met een vraag waarop het antwoord lijkt te zijn: “klant worden bij Callvoip”? Dat kan natuurlijk!</p><br><br><br><br><br><br><br>
 
