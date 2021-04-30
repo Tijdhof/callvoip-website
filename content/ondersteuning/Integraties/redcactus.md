@@ -11,7 +11,7 @@ Update: false
 ---
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-0_yzyyrb.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Dit is Bubble!</h3>Bij elk gesprek direct de klantgegevens die je wilt bij de hand. <br><br><br><br><br><br><br><br>
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-1_iugjgi.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble praat je bij</h3>Nog voor je de beller spreekt, weet je welke collega deze als laatst sprak. <br><br><br><br><br><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-1_iugjgi.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble laat jou bepalen</h3>Jij kiest zelf welke gegevens uit je CRM je van de beller in de Bubble wilt zien. <br><br><br><br><br><br><br>
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-2_y7ngfe.jpg" style="float:left; padding:5px;" width="398" height="224"><h3>Bubble praat je bij</h3>Nog voor je de beller spreekt, weet je welke collega deze als laatst sprak.<br><br><br><br><br><br><br>
 
