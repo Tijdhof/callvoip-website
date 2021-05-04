@@ -19,11 +19,11 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
+- content: 'Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
     al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Popups van
     telefoontjes, een bedrijfstelefoonboek en meer. \nWil je integratie met jouw eigen
     systeem? Dan komt de CRM Lookup in beeld: de uitbreiding van de Click-to-Dial.
-    Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt.<br><br><a href="/crm-overzicht/ class="button">Bekijk alle beschikbare pakketten</a>
+    Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt.<br><br><a href="/crm-overzicht/ class="button">Bekijk alle beschikbare pakketten</a>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
@@ -31,12 +31,12 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Customized popups en bubbles
-  content1: Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
+  content1: 'Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
     Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
     zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
     bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
     naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
-    na een dag niet meer zonder!<br><br><a href="/ondersteuning/integraties/redcactus/" class="button">Lees meer over de slimme pop-up Bubble</a>
+    na een dag niet meer zonder!<br><br><a href="/ondersteuning/integraties/redcactus/" class="button">Lees meer over de slimme pop-up Bubble</a>'
   title2: ''
   content2: <iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1&"
     width="520" height="325" volume="0" allowfullscreen></iframe>
