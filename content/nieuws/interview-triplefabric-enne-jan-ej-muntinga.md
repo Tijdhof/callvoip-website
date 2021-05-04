@@ -14,10 +14,8 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: interview-TripleFabric
-contactpersoon: []
-categories: []
-tags: []
+url: /interview-TripleFabric/
+
 
 ---
 Maak kennis met weer een nieuwe leuke telecom-klant van Callvoip genaamd TripleFabrics. Deze Groningse groothandelaar is dekzeil- en afdekking-specialist voor: industrie, bouw, wegen- en waterbouw, maar ook voor de land- en tuinbouwsector. ‘Triple’ geeft blijk van nog 2 aftakkingen als in de bedrijven AfdekShop.nl en Watersport4all.nl en samen leveren zij hun diensten en producten aan bedrijven, organisaties, overheden en particulieren over de hele wereld. Dat bij een onderneming als deze de telefonie en alles daaromheen strak geregeld dient te zijn, lijkt ons een uitgemaakte zaak. Kortom, een prachtig familiebedrijf en een klant waar wij als Callvoip blij mee zijn. Om nog iets meer te weten te komen over TripleFabrics hadden wij een paar vragen voor de eigenaar Enne Jan ‘EJ’ Muntinga.
