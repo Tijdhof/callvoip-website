@@ -17,13 +17,13 @@ Wanneer jouw CRM geïntegreerd is met onze telefonie, krijg je popups van gespre
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-2_y7ngfe.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble praat je bij</h3>Nog voor je de beller spreekt, weet je welke collega deze als laatst sprak.<br><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-3_kee8nq.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble is flexibel</h3>De klikbare knoppen in de Bubble zijn volledig zelf te definiëren. Kies de maximaal 4 acties die jij het handigst vindt bij elk gesprek.</p><br><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-3_kee8nq.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble is flexibel</h3>De klikbare knoppen in de Bubble zijn volledig zelf te definiëren. Kies de maximaal 4 acties die jij het handigst vindt bij elk gesprek.</p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-4_ajd4c2.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble is slim</h3>Bubble weet wanneer je het gesprek hebt aangenomen of nog laat rinkelen en past hier de kleur van de pop-up op aan. </p><br><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-4_ajd4c2.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble is slim</h3>Bubble weet wanneer je het gesprek hebt aangenomen of nog laat rinkelen en past hier de kleur van de pop-up op aan. </p><br><br><br><br><br><br><br>
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-5_hnroea.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble geeft alles door</h3>Verbind je een gesprek door aan een collega? Dan krijgt die ook alle bijbehorende informatie.</p><br><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-6_irzpdb.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble belt ook zelf</h3>Naast info over de binnenkomende gesprekken, kun je ook gemakkelijk met 1 klik op een nummer uitbellen. </p><br><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-6_irzpdb.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble belt ook zelf</h3>Naast info over de binnenkomende gesprekken, kun je ook gemakkelijk met 1 klik op een nummer uitbellen. </p><br><br><br><br><br><br><br>
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-7_xavxmc.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble verschijnt waar jij wil</h3>Werk je met meerdere schermen? Bepaal dan zelf gemakkelijk op welk scherm jouw Bubble verschijnt.</p><br><br><br><br><br><br><br><br>
 
