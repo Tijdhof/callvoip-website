@@ -20,26 +20,32 @@ hero:
   disable_image_on_mobile: false
   mobile: ''
 blocks:
+- title: Alles voor tandartsen
+  image: "/v1565855183/tandartsen_mc4has.png"
+  content: |-
+    'Telefonie voor een tandartsenpraktijk vraagt specifieke kennis en toepassingen om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden. Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen van spoeddiensten en handige koppelingen met alle veelvoorkomende <b>CRM systemen</b> voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental). Dit vind je allemaal bij ons en vele tandartsen gingen je voor.<BR><BR><a href="/branches/tandarts/" class="button">Bekijk onze oplossing voor tandartsen</a>'
+  position: image_left
+  image_position: ''
 - title: Hosted telefonie voor de advocatuur
   image: "/v1565855183/advocatuur_yju56e.png"
   content: |-
     We bieden telefonie aan zelfstandige advocaten en aan grotere praktijken met vaak meer dan 20 medewerkers. In elke situatie vormt een professionele bereikbaarheid vaak de basis. Daarnaast staan zaken als <b>veiligheid</b> en de mogelijkheid om <b>elektronisch faxen</b> te kunnen versturen/ontvangen hoog op de lijst met vereiste functionaliteiten. Onze hosted telefonieoplossing sluit hier naadloos op aan.<BR><BR>
     <a href="/oplossingen/branches/advocatuur/" class="button">Ontdek onze oplossing voor advocaten</a>
-  position: image_left
+  position: image_right
   image_position: ''
 - title: VaMo oplossing voor de makelaardij
   image: "/v1565857411/makelaardij_h9bdwk.png"
   content: |-
     Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme <b>vast mobiel integratie</b>. De smartphone wordt hiermee een volwaardig IP toestel waarmee kan worden doorverbonden en het vaste nummer kan worden meegezonden. Voor het kantoor bieden we <b>efficiënte koppelingen</b> met de software.<BR><BR>
     <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk onze oplossing voor makelaars</a>
-  position: image_right
+  position: image_left
   image_position: ''
 - title: Slimme integratie voor recruitment
   image: "/v1565857793/recruiter_swtpbu.png"
   content: |-
     Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we <b>belbundels</b> zodat de maandelijkse kosten voor belverkeer naar vast en mobiel binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis <b>click to dial app</b> ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek via de browser en de naam van de beller direct in beeld.<BR><BR>
     <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier onze recruitment oplossing</a>
-  position: image_left
+  position: image_right
   image_position: ''
 - title: Hosted VoIP voor fysiotherapie
   image: "/v1565858000/fysio_ec1wak.png"
@@ -50,7 +56,7 @@ blocks:
     toestel of via onze app <b>Qaller</b> kan de bereikbaarheid op elk moment worden
     aangepast.<BR><BR><a href="/oplossingen/branches/fysiotherapie/" class="button">Onze
     oplossing voor fysiotherapie</a>
-  position: image_right
+  position: image_left
   image_position: ''
 usps:
   title: Mijn branche staat er niet bij
