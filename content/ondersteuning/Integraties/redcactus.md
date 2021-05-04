@@ -25,11 +25,11 @@ Wanneer jouw CRM geïntegreerd is met onze telefonie, krijg je popups van gespre
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-6_irzpdb.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble belt ook zelf</h3>Naast info over de binnenkomende gesprekken, kun je ook gemakkelijk met 1 klik op een nummer uitbellen. </p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-7_xavxmc.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble verschijnt waar jij wil</h3>Werk je met meerdere schermen? Bepaal dan zelf gemakkelijk op welk scherm jouw Bubble verschijnt.</p><br><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-7_xavxmc.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble verschijnt waar jij wil</h3>Werk je met meerdere schermen? Bepaal dan zelf gemakkelijk op welk scherm jouw Bubble verschijnt.</p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-8_mugkon.jpg" style="float:left;" width="525" height="295 padding-right:8px;"><h3>Bubble kan multitasken</h3>Gebruik je meerdere pakketten met klantgegevens? Bubble is niet eenkennig en kan met meerdere CRMs tegelijk koppelen!</p><br><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-8_mugkon.jpg" style="float:left;" width="525" height="295" padding-right:8px;"><h3>Bubble kan multitasken</h3>Gebruik je meerdere pakketten met klantgegevens? Bubble is niet eenkennig en kan met meerdere CRMs tegelijk koppelen!</p><br><br><br><br><br><br><br>
 
-<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-9_m2tu3o.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble is veilig</h3>Geen gedoe met extra wachtwoorden: inloggen gaat met zgn. Single Sign On. (Google of Microsoft)</p><br><br><br><br><br><br><br><br>
+<p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-9_m2tu3o.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble is veilig</h3>Geen gedoe met extra wachtwoorden: inloggen gaat met zgn. Single Sign On. (Google of Microsoft)</p><br><br><br><br><br><br><br><
 
 <p><img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-10_r37js3.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble houdt niet van dubbel werk</h3>Had jij al een (ondergeschikte :-)) pop-up van je CRM systeem? Bubble zet die uit en geeft je alleen de Bubble Pop-up. </p><br><br><br><br><br><br><br><br>
 
