@@ -23,7 +23,7 @@ blocks:
 - title: Alles voor tandartsen
   image: "/v1565855183/tandartsen_mc4has.png"
   content: |-
-    'Telefonie voor een tandartsenpraktijk vraagt specifieke kennis en toepassingen om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden. Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen van spoeddiensten en handige koppelingen met alle veelvoorkomende <b>CRM systemen</b> voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental). Dit vind je allemaal bij ons en vele tandartsen gingen je voor.<BR><BR><a href="/branches/tandarts/" class="button">Bekijk onze oplossing voor tandartsen</a>'
+    Telefonie voor een tandartsenpraktijk vraagt specifieke kennis en toepassingen om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden. Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen van spoeddiensten en handige koppelingen met alle veelvoorkomende <b>CRM systemen</b> voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental). Dit vind je allemaal bij ons en vele tandartsen gingen je voor.<BR><BR><a href="/branches/tandarts/" class="button">Bekijk onze oplossing voor tandartsen</a>
   position: image_left
   image_position: ''
 - title: Hosted telefonie voor de advocatuur
