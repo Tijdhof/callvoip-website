@@ -5,7 +5,7 @@ hero:
   content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam. <br><br>
-    <a href="/nieuws/nieuw-webcalls-probeer-tot-1-april-2021-gratis-uit/">Webcalls, bellen met je computer: tot 1 mei gratis!</a>'
+    <a href="/telefonie/integratie/">CRM-integratie: ook iets voor jou? Probeer nu gratis!</a>'
   button:
     content: 'Ons aanbod: de Callvoip Toolkit'
     link: "/toolkit/"
