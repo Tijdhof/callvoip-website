@@ -13,7 +13,7 @@ hero:
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
     koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!<br><br><a
-    href="/klantworden" class="button">Ook integreren met Callvoip?</a>'
+    href="/aanvragen/voip-cti/" class="button">Probeer 1 week gratis</a>'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
