@@ -3,54 +3,34 @@ title: CRM overzicht
 intro:
   title: CRM overzicht
   content: 'Op zoek naar een koppeling van onze telefonie met jouw CRM? Bekijk dan in onderstaand overzicht met welke pakketten we nu al een koppeling hebben.<br> 
-Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> met ons op, want dan onderzoeken we de mogelijkheid om ook jouw pakket zo snel mogelijk aan de lijst toe te voegen.<br><br>Snel keuzes:<br>,
- <a href="https://www.callvoip.nl/tags/makelaar/" target="_blank">Makelaars</a>,
- <a href="https://www.callvoip.nl/tags/keukens/" target="_blank">Keukenbranche</a>,
- <a href="https://www.callvoip.nl/tags/recreatie/" target="_blank">Recreatiesector</a>,
- <a href="https://www.callvoip.nl/tags/Boomkwekerij/" target="_blank">Boomkwekerij</a>,
- <a href="https://www.callvoip.nl/tags/woningcorporatie/" target="_blank">Woningcorporatie</a>
- <br>
- <a href="https://www.callvoip.nl/tags/taxi/" target="_blank">Taxisoftware</a>,
- <a href="https://www.callvoip.nl/tags/assurantiesoftware/" target="_blank">Assurantieën</a>,
- <a href="https://www.callvoip.nl/tags/rijschool/" target="_blank">Rijschoolhouders</a>,
- <a href="https://www.callvoip.nl/tags/garage/" target="_blank">Garagebedrijven</a>,
- ,
- <a href="https://www.callvoip.nl/tags/Advocatuur/" target="_blank">Advocatuur</a>
- <br>
-,
- <a href="https://www.callvoip.nl/tags/Projecten/" target="_blank">Projecten</a>,
- <a href="https://www.callvoip.nl/tags/Recruitment/" target="_blank">Recruitment</a>,
- <a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">Accountancy</a>,
- <a href="https://www.callvoip.nl/tags/Marketing/" target="_blank">Marketing</a>,
- <a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">Relatiebeheer</a>
+Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> met ons op, want dan onderzoeken we de mogelijkheid om ook jouw pakket zo snel mogelijk aan de lijst toe te voegen.<br><br>Snel keuzes:<br>
 <table style="width:100%">
   <tr>
     <td><a href="https://www.callvoip.nl/tags/tandarts/" target="_blank">1. Tandartsen</a></td>
-    <td>Smith</td>
-    <td>50</td>
+    <td><a href="https://www.callvoip.nl/tags/makelaar/" target="_blank">6. Makelaars</a></td>
+    <td> <a href="https://www.callvoip.nl/tags/garage/" target="_blank">11. Garagebedrijven</a></td>
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/dierenarts/" target="_blank">2. Dierenartsen</a></td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td> <a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">7. Accountancy</a></td>
+    <td> <a href="https://www.callvoip.nl/tags/taxi/" target="_blank">12. Taxisoftware</a></td>
   </tr>
   <tr>
     <td> <a href="https://www.callvoip.nl/tags/Huisarts/" target="_blank">3.Huisartsen en zorgverleners</a></td>
-    <td>Doe</td>
-    <td>80</td>
+    <td> <a href="https://www.callvoip.nl/tags/Advocatuur/" target="_blank">8. Advocatuur</a></td>
+    <td> <a href="https://www.callvoip.nl/tags/rijschool/" target="_blank">13. Rijschoolhouders</a></td>
   </tr>
   <tr>
-    <td>aaaa</td>
-    <td>Doea</td>
-    <td>801</td>
+    <td> <a href="https://www.callvoip.nl/tags/Boomkwekerij/" target="_blank">4. Boomkwekerij</a></td>
+    <td> <a href="https://www.callvoip.nl/tags/assurantiesoftware/" target="_blank">9. Assurantieën</a></td>
+    <td> <a href="https://www.callvoip.nl/tags/recreatie/" target="_blank">14. Recreatiesector</a></td>
   </tr>
   <tr>
-    <td>bbb</td>
-    <td>3oea</td>
-    <td>12301</td>
+    <td><a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">5. Relatiebeheer</a></td>
+    <td> <a href="https://www.callvoip.nl/tags/woningcorporatie/" target="_blank">10. Woningcorporatie</a></td>
+    <td> <a href="https://www.callvoip.nl/tags/keukens/" target="_blank">15. Keukenbranche</a></td>
   </tr>
-</table>
-'
+</table>'
 hero:
   image: "/v1603982195/crmoverzicht_geuhmx.png"
 url: /crm-overzicht/
