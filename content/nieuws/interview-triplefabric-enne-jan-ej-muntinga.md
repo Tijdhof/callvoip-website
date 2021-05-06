@@ -14,10 +14,11 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: "/interview-TripleFabric/"
+url: "/nieuws/interview-TripleFabric/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1620119132/IMG_20210422_171550_xemk6k.jpg)  
@@ -43,6 +44,8 @@ _EJ: Ik zag veel andere telecomaanbieders online die allemaal losse belminuten h
 
 _EJ: Nou ik heb zeker goed rondgekeken maar het unieke aan jullie aanbod vind ik het feit dat jullie alles in pakketten aanbieden, want dat zie je bijna niet. Het is allemaal wel een basispakketje bij de meeste aanbieders, maar bijv. in Europa bellen of daarbuiten, het zijn allemaal veelal extra kosten en dat doen jullie niet._
 
+> **“Als je dan bij een grote partij zit kun je niet zo met elkaar communiceren en ben je een nummertje, daar ben ik toch niet mee geholpen.”**
+
 **Dus je zoekt als het gaat om het juiste telecombedrijf naar een aanbieder die niet al te groot is, persoonlijke service en een specialist die jouw een pakket op maat kan bieden en geen onvoorziene kosten of meer van dat soort zaken?**
 
 _EJ: Ja precies, een partij waarbij je gewoon weet waar je aan toe bent en je hun directe aanbod mee kan nemen in je budget, dit ben ik maandelijks kwijt. Als je met moeilijke vraagstukken zit waar je zelf niet uitkomt, dat je een partij hebt die zegt; jongens, kom even langs, we praten even een half uurtje en het is klaar. Als je dan bij een grote partij zit kun je niet zo met elkaar communiceren en ben je een nummertje, daar ben ik toch niet mee geholpen._
@@ -51,7 +54,7 @@ _EJ: Ja precies, een partij waarbij je gewoon weet waar je aan toe bent en je hu
 
 _EJ: Ja dat is gewoon top bij jullie haha. Als je belt onder ‘support-knop 4’ en ik spreek Marieke, dan moet je oppassen dat ze niet te snel voor je gaat in al haar enthousiasme. Dat vind ik leuk en met jullie andere support-medewerker Tom is het net zo fijn. Soms even een praatje maar vooral de service en het meedenken is simpelweg zeer welkom._
 
-**Zakelijke telefonie is anno nu zoveel meer breder dan enkel bellen. Er zijn zoveel nieuwe innoverende tools en technieken die het voor klanten zoveel makkelijker maken. Jij werkt bijvoorbeeld met onze functionaliteit ‘Vamos’. Hoe ervaar je dit tot nu toe?**
+**Zakelijke telefonie is anno nu zoveel meer dan enkel bellen. Er zijn zoveel nieuwe innoverende tools en technieken die het voor klanten zoveel makkelijker maken. Jij werkt bijvoorbeeld met onze functionaliteit ‘Vamos’. Hoe ervaar je dit tot nu toe?**
 
 _EJ: Ja dat vind ik ideaal, erg blij mee. De vorige aanbieder had z’n zaakjes qua kosten gewoon niet op orde. Daarbij hadden ze een app waarmee ik echt 3x niks kon dus dan houdt het snel op. Alles was daar heel moeilijk. Bij Callvoip is dat het omgekeerde verhaal. Alles werkt makkelijk met blokjes, je sleept het er naar toe, dropt het erin en alles is makkelijker te begrijpen en dus te gebruiken. Daarnaast kijken jullie serieus mee naar mijn bedrijf wat betreft hoe ben ik nou zo goed mogelijk geholpen. Het is veel meer dan enkel telefonie._
 
