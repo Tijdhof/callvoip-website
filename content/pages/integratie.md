@@ -21,7 +21,7 @@ hero:
 blocks:
 - content: 'Wij vinden dat integratie erbij hoort. Daarom zit bij onze centrale standaard
     al een integratie inbegrepen met onze Chrome Extensie Click-to-Dial. Popups van
-    telefoontjes, een bedrijfstelefoonboek en meer. \nWil je integratie met jouw eigen
+    telefoontjes, een bedrijfstelefoonboek en meer. Wil je integratie met jouw eigen
     systeem? Dan komt de CRM Lookup in beeld: de uitbreiding van de Click-to-Dial.
     Of de overtreffende trap: VoIP CTI waarbij jouw PC gekoppeld wordt.<br><br><a href="/crm-overzicht/" class="button">Bekijk alle beschikbare pakketten</a>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
