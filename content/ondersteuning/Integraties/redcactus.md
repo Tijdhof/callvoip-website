@@ -7,6 +7,8 @@ pdf: ''
 hideinsearch: false
 Nieuw: true
 Update: false
+url: /ondersteuning/integraties/bubble/
+aliases: /ondersteuning/integraties/redcactus/
 
 ---
 Wanneer jouw CRM geïntegreerd is met onze telefonie, krijg je popups van gesprekken. Maar niet zomaar popups. Ze zijn slim, flexibel en zelf in te vullen. We noemen ze de Bubble. Lees hier wat die allemaal in zijn mars heeft. 
