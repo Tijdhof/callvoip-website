@@ -13,7 +13,7 @@ Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> m
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/dierenarts/" target="_blank">2. Dierenartsen</a></td>
-    <td><a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">7. Accountancy</a></td>
+    <td><a href="https://www.callvoip.nl/tags/woningcorporatie/" target="_blank">10. Woningcorporatie</a></td>
     <td><a href="https://www.callvoip.nl/tags/taxi/" target="_blank">12. Taxisoftware</a></td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> m
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">5. Relatiebeheer</a></td>
-    <td><a href="https://www.callvoip.nl/tags/woningcorporatie/" target="_blank">10. Woningcorporatie</a></td>
+    <td><a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">7. Accountancy</a></td>
     <td><a href="https://www.callvoip.nl/tags/keukens/" target="_blank">15. Keukenbranche</a></td>
   </tr>
 </table>'
