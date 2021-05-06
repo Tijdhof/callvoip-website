@@ -22,7 +22,25 @@ Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> m
  <a href="https://www.callvoip.nl/tags/Recruitment/" target="_blank">Recruitment</a>,
  <a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">Accountancy</a>,
  <a href="https://www.callvoip.nl/tags/Marketing/" target="_blank">Marketing</a>,
- <a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">Relatiebeheer</a>'
+ <a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">Relatiebeheer</a>
+<table style="width:100%">
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+'
 hero:
   image: "/v1603982195/crmoverzicht_geuhmx.png"
 url: /crm-overzicht/
