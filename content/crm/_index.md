@@ -3,7 +3,7 @@ title: CRM overzicht
 intro:
   title: CRM overzicht
   content: 'Op zoek naar een koppeling van onze telefonie met jouw CRM? Bekijk dan in onderstaand overzicht met welke pakketten we nu al een koppeling hebben.<br> 
-Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> met ons op, want dan onderzoeken we de mogelijkheid om ook jouw pakket zo snel mogelijk aan de lijst toe te voegen.<br><br>Snel keuzes:<br><a href="https://www.callvoip.nl/tags/tandarts/" target="_blank">Tandartsen</a>,
+Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> met ons op, want dan onderzoeken we de mogelijkheid om ook jouw pakket zo snel mogelijk aan de lijst toe te voegen.<br><br>Snel keuzes:<br>,
  <a href="https://www.callvoip.nl/tags/makelaar/" target="_blank">Makelaars</a>,
  <a href="https://www.callvoip.nl/tags/keukens/" target="_blank">Keukenbranche</a>,
  <a href="https://www.callvoip.nl/tags/recreatie/" target="_blank">Recreatiesector</a>,
@@ -14,10 +14,10 @@ Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> m
  <a href="https://www.callvoip.nl/tags/assurantiesoftware/" target="_blank">Assurantieën</a>,
  <a href="https://www.callvoip.nl/tags/rijschool/" target="_blank">Rijschoolhouders</a>,
  <a href="https://www.callvoip.nl/tags/garage/" target="_blank">Garagebedrijven</a>,
- <a href="https://www.callvoip.nl/tags/dierenarts/" target="_blank">Dierenartsen</a>,
+ ,
  <a href="https://www.callvoip.nl/tags/Advocatuur/" target="_blank">Advocatuur</a>
  <br>
- <a href="https://www.callvoip.nl/tags/Huisarts/" target="_blank">Huisartsen en zorgverleners</a>,
+,
  <a href="https://www.callvoip.nl/tags/Projecten/" target="_blank">Projecten</a>,
  <a href="https://www.callvoip.nl/tags/Recruitment/" target="_blank">Recruitment</a>,
  <a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">Accountancy</a>,
@@ -25,19 +25,29 @@ Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> m
  <a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">Relatiebeheer</a>
 <table style="width:100%">
   <tr>
-    <td>Jill</td>
+    <td><a href="https://www.callvoip.nl/tags/tandarts/" target="_blank">1. Tandartsen</a></td>
     <td>Smith</td>
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td><a href="https://www.callvoip.nl/tags/dierenarts/" target="_blank">2. Dierenartsen</a></td>
     <td>Jackson</td>
     <td>94</td>
   </tr>
   <tr>
-    <td>John</td>
+    <td> <a href="https://www.callvoip.nl/tags/Huisarts/" target="_blank">3.Huisartsen en zorgverleners</a></td>
     <td>Doe</td>
     <td>80</td>
+  </tr>
+  <tr>
+    <td>aaaa</td>
+    <td>Doea</td>
+    <td>801</td>
+  </tr>
+  <tr>
+    <td>bbb</td>
+    <td>3oea</td>
+    <td>12301</td>
   </tr>
 </table>
 '
