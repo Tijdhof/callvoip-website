@@ -4,6 +4,9 @@ title: Boek een meet & greet
 subtitle: met Marieke
 type: page
 url: "/meetandgreet/"
+mainSecBG:
+  url: https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto/v1571400615/icons_home_tvjvye.png
+  size: 50%
 testimonial:
 - name: Carlo Galliam - Alpha Labs
   text: 1Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia labore magni
@@ -25,6 +28,12 @@ testimonial:
     fugiat perferendis qui sequi ad distinctio! Velit sequi hic fuga quisquam minus
     ut necessitatibus magnam. Debitis velit inventore quaerat.
   rating: "★★★★★"
+bottomSec:
+  title: Meer weten?
+  text: Benieuwd wat Callvoip telefonie allemaal te bieden heeft voor je een afspraak maakt? Dat kan in één oogopslag...
+  link:
+    url: /toolkit/
+    text: Bekijk de Callvoip Toolkit
 
 ---
 Op afstand hoeft niet onpersoonlijk te zijn. Ervaar direct onze persoonlijke benadering in een kennismaking en rondleiding langs wat we te bieden hebben in een video-gesprek met onze Marieke.
