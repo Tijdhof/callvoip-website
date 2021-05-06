@@ -11,7 +11,7 @@ Update: false
 ---
 Wanneer jouw CRM geïntegreerd is met onze telefonie, krijg je popups van gesprekken. Maar niet zomaar popups. Ze zijn slim, flexibel en zelf in te vullen. We noemen ze de Bubble. Lees hier wat die allemaal in zijn mars heeft. 
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble_ja8lic.png" style="float:left; padding-right:8px;" width="525" height="295"><h3>Dit is Bubble!</h3>Ook als je geen CRM hebt voegt Bubble veel toe. Zo kun je nummers automatisch door <b>Google</b> laten checken en voorzien van bedrijfsnaam, adres en woonplaats. Dat gaat je zeker verrassen!<br><br><br><br><br><br><br><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble_ja8lic.png" style="float:left; padding-right:8px;" width="525" height="295"><h3>Dit is Bubble!</h3>Ook als je geen CRM hebt voegt Bubble veel toe. Zo kun je nummers automatisch door <b>Google</b> laten checken en voorzien van bedrijfsnaam, adres en woonplaats.<br>Dat gaat je zeker verrassen!<br><br><br><br><br><br>
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1616400506/bubble-1_iugjgi.jpg" style="float:left; padding-right:8px;" width="525" height="295"><h3>Bubble laat jou bepalen</h3>Jij kiest zelf welke gegevens uit je CRM je van de beller in de Bubble wilt zien. <br><br><br><br><br><br><br><br>
 
