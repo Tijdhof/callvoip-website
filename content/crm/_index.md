@@ -13,24 +13,24 @@ Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> m
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/dierenarts/" target="_blank">2. Dierenartsen</a></td>
-    <td><a href="https://www.callvoip.nl/tags/woningcorporatie/" target="_blank">10. Woningcorporatie</a></td>
+    <td><a href="https://www.callvoip.nl/tags/woningcorporatie/" target="_blank">7. Woningcorporatie</a></td>
     <td><a href="https://www.callvoip.nl/tags/taxi/" target="_blank">12. Taxisoftware</a></td>
+    <td><a href="https://www.callvoip.nl/tags/Recruitment/" target="_blank">17. Recruitment</a></td>
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/Huisarts/" target="_blank">3.Huisartsen en zorgverleners</a></td>
     <td><a href="https://www.callvoip.nl/tags/Advocatuur/" target="_blank">8. Advocatuur</a></td>
     <td><a href="https://www.callvoip.nl/tags/rijschool/" target="_blank">13. Rijschoolhouders</a></td>
-    <td><a href="https://www.callvoip.nl/tags/Recruitment/" target="_blank">17. Recruitment</a></td>
+    <td><a href="https://www.callvoip.nl/tags/Marketing/" target="_blank">18. Marketing</a></td>
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/Boomkwekerij/" target="_blank">4. Boomkwekerij</a></td>
     <td><a href="https://www.callvoip.nl/tags/assurantiesoftware/" target="_blank">9. Assurantieën</a></td>
     <td><a href="https://www.callvoip.nl/tags/recreatie/" target="_blank">14. Recreatiesector</a></td>
-    <td><a href="https://www.callvoip.nl/tags/Marketing/" target="_blank">18. Marketing</a></td>
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">5. Relatiebeheer</a></td>
-    <td><a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">7. Accountancy</a></td>
+    <td><a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">10. Accountancy</a></td>
     <td><a href="https://www.callvoip.nl/tags/keukens/" target="_blank">15. Keukenbranche</a></td>
   </tr>
 </table>'
