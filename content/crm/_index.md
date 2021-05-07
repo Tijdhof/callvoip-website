@@ -14,24 +14,26 @@ Staat jouw pakket er niet bij? Neem dan vooral <a href="/contact/">contact</a> m
   <tr>
     <td><a href="https://www.callvoip.nl/tags/dierenarts/" target="_blank">2. Dierenartsen</a></td>
     <td><a href="https://www.callvoip.nl/tags/woningcorporatie/" target="_blank">7. Woningcorporaties</a></td>
-    <td><a href="https://www.callvoip.nl/tags/taxi/" target="_blank">12. Taxisoftware</a></td>
+    <td><a href="https://www.callvoip.nl/tags/garage/" target="_blank">12. Autodealers</a></td>
     <td><a href="https://www.callvoip.nl/tags/Recruitment/" target="_blank">17. Recruitment</a></td>
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/Huisarts/" target="_blank">3. Huisartsen en zorgverleners</a></td>
     <td><a href="https://www.callvoip.nl/tags/Advocatuur/" target="_blank">8. Advocatuur</a></td>
-    <td><a href="https://www.callvoip.nl/tags/rijschool/" target="_blank">13. Rijschoolhouders</a></td>
+    <td><a href="https://www.callvoip.nl/tags/idas/" target="_blank">13. Volvodealers</a></td>
     <td><a href="https://www.callvoip.nl/tags/Marketing/" target="_blank">18. Marketing</a></td>
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/Boomkwekerij/" target="_blank">4. Boomkwekerijen</a></td>
     <td><a href="https://www.callvoip.nl/tags/assurantiesoftware/" target="_blank">9. Assurantieën</a></td>
     <td><a href="https://www.callvoip.nl/tags/recreatie/" target="_blank">14. Recreatiesector</a></td>
+    <td><a href="https://www.callvoip.nl/tags/taxi/" target="_blank">19. Taxisoftware</a></td>
   </tr>
   <tr>
     <td><a href="https://www.callvoip.nl/tags/Relatiebeheer/" target="_blank">5. Relatiebeheer</a></td>
     <td><a href="https://www.callvoip.nl/tags/Accountancy/" target="_blank">10. Accountancy</a></td>
     <td><a href="https://www.callvoip.nl/tags/keukens/" target="_blank">15. Keukenbranche</a></td>
+    <td><a href="https://www.callvoip.nl/tags/Rijschool/" target="_blank">20. Rijschoolhouders</a></td>
   </tr>
 </table>'
 hero:
