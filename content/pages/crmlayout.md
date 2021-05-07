@@ -7,8 +7,8 @@ logos: false
 url: "/crmlayout/"
 hero:
   title: CSS Car Systems + Callvoip
-  content: Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage in beeld         krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd systeem wat past bij elke garage. 
-  Koppel CSS Car Systems nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+  content: 'Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage in beeld         krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd systeem wat past bij elke garage. 
+  Koppel CSS Car Systems nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>'
   image: "/v1571655384/calling_os7r1h.png"
   zooming: true
   image_position: center
