@@ -25,13 +25,13 @@ blocks:
     Bubble. Met 1 klik op Bubble open je CSS Car Systems met de juiste gegevens en
     kun je de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over Bubble</a>'
-  image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
+  image: "/v1620391670/quote_CSS_callvoip_blauw_zm5wyk.png"
   zooming: true
   position: image_left
   title: 'Integratie telefonie en CSS: maak kennis met Bubble'
   image_position: center
 textblocks:
-- title1: Bubble in Actie - inkomend gesprek
+- title1: Bubble in Actie - inkomend
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
     informatie
