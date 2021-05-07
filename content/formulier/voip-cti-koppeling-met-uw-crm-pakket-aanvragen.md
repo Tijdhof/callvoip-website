@@ -1,10 +1,13 @@
 ---
 title: VoIP CTI aanvragen
 url: "/aanvragen/voip-cti/"
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 <center><h1>(Koppeling met uw CRM-pakket)</h1></center><br>
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!*</b><br>* Actie niet geldig voor nieuw te ontwikkelen koppelingen
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!_</b><br>_ NB: testen kan als er een koppeling met jouw CRM is, dat laten we je weten!
 
 {{< form "aanvragen-voipcti" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
