@@ -14,7 +14,7 @@ hero:
     systeem wat past bij elke garage. Koppel CSS Car Systems nu aan onze telefonie
     en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
     class="button">Vraag nu deze koppeling aan</a>
-  image: "/v1571655384/CRM2logos_cmvonx.png"
+  image: "/v1571655384/CRM2logos_qqzggc.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
