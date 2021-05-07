@@ -1,5 +1,5 @@
 ---
-title: CSS Car Systems + Callvoip
+title: CRM layout
 description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
   Vast en mobiel dichter bij elkaar
 type: page
@@ -7,7 +7,7 @@ layout: default2
 logos: false
 url: "/crmlayout/"
 hero:
-  title: CSS Car Systems + Callvoip
+  title: CRM layout
   content: Jouw smartphone is het hart van veel communicatie. Als jouw zakelijke telefonieprovider
     voor het vaste nummer hebben we verschillende manieren om die 2 bij elkaar te
     brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden?
@@ -19,16 +19,16 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Als jouw zakelijke telefonieprovider negeren wij jouw smartphone zeker
-    niet! Vanzelfsprekend kunnen we op enig moment jouw vaste nummer doorschakelen
-    naar mobiel. Maar met onze Qaller app op je mobiel kun je ook overal bepaalde
-    routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
-    Business, op je vaste nummer! We helpen je graag.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/"
-    class="button" target="_blank">Vergelijking integraties</a>'
+- content: 'Stel je voor: van elk telefoontje wat binnenkomt bij jouw garagebedrijf
+    zie je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
+    zoals kenteken, merk/type auto en wanneer de APK vervalt. Die pop-up noemen wij
+    Bubble. Met 1 klik op Bubble open je CSS Car Systems met de juiste gegevens en
+    kun je de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
+    class="button" target="_blank">Meer over Bubble</a>'
   image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   zooming: true
   position: image_left
-  title: Onze standaard
+  title: 'Integratie telefonie en CSS: maak kennis met Bubble'
   image_position: center
 textblocks:
 - title1: Afbeelding 1
