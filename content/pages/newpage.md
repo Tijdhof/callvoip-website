@@ -9,10 +9,10 @@ mainSecBG:
   size: 40%
 testimonial:
 - name: 'Sjoerd Peters - Verkeersschool Wienholts en Camperverhuur De Achterhoek'
-  text: 'Fijn dat het kennismaken met Callvoip gelijk met beeld kon, een naam en een gezicht met een goede uitleg komt dicht in de buurt van een echt bezoek en waarborgt een goede start van onze samenwerking.'
+  text: '"Fijn dat het kennismaken met Callvoip gelijk met beeld kon, een naam en een gezicht met een goede uitleg komt dicht in de buurt van een echt bezoek en waarborgt een goede start van onze samenwerking."<br>'
   rating: "★★★★★"
 - name: 'Annet en Terry - Klimaprofs'
-  text: 'In onze oriënterende gesprekken was de Video Meet en Greet met Callvoip zeker van toegevoegde waarde: we konden daardoor toch beter bepalen wat voor “vlees we in de kuip” hadden en we konden beter een gevoel krijgen, dat aan de basis ligt van het vertrouwen in onze gezamenlijk toekomst.'
+  text: '"In onze oriënterende gesprekken was de Video Meet en Greet met Callvoip zeker van toegevoegde waarde: we konden daardoor toch beter bepalen wat voor “vlees we in de kuip” hadden en we konden beter een gevoel krijgen, dat aan de basis ligt van het vertrouwen in onze gezamenlijk toekomst."'
   rating: "★★★★☆"
 bottomSec:
   title: Meer weten?
