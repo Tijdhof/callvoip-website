@@ -27,13 +27,13 @@ blocks:
 textblocks:
 - title1: Afbeelding 1
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
-    class="zoom">
+    class="zoom"><br>Wow wat een mooie text joh!
   title2: Afbeelding 2
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
-    class="zoom">
+    class="zoom"><br>Wow wat een mooie text joh!
   title3: Afbeelding 3
   content3: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/nu_yvspnz.jpg"
-    class="zoom">
+    class="zoom"><br>Wow wat een mooie text joh!
   show_vshape: false
 images: []
 hideinsearch: true
