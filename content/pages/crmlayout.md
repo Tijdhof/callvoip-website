@@ -32,7 +32,7 @@ blocks:
   image_position: center
 textblocks:
 - title1: Bubble in Actie - inkomend
-  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
+  content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
     informatie
   title2: Bubble in Actie - snelkoppeling
