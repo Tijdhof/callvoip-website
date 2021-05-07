@@ -36,11 +36,11 @@ textblocks:
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
     informatie
   title2: Bubble in Actie - snelkoppeling
-  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
+  content2: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
     class="zoom"><br>Klik op de pop-up om de bijbehorende informatie in je systeem
     te openen. '
   title3: Wat gebeurt hier eigenlijk?
-  content3: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/nu_yvspnz.jpg"
+  content3: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/nu_yvspnz.jpg"
     class="zoom"><br>Dit lijkt erg veel op de eerste 2 screenshots
   show_vshape: false
 images: []
