@@ -5,7 +5,7 @@ subtitle: met Marieke
 type: page
 url: "/meetandgreet/"
 mainSecBG:
-  url: https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto/v1571400615/icons_home_tvjvye.png
+  url: https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto/v1571400615/vidcall_ykc2cy.png
   size: 50%
 testimonial:
 - name: Carlo Galliam - Alpha Labs
