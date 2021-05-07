@@ -1,19 +1,14 @@
 ---
-title: CRM layout
-description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
-  Vast en mobiel dichter bij elkaar
+title: Callvoip + CSS Car Systems
+description: Integratie van het CRM CSS Car Systems en onze telefonie: makkelijk, snel en efficiënt
 type: page
 layout: default2
 logos: false
 url: "/crmlayout/"
 hero:
-  title: CRM layout
-  content: Jouw smartphone is het hart van veel communicatie. Als jouw zakelijke telefonieprovider
-    voor het vaste nummer hebben we verschillende manieren om die 2 bij elkaar te
-    brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden?
-    Of zelfs bellen met je vaste nummer op de smartphone. Of Whatsapp op datzelfde
-    vaste nummer? En met onze sim oplossing VAMOS vervaagt de grens tussen vast mobiel
-    helemaal.<br><br><a href="/klantworden" class="button">Nog geen Callvoip klant?</a>
+  title: CSS Car Systems + Callvoip
+  content: Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage in beeld         krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd systeem wat past bij elke garage. 
+  Koppel CSS Car Systems nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
   image: "/v1571655384/calling_os7r1h.png"
   zooming: true
   image_position: center
