@@ -1,13 +1,19 @@
 ---
-title: 'Callvoip + CSS Car Systems'
-description: 'Integratie van het CRM CSS Car Systems en onze telefonie: makkelijk, snel en efficiënt'
+title: Callvoip + CSS Car Systems
+description: 'Integratie van het CRM CSS Car Systems en onze telefonie: makkelijk,
+  snel en efficiënt'
 type: page
 layout: default2
 logos: false
 url: "/crmlayout/"
 hero:
-  title: 'CSS Car Systems + Callvoip'
-  content: 'Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage in beeld       krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd systeem wat past bij elke garage. Koppel CSS Car Systems nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>'
+  title: CSS Car Systems + Callvoip
+  content: Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en
+    is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage
+    in beeld       krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd
+    systeem wat past bij elke garage. Koppel CSS Car Systems nu aan onze telefonie
+    en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
+    class="button">Vraag nu deze koppeling aan</a>
   image: "/v1571655384/calling_os7r1h.png"
   zooming: true
   image_position: center
@@ -25,15 +31,17 @@ blocks:
   title: 'Integratie telefonie en CSS: maak kennis met Bubble'
   image_position: center
 textblocks:
-- title1: Afbeelding 1
+- title1: Bubble in Actie - inkomend gesprek
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
-    class="zoom"><br>Wow wat een mooie text joh!
-  title2: Afbeelding 2
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
-    class="zoom"><br>Wow wat een mooie text joh!
-  title3: Afbeelding 3
+    class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
+    informatie
+  title2: Bubble in Actie - snelkoppeling
+  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
+    class="zoom"><br>Klik op de pop-up om de bijbehorende informatie in je systeem
+    te openen. '
+  title3: Wat gebeurt hier eigenlijk?
   content3: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/nu_yvspnz.jpg"
-    class="zoom"><br>Wow wat een mooie text joh!
+    class="zoom"><br>Dit lijkt erg veel op de eerste 2 screenshots
   show_vshape: false
 images: []
 hideinsearch: true
