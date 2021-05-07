@@ -15,7 +15,7 @@
             {{ range .Params.testimonial}}
             <div class="slide">
               <p class="text-grey">
-                “{{.text | markdownify }}”
+                {{.text | markdownify }}
               </p>
               <div class="text-yellow text-2xl mt-2 leading-none font-serif">{{.rating}}</div>
               <span>
