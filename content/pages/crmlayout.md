@@ -1,5 +1,5 @@
 ---
-title: CRM layout
+title: CSS Car Systems + Callvoip
 description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
   Vast en mobiel dichter bij elkaar
 type: page
@@ -7,7 +7,7 @@ layout: default2
 logos: false
 url: "/crmlayout/"
 hero:
-  title: CRM layout
+  title: CSS Car Systems + Callvoip
   content: Jouw smartphone is het hart van veel communicatie. Als jouw zakelijke telefonieprovider
     voor het vaste nummer hebben we verschillende manieren om die 2 bij elkaar te
     brengen. Wat te denken van een app waarmee je doorschakelingen kunt beïnvloeden?
