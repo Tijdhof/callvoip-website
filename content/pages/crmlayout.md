@@ -5,7 +5,7 @@ description: Integratie van je smartphone met de VoIP centrale op verschillende 
 type: page
 layout: default2
 logos: false
-url: /crmlayout/
+url: "/crmlayout/"
 hero:
   title: CRM layout
   content: Jouw smartphone is het hart van veel communicatie. Als jouw zakelijke telefonieprovider
@@ -23,19 +23,23 @@ blocks:
     niet! Vanzelfsprekend kunnen we op enig moment jouw vaste nummer doorschakelen
     naar mobiel. Maar met onze Qaller app op je mobiel kun je ook overal bepaalde
     routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
-    Business, op je vaste nummer! We helpen je graag.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button" target="_blank">Vergelijking integraties</a>'
+    Business, op je vaste nummer! We helpen je graag.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/"
+    class="button" target="_blank">Vergelijking integraties</a>'
   image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   zooming: true
   position: image_left
   title: Onze standaard
   image_position: center
 textblocks:
-- title1: 'Afbeelding 1'
-  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1571400615/Screenshot_7_zekrsa.png" class="zoom">'
-  title2: 'Afbeelding 2'
-  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1571400615/Screenshot_7_zekrsa.png" class="zoom">'
-  title3: 'Afbeelding 3'
-  content3: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1571400615/Screenshot_7_zekrsa.png" class="zoom">'
+- title1: Afbeelding 1
+  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
+    class="zoom">
+  title2: Afbeelding 2
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
+    class="zoom">
+  title3: Afbeelding 3
+  content3: <img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/nu_yvspnz.jpg"
+    class="zoom">
   show_vshape: false
 images: []
 hideinsearch: true
