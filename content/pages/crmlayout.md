@@ -5,7 +5,7 @@ description: 'Integratie van het CRM CSS Car Systems en onze telefonie: makkelij
 type: page
 layout: default2
 logos: false
-url: "/crmlayout/"
+url: "/crmintegratie/csscarsystems/"
 hero:
   title: CSS Car Systems + Callvoip
   content: Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en
@@ -44,8 +44,8 @@ textblocks:
     class="zoom"><br>Dit lijkt erg veel op de eerste 2 screenshots
   show_vshape: false
 images: []
-hideinsearch: true
-hideingoogle: true
+hideinsearch: false
+hideingoogle: false
 hidesocialshare: true
 
 ---
