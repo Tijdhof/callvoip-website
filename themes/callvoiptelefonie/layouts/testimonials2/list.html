@@ -9,7 +9,9 @@
     <div class="mx-4 mb-8">
       <div class="bg-grey-dark mx-auto p-4 py-8 md:px-8 rounded-lg">
         <ul class="text-white flex-wrap flex mb-4">
-          <li class="w-full"><b>Zoek op uw branche, bijvoorbeeld:</b><p>Tandarts, Huisarts, Makelaar etc.</p></li>
+          <li class="w-full"><b>Zoek op uw branche, bijvoorbeeld:</b>
+            <p>Tandarts, Huisarts, Makelaar etc.</p>
+          </li>
           {{ range $i,$d := .Params.selected_tags }}
           {{ if not (eq $i 0) -}}
           , &nbsp;
@@ -27,7 +29,7 @@
           <script>
             var input = document.getElementById("tags-search"),
               rlist = input.nextElementSibling.querySelector('ul'),
-              tags = `{{ $t := where .Site.Taxonomies.tags ".Page.Section" "testimonials2" }}{{ range $t }}{{ .Page.Title  }}{{ end }}`,
+              tags = `{{ $t := where .Site.Taxonomies.testimonial ".Page.Section" "testimonials2" }}{{ range $t }}{{ .Page.Title  }}{{ end }}`,
               arr = tags.replaceAll('"', ' ').trim();
 
             input.addEventListener("keyup", function (e) {
@@ -37,7 +39,7 @@
               if (input.value.length > 0) {
                 result.forEach(e => {
                   var newli = document.createElement('li');
-                  newli.innerHTML = '<a href="/tags/' + e + '" class="p-4 hover:bg-grey-lightest block capitalize">' + e + '</a>';
+                  newli.innerHTML = '<a href="/testimonial/' + e.toLowerCase() + '" class="p-4 hover:bg-grey-lightest block capitalize">' + e + '</a>';
                   rlist.appendChild(newli)
                 })
               }
@@ -56,11 +58,11 @@
         class="md:flex items-center p-8 lg:p-0 {{ if not (modBool $i 2) }}bg-white text-grey-dark{{ else }}bg-grey-lightest{{- end }}">
         <div class="md:w-1/3">
           {{ with .Params.logo -}}
-          <img data-src="{{ $cloudinary }}/w_auto,dpr_auto,f_auto,q_auto,h_500,c_limit/{{.}}" class="cld-responsive mx-auto" style="background: none;"
-            alt="logo of {{$title}}" />
+          <img data-src="{{ $cloudinary }}/w_auto,dpr_auto,f_auto,q_auto,h_500,c_limit/{{.}}"
+            class="cld-responsive mx-auto" style="background: none;" alt="logo of {{$title}}" />
           {{ end -}}
         </div>
-          <div class="w-2/3 p-12 xl:p-12">
+        <div class="w-2/3 p-12 xl:p-12">
           <h3 class="text-3xl mb-2">{{.Title}}</h3>
           <div class="text-lg lg:text-xl xl:text-2xl mb-4" style="width:800px">{{ $item.Content }}</div>
           {{ with $item.Params.link }}
