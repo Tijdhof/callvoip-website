@@ -4,9 +4,10 @@ logo: "/v1561639239/callvoip-website-branches-advocatuur-groot.png"
 link:
   url: /oplossingen/branches/advocatuur/
   text: "Bekijk de oplossing"
-tags:
+testimonial:
   - "Advocaat"
 ---
+
 <br>
 <a href="https://www.secarbeidsrecht.nl/">
 <img data-src="https://res.cloudinary.com/callvoip/image/upload/w_auto,dpr_auto//v1563974930/callvoip-website-testimonial-advocatuurNW.png" class="max-h-logo-small lg:max-h-logo cld-responsive block max-w-full mb-8 object-contain" alt="Client" data-width="500" src="https://res.cloudinary.com/callvoip/image/upload/w_500,dpr_1.0//v1563974930/callvoip-website-testimonial-advocatuurNW.png" style="float:left; padding-right:5px;">
