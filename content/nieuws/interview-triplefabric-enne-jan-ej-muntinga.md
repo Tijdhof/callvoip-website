@@ -1,5 +1,5 @@
 ---
-title: Interview TripleFabric - Enne Jan ‘EJ’ Muntinga
+title: Interview TripleFabrics - Enne Jan ‘EJ’ Muntinga
 description: ''
 images: []
 featured: false
