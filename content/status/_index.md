@@ -16,13 +16,15 @@ items:
   status: true
 - title: Toestelregistraties
   status: true
-- title: BLF (statuslampjes)
-  status: true
-- title: Click-to-Dial
-  status: true
+- title: Webcalls
+  status: false
 - title: Qaller Smartphone app
   status: true
 - title: Vamos Vast-Mobiel
+  status: true
+- title: BLF (statuslampjes)
+  status: true
+- title: Click-to-Dial
   status: true
 - title: Trunk
   status: true
