@@ -8,7 +8,7 @@ logos: false
 url: "/crmintegratie/csscarsystems/"
 hero:
   title: CSS Car Systems + slimme telefonie
-  content: <div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div><br>Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en
+  content: <div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en
     is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage
     in beeld       krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd
     systeem wat past bij elke garage. Koppel CSS Car Systems nu aan onze telefonie
