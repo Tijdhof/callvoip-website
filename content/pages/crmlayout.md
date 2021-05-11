@@ -7,7 +7,7 @@ layout: default2
 logos: false
 url: "/crmintegratie/csscarsystems/"
 hero:
-  title: CSS Car Systems + Callvoip
+  title: CSS Car Systems + slimme telefonie
   content: Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en
     is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage
     in beeld       krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd
@@ -22,13 +22,13 @@ blocks:
 - content: 'Stel je voor: van elk telefoontje wat binnenkomt bij jouw garagebedrijf
     zie je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals kenteken, merk/type auto en wanneer de APK vervalt. Die pop-up noemen wij
-    Bubble. Met 1 klik op Bubble open je CSS Car Systems met de juiste gegevens en
-    kun je de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
-    class="button" target="_blank">Meer over Bubble</a>'
-  image: "/v1620391670/quote_CSS_callvoip_blauw_zm5wyk.png"
+    Bubble. Met 1 klik open je CSS Car Systems met de juiste gegevens en kun je de
+    klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
+    class="button" target="_blank">Meer over onze slimme pop-up</a>'
+  image: "/v1620728711/quote_callvoip_CSS_rp4ydt.png"
   zooming: true
   position: image_left
-  title: 'Integratie telefonie en CSS: maak kennis met Bubble'
+  title: 'Integratie telefonie en CSS: maak kennis met onze slimme pop-up'
   image_position: center
 textblocks:
 - title1: Bubble in Actie - inkomend
