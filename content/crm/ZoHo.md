@@ -9,5 +9,5 @@ tags:
   - "Relatiebeheer"
   - "Klantcontact"
 ---
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met WZoHo. Één keer klikken en je<br>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met ZoHo. Één keer klikken en je<br>
 hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Relatiebeheer en Klantcontact.
