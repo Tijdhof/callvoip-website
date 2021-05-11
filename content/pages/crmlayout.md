@@ -32,11 +32,11 @@ blocks:
   image_position: center
 textblocks:
 - title1: De slimme pop-up
-  content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
+  content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/screencss_aeqc1e.png"
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
     informatie van de klant
   title2: Slimme telefonie
-  content2: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1572604004/offerte2_fh8tvf.png"
+  content2: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1572604004/screencentrale_fkimug.png"
     class="zoom"><br>Met onze uitgekiende telefonie-oplossing is alles mogelijk: keuzemenu,
     doorschakelen etc'
   title3: Wat gebeurt hier eigenlijk?
