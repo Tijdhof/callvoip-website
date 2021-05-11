@@ -22,7 +22,7 @@
           <script>
             var input = document.getElementById("tags-search"),
               rlist = input.nextElementSibling.querySelector('ul'),
-              tags = `{{ $t := where .Site.Taxonomies.testimonial ".Page.Section" "testimonials2" }}{{ range $t }}{{ .Page.Title  }}{{ end }}`,
+              tags = `{{ $t := where .Site.Taxonomies.testtax ".Page.Section" "testimonials2" }}{{ range $t }}{{ .Page.Title  }}{{ end }}`,
               arr = tags.replaceAll('"', ' ').trim();
 
             input.addEventListener("keyup", function (e) {
