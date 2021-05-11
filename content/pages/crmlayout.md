@@ -31,14 +31,13 @@ blocks:
   title: 'Integratie telefonie en CSS: maak kennis met onze slimme pop-up'
   image_position: center
 textblocks:
-- title1: Bubble in Actie - inkomend
+- title1: De slimme pop-up
   content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/voorbeeld1_kxq00o.jpg"
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
-    informatie
-  title2: Bubble in Actie - snelkoppeling
+    informatie van de klant
+  title2: Slimme telefonie
   content2: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
-    class="zoom"><br>Klik op de pop-up om de bijbehorende informatie in je systeem
-    te openen. '
+    class="zoom"><br>Met onze uitgekiende telefonie-oplossing is alles mogelijk '
   title3: Wat gebeurt hier eigenlijk?
   content3: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/nu_yvspnz.jpg"
     class="zoom"><br>Dit lijkt erg veel op de eerste 2 screenshots
