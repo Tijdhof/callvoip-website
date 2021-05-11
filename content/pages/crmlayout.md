@@ -36,8 +36,9 @@ textblocks:
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
     informatie van de klant
   title2: Slimme telefonie
-  content2: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376013/voorbeeld_2_sbbgs4.jpg"
-    class="zoom"><br>Met onze uitgekiende telefonie-oplossing is alles mogelijk '
+  content2: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1607004755/images_u4dh1h.jpg"
+    class="zoom"><br>Met onze uitgekiende telefonie-oplossing is alles mogelijk: keuzemenu,
+    doorschakelen etc'
   title3: Wat gebeurt hier eigenlijk?
   content3: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/nu_yvspnz.jpg"
     class="zoom"><br>Dit lijkt erg veel op de eerste 2 screenshots
