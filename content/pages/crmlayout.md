@@ -39,9 +39,10 @@ textblocks:
   content2: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1572604004/screencentrale_fkimug.png"
     class="zoom"><br>Met onze uitgekiende telefonie-oplossing is alles mogelijk: keuzemenu,
     doorschakelen etc'
-  title3: Wat gebeurt hier eigenlijk?
-  content3: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/vidcall_ykc2cy.png"
-    class="zoom"><br>Dit lijkt erg veel op de eerste 2 screenshots
+  title3: Eerst even kennismaken?
+  content3: '<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/vidcall_ykc2cy.png"
+    class="zoom"><br>We maken graag kennis en beantwoorden al je vragen over ons mooie
+    systeem. '
   show_vshape: false
 images: []
 hideinsearch: false
