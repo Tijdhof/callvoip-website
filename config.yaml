@@ -12,6 +12,7 @@ taxonomies:
   category: categories
   onderdeel: onderdelen
   tag: tags
+  testtax: testtax
 menu:
   top:
   - url: "/ondersteuning"
