@@ -24,7 +24,8 @@ Het inloggen op de telefooncentrale en webcalls werken nog niet.
   
 Update 11.45  
 Er is een belangrijke stap gezet in het oplossen van het probleem.   
-We verwachten dat de dienstverlening spoedig weer hersteld wordt. 
+We verwachten dat de dienstverlening spoedig weer hersteld wordt.   
+**Advies: herstart uw toestel zodat deze opnieuw registreert.** 
 
 Technici zijn op de hoogte en werken hard aan een oplossing.  
 Onze welgemeende excuses voor deze verstoring van onze diensten.  
