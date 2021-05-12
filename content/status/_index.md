@@ -7,19 +7,19 @@ hero:
   disable_image_on_mobile: false
 items:
 - title: Online telefooncentrale
-  status: true
+  status: false
 - title: Inkomende gesprekken
-  status: true
+  status: false
 - title: Uitgaande gesprekken
-  status: true
+  status: false
 - title: "(Extern) Doorschakelen"
-  status: true
+  status: false
 - title: Toestelregistraties
-  status: true
+  status: false
 - title: Webcalls
-  status: true
+  status: false
 - title: Qaller Smartphone app
-  status: true
+  status: false
 - title: Vamos Vast-Mobiel
   status: true
 - title: BLF (statuslampjes)
