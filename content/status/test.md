@@ -3,7 +3,9 @@ title: Meldingen
 error: false
 
 ---
-Woensdag 12 mei 2021 om 10.30 uur:  
+Woensdag 12 mei 2021 om 10.30 uur: **DE STORING IS OPGELOST**  
+===  
+  
 De telefoondienst heeft momenteel een storing:  
 \* beheerpagina niet beschikbaar  
 \* webcalls out of service
@@ -34,8 +36,10 @@ Keuzemenu's werken ook weer, mogelijk met enige vertraging
 In wachtrijen kunnen nog wat oude gesprekken blijven hangen, die halen we er nog uit.   
 De Qaller app werkt nog niet naar behoren.   
   
-Er wordt nu gewerkt aan de laatste herstelpunten en optimalisaties. 
-
-Technici zijn op de hoogte en werken hard aan een oplossing.  
-Onze welgemeende excuses voor deze verstoring van onze diensten.  
+Er wordt nu gewerkt aan de laatste herstelpunten en optimalisaties.   
+Alle operationele processen zijn weer hersteld en alles werkt naar behoren.   
+**Mocht je toch nog een probleem ervaren, laat het ons dan weten zodat we je verder assisteren om dit op te lossen.**   
+  
+Nogmaals: onze welgemeende excuses voor deze verstoring van onze diensten.  
+We zijn ons bewust dat je erg afhankelijk bent van de stabiliteit van ons systeem en doen alles wat we kunnen om deze zo goed mogelijk te bewaken. Hierin zijn de afgelopen maanden ook al grote stappen genomen.   
 Team Callvoip
