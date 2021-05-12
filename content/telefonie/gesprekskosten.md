@@ -8,11 +8,15 @@ slug: gesprekskosten
 hero:
   image: "/v1566210416/240_F_237079460_3ISPpoxlNNocONLAKIdrOuG77kik35Ww_kpm3xs.jpg"
   title: Gesprekskosten
+  disable_image_on_mobile: false
 layout: ''
 hideinsearch: false
 searchtags:
 - tarieven
 - kosten
+hideingoogle: false
+hidesocialshare: false
+
 ---
 Hier vindt u een overzicht van de gesprekskosten van Callvoip. Bij Callvoip betaalt u een vast laag tarief voor uw belminuten. Naast de abonnementskosten kunt u ook veel besparen op uw beltarieven, zowel nationaal als internationaal. Alle gesprekken worden gefactureerd per seconde, ook de eerste minuut. Medewerkers bellen onderling gratis, ook bij meerdere vestigingen.
 
@@ -287,7 +291,7 @@ Hier vindt u een overzicht van de gesprekskosten van Callvoip. Bij Callvoip beta
 {{</ layout/columns >}}
 <br>
 <a href="http://files.callvoip.nl/downloads/Callvoip_tarievenlijst.pdf" class="button" target="_blank">Download volledig tariefoverzicht</a>
-<br><br>
+<br><br><br><br>
 
 ## Belbundels (NL vast + mobiel)
 
