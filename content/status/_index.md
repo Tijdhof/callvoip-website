@@ -15,7 +15,7 @@ items:
 - title: "(Extern) Doorschakelen"
   status: true
 - title: Toestelregistraties
-  status: false
+  status: true
 - title: Webcalls
   status: true
 - title: Qaller Smartphone app
