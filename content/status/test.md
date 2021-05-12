@@ -14,7 +14,13 @@ Het probleem is gevonden en er wordt gewerkt aan herstel van de diensten.
 Update 11.00  
 Toestelregistraties komen terug.   
 Uitbellen gaat in veel gevallen weer goed; herstart evt je telefoon.   
-De panel / Qaller zijn niet beschikbaar: doorschakelen van uw nummer is nog niet mogelijk. 
+De panel / Qaller zijn niet beschikbaar: doorschakelen van uw nummer is nog niet mogelijk.   
+  
+Update 11.30  
+Inkomend en uitgaand verkeer op toestellen werkt goed.   
+Wel is de snelheid en verwerkingscapaciteit nog niet optimaal.  
+Features als wachtrijen etc. werken niet goed.   
+Het inloggen op de telefooncentrale en webcalls werken nog niet.
 
 Technici zijn op de hoogte en werken hard aan een oplossing.  
 Onze welgemeende excuses voor deze verstoring van onze diensten.  
