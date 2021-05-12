@@ -23,7 +23,7 @@ items:
 - title: Vamos Vast-Mobiel
   status: true
 - title: BLF (statuslampjes)
-  status: false
+  status: true
 - title: Click-to-Dial
   status: true
 - title: Trunk
