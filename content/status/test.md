@@ -20,7 +20,11 @@ Update 11.30
 Inkomend en uitgaand verkeer op toestellen werkt goed.   
 Wel is de snelheid en verwerkingscapaciteit nog niet optimaal.  
 Features als wachtrijen etc. werken niet goed.   
-Het inloggen op de telefooncentrale en webcalls werken nog niet.
+Het inloggen op de telefooncentrale en webcalls werken nog niet.   
+  
+Update 11.45  
+Er is een belangrijke stap gezet in het oplossen van het probleem.   
+We verwachten dat de dienstverlening spoedig weer hersteld wordt. 
 
 Technici zijn op de hoogte en werken hard aan een oplossing.  
 Onze welgemeende excuses voor deze verstoring van onze diensten.  
