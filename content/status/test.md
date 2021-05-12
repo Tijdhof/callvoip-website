@@ -8,7 +8,7 @@ De telefoondienst heeft momenteel een storing:
 \* beheerpagina niet beschikbaar  
 \* webcalls out of service
 
-Update 10.40:  
+Update 10.40  
 Het probleem is gevonden en er wordt gewerkt aan herstel van de diensten.  
   
 Update 11.00  
@@ -25,7 +25,16 @@ Het inloggen op de telefooncentrale en webcalls werken nog niet.
 Update 11.45  
 Er is een belangrijke stap gezet in het oplossen van het probleem.   
 We verwachten dat de dienstverlening spoedig weer hersteld wordt.   
-**Advies: herstart uw toestel zodat deze opnieuw registreert.** 
+**Advies: herstart uw toestel zodat deze opnieuw registreert.**   
+  
+Update 12.15  
+De US Panel en Webcalls werken weer  
+Het inloggen op de telefooncentrale werkt inmiddels weer.    
+Keuzemenu's werken ook weer, mogelijk met enige vertraging  
+In wachtrijen kunnen nog wat oude gesprekken blijven hangen, die halen we er nog uit.   
+De Qaller app werkt nog niet naar behoren.   
+  
+Er wordt nu gewerkt aan de laatste herstelpunten en optimalisaties. 
 
 Technici zijn op de hoogte en werken hard aan een oplossing.  
 Onze welgemeende excuses voor deze verstoring van onze diensten.  
