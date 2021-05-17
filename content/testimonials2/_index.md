@@ -6,7 +6,7 @@ intro:
 selected_tags:
   - Advocaat
 hero:
-  image: "/v1603982195/crmoverzicht_geuhmx.png"
+  image: "/v1603982195/testimonials_tsm77e.png"
 url: /testimonials2/
 hideinsearch: true
 hideingoogle: true
