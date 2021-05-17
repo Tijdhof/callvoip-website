@@ -8,6 +8,9 @@ tags:
   - "CSS"
   - "CarSystems"
   - "Garage"
+hideinsearch: true
+hindeingoogle: true
+
 ---
 Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met CSS Car Systems. Één keer klikken en je<br>
 hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Garagebedrijven.
