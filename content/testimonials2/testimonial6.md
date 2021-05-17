@@ -13,6 +13,6 @@ hideingoogle: true
 
 <br>
 <a href="https://www.alphalabs.nl/">
-<img src="https://res.cloudinary.com/callvoip/image/upload/w_auto,dpr_auto/v1563974930/callvoip-website-testimonial-ictNW.png" class="max-h-logo-small lg:max-h-logo cld-responsive block max-w-full mb-8 object-contain" alt="Client" width="98"></a>“Al <b>meer dan 10 jaar</b> levert Callvoip ons de benodigde oplossingen voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken altijd met je mee.”
+<img src="https://res.cloudinary.com/callvoip/image/upload/w_auto,dpr_auto/v1563974930/alphalabs_dtcwss.png" class="max-h-logo-small lg:max-h-logo cld-responsive block max-w-full mb-8 object-contain" alt="Client" width="98" style="float:left; padding-right:12px;"></a>“Al <b>meer dan 10 jaar</b> levert Callvoip ons de benodigde oplossingen voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken altijd met je mee.”
 <br><br>
 <p class=" lg:text-lg opacity-75 font-medium mb-8">C. Gliam - AlphaLabs</p>
