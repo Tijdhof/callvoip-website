@@ -2,7 +2,7 @@
 title: Testimonials
 intro:
   title: Testimonials
-  content: "Wow wat een mooie reviews zijn dit, nu MOET ik wel klant worden. wow!"
+  content: "Natuurlijk ben je bij ons aan het goede adres voor de slimste telefonie, het snelste internet en de beste persoonlijke service. Maar geloof ons niet, geloof de klanten in jouw eigen branche die je voorgingen."
 selected_tags:
   - Advocaat
 hero:
