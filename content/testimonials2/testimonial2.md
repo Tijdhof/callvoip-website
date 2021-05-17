@@ -6,6 +6,9 @@ link:
   text: "Bekijk de oplossing"
 reviews:
   - "Recruitment"
+hideinsearch: true
+hideingoogle: true
+
 ---
 
 <br>
