@@ -48,10 +48,10 @@ team:
   linkedin: ''
   image: "/v1603205075/tom_yqm9df.png"
 - content: 'Arjan wordt gelukkig van klanten helpen en heavy metal. Hij wordt bovendien
-    blij van een leuk team en een fijne werkplek om zich heen, dus het is een compliment
-    dat hij onze gelederen heeft versterkt. Hij reisde met zijn vrouw samen al heel
-    de wereld over en thuis wacht, zoals bij meer Callvoipers, hun kat op de terugkomst.
-    Beetje vreemd: hij drinkt weinig koffie, maar maakt dat goed met blikjes frisdrank.'
+    blij van een leuk team om zich heen, dus het is een compliment dat hij onze gelederen
+    heeft versterkt. Hij reisde met zijn vrouw samen al heel de wereld over en thuis
+    wacht, zoals bij meer Callvoipers, hun kat op de terugkomst. Beetje vreemd: hij
+    drinkt weinig koffie, maar maakt dat goed met blikjes frisdrank.'
   function: Support
   name: Arjan van Bruggen
   linkedin: ''
