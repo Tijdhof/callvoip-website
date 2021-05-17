@@ -55,7 +55,7 @@ team:
   function: Support
   name: Arjan van Bruggen
   linkedin: ''
-  image: ''
+  image: "/v1621251164/Arjan_van_Bruggen_-_team_Callvoip_whwvo6.png"
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
