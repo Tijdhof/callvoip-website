@@ -9,6 +9,16 @@ intro:
     staat. Maak daarom kennis met ons team en weet wie u aan de lijn heeft.
   title: Het team van Callvoip
 team:
+- content: 'Arjan wordt gelukkig heavy metal én van klanten helpen. Wat wil je nog
+    meer als je ons belt? Hij wordt ook blij van een leuk team en een fijne werkplek
+    om zich heen, dus het is een compliment dat hij onze gelederen heeft versterkt.
+    Verder reisde hij met zijn vrouw samen al heel de wereld over en wacht thuis,
+    zoals bij meer Callvoipers, hun kat op de terugkomst. Wel beetje vreemd: hij drinkt
+    weinig koffie, maar maakt dat goed met blikjes frisdrank.'
+  function: Support
+  name: Arjan van Bruggen
+  linkedin: ''
+  image: ''
 - content: Heeft veel kennis in huis. Ziet overal oplossingen met handige apparatuur.
     Altijd op de hoogte van nieuwe ontwikkelingen. Rijdt in een witte auto en drinkt
     de koffie zwart. Heeft niets met favoriete FC te maken, al komt Twente uit dezelfde
@@ -69,8 +79,8 @@ team:
   linkedin: https://www.linkedin.com/in/timschouwenaar/?locale=nl_NL
   image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
   name: Tim Schouwenaar
-description: 'Maak kennis met het team van Callvoip: Tim (2x), Tom, Remco, Lynn, Herman,
-  Marieke & Robert.'
+description: 'Maak kennis met het team van Callvoip: Tim (2x), Tom, , Arjan, Remco,
+  Lynn, Herman, Marieke & Robert.'
 images: []
 hideinsearch: false
 hideingoogle: false
