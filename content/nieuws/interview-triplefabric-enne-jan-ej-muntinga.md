@@ -2,7 +2,7 @@
 title: Interview TripleFabrics - Enne Jan ‘EJ’ Muntinga
 description: ''
 images: []
-featured: false
+featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
@@ -13,7 +13,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2021-05-12T22:00:00+00:00
 url: "/nieuws/interview-TripleFabric/"
 contactpersoon: []
 categories: []
