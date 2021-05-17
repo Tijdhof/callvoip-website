@@ -34,7 +34,7 @@ blocks:
   image_position: center
 textblocks:
 - title1: De slimme pop-up
-  content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/screencss_aeqc1e.png"
+  content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/screencss_qr87bb.png"
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
     informatie van de klant
   title2: Slimme telefonie
