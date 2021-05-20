@@ -47,12 +47,12 @@ usps:
     items:
     - title: Vast Mobiel (Vamos)
       link: "/aanvragen/vamos/"
-    - title: VoIP CTI (Koppeling met uw CRM-pakket)
-      link: "/aanvragen/voip-cti/"
     - title: Conference Service
       link: "/aanvragen/conference/"
     - title: Importeren telefoonboek Click-to-Dial
       link: "/aanvragen/importeren-telefoonboek-c2d/"
+    - title: VoIP CTI CRM-integratie
+      link: "/aanvragen/voip-cti/"
     - title: CRM Lookup koppeling
       link: "/aanvragen/crm-lookup/"
     - title: MS Teams koppeling 
@@ -83,6 +83,8 @@ usps:
       link: "/wijzigen/klantgegevens/"
     - title: Verhuisbericht
       link: "/wijzigen/verhuisbericht/"
+    - title: Vast Mobiel (Vamos)
+      link: "/wijzigen/vamos/"
   - title: <div id="opzeggen">Overig</div>
     items:
     - title: Gidsvermelding
@@ -101,16 +103,16 @@ usps:
       link: "/opzeggen/nummer/"
   - title: Internet
     items:
-    - title: CallvoipDSL of FTTH
+    - title: Callvoip Business DSL
       link: "/opzeggen/internet-callvoip/"
   - title: Integratie
     items:
     - title: Vast Mobiel (Vamos)
       link: "/opzeggen/vamos/"
-    - title: VoIP CTI
-      link: "/opzeggen/voipcti/"
     - title: Conference Service
       link: "/opzeggen/conference/"
+    - title: VoIP CTI CRM-integratie
+      link: "/opzeggen/voipcti/"
     - title: CRM Lookup
       link: "/opzeggen/crmlookup/"
   - title: Overig
