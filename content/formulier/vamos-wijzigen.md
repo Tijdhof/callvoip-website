@@ -71,15 +71,10 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/option "Nee, ik heb dit niet" >}}
 
-{{< form/option "Ja en ik wil 2GB extra*" >}}
+{{< form/option "Ja en ik wil 2GB extra (€ 60,- ew BTW)" >}}
 
-{{< form/option "Ja en ik wil 4GB extra*" >}}
+{{< form/option "Ja en ik wil 4GB extra (€ 120,- ew BTW)" >}}
 
-{{< form/option "Ja en ik wil 6GB extra*" >}}
-
-{{< form/option "Ja en ik wil 8GB extra*" >}}
-
-{{< form/option "Ja en ik wil 10GB extra*" >}}
 
 {{</ form/select >}}
 
