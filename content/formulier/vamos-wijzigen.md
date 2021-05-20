@@ -194,5 +194,3 @@ Onbeperkt bellen EU + 10GB data
 {{</ layout/columns >}}
 
 {{</ form >}}
-
-*Eenmalig extra data kost € 60,00 ex btw per 2GB
