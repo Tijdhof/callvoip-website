@@ -61,11 +61,28 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/select "Is deze aanpassing eenmalig of structureel" >}}
 
-{{< form/option "EENMALIG* (voor de rest van de maand)" >}}
+{{< form/option "EENMALIG (voor de rest van de maand)" >}}
 
 {{< form/option "STRUCTUREEL (voor alle maanden daarna, abonnementswijziging)" >}}
 
 {{</ form/select >}}
+
+{{< form/select "Heeft u al een 10GB data bundel en wilt u extra data voor deze maand?" >}}
+
+{{< form/option "Nee, ik heb dit niet" >}}
+
+{{< form/option "Ja en ik wil 2GB extra*" >}}
+
+{{< form/option "Ja en ik wil 4GB extra*" >}}
+
+{{< form/option "Ja en ik wil 6GB extra*" >}}
+
+{{< form/option "Ja en ik wil 8GB extra*" >}}
+
+{{< form/option "Ja en ik wil 10GB extra*" >}}
+
+{{</ form/select >}}
+
 
 {{< form/input "Wensdatum" >}}
 
