@@ -61,7 +61,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/select "Is deze aanpassing eenmalig of structureel" >}}
 
-{{< form/option "EENMALIG (voor de rest van de maand)" >}}
+{{< form/option "EENMALIG* (voor de rest van de maand)" >}}
 
 {{< form/option "STRUCTUREEL (voor alle maanden daarna, abonnementswijziging)" >}}
 
@@ -114,7 +114,7 @@ Onbeperkt bellen EU + 0GB data
 
 {{< layout/column3 >}}
 
-€ 25,00 ex BTW (per SIM)
+€ 15,00 ex BTW (per SIM)
 
 {{</ layout/column3 >}}
 
@@ -135,7 +135,7 @@ Onbeperkt bellen EU + 2GB data
 
 {{< layout/column3 >}}
 
-€ 25,00 ex BTW (per SIM)
+€ 15,00 ex BTW (per SIM)
 
 {{</ layout/column3 >}}
 
@@ -156,7 +156,7 @@ Onbeperkt bellen EU + 5GB data
 
 {{< layout/column3 >}}
 
-€ 25,00 ex BTW (per SIM)
+€ 15,00 ex BTW (per SIM)
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
@@ -176,9 +176,11 @@ Onbeperkt bellen EU + 10GB data
 
 {{< layout/column3 >}}
 
-€ 25,00 ex BTW (per SIM)
+€ 15,00 ex BTW (per SIM)
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
 
 {{</ form >}}
+
+*Eenmalig extra internet cost € 60,00 ex btw per 2GB
