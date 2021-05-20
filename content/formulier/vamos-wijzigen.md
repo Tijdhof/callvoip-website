@@ -59,7 +59,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/select "Is deze aanpassing eenmalig of structureel" >}}
+{{< form/select "Is deze aanpassing eenmalig of structureel?" >}}
 
 {{< form/option "EENMALIG (voor de rest van de maand)" >}}
 
@@ -67,7 +67,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/select "Heeft u al een 10GB data bundel en wilt u extra data voor deze maand?" >}}
+{{< form/select "Heb je al een 10GB data bundel en wil je extra data voor deze maand?" >}}
 
 {{< form/option "Nee, ik heb dit niet" >}}
 
