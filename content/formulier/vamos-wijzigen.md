@@ -59,7 +59,7 @@ NB: een VAMOS abonnementswijziging kost 15,- ex BTW éénmalig.
 
 {{</ form/select >}}
 
-{{< form/select "Gaat het alleen om DEZE kalendermaand, of wil je je abonnement structureel aanpassen?" >}}
+{{< form/select "Wat voor databundel-wijziging is het: deze maand of structureel?" >}}
 
 {{< form/option "Ik wil alleen DEZE kalendermaand mijn databundel wijzigen" >}}
 
@@ -67,7 +67,7 @@ NB: een VAMOS abonnementswijziging kost 15,- ex BTW éénmalig.
 
 {{</ form/select >}}
 
-{{< form/select "Is je 10GB databundel op, en heb je deze kalendermaand toch extra data nodig?" >}}
+{{< form/select "Is jouw 10GB op en heb je deze kalendermaand toch meer data nodig?" >}}
 
 {{< form/option "Nee, ik heb dit niet" >}}
 
@@ -103,7 +103,7 @@ Maandelijks
 
 {{< layout/column3 >}}
 
-Eenmalig
+Wijzigingskosten
 
 {{</ layout/column3 >}}
 
