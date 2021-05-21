@@ -77,20 +77,20 @@ usps:
   content: 'Wijzigen je gegevens? Geef het ons door via deze wijzigingsformulieren.
     Vergeet niet een reply te sturen op de email ter bevestiging van je wijziging. '
   items:
-  - title: Algemeen
+  - title: Klantgegevens
     items:
     - title: Klantgegevens
       link: "/wijzigen/klantgegevens/"
     - title: Verhuisbericht
       link: "/wijzigen/verhuisbericht/"
-    - title: Vast Mobiel (Vamos)
-      link: "/wijzigen/vamos/"
-  - title: <div id="opzeggen">Overig</div>
-    items:
     - title: Gidsvermelding
       link: "/wijzigen/gidsvermelding/"
     - title: Rekeningnummer
       link: "/wijzigen/rekeningnummer/"
+  - title: <div id="opzeggen">Overig</div>
+    items:
+    - title: VAMOS wijzigen databundel
+      link: "/wijzigen/vamos/"
 - title: Opzeggen
   content: 'Wil je één van de diensten beeïndigen? Kies rechts de dienst die je wilt
     opzeggen en wij zullen de opzegging verwerken en bevestigen. '
