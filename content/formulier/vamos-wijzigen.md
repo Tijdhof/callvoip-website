@@ -5,7 +5,8 @@ url: "/wijzigen/vamos/"
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-NB: een VAMOS abonnementswijziging kost 15,- ex BTW éénmalig.
+NB: een VAMOS abonnementswijziging kost 15,- ex BTW éénmalig.  
+Bij een upgrade betaalt u bovendien het verschil tussen het oude en nieuwe abonnement en/of de prijs van de GB's buiten de bundels.  
 
 {{< form "aanvragen-vamos" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
