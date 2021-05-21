@@ -1,9 +1,11 @@
 ---
-title: Vast Mobiel (Vamos) abonnement wijzigen
+title: Vamos Vast Mobiel databundel wijzigen
 url: "/wijzigen/vamos/"
 
 ---
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.  
+  
+NB: een VAMOS abonnementswijziging kost 15,- ex BTW éénmalig.
 
 {{< form "aanvragen-vamos" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -31,23 +33,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
+{{< form/fieldset "Wijziging VAMOS Databundel" >}}
 
-{{< form/fieldset "Wijziging Vamos" >}}
-
-{{< form/select "Huidig Vamos abonnement" >}}
-
-{{< form/option "onbeperkt bellen en SMS in EU + 0GB" >}}
-
-{{< form/option "onbeperkt bellen en SMS in EU + 2GB" >}}
-
-{{< form/option "onbeperkt bellen en SMS in EU + 5GB" >}}
-
-{{< form/option "onbeperkt bellen en SMS in EU + 10GB" >}}
-
-
-{{</ form/select >}}
-
-{{< form/select "Gewenst Vamos abonnement" >}}
+{{< form/select "Je hebt nu dit VAMOS abonnement:" >}}
 
 {{< form/option "onbeperkt bellen en SMS in EU + 0GB" >}}
 
@@ -59,25 +47,35 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/select "Is deze aanpassing eenmalig of structureel?" >}}
+{{< form/select "Je wilt de VAMOS databundel wijzigen in:" >}}
 
-{{< form/option "EENMALIG (voor de rest van de maand)" >}}
+{{< form/option "onbeperkt bellen en SMS in EU + 0GB" >}}
 
-{{< form/option "STRUCTUREEL (voor alle maanden daarna, abonnementswijziging)" >}}
+{{< form/option "onbeperkt bellen en SMS in EU + 2GB" >}}
+
+{{< form/option "onbeperkt bellen en SMS in EU + 5GB" >}}
+
+{{< form/option "onbeperkt bellen en SMS in EU + 10GB" >}}
 
 {{</ form/select >}}
 
-{{< form/select "Heb je al een 10GB data bundel en wil je extra data voor deze maand?" >}}
+{{< form/select "Gaat het alleen om DEZE kalendermaand, of wil je je abonnement structureel aanpassen?" >}}
+
+{{< form/option "Ik wil alleen DEZE kalendermaand mijn databundel wijzigen" >}}
+
+{{< form/option "Ik wil STRUCTUREEL vanaf nu een ander VAMOS abonnement" >}}
+
+{{</ form/select >}}
+
+{{< form/select "Is je 10GB databundel op, en heb je deze kalendermaand toch extra data nodig?" >}}
 
 {{< form/option "Nee, ik heb dit niet" >}}
 
-{{< form/option "Ja en ik wil 2GB extra (€ 60,- ew BTW)" >}}
+{{< form/option "Ja, ik wil 2GB data bijboeken (€ 60,- ew BTW)" >}}
 
-{{< form/option "Ja en ik wil 4GB extra (€ 120,- ew BTW)" >}}
-
+{{< form/option "Ja en ik wil 4GB data bijboeken (€ 120,- ew BTW)" >}}
 
 {{</ form/select >}}
-
 
 {{< form/input "Wensdatum" >}}
 
