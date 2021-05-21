@@ -3,8 +3,8 @@ title: Vamos Vast Mobiel databundel wijzigen
 url: "/wijzigen/vamos/"
 
 ---
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.  
-  
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
+
 NB: een VAMOS abonnementswijziging kost 15,- ex BTW éénmalig.
 
 {{< form "aanvragen-vamos" "/aanvragen/verzonden" >}}  
@@ -77,7 +77,7 @@ NB: een VAMOS abonnementswijziging kost 15,- ex BTW éénmalig.
 
 {{</ form/select >}}
 
-{{< form/input "Wensdatum" >}}
+{{< form/input "Wanneer moet de wijziging ingaan? (leeg = per direct)" >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
