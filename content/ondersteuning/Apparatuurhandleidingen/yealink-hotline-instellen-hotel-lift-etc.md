@@ -8,7 +8,7 @@ hideingoogle: false
 hidesocialshare: false
 Nieuw: true
 Update: false
-pdf: ''
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf
 
 ---
 Hotline instellen op een Yealink toestel?
@@ -32,6 +32,4 @@ Op een Yealink telefoontoestel stel je dit zo in: <br>
 Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. En zie ook onze [Callvoip Casts](https://callvoip.nl/casts).  
 <br><br><br><br>
 
-<a href="http://files.callvoip.nl/downloads/Callvoip_verkorte_gebruikshandleiding_Yealink-IP-DECT-W53-W60.pdf" target="_blank" class="button">Download Handleiding</a>
-
-" target="_blank" class="button">Download Handleiding</a>
+<a href="[http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf](http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf "http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf")" target="_blank" class="button">Download Handleiding</a>
