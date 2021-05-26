@@ -14,9 +14,8 @@ pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.p
 Hotline instellen op een Yealink toestel?
 
 Voor hotels, lifttoestellen en een taxilijn bij bv een garderobe kan het handig zijn om  
-een toestel van een HOTLINE te voorzien:
-
-**Zodra je de hoorn opneemt of de speakertoets indrukt wordt gelijk dit nummer gebeld.**
+een toestel van een HOTLINE te voorzien:  
+Zodra je de hoorn opneemt of de speakertoets indrukt wordt gelijk dit nummer gebeld.<br><br><hr><br>
 
 <h3>Hotline instellen op een Yealink toestel:</h3>  
 Op een Yealink telefoontoestel stel je dit zo in: <br>
@@ -30,6 +29,6 @@ Op een Yealink telefoontoestel stel je dit zo in: <br>
 ![](https://res.cloudinary.com/callvoip/image/upload/v1622047980/hotline_n3hays.jpg)  
 <br><br><h3>Meer weten? Download de handleiding!</h3>  
 Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. En zie ook onze [Callvoip Casts](https://callvoip.nl/casts).  
-<br><br><br><br>
+<br><br>
 
 <a href="[http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf](http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf "http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf")" target="_blank" class="button">Download Handleiding</a>
