@@ -15,7 +15,7 @@ outputs:
 - JSON
 weight: 
 description: 'Oplossingen en ondersteuning voor veel voorkomende VoIP problemen. Handige
-  artikelen en software downloads. '
+  artikelen en software-downloads. '
 images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: ''
