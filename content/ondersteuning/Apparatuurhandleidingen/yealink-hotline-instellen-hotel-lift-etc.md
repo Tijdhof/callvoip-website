@@ -9,7 +9,6 @@ hidesocialshare: false
 Nieuw: true
 Update: false
 pdf: ''
-draft: true
 
 ---
 Hotline instellen op een Yealink toestel?  
