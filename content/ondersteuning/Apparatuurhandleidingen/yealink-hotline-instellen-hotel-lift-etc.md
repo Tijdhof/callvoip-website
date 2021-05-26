@@ -1,5 +1,5 @@
 ---
-weight: 90
+weight: 18
 title: Yealink HOTLINE instellen (hotel, lift, etc)
 description: ''
 images: []
