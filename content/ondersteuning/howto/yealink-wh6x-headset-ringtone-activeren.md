@@ -9,6 +9,7 @@ hidesocialshare: false
 Nieuw: true
 Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_WH6x-headset-ringtone-inschakelen.pdf
+aliases: /ondersteuning/apparatuurhandleidingen/yealink-wh6x-headset-ringtone-activeren/
 
 ---
 <h3>1. Sluit de headset aan</h3>
