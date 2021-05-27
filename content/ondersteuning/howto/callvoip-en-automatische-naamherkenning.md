@@ -6,7 +6,7 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-Nieuw: true
+Nieuw: false
 Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_informatie-automatische-naamherkening.pdf
 
