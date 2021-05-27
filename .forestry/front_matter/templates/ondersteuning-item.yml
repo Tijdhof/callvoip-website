@@ -45,10 +45,8 @@ pages:
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
-- content/ondersteuning/Apparatuurhandleidingen/yealink-hotline-instellen-hotel-lift-etc.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-serie.md
 - content/ondersteuning/Apparatuurhandleidingen/yealink-t4x-t5x-gebruikshandleiding.md
-- content/ondersteuning/Apparatuurhandleidingen/yealink-wh6x-headset-ringtone-activeren.md
 - content/ondersteuning/Apparatuurhandleidingen/zoiper-softphone.md
 - content/ondersteuning/Integraties/click-to-dial-uitgebreide-handleiding.md
 - content/ondersteuning/Integraties/click-to-dial-yealink-adresboek.md
@@ -69,6 +67,7 @@ pages:
 - content/ondersteuning/fax-voicemail/fax-versturen.md
 - content/ondersteuning/fax-voicemail/tips-voor-slagend-faxverkeer.md
 - content/ondersteuning/fax-voicemail/voicemail-instellen-afluisteren.md
+- content/ondersteuning/howto/callvoip-en-automatische-naamherkenning.md
 - content/ondersteuning/hulp-op-afstand.md
 - content/ondersteuning/internet/callvoip-business-adsl-instellen.md
 - content/ondersteuning/internet/callvoip-business-ftth-instellen.md
