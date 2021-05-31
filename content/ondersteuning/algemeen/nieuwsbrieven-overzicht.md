@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2021</h3>
 
+* <a href="https://4hdx3.r.ag.d.sendibm3.com/mk/mr/8BCUyfvDl2gIjs7uxPPnLW4zg-517CAiyw77y_8nD21wwY3p2dBkn9vmS-cOtmnIgT1OuUHCum9J_3h1m5WXAmqn7LJ7L9KYf-QHGMr7NUUCqk0" target="_blank">Nieuwsbrief 27-05-2021 | Integreer jij al met Callvoip?</a>
 * <a href="https://4hdx3.r.ag.d.sendibm3.com/mk/mr/McDAE8AXBd02nZ1Bzw2174a_iY5KEyLHHoB5iQEArR0UcRa19TughXjjMRi9h8JLU_K2-l-DhbkF-nqqATY_Pirz3Bs4ElEmrbFG-nK2Z4NiGxE" target="_blank">Nieuwsbrief 02-04-2021 | Laatste kans: Webcalls ook gratis proberen?</a>
 * <a href="https://sh1.sendinblue.com/vntys8qutt7e.html?t=1614968160" target="_blank">Nieuwsbrief 05-03-2021 | Webcalls langer kostenloos, thuiswerken met een headset en Callvoipers thuis!</a>
 * <a href="https://www.callvoip.nl/nieuws/thuiswerktools-blog/" target="_blank">Blog 9-2-2021 | Thuiswerk-tools; een kijkje in de cockpit van de thuiswerker</a>
