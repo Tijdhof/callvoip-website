@@ -9,7 +9,7 @@ hidesocialshare: false
 Nieuw: true
 Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Hotline-instellen.pdf'
-aliases: /ondersteuning/apparatuurhandleidingen/yealink-hotline-instellen-hotel-lift-etc/
+aliases: "/ondersteuning/apparatuurhandleidingen/yealink-hotline-instellen-hotel-lift-etc/"
 
 ---
 Hotline instellen op een Yealink toestel?
@@ -24,8 +24,8 @@ Op een Yealink telefoontoestel stel je dit zo in: <br>
 1. klik op de OK toets van het toestel en log in op de webinterface<br>
 2. Ga naar menu Features à kies links submenu General Information<br>
 3. Bij HOTLINE: vul het telefoonnummer in dat gebeld moet worden (bv taxi of receptie<br>
-4. 4. TIP: je kunt ook het nummer van een belplan gebruiken waarin je de juiste belroute zet <br>
-5. 5. Sla de wijzigingen op en test<br>
+4. TIP: je kunt ook het nummer van een belplan gebruiken waarin je de juiste belroute zet <br>
+5. Sla de wijzigingen op en test<br>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1622047980/hotline_n3hays.jpg)  
 <br><br><h3>Meer weten? Download de handleiding!</h3>  
