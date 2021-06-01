@@ -33,4 +33,6 @@ Bepaal zelf op welke manier jij werkt en je kunt alles doen wat je op kantoor oo
 Meer informatie met een aantal schermprints vind je in de handleiding die je hieronder en rechts onder het menu kunt downloaden. En zie ook onze [Callvoip Casts](https://callvoip.nl/casts).  
 <br><br>
 
+![](https://res.cloudinary.com/callvoip/image/upload/v1622568677/klavertje-viersucces_wrg9uh.jpg)
+
 <a href="http://files.callvoip.nl/downloads/Callvoip_thuiswerk-telefonie-oplossingen.pdf" target="_blank" class="button">Download Handleiding</a>

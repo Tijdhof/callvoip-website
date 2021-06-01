@@ -1,12 +1,12 @@
 ---
-weight: 0
-title: Callvoip en automatische naamherkenning
+weight: 
+title: Automatische naamherkenning
 description: ''
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-Nieuw: false
+Nieuw: true
 Update: false
 pdf: http://files.callvoip.nl/downloads/Callvoip_informatie-automatische-naamherkening.pdf
 
