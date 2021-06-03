@@ -13,7 +13,7 @@ hero:
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
     koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!<br><br><a
-    href="/crm-vragenlijst/" class="button">CRM-integratie vragenlijst</a>'
+    href="https://docs.google.com/forms/d/e/1FAIpQLScCnzt5kZ2vvey-ZOF6tu-WNU4PCw5mMgRGtdk1Gz3HrcuMkQ/viewform" class="button" target="_blank">CRM-integratie vragenlijst</a>'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
   image_position: center
