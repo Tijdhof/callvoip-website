@@ -31,12 +31,12 @@ Ken je dat gevoel van iets nooit meer te willen missen? De immens populaire kopp
 
 ### Waarom dan en hoe?
 
-Simpel gezegd; je ontvangt een zakelijk telefoontje en terwijl je achter je computer zit te werken verschijnt er direct een slimme ‘pop-up’ op je scherm. Daarin staan alle relevante gegevens van deze beller afkomstig uit je eigen CRM-systeem. Die gegevens kun je uiteraard zelf invoeren. Bijvoorbeeld met wie heeft deze persoon de laatste keer gebeld, wanneer was dit en wat is er besproken? Ontzettend handige geheugensteuntjes dus kortom en bovenal snel, efficiënt en resultaatgericht.
+Simpel gezegd; je ontvangt een zakelijk telefoontje en terwijl je achter je computer zit te werken verschijnt er direct een slimme ‘pop-up’ op je scherm. Daarin staan alle relevante gegevens van deze beller afkomstig uit je eigen CRM-systeem. Die gegevens kun je uiteraard zelf invoeren. Bijvoorbeeld met wie heeft deze persoon de laatste keer gebeld, wanneer was dit en wat is er besproken? Ontzettend handige geheugensteuntjes dus kortom en bovenal snel, efficiënt en resultaatgericht.<br><br><a href="telefonie/integratie/" class="buton">Lees meer over integratie</a>
 
 ### Vul enkele vragen in met jouw ideeën over CRM-integratie en maak kans op een prijs!
 
-Vul eerst vliegensvlug de volgende vragenlijst in en **maak kans op een Yealink CP700 Speakerphone!** Laat bij de laatste vraag wel even je e-mailadres achter om kans te maken. Anders ben je zo lastig te achterhalen.
+Vul eerst vliegensvlug de volgende vragenlijst in en **maak kans op een Yealink CP700 Speakerphone!** Laat bij de laatste vraag wel even je e-mailadres achter om kans te maken. Anders ben je zo lastig te achterhalen.<br><br><a href="https://docs.google.com/forms/d/e/1FAIpQLScCnzt5kZ2vvey-ZOF6tu-WNU4PCw5mMgRGtdk1Gz3HrcuMkQ/viewform" class="buton">Vul de vragenlijst in</a>
 
 ### Wil jij dit ook? Dat kan, probeer het 1 week gratis!
 
-Laat je 1 week gratis verwennen door onze slimme pop-up. Wij denken dat je daarna niet meer zonder wil ;-)
+Laat je 1 week gratis verwennen door onze slimme pop-up. Wij denken dat je daarna niet meer zonder wil ;-)<br><br><a href="aanvragen/voip-cti/" class="buton">Probeer 1 week gratis</a>
