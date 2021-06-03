@@ -1,5 +1,5 @@
 ---
-title: 'CRM Integratie met je telefonie onderhand een ‘must-have’: Lees hier waarom..'
+title: 'CRM integratie: "Dit zou ik nooit meer willen missen", lees hier waarom.'
 description: ''
 images: []
 featured: false
@@ -20,7 +20,7 @@ categories: []
 tags: []
 
 ---
-Ken je dat gevoel van; “Dit heb ik altijd al willen hebben!’? De immens populaire koppeling van slimme CRM integratie met je zakelijke telefonie is er zo eentje.
+Ken je dat gevoel van iets nooit meer te willen missen? De immens populaire koppeling van slimme CRM integratie met je zakelijke telefonie is er zo eentje.
 
 * **Snel**
 * **Efficiënt**
