@@ -1,7 +1,8 @@
 ---
 title: 'CRM integratie: "Dit zou ik nooit meer willen missen", lees hier waarom.'
 description: ''
-images: []
+images:
+- "/v1622720993/Screenshot_14_eih7bx.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -20,6 +21,8 @@ categories: []
 tags: []
 
 ---
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1622720993/Screenshot_14_eih7bx.png)  
 Ken je dat gevoel van iets nooit meer te willen missen? De immens populaire koppeling van slimme CRM integratie met je zakelijke telefonie is er zo eentje.
 
 * **Snel**
