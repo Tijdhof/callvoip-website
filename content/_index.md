@@ -5,7 +5,7 @@ hero:
   content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam. <br><br>
-    <a href="/crm-vragenlijst/">CRM-integratie: vul een vragenlijst in en maak kans op een <font color="#f78503">Yealink Speakerphone!</font></a>'
+    <a href="/crm-vragenlijst/">CRM-integratie: vul de vragenlijst in, maak kans op een <font color="#f78503">Speakerphone</font></a>'
   button:
     content: 'Ons aanbod: de Callvoip Toolkit'
     link: "/toolkit/"
