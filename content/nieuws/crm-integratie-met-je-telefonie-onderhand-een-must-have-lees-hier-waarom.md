@@ -21,12 +21,12 @@ categories: []
 tags: []
 
 ---
-<center><img src="https://res.cloudinary.com/callvoip/image/upload/v1622720993/Screenshot_14_eih7bx.png"></center>
+<center><img src="https://res.cloudinary.com/callvoip/image/upload/v1622720993/Screenshot_14_eih7bx.png"></center><br><br>
 Ken je dat gevoel van iets nooit meer te willen missen? De immens populaire koppeling van slimme CRM integratie met je zakelijke telefonie is er zo eentje.<br><br>
 
 #### Waarom dan en hoe?
 
-Simpel gezegd; je ontvangt een zakelijk telefoontje en terwijl je achter je computer zit te werken verschijnt er direct een slimme ‘pop-up’ op je scherm. Daarin staan alle relevante gegevens van deze beller afkomstig uit je eigen CRM-systeem. Die gegevens kun je uiteraard zelf invoeren. Bijvoorbeeld met wie heeft deze persoon de laatste keer gebeld, wanneer was dit en wat is er besproken? Ontzettend handige geheugensteuntjes dus kortom en bovenal snel, efficiënt en resultaatgericht. Meer lezen over integratie? <a href="telefonie/integratie/"">klik hier!</a>
+Simpel gezegd; je ontvangt een zakelijk telefoontje en terwijl je achter je computer zit te werken verschijnt er direct een slimme ‘pop-up’ op je scherm. Daarin staan alle relevante gegevens van deze beller afkomstig uit je eigen CRM-systeem. Die gegevens kun je uiteraard zelf invoeren. Bijvoorbeeld met wie heeft deze persoon de laatste keer gebeld, wanneer was dit en wat is er besproken? Ontzettend handige geheugensteuntjes dus kortom en bovenal snel, efficiënt en resultaatgericht. <a href="/telefonie/integratie/">Meer lezen over integratie?</a>
 
 #### Vul enkele vragen in met jouw ideeën over CRM-integratie en maak kans op een prijs!
 
