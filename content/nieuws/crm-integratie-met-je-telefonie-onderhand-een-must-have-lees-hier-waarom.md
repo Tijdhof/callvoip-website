@@ -1,0 +1,39 @@
+---
+title: 'CRM Integratie met je telefonie onderhand een ‘must-have’: Lees hier waarom..'
+description: ''
+images: []
+featured: false
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+image_uitgelicht: ''
+hero:
+  image: ''
+  mobile: ''
+  link: ''
+  disable_image_on_mobile: false
+author: ''
+date: 
+url: "/crm-vragenlijst/"
+contactpersoon: []
+categories: []
+tags: []
+
+---
+Ken je dat gevoel van; “Dit heb ik altijd al willen hebben!’? De immens populaire koppeling van slimme CRM integratie met je zakelijke telefonie is er zo eentje.
+
+* **Snel**
+* **Efficiënt**
+* **Resultaatgericht**
+
+### Waarom dan en hoe?
+
+Simpel gezegd; je ontvangt een zakelijk telefoontje en terwijl je achter je computer zit te werken verschijnt er direct een slimme ‘pop-up’ op je scherm. Daarin staan alle relevante gegevens van deze beller afkomstig uit je eigen CRM-systeem. Die gegevens kun je uiteraard zelf invoeren. Bijvoorbeeld met wie heeft deze persoon de laatste keer gebeld, wanneer was dit en wat is er besproken? Ontzettend handige geheugensteuntjes dus kortom en bovenal snel, efficiënt en resultaatgericht.
+
+### Vul enkele vragen in met jouw ideeën over CRM-integratie en maak kans op een prijs!
+
+Vul eerst vliegensvlug de volgende vragenlijst in en **maak kans op een Yealink CP700 Speakerphone!** Laat bij de laatste vraag wel even je e-mailadres achter om kans te maken. Anders ben je zo lastig te achterhalen.
+
+### Wil jij dit ook? Dat kan, probeer het 1 week gratis!
+
+Laat je 1 week gratis verwennen door onze slimme pop-up. Wij denken dat je daarna niet meer zonder wil ;-)
