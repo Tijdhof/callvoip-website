@@ -44,7 +44,7 @@ textblocks:
   title3: Eerst even kennismaken?
   content3: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/greet_ecc1x3.png"
     class="zoom"><br>We maken graag kennis en beantwoorden al je vragen over ons mooie
-    systeem. <a href="/meetandgreet/>Klik hier!</a>
+    systeem. <a href="/meetandgreet/">Klik hier!</a>
   show_vshape: false
 images: []
 hideinsearch: false
