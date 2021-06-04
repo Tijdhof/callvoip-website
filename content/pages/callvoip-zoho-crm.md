@@ -6,11 +6,16 @@ layout: default2
 logos: false
 url: "/crmintegratie/zoho/"
 hero:
-  title: CSS Car Systems + slimme telefonie
+  title: Zoho CRM Platform + slimme telefonie
   content: <div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het Zoho is een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn. HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig, behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CSS Car
+    Systems CRM is speciaal ontwikkeld voor garagebedrijven en is letterlijk ontstaan
+    in een garage. Hoe beter de behoeftes van een autogarage in beeld       krijgen
+    dan er zelf één zijn? Het resultaat is een modulair opgebouwd systeem wat past
+    bij elke garage. Koppel CSS Car Systems nu aan onze telefonie en profiteer van
+    het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
     class="button">Vraag nu deze koppeling aan</a>
-  image: "/v1571655384/zoholoho_bi6sc1.png"
+  image: "/v1571655384/CRM2logos_qqzggc.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -28,7 +33,7 @@ blocks:
   image_position: center
 textblocks:
 - title1: De slimme pop-up
-  content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/zoho_k4cfpd.png"
+  content1: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1620376012/screencss_qr87bb.png"
     class="zoom"><br>Bij een inkomend gesprek verschijnt de pop-up in beeld met de
     informatie van de klant
   title2: Slimme telefonie
@@ -44,6 +49,5 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-draft: true
 
 ---
