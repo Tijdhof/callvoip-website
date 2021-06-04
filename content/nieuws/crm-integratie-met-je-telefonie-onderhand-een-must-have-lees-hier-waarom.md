@@ -16,7 +16,8 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 2021-06-03T11:00:00+00:00
-url: "/crm-vragenlijst/"
+url: "/nieuws/crm-vragenlijst/"
+aliases: "/crm-vragenlijst/"
 contactpersoon: []
 categories: []
 tags: []
