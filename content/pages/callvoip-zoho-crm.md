@@ -26,7 +26,7 @@ blocks:
     noemen wij Bubble. Met 1 klik open je Zoho met de juiste gegevens en kun je de
     klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over onze slimme pop-up</a>'
-  image: "/v1621238438/quote_callvoip_CSS_drrsr7.png"
+  image: "/v1615969123/quote_redcactus_xb3aqc.png"
   zooming: true
   position: image_left
   title: 'Integratie telefonie en Zoho: maak kennis met onze slimme pop-up'
