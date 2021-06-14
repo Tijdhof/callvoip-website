@@ -16,6 +16,8 @@ tags:
 categories:
   - Contactbeheer
   - Agenda
+new: true
+
 ---
 
 Outlook 365 is een e-mailservice in de cloud, geïntegreerd met andere apps van Office 365.
