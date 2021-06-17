@@ -1,12 +1,12 @@
 ---
-title: Draytek transparant bridged instellen
+title: Draytek v130 als bridge instellen
 weight: 4
-description: Draytek transparant bridged instellen
+description: Draytek v130 als bridge instellen
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-Nieuw: true
+Nieuw: false
 Update: false
 pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Draytek-Transparant_Bridged-instellen.pdf
 
