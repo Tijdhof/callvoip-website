@@ -17,6 +17,7 @@ categories:
   - Contactbeheer
   - Agenda
 new: true
+weight: 1
 
 ---
 
