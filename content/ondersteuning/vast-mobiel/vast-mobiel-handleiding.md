@@ -188,6 +188,6 @@ Hieronder vind je een stapsgewijze instructie bij de ingebruikname van Vamos.
     Q: Andere vraag?  
     A: Neem dan contact op met Callvoip. Ook vind je veel vragen en antwoorden op <a href="https://vamos.tech/" target="_blank">https://vamos.tech</a>.
     
- 10. **<h3>Bijlage 4: Vamos dekkingskaart</h3>**
-    <a href="https://www.t-mobile.nl/mobiel/netwerk/dekking" target="_blank">Klik hier</a> voor de Vamos dekkinkskaart via het t-mobile netwerk.
+ **<h3>Bijlage 4: Vamos dekkingskaart</h3>**
+ <a href="https://www.t-mobile.nl/mobiel/netwerk/dekking" target="_blank">Klik hier</a> voor de Vamos dekkinkskaart via het t-mobile netwerk.
 
