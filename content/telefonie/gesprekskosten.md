@@ -14,6 +14,9 @@ hideinsearch: false
 searchtags:
 - tarieven
 - kosten
+- fairuse
+- fair
+- use
 hideingoogle: false
 hidesocialshare: false
 
