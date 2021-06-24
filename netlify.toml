@@ -55,3 +55,13 @@ HUGO_ENABLEGITINFO = "true"
   to = "http://files.callvoip.nl/downloads/Callvoip_handleiding_VoIP_CTI_login.pdf"
   status = 301
   force = true
+[[redirects]]
+  from = "/ondersteuning/integraties/info-bubble/"
+  to = "http://files.callvoip.nl/downloads/Callvoip_informatie-over-de-VoIPCTI-CRM-Integraties.pdff"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/ondersteuning/integraties/handleiding-bubble/"
+  to = "http://files.callvoip.nl/downloads/Callvoip_informatie-over-de-VoIPCTI-Bubble_instellen.pdf"
+  status = 301
+  force = true
