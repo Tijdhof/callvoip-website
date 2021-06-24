@@ -1,5 +1,5 @@
 ---
-title: Informatie over de VoIP CTI Bubble-software
+title: Informatie VoIP CTI Bubble-software
 weight: 11
 description: ''
 images: []
