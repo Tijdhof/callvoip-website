@@ -1,6 +1,11 @@
 ---
 title: Belbundel aanvragen
 url: "/aanvragen/belbundel/"
+searchtags:
+- fairuse
+- fair
+- use
+
 ---
 Wilt u zekerheid over uw maandelijkse telefoniekosten? Kies dan voor onze belbundels voor bellen naar vaste en mobiele nummers binnen Nederland. Kies de bundel die bij uw belgedrag past; de bundel is een uitbreiding van uw telefonieabonnement.
 
