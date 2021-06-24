@@ -57,7 +57,7 @@ HUGO_ENABLEGITINFO = "true"
   force = true
 [[redirects]]
   from = "/ondersteuning/integraties/info-bubble/"
-  to = "http://files.callvoip.nl/downloads/Callvoip_informatie-over-de-VoIPCTI-CRM-Integraties.pdff"
+  to = "http://files.callvoip.nl/downloads/Callvoip_informatie-over-de-VoIPCTI-CRM-Integraties.pdf"
   status = 301
   force = true
 [[redirects]]
