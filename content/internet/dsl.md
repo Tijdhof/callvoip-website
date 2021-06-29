@@ -1,12 +1,16 @@
 ---
-title: DSL | Callvoip biedt een ruim aan eigen verbindingen
+title: DSL | Callvoip biedt een ruime keuze aan eigen verbindingen
 type: page
 layout: default
 aliases:
 - "/dsl"
 - "/adsl"
 blocks:
-- content: 'Voor een goede kwaliteit VoIP is een stabiele internetverbinding noodzakelijk. Callvoip kan je elk type verbinding leveren. Situaties en wensen verschillen: wij assisteren graag bij het vinden van de juiste mix van diensten en producten, van internet tot vast IP adres, tot Alarm- en PIN-certificering. Alles zodat je verzekerd bent van de beste basis voor jouw telefonie.'
+- content: 'Voor een goede kwaliteit VoIP is een stabiele internetverbinding noodzakelijk.
+    Callvoip kan je elk type verbinding leveren. Situaties en wensen verschillen:
+    wij assisteren graag bij het vinden van de juiste mix van diensten en producten,
+    van internet tot vast IP adres, tot Alarm- en PIN-certificering. Alles zodat je
+    verzekerd bent van de beste basis voor jouw telefonie.'
   image: "/v1565858232/DSL2_n4hzbr.png"
   position: image_left
   title: DSL-verbinding waar je op kunt vertrouwen
@@ -14,7 +18,9 @@ blocks:
 logos: false
 hero:
   title: CallvoipDSL
-  content: 'DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. '
+  content: 'DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende
+    zijn ADSL, VDSL en VVDSL. DSL kan heel snel zijn; op basis van jouw adres kunnen
+    we zien wat er mogelijk is en alles voor je regelen. '
   button:
     content: Benieuwd naar de mogelijkheden?
     link: "/internet/postcodecheck/"
@@ -56,6 +62,11 @@ hideingoogle: false
 hidesocialshare: false
 description: ''
 prijzen: []
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 menu:
   main:
     name: DSL
