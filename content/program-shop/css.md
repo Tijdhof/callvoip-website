@@ -1,7 +1,7 @@
 ---
 title: "CSS Car System"
 date: 2021-06-03T16:52:17+05:00
-logo: ",e_colorize,co_rgb:203476/v1561543297/css-icon_umxnb4.png"
+logo: "/css-icon_umxnb4.png"
 description: Sync je CRM-contacten en -bedrijven.
 ontwikkelaar:
   - title: CSS Car Systems
