@@ -3,6 +3,11 @@ title: Meldingen
 error: false
 
 ---
+02-07-2021 om 13:23 - Update van T-Mobile<br>
+De dienst werkt weer volledig.
+
+***
+
 02-07-2021 om 11:35 - Update van T-Mobile<br>
 T-Mobile is bijna klaar met het herstellen van de diensten, de verwachting is dat binnen 30 minuten de diensten volledig werken.
 
