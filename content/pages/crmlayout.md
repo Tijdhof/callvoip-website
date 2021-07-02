@@ -6,6 +6,7 @@ type: page
 layout: default2
 logos: false
 url: "/crmintegratie/csscarsystems/"
+marketplaceItem: true
 hero:
   title: CSS Car Systems + slimme telefonie
   content: <div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
