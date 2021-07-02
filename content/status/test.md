@@ -3,12 +3,12 @@ title: Meldingen
 error: false
 
 ---
-02-07-2021 om 11:35 - Update van T-Mobile
+02-07-2021 om 11:35 - Update van T-Mobile<br>
 T-Mobile is bijna klaar met het herstellen van de diensten, de verwachting is dat binnen 30 minuten de diensten volledig werken.
 
 ***
 
-02-07-2021 om 10:48 - Storing lijkt opgelost te zijn
+02-07-2021 om 10:48 - Storing lijkt opgelost te zijn<br>
 Er is weer verbinding met de T-Mobile diensten, VAMOS-gebruikers kunnen weer volledig gebruik maken van de dienst.
 We wachten nog op T-Mobile officiële uitspraak te doen dat de storing is verholpen.
 
