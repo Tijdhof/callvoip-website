@@ -5,10 +5,7 @@ error: false
 ---
   
   
-02-07-2021 om 15.00 uur - Update van T-Mobile<br>  
-Er zijn nog enkele meldingen van geen werkende data internetverbinding.  
-Dit kan kloppen; herstel van het netwerk heeft enige tijd nodig en kan gepaard gaan met nog wat momenten van wegval van data. Het terugbrngen van de dataverbinding duurt wat langer dan voorzien.   
-Onze excuses voor het ongemak.
+02-07-2021 om 15.00 uur - Update van T-Mobile<br>Er zijn nog enkele meldingen van geen werkende data internetverbinding. Dit kan kloppen; herstel van het netwerk heeft enige tijd nodig en kan gepaard gaan met nog wat momenten van wegval van data. Het terugbrngen van de dataverbinding duurt wat langer dan voorzien. <br>Onze excuses voor het ongemak.
 
 ***
 
