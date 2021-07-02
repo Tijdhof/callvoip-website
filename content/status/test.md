@@ -5,7 +5,7 @@ error: false
 ---
 02-07-2021 om 10:48 - Storing lijkt opgelost te zijn
 Er is weer verbinding met de T-Mobile diensten, VAMOS-gebruikers kunnen weer volledig gebruik maken van de dienst.
-We wachten nog op T-Mobile officele uitspraak te doen dat de storing is verholpen.
+We wachten nog op T-Mobile officiële uitspraak te doen dat de storing is verholpen.
 
 ***
 
