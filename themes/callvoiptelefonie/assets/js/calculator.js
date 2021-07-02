@@ -55,10 +55,9 @@ const renderMonthlyTotal = function () {
 };
 
 const addMonthlyTotalToInput = function () {
-  [
-    document.getElementById("totaalpermaand"),
-    document.getElementById("totaalpermaand-2"),
-  ].forEach((e) => (e.value = formatter.format(getMonthlyTotal())));
+  const totalInput = document.getElementById("totaalpermaand");
+
+  totalInput.value = formatter.format(getMonthlyTotal());
 };
 
 const renderOnetimeTotal = function () {
@@ -78,10 +77,9 @@ const renderOnetimeTotal = function () {
 };
 
 const addOnetimeTotalToInput = function () {
-  [
-    document.getElementById("totaaleenmalig"),
-    document.getElementById("totaaleenmalig-2"),
-  ].forEach((e) => (e.value = formatter.format(getOnetimeTotal())));
+  const totalInput = document.getElementById("totaaleenmalig");
+
+  totalInput.value = formatter.format(getOnetimeTotal());
 };
 
 const renderTemplateRow = function (fields, type) {
