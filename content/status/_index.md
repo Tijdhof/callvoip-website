@@ -21,7 +21,7 @@ items:
 - title: Qaller Smartphone app
   status: true
 - title: Vamos Vast-Mobiel
-  status: false
+  status: true
 - title: BLF (statuslampjes)
   status: true
 - title: Click-to-Dial
