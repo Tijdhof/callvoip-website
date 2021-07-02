@@ -67,7 +67,7 @@
           class="block border border-grey-lightest rounded-md overflow-hidden md:w-64 mb-4 text-grey item-card {{- range $item.Params.categories }} {{urlize .}}{{ end }}{{ if gt $i 20 }} hidden{{ end }}">
           <div class="bg-grey-lightest flex items-center justify-center p-4 h-40 relative">
             {{ with .Params.logo -}}
-            <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.}}" class="cld-responsiveb h-24"
+            <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.}}" class="cld-responsiveb h-12"
               alt="logo of {{$title}}" />
             {{ end -}}
             {{ with .Params.new }}
@@ -78,8 +78,7 @@
             <h3 class="text-lg font-medium text-blue-light">{{.Title}}</h3>
             <p class="text-sm max-w-sm mx-auto px-4 lg:p-0">{{ $item.Description }}</p>
             <p class="text-xs bg-grey-lightest uppercase opacity-75 p-2 py-1 rounded-full inline-block">
-              {{- range $item.Params.tags }}
-              {{.}} {{ end }}</p>
+              {{- .Params.button.title}}</p>
           </div>
         </a>
         {{ end -}}
