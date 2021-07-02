@@ -11,8 +11,9 @@ meer_info:
     url: /
   - title: Supportcentrum
     url: /
-tags:
-  - Gratis
+button:
+  title: Gratis
+  link: /
 categories:
   - Contactbeheer
   - Agenda
