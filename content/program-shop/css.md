@@ -5,10 +5,10 @@ logo: "/css-icon_ak4yis.png"
 description: Sync je CRM-contacten en -bedrijven.
 ontwikkelaar:
   - title: CSS Car Systems
-    url: /
+    url: /crmintegratie/csscarsystems/
 meer_info:
   - title: Support
-    url: ondersteuning/
+    url: /ondersteuning/
 button:
   title: Garagesoftware
   link: /crmintegratie/csscarsystems/
