@@ -1,7 +1,7 @@
 ---
 title: "RobinHQ"
 date: 2021-06-03T16:52:17+05:00
-logo: "/css-icon_ak4yis.png"
+logo: "/robinHQ_iuz298.png"
 description: Sync je CRM-contacten en -bedrijven.
 ontwikkelaar:
   - title: RobinHQ
