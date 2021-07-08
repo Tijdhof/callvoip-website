@@ -16,7 +16,7 @@ categories:
   - Relatiebeheer
   - Klantcontact
 new: true
-weight: 4
+weight: 2
 
 ---
 
