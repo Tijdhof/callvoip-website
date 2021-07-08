@@ -8,32 +8,19 @@ ontwikkelaar:
     url: /
 meer_info:
   - title: Support
-    url: /
-  - title: Supportcentrum
-    url: /
+    url: ondersteuning/
 button:
-  title: Gratis
-  link: /
+  title: Garagesoftware
+  link: /crmintegratie/csscarsystems/
 categories:
-  - Contactbeheer
-  - Agenda
+  - Garagesoftware
 new: true
 weight: 1
 
 ---
 
-Outlook 365 is een e-mailservice in de cloud, geïntegreerd met andere apps van Office 365.
+CSS Car System, speciaal voor garagebedrijven!
 
-**Welke voordelen levert Outlook 365 op?**
+**Welke voordelen levert CSS Car System op?**
 
-- Krijg toegang tot je e-mails op elk moment en elke plaats
-- Geconnecteerd met alle Office 365-applicaties, zoals Word en Excel
-
-**Waarom Outlook 365 integreren met Teamleader?**
-
-- Voeg al je Outlook 365-contacten toe aan Teamleader
-- Koppel alle ontvangen en uitgaande e-mails aan de juiste contactpersoon in je CRM
-- Maak rechtstreeks follow-uptaken aan vanuit je inbox
-- Maak een nieuw ticket aan vanuit een e-mail
-- Hou alle contactmomenten met leads en klanten automatisch bij in je CRM
-- Je inbox moet tot een Office365 licentie behoren om de integratie te kunnen installeren
+Het CSS Car Systems CRM is speciaal ontwikkeld voor garagebedrijven en is letterlijk ontstaan in een garage. Hoe beter de behoeftes van een autogarage in beeld krijgen dan er zelf één zijn? Het resultaat is een modulair opgebouwd systeem wat past bij elke garage. Koppel CSS Car Systems nu aan onze telefonie en profiteer van het gemak en de efficiëntie.
