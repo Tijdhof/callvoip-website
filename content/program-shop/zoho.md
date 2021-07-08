@@ -24,4 +24,4 @@ Zoho, speciaal voor relatiebeheer & klantcontact!
 
 **Welke voordelen levert ZoHo op?**
 
-Het Zoho is een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn. HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig, behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho nu aan onze telefonie en profiteer van het gemak en de efficiëntie.
+Het Zoho is een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn. HR, CRM, e-mail, meeting, chat.<br>Je kunt het zo gek niet bedenken of het is aanwezig, behalve…..TELEFONIE!<br>En daar komt Callvoip om de hoek kijken: koppel jouw Zoho nu aan onze telefonie en profiteer van het gemak en de efficiëntie.
