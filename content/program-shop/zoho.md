@@ -24,5 +24,4 @@ Zoho, speciaal voor relatiebeheer & klantcontact!
 
 **Welke voordelen levert ZoHo op?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met ZoHo. Één keer klikken en je<br>
-hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Relatiebeheer en Klantcontact.
+Het Zoho is een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn. HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig, behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho nu aan onze telefonie en profiteer van het gemak en de efficiëntie.
