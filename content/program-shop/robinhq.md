@@ -3,14 +3,11 @@ title: "RobinHQ"
 date: 2021-06-03T16:52:17+05:00
 logo: "/robinHQ_iuz298.png"
 description: Sync je CRM-contacten en -bedrijven.
-ontwikkelaar:
-  - title: RobinHQ
-    url: /marketplace/
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: E-commerce
+  title: Meer informatie
   link: /marketplace/
 categories:
   - E-commerce
