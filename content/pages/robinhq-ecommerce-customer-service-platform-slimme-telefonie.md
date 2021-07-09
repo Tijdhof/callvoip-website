@@ -12,7 +12,7 @@ hero:
     de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het Robin HQ Ecommerce Customer Service platform is een systeem gericht op eCommercebedrijven. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw RobinHQ nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
-  image: "/v1622801300/zoho_ye18in.png"
+  image: "/v1622801300/robinHQ_rwluce.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
