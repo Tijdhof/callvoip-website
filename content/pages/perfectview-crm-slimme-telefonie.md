@@ -8,13 +8,9 @@ logos: false
 url: "/crmintegratie/perfectview/"
 marketplaceItem: true
 hero:
-  title: Zoho CRM Platform + slimme telefonie
+  title: PerfectView CRM + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het Zoho is
-    een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn.
-    HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig,
-    behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho
-    nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het PerfectView CRM is een compleet systeem waarin alle aspecten van een organisatie aanwezig zijn. relatiebeheer, marketing, klantenservice en sales. Behoorlijk compleet dus, maar er mist 1 essentieel onderdeel…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw PerfectView nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
   image: "/v1622801300/perfectview_oftzzp.png"
