@@ -7,13 +7,9 @@ logos: false
 url: "/crmintegratie/zoho/"
 marketplaceItem: true
 hero:
-  title: Zoho CRM Platform + slimme telefonie
+  title: Robin HQ + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het Zoho is
-    een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn.
-    HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig,
-    behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho
-    nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het Robin HQ Ecommerce Customer Service platform is een systeem gericht op eCommercebedrijven. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw RobinHQ nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
   image: "/v1622801300/zoho_ye18in.png"
@@ -50,6 +46,5 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-draft: true
 
 ---
