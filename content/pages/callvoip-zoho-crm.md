@@ -5,6 +5,7 @@ type: page
 layout: default2
 logos: false
 url: "/crmintegratie/zoho/"
+marketplaceItem: true
 hero:
   title: Zoho CRM Platform + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
