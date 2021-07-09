@@ -8,7 +8,7 @@ meer_info:
     url: /ondersteuning/
 button:
   title: Meer informatie
-  link: /marketplace/
+  link: /crmintegratie/perfectview/
 categories:
   - Relatiebeheer
   - Klantcontact
@@ -21,4 +21,4 @@ Zoho, speciaal voor relatiebeheer & klantcontact!
 
 **Welke voordelen levert PerfectView op?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met PerfectView. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Relatiebeheer en Klantcontact.
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met PerfectView. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Relatiebeheer en Klantcontact.<br><br><a href="/crmintegratie/perfectview/" class="button">Lees meer!</a>
