@@ -8,7 +8,7 @@ meer_info:
     url: /ondersteuning/
 button:
   title: Meer informatie
-  link: //crmintegratie/robinhq/
+  link: /crmintegratie/robinhq/
 categories:
   - E-commerce
 new: true
