@@ -10,9 +10,13 @@ marketplaceItem: true
 hero:
   title: PerfectView CRM + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het PerfectView CRM is een compleet systeem waarin alle aspecten van een organisatie aanwezig zijn. relatiebeheer, marketing, klantenservice en sales. Behoorlijk compleet dus, maar er mist 1 essentieel onderdeel…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw PerfectView nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
-    href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
-    koppeling aan</a>'
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het PerfectView
+    CRM is een compleet systeem waarin alle aspecten van een organisatie aanwezig
+    zijn. relatiebeheer, marketing, klantenservice en sales. Behoorlijk compleet dus,
+    maar er mist 1 essentieel onderdeel…..TELEFONIE! En daar komt Callvoip om de hoek
+    kijken: koppel jouw PerfectView nu aan onze telefonie en profiteer van het gemak
+    en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
+    class="button">Vraag nu deze koppeling aan</a>'
   image: "/v1622801300/perfectview_oftzzp.png"
   zooming: true
   image_position: center
@@ -24,7 +28,7 @@ blocks:
     noemen wij Bubble. Met 1 klik open je PerfectView met de juiste gegevens en kun
     je de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over onze slimme pop-up</a>'
-  image: "/v1615969123/quote_redcactus_xb3aqc.png"
+  image: "/v1625820012/quote_callvoip_blauw_perfectview_zesu3a.png"
   zooming: true
   position: image_left
   title: 'Integratie telefonie en PerfectView: maak kennis met onze slimme pop-up'

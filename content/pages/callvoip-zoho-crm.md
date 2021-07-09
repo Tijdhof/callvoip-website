@@ -9,8 +9,13 @@ marketplaceItem: true
 hero:
   title: Zoho CRM Platform + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het Zoho is een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn. HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig, behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
-    class="button">Vraag nu deze koppeling aan</a>'
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het Zoho is
+    een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn.
+    HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig,
+    behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho
+    nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
+    href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
+    koppeling aan</a>'
   image: "/v1622801300/zoho_ye18in.png"
   zooming: true
   image_position: center
@@ -22,7 +27,7 @@ blocks:
     noemen wij Bubble. Met 1 klik open je Zoho met de juiste gegevens en kun je de
     klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over onze slimme pop-up</a>'
-  image: "/v1615969123/quote_redcactus_xb3aqc.png"
+  image: "/v1625820012/quote_callvoip_blauw_zoho_exukye.png"
   zooming: true
   position: image_left
   title: 'Integratie telefonie en Zoho: maak kennis met onze slimme pop-up'
