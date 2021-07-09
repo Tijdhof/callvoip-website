@@ -17,7 +17,7 @@ hero:
     nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
-  image: "/v1622801300/zoholoho_bi6sc1.png"
+  image: "/v1622801300/perfectview_oftzzp.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
