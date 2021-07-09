@@ -3,14 +3,11 @@ title: "CSS Car System"
 date: 2021-06-03T16:52:17+05:00
 logo: "/css-icon_ak4yis.png"
 description: Sync je CRM-contacten en -bedrijven.
-ontwikkelaar:
-  - title: CSS Car Systems
-    url: /crmintegratie/csscarsystems/
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Garagesoftware
+  title: Meer informatie
   link: /crmintegratie/csscarsystems/
 categories:
   - Garagesoftware
