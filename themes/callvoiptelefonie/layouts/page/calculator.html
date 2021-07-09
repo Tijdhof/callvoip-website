@@ -313,11 +313,11 @@
                 <button type="button"
                   onclick="this.previousElementSibling.classList.remove('hidden');this.nextElementSibling.classList.remove('hidden');this.classList.add('hidden')"
                   class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                  Kosten opvragen?
+                  Vragen over dit overzicht?
                 </button>
                 <button type="button" id="submit-small-form"
                   class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2 hidden">
-                  Gegevens versturen
+                  Neem contact met mij op
                 </button>
                 <div id="allspecialfields" class="sr-only">
                   {{ range $index, $item := .Params.basic }}
