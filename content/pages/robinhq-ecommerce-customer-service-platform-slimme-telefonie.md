@@ -20,13 +20,13 @@ blocks:
 - content: 'Stel je voor: van elk telefoontje wat binnenkomt bij jouw bedrijf zie
     je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals NAW gegevens, evt. offertes, notities van het laatste contact. Die pop-up
-    noemen wij Bubble. Met 1 klik open je Zoho met de juiste gegevens en kun je de
-    klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
+    noemen wij Bubble. Met 1 klik open je RobinHQ met de juiste gegevens en kun je
+    de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over onze slimme pop-up</a>'
-  image: "/v1625820012/quote_callvoip_blauw_zoho_exukye.png"
+  image: "/v1615969123/quote_redcactus_xb3aqc.png"
   zooming: true
   position: image_left
-  title: 'Integratie telefonie en Zoho: maak kennis met onze slimme pop-up'
+  title: 'Integratie telefonie en RobinHQ: maak kennis met onze slimme pop-up'
   image_position: center
 textblocks:
 - title1: De slimme pop-up
