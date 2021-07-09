@@ -4,7 +4,7 @@ description: 'Integratie van het CRM Zoho en onze telefonie: makkelijk, snel en 
 type: page
 layout: default2
 logos: false
-url: "/crmintegratie/zoho/"
+url: "/crmintegratie/robinhq/"
 marketplaceItem: true
 hero:
   title: Robin HQ + slimme telefonie
