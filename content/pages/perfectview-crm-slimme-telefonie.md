@@ -1,10 +1,11 @@
 ---
 title: PerfectView CRM + slimme telefonie
-description: 'Integratie van het CRM Zoho en onze telefonie: makkelijk, snel en efficiënt'
+description: 'Integratie van het CRM PerfectView en onze telefonie: makkelijk, snel
+  en efficiënt'
 type: page
 layout: default2
 logos: false
-url: "/crmintegratie/zoho/"
+url: "/crmintegratie/perfectview/"
 marketplaceItem: true
 hero:
   title: Zoho CRM Platform + slimme telefonie
@@ -50,6 +51,5 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-draft: true
 
 ---
