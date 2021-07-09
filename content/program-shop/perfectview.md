@@ -3,14 +3,11 @@ title: "PerfectView"
 date: 2021-06-03T16:52:17+05:00
 logo: "/perfectview_tyrbss.png"
 description: Sync je CRM-contacten en -bedrijven.
-ontwikkelaar:
-  - title: PerfectView
-    url: /marketplace/
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Relatiebeheer
+  title: Meer informatie
   link: /marketplace/
 categories:
   - Relatiebeheer
