@@ -12,12 +12,9 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-new: true
 weight: 3
 
 ---
-
-Zoho, speciaal voor relatiebeheer & klantcontact!
 
 **Welke voordelen levert ZoHo op?**
 
