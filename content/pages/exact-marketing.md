@@ -1,6 +1,6 @@
 ---
-title: Exact CRM + slimme telefonie
-description: 'Integratie van het CRM Exact en onze telefonie: makkelijk, snel en efficiënt'
+title: Exact Online CRM + slimme telefonie
+description: 'Integratie van het CRM Exact Online en onze telefonie: makkelijk, snel en efficiënt'
 type: page
 layout: default2
 logos: false
