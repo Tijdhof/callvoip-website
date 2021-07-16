@@ -11,7 +11,6 @@ button:
   link: /crmintegratie/csscarsystems/
 categories:
   - Garagesoftware
-new: true
 weight: 1
 
 ---
