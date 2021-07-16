@@ -11,12 +11,9 @@ button:
   link: /crmintegratie/robinhq/
 categories:
   - E-commerce
-new: true
 weight: 4
 
 ---
-
-RobinHQ, speciaal voor E-commerce!
 
 **Welke voordelen levert CRobinHQ?**
 
