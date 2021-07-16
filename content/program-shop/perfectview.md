@@ -12,12 +12,9 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-new: true
 weight: 2
 
 ---
-
-Zoho, speciaal voor relatiebeheer & klantcontact!
 
 **Welke voordelen levert PerfectView op?**
 
