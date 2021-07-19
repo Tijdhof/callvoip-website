@@ -10,8 +10,8 @@ button:
   title: Meer informatie
   link: /crmintegratie/Teamleader
 categories:
-  - Relatiebeheer
-  - Klantcontact
+  - Workflow
+  - Planning
 new: true
 weight: 13
 
