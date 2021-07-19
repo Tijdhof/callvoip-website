@@ -1,7 +1,7 @@
 ---
 title: "URL Executer"
 date: 2021-06-03T16:52:17+05:00
-logo: "/http_wk0zno.png"
+logo: "/URL_d5sq9k.png"
 description: Algemene koppeling
 meer_info:
   - title: Support
