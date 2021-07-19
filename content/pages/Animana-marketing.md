@@ -20,7 +20,7 @@ blocks:
 - content: 'Stel je voor: van elk telefoontje wat binnenkomt bij jouw bedrijf zie
     je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals NAW gegevens, evt. offertes, notities van het laatste contact. Die pop-up
-    noemen wij Bubble. Met 1 klik open je IDEXX Animanamet de juiste gegevens en kun je
+    noemen wij Bubble. Met 1 klik open je IDEXX Animana met de juiste gegevens en kun je
     de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over onze slimme pop-up</a>'
   image: "/v1615969123/quote_callvoip_blauw_universeel_c9afb7.png"
