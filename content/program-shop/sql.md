@@ -1,7 +1,7 @@
 ---
 title: "SQL Connector"
 date: 2021-06-03T16:52:17+05:00
-logo: "/cashdesk_mpi4gj.png"
+logo: "/SQL_tyfi69.png"
 description: Algemene koppeling
 meer_info:
   - title: Support
