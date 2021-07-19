@@ -13,10 +13,10 @@ categories:
   - Generiek
   - Algemeen
 new: true
-weight: 14
+weight: 15
 
 ---
 
 **Welke voordelen levert HTTP Requester?**
 
-De HTTP Requester is een algemene koppeling en werkt samen met de service van Callvoip! Binnen één klik klantgegevens voor je vanuit een HTTP verbinding.<br><br><a href="/crmintegratie/Cashdesk/" class="button">Lees meer!</a>
+De HTTP Requester is een algemene koppeling en werkt samen met de service van Callvoip! Binnen één klik klantgegevens voor je vanuit een HTTP verbinding.<br><br><a href="/crmintegratie/http/" class="button">Lees meer!</a>
