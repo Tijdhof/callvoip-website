@@ -9,8 +9,7 @@ hero:
   image: "/v1603982195/crmoverzicht_geuhmx.png"
 
 selected_tags:
-  - new
-  - morning
+  - Workflow
 outputs:
   - HTML
   - JSON
