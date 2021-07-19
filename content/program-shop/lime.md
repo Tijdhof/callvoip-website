@@ -18,4 +18,4 @@ weight: 18
 
 **Welke voordelen levert Lime?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Lime. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor workflow en planning.<br><br><a href="/crmintegratie/Lime/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Lime. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor klantcontact.<br><br><a href="/crmintegratie/Lime/" class="button">Lees meer!</a>
