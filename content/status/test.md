@@ -3,10 +3,18 @@ title: Meldingen
 error: false
 
 ---
-**Dinsdag 20 juli 2021 - storingsmelding 08.30 uur:**
+**Dinsdag 20 juli 2021 - storing, opgelost**
 
-**Update 09.20 uur:  
-Webcalls:** een groot deel van de webcallgebruikers is weer online en kan goed uitbellen. Webcalls werkt in alle browers weer goed. Herstart / herlaadt de UC Panel.   
+**Update 10.10 uur:  
+Trunking service:** ook de trunks zijn weer up and running.   
+We adviseren alle trunk gebruikers met klem:   
+*** registreer op beide servers, primair en secundair, voor optimale betrouwbaarheid  
+\* stel de trunk failover in, zodat er bij geen registratie of probleem met de PBX alsnog in de bereikbaarheid wordt voorzien!**
+
+\----  
+**  
+Update 09.20 uur:  
+Webcalls:** een groot deel van de webcallgebruikers is weer online en kan goed uitbellen. Webcalls werkt in alle browers weer goed. Herstart / herlaadt de UC Panel.  
 Mocht je toch nog een issue ervaren, leeg dan de cache van je browser en/of herstart je mac of pc.
 
 **Trunking service**: er is nog een issue met de primaire trunk, je kunt gebruik maken van de secundaire trunk, deze werkt volledig. De trunkgegevens vind je in de panel. Ook de trunk failover kan handig zijn.  
