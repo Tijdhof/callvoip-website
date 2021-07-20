@@ -11,7 +11,6 @@ button:
   link: /crmintegratie/Hubspot/
 categories:
   - E-commerce
-new: true
 weight: 7
 
 ---
