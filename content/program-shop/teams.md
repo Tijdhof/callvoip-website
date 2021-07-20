@@ -11,6 +11,7 @@ button:
   link: /telefonie/functionaliteiten/teams/
 categories:
   - Workflow
+  - Teams
 new: true
 weight: 17
 
