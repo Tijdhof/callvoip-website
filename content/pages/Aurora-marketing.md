@@ -43,8 +43,8 @@ textblocks:
     systeem. <a href="/meetandgreet/">Klik hier!</a>
   show_vshape: false
 images: []
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: true
 
 ---
