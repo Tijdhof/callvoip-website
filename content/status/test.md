@@ -5,6 +5,18 @@ error: false
 ---
 Dinsdag 20 juli 2021 - 08.30  
   
+**Update 09.00 uur:   
+  
+Webcalls:** een groot deel van de webcallgebruikers is weer online en kan goed uitbellen.   
+We werken aan een volledige oplossing.    
+  
+**Trunking service**: er is nog een issue met de primaire trunk, je kunt gebruik maken van de secundaire trunk, deze werkt volledig. De trunkgegevens vind je in de panel. Ook de trunk failover kan handig zijn.  
+(NB Heb je die nog niet ingeregeld, doe dat dan nu of binnenkort zodat je deze mooie backupfaciliteit gelijk op orde hebt!)
+
+  
+\----  
+  
+**08.30 uur:**   
 **Gebruikers van toestellen:**   
 Mocht je telefoontoestel de registratie hebben verloren, herstart het toestel, het probleem is dan opgelost.   
   
