@@ -5,14 +5,12 @@ error: false
 ---
 Dinsdag 20 juli 2021 - 08.30  
   
-**Update 09.00 uur:   
-  
-Webcalls:** een groot deel van de webcallgebruikers is weer online en kan goed uitbellen.   
+**Update 09.20 uur:   
+Webcalls:** een groot deel van de webcallgebruikers is weer online en kan goed uitbellen. Webcalls in chrome moet goed werken, in firefox doen zit nog enkele problemen voor.    
 We werken aan een volledige oplossing.    
   
 **Trunking service**: er is nog een issue met de primaire trunk, je kunt gebruik maken van de secundaire trunk, deze werkt volledig. De trunkgegevens vind je in de panel. Ook de trunk failover kan handig zijn.  
-(NB Heb je die nog niet ingeregeld, doe dat dan nu of binnenkort zodat je deze mooie backupfaciliteit gelijk op orde hebt!)
-
+(NB Heb je die nog niet ingeregeld, doe dat dan nu of binnenkort zodat je deze mooie backupfaciliteit gelijk op orde hebt!)  
   
 \----  
   
