@@ -11,7 +11,6 @@ button:
   link: /crmintegratie/CashDesk/
 categories:
   - Kassasysteem
-new: true
 weight: 5
 
 ---
