@@ -3,10 +3,7 @@ title: Meldingen
 error: false
 
 ---
-Dinsdag 20 juli 2021 - 08.30  
-  
-Update 09.40 uur:   
-Webcalls: Webcalls moeten weer normaal werken (alle main browsers), mochten gebruikers toch nog een issue ervaren dan geldt als tip: cache van de browser clearen en/of herstart your mac or pc  
+**Dinsdag 20 juli 2021 - storingsmelding 08.30 uur:**   
   
 **Update 09.20 uur:   
 Webcalls:** een groot deel van de webcallgebruikers is weer online en kan goed uitbellen. Webcalls werkt in alle browers weer goed. Mocht je toch nog een issue ervaren, leeg dan de cache van je browser en/of herstart je mac of pc.   
