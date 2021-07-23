@@ -13,6 +13,8 @@ categories:
   - Relatiebeheer
   - Klantcontact
 weight: 6
+url: /marketplace/afas/
+aliases: /program-shop/afas/
 
 ---
 
