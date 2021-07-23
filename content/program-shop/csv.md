@@ -12,7 +12,6 @@ button:
 categories:
   - Generiek
   - Algemeen
-  - CSV
 new: true
 weight: 14
 
