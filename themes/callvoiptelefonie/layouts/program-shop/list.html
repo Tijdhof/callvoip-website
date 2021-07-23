@@ -11,7 +11,7 @@
         <div class="relative">
           <input type="text"
             class="w-full focus:outline-none bg-white shadow-md rounded-lg py-2 md:py-4 p-4 relative z-30"
-            placeholder="Zoek binnen de Callvoip Marketplace..." id="search_input">
+            placeholder="Search for programs" id="search_input">
           <div class="absolute z-30 w-full">
             <ul class="bg-white shadow-lg" id="search_result">
             </ul>
@@ -39,12 +39,12 @@
               Reset filters</button>
             <h3 class="text-black"><b>Uitgelicht</b></h3>
             <ul class="space-y-2">
-              {{ $topCat := where .Site.Taxonomies.categories ".Page.Section" "program-shop" }}
-              {{ range first 3 $topCat.ByCount }}
+              {{/* ! previous code to get top 3 {{ range first 3 $topCat.ByCount }} {{ end }} */}}
+              {{- range .Params.selected_tags }}
               <li><button type="button"
-                  onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.add('hidden');if(e.classList.contains('{{urlize .Page.Title }}')){e.classList.remove('hidden');}});reset.hidden=false">
-                  {{- .Page.Title }}</button></li>
-              {{ end }}
+                  onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.add('hidden');if(e.classList.contains('{{urlize . }}')){e.classList.remove('hidden');}});reset.hidden=false">
+                  {{- . }}</button></li>
+              {{- end }}
             </ul>
           </div>
           <div class="space-y-2">
@@ -67,7 +67,7 @@
           class="block border border-grey-lightest rounded-md overflow-hidden md:w-64 mb-4 text-grey item-card {{- range $item.Params.categories }} {{urlize .}}{{ end }}{{ if gt $i 20 }} hidden{{ end }}">
           <div class="bg-grey-lightest flex items-center justify-center p-4 h-40 relative">
             {{ with .Params.logo -}}
-            <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.}}" class="cld-responsiveb h-24"
+            <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.}}" class="cld-responsiveb h-12"
               alt="logo of {{$title}}" />
             {{ end -}}
             {{ with .Params.new }}
