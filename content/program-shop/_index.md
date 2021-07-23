@@ -10,7 +10,7 @@ hero:
 Images:
   - "/v1603982195/marketplace_xtwqrj.png"
 selected_tags:
-  - Algemeen
+  - Algemene tools
 outputs:
   - HTML
   - JSON
