@@ -11,7 +11,7 @@ button:
   link: /crmintegratie/CSV/
 categories:
   - Generiek
-  - Algemeen
+  - Algemene tools
 new: true
 weight: 14
 
