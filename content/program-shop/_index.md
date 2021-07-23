@@ -7,7 +7,8 @@ intro:
   content: Alles wat je nodig hebt om slimmer te werken, op één plek
 hero:
   image: "/v1603982195/crmoverzicht_geuhmx.png"
-
+Images:
+  - "/v1603982195/marketplace_xtwqrj.png"
 selected_tags:
   - Workflow
 outputs:
