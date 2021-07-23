@@ -37,7 +37,7 @@
             <button type="button" id="reset" hidden
               onclick="document.querySelectorAll('.item-card').forEach(function (e,i){e.classList.add('hidden');if(i<20){e.classList.remove('hidden');}});this.hidden=true">
               Reset filters</button>
-            <h3 class="text-black"><b>Generieke CRM</b></h3>
+            <h3 class="text-black"><b>Universeel / Maatwerkpakket</b></h3>
             <ul class="space-y-2">
               {{/* ! previous code to get top 3 {{ range first 3 $topCat.ByCount }} {{ end }} */}}
               {{- range .Params.selected_tags }}
