@@ -11,7 +11,7 @@ button:
   link: /crmintegratie/url/
 categories:
   - Generiek
-  - Algemeen
+  - Algemene tools
 new: true
 weight: 16
 
