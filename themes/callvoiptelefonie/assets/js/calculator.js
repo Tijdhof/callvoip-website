@@ -478,32 +478,25 @@ document.addEventListener(
 );
 
 // This code is written by Inam
+document.getElementById("submit-small-form").onclick = function () {
+  const name = document.getElementById("s-name"),
+    email = document.getElementById("s-email"),
+    namev = name.value.length < 1,
+    emailv = email.value.length < 1;
+  namev
+    ? name.classList.add("border-red")
+    : name.classList.remove("border-red");
+  emailv
+    ? email.classList.add("border-red")
+    : email.classList.remove("border-red");
 
-function handleSmallForm(e, isSmall) {
-  const allEl = [
-    document.getElementById("telefoonnummer_client"),
-    document.getElementById("je-wensen"),
-    document.getElementById("bedrijfsnaam"),
-  ];
-  if (isSmall) {
-    allEl.forEach((e) => e.removeAttribute("name"));
-
-    const name = e.parentElement.querySelector('[name="Voor-en-achternaam"]');
-    const mail = e.parentElement.querySelector('[name="E-mailadres"]');
-
-    document.getElementById("voornaam").value = name.value.split(" ")[0];
-    document.getElementById("achternaam").value = name.value.split(" ")[1];
-    document.getElementById("email").value = mail.value;
-  } else {
-    allEl.forEach((e) => e.setAttribute("name", e.getAttribute("id")));
+  if (namev || emailv) {
+    return;
   }
-}
-const form = document.querySelector('[name="calculator-formulier"]');
-document.getElementById("submit-small-form").onclick = function (e) {
-  handleSmallForm(e.target, true);
-  form.submit();
-};
-document.getElementById("submit-full-form").onclick = function (e) {
-  handleSmallForm(e.target, false);
-  form.submit();
+
+  document.getElementById("voornaam").value = name.value.split(" ")[0];
+  document.getElementById("achternaam").value = name.value.split(" ")[1] || "";
+  document.getElementById("email").value = email.value;
+
+  document.querySelector('[name="calculator-formulier"]').submit();
 };
