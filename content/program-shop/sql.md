@@ -12,6 +12,7 @@ button:
 categories:
   - Generiek
   - Algemeen
+  - SQL
 new: true
 weight: 14
 
