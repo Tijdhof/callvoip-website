@@ -12,7 +12,6 @@ button:
 categories:
   - Generiek
   - Algemeen
-  - HTTP
 new: true
 weight: 15
 
