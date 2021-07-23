@@ -10,7 +10,11 @@ hero:
 Images:
   - "/v1603982195/marketplace_xtwqrj.png"
 selected_tags:
-  - Workflow
+  - Algemeen
+  - CSV
+  - HTTP
+  - SQL
+  - URL
 outputs:
   - HTML
   - JSON
