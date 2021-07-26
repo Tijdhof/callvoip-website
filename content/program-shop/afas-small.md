@@ -3,6 +3,8 @@ title: "Afas Small Business"
 date: 2021-06-03T16:52:17+05:00
 logo: "/afas_small_xuwb3x.png"
 description: Sync je CRM-contacten en -bedrijven.
+ontwikkelaar:
+  - title: Via API
 meer_info:
   - title: Support
     url: /ondersteuning/
