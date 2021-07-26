@@ -12,7 +12,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-weight: 9
+weight: 12
 
 ---
 
