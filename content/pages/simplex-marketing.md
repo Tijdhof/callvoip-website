@@ -1,15 +1,15 @@
 ---
-title: Simpex CRM + slimme telefonie
-description: 'Integratie van het CRM Simpex en onze telefonie: makkelijk, snel en efficiënt'
+title: Simplex CRM + slimme telefonie
+description: 'Integratie van het CRM Simplex en onze telefonie: makkelijk, snel en efficiënt'
 type: page
 layout: default2
 logos: false
-url: "/crmintegratie/Simpex/"
+url: "/crmintegratie/Simplex/"
 marketplaceItem: true
 hero:
-  title: Simpex + slimme telefonie
+  title: Simplex + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Simpex is een systeem gericht op Tandartsen. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Simpex nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Simplex is een systeem gericht op Tandartsen. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Simplex nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
   image: "/v1622801300/simplexlogo_t1mber.png"
@@ -20,13 +20,13 @@ blocks:
 - content: 'Stel je voor: van elk telefoontje wat binnenkomt bij jouw bedrijf zie
     je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals NAW gegevens, evt. offertes, notities van het laatste contact. Die pop-up
-    noemen wij Bubble. Met 1 klik open je Simpex met de juiste gegevens en kun je
+    noemen wij Bubble. Met 1 klik open je Simplex met de juiste gegevens en kun je
     de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over onze slimme pop-up</a>'
   image: "/v1615969123/quote_callvoip_blauw_universeel_c9afb7.png"
   zooming: true
   position: image_left
-  title: 'Integratie telefonie en Simpex: maak kennis met onze slimme pop-up'
+  title: 'Integratie telefonie en Simplex: maak kennis met onze slimme pop-up'
   image_position: center
 textblocks:
 - title1: De slimme pop-up
