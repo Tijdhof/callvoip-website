@@ -18,4 +18,4 @@ weight: 20
 
 **Welke voordelen levert Alexion?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Alexion. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor relatiebeheer en klantcontact.<br><br><a href="/crmintegratie/Alexion/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Alexion. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor relatiebeheer en klantcontact.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
