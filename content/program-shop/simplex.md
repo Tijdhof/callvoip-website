@@ -14,7 +14,7 @@ button:
 categories:
   - Tandarts
   - Nieuw
-weight: 27
+weight: 4
 new: true
 
 ---
