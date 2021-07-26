@@ -15,6 +15,7 @@ categories:
   - Workflow
   - Planning
   - Meest populair
+  - Nieuw
 weight: 30
 new: true
 
