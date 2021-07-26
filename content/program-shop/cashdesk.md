@@ -13,6 +13,7 @@ categories:
   - Kassasysteem
   - Meest populair
 weight: 5
+populair: true
 
 ---
 
