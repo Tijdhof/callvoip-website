@@ -17,4 +17,4 @@ weight: 5
 
 **Welke voordelen levert Cashdesk?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Cashdesk. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt met kassa- en bezorgsystemen.<br><br><a href="/crmintegratie/Cashdesk/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Cashdesk. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt met kassa- en bezorgsystemen.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
