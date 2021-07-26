@@ -19,3 +19,4 @@ weight: 3
 **Welke voordelen levert ZoHo op?**
 
 Het Zoho is een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn. HR, CRM, e-mail, meeting, chat.<br>Je kunt het zo gek niet bedenken of het is aanwezig, behalve…..TELEFONIE!<br>En daar komt Callvoip om de hoek kijken: koppel jouw Zoho nu aan onze telefonie en profiteer van het gemak en de efficiëntie.
+<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
