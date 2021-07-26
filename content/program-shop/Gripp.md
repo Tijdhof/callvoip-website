@@ -16,7 +16,7 @@ categories:
   - Planning
   - Meest populair
   - Nieuw
-weight: 7
+weight: 1
 new: true
 
 ---
