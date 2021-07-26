@@ -12,7 +12,7 @@ button:
 categories:
   - Huisartsen
   - Zorgverleners
-new: true
+weight: 22
 
 ---
 
