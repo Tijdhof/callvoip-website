@@ -20,4 +20,4 @@ new: true
 
 **Welke voordelen levert Sherpaan?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Sherpaan. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt als Webshop Software.<br><br><a href="/crmintegratie/Sherpaan/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Sherpaan. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt als Webshop Software.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
