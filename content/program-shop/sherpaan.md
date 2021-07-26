@@ -7,7 +7,7 @@ meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
-  - title: Via API
+  - title: Via SQL
 button:
   title: Meer informatie
   link: /crmintegratie/Sherpaan/
