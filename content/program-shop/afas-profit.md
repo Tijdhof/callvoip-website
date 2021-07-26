@@ -20,4 +20,4 @@ weight: 7
 
 **Welke voordelen levert Afas Small Profit?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Afas. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor relatiebeheer en klantcontact.<br><br><a href="/crmintegratie/Afas/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Afas. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor relatiebeheer en klantcontact.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
