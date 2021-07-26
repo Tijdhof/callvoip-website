@@ -14,7 +14,7 @@ button:
 categories:
   - Recruitment
   - Nieuw
-weight: 23
+weight: 1
 new: true
 
 ---
