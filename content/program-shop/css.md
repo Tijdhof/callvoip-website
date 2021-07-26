@@ -12,7 +12,7 @@ button:
 categories:
   - Garagesoftware
   - Meest populair
-weight: 1
+weight: 2
 ontwikkelaar:
   - title: Via API
 populair: true
