@@ -12,7 +12,6 @@ button:
 categories:
   - Workflow
   - Planning
-new: true
 weight: 19
 
 ---
