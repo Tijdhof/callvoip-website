@@ -12,11 +12,13 @@ button:
 categories:
   - Generiek
   - Algemene tools
-new: true
 weight: 14
 
 ---
 
 **Welke voordelen levert CSV?**
 
-CSV is een algemene koppeling en werkt samen met de service van Callvoip! Binnen één klik klantgegevens voor je vanuit een CSV bestand.<br><br><a href="/crmintegratie/sql/" class="button">Lees meer!</a>
+Heb je geen CRM-pakket waarvoor een koppeling op de plank ligt?<br>
+Geen nood: ook voor eigen CRM-pakketten en maatwerksystemen bieden we een aantal universele connectoren.<br>
+Deze kunnen rechtstreeks koppelen met softwarepakketten, databases of databestanden op basis van <a href="/program-shop/sql">SQL</a>, ODBC, <a href="/program-shop/csv">CSV</a>, <a href="/program-shop/http">HTTP</a>, en <a href="/program-shop/url">URL</a>.
+<br><br><a href="/crmintegratie/sql/" class="button">Lees meer!</a>
