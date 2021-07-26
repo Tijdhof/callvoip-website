@@ -11,7 +11,7 @@ button:
   link: /crmintegratie/robinhq/
 categories:
   - E-commerce
-weight: 6
+weight: 10
 
 ---
 
