@@ -13,10 +13,7 @@ button:
   link: /crmintegratie/Exquise/
 categories:
   - Tandarts
-  - Meest populair
-  - Nieuw
-weight: 25
-new: true
+weight: 10
 
 ---
 
