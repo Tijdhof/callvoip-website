@@ -20,4 +20,4 @@ new: true
 
 **Welke voordelen levert Exquise?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Exquise. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt als Webshop Software.<br><br><a href="/crmintegratie/Exquise/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Exquise. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Tandartsen.<br><br><a href="/crmintegratie/Exquise/" class="button">Lees meer!</a>
