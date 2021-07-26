@@ -47,18 +47,6 @@
             </div>
             <hr class="border-blue-light border-t">
             <div class="md:flex justify-center lg:justify-start md:space-x-16 space-y-4 md:space-y-0 text-grey">
-              {{ with .Params.ontwikkelaar }}
-              <div class="space-y-2">
-                <span><b>Type:</b></span>
-                <ul class="text-sm">
-                  {{ range . -}}
-                  <li>
-                    {{.title}}
-                  </li>
-                  {{ end }}
-                </ul>
-              </div>
-              {{ end }}
               {{ with .Params.meer_info }}
               <div class="space-y-2">
                 <span><b>Meer info:</b></span>
@@ -66,6 +54,18 @@
                   {{ range . -}}
                   <li>
                     <a href="{{.url}}">{{.title}}</a>
+                  </li>
+                  {{ end }}
+                </ul>
+              </div>
+              {{ end }}
+              {{ with .Params.ontwikkelaar }}
+              <div class="space-y-2">
+                <span><b>Type:</b></span>
+                <ul class="text-sm">
+                  {{ range . -}}
+                  <li>
+                    {{.title}}
                   </li>
                   {{ end }}
                 </ul>
