@@ -12,7 +12,7 @@ button:
 categories:
   - Kassasysteem
   - Meest populair
-weight: 5
+weight: 2
 populair: true
 
 ---
