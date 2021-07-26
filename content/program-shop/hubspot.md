@@ -12,7 +12,7 @@ button:
 categories:
   - E-commerce
   - Meest populair
-weight: 2
+weight: 3
 populair: true
 
 ---
