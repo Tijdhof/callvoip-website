@@ -16,6 +16,7 @@ categories:
   - Klantcontact
   - Meest populair
 weight: 7
+populair: true
 
 ---
 
