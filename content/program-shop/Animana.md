@@ -11,7 +11,7 @@ button:
   link: /crmintegratie/Animana
 categories:
   - Dierenartsen
-weight: 19
+weight: 10
 
 ---
 
