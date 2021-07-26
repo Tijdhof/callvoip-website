@@ -11,6 +11,7 @@ button:
   link: /crmintegratie/CashDesk/
 categories:
   - Kassasysteem
+  - Meest populair
 weight: 5
 
 ---
