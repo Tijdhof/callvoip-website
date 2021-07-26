@@ -13,6 +13,7 @@ button:
   link: /crmintegratie/Bullhorn/
 categories:
   - Recruitment
+  - Nieuw
 weight: 23
 new: true
 
