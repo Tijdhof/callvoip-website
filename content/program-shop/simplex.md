@@ -13,6 +13,7 @@ button:
   link: /crmintegratie/Simplex/
 categories:
   - Tandarts
+  - Nieuw
 weight: 27
 new: true
 
