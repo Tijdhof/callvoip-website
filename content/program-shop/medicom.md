@@ -14,6 +14,7 @@ categories:
   - Zorgverleners
   - Meest populair
 weight: 21
+populair: true
 
 ---
 
