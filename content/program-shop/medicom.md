@@ -13,7 +13,7 @@ categories:
   - Huisartsen
   - Zorgverleners
   - Meest populair
-weight: 21
+weight: 5
 populair: true
 
 ---
