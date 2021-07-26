@@ -12,8 +12,7 @@ button:
   title: Meer informatie
   link: /crmintegratie/Bullhorn/
 categories:
-  - Relatiebeheer
-  - Klantcontact
+  - Recruitment
 weight: 23
 new: true
 
@@ -21,4 +20,4 @@ new: true
 
 **Welke voordelen levert Bullhorn?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Bullhorn. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Relatiebeheer.<br><br><a href="/crmintegratie/Bullhorn/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Bullhorn. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Recruitment.<br><br><a href="/crmintegratie/Bullhorn/" class="button">Lees meer!</a>
