@@ -12,7 +12,7 @@ button:
 categories:
   - Garagesoftware
 weight: 1
-ontwikkelaar:
+type:
   - title: Via API
 
 ---
