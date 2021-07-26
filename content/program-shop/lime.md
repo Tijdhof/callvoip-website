@@ -11,7 +11,6 @@ button:
   link: /crmintegratie/Lime
 categories:
   - Klantcontact
-new: true
 weight: 18
 
 ---
