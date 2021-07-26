@@ -13,7 +13,6 @@ categories:
   - Huisartsen
   - Zorgverleners
 new: true
-weight: 10
 
 ---
 
