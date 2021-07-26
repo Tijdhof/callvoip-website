@@ -20,4 +20,4 @@ new: true
 
 **Welke voordelen levert Simplex?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Simplex. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Tandartsen.<br><br><a href="/crmintegratie/Simplex/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Simplex. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Tandartsen.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
