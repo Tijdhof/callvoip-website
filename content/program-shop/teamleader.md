@@ -18,4 +18,4 @@ weight: 18
 
 **Welke voordelen levert Teamleader?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Teamleader. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor workflow en planning.<br><br><a href="/crmintegratie/Teamleader/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Teamleader. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor workflow en planning.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
