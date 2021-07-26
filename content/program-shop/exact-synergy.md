@@ -15,7 +15,7 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Meest populair
-weight: 14
+weight: 4
 populair: true
 
 ---
