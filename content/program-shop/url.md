@@ -12,7 +12,7 @@ button:
 categories:
   - Generiek
   - Algemene tools
-weight: 16
+weight: 12
 
 ---
 
