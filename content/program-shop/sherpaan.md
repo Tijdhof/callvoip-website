@@ -13,6 +13,7 @@ button:
   link: /crmintegratie/Sherpaan/
 categories:
   - Webshop Software
+  - Nieuw
 weight: 24
 new: true
 
