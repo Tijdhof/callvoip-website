@@ -6,6 +6,8 @@ description: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
+ontwikkelaar:
+  - title: Via API
 button:
   title: Meer informatie
   link: /crmintegratie/Simplicate/
