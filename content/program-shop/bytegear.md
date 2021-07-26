@@ -13,7 +13,7 @@ button:
   link: /crmintegratie/ByteGear/
 categories:
   - Tandarts
-weight: 28
+weight: 29
 new: true
 
 ---
