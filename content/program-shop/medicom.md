@@ -18,4 +18,4 @@ weight: 21
 
 **Welke voordelen levert Medicom?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Medicom. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Huisartsen en Zorgverleners.**<br><br><a href="/crmintegratie/Medicom/" class="button">Lees meer!</a>**
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Medicom. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Huisartsen en Zorgverleners.<br><br><a href="/crmintegratie/Medicom/" class="button">Lees meer!</a>
