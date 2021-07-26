@@ -12,7 +12,7 @@ button:
 categories:
   - Property Management
   - Makelaars
-weight: 18
+weight: 17
 
 ---
 
