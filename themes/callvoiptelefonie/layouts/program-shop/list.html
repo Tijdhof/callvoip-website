@@ -64,7 +64,7 @@
         {{ range $i, $item := .Pages.ByWeight -}}
         {{ $title := .Title }}
         <a href="{{.Permalink}}"
-          class="block border border-grey-lightest rounded-md overflow-hidden md:w-64 mb-4 text-grey item-card {{- range $item.Params.categories }} {{urlize .}}{{ end }}{{ if gt $i 20 }} hidden{{ end }}">
+          class="block border border-grey-lightest rounded-md overflow-hidden md:w-64 mb-4 text-grey item-card {{- range $item.Params.categories }} {{urlize .}}{{ end }}{{ if gt $i 20 }}{{ end }}">
           <div class="bg-grey-lightest flex items-center justify-center p-4 h-40 relative">
             {{ with .Params.logo -}}
             <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.}}" class="cld-responsiveb h-24"
