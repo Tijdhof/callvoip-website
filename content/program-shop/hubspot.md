@@ -13,6 +13,7 @@ categories:
   - E-commerce
   - Meest populair
 weight: 8
+populair: true
 
 ---
 
