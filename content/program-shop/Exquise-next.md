@@ -15,7 +15,7 @@ categories:
   - Tandarts
   - Meest populair
   - Nieuw
-weight: 26
+weight: 3
 new: true
 
 ---
