@@ -12,7 +12,7 @@ button:
 categories:
   - Workflow
   - Teams
-weight: 17
+weight: 14
 
 ---
 
