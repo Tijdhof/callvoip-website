@@ -15,7 +15,7 @@ categories:
   - Workflow
   - Planning
   - Nieuw
-weight: 8
+weight: 1
 new: true
 
 ---
