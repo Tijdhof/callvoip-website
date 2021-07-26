@@ -12,6 +12,7 @@ Images:
 selected_tags:
   - Algemene tools
   - Meest populair
+  - Nieuw
 outputs:
   - HTML
   - JSON
