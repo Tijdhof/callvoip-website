@@ -14,7 +14,7 @@ button:
 categories:
   - Workflow
   - Planning
-weight: 22
+weight: 10
 
 ---
 
