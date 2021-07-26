@@ -14,7 +14,7 @@ button:
 categories:
   - E-commerce
   - Nieuw
-weight: 32
+weight: 1
 new: true
 
 ---
