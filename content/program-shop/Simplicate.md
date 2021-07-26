@@ -13,7 +13,6 @@ categories:
   - Workflow
   - Planning
 new: true
-weight: 11
 
 ---
 
