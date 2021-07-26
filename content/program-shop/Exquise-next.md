@@ -1,7 +1,7 @@
 ---
 title: "Exquise Next Generation"
 date: 2021-06-03T16:52:17+05:00
-logo: "/equise_qt6vcx.png"
+logo: "/equise_next_bw7o1n.png"
 description: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
