@@ -14,7 +14,6 @@ button:
 categories:
   - Recruitment
 weight: 23
-new: true
 
 ---
 
