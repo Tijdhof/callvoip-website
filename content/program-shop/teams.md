@@ -12,7 +12,6 @@ button:
 categories:
   - Workflow
   - Teams
-new: true
 weight: 17
 
 ---
