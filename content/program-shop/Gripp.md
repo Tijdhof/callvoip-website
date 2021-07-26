@@ -21,4 +21,4 @@ new: true
 
 **Welke voordelen levert Gripp?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Gripp. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Workflow en Planning.<br><br><a href="/crmintegratie/Gripp/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Gripp. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Workflow en Planning.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
