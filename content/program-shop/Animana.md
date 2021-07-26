@@ -17,4 +17,4 @@ weight: 19
 
 **Welke voordelen levert IDEXX Animana?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met IDEXX Animana. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Dierenartsen.<br><br><a href="/crmintegratie/Animana/" class="button">Lees meer!</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met IDEXX Animana. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Dierenartsen.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
