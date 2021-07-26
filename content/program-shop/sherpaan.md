@@ -14,7 +14,7 @@ button:
 categories:
   - Webshop Software
   - Nieuw
-weight: 2
+weight: 1
 new: true
 
 ---
