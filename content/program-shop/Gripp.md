@@ -7,7 +7,7 @@ meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
-  - title: Via URL
+  - title: Via API
 button:
   title: Meer informatie
   link: /crmintegratie/Gripp/
