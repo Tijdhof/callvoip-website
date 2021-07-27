@@ -1,5 +1,5 @@
 ---
-title: "Google nummercheck"
+title: "Google Nummercheck"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Google_vednx4.png"
 description: Algemene koppeling
