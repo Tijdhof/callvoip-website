@@ -1,6 +1,6 @@
 ---
-title: Taxsys Pro CRM CRM + slimme telefonie
-description: 'Integratie van het CRM Taxsys Pro CRM en onze telefonie: makkelijk, snel en efficiënt'
+title: Taxsys Pro CRM  + slimme telefonie
+description: 'Integratie van het Taxsys Pro CRM en onze telefonie: makkelijk, snel en efficiënt'
 type: page
 layout: default2
 logos: false
@@ -9,7 +9,7 @@ marketplaceItem: true
 hero:
   title: Taxsys Pro CRM + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Taxsys Pro CRM is een systeem gericht op Assurantien. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Taxsys Pro CRM nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Taxsys Pro CRM is een systeem gericht op Taxisoftware. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Taxsys Pro CRM nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
   image: "/v1622801300/Taxsyslogo_rsk576.png"
