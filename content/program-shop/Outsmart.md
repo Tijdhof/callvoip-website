@@ -14,9 +14,7 @@ button:
 categories:
   - Workflow
   - Planning
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 
 ---
 
