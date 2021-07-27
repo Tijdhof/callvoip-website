@@ -1,7 +1,7 @@
 ---
 title: "Taxsys Pro CRM"
 date: 2021-06-03T16:52:17+05:00
-logo: "/salesforce_htw2sm.png"
+logo: "/Taxsys_c82zcx.png"
 description: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
