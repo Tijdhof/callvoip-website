@@ -4,7 +4,7 @@ description: 'Integratie van het CRM Google nummercheck en onze telefonie: makke
 type: page
 layout: default2
 logos: false
-url: "/crmintegratie/Salesforce/"
+url: "/crmintegratie/Google/"
 marketplaceItem: true
 hero:
   title: Google nummercheck + slimme telefonie
