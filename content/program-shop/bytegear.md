@@ -14,7 +14,7 @@ button:
 categories:
   - Tandarts
   - Meest populair
-weight: 5
+weight: 3
 populair: true
 
 ---
