@@ -13,9 +13,7 @@ button:
   link: /crmintegratie/OaseDental/
 categories:
   - Tandarts
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 
 ---
 
