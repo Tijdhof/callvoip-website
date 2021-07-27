@@ -13,9 +13,7 @@ button:
   link: /crmintegratie/Salesforce/
 categories:
   - E-commerce
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 
 ---
 
