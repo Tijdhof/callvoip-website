@@ -4,7 +4,7 @@ description: 'Integratie van het CRM Trengo en onze telefonie: makkelijk, snel e
 type: page
 layout: default2
 logos: false
-url: "/crmintegratie/Belco/"
+url: "/crmintegratie/Trengo/"
 marketplaceItem: true
 hero:
   title: Trengo + slimme telefonie
