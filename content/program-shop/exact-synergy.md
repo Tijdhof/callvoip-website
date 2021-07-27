@@ -14,9 +14,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Meest populair
-weight: 4
-populair: true
+weight: 10
 
 ---
 
