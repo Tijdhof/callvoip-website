@@ -14,9 +14,8 @@ button:
 categories:
   - Tandarts
   - Meest populair
-  - Nieuw
-weight: 1
-new: true
+weight: 5
+populair: true
 
 ---
 
