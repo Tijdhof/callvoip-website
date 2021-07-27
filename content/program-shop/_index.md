@@ -4,7 +4,7 @@ date: 2021-06-03T14:35:57+05
 url: /marketplace/
 intro:
   title: Integreer je favoriete tools
-  content: Alle CRM pakketen op één plek, staat jouw pakket er niet bij? Neem <a href="/contact/">contact</a> op voor de mogelijkheden.
+  content: Alle CRM pakketten op één plek. Staat jouw pakket er niet bij? Neem <a href="/contact/">contact</a> op voor de mogelijkheden.
 hero:
   image: "/v1603982195/crmoverzicht_geuhmx.png"
 Images:
