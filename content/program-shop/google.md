@@ -1,7 +1,7 @@
 ---
 title: "Google nummercheck"
 date: 2021-06-03T16:52:17+05:00
-logo: "/gripp_nleqgd.png"
+logo: "/Google_vednx4.png"
 description: Algemene koppeling
 meer_info:
   - title: Support
@@ -16,6 +16,7 @@ categories:
   - Generiek
   - Meest populair
 weight: 5
+populair: true
 
 ---
 
