@@ -1,5 +1,6 @@
 ---
-title: "Callvoip's Marketplace voor CRM Integratie"
+title: "Callvoip Marketplace voor CRM Integratie"
+description: Callvoip Marketplace, alle CRM pakketten op één plek!
 date: 2021-06-03T14:35:57+05
 url: /marketplace/
 intro:
