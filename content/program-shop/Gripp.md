@@ -18,9 +18,11 @@ categories:
   - Nieuw
 weight: 1
 new: true
+url: /marketplace/Gripp/
+aliases: /program-shop/Gripp/
 
 ---
 
 **Welke voordelen levert Gripp?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Gripp. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Workflow en Planning.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Gripp. Één keer klikken en je hebt alle gegevens voor je.<br>Dit pakket wordt veel gebruikt voor Workflow en Planning.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
