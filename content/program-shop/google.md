@@ -24,7 +24,7 @@ aliases: /program-shop/Google
 
 **Welke voordelen levert Google nummercheck?**
 
-Of je nu wel of geen CRM-pakket hebt: de Google nummerherkenning biedt altijd toegevoegde waarde! Bij elk telefoonnummer checkt Google of bij dit nummer een naam, adres en woonplaats bekend is. Deze toevoeging is verrassend handig. Uiteraard toont de Bubble wanneer en met welke collega deze beller eerder sprak. Én je hebt 4 buttons die je zelf kunt instellen voor handige vervolgacties! 
+Of je nu wel of geen CRM-pakket hebt: de Google nummerherkenning biedt altijd toegevoegde waarde! Bij elk telefoonnummer checkt Google of bij dit nummer een naam, adres en woonplaats bekend is. Deze toevoeging is verrassend handig. Uiteraard toont de Bubble wanneer en met welke collega deze beller eerder sprak. Én je hebt 4 buttons die je zelf kunt instellen voor handige vervolgacties!<br>
 Alleen deze dingen al maken een VoIP CTI koppeling van grote waarde, ook als je géén CRM hebt. En heb je ook nog een CRM pakket, dan kun je de Google nummercheck op de tweede of derde positie zetten. De nummers die niet in jouw CRM's staan worden dan alsnog door Google gecheckt.
 <br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627546756/googleCRM_k4dnqo.png">
