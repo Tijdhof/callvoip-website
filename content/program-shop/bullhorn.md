@@ -16,9 +16,11 @@ categories:
   - Nieuw
 weight: 1
 new: true
+url: /marketplace/Bullhorn/
+aliases: /program-shop/Bullhorn/
 
 ---
 
 **Welke voordelen levert Bullhorn?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Bullhorn. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor Recruitment.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Bullhorn. Één keer klikken en je hebt alle gegevens voor je.<br>Dit pakket wordt veel gebruikt voor Recruitment.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
