@@ -64,8 +64,8 @@
         {{ range $i, $item := .Pages.ByWeight -}}
         {{ $title := .Title }}
         <a href="{{.Permalink}}"
-          class="block border border-grey-lightest rounded-md overflow-hidden md:w-64 mb-4 md:mb-12 text-grey item-card mx-6 xl:mx-2 {{- range $item.Params.categories }} {{urlize .}}{{ end }}">
-          <div class="bg-grey-lightest flex items-center justify-center p-4 h-40 relative" style="max-height:310px">
+          class="block border border-grey-lightest rounded-md overflow-hidden md:w-64 mb-4 md:mb-12 text-grey item-card mx-6 xl:mx-2 {{- range $item.Params.categories }} {{urlize .}}{{ end }}" style="max-height:310px;">
+          <div class="bg-grey-lightest flex items-center justify-center p-4 h-40 relative">
             {{ with .Params.logo -}}
             <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.}}" class="cld-responsiveb h-24"
               alt="logo of {{$title}}" />
