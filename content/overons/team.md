@@ -59,7 +59,7 @@ team:
 - name: Tim van der Horst
   image: "/v1567149481/Tim_fjmxfn.png"
   content: 'De grafische man. Maakt mooie plaatjes of het niets is en weet daarbij
-    de juiste boodschap over te brengen. Doet ie met zo’n raar klinkend toetenbord.
+    de juiste boodschap over te brengen. Doet ie met zo’n raar klinkend toetsenbord.
     Vermoedelijk een gamer. Typt in vreemde talen. '
   function: Marketingmedewerker
   linkedin: ''
