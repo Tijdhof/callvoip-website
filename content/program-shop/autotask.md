@@ -15,9 +15,11 @@ categories:
   - Workflow
   - Planning
 weight: 10
+url: /marketplace/Autotask/
+aliases: /program-shop/Autotask
 
 ---
 
 **Welke voordelen levert Autotask PSA?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Autotask PSA. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor workflow en planning.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Autotask PSA. Één keer klikken en je hebt alle gegevens voor je.<br>Dit pakket wordt veel gebruikt voor workflow en planning.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
