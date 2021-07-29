@@ -22,4 +22,4 @@ new: true
 
 **Welke voordelen levert Trengo?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Trengo. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor E-commerce.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Trengo. Één keer klikken en je hebt alle gegevens voor je.<br>Dit pakket wordt veel gebruikt voor E-commerce.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
