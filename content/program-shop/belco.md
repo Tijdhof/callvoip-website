@@ -17,6 +17,8 @@ categories:
   - Nieuw
 weight: 1
 new: true
+url: /marketplace/Belco/
+aliases: /program-shop/belco/
 
 ---
 
