@@ -13,7 +13,7 @@ categories:
   - Property Management
   - Makelaars
   - Meest populair
-weight: 5
+weight: 1
 populair: true
 
 ---
