@@ -4,7 +4,7 @@ description: 'Integratie van het CRM Outsmart en onze telefonie: makkelijk, snel
 type: page
 layout: default2
 logos: false
-url: "/crmintegratie/Gripp/"
+url: "/crmintegratie/Outsmart/"
 marketplaceItem: true
 hero:
   title: Outsmart + slimme telefonie
