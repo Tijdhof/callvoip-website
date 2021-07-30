@@ -9,7 +9,7 @@ marketplaceItem: true
 hero:
   title: Outsmart + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM Outsmart Gripp is een systeem gericht op Workflow en Planning. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Outsmart nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM Outsmart is een systeem gericht op Workflow en Planning. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Outsmart nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
   image: "/v1622801300/outsmartlogo_r5rpk7.png"
