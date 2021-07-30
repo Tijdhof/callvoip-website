@@ -65,3 +65,8 @@ HUGO_ENABLEGITINFO = "true"
   to = "http://files.callvoip.nl/downloads/Callvoip_informatie-over-de-VoIPCTI-Bubble_instellen.pdf"
   status = 301
   force = true
+[[redirects]]
+  from = "/crm/"
+  to = "/marketplace/"
+  status = 301
+  force = true
