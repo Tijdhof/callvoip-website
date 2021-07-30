@@ -10,7 +10,7 @@ ontwikkelaar:
   - title: Via API
 button:
   title: Meer informatie
-  link: /crmintegratie/Belco/
+  link: /crmintegratie/Pipedrive/
 categories:
   - E-commerce
   - Customerservice
