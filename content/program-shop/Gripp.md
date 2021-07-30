@@ -14,7 +14,6 @@ button:
 categories:
   - Workflow
   - Planning
-  - Meest populair
   - Nieuw
 weight: 1
 new: true
