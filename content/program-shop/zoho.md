@@ -15,6 +15,8 @@ categories:
   - Nieuw
 weight: 1
 new: true
+url: /marketplace/zoho
+aliases: /program-shop/zoho
 
 ---
 
