@@ -1,5 +1,5 @@
 ---
-title: "PerfectView"
+title: "PerfectView + Callregistratie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/perfectview_tyrbss.png"
 description: Sync je CRM-contacten en -bedrijven.
