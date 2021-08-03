@@ -16,9 +16,11 @@ categories:
   - Meest populair
 weight: 3
 populair: true
+url: /marketplace/bytegear/
+aliases: /program-shop/bytegear/
 
 ---
 
 **Welke voordelen levert ByteGear?**
 
-Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met ByteGear. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Tandartsen.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995979/bytegear_ugigle.png" style="float:right; padding-left:15px" width=500px" class="zoom">Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met ByteGear. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt door Tandartsen.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
