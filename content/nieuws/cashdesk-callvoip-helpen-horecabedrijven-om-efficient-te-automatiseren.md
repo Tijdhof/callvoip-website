@@ -21,7 +21,7 @@ tags: []
 
 ---
 **![](https://res.cloudinary.com/callvoip/image/upload/v1627989099/cashdesk_eqit0l.png)  
-Vraag een willekeurig horecabedrijf naar haar drijfveer ten aanzien van hun bestaansrecht en het antwoord zou zomaar kunnen luiden; “Klanten blij maken door te doen waar wij goed in zijn.”. Door middel van de perfecte klantbeleving, gastvrijheid en service maak je van klanten fans en blijven ze terugkomen. Dit werkt tegenwoordig alleen een beetje anders dan vroeger, toen klanten nog hoofdzakelijk belden en/of bij je naar binnen liepen. Nu wordt er verwacht dat je naast een lekker potje koken eveneens perfecte (online) service op afstand kunt bieden. Je fysieke restaurant dus omkatten naar een online bezorg- en afhaalrestaurant. Anders ben je, hoe hard het ook moge zijn, simpelweg af. Geen zorgen; Software-oplossing Cashdesk en VoIP-ICT-bedrijf Callvoip bieden dé helpende hand aan zoekende horecabedrijven met de wens om efficiënt en doortastend te automatiseren!**
+Vraag een willekeurig horecabedrijf naar haar drijfveer ten aanzien van hun bestaansrecht en het antwoord zou zomaar kunnen luiden; “Klanten blij maken door te doen waar wij goed in zijn.”. Door middel van de perfecte klantbeleving, gastvrijheid en service maak je van klanten fans en blijven ze terugkomen. Dit werkt tegenwoordig alleen een beetje anders dan vroeger, toen klanten nog hoofdzakelijk belden en/of bij je naar binnen liepen. Nu wordt er verwacht dat je naast een lekker potje koken eveneens perfecte (online) service op afstand kunt bieden. Je fysieke restaurant dus omkatten naar een online bezorg- en afhaalrestaurant. Anders ben je, hoe hard het ook moge zijn, simpelweg af. Geen zorgen; Software-oplossing** [**Cashdesk**](https://www.cashdesk.nl/) **en VoIP-ICT-bedrijf Callvoip bieden de helpende hand aan zoekende horecabedrijven met de wens om efficiënt en doortastend te automatiseren!** **In dit artikel leggen wij uit waarom onze oplossing dé uitkomst is en laten wij onze gezamenlijke klanten Sushipoint en Snackbar De Walenburger aan het woord.**
 
 **Totale deliverymarkt in 2020 gegroeid met 43,1%**
 
@@ -33,4 +33,4 @@ Sommige horecabedrijven wachten best lang met het online automatiseren van hun b
 
 Kortom, laten we stoppen met het opsommen van deze misère, maar we kunnen ons goed voorstellen dat ondernemen in de horeca er voor velen niet leuker op is geworden anno 2021. Dit hoeft echter niet zo te zijn. Sterker nog, ondernemen kan weer leuk worden en zelfs rendabel!
 
-<b>Het hele artikel lezen?</b><br><a href="/cashdesk-volledig/" class="button">Klik hier!</a><br><br>Of bekijk <a href="/crmintegratie/cashdesk/">Cashdesk</a> direct op onze <a href="/marketplace/">Marketplace!</a>
+<b>Nieuwsgierig geworden naar ons aanbod plus concrete klantervaringen?</b><br><a href="/cashdesk-volledig/" class="button">Klik hier!</a><br><br>Of bekijk <a href="/crmintegratie/cashdesk/">Cashdesk</a> direct op onze <a href="/marketplace/">Marketplace!</a>

@@ -20,6 +20,8 @@ categories: []
 tags: []
 
 ---
+In het licht van afgelopen corona-jaar zorgde de lockdown en thuiswerken voor een enorme piek op het gebied van bezorging, plus extra hoge druk op efficiency, tijdsbesparing en kwaliteit tijdens de drukste momenten. Elke gemiste klant is direct kostbaar en terugkerende tevreden klanten is iets waarop bezorg- en afhaalrestaurants veel focus wensen te leggen. Gestroomlijnde automatisering en handige inzichten in eigen data zijn hierin de sleutel tot succes. Wij vroegen onze klanten [Sushipoint](https://www.sushipoint.nl/) en [De Walenburger](https://www.snackbardewalenburger.nl/) naar hun ervaringen met onze geïntegreerde dienstverlening.
+
 **Het vraagstuk; hoe automatiseren horecaondernemers een professioneel en efficiënt online (CRM-)systeem?**
 
 Je hoeft echt geen ICT'er, app-developer of online marketeer te zijn als je een restaurant of snackbar hebt. Er bestaat vanzelfsprekend een legio aan slimme software-oplossingen welke specifiek zijn ontwikkeld voor het adequaat automatiseren van de online systemen van horecabedrijven.
@@ -81,18 +83,19 @@ Het zal dan ook niet verbazen dat wij onze prachtige online centrale dan ook zo 
 * Directe nummerherkenning zodat telefonische bestellingen sneller opgenomen kunnen worden, en zodat er geen typefouten in telefoonnummers worden gemaakt.
 * Daarnaast biedt Callvoip een wachtrij waardoor je als consument nooit meer een ‘in gesprek’ toon hoort wat zorgt voor meer bestellingen.
 
-**Wat maakt samenwerking zo interessant?**  
-CashDesk verkoopt de combinatie van CashDesk bezorgsoftware en Callvoip. Wat Callvoip toevoegt in deze combinatie is dat zij de handmatige invoer van telefonische bestellingen optimaliseren. Nu het afgelopen jaar het aantal bestellingen fors is toegenomen is de werkdruk hoger komen te liggen. Een hoge werkdruk zorgt voor behoefte aan manieren om efficiënter te werken om zo de werkdruk te kunnen behappen. Callvoip zorgt voor een stukje extra efficiëntie in het opnemen en verwerken van telefoontjes.
+**Wat maakt samenwerking zo interessant?**
 
-### **Cashdesk samen met Callvoip in de praktijk volgens klanten:**
+CashDesk verkoopt de combinatie van CashDesk bezorgsoftware geïntegreerd met de VoIP-telefonie van Callvoip. Wat Callvoip toevoegt in deze combinatie is dat zij de handmatige invoer van telefonische bestellingen optimaliseren. Nu het afgelopen jaar het aantal bestellingen fors is toegenomen is de werkdruk hoger komen te liggen. Een hoge werkdruk zorgt voor behoefte aan manieren om efficiënter te werken om zo de werkdruk te kunnen behappen. Callvoip zorgt voor een stukje extra efficiëntie in het opnemen en verwerken van telefoontjes.
+
+#### **Cashdesk samen met Callvoip in de praktijk volgens klanten:**
 
 **Sushipoint**
 
-Wij gaven net als concreet voorbeeld een pizzeria, maar waar we ook dol op zijn is sushi. Bij tientallen vestigingen van Sushipoint kun je telefonisch super makkelijk bestellen en thuis bezorgd krijgen. En dit alles dankzij Cashdesk en Callvoip. Maar geloof ons niet: geloof Priskilla van Sushipoint zelf:
+Bij tientallen vestigingen van Sushipoint kun je telefonisch erg eenvoudig bestellen en thuisbezorgd krijgen. En dit alles dankzij Cashdesk en Callvoip. Maar geloof ons niet: geloof Priskilla van Sushipoint zelf:
 
 _“Callvoip verzorgt de telefonie van een groot aantal van onze vestigingen. Door de integratie met Cashdesk werken we lekker efficiënt en zijn we in staat om supersnel telefonisch bestellingen af te handelen.”_
 
-**De Walenburger - Eigenaar Ibrahim Yilmaz**
+**Snackbar De Walenburger - Eigenaar Ibrahim Yilmaz**
 
 “Ik ben enorm blij met deze systemen. Wij zijn ongeveer 1-1,5 jaar geleden overgestapt naar CashDesk. De reden hiervan was, dat wij bij de oude kassaleverancier enorme problemen hadden. Het systeem liep telkens vast. De eigenaar van het bedrijf stond niet open voor verder ontwikkelen van het systeem en had geen koppeling (buiten Thuisbezorgd) met de meest gebruikte platforms. De website van hen was een van de eerste versies van ‘Opencart’.
 
@@ -102,7 +105,7 @@ Klantkoppeling met het kassasysteem hadden wij ook bij ons oude kassasysteem. Ec
 
 Hier waren wij enorm blij mee. Op de drukste momenten moest telkens 1 persoon de telefoon opnemen en bestellingen aannemen. Door een keuzemenu in te voeren, zijn deze telefoontjes meer dan gehalveerd, waardoor wij meer tijd hadden voor de voorbereiding van de maaltijden. Voor nu zijn wij erg tevreden over deze samenwerking en hebben wij genoeg aan het systeem zoals het is.”
 
-### **De resultaten: door effectiviteit weer focus op kwaliteit**
+#### **De resultaten: door effectiviteit weer focus op kwaliteit**
 
 Vanzelfsprekend is het altijd leuk om te vernemen dat klanten tevreden zijn over ons gezamenlijke dienstverlening. Dat is waar je het uiteindelijk voor doet. Dit geldt voor ons beide partijen. Het voornaamste doel van dit aanbod daarnaast in deze zogenaamde driehoekssamenwerking, is om de klant door middel van gestroomlijnde automatiseringsprocessen zoveel mogelijk bestellingen op te leveren. Tijdsbesparing zet in de meeste gevallen een positieve kettingreactie in gang. Denk aan efficiëntie, optimale effectiviteit en daarmee een scherpe focus op kwaliteit. In feite geeft het adequaat automatiseren van je bedrijf je dagelijks de mogelijkheid, om weer aandacht te geven aan de zaken waar je het aanvankelijk ooit voor bent gaan doen. Op een prettige manier met een hecht team je bedrijf runnen door klanten blij te maken.
 
