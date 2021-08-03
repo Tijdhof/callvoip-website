@@ -1,5 +1,5 @@
 ---
-title: "Realworks"
+title: "Realworks + callregistratie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/realworks_c5e8fj.png"
 description: Sync je CRM-contacten en -bedrijven.
@@ -15,12 +15,14 @@ categories:
   - Meest populair
 weight: 2
 populair: true
+url: /marketplace/realworks/
+aliases: /program-shop/realworks/
 
 ---
 
 **Hoe werkt de CRM koppeling tussen Callvoip en Realworks?**
 
-Met de Callvoip Realworks CRM telefonie connector verschijnt er bij een inkomende en/of uitgaande oproep direct een pop-up in Realworks zelf met  klantinformatie en kun je direct een Call Registratie starten in Realworks. Het Call Registratie scherm opent automatisch. In het Call Registratie scherm zullen de zaken die al bekend zijn over het gesprek (datum, tijd, nummer) automatisch worden ingevuld. Het is aan te raden om in ieder geval het gespreksverslag vast te leggen in het daarvoor bestemde veld, om zo na afloop terug te kunnen vinden waar het gesprek over ging.<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/realworks_q8loka.png" style="float:right; padding-left:15px" width=500px" class="zoom">Met de Callvoip Realworks CRM telefonie connector verschijnt er bij een inkomende en/of uitgaande oproep direct een pop-up in Realworks zelf met  klantinformatie en kun je direct een Call Registratie starten in Realworks. Het Call Registratie scherm opent automatisch. In het Call Registratie scherm zullen de zaken die al bekend zijn over het gesprek (datum, tijd, nummer) automatisch worden ingevuld. Het is aan te raden om in ieder geval het gespreksverslag vast te leggen in het daarvoor bestemde veld, om zo na afloop terug te kunnen vinden waar het gesprek over ging.<br>
 <br>
 De pop-up zal uit zichzelf verdwijnen als het gesprek wordt opgehangen. Ook als het het Call Registratie scherm niet wordt geopend zal het gesprek in Realworks worden gelogd, dan zonder gespreksverslag. Ook is het mogelijk een terugbelverzoek aan te maken in Realworks voor een collega vanuit de call registratie middels een taak of een template. Binnen Realworks kun je nummers aanklikken om deze gelijk te bellen. Standaard is de Bubble popup applicatie voorzien van click-to-dial functionaliteit (uitbellen met één klik) voor elk programma op je computer met een zelf te bepalen hotkeay, standaard F7. Deze functie werkt zowel lokaal als webbased.<br>
 <br>
