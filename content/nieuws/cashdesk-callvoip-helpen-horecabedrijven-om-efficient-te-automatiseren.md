@@ -20,7 +20,7 @@ categories: []
 tags: []
 
 ---
-**![](https://res.cloudinary.com/callvoip/image/upload/v1627985351/cashdesk_jwcm78.png)  
+**![](https://res.cloudinary.com/callvoip/image/upload/v1627989099/cashdesk_eqit0l.png)  
 Vraag een willekeurig horecabedrijf naar haar drijfveer ten aanzien van hun bestaansrecht en het antwoord zou zomaar kunnen luiden; “Klanten blij maken door te doen waar wij goed in zijn.”. Door middel van de perfecte klantbeleving, gastvrijheid en service maak je van klanten fans en blijven ze terugkomen. Dit werkt tegenwoordig alleen een beetje anders dan vroeger, toen klanten nog hoofdzakelijk belden en/of bij je naar binnen liepen. Nu wordt er verwacht dat je naast een lekker potje koken eveneens perfecte (online) service op afstand kunt bieden. Je fysieke restaurant dus omkatten naar een online bezorg- en afhaalrestaurant. Anders ben je, hoe hard het ook moge zijn, simpelweg af. Geen zorgen; Software-oplossing Cashdesk en VoIP-ICT-bedrijf Callvoip bieden dé helpende hand aan zoekende horecabedrijven met de wens om efficiënt en doortastend te automatiseren!**
 
 **Totale deliverymarkt in 2020 gegroeid met 43,1%**
