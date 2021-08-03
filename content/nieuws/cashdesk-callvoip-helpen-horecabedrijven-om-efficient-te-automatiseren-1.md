@@ -55,8 +55,8 @@ Wij snappen natuurlijk ook wel dat het gezamenlijke aanbod van Software-oplossin
 **Maar wie zijn wij dan en wat bieden we?**
 
 Laten wij beginnen met het presenteren van Cashdesk. En dat kunnen we uiteraard het beste laten vertellen door Cashdesk zelf en dan in het bijzonder marketingmedewerker Jeroen Schilder;
-
-**Wat is dat, Cashdesk?**<img src="https://res.cloudinary.com/callvoip/image/upload/v1627992570/cashdesk_1_p8i88e.png" style="float:right; width:330px;">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627992570/cashdesk_1_p8i88e.png" style="float:right; width:330px; padding-left:10px">
+**Wat is dat, Cashdesk?**
 
 Heb je een restaurant, wat ook nog eens bezorgt? Dan ben je met Cashdesk in 1 keer klaar. Ze regelen alles. Van een website waar je online kan bestellen, tot een app waarmee klanten de bezorger op de voet kunnen volgen. Maar ook de software van de kassa en alle klantgegevens inclusief bestelhistorie. Kortom: de hele workflow van een horecaonderneming is onder de pannen met Cashdesk, inclusief de benodigde hardware.
 
@@ -88,14 +88,14 @@ Het zal dan ook niet verbazen dat wij onze prachtige online centrale dan ook zo 
 CashDesk verkoopt de combinatie van CashDesk bezorgsoftware geïntegreerd met de VoIP-telefonie van Callvoip. Wat Callvoip toevoegt in deze combinatie is dat zij de handmatige invoer van telefonische bestellingen optimaliseren. Nu het afgelopen jaar het aantal bestellingen fors is toegenomen is de werkdruk hoger komen te liggen. Een hoge werkdruk zorgt voor behoefte aan manieren om efficiënter te werken om zo de werkdruk te kunnen behappen. Callvoip zorgt voor een stukje extra efficiëntie in het opnemen en verwerken van telefoontjes.
 
 #### **Cashdesk samen met Callvoip in de praktijk volgens klanten:**
-
-**Sushipoint**<img src="https://res.cloudinary.com/callvoip/image/upload/v1627992500/logo_ys3zeu.png" style="float:right; width:330px;">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627992500/logo_ys3zeu.png" style="float:right; width:330px; padding-left:10px">
+**Sushipoint**
 
 Bij tientallen vestigingen van Sushipoint kun je telefonisch erg eenvoudig bestellen en thuisbezorgd krijgen. En dit alles dankzij Cashdesk en Callvoip. Maar geloof ons niet: geloof Priskilla van Sushipoint zelf:
 
 _“Callvoip verzorgt de telefonie van een groot aantal van onze vestigingen. Door de integratie met Cashdesk werken we lekker efficiënt en zijn we in staat om supersnel telefonisch bestellingen af te handelen.”_
-
-**Snackbar De Walenburger - Eigenaar Ibrahim Yilmaz**<img src="https://res.cloudinary.com/callvoip/image/upload/v1627992537/download_1_vmlfmn.jpg" style="float:right; width:330px;">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627992537/download_1_vmlfmn.jpg" style="float:right; width:330px; padding-left:10px">
+**Snackbar De Walenburger - Eigenaar Ibrahim Yilmaz**
 
 “Ik ben enorm blij met deze systemen. Wij zijn ongeveer 1-1,5 jaar geleden overgestapt naar CashDesk. De reden hiervan was, dat wij bij de oude kassaleverancier enorme problemen hadden. Het systeem liep telkens vast. De eigenaar van het bedrijf stond niet open voor verder ontwikkelen van het systeem en had geen koppeling (buiten Thuisbezorgd) met de meest gebruikte platforms. De website van hen was een van de eerste versies van ‘Opencart’.
 
