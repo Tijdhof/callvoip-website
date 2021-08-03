@@ -33,4 +33,4 @@ Sommige horecabedrijven wachten best lang met het online automatiseren van hun b
 
 Kortom, laten we stoppen met het opsommen van deze misère, maar we kunnen ons goed voorstellen dat ondernemen in de horeca er voor velen niet leuker op is geworden anno 2021. Dit hoeft echter niet zo te zijn. Sterker nog, ondernemen kan weer leuk worden en zelfs rendabel!
 
-<b>Nieuwsgierig geworden naar ons aanbod plus concrete klantervaringen?</b><br><a href="/cashdesk-volledig/" class="button">Klik hier!</a><br><br>Of bekijk <a href="/crmintegratie/cashdesk/">Cashdesk</a> direct op onze <a href="/marketplace/">Marketplace!</a>
+<b>Nieuwsgierig geworden naar ons aanbod plus concrete klantervaringen?</b><br><br><a href="/cashdesk-volledig/" class="button">Klik hier!</a><br><br>Of bekijk <a href="/crmintegratie/cashdesk/">Cashdesk</a> direct op onze <a href="/marketplace/">Marketplace!</a>
