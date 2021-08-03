@@ -1,5 +1,5 @@
 ---
-title: "Trengo"
+title: "Trengo + callregistratie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/trengo_gnv9vf.png"
 description: Sync je CRM-contacten en -bedrijven.
@@ -17,6 +17,8 @@ categories:
   - Nieuw
 weight: 1
 new: true
+url: /marketplace/trengo
+aliases: /program-shop/trengo
 
 ---
 
