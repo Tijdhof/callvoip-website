@@ -12,7 +12,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-weight: 7
+weight: 5
 populair: true
 
 ---
