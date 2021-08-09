@@ -14,6 +14,8 @@ button:
 categories:
   - E-commerce
 weight: 10
+url: /marketplace/salesforce/
+aliases: /program-shop/salesforce/
 
 ---
 
