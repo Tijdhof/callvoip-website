@@ -9,7 +9,7 @@ marketplaceItem: true
 hero:
   title: Mews + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Salesforce is een systeem gericht op Makelaars. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Mews nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Mews is een systeem gericht op Makelaars. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Mews nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
     href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
     koppeling aan</a>'
   image: "/v1622801300/mewslogo_qzggbr.png"
