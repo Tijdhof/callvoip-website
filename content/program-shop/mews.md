@@ -1,5 +1,5 @@
 ---
-title: "Mews"
+title: "Mews CRM"
 date: 2021-06-03T16:52:17+05:00
 logo: "/mews_ylw0b0.png"
 description: Sync je CRM-contacten en -bedrijven.
