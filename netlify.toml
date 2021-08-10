@@ -70,3 +70,13 @@ HUGO_ENABLEGITINFO = "true"
   to = "/marketplace/"
   status = 301
   force = true
+[[redirects]]
+  from = "/tags/*"
+  to = "/marketplace/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/categories/*"
+  to = "/marketplace/"
+  status = 301
+  force = true
