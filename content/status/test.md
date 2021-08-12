@@ -14,7 +14,7 @@ Het onderhoud heeft invloed op een aantal services:
 * In de nacht van vrijdag op zaterdag kunnen functies zoals de wachtrij, het keuzemenu, voicemail etc. korte tijd niet beschikbaar zijn
 * In de nacht van vrijdag op zaterdag kan er een korte onderbreking optreden in gesprekken
 * Webcalls en de Realtime API zullen in de nacht van vrijdag op zaterdag maximaal 30 minuten niet beschikbaar zijn
-* **Indien gebruik wordt gemaakt van Trunk functionaliteit: de secundaire SIP trunk zal niet beschikbaar zijn, de primaire trunk blijft online**
+* Indien gebruik wordt gemaakt van Trunk functionaliteit: de secundaire SIP trunk zal niet beschikbaar zijn, de primaire trunk blijft online
 * Tijdens het onderhoud kunnen toestellen kunnen de registratie verliezen, een herstart van het toestel zal dit probleem in de meeste gevallen oplossen
 
 Indien na dit onderhoudsinterval een toestel nog niet is geregistreerd, is het advies om dit toestel en eventueel de router te herstarten.
