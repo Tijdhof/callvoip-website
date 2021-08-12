@@ -18,4 +18,8 @@ outputs:
   - HTML
   - JSON
   - RSS
+searchtags:
+- crm
+- integratie
+
 ---
