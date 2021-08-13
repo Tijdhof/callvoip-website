@@ -83,7 +83,7 @@ bottom:
 - title1: ''
   content1: <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
-    kostenoverzicht per praktijk per maand </div> <div class="px-6 clearfix"> <div
+    kostenoverzicht per maand </div> <div class="px-6 clearfix"> <div
     class="flex justify-between clearfix items-end"> <span class="text-base md:text-lg
     font-medium opacity-50 flex-1">1x Hosted telefooncentrale in de cloud</span> <span
     class="text-lg md:text-2xl font-medium opacity-75">€7,50</span> </div> <div class="flex
