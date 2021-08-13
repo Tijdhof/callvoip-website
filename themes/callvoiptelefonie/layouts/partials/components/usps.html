@@ -5,7 +5,7 @@
       {{ with .title }}
       <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">{{ . | markdownify }}</h2>
       {{ end }}
-      <p class="mx-auto max-w-xl lg:text-lg xl:text-xl font-medium opacity-75 mb-10">{{ .content | markdownify }}<</p>
+      <p class="mx-auto max-w-xl lg:text-lg xl:text-xl font-medium opacity-75 mb-10">{{ .content | markdownify }}</p>
       {{ with .button }}
       <p><a href="{{ .link }}" class="button lg:text-lg">{{ .content }}</a></p>
       {{ end }}
