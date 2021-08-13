@@ -80,3 +80,8 @@ HUGO_ENABLEGITINFO = "true"
   to = "/marketplace/"
   status = 301
   force = true
+[[redirects]]
+  from = "/vamoshandleiding/"
+  to = "http://files.callvoip.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf"
+  status = 301
+  force = true
