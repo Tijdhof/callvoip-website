@@ -31,12 +31,12 @@ textblocksfooter:
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als makelaar</div>
-  content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
+  content: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal
     erg handige zaken voor elke makelaar. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten? Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
-    er alles over!
+    er alles over!'
   items:
   - icon: fa-cog
     title: Integratie
