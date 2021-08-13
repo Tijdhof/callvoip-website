@@ -111,7 +111,7 @@ bottom:
     mb-3 clearfix items-end"> <span class="text-base md:text-lg font-medium opacity-50
     flex-1">1x Keuzemenu</span> <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Exquise, Simplex, Oase,
+    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Realworks, Kolibri
     etc. per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Totaal</span> <span class="text-lg md:text-2xl
