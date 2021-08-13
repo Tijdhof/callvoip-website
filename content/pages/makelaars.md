@@ -10,14 +10,14 @@ hero:
   title: Alles voor Makelaars
   content: 'Telefonie voor een makelaarspraktijk vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br><a href="/testimonials/"
     class="button">Bekijk onze testimonials van makelaars</a>'
-  image: "/v1571655384/dentist_w87pke.png"
+  image: "/v1571655384/makelaar-qaller_c3hgyy.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
 - content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees
     meer over bereikbaarheid</a>'
-  image: "/v1572861318/tandartsCRM_u8kddl.png"
+  image: "/v1572861318/crmmakelaars_taormk.png"
   zooming: true
   position: image_left
   title: Altijd bereikbaar
