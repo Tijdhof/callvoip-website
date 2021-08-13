@@ -8,7 +8,7 @@ logos: false
 url: "/branches/makelaars/"
 hero:
   title: Alles voor Makelaars
-  content: 'Telefonie voor een makelaarspraktijk vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br><a href="/testimonials/"
+  content: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br><a href="/testimonials/"
     class="button">Bekijk onze testimonials van makelaars</a>'
   image: "/v1571655384/makelaar-qaller_c3hgyy.png"
   zooming: true
@@ -24,7 +24,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppelen met jouw makelaars-CRM
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw praktijksoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistente / praktijkondersteuner een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geintegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees
+  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistente / makelaar een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geintegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees
     meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
@@ -42,7 +42,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen
+      eens koppelen met lange lijst pakketten, zoals bekende makelaarssoftwaresystemen
       als Realworks, Kolibri en vele anderen.<br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
   - icon: fa-users
