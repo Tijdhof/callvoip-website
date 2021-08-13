@@ -8,8 +8,8 @@ logos: false
 url: "/branches/makelaars/"
 hero:
   title: Alles voor Makelaars
-  content: Telefonie voor een makelaarspraktijk vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br><a href="/testimonials/"
-    class="button">Bekijk onze testimonials van makelaars</a>
+  content: 'Telefonie voor een makelaarspraktijk vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br><a href="/testimonials/"
+    class="button">Bekijk onze testimonials van makelaars</a>'
   image: "/v1571655384/dentist_w87pke.png"
   zooming: true
   image_position: center
