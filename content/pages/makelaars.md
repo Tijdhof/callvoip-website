@@ -30,9 +30,9 @@ textblocksfooter:
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
   show_vshape: false
 usps:
-  title: <div id="1">Handig voor jou als tandarts</div>
+  title: <div id="1">Handig voor jou als makelaar</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
-    erg handige zaken voor elke tandartspraktijk. Denk hierbij aan een geavanceerde
+    erg handige zaken voor elke makelaar. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten? Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
@@ -43,7 +43,7 @@ usps:
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
       eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen
-      als Oase Dental, Exquise en vele anderen.<br><br><a href="/telefonie/integratie/"
+      als Realworks, Kolibri en vele anderen.<br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
