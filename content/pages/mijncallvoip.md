@@ -113,6 +113,8 @@ usps:
       link: "/opzeggen/conference/"
     - title: VoIP CTI CRM-integratie
       link: "/opzeggen/voipcti/"
+    - title: VoIP CTI gebruikerlicentie
+      link: "/opzeggen/gebruikerlicentie/"
     - title: CRM Lookup
       link: "/opzeggen/crmlookup/"
   - title: Overig
