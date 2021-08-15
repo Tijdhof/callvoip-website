@@ -3,10 +3,16 @@ title: Meldingen
 error: false
 
 ---
-**12-08-2021: Aankondiging gepland onderhoud**
+**Gepland onderhoud succesvol uitgevoerd**
 
-Op het volgende tijdsinterval wordt er gepland onderhoud uitgevoerd in ons datacentrum in Amsterdam:   
-START: vrijdag 13 augustus vanaf 23 uur   
+Update 15-08-2021: het aangekondigde onderhoud is succesvol uitgevoerd.   
+NB: als een toestel zijn registratie is verloren, herstart het toestel dan zodat de registratie zich herstelt. Lukt dit niet, neem dan contact met ons op zodat we assisteren.   
+  
+<hr> 
+
+Melding 12-08-2021: aankondiging gepland onderhoud    
+Op het volgende tijdsinterval wordt er gepland onderhoud uitgevoerd in ons datacentrum in Amsterdam:  
+START: vrijdag 13 augustus vanaf 23 uur  
 EIND: zondag 15 augustus om 6 uur
 
 Het onderhoud heeft invloed op een aantal services:
