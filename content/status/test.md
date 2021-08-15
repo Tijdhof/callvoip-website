@@ -10,6 +10,8 @@ NB: als een toestel zijn registratie is verloren, herstart het toestel dan zodat
   
 <hr> 
 
+<br><br>
+
 Melding 12-08-2021: aankondiging gepland onderhoud    
 Op het volgende tijdsinterval wordt er gepland onderhoud uitgevoerd in ons datacentrum in Amsterdam:  
 START: vrijdag 13 augustus vanaf 23 uur  
