@@ -23,7 +23,7 @@ blocks:
     noemen wij Bubble. Met 1 klik open je Exact met de juiste gegevens en kun je
     de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
     class="button" target="_blank">Meer over onze slimme pop-up</a>'
-  image: "/v1615969123/exact-alex_uzna5r.png"
+  image: "/v1615969123/exact-alex_yag9ic.png"
   zooming: true
   position: image_left
   title: 'Integratie telefonie en Exact: maak kennis met onze slimme pop-up'
