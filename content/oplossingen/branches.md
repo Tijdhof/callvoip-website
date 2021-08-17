@@ -37,7 +37,7 @@ blocks:
   image: "/v1565857411/makelaardij_h9bdwk.png"
   content: |-
     Makelaars zijn veel onderweg voor bezichtigingen, opnames en taxaties. Dan is het een prettig idee als de spin in het web op kantoor snel kan schakelen met de makelaar. Hiervoor bieden we een slimme <b>vast mobiel integratie</b>. De smartphone wordt hiermee een volwaardig IP toestel waarmee kan worden doorverbonden en het vaste nummer kan worden meegezonden. Voor het kantoor bieden we <b>efficiënte koppelingen</b> met de software.<BR><BR>
-    <a href="/oplossingen/branches/makelaardij/" class="button">Bekijk onze oplossing voor makelaars</a>
+    <a href="/branches/makelaars/" class="button">Bekijk onze oplossing voor makelaars</a>
   position: image_left
   image_position: ''
 - title: Slimme integratie voor recruitment
