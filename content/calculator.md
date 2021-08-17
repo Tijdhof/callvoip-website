@@ -128,8 +128,8 @@ crm:
   price_onetime: 150
   required: false
 offerte:
-  title: Vrijblijvende offerte ontvangen?
-  description: Vul hier onder je gegevens in en ontvang van onze medewerkers een vrijblijvende
+  title: Offerte aanvragen? Klik op de knop in het kostenoverzicht
+  description: Vul je gegevens in het kostenoverzicht en ontvang van onze medewerkers een vrijblijvende
     offerte op basis van bovenstaande wensen.
 hidesocialshare: false
 hideinsearch: false
