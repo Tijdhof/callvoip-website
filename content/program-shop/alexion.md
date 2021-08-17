@@ -37,5 +37,5 @@ Als gebruiker kun je de pop-up volledig zelf inhoud geven. Denk hierbij aan gege
 • notities<br>
 • etc…
 
-<br><br>Voor meer informatie over de mogelijkheden van Alexion CRM, ga naar https://alexion.nl of bel +31 50 7833333
+Voor meer informatie over de mogelijkheden van Alexion CRM, ga naar https://alexion.nl of bel +31 50 7833333
 <br><br><a href="/marketplace" class="button">Naar Marketplace</a>
