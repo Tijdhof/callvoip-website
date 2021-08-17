@@ -221,9 +221,6 @@
               <textarea id="je-wensen" name="je-wensen"
                 class="w-full border border-grey-light bg-grey-lightest px-3 py-3" cols="30" rows="10"></textarea>
             </div>
-
-
-            <button type="button" id="submit-full-form" class="button">Verstuur formulier</button>
           </form>
         </div>
       </div>
@@ -284,91 +281,15 @@
               </div>
             </div>
             <div class="mt-4">
-              {{/*
-              <form name="calculator-formulier-small" action="/calculator/verzonden" accept-charset="UTF-8"
-                method="POST" netlify-honeypot="bot-field" data-netlify="true"
-                class="space-y-4 pt-4 border-t border-grey-light">
-                <p class="hidden">
-                  <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-                </p>
-
-                <input type="hidden" name="form-name" value="calculator-formulier-small">
-                <input type="hidden" id="formlayout" name="formlayout" value="d-b8915fd3b5f149ccbbcb6b469aecc71d"
-                  class="hidden">
-                <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
-                <input type="hidden" id="totaalpermaand-2" name="Totaal per maand" class="hidden">
-                <input type="hidden" id="totaaleenmalig-2" name="Totaal éénmalig" class="hidden">
-
-                <div class="space-y-4 hidden">
-                  <div class="flex flex-col space-y-2">
-                    <label for="Voor-en-achternaam">Voor-en achternaam <span class="text-red">*</span></label>
-                    <input type="text" required name="Voor-en-achternaam"
-                      class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
-                  </div>
-                  <div class="flex flex-col space-y-2">
-                    <label for="E-mailadres">E-mailadres <span class="text-red">*</span></label>
-                    <input type="email" required name="E-mailadres" autocomplete="off"
-                      class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
-                  </div>
-                </div>
-                <button type="button"
-                  onclick="this.previousElementSibling.classList.remove('hidden');this.nextElementSibling.classList.remove('hidden');this.classList.add('hidden')"
-                  class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                  Kosten opvragen?
-                </button>
-                <button type="button" id="submit-small-form"
-                  class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2 hidden">
-                  Gegevens versturen
-                </button>
-                <div id="allspecialfields" class="sr-only">
-                  {{ range $index, $item := .Params.basic }}
-                  <input name="{{ $item.name | urlize }}">
-                  {{ end}}
-
-                  {{ with .Params.callminutes }}
-                  <select name="callminutes">
-                    {{ range $index, $item := .items }}
-                    <option value="{{ $item.value}}">
-                      {{$item.name}}</option>
-                    {{ end }}
-                  </select>
-                  {{ end }}
-
-                  {{ with .Params.callrecording }}
-                  {{ range $index, $item := .items }}
-                  <input name="{{ $item.name | urlize }}">
-                  {{ end}}
-                  {{ end}}
-
-                  {{ with .Params.options }}
-                  {{ range $index, $item := .items }}
-                  <input name="{{ $item.name | urlize }}">
-                  {{ end}}
-                  {{ end}}
-
-                  {{ with .Params.security }}
-                  <select name="security">
-                    {{ range $index, $item := .items }}
-                    <option value="{{ $item.value}}"> {{$item.name}}</option>
-                    {{ end }}
-                  </select>
-                  {{ end }}
-
-                  {{ range $index, $item := .Params.crm }}
-                  <input name="{{ $item.name | urlize }}">
-                  {{ end}}
-                </div>
-              </form>
-              */}}
               <div class="space-y-4 hidden">
                 <div class="flex flex-col space-y-2">
                   <label for="Voor-en-achternaam">Voor-en achternaam <span class="text-red">*</span></label>
-                  <input type="text" required name="Voor-en-achternaam"
+                  <input id="s-name"
                     class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
                 </div>
                 <div class="flex flex-col space-y-2">
                   <label for="E-mailadres">E-mailadres <span class="text-red">*</span></label>
-                  <input type="email" required name="E-mailadres" autocomplete="off"
+                  <input id="s-email"
                     class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
                 </div>
                 <button type="button" id="submit-small-form"
@@ -376,9 +297,8 @@
                   Gegevens versturen
                 </button>
               </div>
-              <button type="button"
-                onclick="this.previousElementSibling.classList.remove('hidden');this.classList.add('hidden')"
-                class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2 opacity-0">
+              <button type="button" onclick="this.previousElementSibling.classList.remove('hidden');this.remove()"
+                class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
                 Kosten opvragen?
               </button>
             </div>
