@@ -27,7 +27,7 @@ textblocksfooter:
   content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistente / makelaar een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geintegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees
     meer over integratie</a>'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/realworks_xkjjl3.png">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als makelaar</div>
