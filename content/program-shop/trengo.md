@@ -24,10 +24,10 @@ aliases: /program-shop/trengo
 
 **Welke voordelen levert Trengo?**
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">Met de unieke Trengo Callvoip connector biedt drie prachtige features:<br>
-1. Er verschijnt een Bubble popup met klantinformatie en 4 instelbare knoppen; je kunt gelijk doorklikken naar de klantenkaart in Trengo<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">Met de unieke Trengo Callvoip connector voeg je drie prachtige features aan je telefoonsysteem toe:<br>
+1. Bij een inkomend gesprek  verschijnt de popup met klantinformatie; je kunt gelijk doorklikken naar de klant in Trengo<br>
 2. Er verschijnt een popup binnen Trengo zelf van de call, met daarin de status van het gesprek <br>
-3. Er wordt gelijk en automatisch een call registratie gemaakt en in het log gezet, je kunt zelf gespreksinformatie toevoegen<br>
+3. Er wordt automatisch een callregistratie gelogd; type gelijk je gespreksinformatie!<br>
 <br>
 Indien er in Trengo geen open ticket bij deze klant gevonden wordt, zal er een nieuw ticket worden geopend met de call registratie.  Het is aan te raden om in ieder geval het gespreksverslag vast te leggen, om de verslaglegging rondom een klant compleet te maken. <br>
 <br>
