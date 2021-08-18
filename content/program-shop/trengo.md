@@ -24,7 +24,12 @@ aliases: /program-shop/trengo
 
 **Welke voordelen levert Trengo?**
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">Met de unieke Trengo Callvoip connector verschijnt er bij een inkomende en/of uitgaande oproep direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Trengo en kun je direct de klantkaart openen. Tijdens het gesprek wordt automatisch een call registratie toegevoegd aan een open ticket waar je verdere gespreksinformatie aan kunt toevoegen. Indien er geen open ticket gevonden wordt, zal er een nieuw ticket worden geopend met de call registratie.  Het is aan te raden om in ieder geval het gespreksverslag vast te leggen, om de verslaglegging rondom een klant compleet te maken. <br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">Met de unieke Trengo Callvoip connector biedt drie prachtige features:<br>
+1. Er verschijnt een Bubble popup met klantinformatie en 4 instelbare knoppen; je kunt gelijk doorklikken naar de klantenkaart in Trengo<br>
+2. Er verschijnt een popup binnen Trengo zelf van de call, met daarin de status van het gesprek <br>
+3. Er wordt gelijk en automatisch een call registratie gemaakt en in het log gezet, je kunt zelf gespreksinformatie toevoegen<br>
+<br>
+Indien er in Trengo geen open ticket bij deze klant gevonden wordt, zal er een nieuw ticket worden geopend met de call registratie.  Het is aan te raden om in ieder geval het gespreksverslag vast te leggen, om de verslaglegging rondom een klant compleet te maken. <br>
 <br>
 Je kunt kiezen of je alleen de Trengo popup gebruikt of ook de popup van de connector zelf (Bubble). De Bubble popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen. Bij een inkomend gesprek kun je in de popup informatie laten vertonen zoals: <br>
 &bull; telefoonnummer <br>
