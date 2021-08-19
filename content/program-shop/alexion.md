@@ -14,6 +14,8 @@ categories:
   - Klantcontact
 weight: 5
 populair: true
+url: /marketplace/alexion
+aliases: /program-shop/alexion
 
 ---
 
