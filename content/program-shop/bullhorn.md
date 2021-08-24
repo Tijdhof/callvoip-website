@@ -37,4 +37,5 @@ Je kunt dan de klantgegevens uit Bullhorn gebruiken, denk hierbij aan gegevens z
 &bull; Afdelingstype<br>
 &bull; etc.<br>
 <br>
-&bull; etc.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.
+<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
