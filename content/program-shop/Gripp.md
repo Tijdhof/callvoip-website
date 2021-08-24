@@ -22,6 +22,6 @@ aliases: /program-shop/Gripp/
 
 ---
 
-**Welke voordelen levert Gripp?**
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Gripp?**
 
 Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Gripp. Één keer klikken en je hebt alle gegevens voor je.<br>Dit pakket wordt veel gebruikt voor Workflow en Planning.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
