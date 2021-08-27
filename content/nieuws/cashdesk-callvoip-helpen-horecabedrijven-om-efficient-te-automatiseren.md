@@ -29,8 +29,7 @@ In de horeca zorgde het afgelopen corona-jaar voor een piek op het gebied van ma
 * De slimme online telefonie van Callvoip
 * Een koppeling tussen beide systemen: klantgegevens incl. bestelhistorie van elk belletje
 
-**  
-CashDesk voor al je afhaalorders.**
+#### CashDesk voor al je afhaalorders.
 
 Heb je een restaurant, wat ook nog eens bezorgt? Dan ben je met Cashdesk in 1 keer klaar. Ze regelen alles. Van een website waar je online kan bestellen, tot een app waarmee klanten de bezorger op de voet kunnen volgen. We vroegen ook marketingmedewerker Jeroen Schilder van CashDesk naar hun aanbod:
 
@@ -39,37 +38,37 @@ Heb je een restaurant, wat ook nog eens bezorgt? Dan ben je met Cashdesk in 1 ke
   
 Kortom: de hele workflow van een horecaonderneming is onder de pannen met Cashdesk.
 
-**CashDesk+Callvoip: een goed huwelijk**
+#### CashDesk+Callvoip: een goed huwelijk
 
 Oplettende lezers zien in de woorden van Cashdesk een opmerking over telefonische bestellingen. Hier komen wij in beeld. Wij als Callvoip zijn er behoorlijk goed in om de telefonie te stroomlijnen, al zeggen we het zelf. En helemaal als we de handen met CashDesk ineen slaan om zo tot de beste oplossing te komen.
 
-Stel je voor: je hebt een pizzeria. Vrijdagavond, Thuisbezorgd bestellingen stromen binnen en de telefoon staat roodgloeiend. Je computer met die mooie software van Cashdesk draait op volle toeren om al die orders te verwerken. Voor elk belletje wat binnenkomt, zie je direct voor elke bestaande klant in beeld wie het is, wat zijn of haar ordergeschiedenis is en het adres waar de pizza’s heen moeten. Dus nooit meer “ik versta u niet goed, kunt u dat spellen voor mij?” en andere ruis op de lijn. Dat is wat de koppeling van Callvoip en Cashdesk voor je regelt. En dat maakt zo’n belletje dus een stuk efficiënter! :-)
+> Stel je voor: je hebt een pizzeria. Vrijdagavond, Thuisbezorgd bestellingen stromen binnen en de telefoon staat roodgloeiend. Je computer met die mooie software van Cashdesk draait op volle toeren om al die orders te verwerken. Voor elk belletje wat binnenkomt, zie je direct voor elke bestaande klant in beeld wie het is, wat zijn of haar ordergeschiedenis is en het adres waar de pizza’s heen moeten. Dus nooit meer “ik versta u niet goed, kunt u dat spellen voor mij?” en andere ruis op de lijn. Dat is wat de koppeling van Callvoip en Cashdesk voor je regelt. En dat maakt zo’n belletje dus een stuk efficiënter! :-)
 
 Naast deze superhandige koppeling kun je als afhaalklant van Cashdesk+Callvoip natuurlijk ook gebruik maken van alle andere slimmigheden van onze online telefoondienst. Denk aan een wachtrij om de piekdrukte op te vangen en geen telefoontje/bestelling meer te missen. Of een keuzemenu om mensen direct te dirigeren naar de juiste persoon om bestellingen op te nemen.
 
-Cashdesk + Callvoip in de praktijk
+#### Cashdesk + Callvoip in de praktijk
 
-Onze koppeling met Cashdesk is één van onze meest populaire in onze Marketplace. Dat is natuurlijk niet voor niets. Daarom vroegen we 2 van die klanten om hun ervaringen.
+Onze koppeling met Cashdesk is één van onze meest populaire in onze [Marketplace](). Dat is natuurlijk niet voor niets. Daarom vroegen we 2 van die klanten om hun ervaringen.
 
-_Sushipoint_
+##### Sushipoint
 
-Sushpoint is een landelijke franchiseketen met tientallen vestigingen. Je kunt er telefonisch en online erg eenvoudig bestellen en thuisbezorgd krijgen. En dit alles dankzij Cashdesk en Callvoip. Maar geloof ons niet: geloof Priskilla van Sushipoint zelf:
+[Sushipoint ](https://www.sushipoint.nl/)is een landelijke franchiseketen met tientallen vestigingen. Je kunt er telefonisch en online erg eenvoudig bestellen en thuisbezorgd krijgen. En dit alles dankzij Cashdesk en Callvoip. Maar geloof ons niet: geloof Priskilla van Sushipoint zelf:
 
-_“Callvoip verzorgt de telefonie van een groot aantal van onze vestigingen. Door de integratie met Cashdesk werken we lekker efficiënt en zijn we in staat om supersnel telefonisch bestellingen af te handelen.”_
+> _“Callvoip verzorgt de telefonie van een groot aantal van onze vestigingen. Door de integratie met Cashdesk werken we lekker efficiënt en zijn we in staat om supersnel telefonisch bestellingen af te handelen.”_
 
-_Snackbar De Walenburger, Rotterdam_
+##### Snackbar De Walenburger, Rotterdam
 
-Op zoek naar een goede snackbar in Rotterdam? Zoek niet verder: Snackbar De Walenburger is jouw adres. En wij weten toevallig dat ze hun bestelproces goed op orde hebben ;-) Eigenaar Ibrahim Yilmaz vertelt over zijn ervaringen:
+Op zoek naar een goede snackbar in Rotterdam? Zoek niet verder: [Snackbar De Walenburger](https://www.snackbardewalenburger.nl/) is jouw adres. Al 3 generaties verzorgt de cafetaria in de wijde omgeving snacks en betaalbare maaltijden die afgehaald of bezorgd worden. Op tijd bezorgen van topkwaliteit producten is het credo van Snackbar De Walenburger. En wij weten toevallig dat ze daarom hun bestelproces goed op orde hebben ;-) Eigenaar Ibrahim Yilmaz vertelt over zijn ervaringen:
 
 “Ik ben enorm blij met deze systemen. Wij zijn ongeveer 1-1,5 jaar geleden overgestapt naar CashDesk. De reden hiervan was dat wij bij de oude kassaleverancier enorme problemen hadden. Het systeem liep telkens vast. De eigenaar van het bedrijf stond niet open voor verder ontwikkelen van het systeem en had geen koppeling (buiten Thuisbezorgd) met de meest gebruikte platforms. De website van hen was een van de eerste versies van ‘Opencart’. Klantkoppeling met het kassasysteem hadden wij ook bij ons oude kassasysteem. Echter, ook hier hadden wij geen goede ervaringen.
 
 Daarop heb ik geïnformeerd bij collega-ondernemers uit de buurt en ben zo bij CashDesk terechtgekomen. Omdat wij ervaring hadden met het oude systeem, hebben wij CashDesk om de beschikbaarheid van een klantkoppeling gevraagd. Hierop hebben zij Callvoip geadviseerd. Nadat wij kennis hadden gemaakt met Callvoip kregen wij naast de klantkoppeling/herkenning ook andere mogelijkheden aangeboden.
 
-“Door een keuzemenu in te voeren, zijn deze telefoontjes meer dan gehalveerd, waardoor wij meer tijd hadden voor de voorbereiding van de maaltijden.”
+> _“Door een keuzemenu in te voeren, zijn deze telefoontjes meer dan gehalveerd, waardoor wij meer tijd hadden voor de voorbereiding van de maaltijden.”_
 
 Hier waren wij enorm blij mee. Op de drukste momenten moest telkens 1 persoon de telefoon opnemen en bestellingen aannemen. Door een keuzemenu in te voeren, zijn deze telefoontjes meer dan gehalveerd, waardoor wij meer tijd hadden voor de voorbereiding van de maaltijden. Voor nu zijn wij erg tevreden over deze samenwerking en hebben wij genoeg aan het systeem zoals het is.”
 
-Wat kunnen we jou bezorgen?
+#### Wat kunnen we jou bezorgen?
 
 Vanzelfsprekend is het altijd leuk om te horen dat klanten tevreden zijn over onze gezamenlijke dienstverlening. Dat is waar je het uiteindelijk voor doet. Daarom zijn we blij met Cashdesk als partner waardoor we deze branche kunnen voorzien van een ideale oplossing!
 
