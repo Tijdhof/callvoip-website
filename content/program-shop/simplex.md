@@ -19,6 +19,7 @@ weight: 10
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Simplex?**
 
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/simplex_xetoxc.png" style="float:right; padding-left:15px" width=500px" class="zoom">
 Met de Simplex Callvoip connector verschijnt er bij een inkomende en/of uitgaande oproep direct een melding in Simplex met patiëntinformatie. Als er meerdere patiënten bekend zijn onder het telefoonnummer van de beller, kun je aanklikken om welke patiënt het gaat. Vervolgens heb je de mogelijkheid om de volgende opties te openen in Simplex: <br>
 <br>
 &bull; Behandelkaart openen van de patiënt <br>
