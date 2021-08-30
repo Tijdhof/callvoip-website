@@ -69,6 +69,6 @@ Hier waren wij enorm blij mee. Op de drukste momenten moest telkens 1 persoon de
 
 #### Wat kunnen we jou bezorgen?
 
-Vanzelfsprekend is het altijd leuk om te horen dat klanten tevreden zijn over onze gezamenlijke dienstverlening. Dat is waar je het uiteindelijk voor doet. Daarom zijn we blij met Cashdesk als partner waardoor we deze branche kunnen voorzien van een ideale oplossing!
+Vanzelfsprekend is het altijd leuk om te horen dat klanten tevreden zijn over onze gezamenlijke dienstverlening. Dat is waar je het uiteindelijk voor doet. Daarom zijn we blij met CashDesk als partner waardoor we deze branche kunnen voorzien van een ideale oplossing!
 
-Wil je meer weten over integratie van je telefonie met jouw CRM/ERP systeem? [Klik hier!](https://www.callvoip.nl/telefonie/integratie/) Of lees hier meer over de [Cashdesk koppeling](https://www.callvoip.nl/crmintegratie/cashdesk/).
+Wil je meer weten over integratie van je telefonie met jouw CRM/ERP systeem? [Klik hier!](https://www.callvoip.nl/telefonie/integratie/) Of lees hier meer over de [CashDesk koppeling](https://www.callvoip.nl/crmintegratie/cashdesk/).
