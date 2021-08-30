@@ -74,9 +74,9 @@ Een wijziging wordt in principe binnen 24 uur verwerkt.
 
 {{< form/option "Nee, ik heb dit niet" >}}
 
-{{< form/option "Ja, ik wil 2GB data bijboeken (€ 60,- ew BTW)" >}}
+{{< form/option "Ja, ik wil 2GB data bijboeken (€ 60,- ex BTW)" >}}
 
-{{< form/option "Ja en ik wil 4GB data bijboeken (€ 120,- ew BTW)" >}}
+{{< form/option "Ja en ik wil 4GB data bijboeken (€ 120,- ex BTW)" >}}
 
 {{</ form/select >}}
 
