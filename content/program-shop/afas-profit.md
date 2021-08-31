@@ -60,5 +60,5 @@ Je kunt dan de klantgegevens uit Afas Profit gebruiken, denk hierbij aan gegeven
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren. <br>
 <br>
-<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/marketplace" class="button">Naar Marketplace</a>
 
