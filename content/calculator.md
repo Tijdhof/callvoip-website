@@ -121,24 +121,12 @@ callrecording:
     price_onetime: 5
     required: false
 crm:
-  title: CRM koppeling
-  description: Wil je onze telefonie koppeling met jouw CRM pakket?
-  items:
-  - name: Maak een keuze
-    value: 
-    price_monthly: 
-    price_onetime: 
-    required: false
-  - name: Ja
-    value: 1
-    price_monthly: 
-    price_onetime: 150
-    required: false
-  - name: Nee
-    value: 1
-    price_monthly: 
-    price_onetime: 
-    required: false
+- name: Koppeling CRM-pakket (aantal gebruikers)
+  min: 0
+  max: 999
+  price_monthly: 5
+  price_onetime: 150
+  required: false
 offerte:
   title: Vrijblijvende offerte ontvangen?
   description: Vul hier onder je gegevens in en ontvang van onze medewerkers een vrijblijvende
