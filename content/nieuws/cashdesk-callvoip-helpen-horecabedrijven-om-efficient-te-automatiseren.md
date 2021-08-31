@@ -2,7 +2,8 @@
 title: CashDesk en Callvoip bezorgen de afhaal- en bezorgbranche efficiëntie
 description: Met een slimme koppeling tussen de CashDesk bezorgsoftware en telefonie
   van Callvoip werken afhaal- en bezorgrestaurants een stuk efficiënter.
-images: []
+images:
+- "/v1627989099/cashdesk_eqit0l.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
