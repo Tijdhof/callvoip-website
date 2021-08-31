@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2021-08-30T22:00:00+00:00
 url: nieuws/cashdesk-en-callvoip/
 contactpersoon: []
 categories: []
