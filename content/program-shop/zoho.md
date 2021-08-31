@@ -43,4 +43,5 @@ Denk hierbij aan:<br>
 • de financiering kaart <br>
 • de hypotheek kaart <br>
 <br>
+Het softwarepakket Assu® CRM van A.I. Automatisering wordt gekoppeld op basis van een databasekoppeling. A.I. Automatisering dient hiervoor toegang te verlenen.
 <br><a href="/marketplace" class="button">Naar Marketplace</a>
