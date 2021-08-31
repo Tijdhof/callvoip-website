@@ -131,13 +131,13 @@ crm:
     required: false
   - name: Ja
     value: 1
-    price_monthly:
+    price_monthly: 
     price_onetime: 150
     required: false
   - name: Nee
-    value: 2
-    price_monthly: 0
-    price_onetime:
+    value: 1
+    price_monthly: 
+    price_onetime: 
     required: false
 offerte:
   title: Vrijblijvende offerte ontvangen?
