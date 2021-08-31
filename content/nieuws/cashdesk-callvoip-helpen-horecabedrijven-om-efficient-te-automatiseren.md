@@ -47,17 +47,11 @@ Naast deze superhandige koppeling kun je als afhaalklant van CashDesk+Callvoip n
 
 #### CashDesk + Callvoip in de praktijk
 
-Onze koppeling met CashDesk is één van onze meest populaire in onze [Marketplace](). Dat is natuurlijk niet voor niets. Daarom vroegen we 2 van die klanten om hun ervaringen.
-
-**Sushipoint**
-
-[Sushipoint ](https://www.sushipoint.nl/)is een landelijke franchiseketen met tientallen vestigingen. Je kunt er telefonisch en online erg eenvoudig bestellen en thuisbezorgd krijgen. En dit alles dankzij CashDesk en Callvoip. Maar geloof ons niet: geloof Priskilla van Sushipoint zelf:
-
-> _“Callvoip verzorgt de telefonie van een groot aantal van onze vestigingen. Door de integratie met CashDesk werken we lekker efficiënt en zijn we in staat om supersnel telefonisch bestellingen af te handelen.”_
+Onze koppeling met CashDesk is één van onze meest populaire in onze [Marketplace](). Dat is natuurlijk niet voor niets. Daarom vroegen we eigenaar Ibrahim Yilmaz van Snackbar de Walenburger in Rotterdam naar zijn ervaringen. 
 
 **Snackbar de Walenburger, Rotterdam**
 
-Op zoek naar een goede snackbar in Rotterdam? Zoek niet verder: [Snackbar De Walenburger](https://www.snackbardewalenburger.nl/) is jouw adres. Al 3 generaties verzorgt de cafetaria in de wijde omgeving snacks en betaalbare maaltijden die afgehaald of bezorgd worden. Op tijd bezorgen van topkwaliteit producten is het credo van Snackbar De Walenburger. En wij weten toevallig dat ze daarom hun bestelproces goed op orde hebben ;-) Eigenaar Ibrahim Yilmaz vertelt over zijn ervaringen:
+Op zoek naar een goede snackbar in Rotterdam? Zoek niet verder: [Snackbar De Walenburger](https://www.snackbardewalenburger.nl/) is jouw adres. Al 3 generaties verzorgt de cafetaria in de wijde omgeving snacks en betaalbare maaltijden die afgehaald of bezorgd worden. Op tijd bezorgen van topkwaliteit producten is het credo van Snackbar De Walenburger. En wij weten toevallig dat ze daarom hun bestelproces goed op orde hebben ;-) Ibrahim vertelt over zijn ervaringen:
 
 “Ik ben enorm blij met deze systemen. Wij zijn ongeveer 1-1,5 jaar geleden overgestapt naar CashDesk. De reden hiervan was dat wij bij de oude kassaleverancier enorme problemen hadden. Het systeem liep telkens vast. De eigenaar van het bedrijf stond niet open voor verder ontwikkelen van het systeem en had geen koppeling (buiten Thuisbezorgd) met de meest gebruikte platforms. De website van hen was een van de eerste versies van ‘Opencart’. Klantkoppeling met het kassasysteem hadden wij ook bij ons oude kassasysteem. Echter, ook hier hadden wij geen goede ervaringen.
 
