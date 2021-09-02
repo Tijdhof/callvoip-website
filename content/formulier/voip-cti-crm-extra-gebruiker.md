@@ -33,7 +33,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag VoIP CTI" >}}
+{{< form/fieldset "Aanvraag extra gebruiker" >}}
 
 {{< form/input "CRM-pakket" required >}}
 
