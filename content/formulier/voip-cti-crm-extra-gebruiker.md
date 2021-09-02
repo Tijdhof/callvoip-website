@@ -1,6 +1,6 @@
 ---
 title: Extra gebruiker voor uw CRM koppeling
-url: "/aanvragen/extra-gebruiker/"
+url: "aanvragen/extra-gebruiker/"
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
