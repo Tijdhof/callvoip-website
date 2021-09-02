@@ -93,8 +93,6 @@ Eenmalig
 
 {{< layout/columns >}}
 
-{{< layout/columns >}}
-
 {{< layout/column3 >}}
 
 Per gebruiker
@@ -109,6 +107,22 @@ Per gebruiker
 {{< layout/column3 >}}
 
 € 25,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
 
 {{</ layout/column3 >}}
 
