@@ -55,6 +55,8 @@ usps:
       link: "/aanvragen/voip-cti/"
     - title: CRM Lookup koppeling
       link: "/aanvragen/crm-lookup/"
+    - title: Extra CRM gebruiker
+      link: "/aanvragen/extra-gebruiker/"
     - title: MS Teams koppeling 
       link: "/aanvragen/ms-teams/"
   - title: Overig
