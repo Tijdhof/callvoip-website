@@ -53,10 +53,10 @@ usps:
       link: "/aanvragen/importeren-telefoonboek-c2d/"
     - title: VoIP CTI CRM-integratie
       link: "/aanvragen/voip-cti/"
+    - title: VoIP CTI extra gebruiker
+      link: "/aanvragen/extra-gebruiker/"
     - title: CRM Lookup koppeling
       link: "/aanvragen/crm-lookup/"
-    - title: Extra CRM gebruiker
-      link: "/aanvragen/extra-gebruiker/"
     - title: MS Teams koppeling 
       link: "/aanvragen/ms-teams/"
   - title: Overig
