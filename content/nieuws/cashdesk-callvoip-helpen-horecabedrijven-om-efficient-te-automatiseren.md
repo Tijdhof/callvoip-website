@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2021-08-30T22:00:00+00:00
+date: 2021-08-30T22:00:00.000+00:00
 url: nieuws/cashdesk-en-callvoip/
 contactpersoon: []
 categories: []
@@ -24,7 +24,7 @@ type: ''
 
 ---
 **![](https://res.cloudinary.com/callvoip/image/upload/v1627989099/cashdesk_eqit0l.png)  
-In de horeca zorgde het afgelopen corona-jaar voor een piek op het gebied van maaltijdbezorging: in 2020 groeide de ‘deliverymarkt’ met maar liefst 43,1%. Dat is niet niks als je actief bent in die branche en het laat zich raden dat een focus op efficiëntie ervoor zorgt dat je deze ontwikkeling de baas kunt. Laten wij nu net op dat vlak een erg mooie samenwerking met** [**CashDesk**](https://www.cashdesk.nl/) **hebben. Daarmee krijg je:**
+In de horeca zorgde het afgelopen corona-jaar voor een piek op het gebied van maaltijdbezorging: in 2020 groeide de ‘deliverymarkt’ met maar liefst 43,1%. Dat is niet niks als je actief bent in die branche en het laat zich raden dat een focus op efficiëntie ervoor zorgt dat je deze ontwikkeling de baas kunt zijn. Laten wij nu net op dat vlak een erg mooie samenwerking met** [**CashDesk**](https://www.cashdesk.nl/) **hebben. Daarmee krijg je:**
 
 * De complete bezorgsoftware van CashDesk
 * De slimme online telefonie van Callvoip
@@ -48,7 +48,7 @@ Naast deze superhandige koppeling kun je als afhaalklant van CashDesk+Callvoip n
 
 #### CashDesk + Callvoip in de praktijk
 
-Onze koppeling met CashDesk is één van onze meest populaire in onze [Marketplace](). Dat is natuurlijk niet voor niets. Daarom vroegen we eigenaar Ibrahim Yilmaz van Snackbar de Walenburger in Rotterdam naar zijn ervaringen. 
+Onze koppeling met CashDesk is één van onze meest populaire in onze [Marketplace](). Dat is natuurlijk niet voor niets. Daarom vroegen we eigenaar Ibrahim Yilmaz van Snackbar de Walenburger in Rotterdam naar zijn ervaringen.
 
 **Snackbar de Walenburger, Rotterdam**
 
