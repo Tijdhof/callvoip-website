@@ -44,7 +44,7 @@ Oplettende lezers zien in de woorden van CashDesk een opmerking over telefonisch
 
 > Stel je voor: je hebt een pizzeria. Vrijdagavond, Thuisbezorgd bestellingen stromen binnen en de telefoon staat roodgloeiend. Je computer met die mooie software van CashDesk draait op volle toeren om al die orders te verwerken. Voor elk belletje wat binnenkomt, zie je direct voor elke bestaande klant in beeld wie het is, wat zijn of haar ordergeschiedenis is en het adres waar de pizza’s heen moeten. Dus nooit meer “ik versta u niet goed, kunt u dat spellen voor mij?” en andere ruis op de lijn. Dat is wat de koppeling van Callvoip en CashDesk voor je regelt. En dat maakt zo’n belletje dus een stuk efficiënter! :-)
 
-Naast deze superhandige koppeling kun je als afhaalklant van CashDesk+Callvoip natuurlijk ook gebruik maken van alle andere slimmigheden van onze online telefoondienst. Denk aan een wachtrij om de piekdrukte op te vangen en geen telefoontje/bestelling meer te missen. Of een keuzemenu om mensen direct te dirigeren naar de juiste persoon om bestellingen op te nemen.
+Naast deze superhandige koppeling kun je als afhaalklant van CashDesk+Callvoip natuurlijk ook gebruik maken van alle andere slimmigheden van onze online telefoondienst. Denk aan een wachtrij om de piekdrukte op te vangen en geen telefoontje/bestelling meer te missen. Of een keuzemenu om mensen direct te dirigeren naar de juiste persoon om bestellingen op te nemen. Ook veelgebruikt is onze service om bandjes op maat in te spreken: een eenvoudig "Welkom bij restaurant X, wist u dat u ook online op www.restaurantX.nl kunt bestellen?" zorgt voor minder bellers en zo meer efficiëntie.  
 
 #### CashDesk + Callvoip in de praktijk
 
