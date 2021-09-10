@@ -52,7 +52,15 @@ usps:
       class="button">Lees meer</a>
   - icon: fa-cloud
     title: Vaste nummer op je mobiel
-    content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij elkaar te brengen. Denk aan een app waarmee je doorschakelingen kunt regelen of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
+    content: Wij hebben verschillende manieren om je smartphone en vaste nummer bij
+      elkaar te brengen. Denk aan een app waarmee je doorschakelingen kunt regelen
+      of zelfs bellen met je vaste nummer op de smartphone.<br><br><a href="/telefonie/vastmobiel/"
+      class="button">Lees meer</a>
+  - icon: fa-cloud
+    title: Integratie
+    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
+      opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
+      eens koppelen met lange lijst CRM pakketten.<br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
   - icon: fa-heartbeat
     title: Email notificatie
@@ -88,10 +96,6 @@ usps:
       Caller ID. Switchen kan op je vaste toestel, maar ook met onze app. <br><br><a
       href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
       meer</a>
-  - icon: fa-cloud
-    title: Integratie
-    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog eens koppelen met lange lijst pakketten.<br><br><a href="/telefonie/integratie/"
-      class="button">Lees meer</a>
   - icon: fa-cloud
     title: Mis je iets?
     content: We noemen er 8, maar er zijn meer functionaliteiten natuurlijk. We bellen
