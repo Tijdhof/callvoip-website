@@ -1,7 +1,7 @@
 ---
 title: Alles over integratie
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome integratie
-  tot volledige koppeling met jouw CRM.
+description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie
+  tot volledige koppeling met jouw CRM. '
 type: page
 layout: default2
 logos: false
@@ -60,11 +60,11 @@ textblocks:
     Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
     Kun jij je concentreren op het gesprek zelf! <br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
     class="button">Meer informatie</a>
-  title3: 'Wat is dat: VoIP CTI?'
+  title3: 'Wat is dat: CRM integratie?'
   content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
-    VoIP CTI oplossingen. Meer dan 100 pakketten zijn geschikt dus de kans dat die
-    van jou ertussen zit is groot!<br><br><br><a href="/telefonie/integratiemetcrm/"
-    class="button">Meer informatie</a>
+    VoIP CTI oplossingen. We hebben een complete Marketplace met CRM pakketten die
+    zijn geschikt zijn dus de kans dat die van jou ertussen zit is groot!<br><br><br><a
+    href="/marketplace/" class="button">Bekijk onze Marketplace</a>
   show_vshape: false
 images: []
 hideinsearch: false
