@@ -42,5 +42,9 @@ Je kunt dan de klantgegevens uit Carerix gebruiken, denk hierbij aan gegevens zo
 • opleidingen <br>
 • etc.<br>
  <br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br>
+<br>
+Softwarepakket Carerix wordt gekoppeld op basis van een API-key.<br>
+Let op, je dient een API-code bij Carerix aan te vragen. <br>
+<br><a href="/marketplace" class="button">Naar Marketplace</a>
 
