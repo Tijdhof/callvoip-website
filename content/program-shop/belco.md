@@ -29,30 +29,19 @@ De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de 
 <br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Belco gebruiken, denk hierbij aan gegevens zoals: <br>
-• $belco_name <br>
-• $belco_first_name <br>
-• $belco_last_name <br>
-• $belco_url <br>
-• $belco_remote_id <br>
-• $belco_id <br>
-• $belco_email <br>
-• $belco_country <br>
-• $belco_type <br>
-• $belco_signed_up <br>
-• $belco_created_at <br>
-• $belco_last_order <br>
-• $belco_order_count <br>
-• $belco_total_spent <br>
-• $belco_company_id <br>
-• $belco_company_name <br>
-• $belco_company_email <br>
-• $belco_company_phone_number <br>
-• $belco_company_employees <br>
-• $belco_company_website <br>
-• $belco_company_plan <br>
-• $belco_company_revenue <br>
-• $belco_company_created_at <br>
-• $belco_shop_id <br>
-• $belco_shop_name <br>
+• klantsnaam<br>
+• bedrijfsnaam <br>
+• voornaam <br>
+• achternaam <br>
+• klant url <br>
+• belco remote id <br>
+• belco id <br>
+• emailadres <br>
+• land <br>
+• datum laatste order <br>
+• aantal orders <br>
+• totale uitgaven <br>
+• shop naam <br>
+• etc.<br>
  <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
