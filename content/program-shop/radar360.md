@@ -19,7 +19,7 @@ weight: 10
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Radar360 - CRM voor de Accountancy?**
 
-**Samenvatting**
+**Samenvatting** <br>
 Met de Callvoip Radar360 connector beschik je over een slimme koppeling tussen Callvoip en Radar360. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Radar360 staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
@@ -30,8 +30,7 @@ Is er geen match van het telefoonnummer met een contact in Radar360? Dan kan Goo
 Standaard is de Radar360 Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Radar360. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Radar360 aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>    
-<br>
+Dankzij de connector kun je de nummers in Radar360 aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><br>
 **Details van de popup in combinatie met Radar360 CRM:**<br>
 Door de connector wordt de klantenkaart gelijk en autoamtisch in Radar CRM geopend, en kun je gelijk notities typen in het klantlog. Omdat de popup van Radar360 zelf wordt geopend, is het een optie om de Bubble popup uit te schakelen; je kunt er ook voor kiezen deze aan te laten staan zodat je extra knoppen van de Bubble popup tot je beschikking hebt. En is het nummer niet bekend in Raddar360 dan wordt het nummer verrijkt door Google gegevens.<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
