@@ -29,7 +29,7 @@ De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de 
 <br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Belco gebruiken, denk hierbij aan gegevens zoals: <br>
-• klantsnaam<br>
+• klantnaam<br>
 • bedrijfsnaam <br>
 • voornaam <br>
 • achternaam <br>
