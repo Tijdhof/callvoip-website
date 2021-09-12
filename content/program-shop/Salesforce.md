@@ -42,4 +42,5 @@ Daarnaast kun je in de popup tot 4 customized knoppen aanmaken om direct de juis
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Salesforce wordt gekoppeld op basis van een API-koppeling.<br>
+**Let op**: om te kunnen integreren met Salesforce heb je gebruikerslicenties nodig met toegang tot de API. Deze functionaliteit zit niet bij de basislicenties van Salesforce. <br>
 <br><a href="/marketplace" class="button">Naar Marketplace</a>
