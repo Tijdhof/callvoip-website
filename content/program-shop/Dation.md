@@ -41,6 +41,6 @@ Denk hierbij aan:<br>
 • terugbelverzoek maken<br>
 • parameter kopiëren<br>
 <br>
-Het softwarepakket Dation Rijschoolsoftware wordt gekoppeld op basis van een API-koppeling.
+Het softwarepakket Dation Rijschoolsoftware wordt gekoppeld op basis van een API-koppeling.<br>
 <br><a href="/marketplace" class="button">Naar Marketplace</a>
 
