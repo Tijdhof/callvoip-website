@@ -37,4 +37,6 @@ Denk hierbij aan:<br>
 • Open website<br>
 • en customized actions zoals het kopiëren van een parameter, bv klantnummer of naam<br>
 <br>
+Let op: het softwarepakket DLex CRM wordt gekoppeld op basis van een realtime databasekoppeling. De toegang tot deze database moet worden verleent door Wolter Kluwer – DLex. Aan de zijde van DLex dien je rekening te houden met 3-6 uur arbeid voor het toevoegen van de functionaliteiten om te kunnen koppelen. Belangrijk: deze koppeling dient nog gerealiseerd te worden en heeft een doorlooptijd van ongeveer 2 weken; hiervoor geldt een ontwikkelingstarief van 495,-.<br>
+<br>
 <br><a href="/marketplace" class="button">Naar Marketplace</a>
