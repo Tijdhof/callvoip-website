@@ -30,5 +30,6 @@ Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen en customized
 De Medicom – Pharmapartners CRM connector – koppelen aan je telefonieomgeving is zeer eenvoudig. Door de integratiemethode met het softwarepakket Medicom – Pharmapartners wordt de functionaliteit van de Bubble pop-up uitgeschakeld omdat Medicom deze functie overneemt. De koppeling is getest in samenwerking met Pharmapartners en beveiligd met two-way-SSL.<br>
 <br>
 Let op: Aan de Medicom – Pharmapartner zijde is ook een betaalde licentie vereist, namelijk een eenmalige component voor implementatie en een maandabonnement. <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xl1lTv5L9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><a href="/marketplace" class="button">Naar Marketplace</a>
 
