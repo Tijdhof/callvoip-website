@@ -16,6 +16,8 @@ categories:
   - Meest populair
 weight: 5
 populair: true
+url: /marketplace/exquise-next/
+aliases: /program-shop/exquise-next/
 
 ---
 
