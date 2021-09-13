@@ -60,7 +60,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst CRM pakketten.<br><br><a href="/telefonie/integratie/"
+      eens koppelen met lange lijst CRM pakketten.<br><br><br><a href="/telefonie/integratie/"
       class="button">Lees meer</a>
   - icon: fa-heartbeat
     title: Email notificatie
@@ -93,14 +93,14 @@ usps:
     title: Keuze uitgaand nummer
     content: Als je meerdere nummers hebt, is het wel zo handig dat je gemakkelijk
       kunt wisselen met welk nummer je uit belt. Dat kan, en wij noemen het Multiple
-      Caller ID. Switchen kan op je vaste toestel, maar ook met onze app. <br><br><a
+      Caller ID. Switchen kan op je vaste toestel, maar ook met onze app. <br><br><br><a
       href="/telefonie/functionaliteiten/keuze-uitgaand-nummer/" class="button">Lees
       meer</a>
   - icon: fa-cloud
     title: Mis je iets?
     content: We noemen er 8, maar er zijn meer functionaliteiten natuurlijk. We bellen
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
-      kunt maken. Weten wat er nog meer mogelijk is? <br><br><a href="/telefonie/functionaliteiten/"
+      kunt maken. Weten wat er nog meer mogelijk is? <br><br><br><a href="/telefonie/functionaliteiten/"
       class="button">Check het overzicht</a>
 intro:
   title: Mooi hè?
