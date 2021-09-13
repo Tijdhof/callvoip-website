@@ -29,8 +29,7 @@ BIj elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 Is er geen match van het telefoonnummer met een contact in Outsmart? Dan kan Google kijken of het nummer in Google bekend is, en het nummer verrijken met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon. <br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Outsmart aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>    
-<br>
+Dankzij de connector kun je de nummers in Outsmart aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><br>
 **Details van de popup in combinatie met Outsmart:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Perfectview gebruiken, denk hierbij aan gegevens zoals: <br>
