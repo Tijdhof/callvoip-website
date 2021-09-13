@@ -16,6 +16,8 @@ weight: 3
 ontwikkelaar:
   - title: Via API
 populair: true
+url: /marketplace/css/
+aliases: /program-shop/css
 
 ---
 
