@@ -14,6 +14,8 @@ categories:
   - Meest populair
 weight: 3
 populair: true
+url: /marketplace/hubspot/
+aliases: /program-shop/hubspot/
 
 ---
 
