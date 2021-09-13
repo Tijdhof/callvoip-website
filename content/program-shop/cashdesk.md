@@ -14,6 +14,8 @@ categories:
   - Meest populair
 weight: 3
 populair: true
+url: /marketplace/cashdesk/
+aliases: /program-shop/cashdesk
 
 ---
 
