@@ -15,6 +15,8 @@ categories:
   - Meest populair
 weight: 5
 populair: true
+url: /marketplace/perfectview/
+aliases: /program-shop/perfectview/
 
 ---
 
