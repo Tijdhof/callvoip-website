@@ -17,6 +17,8 @@ categories:
   - Meest populair
 weight: 4
 populair: true
+url: /marketplace/exact-online/
+aliases: /program-shop/exact-online/
 
 ---
 
