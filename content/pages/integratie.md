@@ -63,7 +63,7 @@ textblocks:
   title3: 'Wat is dat: CRM integratie?'
   content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
     VoIP CTI oplossingen. We hebben een complete Marketplace met CRM pakketten die
-    zijn geschikt zijn dus de kans dat die van jou ertussen zit is groot!<br><br><br><a
+    zijn geschikt zijn dus de kans dat die van jou ertussen zit is groot!<br><br><a
     href="/marketplace/" class="button">Bekijk onze Marketplace</a>
   show_vshape: false
 images: []
