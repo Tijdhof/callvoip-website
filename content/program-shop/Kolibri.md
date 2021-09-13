@@ -21,7 +21,7 @@ aliases: /program-shop/Kolibri/
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Kolibri voor makelaars?**
 
-Met de Callvoip Kolibri connector verschijnt er bij een inkomende en/of uitgaande oproep direct de gesprekspop-up van Kolibri zelf in het beeldscherm van je PC met de klantinformatie vanuit Kolibri en kun je direct de klantkaart openen.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Kolibri-voip-koppeling-1-1024x505_re2ynq.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Kolibri connector verschijnt er bij een inkomende en/of uitgaande oproep direct de gesprekspop-up van Kolibri zelf in het beeldscherm van je PC met de klantinformatie vanuit Kolibri en kun je direct de klantkaart openen.
 De Kolibri-popup toont de klantgegevens en de klantpagina. Bovendien is er gelijk een popup rechtsonder in het scherm die het mogelijk maakt om je gespreksnotitie vast te leggen. Zo kun je je gelijk concenteren op de inhoud van het gesprek en wordt de kans dat je belangrijke informatie vergeet te noteren, kleiner. Omdat Kolibri al zo'n mooie eigen popupfunctionaliteit biedt kan de Bubble popup worden uitgeschakeld. 
 <br>
 Door de integratiemethode met het softwarepakket Kolibri wordt de functionaliteit van de Bubble pop-up uitgeschakeld omdat Kolibri deze functie overneemt.<br>
