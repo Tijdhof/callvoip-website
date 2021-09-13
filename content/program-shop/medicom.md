@@ -15,6 +15,8 @@ categories:
   - Meest populair
 weight: 5
 populair: true
+url: /marketplace/medicom/
+aliases: /program-shop/medicom/
 
 ---
 
