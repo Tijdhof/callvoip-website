@@ -23,7 +23,7 @@ tags: []
 type: ''
 
 ---
-**![](https://res.cloudinary.com/callvoip/image/upload/v1627989099/cashdesk_eqit0l.png)  
+**![](https://res.cloudinary.com/callvoip/image/upload/v1627989099/callvoip-cashdesk_ecirir.png)  
 In de horeca zorgde het afgelopen corona-jaar voor een piek op het gebied van maaltijdbezorging: in 2020 groeide de ‘deliverymarkt’ met maar liefst 43,1%. Dat is niet niks als je actief bent in die branche en het laat zich raden dat een focus op efficiëntie ervoor zorgt dat je deze ontwikkeling de baas kunt zijn. Laten wij nu net op dat vlak een erg mooie samenwerking met** [**CashDesk**](https://www.cashdesk.nl/) **hebben. Daarmee krijg je:**
 
 * De complete bezorgsoftware van CashDesk
