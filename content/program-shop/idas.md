@@ -12,7 +12,7 @@ button:
   title: Meer informatie
   link: /crmintegratie/iDAS/
 categories:
-  - Garagebedrijven
+  - Garagesoftware
   - Volvodealers
 weight: 10
 
