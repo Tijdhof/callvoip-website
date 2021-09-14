@@ -389,7 +389,7 @@ const renderCrmFields = function (fields) {
     obj.value = item.value;
 
     monthly = monthly + obj.price_monthly * obj.value;
-    onetime= obj.value>0?obj.price_onetime +125 *1:0;
+    onetime = obj.value > 0 ? obj.price_onetime * 1 : 0;
 
     state.crmFields.push(obj);
   }
