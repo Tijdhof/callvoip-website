@@ -35,7 +35,7 @@ const getMonthlyTotal = function () {
 
 const getOnetimeTotal = function () {
   let values = Object.values(state.onetime);
-  return values.reduce((partial_sum, a) => partial_sum + a, 0);
+  return values.reduce((partial_sum, a) => partial_sum + a + +125, 0);
 };
 
 const renderMonthlyTotal = function () {
