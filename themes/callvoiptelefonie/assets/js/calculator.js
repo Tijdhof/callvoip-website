@@ -165,7 +165,7 @@ const renderBasicFields = function (fields) {
     obj.value = item.value;
 
     monthly = monthly + obj.price_monthly * obj.value;
-    onetime = onetime + obj.price_onetime * obj.value;
+    onetime = obj.value > 0 ? obj.price_onetime * 1 : 0;
 
     state.basicFields.push(obj);
   }
