@@ -15,6 +15,8 @@ categories:
   - Garagesoftware
   - Volvodealers
 weight: 10
+url: /marketplace/idas
+aliases: /program-shop/idas
 
 ---
 
