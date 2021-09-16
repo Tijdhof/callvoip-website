@@ -13,6 +13,8 @@ categories:
   - Workflow
   - Planning
 weight: 10
+url: /marketplace/teamleader/
+aliases: /program-shop/teamleader/
 
 ---
 
