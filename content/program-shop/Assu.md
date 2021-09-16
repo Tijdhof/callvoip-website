@@ -14,6 +14,8 @@ button:
 categories:
   - Assurantien
 weight: 10
+url: /marketplace/assu/
+aliases: /program-shop/assu/
 
 ---
 
