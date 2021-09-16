@@ -15,6 +15,8 @@ categories:
   - Keukenbranche
   - Tegelbranche
 weight: 10
+url: /marketplace/simar/
+aliases: /program-shop/simar/
 
 ---
 
