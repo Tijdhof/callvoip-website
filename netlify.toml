@@ -85,3 +85,8 @@ HUGO_ENABLEGITINFO = "true"
   to = "http://files.callvoip.nl/downloads/Simmpl_handleiding_ingebruikname_Vamos.pdf"
   status = 301
   force = true
+[[redirects]]
+  from = "/aanmelden/nieuwsbrief/"
+  to = "https://j04jt21j.sibpages.com/"
+  status = 301
+  force = true
