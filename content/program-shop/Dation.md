@@ -14,6 +14,8 @@ button:
 categories:
   - Rijschoolhouders
 weight: 10
+url: /marketplace/dation/
+aliases: /program-shop/dation/
 
 ---
 
