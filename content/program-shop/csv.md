@@ -13,6 +13,8 @@ categories:
   - Generiek
   - Algemene tools
 weight: 10
+url: /marketplace/csv/
+aliases: /prorgram-shop/csv/
 
 ---
 
