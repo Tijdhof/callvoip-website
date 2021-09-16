@@ -14,6 +14,9 @@ button:
 categories:
   - Advocatuur
 weight: 10
+url: /marketplace/dlex/
+aliases: /program-shop/dlex/
+
 
 ---
 
