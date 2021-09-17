@@ -1,21 +1,32 @@
 ---
-title: "Salesforce"
+shorttitle: "Salesforce"
+title: "Wij koppelen jouw CRM Salesforce aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/salesforce_htw2sm.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Salesforce CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Salesforce/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - E-commerce
 weight: 10
 url: /marketplace/salesforce/
 aliases: /program-shop/salesforce/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -43,4 +54,4 @@ Daarnaast kun je in de popup tot 4 customized knoppen aanmaken om direct de juis
 **Technische gegevens:**<br>
 Het softwarepakket Salesforce wordt gekoppeld op basis van een API-koppeling.<br>
 **Let op**: om te kunnen integreren met Salesforce heb je gebruikerslicenties nodig met toegang tot de API. Deze functionaliteit zit niet bij de basislicenties van Salesforce. <br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
