@@ -1,14 +1,16 @@
 ---
-title: "Realworks + callregistratie"
+shorttitle: "Realworks + callregistratie"
+title: "Wij koppelen jouw CRM Realworks aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/realworks_c5e8fj.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Realworks CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/Realworks/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Property Management
   - Makelaars
@@ -17,6 +19,15 @@ weight: 2
 populair: true
 url: /marketplace/realworks/
 aliases: /program-shop/realworks/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -28,4 +39,4 @@ De pop-up zal uit zichzelf verdwijnen als het gesprek wordt opgehangen. Ook als 
 <br>
 Het is mogelijk om naast de Realworks popup en het call registratie scherm ook de Bubble popup te gebruiken; bijvoorbeeld om het nummer van een niet in Realworks bekende beller gelijk te kunnen kopieren, een terugbelverzoek te maken en/of het nummer te verrijken met gegevens uit Google Chrome. De Bubble popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen. Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega) en wanneer je met meerdere beeldschermen werkt, kun je zelf kiezen op welk scherm je de pop-up wilt zien. Daarnaast is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer - dat kan handig zijn als de relatie terugbelt maar als je niet weet door welke collega hij of zij gebeld zou kunnen zijn. <br>
 <br>
-<a href="/marketplace" class="button">Naar Marketplace</a>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
