@@ -14,7 +14,7 @@ button:
 categories:
   - Generiek
   - Algemene tools
-weight: 10
+weight: 11
 url: /marketplace/URL/
 aliases: /program-shop/URL/
 headerside:
