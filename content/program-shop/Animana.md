@@ -8,13 +8,14 @@ shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
-
 button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
   - Dierenartsen
 weight: 10
+url: /marketplace/Animana/
+aliases: /program-shop/Animana/
 headerside:
   title: Waarom integreren?
   list:
