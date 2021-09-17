@@ -17,6 +17,8 @@ categories:
   - Workflow
   - Planning
 weight: 10
+url: /marketplace/Simplicate/
+aliases: /program-shop/Simplicate/
 headerside:
   title: Waarom integreren?
   list:
