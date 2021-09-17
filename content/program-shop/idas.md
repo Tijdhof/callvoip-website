@@ -1,22 +1,33 @@
 ---
-title: "iDAS BeesdA2 Volvodealers"
+shorttitle: "iDAS BeesdA2 Volvodealers"
+title: "Wij koppelen jouw CRM iDAS BeesdA2 Volvodealers aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/idas_w8mcmp.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van iDAS BeesdA2 Volvodealers CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/iDAS/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Garagesoftware
   - Volvodealers
 weight: 10
 url: /marketplace/idas
-aliases: /program-shop/idas
+aliases: /program-shop/idas/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -59,5 +70,5 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 • Kopieer een parameter (bv klantnummer of klantnaam). <br>
 <br>
 Het softwarepakket iDAS van BeesdA2 wordt gekoppeld op basis van een API-koppeling.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
