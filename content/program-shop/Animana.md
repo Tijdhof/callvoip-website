@@ -1,17 +1,29 @@
 ---
-title: "IDEXX Animana"
+shorttitle: "IDEXX Animana"
+title: "Wij koppelen jouw CRM IDEXX Animana aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Animana_myq0ss.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van IDEXX Animana CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
+
 button:
-  title: Meer informatie
-  link: /crmintegratie/Animana
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Dierenartsen
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -31,5 +43,5 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 • Kopieer een parameter (bv klantnummer of klantnaam). <br>
 <br>
 Het softwarepakket IDEXX Animana maakt bij oproepen gebruik van de CSV-data en opent de klantkaart middels een druk op de knop in de pop-up.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
