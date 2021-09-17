@@ -1,21 +1,33 @@
 ---
-title: "Carerix"
+shorttitle: "Carerix"
+title: "Wij koppelen jouw CRM Carerix aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/carerix_hvufri.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Carerix CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Carerix/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Recruitment
 weight: 10
 url: /marketplace/carerix/
 aliases: /program-shop/carerix/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
+
 
 ---
 
@@ -48,5 +60,5 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 <br>
 Softwarepakket Carerix wordt gekoppeld op basis van een API-key.<br>
 Let op, je dient een API-code bij Carerix aan te vragen. <br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
