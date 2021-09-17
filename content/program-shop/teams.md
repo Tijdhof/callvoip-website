@@ -16,6 +16,8 @@ categories:
   - Workflow
   - Teams
 weight: 10
+url: /marketplace/Teams/
+aliases: /program-shop/Teams/
 headerside:
   title: Waarom integreren?
   list:
