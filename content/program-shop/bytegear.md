@@ -1,16 +1,18 @@
 ---
-title: "ByteGear"
+shorttitle: "ByteGear"
+title: "Wij koppelen jouw CRM ByteGear aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/bytegear_z0m5db.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van ByteGear CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via URL
 button:
-  title: Meer informatie
-  link: /crmintegratie/ByteGear/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Tandarts
   - Meest populair
@@ -18,6 +20,15 @@ weight: 3
 populair: true
 url: /marketplace/bytegear/
 aliases: /program-shop/bytegear/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -37,4 +48,4 @@ De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de 
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt de pop-up kunmet het nummer voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, mnummer kopiëren, een maatwerk actie of een parameter kopiëren. <br>
 <br>
-<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
