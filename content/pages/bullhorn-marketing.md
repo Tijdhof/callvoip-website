@@ -19,7 +19,7 @@ blocks:
     je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals NAW gegevens, evt. offertes, notities van het laatste contact. Die pop-up
     noemen wij Bubble. Met 1 klik open je Bullhorn met de juiste gegevens en kun je
-    de klant verder helpen.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>'
+    de klant verder helpen.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button" target="_blank">Vraag nu deze koppeling aan</a>'
   image: "/v1615969123/quote_callvoip_blauw_universeel_c9afb7.png"
   zooming: true
   position: image_left
