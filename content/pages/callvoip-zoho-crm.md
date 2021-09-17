@@ -13,9 +13,7 @@ hero:
     een compleet CRM platform waarin alle aspecten van een organisatie aanwezig zijn.
     HR, CRM, e-mail, meeting, chat. Je kunt het zo gek niet bedenken of het is aanwezig,
     behalve…..TELEFONIE! En daar komt Callvoip om de hoek kijken: koppel jouw Zoho
-    nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
-    href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
-    koppeling aan</a>'
+    nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/Zoho/" class="button">Meer informatie</a>'
   image: "/v1622801300/zoho_ye18in.png"
   zooming: true
   image_position: center
@@ -25,8 +23,7 @@ blocks:
     je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals NAW gegevens, evt. offertes, notities van het laatste contact. Die pop-up
     noemen wij Bubble. Met 1 klik open je Zoho met de juiste gegevens en kun je de
-    klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
-    class="button" target="_blank">Meer over onze slimme pop-up</a>'
+    klant verder helpen.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button" target="_blank">Vraag nu deze koppeling aan</a>'
   image: "/v1625820012/quote_callvoip_blauw_zoho_exukye.png"
   zooming: true
   position: image_left
