@@ -1,16 +1,18 @@
 ---
-title: "Sherpaan"
+shorttitle: "Sherpaan"
+title: "Wij koppelen jouw CRM Sherpaan aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Sherpaan_vg3pwg.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Sherpaan CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via SQL
 button:
-  title: Meer informatie
-  link: /crmintegratie/Sherpaan/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Webshop Software
   - Nieuw
@@ -18,6 +20,16 @@ weight: 1
 new: true
 url: /marketplace/Sherpaan/
 aliases: /program-shop/Sherpaan/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
+
 
 ---
 
@@ -49,5 +61,5 @@ Denk hierbij aan:<br>
 • Open Customer<br>
 <br>
  <br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
