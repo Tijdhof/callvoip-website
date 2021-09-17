@@ -1,18 +1,29 @@
 ---
-title: "URL Executer"
+shorttitle: "URL Executer"
+title: "Wij koppelen URL Execute gebaseerde CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/URL_d5sq9k.png"
-description: Algemene koppeling
+shortdesc: Algemene koppeling
+description: Door het koppelen van URL Execute gebaseerde CRM aan onze slimme telefonie werk je een stuk efficienter.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/url/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Generiek
   - Algemene tools
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -31,4 +42,4 @@ Denk hierbij aan: <br>
 • Custom links met een URL aangevuld met bv klant-id om de klantpagina in jouw CRM te openen <br>
 • en customized knoppen om bv een klantparameter, klant ID, klantnaam te kopiëren.<br>
 <br>
-<a href="/marketplace" class="button">Naar Marketplace</a>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
