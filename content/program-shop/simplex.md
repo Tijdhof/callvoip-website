@@ -16,6 +16,8 @@ button:
 categories:
   - Tandarts
 weight: 10
+url: /marketplace/Simplex/
+aliases: /program-shop/Simplex/
 headerside:
   title: Waarom integreren?
   list:
