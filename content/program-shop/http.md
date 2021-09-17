@@ -15,6 +15,8 @@ categories:
   - Generiek
   - Algemene tools
 weight: 10
+url: /marketplace/HTTP/
+aliases: /program-shop/HTTP/
 headerside:
   title: Waarom integreren?
   list:
