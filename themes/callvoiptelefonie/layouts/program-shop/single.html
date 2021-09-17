@@ -7,54 +7,65 @@
     </div>
     <div class="container px-0 lg:flex space-y-4 lg:space-y-0">
       <div class="w-full space-y-8">
-        <header class="bg-grey-lightest lg:flex items-center border border-grey-lightest">
-          <div class="lg:w-64 p-8 flex flex-col items-center justify-between border-blue-light space-y-8">
-            <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.Params.logo}}" class="cld-responsiveb max-w-xs"
-              alt="logo of {{.Title}}" />
-            <a href="{{ .Params.button.link}}"
-              class="text-xs text-white uppercase p-2 bg-grey-dark rounded-full text-center w-full max-w-xs block  hover:shadow-md">
-              {{- .Params.button.title -}}
-            </a>
+        <header class="bg-grey-lightest lg:flex items-center justify-between border border-grey-lightest">
+          <div class="lg:flex items-center">
+            <div class="lg:w-64 p-8 flex flex-col items-center justify-between border-blue-light space-y-8">
+              <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.Params.logo}}" class="cld-responsiveb max-w-xs"
+                alt="logo of {{.Title}}" />
+              <a href="{{ .Params.button.link}}"
+                class="text-xs text-white uppercase p-2 bg-grey-dark rounded-full text-center w-full max-w-xs block  hover:shadow-md">
+                {{- .Params.button.title -}}
+              </a>
+            </div>
+            <div class="space-y-6 lg:p-8 p-4">
+              <div class="text-sm space-y-5 text-center lg:text-left">
+                <div>
+                  <h1 class="text-2xl md:text-4xl font-medium leading-none">{{ .Title }}</h1>
+                  <small class="text-sm leading-loose max-w-screen-sm">{{ .Params.shortdesc }}</small>
+                </div>
+                <p>
+                  {{- range .Params.categories }}
+                  <span class="text-blue-light p-1 px-2 border">{{.}}</span>&nbsp;&nbsp;&nbsp;&nbsp;
+                  {{- end }}
+                </p>
+              </div>
+              <hr class="border-blue-light border-t">
+              <div class="md:flex justify-center lg:justify-start md:space-x-16 space-y-4 md:space-y-0 text-grey">
+                {{ with .Params.meer_info }}
+                <div class="space-y-2">
+                  <span><b>Meer info:</b></span>
+                  <ul class="text-sm">
+                    {{ range . -}}
+                    <li>
+                      <a href="{{.url}}">{{.title}}</a>
+                    </li>
+                    {{ end }}
+                  </ul>
+                </div>
+                {{ end }}
+                {{ with .Params.ontwikkelaar }}
+                <div class="space-y-2">
+                  <span><b>Type:</b></span>
+                  <ul class="text-sm">
+                    {{ range . -}}
+                    <li>
+                      {{.title}}
+                    </li>
+                    {{ end }}
+                  </ul>
+                </div>
+                {{ end }}
+              </div>
+            </div>
           </div>
-          <div class="space-y-6 lg:p-8 p-4">
-            <div class="text-sm space-y-5 text-center lg:text-left">
-              <div>
-                <h1 class="text-2xl md:text-4xl font-medium leading-none">{{ .Title }}</h1>
-                <small class="text-sm leading-loose max-w-screen-sm">{{ .Description }}</small>
-              </div>
-              <p>
-                {{- range .Params.categories }}
-                <span class="text-blue-light p-1 px-2 border">{{.}}</span>&nbsp;&nbsp;&nbsp;&nbsp;
-                {{- end }}
-              </p>
-            </div>
-            <hr class="border-blue-light border-t">
-            <div class="md:flex justify-center lg:justify-start md:space-x-16 space-y-4 md:space-y-0 text-grey">
-              {{ with .Params.meer_info }}
-              <div class="space-y-2">
-                <span><b>Meer info:</b></span>
-                <ul class="text-sm">
-                  {{ range . -}}
-                  <li>
-                    <a href="{{.url}}">{{.title}}</a>
-                  </li>
-                  {{ end }}
-                </ul>
-              </div>
-              {{ end }}
-              {{ with .Params.ontwikkelaar }}
-              <div class="space-y-2">
-                <span><b>Type:</b></span>
-                <ul class="text-sm">
-                  {{ range . -}}
-                  <li>
-                    {{.title}}
-                  </li>
-                  {{ end }}
-                </ul>
-              </div>
-              {{ end }}
-            </div>
+          <div class="usp-list p-8 px-4 lg:p-8 space-y-2">
+            {{ with .Params.headerside }}
+            <h3 class="text-2xl md:text-4xl">{{.title}}</h3>
+            <ul class="space-y-1">
+              {{ range .list }}<li>{{.}}</li>{{ end }}
+            </ul>
+            <a href="{{.btn.url}}" class="button">{{.btn.text}}</a>
+            {{ end }}
           </div>
         </header>
         <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose lg:p-4 max-w-screen-l">
