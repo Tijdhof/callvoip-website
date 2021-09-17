@@ -16,6 +16,8 @@ button:
 categories:
   - Tandarts
 weight: 10
+url: /marketplace/OaseDental/
+aliases: /program-shop/OaseDental/
 headerside:
   title: Waarom integreren?
   list:
