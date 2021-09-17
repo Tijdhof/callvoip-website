@@ -1,20 +1,31 @@
 ---
-title: "Exact Synergy"
+shorttitle: "Exact Synergy"
+title: "Wij koppelen jouw CRM Exact Synergy aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/exact_synergy_z5ycbt.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Exact Synergy CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Exact/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Relatiebeheer
   - Klantcontact
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -44,4 +55,4 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 • Open website <br>
 • Kopieer een parameter (bv klantnummer of klantnaam). <br>
 <br>
-<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
