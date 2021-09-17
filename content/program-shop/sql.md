@@ -15,6 +15,8 @@ categories:
   - Generiek
   - Algemene tools
 weight: 10
+url: /marketplace/SQL/
+aliases: /program-shop/SQL/
 headerside:
   title: Waarom integreren?
   list:
