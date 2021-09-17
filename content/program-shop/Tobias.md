@@ -16,6 +16,8 @@ button:
 categories:
   - Woningcorporatiesoftware
 weight: 10
+url: /marketplace/Tobias/
+aliases: /program-shop/Tobias/
 headerside:
   title: Waarom integreren?
   list:
