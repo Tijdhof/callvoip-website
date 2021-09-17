@@ -1,14 +1,16 @@
 ---
-title: "ZoHo + callregistratie"
+shorttitle: "ZoHo + callregistratie"
+title: "Wij koppelen jouw CRM ZoHo aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/zoho_i7jp7i.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van ZoHo CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/zoho/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Relatiebeheer
   - Klantcontact
@@ -17,6 +19,15 @@ weight: 1
 new: true
 url: /marketplace/zoho
 aliases: /program-shop/zoho
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -61,4 +72,4 @@ Denk hierbij aan:<br>
 • View lead<br>
 • en customized knoppen als terugbelverzoek, maatwerk actie of een parameter kopiëren.<br>
 <br>
-<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
