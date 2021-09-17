@@ -9,9 +9,7 @@ marketplaceItem: true
 hero:
   title: Google nummercheck + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Google nummercheck is een systeem gericht op informatie vanuit Google. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Google nummercheck nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a
-    href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button">Vraag nu deze
-    koppeling aan</a>'
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Google nummercheck is een systeem gericht op informatie vanuit Google. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Google nummercheck nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/google/" class="button">Meer informatie</a>'
   image: "/v1622801300/googlelogo_bi461c.png"
   zooming: true
   image_position: center
@@ -21,8 +19,7 @@ blocks:
     je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals NAW gegevens, evt. offertes, notities van het laatste contact. Die pop-up
     noemen wij Bubble. Met 1 klik open je Google nummercheck met de juiste gegevens en kun je
-    de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
-    class="button" target="_blank">Meer over onze slimme pop-up</a>'
+    de klant verder helpen.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button" target="_blank">Vraag nu deze koppeling aan</a>'
   image: "/v1615969123/quote_callvoip_blauw_universeel_c9afb7.png"
   zooming: true
   position: image_left
