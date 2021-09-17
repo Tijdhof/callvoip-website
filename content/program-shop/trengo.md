@@ -1,16 +1,18 @@
 ---
-title: "Trengo + callregistratie"
+shorttitle: "Trengo + callregistratie"
+title: "Wij koppelen jouw CRM Trengo aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/trengo_gnv9vf.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Trengo CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Trengo/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - E-commerce
   - Customerservice
@@ -19,6 +21,15 @@ weight: 1
 new: true
 url: /marketplace/trengo
 aliases: /program-shop/trengo
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -42,4 +53,4 @@ Je kunt kiezen of je alleen de Trengo popup gebruikt of ook de popup van de conn
 Middels een knop in de pop-up kun je de klantkaart openen, een terugbelverzoek plaatsen (gekoppeld aan mail), etc. Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega) en wanneer je met meerdere beeldschermen werkt, kun je zelf kiezen op welk scherm je de pop-up wilt zien. Daarnaast is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer - dat kan handig zijn als de relatie terugbelt maar als je niet weet door welke collega hij of zij gebeld zou kunnen zijn. De pop-up zal uit zichzelf verdwijnen als het gesprek wordt opgehangen. <br>
 Standaard is de Callvoip popup-applicatie voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt.<br>
 <br>
-<a href="/marketplace" class="button">Naar Marketplace</a>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
