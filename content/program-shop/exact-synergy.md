@@ -17,6 +17,8 @@ categories:
   - Relatiebeheer
   - Klantcontact
 weight: 10
+url: /marketplace/exact-synergy/
+aliases: /program-shop/exact-synergy/
 headerside:
   title: Waarom integreren?
   list:
