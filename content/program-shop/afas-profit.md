@@ -1,16 +1,18 @@
 ---
-title: "Afas Profit"
+shorttitle: "Afas Profit"
+title: "Wij koppelen jouw CRM Afas Profit aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/afas_profit_krjfq7.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Afas Profit CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 ontwikkelaar:
   - title: Via API
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/Afas/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Relatiebeheer
   - Klantcontact
@@ -19,6 +21,15 @@ weight: 4
 populair: true
 url: /marketplace/afas
 aliases: /program-shop/afas-profit
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -61,5 +72,5 @@ Je kunt dan de klantgegevens uit AFAS Profit CRM gebruiken, denk hierbij aan geg
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren. <br>
 Het softwarepakket AFAS Profit CRM wordt gekoppeld op basis van een API-koppeling waarbij de gebruiker in de software het e-mailadres dienst in te vullen wat bekend is in AFAS, waarna een authenticatiecode gemaild wordt en ingevuld kan worden in Bubble.
 <br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
