@@ -17,6 +17,8 @@ categories:
   - Workflow
   - Planning
 weight: 10
+url: /marketplace/Outsmart/
+aliases: /program-shop/Outsmart/
 headerside:
   title: Waarom integreren?
   list:
