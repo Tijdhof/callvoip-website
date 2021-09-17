@@ -1,22 +1,33 @@
 ---
-title: "Simar"
+shorttitle: "Simar"
+title: "Wij koppelen jouw CRM Simar aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/simar_qvjmtp.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Simar CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Simar/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Keukenbranche
   - Tegelbranche
 weight: 10
 url: /marketplace/simar/
 aliases: /program-shop/simar/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -43,4 +54,4 @@ Denk hierbij aan customized knoppen zoals:<br>
 <br>
 **Technische gegevens:**<br>
 Door de integratiemethode met het softwarepakket Simar wordt de functionaliteit van de Bubble pop-up uitgeschakeld omdat Simar deze functie overneemt.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
