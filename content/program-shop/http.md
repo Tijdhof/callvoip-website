@@ -14,7 +14,7 @@ button:
 categories:
   - Generiek
   - Algemene tools
-weight: 10
+weight: 11
 url: /marketplace/HTTP/
 aliases: /program-shop/HTTP/
 headerside:
