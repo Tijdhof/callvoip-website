@@ -1,21 +1,32 @@
 ---
-title: "DLex Wolters Kluwer"
+shorttitle: "DLex Wolters Kluwer"
+title: "Wij koppelen jouw CRM DLex Wolters Kluwer aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/dlex_qnmydn.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van DLex Wolters Kluwer CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/DLex/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Advocatuur
 weight: 10
 url: /marketplace/dlex/
 aliases: /program-shop/dlex/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 
 ---
@@ -42,4 +53,4 @@ Denk hierbij aan:<br>
 <br>
 Let op: het softwarepakket DLex CRM wordt gekoppeld op basis van een realtime databasekoppeling. De toegang tot deze database moet worden verleent door Wolter Kluwer – DLex. Aan de zijde van DLex dien je rekening te houden met 3-6 uur arbeid voor het toevoegen van de functionaliteiten om te kunnen koppelen. Belangrijk: deze koppeling dient nog gerealiseerd te worden en heeft een doorlooptijd van ongeveer 2 weken; hiervoor geldt een ontwikkelingstarief van 495,-.<br>
 <br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
