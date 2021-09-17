@@ -16,6 +16,8 @@ button:
 categories:
   - Self Storage Software
 weight: 10
+url: /marketplace/Store365/
+aliases: /program-shop/Store365/
 headerside:
   title: Waarom integreren?
   list:
