@@ -16,6 +16,8 @@ button:
 categories:
   - Accountancy
 weight: 10
+url: /marketplace/Radar360/
+aliases: /program-shop/Radar360/
 headerside:
   title: Waarom integreren?
   list:
