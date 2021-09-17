@@ -379,13 +379,19 @@ const renderCrmFields = function (fields) {
   let onetime = 0;
   state.crmFields = [];
 
+  // ? M. Inam changes
+  const totalkeppeling =
+    document.getElementById("koppeling-crm-pakket-aantal-gebruikers").value *
+      25 +
+    150;
+
   /* loop over all basic fields */
   for (let item of fields) {
     let obj = {};
 
     obj.name = item.dataset.name;
     obj.price_monthly = item.dataset.price_monthly;
-    obj.price_onetime = item.dataset.price_onetime;
+    obj.price_onetime = parseInt(item.dataset.price_onetime) + totalkeppeling;
     obj.value = item.value;
 
     monthly = monthly + obj.price_monthly * obj.value;
