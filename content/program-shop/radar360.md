@@ -1,19 +1,31 @@
 ---
-title: "Radar360"
+shorttitle: "Radar360"
+title: "Wij koppelen jouw CRM Radar360 aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/radar360_lml0hk.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Radar360 CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Radar360/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Accountancy
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
+
 
 ---
 
@@ -42,4 +54,4 @@ Denk hierbij aan customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Let op, om deze koppeling te activeren dient de VoIP koppeling binnen Radar360 CRM ook geactiveerd te worden. Dit is een betaalde licentie.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
