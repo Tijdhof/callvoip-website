@@ -1,21 +1,32 @@
 ---
-title: "Assu Assurantiesoftware"
+shorttitle: "Assu Assurantiesoftware"
+title: "Wij koppelen jouw CRM Assu Assurantiesoftware aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/assu_cskgim.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Assu Assurantiesoftware CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Assu/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Assurantien
 weight: 10
 url: /marketplace/assu/
 aliases: /program-shop/assu/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -41,4 +52,4 @@ Denk hierbij aan:<br>
 • de hypotheek kaart <br>
 <br>
 Het softwarepakket Assu® CRM van A.I. Automatisering wordt gekoppeld op basis van een databasekoppeling. A.I. Automatisering dient hiervoor toegang te verlenen.
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
