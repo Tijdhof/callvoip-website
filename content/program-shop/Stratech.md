@@ -1,21 +1,32 @@
 ---
-title: "Stratech RCS"
+shorttitle: "Stratech RCS"
+title: "Wij koppelen jouw CRM Stratech RCS aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Stratech_bfrvhb.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Stratech RCS CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Stratech/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Recreatie
 weight: 10
 url: /marketplace/Stratech/
 aliases: /program-shop/Stratech/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -64,4 +75,4 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Stratech-RCS Enterprise CRM wordt gekoppeld op basis van een API-koppeling. De licentie daarvoor dient geactiveerd te worden door Stratech-RCS Enterprise. Let op, binnen Stratech-RCS Enterprise dien je de telefoonintegratie te laten activeren waaraan kosten zijn verbonden.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
