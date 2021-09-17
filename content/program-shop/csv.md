@@ -1,9 +1,9 @@
 ---
 shorttitle: "CSV"
-title: "Wij koppelen jouw CSV via CRM aan onze telefonie"
+title: "Wij koppelen CSV gebaseerde CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/CSV_neqq0u.png"
-description: Door het koppelen van CSV aan onze slimme telefonie werk je een stuk efficienter.
+description: Door het koppelen van CSV gebaseerde CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Algemene koppeling
 meer_info:
   - title: Support
