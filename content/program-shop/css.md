@@ -1,6 +1,6 @@
 ---
 shorttitle: "CSS Car System"
-title: "Wij koppelen jouw CRM CSS Car System" aan onze telefonie"
+title: "Wij koppelen jouw CRM CSS Car System aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/css-icon_ak4yis.png"
 description: Door het koppelen van CSS Car System CRM aan onze slimme telefonie werk je een stuk efficienter.
