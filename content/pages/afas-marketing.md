@@ -9,7 +9,7 @@ marketplaceItem: true
 hero:
   title: Afas + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Afas is een systeem gericht op releatiebeheer en klantcontact. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Afas nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/Afas/" class="button">Meer informatie</a>>'
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Afas is een systeem gericht op releatiebeheer en klantcontact. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Afas nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/Afas/" class="button">Meer informatie</a>'
   image: "/v1622801300/afas_mqt6uy.png"
   zooming: true
   image_position: center
