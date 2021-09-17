@@ -46,6 +46,14 @@
                   {{- . }}</button></li>
               {{- end }}
             </ul>
+            <h3 class="text-black"><b>Functionaliteiten</b></h3>
+            <ul class="space-y-2">
+              {{- range .Params.selected_tags2 }}
+              <li><button type="button"
+                  onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.add('hidden');if(e.classList.contains('{{urlize . }}')){e.classList.remove('hidden');}});reset.hidden=false">
+                  {{- . }}</button></li>
+              {{- end }}
+            </ul>
           </div>
           <div class="space-y-2">
             <h3 class="text-black"><b>Alle categorieën</b></h3>
@@ -79,7 +87,7 @@
           </div>
           <div class="p-4 space-y-2">
             <h3 class="text-lg font-medium text-blue-light">{{.Title}}</h3>
-            <p class="text-sm max-w-sm mx-auto px-4 lg:p-0">{{ $item.Description }}</p>
+            <p class="text-sm max-w-sm mx-auto px-4 lg:p-0">{{ $item.Params.shortdesc }}</p>
             <p class="text-xs bg-grey-lightest uppercase opacity-75 p-2 py-1 rounded-full inline-block">
               {{- .Params.button.title}}</p>
           </div>
