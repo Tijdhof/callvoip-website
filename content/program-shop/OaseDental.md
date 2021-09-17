@@ -1,19 +1,30 @@
 ---
-title: "OaseDental"
+shorttitle: "OaseDental"
+title: "Wij koppelen jouw CRM OaseDental aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/oase_fcrbyj.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van OaseDental CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven..
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via URL
 button:
-  title: Meer informatie
-  link: /crmintegratie/OaseDental/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Tandarts
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -36,4 +47,4 @@ Je kunt de pop-up voorzien van 4 knoppen om direct de juiste actie uit te voeren
 **Technische gegevens:**<br>
 Het programma Oase Dental wordt gekoppeld op basis van een URL Executor. Omdat Oase Dental zelf een ingebouwde telefoniekoppeling heeft, kan de pop-up van Bubble (en daarmee de functionaliteiten van de Bubble app) worden uitgeschakeld, omdat de Oase Dental module deze functie overneemt. Je kunt er ook voor kiezen de Bubble popup te behouden voor de extra knoppen en Google lookup.<br>
 <br>
-<a href="/marketplace" class="button">Naar Marketplace</a>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
