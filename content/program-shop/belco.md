@@ -2,7 +2,17 @@
 title: "Belco"
 date: 2021-06-03T16:52:17+05:00
 logo: "/belco_yfttbm.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Meta here Sync je CRM-contacten en -bedrijven.
+shortdesc: Sync je CRM-contacten en -bedrijven.
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 meer_info:
   - title: Support
     url: /ondersteuning/
@@ -43,5 +53,5 @@ Je kunt dan de klantgegevens uit Belco gebruiken, denk hierbij aan gegevens zoal
 • totale uitgaven <br>
 • shop naam <br>
 • etc.<br>
- <br>
+<br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
