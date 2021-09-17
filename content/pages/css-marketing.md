@@ -15,8 +15,7 @@ hero:
     in een garage. Hoe beter de behoeftes van een autogarage in beeld       krijgen
     dan er zelf één zijn? Het resultaat is een modulair opgebouwd systeem wat past
     bij elke garage. Koppel CSS Car Systems nu aan onze telefonie en profiteer van
-    het gemak en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
-    class="button">Vraag nu deze koppeling aan</a>
+    het gemak en de efficiëntie.<br><br><a href="/marketplace/CSS/" class="button">Meer informatie</a>
   image: "/v1571655384/css_qfztse.png"
   zooming: true
   image_position: center
@@ -26,8 +25,7 @@ blocks:
     zie je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals kenteken, merk/type auto en wanneer de APK vervalt. Die pop-up noemen wij
     Bubble. Met 1 klik open je CSS Car Systems met de juiste gegevens en kun je de
-    klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
-    class="button" target="_blank">Meer over onze slimme pop-up</a>'
+    klant verder helpen.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button" target="_blank">Vraag nu deze koppeling aan</a>'
   image: "/v1621238438/quote_callvoip_CSS_drrsr7.png"
   zooming: true
   position: image_left
