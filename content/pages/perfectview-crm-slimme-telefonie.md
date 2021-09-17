@@ -15,8 +15,7 @@ hero:
     zijn. relatiebeheer, marketing, klantenservice en sales. Behoorlijk compleet dus,
     maar er mist 1 essentieel onderdeel…..TELEFONIE! En daar komt Callvoip om de hoek
     kijken: koppel jouw PerfectView nu aan onze telefonie en profiteer van het gemak
-    en de efficiëntie.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/"
-    class="button">Vraag nu deze koppeling aan</a>'
+    en de efficiëntie.<br><br><a href="/marketplace/perfectview/" class="button">Meer informatie</a>'
   image: "/v1622801300/perfectview_oftzzp.png"
   image_position: center
   disable_image_on_mobile: false
@@ -25,8 +24,7 @@ blocks:
     je meteen op het scherm van je PC een pop-up met alle relevante klantgegevens
     zoals NAW gegevens, evt. offertes, notities van het laatste contact. Die pop-up
     noemen wij Bubble. Met 1 klik open je PerfectView met de juiste gegevens en kun
-    je de klant verder helpen.<br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/bubble/"
-    class="button" target="_blank">Meer over onze slimme pop-up</a>'
+    je de klant verder helpen.<br><br><a href="https://www.callvoip.nl/aanvragen/voip-cti/" class="button" target="_blank">Vraag nu deze koppeling aan</a>'
   image: "/v1625820012/quote_callvoip_blauw_perfectview_zesu3a.png"
   zooming: true
   position: image_left
