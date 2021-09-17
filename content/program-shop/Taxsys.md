@@ -16,6 +16,8 @@ button:
 categories:
   - Taxisoftware
 weight: 10
+url: /marketplace/Taxsys/
+aliases: /program-shop/Taxsys/
 headerside:
   title: Waarom integreren?
   list:
