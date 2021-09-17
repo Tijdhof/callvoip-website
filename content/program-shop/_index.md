@@ -4,7 +4,7 @@ description: Callvoip Marketplace, alle CRM integratie pakketten op één plek! 
 date: 2021-07-19T10:35:57+05
 url: /marketplace/
 intro:
-  title: Integreer je favoriete tools
+  title: Marketplace is even in onderhoud, bepaalde functions kunnen tijdelijk minder goed werken.
   content: Alle CRM pakketten waarmee we kunnen koppelen op één plek. Staat jouw pakket er niet bij? Neem <a href="/contact/">contact</a> op voor de mogelijkheden.
 hero:
   image: "/v1603982195/crmoverzicht_geuhmx.png"
