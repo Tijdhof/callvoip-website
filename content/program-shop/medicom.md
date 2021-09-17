@@ -1,14 +1,16 @@
 ---
-title: "Medicom Pharmapartners"
+shorttitle: "Medicom Pharmapartners"
+title: "Wij koppelen jouw CRM Medicom Pharmapartners aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/medicom_badthv.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Medicom Pharmapartners CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/Medicom/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Huisartsen
   - Zorgverleners
@@ -17,6 +19,15 @@ weight: 5
 populair: true
 url: /marketplace/medicom/
 aliases: /program-shop/medicom/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -33,5 +44,5 @@ De Medicom – Pharmapartners CRM connector – koppelen aan je telefonieomgevin
 <br>
 Let op: Aan de Medicom – Pharmapartner zijde is ook een betaalde licentie vereist, namelijk een eenmalige component voor implementatie en een maandabonnement. <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xl1lTv5L9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
