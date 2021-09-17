@@ -14,12 +14,13 @@ selected_tags:
   - Algemene tools
   - Meest populair
   - Nieuw
+selected_tags2:
+  - E-commerce
 outputs:
   - HTML
   - JSON
   - RSS
 searchtags:
-- crm
-- integratie
-
+  - crm
+  - integratie
 ---
