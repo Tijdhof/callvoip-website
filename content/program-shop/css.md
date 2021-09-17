@@ -1,14 +1,16 @@
 ---
-title: "CSS Car System"
+shorttitle: "CSS Car System"
+title: "Wij koppelen jouw CRM CSS Car System" aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/css-icon_ak4yis.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van CSS Car System CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/csscarsystems/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Garagesoftware
   - Meest populair
@@ -17,7 +19,16 @@ ontwikkelaar:
   - title: Via API
 populair: true
 url: /marketplace/css/
-aliases: /program-shop/css
+aliases: /program-shop/css/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -44,5 +55,5 @@ Je kunt dan de klantgegevens uit CSS Car Systems gebruiken, denk hierbij aan geg
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren. <br>
 <br>
-<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
