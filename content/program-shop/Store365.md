@@ -1,19 +1,30 @@
 ---
-title: "Store365"
+shorttitle: "Store365"
+title: "Wij koppelen jouw CRM Store365 aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/store365_vwshfz.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Store365 CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Store365/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Self Storage Software
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -53,4 +64,4 @@ Denk hierbij aan customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Store365 wordt gekoppeld op basis van een API-koppeling.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
