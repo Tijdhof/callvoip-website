@@ -17,6 +17,8 @@ categories:
   - E-commerce
   - Customerservice
 weight: 10
+url: /marketplace/Pipedrive/
+aliases: /program-shop/Pipedrive/
 headerside:
   title: Waarom integreren?
   list:
