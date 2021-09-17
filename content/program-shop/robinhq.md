@@ -1,17 +1,28 @@
 ---
-title: "RobinHQ + Callregistratie"
+shorttitle: "RobinHQ + Callregistratie"
+title: "Wij koppelen jouw CRM RobinHQ aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/robinHQ_iuz298.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van RobinHQ CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/robinhq/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - E-commerce
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -42,4 +53,4 @@ Denk hierbij aan customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket RobinHQ wordt gekoppeld op basis van de API-koppeling van RobinHQ met geintegreerde klantpopup in RobinHQ en automatisch call log. <br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
