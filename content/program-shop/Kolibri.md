@@ -1,21 +1,32 @@
 ---
-title: "Kolibri"
+shorttitle: "Kolibri"
+title: "Wij koppelen jouw CRM Kolibri aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/kolibri_b9g8yx.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Kolibri CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Kolibri/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Makelaars
 weight: 10
 url: /marketplace/Kolibri/
 aliases: /program-shop/Kolibri/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -27,4 +38,4 @@ De Kolibri-popup toont de klantgegevens en de klantpagina. Bovendien is er gelij
 Door de integratiemethode met het softwarepakket Kolibri wordt de functionaliteit van de Bubble pop-up uitgeschakeld omdat Kolibri deze functie overneemt.<br>
 <b>Let op: voor het gebruik van de Kolibri koppeling geldt een éénmalig bedrag van 450,- ex BTW als licentiekosten voor activatie vanuit Kolibri. <br>
 <br>
-<a href="/marketplace" class="button">Naar Marketplace</a>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
