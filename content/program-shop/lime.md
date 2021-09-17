@@ -14,6 +14,8 @@ button:
 categories:
   - Klantcontact
 weight: 10
+url: /marketplace/Lime/
+aliases: /program-shop/Lime/
 headerside:
   title: Waarom integreren?
   list:
