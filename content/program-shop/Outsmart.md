@@ -1,20 +1,32 @@
 ---
-title: "Outsmart"
+shorttitle: "Outsmart"
+title: "Wij koppelen jouw CRM Outsmart aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/outsmart_txh4xp.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Outsmart CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Outsmart/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Workflow
   - Planning
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
+
 
 ---
 
@@ -55,4 +67,4 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket OutSmart CRM wordt gekoppeld op basis van een API-koppeling.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
