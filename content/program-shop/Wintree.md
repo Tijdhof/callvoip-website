@@ -16,6 +16,8 @@ button:
 categories:
   - Boomkwekerij software
 weight: 10
+url: /marketplace/Wintree/
+aliases: /program-shop/Wintree/
 headerside:
   title: Waarom integreren?
   list:
