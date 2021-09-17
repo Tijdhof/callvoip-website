@@ -16,6 +16,8 @@ button:
 categories:
   - Tandarts
 weight: 10
+url: /marketplace/Exquise/
+aliases: /program-shop/Exquise/
 headerside:
   title: Waarom integreren?
   list:
