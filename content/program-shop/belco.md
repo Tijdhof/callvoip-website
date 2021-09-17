@@ -1,6 +1,6 @@
 ---
-title: "Belco"
-shorttitle: "Wij koppelen jouw CRM Belco aan onze telefonie"
+title: "Wij koppelen jouw CRM Belco aan onze telefonie"
+shorttitle: "Belco"
 date: 2021-06-03T16:52:17+05:00
 logo: "/belco_yfttbm.png"
 description: Door het koppelen van Belco CRM aan onze slimme telefonie werk je een stuk efficienter.
@@ -55,4 +55,4 @@ Je kunt dan de klantgegevens uit Belco gebruiken, denk hierbij aan gegevens zoal
 • shop naam <br>
 • etc.<br>
 <br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
