@@ -1,14 +1,16 @@
 ---
-title: "PerfectView"
+shorttitle: "PerfectView"
+title: "Wij koppelen jouw CRM PerfectView aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/perfectview_tyrbss.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van PerfectView CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/perfectview/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Relatiebeheer
   - Klantcontact
@@ -17,6 +19,15 @@ weight: 5
 populair: true
 url: /marketplace/perfectview/
 aliases: /program-shop/perfectview/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -57,5 +68,5 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket PerfectView wordt gekoppeld op basis van een API-koppeling.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
