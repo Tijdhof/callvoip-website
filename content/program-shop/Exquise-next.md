@@ -1,16 +1,18 @@
 ---
-title: "Exquise Next Generation"
+shorttitle: "Exquise Next Generation"
+title: "Wij koppelen jouw CRM Exquise Next Generation aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/equise_next_bw7o1n.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Exquise Next Generation CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via URL
 button:
-  title: Meer informatie
-  link: /crmintegratie/Exquise/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Tandarts
   - Meest populair
@@ -18,6 +20,15 @@ weight: 5
 populair: true
 url: /marketplace/exquise-next/
 aliases: /program-shop/exquise-next/
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -29,4 +40,4 @@ De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de 
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt de pop-up kunmet het nummer voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, nummer kopiëren, maatwerk actie of een parameter kopiëren. <br>
 <br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
