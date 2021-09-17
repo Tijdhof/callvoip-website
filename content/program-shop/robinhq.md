@@ -14,6 +14,8 @@ button:
 categories:
   - E-commerce
 weight: 10
+url: /marketplace/RobinHQ/
+aliases: /program-shop/RobinHQ/
 headerside:
   title: Waarom integreren?
   list:
