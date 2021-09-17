@@ -121,7 +121,7 @@ callrecording:
     price_onetime: 5
     required: false
 crm:
-- name: Koppeling CRM-pakket (aantal gebruikers)
+- name: Gebruikers CRM-koppeling
   min: 0
   max: 999
   price_monthly: 5
