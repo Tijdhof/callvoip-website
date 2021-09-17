@@ -1,20 +1,31 @@
 ---
-title: "Pipedrive + Callregistratie"
+shorttitle: "Pipedrive + Callregistratie"
+title: "Wij koppelen jouw CRM Pipedrive aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/pipedrive_uglmjt.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Pipedrive CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
   - title: Via API
 button:
-  title: Meer informatie
-  link: /crmintegratie/Pipedrive/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - E-commerce
   - Customerservice
 weight: 10
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -60,4 +71,4 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Pipedrive wordt gekoppeld op basis van een API-koppeling.<br>
-<br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
