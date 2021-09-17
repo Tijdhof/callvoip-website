@@ -1,14 +1,16 @@
 ---
-title: "Alexion"
+shorttitle: "Alexion"
+title: "Wij koppelen jouw CRM Alexion aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/alexion_zwxocf.png"
-description: Sync je CRM-contacten en -bedrijven.
+description: Door het koppelen van Alexion CRM aan onze slimme telefonie werk je een stuk efficienter.
+shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
 button:
-  title: Meer informatie
-  link: /crmintegratie/Alexion/
+  title: Naar Marketplace
+  link: /marketplace/
 categories:
   - Relatiebeheer
   - Klantcontact
@@ -16,6 +18,15 @@ weight: 5
 populair: true
 url: /marketplace/alexion
 aliases: /program-shop/alexion
+headerside:
+  title: Waarom integreren?
+  list:
+    - Slimme pop-up van elk gesprek
+    - Direct de klantgegevens in beeld
+    - Werk efficiënter
+  btn:
+    text: Vraag nu deze koppeling aan
+    url: /aanvragen/voip-cti/
 
 ---
 
@@ -40,4 +51,4 @@ Als gebruiker kun je de pop-up volledig zelf inhoud geven. Denk hierbij aan gege
 • etc…
 
 Voor meer informatie over de mogelijkheden van Alexion CRM, ga naar <a href="https://alexion.nl" target="_blank">alexion.nl</a> of bel <a href="callto:+31507833333">+31 50 7833333</a>
-<br><br><a href="/marketplace" class="button">Naar Marketplace</a>
+<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
