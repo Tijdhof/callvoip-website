@@ -38,7 +38,7 @@ Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of he
 
 {{< form "Contact formulier" "/contact/verzonden" >}}
 {{< form/template "d-126942c712c44ec98eb3f158d6b2c826">}}
-{{< form/to "aanvraag">}}
+{{< form/to "aanvragen">}}
 
 {{< layout/split >}}
 
