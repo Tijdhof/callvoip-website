@@ -125,7 +125,7 @@ crm:
   min: 0
   max: 999
   price_monthly: 5
-  price_onetime: 175
+  price_onetime: 0
   required: false
 offerte:
   title: Vrijblijvende offerte ontvangen?
