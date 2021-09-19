@@ -66,7 +66,7 @@ Je kunt dan de klantgegevens uit Sherpaan gebruiken, denk hierbij aan gegevens z
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
-• Open klant in Sherpaan CRN<br>
+• Open klant in Sherpaan CRM<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
