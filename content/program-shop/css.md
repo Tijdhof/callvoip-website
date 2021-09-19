@@ -32,9 +32,6 @@ headerside:
 
 ---
 
-CSS Car System, speciaal voor garagebedrijven!
-
-
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket CSS Car Systems?<br>
 CSS: Car System Software, CRM software voor garagehouders en werkplaats**<br>
 <br>
