@@ -60,7 +60,7 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam) <br>
+• Kopieer een parameter (bv telefoonnummer) <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Bytegear CRM wordt gekoppeld met telefonie van Callvoip op basis van een URL-opdracht.<br>
