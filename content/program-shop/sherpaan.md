@@ -75,6 +75,6 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Sherpaan CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het softwarepakket Sherpaan CRM wordt gekoppeld met telefonie van Callvoip op basis van een SQL-koppeling.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
