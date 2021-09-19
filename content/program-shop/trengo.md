@@ -33,7 +33,7 @@ headerside:
 
 ---
 
-**Welke voordelen levert Trengo?<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Trengo?<br>
 Trengo: CRM software voor optimale klantenservice obv omnichannel communicatiekanalen**<br>
 <br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">**Samenvatting**<br>
