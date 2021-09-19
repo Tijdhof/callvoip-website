@@ -45,7 +45,7 @@ Is er geen match van het telefoonnummer met een contact in Pipedrive? Dan kan Go
 Standaard is de Pipedrive Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Pipedrive. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Pipedrive aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>   
+Dankzij de connector kun je de nummers in Pipedrive aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Pipedrive:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
