@@ -379,9 +379,9 @@ const renderCrmFields = function (fields) {
   let onetime = 0;
   state.crmFields = [];
 
-  // ? M. Inam changes
+  // ? CRM changes
   const totalkeppeling =
-    document.getElementById("koppeling-crm-pakket-aantal-gebruikers").value *
+    document.getElementById("gebruikers-crm-koppeling").value *
       25 +
     150;
 
