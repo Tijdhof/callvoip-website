@@ -1,6 +1,7 @@
 ---
 title: De Callvoip Nieuwsbrief! Leuk voor iedereen.
-url: "/aanmelden/nieuwsbrief/"
+url: "/nieuwsbrief/"
+aliases: /aanmelden/nieuwsbrief/
 
 ---
 Natuurlijk wil je als klant op de hoogte blijven van al het moois wat we toevoegen en verbeteren aan ons product. Maar naast productinformatie doen we ook ons best om leuke content te maken. We schrijven blogs, maken filmpjes en audio.
