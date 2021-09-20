@@ -40,12 +40,14 @@ Met de Callvoip Belco telefoonconnector beschik je over een slimme koppeling tus
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Belco en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
-• De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.<br>
-• Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).<br>
-• Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.<br>
-• Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.<br>
-• De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik! <br>
-• Geen match van het telefoonnummer met een contact in Belco? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon. <br>
+<div class="usp-list">
+<ul>
+<li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
+<li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
+<li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
+<li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
+<li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
+<li>Geen match van het telefoonnummer met een contact in Belco? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 <br>
 **Bonus: automatische call logging**
 Standaard is de Belco Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Belco. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
