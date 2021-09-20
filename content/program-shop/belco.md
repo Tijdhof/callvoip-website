@@ -36,11 +36,16 @@ aliases: /program-shop/belco/
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Belco?**
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/image_1_mopnua.png" style="float:right; padding-left:15px;" width=500px" class="zoom">**Samenvatting**<br>
-Met de Callvoip Belco telefoonconnector beschik je over een slimme koppeling tussen telefoni van Callvoip en Belco. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Outsmart staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Belco telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Belco. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Belco staan, als bellers die er niet instaan Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Outsmart en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen. Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega) en wanneer je met meerdere beeldschermen werkt, kun je zelf kiezen op welk scherm je de pop-up wilt zien. Daarnaast is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer - dat kan handig zijn als de relatie terugbelt maar als je niet weet door welke collega hij of zij gebeld zou kunnen zijn. Standaard is de Callvoip popup-applicatie voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. <br>
-Is er geen match van het telefoonnummer met een contact in Belco? Maak dan gebruik van de **automatische Google Number Lookup**: indien Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon. <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Belco en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
+• De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.<br>
+• Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).<br>
+• Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.<br>
+• Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.<br>
+• De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik! <br>
+• Geen match van het telefoonnummer met een contact in Belco? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon. <br>
 <br>
 **Bonus: automatische call logging**
 Standaard is de Belco Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Belco. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
@@ -49,8 +54,7 @@ Standaard is de Belco Callvoip connector voorzien van de functie om automatisch 
 Dankzij de connector kun je de nummers in Belco aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Belco:**<br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit Belco gebruiken, denk hierbij aan gegevens zoals: <br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Belco, zoals: <br>
 • klantnaam<br>
 • bedrijfsnaam <br>
 • voornaam <br>
