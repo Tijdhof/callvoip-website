@@ -55,16 +55,13 @@ textblocks:
     je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
     voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
     class="button">Meer informatie</a>
-  title2: 'Wat is dat: CRM Lookup?'
-  content2: Breid de Click-to-Dial extensie uit met een koppeling met jouw eigen CRM.
-    Met een klik op de popup van het telefoongesprek open je de bijbehorende klantgegevens.
-    Kun jij je concentreren op het gesprek zelf! <br><br><a href="/telefonie/functionaliteiten/crm-lookup/"
-    class="button">Meer informatie</a>
+  title2: ''
+  content2: ''
   title3: 'Wat is dat: CRM integratie?'
-  content3: Onafhankelijk van je browser koppelen met onze centrale? Dat kan met onze
-    VoIP CTI oplossingen. We hebben een complete Marketplace met CRM pakketten die
-    zijn geschikt zijn dus de kans dat die van jou ertussen zit is groot!<br><br><a
-    href="/marketplace/" class="button">Bekijk onze Marketplace</a>
+  content3: Jouw CRM koppelen met onze centrale? Dat kan met onze VoIP CTI oplossingen.
+    We hebben een complete Marketplace met CRM pakketten die zijn geschikt zijn dus
+    de kans dat die van jou ertussen zit is groot!<br><br><a href="/marketplace/"
+    class="button">Bekijk onze Marketplace</a>
   show_vshape: false
 images: []
 hideinsearch: false
