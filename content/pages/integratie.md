@@ -55,10 +55,8 @@ textblocks:
     je gesprekken, met 1 klik uitbellen naar nummers op websites en een bedrijfstelefoonboek
     voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
     class="button">Meer informatie</a>
-  title2: ''
-  content2: ''
-  title3: 'Wat is dat: CRM integratie?'
-  content3: Jouw CRM koppelen met onze centrale? Dat kan met onze VoIP CTI oplossingen.
+  title2: 'Wat is dat: CRM integratie?'
+  content2: Jouw CRM koppelen met onze centrale? Dat kan met onze VoIP CTI oplossingen.
     We hebben een complete Marketplace met CRM pakketten die zijn geschikt zijn dus
     de kans dat die van jou ertussen zit is groot!<br><br><a href="/marketplace/"
     class="button">Bekijk onze Marketplace</a>
