@@ -51,7 +51,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </ul>
 </div>
 <br>
-**Bonus: automatische call logging**
+**Bonus: automatische call logging**<br>
 Standaard is de Belco Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Belco. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
