@@ -14,7 +14,7 @@ button:
   link: /marketplace/
 categories:
   - Workflow
-  - Teams
+  - Planning
 weight: 10
 url: /marketplace/Teams/
 aliases: /program-shop/Teams/
