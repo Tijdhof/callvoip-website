@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Hypotheken
-  - Verzekeringen
+  - Workflow
+  - Planning
 weight: 10
 url: /marketplace/viewpoint/
 aliases: /program-shop/viewpoint/
