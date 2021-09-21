@@ -12,7 +12,6 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Generiek
   - Algemene tools
 weight: 11
 url: /marketplace/URL/
