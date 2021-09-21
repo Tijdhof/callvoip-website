@@ -15,7 +15,6 @@ button:
   link: /marketplace/
 categories:
   - Algemene tools
-  - Generiek
   - Meest populair
 weight: 5
 populair: true
