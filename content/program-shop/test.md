@@ -28,8 +28,8 @@ categories:
   - Nieuw
 weight: 100
 new: true
-url: /marketplace/belco/
-aliases: /program-shop/belco/
+url: /marketplace/test/
+aliases: /program-shop/test/
 
 ---
 
