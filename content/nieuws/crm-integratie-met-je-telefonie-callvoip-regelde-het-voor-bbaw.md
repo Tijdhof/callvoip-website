@@ -27,24 +27,24 @@ tags: []
 **Directe voordelen van CRM integratie met zakelijke telefonie voor BBAW**
 
 Met wie en wanneer heeft deze persoon de laatste keer gebeld en wat is er besproken? Informatie welke jou net dat stukje voorsprong geeft op je beller, waardoor je telkens zorgt voor de gewenste klantbeleving. Callvoip integreerde onlangs haar slimme VoIP-oplossing met het efficiënte CRM-systeem Simplicate voor haar klant BBAW Bouwmanagement in Norg. De CRM-software van Simplicate zorgt er met hun slimme software voor dat organisaties weer grip krijgen op hun bedrijfsprocessen en alles weer soepel en overzichtelijk verloopt. Dit doen zij op op het gebied van; CRM/Sales/Projecten/Planning- en Urenregistratie. De integratie van hun te gekke software met onze zakelijke telefooncentrale biedt onze gezamenlijke klanten veel profijt. BBAW Bouwmanagement bespeurde vrijwel meteen de volgende voordelen;
-
-* **Nummerweergave/klantherkenning**
+<ul>
+<li><b>Nummerweergave/klantherkenning</li></b><br>
 Je kan door middel van nummerherkenning op je scherm direct zien met wie je in verbinding staat. Prettig voor zowel jezelf als de beller.
 
-* **Relevante gegevens klant meteen paraat**
+<li><b>Relevante gegevens klant meteen paraat</li></b><br>
 Zodra je een klant aan de lijn krijgt verschijnen door middel van een ‘pop up’ alle relevante klantgegevens plus mogelijk zelf ingevoerde notities. Deze informatie geeft je direct een voorsprong op eventuele vragen van de beller.
 
-* **Met één klik op het telefoonnummer in een klantomgeving bel je de klant**
+<li><b>Met één klik op het telefoonnummer in een klantomgeving bel je de klant</li></b><br>
 Uiterst efficiënt in plaats van het telkens opzoeken van benodigde telefoonnummers van klanten. Dit bespaart vanzelfsprekend veel tijd.
 
-* **Doorschakelen**
+<li><b>Doorschakelen</li></b><br>
 Je ziet wie er intern beschikbaar is om telefoontjes te behandelen en schakelt gesprekken door of zet een gesprek in de wacht. Door inkomende belletjes snel en adequaat door te verbinden ben je optimaal bereikbaar voor je klanten. Het geeft tegelijkertijd blijk van professionaliteit naar je klant toe.
 
-* **Terugbelverzoek**
+<li><b>Terugbelverzoek</li></b><br>
 Vanuit het systeem kun je snel een terugbelverzoek naar een beschikbare collega mailen.
 
-* **Tijdregistratie**
-De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.<br><br>
+<li><b>Tijdregistratie</li></b><br>
+De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.<br><br></ul>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1632388774/Janet_Kruiswijk-Medema_BBAW_zdr9fy.jpg" style="float:right" width="200px">
 _Door de CRM integratie met onze telefonie zien wij meteen wie er intern beschikbaar is om bellers te woord te staan. Het werkt snel en efficiënt en we zien direct alle gegevens plus wat er met wie al besproken is. Daarnaast vangen wij het gesprek aan met de naam van de beller. Klanten ervaren dit als prettig en persoonlijk. Onze jongens zien bovendien zonder rompslomp snel in het logboek wat ze moeten weten. Kortom, echt een aanwinst voor ons en iedereen is altijd en overal op de hoogte.  
 **Janet Kruiswijk-Medema - BBAW Bouwmanagement**_
