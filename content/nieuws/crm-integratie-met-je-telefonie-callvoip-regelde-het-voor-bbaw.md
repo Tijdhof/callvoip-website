@@ -50,8 +50,8 @@ Vanuit het systeem kun je snel een terugbelverzoek naar een beschikbare collega 
 
 * **Tijdregistratie**
 
-De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1632388774/Janet_Kruiswijk-Medema_BBAW_zdr9fy.jpg" style="float:right">
+De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.<br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632388774/Janet_Kruiswijk-Medema_BBAW_zdr9fy.jpg" style="float:right" width="200px">
 _Door de CRM integratie met onze telefonie zien wij meteen wie er intern beschikbaar is om bellers te woord te staan. Het werkt snel en efficiënt en we zien direct alle gegevens plus wat er met wie al besproken is. Daarnaast vangen wij het gesprek aan met de naam van de beller. Klanten ervaren dit als prettig en persoonlijk. Onze jongens zien bovendien zonder rompslomp snel in het logboek wat ze moeten weten. Kortom, echt een aanwinst voor ons en iedereen is altijd en overal op de hoogte.  
 **Janet Kruiswijk-Medema - BBAW Bouwmanagement**_
 
