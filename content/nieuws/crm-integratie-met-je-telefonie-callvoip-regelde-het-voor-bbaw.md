@@ -52,7 +52,7 @@ Wij hebben al onze koppelingen met een legio aan CRM-systemen gebundeld op een c
           <form class="mb-6" name="nieuwsformulier" action="/contact/verzonden" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="nieuwsformulier" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
-              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826"
                       class="hidden"> </p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
               <div class="layout-split">
