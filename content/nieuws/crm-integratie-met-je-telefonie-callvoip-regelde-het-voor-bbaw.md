@@ -26,7 +26,7 @@ type: ''
 
 **Kan ik mijn CRM-systeem koppelen aan mijn zakelijke telefooncentrale? En of dit kan! Door pijlsnelle innovatie tussen telecom en ICT-diensten werken bedrijven nu steeds efficiënter, klantvriendelijker en resultaatgerichter. Ieder telefoontje kan van belang zijn, daarom biedt slimme VoIP-CRM integratie bedrijven meer kans op zakelijk succes. Voorbeeld: Op je computer komt een belletje binnen en er verschijnt direct een ‘pop-up’ op je scherm. Alle gegevens van deze beller staan perfect opgesomd voor je neus. Callvoip regelde dit onlangs voor BBAW Bouwmanagement. Wat zijn volgens hun voordelen van de integratie tussen hun CRM-systeem Simplicate en onze VoIP-oplossing?**
 
-**Directe voordelen van CRM integratie met zakelijke telefonie voor BBAW**
+**Directe voordelen van CRM integratie met zakelijke telefonie voor BBAW**<br>
 Met wie en wanneer heeft deze persoon de laatste keer gebeld en wat is er besproken? Informatie welke jou net dat stukje voorsprong geeft op je beller, waardoor je telkens zorgt voor een persoonlijke klantbeleving. Callvoip integreerde onlangs haar slimme VoIP-oplossing met het efficiënte CRM-systeem Simplicate voor haar klant **BBAW Bouwmanagement in Norg**. De CRM-software van Simplicate zorgt er met hun slimme software voor dat organisaties weer grip krijgen op hun bedrijfsprocessen en alles weer soepel en overzichtelijk verloopt. Dit doen zij op op het gebied van; CRM/Sales/Projecten/Planning- en Urenregistratie. De integratie van hun te gekke software met onze zakelijke telefooncentrale biedt onze gezamenlijke klanten veel profijt. BBAW Bouwmanagement bespeurde vrijwel meteen de volgende voordelen;
 <ul>
 <li><b>Nummerweergave/klantherkenning</b><br>
