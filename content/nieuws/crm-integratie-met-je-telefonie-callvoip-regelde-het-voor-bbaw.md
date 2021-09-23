@@ -6,7 +6,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-image_uitgelicht: '/v1618230724/crmoverzicht_geuhmx.png'
+image_uitgelicht: '/v1618230724/simplicatelogo_gz71le.png'
 hero:
   image: ''
   mobile: ''
