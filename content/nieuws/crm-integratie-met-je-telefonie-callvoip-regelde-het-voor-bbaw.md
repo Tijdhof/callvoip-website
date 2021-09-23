@@ -21,7 +21,7 @@ tags: []
 type: ''
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1618230724/crmoverzicht_geuhmx.png">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1618230724/simplicatelogo_gz71le.png">
 
 **Kan ik mijn CRM-systeem koppelen aan mijn zakelijke telefooncentrale? En of dit kan! Door pijlsnelle innovatie tussen telecom en ICT-diensten werken bedrijven nu steeds efficiënter, klantvriendelijker en resultaatgerichter. Ieder telefoontje kan van belang zijn, daarom biedt slimme VoIP-CRM integratie bedrijven meer kans op zakelijk succes. Voorbeeld: Op je computer komt een belletje binnen en er verschijnt direct een ‘pop-up’ op je scherm. Alle gegevens van deze beller staan perfect opgesomd voor je neus. Callvoip regelde dit onlangs voor BBAW Bouwmanagement. Wat zijn volgens hun voordelen van de integratie tussen hun CRM-systeem Simplicate en onze VoIP-oplossing?**
 
