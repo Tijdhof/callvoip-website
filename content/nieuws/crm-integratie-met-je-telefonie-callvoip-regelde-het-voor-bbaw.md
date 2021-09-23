@@ -30,19 +30,19 @@ Met wie en wanneer heeft deze persoon de laatste keer gebeld en wat is er bespro
 <ul>
 <li><b>Nummerweergave/klantherkenning</li></b>
 Je kan door middel van nummerherkenning op je scherm direct zien met wie je in verbinding staat. Prettig voor zowel jezelf als de beller.
-<br>
+<br><br>
 <li><b>Relevante gegevens klant meteen paraat</li></b>
 Zodra je een klant aan de lijn krijgt verschijnen door middel van een ‘pop up’ alle relevante klantgegevens plus mogelijk zelf ingevoerde notities. Deze informatie geeft je direct een voorsprong op eventuele vragen van de beller.
-<br>
+<br><br>
 <li><b>Met één klik op het telefoonnummer in een klantomgeving bel je de klant</li></b>
 Uiterst efficiënt in plaats van het telkens opzoeken van benodigde telefoonnummers van klanten. Dit bespaart vanzelfsprekend veel tijd.
-<br>
+<br><br>
 <li><b>Doorschakelen</li></b>
 Je ziet wie er intern beschikbaar is om telefoontjes te behandelen en schakelt gesprekken door of zet een gesprek in de wacht. Door inkomende belletjes snel en adequaat door te verbinden ben je optimaal bereikbaar voor je klanten. Het geeft tegelijkertijd blijk van professionaliteit naar je klant toe.
-<br>
+<br><br>
 <li><b>Terugbelverzoek</li></b>
 Vanuit het systeem kun je snel een terugbelverzoek naar een beschikbare collega mailen.
-<br>
+<br><br>
 <li><b>Tijdregistratie</li></b>
 De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.<br><br></ul>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1632388774/Janet_Kruiswijk-Medema_BBAW_zdr9fy.jpg" style="float:right" width="200px">
