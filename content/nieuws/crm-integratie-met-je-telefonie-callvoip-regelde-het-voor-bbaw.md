@@ -6,14 +6,14 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-image_uitgelicht: '/v1618230724/simplicatelogo_gz71le.png'
+image_uitgelicht: "/v1618230724/simplicatelogo_gz71le.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2021-09-23 00:08:51 +0000
+date: 2021-09-23T12:08:51+00:00
 url: "/nieuws/crmintegratie-BBAW/"
 contactpersoon: []
 categories: []
