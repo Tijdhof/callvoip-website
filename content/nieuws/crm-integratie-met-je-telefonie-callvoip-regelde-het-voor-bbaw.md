@@ -1,7 +1,7 @@
 ---
 title: CRM integratie met Simplicate? Callvoip regelde het voor BBAW
 description: ''
-images: []
+images: '/v1618230724/simplicatelogo_gz71le.png'
 featured: false
 hideinsearch: false
 hideingoogle: false
