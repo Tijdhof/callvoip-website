@@ -20,6 +20,8 @@ categories: []
 tags: []
 
 ---
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1618230724/crmoverzicht_geuhmx.png">
+
 **Kan ik mijn CRM-systeem koppelen aan mijn zakelijke telefooncentrale? En of dit kan! Door pijlsnelle innovatie tussen telecom en ICT-diensten werken bedrijven nu steeds efficiënter, klantvriendelijker en resultaatgerichter. Ieder telefoontje kan van belang zijn, daarom biedt slimme VoIP-CRM integratie bedrijven meer kans op zakelijk succes. Voorbeeld; Op je computer komt een belletje binnen en er verschijnt direct een ‘pop-up’ op je scherm. Alle gegevens van deze beller staan perfect opgesomd voor je neus. Gegevens die je al eerder hebt ingevoerd natuurlijk. Callvoip regelde dit onlangs voor BBAW Bouwmanagement. Wat zijn volgens hun voordelen van de integratie tussen hun CRM-systeem Simplicate en onze VoIP-oplossing?**
 
 **Directe voordelen van CRM integratie met zakelijke telefonie voor BBAW**
@@ -49,12 +51,11 @@ Vanuit het systeem kun je snel een terugbelverzoek naar een beschikbare collega 
 * **Tijdregistratie**
 
 De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.
-
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632388774/Janet_Kruiswijk-Medema_BBAW_zdr9fy.jpg" style="float:right">
 _Door de CRM integratie met onze telefonie zien wij meteen wie er intern beschikbaar is om bellers te woord te staan. Het werkt snel en efficiënt en we zien direct alle gegevens plus wat er met wie al besproken is. Daarnaast vangen wij het gesprek aan met de naam van de beller. Klanten ervaren dit als prettig en persoonlijk. Onze jongens zien bovendien zonder rompslomp snel in het logboek wat ze moeten weten. Kortom, echt een aanwinst voor ons en iedereen is altijd en overal op de hoogte.  
 **Janet Kruiswijk-Medema - BBAW Bouwmanagement**_
 
-**  
-**Je ziet dat BBAW Bouwmanagement met deze geheugensteuntjes en talloze functionaliteiten enorm geholpen is, wat betreft het zo optimaal mogelijk behandelen van alle inkomende en uitgaande belletjes. Uiteraard zijn er nog veel meer specifieke voordelen op te noemen welke toegespitst zijn op de verschillen van desbetreffende CRM-VoIP integraties. De belangrijkste feiten om hier te benoemen zijn, dat het koppelen van je eigen CRM-systeem aan je telefooncentrale zorgt voor meer gestroomlijnde en efficiëntere werkprocessen plus verbeterde klantervaringen.
+Je ziet dat BBAW Bouwmanagement met deze geheugensteuntjes en talloze functionaliteiten enorm geholpen is, wat betreft het zo optimaal mogelijk behandelen van alle inkomende en uitgaande belletjes. Uiteraard zijn er nog veel meer specifieke voordelen op te noemen welke toegespitst zijn op de verschillen van desbetreffende CRM-VoIP integraties. De belangrijkste feiten om hier te benoemen zijn, dat het koppelen van je eigen CRM-systeem aan je telefooncentrale zorgt voor meer gestroomlijnde en efficiëntere werkprocessen plus verbeterde klantervaringen.
 
 **Ben je op zoek naar een specifieke CRM-VoIP integratie?**
 
