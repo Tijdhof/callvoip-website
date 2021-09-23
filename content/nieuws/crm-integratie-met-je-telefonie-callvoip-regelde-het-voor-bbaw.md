@@ -13,7 +13,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2021-09-23 14:08:51 +0000
+date: 2021-09-23 00:08:51 +0000
 url: "/nieuws/crmintegratie-BBAW/"
 contactpersoon: []
 categories: []
