@@ -34,23 +34,46 @@ Je kan door middel van nummerherkenning op je scherm direct zien met wie je in v
 <br>
 <li><b>Relevante gegevens klant meteen paraat</b><br>
 Zodra je een klant aan de lijn krijgt verschijnen door middel van een ‘pop up’ alle relevante klantgegevens plus mogelijk zelf ingevoerde notities. Deze informatie geeft je direct een voorsprong op eventuele vragen van de beller.</li>
-<br>
 <li><b>Met één klik op het telefoonnummer in een klantomgeving bel je de klant</b><br>
 Uiterst efficiënt in plaats van het telkens opzoeken van benodigde telefoonnummers van klanten. Dit bespaart vanzelfsprekend veel tijd.</li>
-<br>
 <li><b>Doorschakelen</b><br>
 Je ziet wie er intern beschikbaar is om telefoontjes te behandelen en schakelt gesprekken door of zet een gesprek in de wacht. Door inkomende belletjes snel en adequaat door te verbinden ben je optimaal bereikbaar voor je klanten. Het geeft tegelijkertijd blijk van professionaliteit naar je klant toe.</li>
-<br>
 <li><b>Terugbelverzoek</b><br>
 Vanuit het systeem kun je snel een terugbelverzoek naar een beschikbare collega mailen.</li>
-<br>
 <li><b>Tijdregistratie</b><br>
-De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.</li><br><br></ul>
+De tijd die je hebt besteed aan een klant kan genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.</li></ul>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1632388774/Janet_Kruiswijk-Medema_BBAW_zdr9fy.jpg" style="float:right" width="200px">
 _Door de CRM integratie met onze telefonie zien wij meteen wie er intern beschikbaar is om bellers te woord te staan. Het werkt snel en efficiënt en we zien direct alle gegevens plus wat er met wie al besproken is. Daarnaast vangen wij het gesprek aan met de naam van de beller. Klanten ervaren dit als prettig en persoonlijk. Onze jongens zien bovendien zonder rompslomp snel in het logboek wat ze moeten weten. Kortom, echt een aanwinst voor ons en iedereen is altijd en overal op de hoogte.  
 **Janet Kruiswijk-Medema - BBAW Bouwmanagement**_
-
+<br><br>
 Je ziet dat BBAW Bouwmanagement met deze geheugensteuntjes en talloze functionaliteiten enorm geholpen is, wat betreft het zo optimaal mogelijk behandelen van alle inkomende en uitgaande belletjes. Uiteraard zijn er nog veel meer specifieke voordelen op te noemen welke toegespitst zijn op de verschillen van desbetreffende CRM-VoIP integraties. De belangrijkste feiten om hier te benoemen zijn, dat het koppelen van je eigen CRM-systeem aan je telefooncentrale zorgt voor meer gestroomlijnde en efficiëntere werkprocessen plus verbeterde klantervaringen.
 
-**Benieuwd naar de mogelijkheden van CRM-VoIP integratie voor jouw bedrijf?  
-**Wij hebben al onze koppelingen met een legio aan CRM-systemen gebundeld op een centrale plek genaamd [Callvoip Marketplace](https://www.callvoip.nl/marketplace/). Staat jouw pakket er niet bij? Neem [contact](https://www.callvoip.nl/contact/) op voor de mogelijkheden.
+<b>Benieuwd naar de mogelijkheden van CRM-VoIP integratie voor jouw bedrijf?</b>  
+Wij hebben al onze koppelingen met een legio aan CRM-systemen gebundeld op een centrale plek genaamd [Callvoip Marketplace](https://www.callvoip.nl/marketplace/). Staat jouw pakket er niet bij? Neem [contact](https://www.callvoip.nl/contact/) op voor de mogelijkheden.
+<div>
+          <form class="mb-6" name="nieuwsformulier" action="/contact/verzonden" accept-charset="UTF-8" method="POST" data-netlify="true">
+              <input type="hidden" name="form-name" value="nieuwsformulier" />
+              <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
+                      class="hidden"> </p>
+              <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
+              <div class="layout-split">
+                  <div class="mb-4"> <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label> <input type="text"
+                          id="bedrijfsnaam" name="bedrijfsnaam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
+                  </div>
+                  <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
+                          type="email" id="email" name="email"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
+              </div>
+              <div class="layout-split">
+                  <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
+                          id="telefoonnummer" name="telefoonnummer"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+                  <div class="mb-4"> <label for="terugbelmoment" class="block">Wensen of vragen</label> <input type="text"
+                          id="wensenvragen" name="wensenvragen"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+              </div>
+              <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
+          </form>
+      </div>
+  </div>
