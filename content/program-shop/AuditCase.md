@@ -30,7 +30,8 @@ aliases: /program-shop/auditcase/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket AuditCase?**
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket AuditCase?<br>
+AuditCase van CaseWare is dé CRM- en DMS-oplossing die speciaal is ontwikkeld voor de wensen van de accountant.**
 
 **Samenvatting**<br>
 Met de Callvoip AuditCase telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en AuditCase. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in AuditCase staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
