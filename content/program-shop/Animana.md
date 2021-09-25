@@ -28,13 +28,32 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket IDEXX Animana voor Veterinairs / Dierenartsen?**
-
-Met de Callvoip IDEXX Animana telefonie-connector voor dierenartsen verschijnt er bij een inkomende en/of uitgaande oproep direct een pop-up in het beeldscherm van je computer met de klantinformatie vanuit IDEXX Animana en kun je direct de klantkaart openen. <br><br>
-De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen. Je kunt diverse knoppen aanmaken, zoals een terugbelverzoek of een kopieer functie en specifiek voor dit softwarepakket is het mogelijk een knop aan te maken om de klantkaart of de autokaart te openen. Bij doorverbonden gesprekken blijft het mogelijk om de klantgegevens te tonen (dus niet alleen de gegevens van je collega) en wanneer je met meerdere beeldschermen werkt, kun je zelf kiezen op welk scherm en positie je de pop-up wilt zien. Daarnaast is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer - dat kan handig zijn als de relatie terugbelt maar als je niet weet door welke collega hij of zij gebeld zou kunnen zijn. Standaard is de Callvoip popup-applicatie voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt.<br>
-Is er geen match van het telefoonnummer met een contact in IDEXX Animana? Dan kan Google kijken of het nummer in Google bekend is, en het nummer verrijken met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon. <br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket IDEXX Animana voor Veterinairs / Dierenartsen?<br>
+IDEXX Animana: Praktijk Management Systeem voor dierenklinieken, dierenartsen en de veterinaire sector.**<br>
 <br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf inhoud geven. Vanuit IDEXX Animana is het mogelijk om de data te exporteren naar CSV die je daarna kunt uploaden in Bubble. Hierdoor is het mogelijk om alle data die in de export staat weer te geven in de pop-up.<br>
+**Samenvatting**<br>
+Met de Callvoip IDEXX Animana telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en IDEXX Animana. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in IDEXX Animana staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+<br>
+**Inkomende gesprekken**<br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
+<div class="usp-list">
+<ul>
+<li>De knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
+<li>Ook bij het doorverbinden van gesprekken blijven de popup-gegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
+<li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
+<li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
+<li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
+<li>Geen match van het telefoonnummer met een contact in IDEXX Animana? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+</ul>
+</div>
+<br>
+**Uitgaande gesprekken**<br>
+Dankzij de connector kun je de nummers in IDEXX Animana aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+<br>
+**Details van de popup in combinatie met IDEXX Animana:**<br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
+Standaard is er de telefoonkoppeling van IDEXX die het nummer naar Animana stuurt en de bijbehorende klantekaart opent.<br>
+Als optie kan er een export worden gemaakt van één van de tabellen waarin het telefoonnummer staat en klantinformatie; deze informatie kan dan als velden in de popup worden opgenomen. <br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
 • Open de cliënt in IDEXX Animana <br>
@@ -43,6 +62,8 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 • Open website <br>
 • Kopieer een parameter (bv klantnummer of klantnaam). <br>
 <br>
-Het softwarepakket IDEXX Animana maakt bij oproepen gebruik van de CSV-data en opent de klantkaart middels een druk op de knop in de pop-up.<br>
+**Technische gegevens:**<br>
+Het softwarepakket IDEXX Animana wordt gekoppeld met telefonie van Callvoip op basis van de standaard telefoonkoppeling van IDEXX obv URL.<br>
+Daarnaast kan optioneel (aanvullend) informatie uit een CSV-export worden gebruikt om bv de popup met klantinformatie te verrijken.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
