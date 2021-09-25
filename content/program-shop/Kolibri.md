@@ -68,6 +68,6 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Door de integratiemethode met het softwarepakket Kolibri CRM wordt de functionaliteit van de Bubble pop-up uitgeschakeld omdat Kolibri CRM deze functie overneemt.<br>
-**Let op:** voor het gebruik van de Kolibri CRM koppeling geldt een éénmalig bedrag van 450,- ex BTW als licentiekosten voor activatie vanuit Kolibri CRM. <br>
+**Let op: voor het gebruik van de Kolibri CRM koppeling geldt een éénmalig bedrag van 450,- ex BTW als licentiekosten voor activatie vanuit Kolibri CRM.** <br>
 <br>
 <a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
