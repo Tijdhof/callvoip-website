@@ -38,8 +38,17 @@ ZoHo: 's werelds favoriete software voor customer relationship management**<br>
 Met de Callvoip ZoHo telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en ZoHo. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Outsmart staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit ZoHo en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen. Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega) en wanneer je met meerdere beeldschermen werkt, kun je zelf kiezen op welk scherm je de pop-up wilt zien. Daarnaast is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer - dat kan handig zijn als de relatie terugbelt maar als je niet weet door welke collega hij of zij gebeld zou kunnen zijn. Standaard is de Callvoip popup-applicatie voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. <br>
-Is er geen match van het telefoonnummer met een contact in ZoHo? Maak dan gebruik van de **automatische Google Number Lookup**: indien Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.<br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit ZoHo en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
+<div class="usp-list">
+<ul>
+<li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
+<li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
+<li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
+<li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
+<li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
+<li>Geen match van het telefoonnummer met een contact in ZoHo? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+</ul>
+</div>
 <br>
 **Bonus: automatische call logging**<br>
 Standaard is de ZoHo Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in ZoHo. Dankzij de geintegreerde Callregistratie wordt een inkomend gesprek geheel automatisch vastgelegd in het activiteitenlog van de betreffende ZoHo-relatie. Je ziet welke collega de call heeft gehad en de datum, tijd en duur van het gesprek. Zo beschik je zonder moeite en in één oogopslag over een call contactlog met de betreffende prospect of klant.Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
