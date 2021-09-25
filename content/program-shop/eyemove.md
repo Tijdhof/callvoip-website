@@ -30,10 +30,11 @@ aliases: /program-shop/eyemove/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Eyemove?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Eyemove?<br>
+EYE-move: het CRM-pakket voor makelaarskantoren.**<br>
+<br>
 **Samenvatting**<br>
-Met de Callvoip Eyemove telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Eyemove. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Eyemove staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
+Met de Callvoip EYE-move telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Eyemove. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Eyemove staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Eyemove en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
