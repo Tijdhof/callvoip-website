@@ -44,8 +44,17 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 &bull; Afsprakenkaart  van de patiënt <br>
 &bull; De patiënt opzoeken in de patiëntenlijst <br>
 <br>
-De popup heeft een aantal unieke eigenschappen. De te vertonen informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen. Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega) en wanneer je met meerdere beeldschermen werkt, kun je zelf kiezen op welk scherm je de pop-up wilt zien. Daarnaast is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer - dat kan handig zijn als de relatie terugbelt maar als je niet weet door welke collega hij of zij gebeld zou kunnen zijn. Standaard is de Callvoip popup-applicatie voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. <br>
-Is er geen match van het telefoonnummer met een contact in Bytegear? Maak dan gebruik van de **automatische Google Number Lookup**: indien Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.<br>
+De popup heeft een aantal unieke eigenschappen: <br>
+<div class="usp-list">
+<ul>
+<li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
+<li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
+<li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
+<li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
+<li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
+<li>Geen match van het telefoonnummer met een contact in Bytegear? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+</ul>
+</div>
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Bytegear aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
