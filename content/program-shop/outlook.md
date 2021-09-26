@@ -30,8 +30,8 @@ aliases: /program-shop/outlook/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Outlook?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Outlook?**<br>
+<br>
 **Samenvatting**<br>
 Met de Callvoip Outlook telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Outlook. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Outlook staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
@@ -53,13 +53,18 @@ Dankzij de connector kun je de nummers in Outlook aanklikken en automatisch bell
 <br>
 **Details van de popup in combinatie met Outlook:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Outlook, zoals: <br>
-• Telefoonnummer<br>
-• Naam<br>
+• Telefoonnummer(s)<br>
+• Naam contactpersoon<br>
+• Functie contactpersoon<br>
 • Bedrijfsnaam<br>
+• Adres <br>
+• Notities <br>
+• etc. <br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
-• Open klant in Outlook<br>
+• Open relatie in Outlook<br>
+• Maak niewue relatie in Outlook<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
@@ -69,4 +74,5 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Outlook CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+**Let op: deze koppeling dient nog gerealiseerd te worden en heeft een doorlooptijd van ongeveer 2 weken. **<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
