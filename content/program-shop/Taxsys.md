@@ -1,9 +1,9 @@
 ---
-shorttitle: "Taxsys Pro CRM"
-title: "Wij koppelen jouw CRM Taxsys Pro aan onze telefonie"
+shorttitle: "TaxSys Pro CRM"
+title: "Wij koppelen jouw CRM TaxSys Pro aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Taxsys_c82zcx.png"
-description: Door het koppelen van Taxsys Pro CRM aan onze slimme telefonie werk je een stuk efficienter.
+description: Door het koppelen van TaxSys Pro CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
