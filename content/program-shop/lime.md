@@ -28,7 +28,8 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Lime?**
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Lime?<br>
+Lime: veelzijdig CRM met focus op o.a. contacten, sales, projecten, urenregistratie en marketingactiviteiten - geschikt voor elke sector.**<br> 
 <br>
 **Samenvatting**<br>
 Met de Callvoip Lime telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Lime. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Lime staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
@@ -52,18 +53,18 @@ Dankzij de connector kun je de nummers in Lime aanklikken en automatisch bellen.
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Lime gebruiken, denk hierbij aan gegevens zoals: <br>
 • Telefoonnummer<br>
-• Naam van de relatie<br>
 • Relatie ID<br>
+• Naam van de relatie<br>
+• Adresgegevens van de relatie<br>
+• Status van de relatie (actief, inactief)<br>
+• Website<br>
 • Type relatie<br>
 • etc. <br>
 <br>
-<br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
-• Open klant in Lime<br>
-• Kopieer telefoonnummer<br>
-• Maak terugbelverzoek<br>
-• Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam). <br>
+• Open relatiekaart in Lime<br>
+• Open persoonskaart in Lime<br>
+• Open bedrijfskaart in Lime<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
