@@ -34,7 +34,7 @@ headerside:
 taxsys Pro: administratieve en logistieke totaalsoftware voor het personenvervoer -  bedoeld voor de middelgrote en grote taxibedrijven.**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip Taxsys Pro telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Taxsys Pro. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Taxsys Pro staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Taxsys Pro telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Taxsys Pro. Als er een inkomend gesprek is kun je vanuit hier direct een rit inplannen voor een klant. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Taxsys Pro staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Taxsys Pro en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
@@ -49,27 +49,22 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </ul>
 </div>
 <br>
+**Bonus: gespreks-popup in TaxSys Pro zelf**<br>
+Bij een inkomend gesprek verschijnt er een gesprekspopup in de TaxSys Pro applicatie zelf dankzij de ingebouwde telefoonkoppeling van TaxSys Pro. Je kunt gelijk een rit voor de klant inplannen en de klantenkaart wordt gelijk geopend. Omdat TaxSys Pro zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om  beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in TaxSys Pro staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in TaxSys Pro te openen. <br>
+<br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Outsmart aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in TaxSys Pro aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Taxsys Pro:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit Taxsys Pro gebruiken. <br>
+Je kunt dan de klantgegevens uit TaxSys Pro gebruiken. <br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
+En daarnaast kun je customized knoppen instellen zoals: <br>
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-<br>
-En daarnaast: customized knoppen zoals: <br>
-• Kopieer telefoonnummer<br>
-• Maak een terugbelverzoek<br>
-• Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam) <br>
-<br>
-**Technische gegevens:**<br>
-Het softwarepakket Taxsys Pro wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het softwarepakket TaxSys Pro wordt gekoppeld met telefonie van Callvoip op basis van de telefoonkoppeling in TasSys Pro zelf.<br>
 <a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
