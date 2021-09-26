@@ -30,8 +30,9 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en Stratech RCS Enterprise: CRM Reserveringssysteem voor de recreatiesector?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en Stratech RCS Enterprise?<br>
+Stratech RCS Enterprise: CRM Reserveringssysteem voor de recreatiesector**<br>
+<br>
 **Samenvatting** <br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Stratech-RCS-Red-Cactus-voip-telefonie-koppeling_bv0wo1.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Stratech RCS connector beschik je over een slimme koppeling tussen Callvoip en Stratech RCS. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Perfectview staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
@@ -47,9 +48,6 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Geen match van het telefoonnummer met een contact in Stratech? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
-<br>
-**Bonus: automatische call logging**<br>
-Standaard is de Stratech RCS Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Stratech RCS. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Stratech RCS aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><br>
@@ -83,5 +81,6 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Stratech-RCS Enterprise CRM wordt gekoppeld op basis van een API-koppeling. De licentie daarvoor dient geactiveerd te worden door Stratech-RCS Enterprise. Let op, binnen Stratech-RCS Enterprise dien je de telefoonintegratie te laten activeren waaraan kosten zijn verbonden.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+Het softwarepakket Stratech-RCS Enterprise CRM wordt gekoppeld op basis van een API-koppeling. <br>
+**Let op:** om de telefoonkoppeling te kunnen gebruiken dient de telefoonintegratie licentie te worden geactiveerd door Stratech-RCS Enterprise. Dit is een betaalde licentie.<br>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
