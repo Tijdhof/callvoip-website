@@ -1,5 +1,5 @@
 ---
-shorttitle: "Radar360"
+shorttitle: "Radar360 + auto call log"
 title: "Wij koppelen jouw CRM Radar360 aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/radar360_lml0hk.png"
@@ -31,8 +31,9 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Radar360 - CRM voor de Accountancy?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Radar360 CRM<br>
+Radar360: CRM voor de Accountancy?**<br>
+<br>
 **Samenvatting** <br>
 Met de Callvoip Radar360 connector beschik je over een slimme koppeling tussen Callvoip en Radar360. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Radar360 staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
@@ -48,9 +49,11 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Geen match van het telefoonnummer met een contact in Radar360? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
+**Bonus: gespreks-popup in Radar360 CRM zelf**<br>
+Bij een inkomend gesprek verschijnt er een gesprekspopup in de Radar360 CRM applicatie zelf dankzij de ingebouwde telefoonkoppeling van Radar360 CRMe. Deze popup omvat alle relevante klantinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Omdat Radar360 CRM zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om  beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Radar360 CRM staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in Radar360 CRM te openen. <br>
 <br>
 **Bonus: automatische call logging**<br>
-Standaard is de Radar360 Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Radar360. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
+Standaard is de Callvoip Radar360 CRM connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Radar360. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Radar360 aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><br>
@@ -64,5 +67,6 @@ Denk hierbij aan customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Let op, om deze koppeling te activeren dient de VoIP koppeling binnen Radar360 CRM ook geactiveerd te worden. Dit is een betaalde licentie.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+Het softwarepakket Radar360 wordt gekoppeld met telefonie van Callvoip op basis van de telefoonkoppeling van Radar360.<br>
+**Let op:** om deze koppeling te activeren dient ook de VoIP-functionaliteit binnen Radar360 CRM te worden geactiveerd; dit is een betaalde functionaliteit (licentie).<br>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
