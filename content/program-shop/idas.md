@@ -35,13 +35,14 @@ headerside:
 iDAS BeesdA2:  Dealer Management Systeem (iDAS), software en IT-dienstverlening voordealers van Volvo Cars Nederland**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip iDAS–BeesdA2 telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en iDAS–BeesdA2. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in iDAS–BeesdA2 staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip iDAS–BeesdA2 telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en iDAS–BeesdA2 CRM voor Volvodealers. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in het iDAS–BeesdA2 systeem staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit iDAS–BeesdA2 en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
+<li>Handig: knoppen om gelijk de klantkaart of autokaart te openen.</li>
 <li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
 <li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
