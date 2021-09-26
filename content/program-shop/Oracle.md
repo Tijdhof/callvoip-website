@@ -1,6 +1,6 @@
 ---
 title: "Wij koppelen jouw CRM Oracle aan onze telefonie"
-shorttitle: "Oracle"
+shorttitle: "Oracle Hospitality"
 date: 2021-06-03T16:52:17+05:00
 logo: "/oracle_axlpsr.png"
 description: Door het koppelen van Oracle CRM aan onze slimme telefonie werk je een stuk efficienter.
