@@ -1,5 +1,5 @@
 ---
-shorttitle: "RobinHQ + Callregistratie"
+shorttitle: "RobinHQ + auto call log"
 title: "Wij koppelen jouw CRM RobinHQ aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/robinHQ_iuz298.png"
@@ -28,8 +28,9 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket RobinHQ voor eCommerce Customer Service?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket RobinHQ?<br>
+Robin HQ: CRM software voor eCommerce Customer Service**<br>
+<br>
 **Samenvatting** <br>
 Met de Callvoip RobinHQ connector beschik je over een slimme koppeling tussen Callvoip en RobinHQ. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in RobinHQ staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
@@ -42,27 +43,21 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
 <li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
 <li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
-<li>Geen match van het telefoonnummer met een contact in PerfectView? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>Geen match van het telefoonnummer met een contact in RobinHQ? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
 <br>
+**Bonus: gespreks-popup in RobinHQ zelf**<br>
+Bij een inkomend gesprek verschijnt er een gesprekspopup in de RobinHQ applicatie zelf (Conversaiont Console) dankzij de ingebouwde telefoonkoppeling van RobinHQ. Deze popup omvat alle relevante klantinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Omdat RobinHQ zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om  beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in RobinHQ staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in RobinHQ te openen. <br>
+<br>
 **Bonus: automatische call logging**<br>
-Standaard is de RobinHQ Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in het RobinHQ Conversation Console. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
+Standaard is de RobinHQ Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in het RobinHQ Conversation Console. Je kunt gelijk de aanvullende gespreksinformatie in het klantlog intypen. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in RobinHQ aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><br>
-
-**Details van de popup in combinatie met RobinHQ:**<br>
-Door de connector wordt de klantenkaart gelijk en automatisch in het RobinHQ Conversation Console geopend, en kun je gelijk notities typen in het klantlog. Omdat de popup van RobinHQ zelf wordt geopend, is het een optie om de Bubble popup uit te schakelen; je kunt er ook voor kiezen deze aan te laten staan zodat je extra knoppen van de Bubble popup tot je beschikking hebt. En is het nummer niet bekend in RobinHQ dan wordt het nummer verrijkt door Google gegevens.
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek.<br>
-Denk hierbij aan customized knoppen zoals: <br>
-• Kopieer telefoonnummer<br>
-• Maak een terugbelverzoek<br>
-• Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam) <br>
+Dankzij de connector kun je de nummers in RobinHQ aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
+**Details van de popup in combinatie met RobinHQ:**<br>
+De popup binnen RibnHQ speelt de hoofdrol, de popup van de koppeling voegt daar bv de Google verrijking van nummers die NIET in RobinHQ staan, aan toe, en een viertal handige toetsen. Denk bv aan deze customized knoppen: <br>
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
