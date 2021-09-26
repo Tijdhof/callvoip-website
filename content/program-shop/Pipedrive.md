@@ -1,5 +1,5 @@
 ---
-shorttitle: "Pipedrive + Callregistratie"
+shorttitle: "Pipedrive + auto call log"
 title: "Wij koppelen jouw CRM Pipedrive aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/pipedrive_uglmjt.png"
