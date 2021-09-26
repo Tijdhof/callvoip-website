@@ -75,5 +75,5 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Eyemove CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het softwarepakket Eyemove CRM wordt gekoppeld met telefonie van Callvoip op basis van een URL-opdracht naar de EYE-move ingebouwde telefoonconnector.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
