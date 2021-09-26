@@ -31,13 +31,14 @@ aliases: /program-shop/oracle/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Oracle?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Oracle® Hospitality Suite8?<br>
+Oracle Hospitality Suite8 software voor alle hotelprocessen: reservering, housekeeping, restaurant, sales, marketing, en volle focus op de gast!**<br>
+<br>
 **Samenvatting**<br>
-Met de Callvoip Oracle telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Oracle. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Oracle staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
+Met de Callvoip Oracle telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Oracle® Hospitality Suite8 CRM. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Oracle® Hospitality Suite8 CRM staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Oracle en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Oracle® Hospitality Suite8 CRM. Helaas is het met één klik openen van de klantkaart geen optie (niet ondrsteund door Oracle) maar door het klantnummer te kopieren kun je wel snel een klant vinden in Oracle. De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
@@ -45,22 +46,22 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
 <li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
 <li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
-<li>Geen match van het telefoonnummer met een contact in Oracle? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>Geen match van het telefoonnummer met een contact in Oracle® Hospitality Suite8 CRM? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Oracle aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in Oracle® Hospitality Suite8 CRM aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
-**Details van de popup in combinatie met Oracle:**<br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Oracle, zoals: <br>
+**Details van de popup in combinatie met Oracle® Hospitality Suite8 CRM:**<br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Oracle® Hospitality Suite8 CRM, zoals: <br>
 • Telefoonnummer<br>
 • Naam<br>
 • Bedrijfsnaam<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
-• Open klant in Oracle<br>
+• Open klant in Oracle® Hospitality Suite8 CRM<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
@@ -69,5 +70,7 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Oracle CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het softwarepakket Oracle® Hospitality Suite8 CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+**Let op: deze koppeling dient nog gerealiseerd te worden en heeft een doorlooptijd van ongeveer 2 weken, kosten 495,-.**<br>
+**Let op: aan de Oracle® Hospitality Suite8 CRM zijde is ook een betaalde licentie vereist, namelijk de Basic XML licentie.**<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
