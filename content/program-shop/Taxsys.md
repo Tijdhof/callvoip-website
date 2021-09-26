@@ -9,7 +9,7 @@ meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
-  - title: Via API
+  - title: Via URL
 button:
   title: Naar Marketplace
   link: /marketplace/
