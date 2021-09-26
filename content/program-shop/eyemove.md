@@ -59,12 +59,8 @@ Standaard is de Callvoip EYE-move connector voorzien van de functie om automatis
 Dankzij de connector kun je de nummers in Eyemove aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Eyemove:**<br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Eyemove, zoals: <br>
-• Telefoonnummer<br>
-• Naam<br>
-• Bedrijfsnaam<br>
-<br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. EYE-move toont zelf gelijk een eigen popup met alle relevante klantinformatie. <br>
+Daarnaast kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
 • Open klant in Eyemove<br>
 <br>
