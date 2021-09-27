@@ -100,3 +100,5 @@ Herhaal deze actie en kies **Unmute app** om **Mute** weer uit te schakelen.
 Nog niet voldoende Bubbles gehad? Hier dan nog een kleine presentatie:
 
 [https://www.callvoip.nl/ondersteuning/integraties/bubble](https://www.callvoip.nl/ondersteuning/integraties/bubble "https://www.callvoip.nl/ondersteuning/integraties/bubble")
+
+<a href="https://files.callvoip.nl/downloads/Callvoip_VoIP-CTI-Bubble_handleiding-en-naslagwerk.pdf" class="button">Download deze handleiding als PDF</a>
