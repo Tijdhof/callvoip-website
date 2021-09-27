@@ -62,18 +62,18 @@ Verbind je een gesprek door? De Bubble gaat mee naar je collega, dus ook hij / z
 
 Hieronder vindt je een aantal opties en instellingsmogelijkheden die het gebruiksgemak van Bubble verder kunnen vergroten en aanpassen aan jouw persoonlijke wensen. 
 
-<b>* Bubble software openen:</b>
+<b>* Bubble software openen:</b><br>
 Je kunt de Bubble software op je computer openen via de programma’s of door met de rechterknop op het rode Bubble icoontje in de taakbalk te klikken en dan optie **show** te kiezen. 
 
-<b>* Notifications > Pop-up settings:</b>
+<b>* Notifications > Pop-up settings:</b><br>
 Hier kun je diverse instellingen doen, zoals de Bubble aan/uitzetten, bepalen of je Bubble popups wenst voor inkomende en/of uitgaande gesprekken, in welk scherm en in welke schermhoek je de popup ziet en hoe snel deze na begin van het gesprek verdwijnt.
 
-<b>* Notifications > Notification content:</b>
+<b>* Notifications > Notification content:</b><br>
 Hier kun je instellen hoe de popup is opgemaakt. Klik op **legend** voor alle parameters die je hierbij kunt gebruiken. Gebruik button **show example** om een voorbeeld op te roepen.
 
 Voorbeeld:  
 
-<b>* Notifications > Action buttons:</b>
+<b>* Notifications > Action buttons:</b><br>
 hier staan jouw 4 knoppen gedefinieerd.  
 Dit kun je gemakkelijk aanpassen naar handige functies.  
 Hieronder een aantal voorbeelden van veelgebruikte buttons:
