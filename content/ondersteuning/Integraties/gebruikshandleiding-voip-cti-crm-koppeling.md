@@ -90,15 +90,19 @@ Button voor email-terugbelverzoek met nummer + naam van de beller:
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1632751109/bubble5_otmgsq.png">
 
 Button om een nummer te kopieren:  
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751108/bubble6_vzte5p.png">
 
 Button om een CRM te openen met een opdracht waar je vaak ook velden kunt toevoegen voor bv het nummer of een veld uit je database:  
 Bv: https://dierenarts.animana.com/search?phoneNumber=
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751110/bubble7_p2hvrq.png">
 
 \* **Laatste 10 gesprekken opvragen**:<br> klik rechts op het rode Bubble icoon in de taakbalk en kies in het menu **show last call** > daar vind je de laatste 10 gesprekken, de onderste is de meest recente.  
-Klik op een gesprek zodat je de bijbehorende bubble opnieuw oproept. De knoppen werken dan ook dus je kunt die klant dan ook weer in je CRM oproepen.  
+Klik op een gesprek zodat je de bijbehorende bubble opnieuw oproept. De knoppen werken dan ook dus je kunt die klant dan ook weer in je CRM oproepen.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751108/bubble8_ctkw65.png">
 
 \* **Bubble op MUTE zetten, tijdelijk geen popups**:<br> als je in het bovenstaande taakbalk-bubble-menu de optie **Mute App**kiest, dan krijg je tijdelijk géén popups.  
-Het icoontje ziet er dan zo uit:  
+Het icoontje ziet er dan zo uit:
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751108/bubble9_yy5asr.png">
 
 Herhaal deze actie en kies **Unmute app** om **Mute** weer uit te schakelen.
 
