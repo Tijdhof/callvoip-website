@@ -87,12 +87,12 @@ Button voor email-terugbelverzoek met nummer + naam van de beller:
 Button om een nummer te kopieren:  
 
 Button om een CRM te openen met een opdracht waar je vaak ook velden kunt toevoegen voor bv het nummer of een veld uit je database:  
-Bv: [https://dierenarts.animana.com/search?phoneNumber=]
+Bv: https://dierenarts.animana.com/search?phoneNumber=
 
-\* **Laatste 10 gesprekken opvragen**: klik rechts op het rode Bubble icoon in de taakbalk en kies in het menu **show last call** > daar vind je de laatste 10 gesprekken, de onderste is de meest recente.  
+\* **Laatste 10 gesprekken opvragen**:<br> klik rechts op het rode Bubble icoon in de taakbalk en kies in het menu **show last call** > daar vind je de laatste 10 gesprekken, de onderste is de meest recente.  
 Klik op een gesprek zodat je de bijbehorende bubble opnieuw oproept. De knoppen werken dan ook dus je kunt die klant dan ook weer in je CRM oproepen.  
 
-\* **Bubble op MUTE zetten, tijdelijk geen popups**: als je in het bovenstaande taakbalk-bubble-menu de optie **Mute App**kiest, dan krijg je tijdelijk géén popups.  
+\* **Bubble op MUTE zetten, tijdelijk geen popups**:<br> als je in het bovenstaande taakbalk-bubble-menu de optie **Mute App**kiest, dan krijg je tijdelijk géén popups.  
 Het icoontje ziet er dan zo uit:  
 
 Herhaal deze actie en kies **Unmute app** om **Mute** weer uit te schakelen.
