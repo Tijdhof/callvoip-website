@@ -67,22 +67,27 @@ Je kunt de Bubble software op je computer openen via de programma’s of door me
 
 <b>* Notifications > Pop-up settings:</b><br>
 Hier kun je diverse instellingen doen, zoals de Bubble aan/uitzetten, bepalen of je Bubble popups wenst voor inkomende en/of uitgaande gesprekken, in welk scherm en in welke schermhoek je de popup ziet en hoe snel deze na begin van het gesprek verdwijnt.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751108/bubble1_knpahp.png">
 
 <b>* Notifications > Notification content:</b><br>
 Hier kun je instellen hoe de popup is opgemaakt. Klik op **legend** voor alle parameters die je hierbij kunt gebruiken. Gebruik button **show example** om een voorbeeld op te roepen.
 
 Voorbeeld:  
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751108/bubble2_mqthwk.png">
 
 <b>* Notifications > Action buttons:</b><br>
 hier staan jouw 4 knoppen gedefinieerd.  
 Dit kun je gemakkelijk aanpassen naar handige functies.  
 Hieronder een aantal voorbeelden van veelgebruikte buttons:
 
-Button om de klant in het geactiveerde CRM te openen:  
+Button om de klant in het geactiveerde CRM te openen:
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751108/bubble3_xj1j5w.png">
 
-Button om een Google website adres te openen:  
+Button om een Google website adres te openen:
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751108/bubble4_qth6mt.png">
 
 Button voor email-terugbelverzoek met nummer + naam van de beller:  
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632751109/bubble5_otmgsq.png">
 
 Button om een nummer te kopieren:  
 
