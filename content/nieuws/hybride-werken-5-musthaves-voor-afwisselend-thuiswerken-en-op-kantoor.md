@@ -31,7 +31,7 @@ De veelgehoorde term hybride werken staat voor het feit dat we niet meer als sta
 <u>1. Maak je mobiel multifunctioneel</u>
 
 Raar advies: er zijn toch weinig apparaten meer multifunctioneel dan de smartphone? Dat klopt natuurlijk, maar wist je dat je jouw smartphone bij het thuiswerken ook anders kunt gebruiken dan met je eigen 06 bellen (en onhandig met de baas belkosten moeten verrekenen) en appjes sturen naar collega’s (die dan verzanden tussen je vriendengroepen)?
-<br><br><img src="https://res.cloudinary.com/callvoip/image/upload/v1632833567/swiss_qaller_qip9z7.png" style="float:right; margin-left:10px;" width="250px">
+<br><br><img src="https://res.cloudinary.com/callvoip/image/upload/v1632833567/swiss_qaller_qip9z7.png" style="float:right; margin-left:10px;" width="290px">
 Bel bijvoorbeeld gewoon met het vaste nummer van de zaak vanuit huis door een [simpele app](https://www.callvoip.nl/telefonie/qaller/) te installeren. En open, naast je privé Whatsapp ook een [Business account](https://www.callvoip.nl/whatsapp-business-blog/), eventueel zelfs met je vaste, zakelijke telefoonnummer. Zo houd je gemakkelijk de boel gescheiden én locatieonafhankelijk.
 
 Over apps gesproken: met onze app kun je ook heel **eenvoudig telefoon doorschakelingen** van jouw zakelijke nummer beheren. Met een tik op je scherm leid je alle bellers naar jouw vaste nummer naar de belroute die jij wilt, overal waar je bent. Dat kan dus een doorschakeling intern, bv naar de receptie of jouw team zijn, of naar een mobiel gsm nummer.
