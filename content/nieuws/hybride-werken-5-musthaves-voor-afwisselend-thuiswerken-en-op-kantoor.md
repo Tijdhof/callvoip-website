@@ -13,11 +13,12 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2021-09-27T22:00:00+00:00
 url: "/nieuws/hybridewerken/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1632832733/banner-hybridewerken_eycjac.png)
