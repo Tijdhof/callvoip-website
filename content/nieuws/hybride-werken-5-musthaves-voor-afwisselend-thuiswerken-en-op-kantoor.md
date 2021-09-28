@@ -31,7 +31,7 @@ De veelgehoorde term hybride werken staat voor het feit dat we niet meer als sta
 <u>1. Maak je mobiel multifunctioneel</u>
 
 Raar advies: er zijn toch weinig apparaten meer multifunctioneel dan de smartphone? Dat klopt natuurlijk, maar wist je dat je jouw smartphone bij het thuiswerken ook anders kunt gebruiken dan met je eigen 06 bellen (en onhandig met de baas belkosten moeten verrekenen) en appjes sturen naar collega’s (die dan verzanden tussen je vriendengroepen)?
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1632833567/swiss_qaller_qip9z7.png" style="float:right; margin-left:10px;">
+<br><br><img src="https://res.cloudinary.com/callvoip/image/upload/v1632833567/swiss_qaller_qip9z7.png" style="float:right; margin-left:10px;" width="250px">
 Bel bijvoorbeeld gewoon met het vaste nummer van de zaak vanuit huis door een [simpele app](https://www.callvoip.nl/telefonie/qaller/) te installeren. En open, naast je privé Whatsapp ook een [Business account](https://www.callvoip.nl/whatsapp-business-blog/), eventueel zelfs met je vaste, zakelijke telefoonnummer. Zo houd je gemakkelijk de boel gescheiden én locatieonafhankelijk.
 
 Over apps gesproken: met onze app kun je ook heel **eenvoudig telefoon doorschakelingen** van jouw zakelijke nummer beheren. Met een tik op je scherm leid je alle bellers naar jouw vaste nummer naar de belroute die jij wilt, overal waar je bent. Dat kan dus een doorschakeling intern, bv naar de receptie of jouw team zijn, of naar een mobiel gsm nummer.
@@ -40,7 +40,7 @@ Over apps gesproken: met onze app kun je ook heel **eenvoudig telefoon doorschak
 
 Niet alleen op je mobiel kun je met een paar slim gekozen apps jezelf klaarmaken voor hybride werken. Ook voor organisaties als geheel is het van groot belang na te denken over welke tools je nodig hebt om de wisselende werkplekken van iedereen te faciliteren. De rol van een goede **teamchat** wordt belangrijker, maar ook een gezamenlijk **dashboard** van de werkzaamheden. Natuurlijk ook een goed platform voor video overleggen en telefonisch verkeer. Allemaal zaken die je wellicht al had maar doordat teamleden niet vanzelfsprekend meer op dezelfde plek zitten, is het belang van overal toegankelijke systemen en communicatiekanalen groter.
 
-Bij Callvoip gebruiken we voor een groot deel van de genoemde systeem de Google oplossingen. Google Chat en Google Meet zijn overal toegankelijk met 1 account en bedrijfszeker. Voor de dashboards van de werkzaamheden gebruiken we Trello, een gemakkelijke en overzichtelijke tool waarmee taken en verantwoordelijkheden voor iedereen in het team duidelijk zijn. En voor telefonie gebruiken we uiteraard ons eigen onvolprezen systeem: via app, SIM, web of vast toestel overal flexibel inzetbaar.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632833967/chat_w5v5e0.png" style="float:left">Bij Callvoip gebruiken we voor een groot deel van de genoemde systeem de Google oplossingen. Google Chat en Google Meet zijn overal toegankelijk met 1 account en bedrijfszeker. Voor de dashboards van de werkzaamheden gebruiken we Trello, een gemakkelijke en overzichtelijke tool waarmee taken en verantwoordelijkheden voor iedereen in het team duidelijk zijn. En voor telefonie gebruiken we uiteraard ons eigen onvolprezen systeem: via app, SIM, web of vast toestel overal flexibel inzetbaar.
 
 <u>3. Fijne werkplek thuis</u>
 
