@@ -31,7 +31,7 @@ De veelgehoorde term hybride werken staat voor het feit dat we niet meer als sta
 <u>1. Maak je mobiel multifunctioneel</u>
 
 Raar advies: er zijn toch weinig apparaten meer multifunctioneel dan de smartphone? Dat klopt natuurlijk, maar wist je dat je jouw smartphone bij het thuiswerken ook anders kunt gebruiken dan met je eigen 06 bellen (en onhandig met de baas belkosten moeten verrekenen) en appjes sturen naar collega’s (die dan verzanden tussen je vriendengroepen)?
-
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1632833567/swiss_qaller_qip9z7.png" style="float:right; margin-left:10px;">
 Bel bijvoorbeeld gewoon met het vaste nummer van de zaak vanuit huis door een [simpele app](https://www.callvoip.nl/telefonie/qaller/) te installeren. En open, naast je privé Whatsapp ook een [Business account](https://www.callvoip.nl/whatsapp-business-blog/), eventueel zelfs met je vaste, zakelijke telefoonnummer. Zo houd je gemakkelijk de boel gescheiden én locatieonafhankelijk.
 
 Over apps gesproken: met onze app kun je ook heel **eenvoudig telefoon doorschakelingen** van jouw zakelijke nummer beheren. Met een tik op je scherm leid je alle bellers naar jouw vaste nummer naar de belroute die jij wilt, overal waar je bent. Dat kan dus een doorschakeling intern, bv naar de receptie of jouw team zijn, of naar een mobiel gsm nummer.
@@ -42,7 +42,7 @@ Niet alleen op je mobiel kun je met een paar slim gekozen apps jezelf klaarmaken
 
 Bij Callvoip gebruiken we voor een groot deel van de genoemde systeem de Google oplossingen. Google Chat en Google Meet zijn overal toegankelijk met 1 account en bedrijfszeker. Voor de dashboards van de werkzaamheden gebruiken we Trello, een gemakkelijke en overzichtelijke tool waarmee taken en verantwoordelijkheden voor iedereen in het team duidelijk zijn. En voor telefonie gebruiken we uiteraard ons eigen onvolprezen systeem: via app, SIM, web of vast toestel overal flexibel inzetbaar.
 
-3. Fijne werkplek thuis
+<u>3. Fijne werkplek thuis</u>
 
 “Werk thuis tenzij het echt niet anders kan” was lange tijd het advies van de overheid in de coronacrisis. Vooral in het begin lazen we veel over mensen met schouder-, pols- of rugklachten omdat ze op houten stoeltjes aan de keukentafel zaten met hun laptop. Mits je de ruimte hebt natuurlijk relatief eenvoudig oplosbaar met een goede stoel, bureau en een los scherm, toetsenbord/muis.
 
@@ -52,7 +52,7 @@ Op elke werkplek een telefoontoestel neerzetten is niet handig en duur. Maar all
 
 Wij hebben verstand van zowel headsets als camera’s. Om over Webcalls maar te zwijgen ;-) Daarom adviseren wij je graag hoe je jouw (thuis-)werkplek verder kunt verbeteren. Of neem eens een kijkje in [onze webshop](https://callvoip.shop/).
 
-4. Een veilig, snel en betrouwbaar netwerk
+<u>4. Een veilig, snel en betrouwbaar netwerk</u>
 
 Natuurlijk heb je jouw ICT op orde op de werkplek. Betrouwbare apparatuur en een goede, **beveiligde verbinding** om de[ toenemende cybercriminaliteit](https://www.callvoip.nl/blog-veiligheid/) tegen te gaan. Maar hoe zit dat eigenlijk bij al je medewerkers thuis?
 
@@ -60,7 +60,7 @@ Nooit eerder had een organisatie zoveel ‘voordeuren’ waar cybercriminelen ku
 
 Denk dus mee met je thuiswerkers. Bied beveiligde **VPN verbindingen**, wellicht zelfs een goede thuisrouter van de zaak. Wij zijn zelf fan van [FRITZ! apparatuur](http://fritzshop.nl/) in deze context. Uiterst betrouwbaar, snel en veilig. We denken graag mee.
 
-5. Verbinding met collega’s
+<u>5. Verbinding met collega’s</u>
 
 Niet fysiek meerdere dagen per week bij elkaar zitten in een kantoorsetting stelt je voor de uitdaging om de **cohesie** in je team te borgen. Hoe zorgen we ervoor dat jouw zorgvuldig opgebouwde organisatie en haar bijbehorende cultuur niet verwordt tot een aantal zolderkamertjes met **geïsoleerde thuiswerkers** die alleen nog maar chatten en videobellen?
 
