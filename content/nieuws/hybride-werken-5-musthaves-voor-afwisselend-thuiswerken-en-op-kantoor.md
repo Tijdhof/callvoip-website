@@ -50,7 +50,7 @@ Maar naarmate het langer gaat duren, merken wij bij Callvoip toch extra behoefte
 
 Op elke werkplek een telefoontoestel neerzetten is niet handig en duur. Maar alles met je mobiel is misschien ook niet handig. Daar komt onze [Webcalls ](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)weer om te hoek kijken. Zeker in combinatie met een goede headset bel je overal alsof je op kantoor zit.
 
-Wij hebben verstand van zowel headsets als camera’s. Om over Webcalls maar te zwijgen ;-) Daarom adviseren wij je graag hoe je jouw (thuis-)werkplek verder kunt verbeteren. Of neem eens een kijkje in [onze webshop](https://callvoip.shop/).
+Wij hebben verstand van zowel headsets als camera’s. Om over Webcalls maar te zwijgen ;-) Daarom adviseren wij je graag hoe je jouw (thuis-)werkplek verder kunt verbeteren. Of neem eens een kijkje in <a href="https://callvoip.shop/" target="_blank">onze webshop</a>.
 
 <u>4. Een veilig, snel en betrouwbaar netwerk</u>
 
@@ -58,7 +58,7 @@ Natuurlijk heb je jouw ICT op orde op de werkplek. Betrouwbare apparatuur en een
 
 Nooit eerder had een organisatie zoveel ‘voordeuren’ waar cybercriminelen kunnen aankloppen. Want alle bedrijfssystemen zijn nu ook via een ‘simpele’ consumentenrouter verbonden met internet in plaats van jouw superdeluxe beveiligde bedrijfsnetwerk.
 
-Denk dus mee met je thuiswerkers. Bied beveiligde **VPN verbindingen**, wellicht zelfs een goede thuisrouter van de zaak. Wij zijn zelf fan van [FRITZ! apparatuur](http://fritzshop.nl/) in deze context. Uiterst betrouwbaar, snel en veilig. We denken graag mee.
+Denk dus mee met je thuiswerkers. Bied beveiligde **VPN verbindingen**, wellicht zelfs een goede thuisrouter van de zaak. Wij zijn zelf fan van <a href="https://fritzshop.nl/" target="_blank">FRITZ! apparatuur</a> in deze context. Uiterst betrouwbaar, snel en veilig. We denken graag mee.
 
 <u>5. Verbinding met collega’s</u>
 
@@ -68,4 +68,4 @@ Callvoipers **bellen** elkaar geregeld even. Dat is, dankzij onze app en webcall
 <br><br>
 Hybride werken vraagt dus de nodige aanpassingen waar gelukkig een lange aanloopperiode van thuiswerken aan voorafging. Wij vinden het als specialist interessant om ook met jou mee te denken over zowel de telefonie als de inrichting eromheen waar we ook een rol in kunnen spelen.
 
-Zoek dus vooral contact als je vragen of opmerkingen hebt over hoe jullie het beste hybride kunnen werken.
+Zoek dus vooral <a href="/contact/">contact</a> als je vragen of opmerkingen hebt over hoe jullie het beste hybride kunnen werken.
