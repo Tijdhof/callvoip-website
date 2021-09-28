@@ -28,7 +28,7 @@ Na de gedwongen gang van de kantoortuinen en vergaderzalen naar de achtertuinen 
 
 De veelgehoorde term hybride werken staat voor het feit dat we niet meer als standaard al onze werkdagen op de werkplek slijten, maar een meer afwisselend thuis en op kantoor verdeling gaan aanhouden. Wij helpen veel van onze klanten met deze overgang want het vraagt om op maat oplossingen van een **echte specialist** om jouw bedrijf optimaal in te richten voor het hybride werken. Bovendien werken we zelf als organisatie ook geheel volgens de laatste mode hybride en kunnen dus onze eigen ervaringen meenemen in goed advies. Daarom maakten we een **top 5 van tips om veilig, efficiënt en comfortabel hybride te werken.**
 
-1. Maak je mobiel multifunctioneel
+<u>1. Maak je mobiel multifunctioneel</u>
 
 Raar advies: er zijn toch weinig apparaten meer multifunctioneel dan de smartphone? Dat klopt natuurlijk, maar wist je dat je jouw smartphone bij het thuiswerken ook anders kunt gebruiken dan met je eigen 06 bellen (en onhandig met de baas belkosten moeten verrekenen) en appjes sturen naar collega’s (die dan verzanden tussen je vriendengroepen)?
 
@@ -36,7 +36,7 @@ Bel bijvoorbeeld gewoon met het vaste nummer van de zaak vanuit huis door een [s
 
 Over apps gesproken: met onze app kun je ook heel **eenvoudig telefoon doorschakelingen** van jouw zakelijke nummer beheren. Met een tik op je scherm leid je alle bellers naar jouw vaste nummer naar de belroute die jij wilt, overal waar je bent. Dat kan dus een doorschakeling intern, bv naar de receptie of jouw team zijn, of naar een mobiel gsm nummer.
 
-2. Goede communicatietools:
+<u>2. Goede communicatietools:</u>
 
 Niet alleen op je mobiel kun je met een paar slim gekozen apps jezelf klaarmaken voor hybride werken. Ook voor organisaties als geheel is het van groot belang na te denken over welke tools je nodig hebt om de wisselende werkplekken van iedereen te faciliteren. De rol van een goede **teamchat** wordt belangrijker, maar ook een gezamenlijk **dashboard** van de werkzaamheden. Natuurlijk ook een goed platform voor video overleggen en telefonisch verkeer. Allemaal zaken die je wellicht al had maar doordat teamleden niet vanzelfsprekend meer op dezelfde plek zitten, is het belang van overal toegankelijke systemen en communicatiekanalen groter.
 
@@ -65,7 +65,7 @@ Denk dus mee met je thuiswerkers. Bied beveiligde **VPN verbindingen**, wellicht
 Niet fysiek meerdere dagen per week bij elkaar zitten in een kantoorsetting stelt je voor de uitdaging om de **cohesie** in je team te borgen. Hoe zorgen we ervoor dat jouw zorgvuldig opgebouwde organisatie en haar bijbehorende cultuur niet verwordt tot een aantal zolderkamertjes met **geïsoleerde thuiswerkers** die alleen nog maar chatten en videobellen?
 
 Callvoipers **bellen** elkaar geregeld even. Dat is, dankzij onze app en webcalls, intern belverkeer bij ons, dus **gratis** :-). Maar wij zijn dan ook dol op bellen natuurlijk. Ook de eerder genoemde teamchat draagt bij aan het behouden van een eenheid. Denk ook eens aan een periodieke **interne nieuwsbrief** met niet alleen bedrijfsgerelateerde onderwerpen maar ook een inkijkje in waar iedereen verder mee bezig is. Wat normaal bij de koffieautomaat besproken wordt.
-
+<br><br>
 Hybride werken vraagt dus de nodige aanpassingen waar gelukkig een lange aanloopperiode van thuiswerken aan voorafging. Wij vinden het als specialist interessant om ook met jou mee te denken over zowel de telefonie als de inrichting eromheen waar we ook een rol in kunnen spelen.
 
 Zoek dus vooral contact als je vragen of opmerkingen hebt over hoe jullie het beste hybride kunnen werken.
