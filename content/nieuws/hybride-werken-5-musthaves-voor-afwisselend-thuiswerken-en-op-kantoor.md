@@ -2,7 +2,7 @@
 title: 'Hybride werken: 5 musthaves voor afwisselend thuiswerken en op kantoor'
 description: ''
 images:
-- "/v1632832733/banner-hybridewerken_eycjac.png"
+- "/v1632998449/thuiswerker_kf0bkt.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
