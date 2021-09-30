@@ -1,6 +1,7 @@
 ---
 title: "Test page"
 date: 2021-09-28T21:05:12+05:00
+url: /landing-test/
 hero:
   title: Bellen op elke PC of Mac?
   info: "Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
