@@ -1,6 +1,9 @@
 ---
-title: "Type1"
+title: "Test Landing"
 date: 2021-09-28T21:05:12+05:00
+url: /landing-test/
+hideinsearch: true
+hideingoogle: true
 hero:
   title: Bellen op elke PC of Mac?
   info: "Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
@@ -11,7 +14,7 @@ waroom:
   title: Waarom Callvoip?
   info: "Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:"
   btn:
-    url:
+    url: /webcalls/
     title: Dit wil ik!
   cards:
     - name: Integreer je CRM
@@ -39,7 +42,7 @@ anderen:
       title: Hartan Nederland
 
 btn:
-  url:
+  url: /webcalls/
   title: Vertel me meer over Callvoip en Webcalls
   
 ---
