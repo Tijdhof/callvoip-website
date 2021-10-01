@@ -1,13 +1,18 @@
 ---
-title: "Test page"
+title: "Type1"
 date: 2021-09-28T21:05:12+05:00
-url: /landing-test/
 hero:
   title: Bellen op elke PC of Mac?
   info: "Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
+  form:
+    title: Vertel me meer!
+    desc: Nieuwsgierig naar Webcalls en onze andere functionaliteiten?
 waroom:
   title: Waarom Callvoip?
   info: "Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:"
+  btn:
+    url:
+    title: Dit wil ik!
   cards:
     - name: Integreer je CRM
       img: /v1632848068/team_x0ixvj.png
@@ -32,6 +37,9 @@ anderen:
       title: Klaas Wilting
     - p: "Ik ben super goed geholpen door Marieke en Tim! Positief verrast door het meedenken en de verleende service. Echt top, waren alle bedrijven maar zo! Ik ga jullie zeker aanbevelen. Veel dank en op naar een mooie telefonie toekomst samen."
       title: Hartan Nederland
----
 
-edzfzseiopu
+btn:
+  url:
+  title: Vertel me meer over Callvoip en Webcalls
+  
+---
