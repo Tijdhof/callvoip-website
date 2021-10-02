@@ -68,7 +68,7 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv patiëntnaam of patiëntnummer) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Exquise wordt gekoppeld met telefonie van Callvoip op basis van een exe-koppeling.<br>
+Het softwarepakket Exquise wordt gekoppeld met telefonie van Callvoip op basis van een URL Executor.<br>
 **NB:** om de koppeling te kunnen gebruiken is de Exquise Telefoonmonitor licentie nodig. Dit is een betaalde bedrijfslicentie die u door Exquise / Vertimart kunt laten activeren.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a><br>
 <br>
