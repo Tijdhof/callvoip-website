@@ -26,9 +26,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Met één klik uitbellen vanuit elk programma
   btn:
-    text: Trengo-koppeling nu 1 week gratis testen?
+    text: Trengo-koppeling gratis testen?
     url: /aanvragen/voip-cti/
 
 ---
