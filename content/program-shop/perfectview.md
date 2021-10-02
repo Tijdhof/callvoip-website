@@ -26,9 +26,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Pipedrive-koppeling gratis zelf testen?
     url: /aanvragen/voip-cti/
 
 ---
@@ -66,10 +66,10 @@ Je kunt dan de klantgegevens uit Perfectview gebruiken, denk hierbij aan gegeven
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
-• View<br>
-• View account<br>
-• View contact<br>
-• View lead<br>
+• Open klant in Perfectview<br>
+• Open account in Perfectview<br>
+• Open contact in Perfectview<br>
+• Open lead in Perfectview<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
