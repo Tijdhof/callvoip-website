@@ -8,11 +8,11 @@ shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
   title: Waarom integreren?
   list:
-    - Slimme pop-up van elk gesprek
+    - Slimme pop-up bij elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Begin met 1 week gratis testen!
+    text: Belco koppeling gratis testen? 
     url: /aanvragen/voip-cti/
 meer_info:
   - title: Support
