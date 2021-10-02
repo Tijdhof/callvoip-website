@@ -16,7 +16,7 @@ button:
 categories:
   - Workflow
   - Planning
-weight: 10
+weight: 3
 url: /marketplace/Simplicate/
 aliases: /program-shop/Simplicate/
 headerside:
@@ -24,15 +24,15 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Simplicate-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
 
-**Welke voordelen biedt een koppeling tussen Callvoip en CRM-pakket Simplicate?**
-
+**Welke voordelen biedt een koppeling tussen Callvoip en CRM-pakket Simplicate?**<br>
+<br>
 **Samenvatting** <br>
 Met de Callvoip Simplicate connector beschik je over een slimme koppeling tussen Callvoip en Simplicate. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Simplicate staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
@@ -54,7 +54,7 @@ Dankzij de connector kun je de nummers in Simplicate aanklikken en automatisch b
 
 **Details van de popup in combinatie met Simplicate:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit Perfectview gebruiken, denk hierbij aan gegevens zoals: <br>
+Je kunt dan de klantgegevens uit Simplicate gebruiken, denk hierbij aan gegevens zoals: <br>
 • Bedrijfsnaam<br>
 • Type relatie<br>
 • Adres<br>
