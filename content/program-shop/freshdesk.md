@@ -10,9 +10,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Freshdesk koppeling gratis testen?
     url: /aanvragen/voip-cti/
 meer_info:
   - title: Support
