@@ -23,17 +23,18 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: OaseDental-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket OaseDental voor tandartsen?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket OaseDental voor tandartsen?<br>
+OaseDental is totaalsoftware voor de veeleisende mondzorgpraktijk - het helpt u bij het efficiënt organiseren van uw praktijkvoering.**<br>
+<br>
 **Samenvatting**
-Met de Callvoip Oase Dental connector beschik je over een slimme koppeling tussen Callvoip en Perfectview. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Perfectview staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Oase Dental connector beschik je over een slimme koppeling tussen Callvoip en Oase Dental. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Oase Dental staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Met de OaseDental Callvoip connector verschijnt er bij een inkomende en/of uitgaande oproep direct een pop-up in het beeldscherm van je PC met het nummer van de beller en 4 buttons voor verdere actie. Zodra je het gesprek aanneemt verschijnt een indicator in OaseDental zelf, en kun je gelijk de klantgegevens openen. De popup heeft een aantal unieke eigenschappen:<br>
