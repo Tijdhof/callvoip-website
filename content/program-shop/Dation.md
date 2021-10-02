@@ -23,9 +23,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Dation-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 
@@ -38,7 +38,7 @@ Dation Rijlesplanner: Rijschoolsoftware incl. planning, facturering en communica
 Met de Callvoip Dation Rijlesplanner telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Dation Rijlesplanner. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Dation Rijlesplanner staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit PerfectView en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Dation Rijlesplanner software en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
