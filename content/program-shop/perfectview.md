@@ -17,7 +17,7 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Meest populair
-weight: 5
+weight: 3
 populair: true
 url: /marketplace/perfectview/
 aliases: /program-shop/perfectview/
