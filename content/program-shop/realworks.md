@@ -22,9 +22,9 @@ aliases: /program-shop/realworks/
 headerside:
   title: Waarom integreren?
   list:
-    - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Automatische gespreksnotitie
+    - Met één klik uitbellen vanuit elk programma
   btn:
     text: Vraag nu deze koppeling aan
     url: /aanvragen/voip-cti/
