@@ -26,9 +26,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Exact Online-koppeling gratis zelf testen?
     url: /aanvragen/voip-cti/
 
 ---
@@ -37,7 +37,7 @@ headerside:
 Exact Online: boekhouden en CRM met specifieke oplossingen voor elke branche**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip Exact Online telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Exact Online. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Outsmart staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Exact Online telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Exact Online. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Exact Online staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Exact Online en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
