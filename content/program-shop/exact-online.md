@@ -17,7 +17,7 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Meest populair
-weight: 4
+weight: 3
 populair: true
 url: /marketplace/exact-online/
 aliases: /program-shop/exact-online/
