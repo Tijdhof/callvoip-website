@@ -28,7 +28,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Werk efficiënter
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Gripp-koppeling gratis testen? 
     url: /aanvragen/voip-cti/
 
 ---
