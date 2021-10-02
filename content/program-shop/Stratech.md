@@ -23,9 +23,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Stratech-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
@@ -34,7 +34,7 @@ headerside:
 Stratech RCS Enterprise: CRM Reserveringssysteem voor de recreatiesector**<br>
 <br>
 **Samenvatting** <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Stratech-RCS-Red-Cactus-voip-telefonie-koppeling_bv0wo1.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Stratech RCS connector beschik je over een slimme koppeling tussen Callvoip en Stratech RCS. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Perfectview staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Stratech-RCS-Red-Cactus-voip-telefonie-koppeling_bv0wo1.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Stratech RCS connector beschik je over een slimme koppeling tussen Callvoip en Stratech RCS. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Stratech staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Stratech RCS en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen:<br>
@@ -50,8 +50,8 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Stratech RCS aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><br>
-
+Dankzij de connector kun je de nummers in Stratech RCS aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+<br>
 **Details van de popup in combinatie met Stratech RCS:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Stratech RCS gebruiken, denk hierbij aan gegevens zoals: <br>
