@@ -12,7 +12,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Algemene tools
+  - Universele koppeling
 weight: 11
 url: /marketplace/csv/
 aliases: /prorgram-shop/csv/
@@ -21,15 +21,15 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: CSV-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en jouw CRM-pakket gebaseerd op CSV?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en jouw CRM-pakket gebaseerd op CSV?**<br>
+<br>
 Heb je geen CRM-pakket waarvoor een koppeling op de plank ligt?<br>
 Geen nood: ook voor eigen CRM-pakketten en maatwerksystemen bieden we een aantal universele connectoren.<br>
 Deze kunnen rechtstreeks koppelen met softwarepakketten, databases of databestanden op basis van <a href="/program-shop/sql">SQL</a>, ODBC, <a href="/program-shop/csv">CSV</a>, <a href="/program-shop/http">HTTP</a>, en <a href="/program-shop/url">URL</a>.<br>
