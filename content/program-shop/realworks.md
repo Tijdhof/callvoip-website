@@ -1,5 +1,5 @@
 ---
-shorttitle: "Realworks + callregistratie"
+shorttitle: "Realworks + auto call log"
 title: "Wij koppelen jouw CRM Realworks aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/realworks_c5e8fj.png"
