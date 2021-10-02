@@ -24,9 +24,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Met één klik uitbellen vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: ZoHo-koppeling 1 week gratis testen?
     url: /aanvragen/voip-cti/
 
 ---
