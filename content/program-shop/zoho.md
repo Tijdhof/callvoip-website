@@ -1,5 +1,5 @@
 ---
-shorttitle: "ZoHo + callregistratie"
+shorttitle: "ZoHo + auto call log"
 title: "Wij koppelen jouw CRM ZoHo aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/zoho_i7jp7i.png"
