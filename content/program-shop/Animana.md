@@ -13,6 +13,7 @@ button:
   link: /marketplace/
 categories:
   - Dierenartsen
+  - Meest populair
 weight: 3
 url: /marketplace/Animana/
 aliases: /program-shop/Animana/
