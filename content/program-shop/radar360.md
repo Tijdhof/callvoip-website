@@ -23,9 +23,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Radar360-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 
@@ -50,13 +50,14 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </ul>
 </div>
 **Bonus: gespreks-popup in Radar360 CRM zelf**<br>
-Bij een inkomend gesprek verschijnt er een gesprekspopup in de Radar360 CRM applicatie zelf dankzij de ingebouwde telefoonkoppeling van Radar360 CRMe. Deze popup omvat alle relevante klantinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Omdat Radar360 CRM zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om  beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Radar360 CRM staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in Radar360 CRM te openen. <br>
+Bij een inkomend gesprek verschijnt er een gesprekspopup in de Radar360 CRM applicatie zelf dankzij de ingebouwde telefoonkoppeling van Radar360 CRM. Deze popup omvat alle relevante klantinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Omdat Radar360 CRM zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Radar360 CRM staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in Radar360 CRM te openen. <br>
 <br>
 **Bonus: automatische call logging**<br>
 Standaard is de Callvoip Radar360 CRM connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Radar360. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Radar360 aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><br>
+Dankzij de connector kun je de nummers in Radar360 aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+<br>
 **Details van de popup in combinatie met Radar360 CRM:**<br>
 Door de connector wordt de klantenkaart gelijk en autoamtisch in Radar CRM geopend, en kun je gelijk notities typen in het klantlog. Omdat de popup van Radar360 zelf wordt geopend, is het een optie om de Bubble popup uit te schakelen; je kunt er ook voor kiezen deze aan te laten staan zodat je extra knoppen van de Bubble popup tot je beschikking hebt. En is het nummer niet bekend in Raddar360 dan wordt het nummer verrijkt door Google gegevens.<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
