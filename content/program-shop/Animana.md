@@ -13,7 +13,7 @@ button:
   link: /marketplace/
 categories:
   - Dierenartsen
-weight: 10
+weight: 3
 url: /marketplace/Animana/
 aliases: /program-shop/Animana/
 headerside:
