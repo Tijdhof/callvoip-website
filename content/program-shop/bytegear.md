@@ -24,10 +24,10 @@ headerside:
   title: Waarom integreren?
   list:
     - Slimme pop-up van elk gesprek
-    - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Patientkaart wordt automatisch geopend
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Bytegear-koppeling 1 week gratis testen?
     url: /aanvragen/voip-cti/
 
 ---
@@ -36,12 +36,12 @@ headerside:
 Bytegear: ByteGear Orthodontiepraktijk Management Systeem**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip Bytegear telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Orthodontisten-softwarepakket Bytegear. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Outsmart staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Bytegear telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Orthodontisten-softwarepakket Bytegear. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Bytegear staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Bytegear en kun je direct de patiëntenkaart openen met daarop alle relevante informatie over de patiënt en zijn afspraken. Met één druk op de knop geeft open je de Bytegear eigen popup die linksonder in je scherm staat. Daarin zie je gelijk de naam van de klant staan. Klik op de Bytegear popup en in Bytegear wordt een kader geopend met daarin alle relevante patiëntgegevens en de afspraken:<br>
 &bull; Behandelkaart openen van de patiënt <br>
-&bull; Afsprakenkaart  van de patiënt <br>
+&bull; Afsprakenkaart van de patiënt <br>
 &bull; De patiënt opzoeken in de patiëntenlijst <br>
 <br>
 De popup heeft een aantal unieke eigenschappen: <br>
