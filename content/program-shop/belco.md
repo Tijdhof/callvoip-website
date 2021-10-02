@@ -10,7 +10,7 @@ headerside:
   list:
     - Slimme pop-up bij elk gesprek
     - Direct de klantgegevens in beeld
-    - Bel automatisch uit vanuit elk programma
+    - Met één klik uitbellen vanuit elk programma
   btn:
     text: Belco koppeling gratis testen? 
     url: /aanvragen/voip-cti/
