@@ -16,7 +16,7 @@ button:
 categories:
   - Webshop Software
   - Nieuw
-weight: 1
+weight: 10
 new: true
 url: /marketplace/Sherpaan/
 aliases: /program-shop/Sherpaan/
