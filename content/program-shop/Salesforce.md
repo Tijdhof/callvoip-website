@@ -23,15 +23,15 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Salesforce-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Salesforce, cloud computing software voor eCommerce en klantcontact?**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Salesforce, cloud computing software voor eCommerce en klantcontact?**<br>
+<br>
 **Samenvatting** <br>
 Met de Callvoip Salesforce connector beschik je over een slimme koppeling tussen Callvoip en Salesforce. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Salesforce staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
@@ -47,7 +47,6 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Geen match van het telefoonnummer met een contact in Salesforce? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
-
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Salesforce aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
