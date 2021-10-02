@@ -25,7 +25,7 @@ button:
 categories:
   - Customerservice
   - E-commerce
-weight: 10
+weight: 1
 url: /marketplace/freshdesk/
 aliases: /program-shop/freshdesk/
 
