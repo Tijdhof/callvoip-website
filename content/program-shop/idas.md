@@ -24,9 +24,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: iDAS BeesdA2-koppeling gratis testen?
     url: /aanvragen/voip-cti/
 
 ---
@@ -54,9 +54,9 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in  iDAS–BeesdA2 aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
-**Details van de popup in combinatie met  iDAS–BeesdA2:**<br>
+**Details van de popup in combinatie met iDAS–BeesdA2:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit Perfectview gebruiken, denk hierbij aan gegevens zoals: <br>
+Je kunt dan de klantgegevens uit iDAS–BeesdA2 gebruiken, denk hierbij aan gegevens zoals: <br>
 &bull; Telefoonnummer<br>
 &bull; Klantnummer<br>
 &bull; Contactgegevens<br>
