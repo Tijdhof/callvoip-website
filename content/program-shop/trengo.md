@@ -28,7 +28,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Werk efficiënter
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Trengo-koppeling nu 1 week gratis testen?
     url: /aanvragen/voip-cti/
 
 ---
