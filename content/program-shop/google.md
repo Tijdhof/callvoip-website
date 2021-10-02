@@ -14,9 +14,9 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Algemene tools
+  - Universele koppeling
   - Meest populair
-weight: 5
+weight: 3
 populair: true
 url: /marketplace/Google
 aliases: /program-shop/Google/
@@ -25,9 +25,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Google nummercheck gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
