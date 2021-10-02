@@ -21,9 +21,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: RobinHQ-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
