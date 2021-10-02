@@ -23,15 +23,15 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Store365-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Store365 - Self Storage Software**
-
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Store365 - Self Storage Software**<br>
+<br>
 **Samenvatting** <br>
 Met de Callvoip Store365 connector beschik je over een slimme koppeling tussen Callvoip en Store365. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Perfectview staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
