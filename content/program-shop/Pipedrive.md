@@ -16,7 +16,7 @@ button:
 categories:
   - E-commerce
   - Customerservice
-weight: 10
+weight: 3
 url: /marketplace/Pipedrive/
 aliases: /program-shop/Pipedrive/
 headerside:
