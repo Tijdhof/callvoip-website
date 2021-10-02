@@ -12,7 +12,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Werk efficiënter
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Begin met 1 week gratis testen!
     url: /aanvragen/voip-cti/
 meer_info:
   - title: Support
