@@ -13,7 +13,7 @@ button:
   link: /marketplace/
 categories:
   - Klantcontact
-weight: 10
+weight: 1
 url: /marketplace/Lime/
 aliases: /program-shop/Lime/
 headerside:
@@ -21,9 +21,9 @@ headerside:
   list:
     - Slimme pop-up van elk gesprek
     - Direct de klantgegevens in beeld
-    - Werk efficiënter
+    - Bel automatisch uit vanuit elk programma
   btn:
-    text: Vraag nu deze koppeling aan
+    text: Lime-koppeling gratis 1 week zelf testen?
     url: /aanvragen/voip-cti/
 
 ---
