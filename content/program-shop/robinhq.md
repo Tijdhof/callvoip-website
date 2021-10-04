@@ -13,6 +13,8 @@ button:
   link: /marketplace/
 categories:
   - E-commerce
+  - Auto Call Log
+  - Integrated Popup
 weight: 10
 url: /marketplace/RobinHQ/
 aliases: /program-shop/RobinHQ/
