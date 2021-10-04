@@ -53,7 +53,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Dation Rijlesplanner aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
-**Details van de popup in combinatie met Outsmart:**<br>
+**Details van de popup in combinatie met Dation Rijlesplanner:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit de Dation Rijlesplanner, denk hierbij aan gegevens zoals: <br>
 • Student of bedrijfsnaam<br>
