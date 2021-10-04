@@ -27,6 +27,7 @@ categories:
   - Nieuw
   - E-commerce
 weight: 1
+new: true
 url: /marketplace/freshdesk/
 aliases: /program-shop/freshdesk/
 
