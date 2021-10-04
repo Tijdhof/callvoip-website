@@ -1,6 +1,6 @@
 ---
 title: "Wij koppelen jouw CRM Belco aan onze telefonie"
-shorttitle: "Belco"
+shorttitle: "Belco + auto call log"
 date: 2021-06-03T16:52:17+05:00
 logo: "/belco_yfttbm.png"
 description: Door het koppelen van Belco CRM aan onze slimme telefonie werk je een stuk efficienter.
