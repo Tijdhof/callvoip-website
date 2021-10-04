@@ -7,7 +7,7 @@ hidesocialshare: false
 
 ---
 <center><h1>(Koppeling met je CRM-pakket)</h1></center><br>
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!_</b><br>_ NB: testen kan als er een koppeling met jouw CRM is, dat laten we je weten!<br>Ben je geen Callvoip klant? Neem contact op voor de mogelijkheden!
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!_</b><br>_ NB: testen kan als er een koppeling met jouw CRM is, dat laten we je weten!<br>Ben je geen Callvoip klant? <a href="https://www.callvoip.nl/contact/#informatie-of-hulp-nodig?">Neem contact op</a> voor de mogelijkheden!
 
 {{< form "aanvragen-voipcti" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
