@@ -78,4 +78,4 @@ En daarnaast: customized knoppen zoals: <br>
 **Let op:** het softwarepakket DLex Wolters Kluwer CRM wordt gekoppeld op basis van een realtime databasekoppeling. De toegang tot deze database moet worden verleent door Wolter Kluwer – DLex. Aan de zijde van DLex Wolters Kluwer dien je rekening te houden met 3-6 uur arbeid voor het toevoegen van de functionaliteiten om te kunnen koppelen. <br>
 **Belangrijk:** deze koppeling dient nog gerealiseerd te worden en heeft een doorlooptijd van ongeveer 2 weken; hiervoor geldt een ontwikkelingstarief van 495,-.<br>
 <br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
