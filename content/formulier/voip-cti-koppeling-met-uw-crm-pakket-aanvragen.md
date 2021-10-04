@@ -75,7 +75,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< layout/column3 >}}
 
-**Tariefoverzicht**
+**Tariefoverzicht voor Callvoip klanten**
 
 {{</ layout/column3 >}}
 
@@ -109,6 +109,73 @@ Per organisatie
 {{< layout/column3 >}}
 
 € 150,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+Per gebruiker
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 5,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 25,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+
+
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+**Tariefoverzicht voor niet Callvoip klanten**
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+Maandelijks
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+Eenmalig
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+Per organisatie
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 0,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 250,00 excl. BTW
 
 {{</ layout/column3 >}}
 
