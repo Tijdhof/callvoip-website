@@ -25,7 +25,9 @@ button:
 categories:
   - Hypotheken
   - Verzekeringen
+  - Nieuw
 weight: 1
+new: true
 url: /marketplace/fasterforward/
 aliases: /program-shop/fasterforward/
 
