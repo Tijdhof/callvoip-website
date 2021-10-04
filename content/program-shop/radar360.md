@@ -15,6 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Accountancy
+  - Auto Call Log
+  - Integrated Popup
 weight: 10
 url: /marketplace/Radar360/
 aliases: /program-shop/Radar360/
@@ -32,7 +34,7 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Radar360 CRM<br>
-Radar360: CRM voor de Accountancy?**<br>
+Radar360: CRM voor de Accountancy**<br>
 <br>
 **Samenvatting** <br>
 Met de Callvoip Radar360 connector beschik je over een slimme koppeling tussen Callvoip en Radar360. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Radar360 staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
@@ -70,4 +72,5 @@ Denk hierbij aan customized knoppen zoals: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Radar360 wordt gekoppeld met telefonie van Callvoip op basis van de telefoonkoppeling van Radar360.<br>
 **Let op:** om deze koppeling te activeren dient ook de VoIP-functionaliteit binnen Radar360 CRM te worden geactiveerd; dit is een betaalde functionaliteit (licentie).<br>
+<br>
 <a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
