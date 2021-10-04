@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Taxisoftware
+  - Integrated Popup
 weight: 10
 url: /marketplace/Taxsys/
 aliases: /program-shop/Taxsys/
@@ -67,4 +68,5 @@ En daarnaast kun je customized knoppen instellen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket TaxSys Pro wordt gekoppeld met telefonie van Callvoip op basis van de telefoonkoppeling in TasSys Pro zelf.<br>
+<br>
 <a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
