@@ -6,8 +6,8 @@ hideingoogle: false
 hidesocialshare: false
 
 ---
-<center><h1>(Koppeling met uw CRM-pakket)</h1></center><br>
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!_</b><br>_ NB: testen kan als er een koppeling met jouw CRM is, dat laten we je weten!<br><br>Ben je geen Callvoip klant? Bel ons voor de mogelijkheden!
+<center><h1>(Koppeling met je CRM-pakket)</h1></center><br>
+Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht.<br><br><b>CRM-integratie: probeer nu 1 week gratis!_</b><br>_ NB: testen kan als er een koppeling met jouw CRM is, dat laten we je weten!<br>Ben je geen Callvoip klant? Bel ons voor de mogelijkheden!
 
 {{< form "aanvragen-voipcti" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -75,7 +75,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< layout/column3 >}}
 
-**Tariefoverzicht voor Callvoip klanten**
+**Tarief Callvoip-klanten**
 
 {{</ layout/column3 >}}
 
@@ -135,14 +135,13 @@ Per gebruiker
 
 {{</ layout/columns >}}
 
-
-
+<br><br>
 
 {{< layout/columns >}}
 
 {{< layout/column3 >}}
 
-**Tariefoverzicht voor niet Callvoip klanten**
+**Tarief niet-Callvoip-klanten**
 
 {{</ layout/column3 >}}
 
