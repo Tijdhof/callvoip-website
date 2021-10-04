@@ -15,6 +15,7 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Nieuw
+  - Auto Call Log
 weight: 1
 new: true
 url: /marketplace/zoho
