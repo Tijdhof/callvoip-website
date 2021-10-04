@@ -18,6 +18,7 @@ categories:
   - Customerservice
   - Meest populair
 weight: 3
+populair: true
 url: /marketplace/Pipedrive/
 aliases: /program-shop/Pipedrive/
 headerside:
