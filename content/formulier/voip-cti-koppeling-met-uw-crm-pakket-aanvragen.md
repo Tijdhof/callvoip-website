@@ -75,7 +75,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< layout/column3 >}}
 
-**Tarief Callvoip-klanten**
+**Tarief<br>Callvoip-klanten**
 
 {{</ layout/column3 >}}
 
