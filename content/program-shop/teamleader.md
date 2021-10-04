@@ -16,6 +16,7 @@ categories:
   - Planning
   - Meest populair
 weight: 3
+populair: true
 url: /marketplace/teamleader/
 aliases: /program-shop/teamleader/
 headerside:
