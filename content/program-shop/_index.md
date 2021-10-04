@@ -11,7 +11,7 @@ hero:
 Images:
   - "/v1603982195/marketplace_xtwqrj.png"
 selected_tags:
-  - Algemene tools
+  - Universele koppeling
   - Meest populair
   - Nieuw
 selected_tags2:
