@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
+  - Integrated Popup
 weight: 10
 url: /marketplace/OaseDental/
 aliases: /program-shop/OaseDental/
@@ -33,7 +34,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket OaseDental voor tandartsen?<br>
 OaseDental is totaalsoftware voor de veeleisende mondzorgpraktijk - het helpt u bij het efficiënt organiseren van uw praktijkvoering.**<br>
 <br>
-**Samenvatting**
+**Samenvatting**<br>
 Met de Callvoip Oase Dental connector beschik je over een slimme koppeling tussen Callvoip en Oase Dental. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Oase Dental staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
@@ -48,11 +49,9 @@ Met de OaseDental Callvoip connector verschijnt er bij een inkomende en/of uitga
 <li>Geen match van het telefoonnummer met een contact in OaseDental? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
-<br> 
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Oase Dental aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>    
-<br>
-**Details van de popup in combinatie met Oase Dental:**<br>
+<br>**Details van de popup in combinatie met Oase Dental:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt de pop-up voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan customized knoppen zoals:<br>
 • Kopieer telefoonnummer<br>
