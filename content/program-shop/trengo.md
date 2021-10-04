@@ -59,6 +59,9 @@ De popup heeft een aantal unieke eigenschappen: <br>
 </ul>
 </div>
 <br>
+**Bonus: gespreks-popup in Trengo zelf**<br>
+Bij een inkomend gesprek verschijnt er een gesprekspopup in Trengo zelf dankzij de ingebouwde telefoonkoppeling van Trengo. Deze popup omvat alle relevante klantinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Omdat Trengo zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Trengo staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in Trengo te openen. <br>
+<br>
 **Bonus: automatische call logging**<br>
 Standaard is de Trengo Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Trengo. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
