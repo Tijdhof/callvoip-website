@@ -16,6 +16,7 @@ button:
 categories:
   - Tandarts
   - Meest populair
+  - Integrated Popup
 weight: 5
 populair: true
 url: /marketplace/exquise-next/
