@@ -26,6 +26,7 @@ categories:
   - E-commerce
   - Customerservice
   - Nieuw
+  - auto call log
 weight: 1
 new: true
 url: /marketplace/belco/
