@@ -48,18 +48,16 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Geen match van het telefoonnummer met een contact in Assu CRM? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
-<br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Assu CRM aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
-**Details van de popup in combinatie met Outsmart:**<br>
+**Details van de popup in combinatie met Assu:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Assu CRM gebruiken, denk hierbij aan gegevens zoals: <br>
 <br>
 • Telefoonnummer thuis<br>
 • Contactgegevens<br>
 • etc.<br>
-<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
