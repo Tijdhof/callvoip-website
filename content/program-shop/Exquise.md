@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
+  - Integrated Popup
 weight: 10
 url: /marketplace/Exquise/
 aliases: /program-shop/Exquise/
