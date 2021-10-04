@@ -15,6 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Makelaars
+  - Auto Call Log
+  - Integrated Popup
 weight: 10
 url: /marketplace/Kolibri/
 aliases: /program-shop/Kolibri/
@@ -48,7 +50,6 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in Kolibr
 <li>Geen match van het telefoonnummer met een contact in Kolibri CRM? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
-<br>
 **Bonus: gespreks-popup in Kolibri zelf**<br>
 Bij een inkomend gesprek verschijnt er een gesprekspopup in de Kolibri applicatie zelf dankzij de ingebouwde telefoonkoppeling van Kolibri. Deze popup omvat alle relevante klantinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Omdat Kolibri zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om  beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Kolibri staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in Kolibri CRM te openen. <br>
 <br>
