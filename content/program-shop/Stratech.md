@@ -83,4 +83,5 @@ En daarnaast: customized knoppen zoals: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Stratech-RCS Enterprise CRM wordt gekoppeld op basis van een API-koppeling. <br>
 **Let op:** om de telefoonkoppeling te kunnen gebruiken dient de telefoonintegratie licentie te worden geactiveerd door Stratech-RCS Enterprise. Dit is een betaalde licentie.<br>
+<br>
 <a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
