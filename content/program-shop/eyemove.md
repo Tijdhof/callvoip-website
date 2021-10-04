@@ -24,6 +24,8 @@ button:
   link: /marketplace/
 categories:
   - Makelaars
+  - Auto Call Log
+  - Integrated Popup
 weight: 10
 url: /marketplace/eyemove/
 aliases: /program-shop/eyemove/
