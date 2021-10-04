@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Woningcorporatiesoftware
+  - Integrated Popup
 weight: 10
 url: /marketplace/Tobias/
 aliases: /program-shop/Tobias/
@@ -74,4 +75,5 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Tobias AX Aareon Software wordt gekoppeld met telefonie van Callvoip op basis van de telefoonconnector in Tobias AX Aareon Software zelf.<br>
+<br>
 <a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
