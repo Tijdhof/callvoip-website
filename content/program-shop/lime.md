@@ -14,6 +14,7 @@ button:
 categories:
   - Klantcontact
 weight: 1
+new: true
 url: /marketplace/Lime/
 aliases: /program-shop/Lime/
 headerside:
