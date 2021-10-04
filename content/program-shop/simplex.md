@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
+  - Integrated Popup
 weight: 10
 url: /marketplace/Simplex/
 aliases: /program-shop/Simplex/
@@ -68,7 +69,7 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Simplex CRM wordt gekoppeld met telefonie van Callvoip op basis van een URL-Execturo.<br>
+Het softwarepakket Simplex CRM wordt gekoppeld met telefonie van Callvoip op basis van een URL-Executor.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
                      
 
