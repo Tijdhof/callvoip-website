@@ -9,6 +9,9 @@ hidesocialshare: true
 Nieuw: true
 Update: false
 pdf: https://files.callvoip.nl/downloads/Callvoip_VoIP-CTI-Bubble_handleiding-en-naslagwerk.pdf
+aliases: 
+   - /voipctihelp/
+   - /voipctihulp/
 
 ---
 Gefeliciteerd met de installatie van de Bubble CRM-koppeling! Bubble zorgt dat elk inkomend telefoontje gelijk wordt gekoppeld met relaties in jouw CRM- of klantensysteem en stroomlijnt zo jouw dagelijkse telefoonwerk. Je kunt Bubble koppelen met één of meer CRM-pakketten. Met één klik bel je relaties die in jouw CRM-pakket staan: en dat doe je gewoon met je bureautelefoon, de Qaller app, Webcalls, of met de Vamos SIM-kaart: precies wát jij wilt en wáár je wilt: deze tools werken overal en altijd. Hieronder lees je hoe Bubble jou dagelijks kan assisteren en welke mogelijkheden er zijn.
