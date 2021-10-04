@@ -1,5 +1,5 @@
 ---
-shorttitle: "Medicom Pharmapartners"
+shorttitle: "Medicom + auto call log"
 title: "Wij koppelen jouw CRM Medicom Pharmapartners aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/medicom_badthv.png"
@@ -14,7 +14,8 @@ button:
 categories:
   - Huisartsen
   - Zorgverleners
-  - Meest populair
+  - Auto Call Log
+  - Integrated Popup
 weight: 5
 populair: true
 url: /marketplace/medicom/
