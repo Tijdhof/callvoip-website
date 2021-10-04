@@ -17,6 +17,8 @@ categories:
   - E-commerce
   - Customerservice
   - Nieuw
+  - Auto Call Log
+  - Integrated Popup
 weight: 1
 new: true
 url: /marketplace/trengo
