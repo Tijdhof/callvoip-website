@@ -56,6 +56,9 @@ De popup heeft een aantal unieke eigenschappen: <br>
 </ul>
 </div>
 <br>
+**Bonus: gespreks-popup in Bytegear zelf**<br>
+Bij een inkomend gesprek verschijnt er een gesprekspopup in Bytegear zelf dankzij de ingebouwde telefoonkoppeling van Bytegear. Deze popup omvat alle relevante patiëntinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Omdat Bytegear zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Bytegear staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de patiënt in Bytegear te openen. <br>
+<br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Bytegear aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
