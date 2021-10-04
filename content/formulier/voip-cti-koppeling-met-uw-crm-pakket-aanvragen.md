@@ -141,7 +141,7 @@ Per gebruiker
 
 {{< layout/column3 >}}
 
-**Tarief niet-Callvoip-klanten**
+**Tarief<br> niet-Callvoip-klanten**
 
 {{</ layout/column3 >}}
 
