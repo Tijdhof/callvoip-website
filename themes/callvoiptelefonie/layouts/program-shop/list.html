@@ -45,7 +45,8 @@
                   onclick="document.querySelectorAll('.item-card').forEach(function (e){e.classList.add('hidden');if(e.classList.contains('{{urlize . }}')){e.classList.remove('hidden');}});reset.hidden=false">
                   {{- . }}</button></li>
               {{- end }}
-            </ul>
+            </ul></div>
+          <div class="space-y-2">
             <h3 class="text-black"><b>Functionaliteiten</b></h3>
             <ul class="space-y-2">
               {{- range .Params.selected_tags2 }}
@@ -54,7 +55,7 @@
                   {{- . }}</button></li>
               {{- end }}
             </ul>
-          </div>
+          </div></div>
           <div class="space-y-2">
             <h3 class="text-black"><b>Alle categorieën</b></h3>
             <ul class="space-y-2">
