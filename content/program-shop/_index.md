@@ -15,7 +15,8 @@ selected_tags:
   - Meest populair
   - Nieuw
 selected_tags2:
-  - E-commerce
+  - Auto Call Log
+  - Integrated Popup
 outputs:
   - HTML
   - JSON
