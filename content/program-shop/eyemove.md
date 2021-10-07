@@ -35,7 +35,7 @@ aliases: /program-shop/eyemove/
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Eyemove?<br>
 EYE-move: het CRM-pakket voor makelaarskantoren.**<br>
 <br>
-**Samenvatting**<br>
+**Samenvatting**<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/image_1_nhd86k.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">
 Met de Callvoip EYE-move telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Eyemove. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Eyemove staan, als bellers die er niet instaan. Deze koppeling biedt een automatisch call log functie. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
