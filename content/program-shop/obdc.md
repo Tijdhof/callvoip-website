@@ -14,8 +14,8 @@ button:
 categories:
   - Universele koppeling
 weight: 11
-url: /marketplace/ODBC/
-aliases: /program-shop/ODBC/
+url: /marketplace/odbc/
+aliases: /program-shop/odbc/
 headerside:
   title: Waarom integreren?
   list:
