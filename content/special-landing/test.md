@@ -24,7 +24,7 @@ waroom:
       img: /v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png
       info: "Installeer 'm op je smartphone en bel op je mobiel met je vaste nummer."
     - name: Slimme Cloud centrale
-      img: /v1632848068/team_x0ixvj.png
+      img: /v1574088232/hostedvoip_u8trwp.png
       info: "Onze online centrale is veelzijdig, makkelijk en betrouwbaar."
     - name: Keuzemenu
       img: /v1632848068/team_x0ixvj.png
