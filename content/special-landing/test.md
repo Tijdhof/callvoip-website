@@ -38,6 +38,8 @@ anderen:
   testimoials:
     - p: "Topbedrijf, altijd bereikbaar. Medewerkers hebben altijd een oplossing voor een probleem en zijn erg behulpzaam. Aanrader!"
       title: Klaas Wilting
+    - p: "Een aantal maanden hebben wij CallVoip in gebruik op aanraden van een ander bedrijf. Tot op de dag van vandaag geen moment spijt van. Kwaliteit is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee."
+      title: Dave
     - p: "Ik ben super goed geholpen door Marieke en Tim! Positief verrast door het meedenken en de verleende service. Echt top, waren alle bedrijven maar zo! Ik ga jullie zeker aanbevelen. Veel dank en op naar een mooie telefonie toekomst samen."
       title: Hartan Nederland
 
