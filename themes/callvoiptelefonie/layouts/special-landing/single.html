@@ -9,7 +9,7 @@
       </div>
       <div class="text-white text-center space-y-4">
         <h1 class="text-3xl lg:text-4xl">{{ .Params.hero.title }}</h1>
-        <p class="max-w-md mx-auto">{{ .Params.hero.info }}</p>
+        <div id="form"><p class="max-w-md mx-auto">{{ .Params.hero.info }}</p></div>
       </div>
       <div class="max-w-screen-sm mx-auto bg-blue text-white p-4 rounded-md shadow-md">
         <form class="mb-6" name="nieuwsformulier" action="/contact/verzonden" accept-charset="UTF-8" method="POST"
