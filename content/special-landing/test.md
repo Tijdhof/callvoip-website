@@ -14,7 +14,7 @@ waroom:
   title: Waarom Callvoip?
   info: "Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:"
   btn:
-    url: /#form
+    url: /landing-test/#form
     title: Dit wil ik!
   cards:
     - name: Integreer je CRM
@@ -42,7 +42,7 @@ anderen:
       title: Hartan Nederland
 
 btn:
-  url: /#form
+  url: /landing-test/#form
   title: Vertel me meer over Callvoip en Webcalls
   
 ---
