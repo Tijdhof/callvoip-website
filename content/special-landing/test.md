@@ -27,7 +27,7 @@ waroom:
       img: /v1574088232/hostedvoip_u8trwp.png
       info: "Onze online centrale is veelzijdig, makkelijk en betrouwbaar."
     - name: Keuzemenu
-      img: /v1632848068/team_x0ixvj.png
+      img: /v1632848068/keuzemenu_ypop3l.png
       info: "Een voorbeeld uit de centrale: keuzemenu om efficiënt veel bellers te verwerken."
 anderen:
   img:
