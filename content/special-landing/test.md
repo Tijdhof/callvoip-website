@@ -31,10 +31,10 @@ waroom:
       info: "Een voorbeeld uit de centrale: keuzemenu om efficiënt veel bellers te verwerken."
 anderen:
   img:
-    - /v1632848068/team_x0ixvj.png
-    - /v1632848068/team_x0ixvj.png
-    - /v1632848068/team_x0ixvj.png
-    - /v1632848068/team_x0ixvj.png
+    - /v1633688870/klant1_tzvyln.png
+    - /v1633688870/klant4_fgoac9.png
+    - /v1633688870/klant2_cyxluj.png
+    - /v1633688870/klant3_i9d1cz.png
   testimoials:
     - p: "Topbedrijf, altijd bereikbaar. Medewerkers hebben altijd een oplossing voor een probleem en zijn erg behulpzaam. Aanrader!"
       title: Klaas Wilting
