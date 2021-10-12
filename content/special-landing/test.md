@@ -26,9 +26,9 @@ waroom:
     - name: Slimme Cloud centrale
       img: /v1634033405/centrale_LP_xgjoqe.png
       info: "Onze online centrale is veelzijdig, makkelijk en betrouwbaar."
-    - name: Keuzemenu
-      img: /v1632848068/keuzemenu_ypop3l.png
-      info: "Een voorbeeld uit de centrale: keuzemenu om efficiënt veel bellers te verwerken."
+    - name: Persoonlijke support
+      img: /v1634033915/support_LP_mx3yf2.png
+      info: "Geen nummertje, geen AI. Échte mensen die luisteren en meedenken."
 anderen:
   img:
     - /v1633688870/klant1_tzvyln.png
