@@ -21,10 +21,10 @@ waroom:
       img: /v1632848068/crmlaptop_tom9o7.png
       info: "Werk efficiënt en snel met onze telefonie geïntegreerd in jouw CRM."
     - name: Bel met een app
-      img: /v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png
+      img: /v1634033405/qaller_LP_xtkxjh.png
       info: "Installeer 'm op je smartphone en bel op je mobiel met je vaste nummer."
     - name: Slimme Cloud centrale
-      img: /v1574088232/hostedvoip_u8trwp.png
+      img: /v1634033405/centrale_LP_xgjoqe.png
       info: "Onze online centrale is veelzijdig, makkelijk en betrouwbaar."
     - name: Keuzemenu
       img: /v1632848068/keuzemenu_ypop3l.png
