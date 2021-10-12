@@ -37,9 +37,9 @@ anderen:
     - /v1633688870/klant3_i9d1cz.png
   testimoials:
     - p: "Topbedrijf, altijd bereikbaar. Medewerkers hebben altijd een oplossing voor een probleem en zijn erg behulpzaam. Aanrader!"
-      title: Klaas Wilting
+      title: Aa & Hunze Makelaardij
     - p: "Een aantal maanden hebben wij Callvoip in gebruik op aanraden van een ander bedrijf. Tot op de dag van vandaag geen moment spijt van. Kwaliteit is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee."
-      title: Dave
+      title: GeschenkPartners
     - p: "Ik ben super goed geholpen door Marieke en Tim! Positief verrast door het meedenken en de verleende service. Echt top, waren alle bedrijven maar zo! Ik ga jullie zeker aanbevelen. Veel dank en op naar een mooie telefonie toekomst samen."
       title: Hartan Nederland
 
