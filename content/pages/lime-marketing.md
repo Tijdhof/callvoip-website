@@ -7,7 +7,7 @@ logos: false
 url: "/crmintegratie/lime/"
 marketplaceItem: true
 hero:
-  title: Lime + slimme telefonie
+  title: Lime CRM + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
     de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Lime is een systeem gericht op klantcontact. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Lime nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/Lime/" class="button">Meer informatie</a>'
   image: "/v1622801300/limelogo_nvnbhr.png"
