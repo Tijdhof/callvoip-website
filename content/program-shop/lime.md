@@ -13,6 +13,7 @@ button:
   link: /marketplace/
 categories:
   - Klantcontact
+  - Nieuw
 weight: 1
 new: true
 url: /marketplace/Lime/
@@ -32,7 +33,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Lime?<br>
 Lime: veelzijdig CRM met focus op o.a. contacten, sales, projecten, urenregistratie en marketingactiviteiten - geschikt voor elke sector.**<br> 
 <br>
-**Samenvatting**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/limelaptop_q6fowm.png" style="float:right; padding-left:15px;" width=500px" class="zoom">**Samenvatting**<br>
 Met de Callvoip Lime telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Lime. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Lime staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
