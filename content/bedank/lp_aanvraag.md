@@ -1,6 +1,6 @@
 ---
 title: Bericht ontvangen
-url: '/aanvraag/verzonden'
+url: '/aanvraag/verzonden/'
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: ''
