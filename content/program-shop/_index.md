@@ -15,8 +15,10 @@ selected_tags:
   - Meest populair
   - Nieuw
 selected_tags2:
-  - Auto Call Log
-  - Integrated Popup
+ - name: Auto Call Log
+    info: Test
+ - name: Integrated Popup
+    info: Test
 outputs:
   - HTML
   - JSON
