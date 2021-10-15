@@ -68,7 +68,7 @@ Kijk voor meer informatie over Dation Rijschoolsoftware op www.dation.nl.
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
-• klantenkaart openen<br>
+• klantenkaart openen<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1634295655/popup_crm_l0aw5x.png" style="float:right">
 • nummer kopiëren<br>
 • terugbelverzoek maken<br>
 • parameter kopiëren<br>
