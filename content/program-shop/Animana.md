@@ -58,7 +58,7 @@ Standaard is er de telefoonkoppeling van IDEXX die het nummer naar Animana stuur
 Als optie kan er een export worden gemaakt van één van de tabellen waarin het telefoonnummer staat en klantinformatie; deze informatie kan dan als velden in de popup worden opgenomen. <br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
-• Open de cliënt in IDEXX Animana <br>
+• Open de cliënt in IDEXX Animana <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1634295655/popup_crm_l0aw5x.png" style="float:right">
 • Kopieer telefoonnummer<br>
 • Maak terugbelverzoek<br>
 • Open website <br>
