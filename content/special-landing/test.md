@@ -6,13 +6,13 @@ hideinsearch: true
 hideingoogle: false
 hero:
   title: Bellen op elke PC of Mac?
-  info: "Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
+  info: 'Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal.'
   form:
     title: Vertel me meer!
     desc: Nieuwsgierig naar Webcalls en onze andere functionaliteiten?
 waroom:
   title: Waarom Callvoip?
-  info: "Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:"
+  info: 'Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:'
   btn:
     url: /bellenmetcomputer/#form
     title: Dit wil ik!
@@ -36,7 +36,7 @@ anderen:
     - /v1633688870/klant2_cyxluj.png
     - /v1633688870/klant3_i9d1cz.png
   testimoials:
-    - p: "Topbedrijf, altijd bereikbaar. Medewerkers hebben altijd een oplossing voor een probleem en zijn erg behulpzaam. Aanrader!"
+    - p: 'Topbedrijf, altijd bereikbaar. Medewerkers hebben altijd een oplossing voor een probleem en zijn erg behulpzaam. Aanrader!'
       title: Aa & Hunze Makelaardij
     - p: "Een aantal maanden hebben wij Callvoip in gebruik op aanraden van een ander bedrijf. Tot op de dag van vandaag geen moment spijt van. Kwaliteit is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee."
       title: GeschenkPartners
