@@ -19,7 +19,7 @@ waroom:
   cards:
     - name: Integreer je CRM
       img: /v1632848068/crmlaptop_tom9o7.png
-      info: Werk efficiënt en snel met onze telefonie geïntegreerd in jouw CRM.
+      info: Werk efficiënt en snel met onze telefonie geïntegreerd in jouw CRM. <a href="google.com">test</a>
     - name: Bel met een app
       img: /v1634033405/qaller_LP_xtkxjh.png
       info: Installeer 'm op je smartphone en bel op je mobiel met je vaste nummer.
