@@ -6,29 +6,29 @@ hideinsearch: true
 hideingoogle: false
 hero:
   title: Bellen op elke PC of Mac?
-  info: 'Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal.'
+  info: "Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
   form:
     title: Vertel me meer!
     desc: Nieuwsgierig naar Webcalls en onze andere functionaliteiten?
 waroom:
   title: Waarom Callvoip?
-  info: 'Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:'
+  info: "Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:"
   btn:
     url: /bellenmetcomputer/#form
     title: Dit wil ik!
   cards:
-    - name: 'Integreer je CRM'
-      img: '/v1632848068/crmlaptop_tom9o7.png'
-      info: 'Werk efficiënt en snel met onze telefonie geïntegreerd in jouw CRM. <a href=https://www.callvoip.nl/telefonie/integratie/>Lees meer</a>.'
-    - name: 'Bel met een app'
-      img: '/v1634033405/qaller_LP_xtkxjh.png'
-      info: 'Installeer 'm op je smartphone en bel op je mobiel met je vaste nummer.<a href=https://www.callvoip.nl/telefonie/vastmobiel/>Lees meer</a>.'
-    - name: 'Slimme Cloud centrale'
-      img: '/v1634033405/centrale_LP_xgjoqe.png'
-      info: 'Onze online centrale is veelzijdig, makkelijk en betrouwbaar.<a href=https://www.callvoip.nl/telefonie/hostedvoip/>Lees meer</a>.'
-    - name: 'Persoonlijke support'
-      img: '/v1634033915/support_LP_mx3yf2.png'
-      info: 'Geen nummertje, geen AI. Échte mensen die luisteren en meedenken.<a href=https://www.callvoip.nl/overons/hetbedrijf/>Lees meer</a>.'
+    - name: Integreer je CRM
+      img: /v1632848068/crmlaptop_tom9o7.png
+      info: 'Werk efficiënt en snel met onze telefonie geïntegreerd in jouw CRM.'
+    - name: Bel met een app
+      img: /v1634033405/qaller_LP_xtkxjh.png
+      info: 'Installeer 'm op je smartphone en bel op je mobiel met je vaste nummer.'
+    - name: Slimme Cloud centrale
+      img: /v1634033405/centrale_LP_xgjoqe.png
+      info: 'Onze online centrale is veelzijdig, makkelijk en betrouwbaar.'
+    - name: Persoonlijke support
+      img: /v1634033915/support_LP_mx3yf2.png
+      info: 'Geen nummertje, geen AI. Échte mensen die luisteren en meedenken.'
 anderen:
   img:
     - /v1633688870/klant1_tzvyln.png
@@ -36,7 +36,7 @@ anderen:
     - /v1633688870/klant2_cyxluj.png
     - /v1633688870/klant3_i9d1cz.png
   testimoials:
-    - p: 'Topbedrijf, altijd bereikbaar. Medewerkers hebben altijd een oplossing voor een probleem en zijn erg behulpzaam. Aanrader!'
+    - p: "Topbedrijf, altijd bereikbaar. Medewerkers hebben altijd een oplossing voor een probleem en zijn erg behulpzaam. Aanrader!"
       title: Aa & Hunze Makelaardij
     - p: "Een aantal maanden hebben wij Callvoip in gebruik op aanraden van een ander bedrijf. Tot op de dag van vandaag geen moment spijt van. Kwaliteit is goed, persoonlijke aandacht is erg hoog en ze denken graag met je mee."
       title: GeschenkPartners
