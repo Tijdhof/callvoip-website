@@ -19,16 +19,16 @@ waroom:
   cards:
     - name: Integreer je CRM
       img: /v1632848068/crmlaptop_tom9o7.png
-      info: "Werk efficiënt en snel met onze telefonie geïntegreerd in jouw CRM."
+      info: Werk efficiënt en snel met onze telefonie geïntegreerd in jouw CRM. <a href="https://www.callvoip.nl/telefonie/integratie/" target="_blank">Lees meer</a>.
     - name: Bel met een app
-      img: /v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png
-      info: "Installeer 'm op je smartphone en bel op je mobiel met je vaste nummer."
+      img: /v1634033405/qaller_LP_xtkxjh.png
+      info: Installeer 'm op je smartphone en bel op je mobiel met je vaste nummer. <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">Lees meer</a>.
     - name: Slimme Cloud centrale
-      img: /v1574088232/hostedvoip_u8trwp.png
-      info: "Onze online centrale is veelzijdig, makkelijk en betrouwbaar."
-    - name: Keuzemenu
-      img: /v1632848068/keuzemenu_ypop3l.png
-      info: "Een voorbeeld uit de centrale: keuzemenu om efficiënt veel bellers te verwerken."
+      img: /v1634033405/centrale_LP_xgjoqe.png
+      info: Onze online centrale is veelzijdig, makkelijk en betrouwbaar. <a href="https://www.callvoip.nl/telefonie/hostedvoip/" target="_blank">Lees meer</a>.
+    - name: Persoonlijke support
+      img: /v1634033915/support_LP_mx3yf2.png
+      info: Geen nummertje, geen AI. Échte mensen die luisteren en meedenken. <a href="https://www.callvoip.nl/overons/hetbedrijf/" target="_blank">Lees meer</a>.
 anderen:
   img:
     - /v1633688870/klant1_tzvyln.png
