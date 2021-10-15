@@ -64,7 +64,7 @@ Denk hierbij aan:<br>
 • de persoon kaart <br>
 • de polis kaart <br>
 • de schade kaart <br>
-• de Bancair product kaart <br>
+• de Bancair product kaart <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1634295655/popup_crm_l0aw5x.png" style="float:right">
 • de financiering kaart <br>
 • de hypotheek kaart <br>
 <br>
