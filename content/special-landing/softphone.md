@@ -8,7 +8,7 @@ hero:
   title: Softphone? Wij hebben iets beters!
   info: "Met Callvoip Webcalls bel je zakelijk op elke computer. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
   form:
-    title: Vertel me meer!
+    title: "Vertel me meer!"
     desc: Nieuwsgierig naar Webcalls en onze andere functionaliteiten?
 waroom:
   title: Waarom Callvoip?
