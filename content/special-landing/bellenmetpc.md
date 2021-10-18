@@ -5,7 +5,7 @@ url: /bellenmetcomputer/
 hideinsearch: true
 hideingoogle: false
 hero:
-  title: Bellen op elke PC of Mac?
+  title: Zakelijk bellen op elke PC of Mac?
   info: "Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
   form:
     title: Vertel me meer!
