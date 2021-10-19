@@ -28,7 +28,7 @@ Ken je dat gevoel van iets nooit meer te willen missen? De immens populaire kopp
 
 #### Waarom dan en hoe?
 
-Simpel gezegd; je ontvangt een zakelijk telefoontje en terwijl je achter je computer zit te werken verschijnt er direct een slimme ‘pop-up’ op je scherm. Daarin staan alle relevante gegevens van deze beller afkomstig uit je eigen CRM-systeem. Die gegevens kun je uiteraard zelf invoeren. Bijvoorbeeld met wie heeft deze persoon de laatste keer gebeld, wanneer was dit en wat is er besproken? Ontzettend handige geheugensteuntjes dus kortom en bovenal snel, efficiënt en resultaatgericht. Meer lezen over integratie?<a href="/telefonie/integratie/"">klik hier!</a>
+Simpel gezegd; je ontvangt een zakelijk telefoontje en terwijl je achter je computer zit te werken verschijnt er direct een slimme ‘pop-up’ op je scherm. Daarin staan alle relevante gegevens van deze beller afkomstig uit je eigen CRM-systeem. Die gegevens kun je uiteraard zelf invoeren. Bijvoorbeeld met wie heeft deze persoon de laatste keer gebeld, wanneer was dit en wat is er besproken? Ontzettend handige geheugensteuntjes dus kortom en bovenal snel, efficiënt en resultaatgericht. Meer lezen over integratie? <a href="/telefonie/integratie/"">klik hier!</a>
 
 #### Vul enkele vragen in met jouw ideeën over CRM-integratie en maak kans op een prijs!
 
