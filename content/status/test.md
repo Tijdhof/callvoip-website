@@ -13,6 +13,8 @@ Eén van de symptomen is, dat de verbinding wel up lijkt maar geen werkende inte
   
 Uw telefonische bereikbaarheid kunt u veilig stellen met bv een doorschakeling naar mobiel. Belt u ons zodat wij u assisteren om dit in te stellen. 
 
+09\.10 uur:  De storing is opgelost: na het herstarten van uw modem moet de verbinding weer terugkomen. 
+
 ***
 
 TELEFONIE - geen meldingen, de telefonie werkt naar behoren.
