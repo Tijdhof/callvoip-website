@@ -28,7 +28,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Bel automatisch uit vanuit elk programma
   btn:
-    text: Pipedrive-koppeling gratis zelf testen?
+    text: Perfectview-koppeling gratis zelf testen?
     url: /aanvragen/voip-cti/
 
 ---
