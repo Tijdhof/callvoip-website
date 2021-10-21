@@ -21,6 +21,7 @@ contactpersoon: []
 categories: []
 tags: []
 type: ''
+integration: true
 
 ---
 **![](https://res.cloudinary.com/callvoip/image/upload/v1627989099/callvoip-cashdesk_xntyik.png)  
