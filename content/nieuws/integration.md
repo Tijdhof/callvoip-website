@@ -4,7 +4,8 @@ hidden: true
 
 type: page
 layout: integration
-url: "/nieuws/integration"
+url: "/nieuws/integratie"
+
 ---
 
 CRM
