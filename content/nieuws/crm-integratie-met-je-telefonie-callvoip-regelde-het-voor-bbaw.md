@@ -20,6 +20,7 @@ contactpersoon: []
 categories: []
 tags: []
 type: ''
+integration: true
 
 ---
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1618230724/simplicatelogo_gz71le.png">
