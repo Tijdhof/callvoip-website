@@ -74,7 +74,7 @@ Je kunt dan de klantgegevens uit Carerix gebruiken, denk hierbij aan gegevens zo
 • opleidingen <br>
 • etc.<br>
  <br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br>
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan de relatiekaart openen, gesprek aannemen, terugbelverzoek, maatwerk actie of een parameter kopiëren.<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 <br>
 En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
