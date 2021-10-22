@@ -57,7 +57,7 @@ Zodra je een inkomend gesprek aanneemt verschijnt de naam van de patiënt automa
 Dankzij de connector kun je de nummers in Exquise aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Exquise:**<br>
-De popup van de koppeling toont het nummer van de beller. <br>
+De popup van de koppeling toont het nummer van de beller. <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Daarnaast kun je in pop-up tot 4 knoppen aanmaken om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
 • Open klant in Exquise (gaat ook automatisch als je aanneemt, maar je kunt dit ook handmatig doen als je nog niet hebt aangenomen)<br>
