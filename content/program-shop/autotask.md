@@ -70,7 +70,7 @@ Je kunt dan de klantgegevens uit Autotask PSA, en dat is een enorme lijst! Denk 
 • etc. <br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br>
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • View Contact<br>
 • View Company<br>
 • View Dashboard<br>
