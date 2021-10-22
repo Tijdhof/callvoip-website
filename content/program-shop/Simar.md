@@ -55,7 +55,7 @@ Dankzij de connector kun je de nummers in Simar aanklikken en automatisch bellen
 **Details van de popup in combinatie met Simar:**<br>
 Door de connector wordt de klantenkaart gelijk en automatisch in het Simar  geopend, en kun je gelijk notities typen in het klantlog. Omdat de popup van Simar zelf wordt geopend, is het een optie om de Bubble popup uit te schakelen; je kunt er ook voor kiezen deze aan te laten staan zodat je extra knoppen van de Bubble popup tot je beschikking hebt. En is het nummer niet bekend in Simar dan wordt het nummer verrijkt door Google gegevens. <br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek.
-Denk hierbij aan customized knoppen zoals:<br>
+Denk hierbij aan customized knoppen zoals:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
