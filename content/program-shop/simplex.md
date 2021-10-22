@@ -59,7 +59,7 @@ Dankzij de connector kun je de nummers in Simplex aanklikken en automatisch bell
 <br>
 **Details van de popup in combinatie met Simplex:**<br>
 Als gebruiker kun je in je pop-up tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br>
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Open klant in Simplex<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
