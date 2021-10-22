@@ -67,7 +67,7 @@ Je kunt dan de klantgegevens uit Store365 gebruiken, denk hierbij aan gegevens z
 <br>
 Let op: het is niet mogelijk om met één druk op de knop STORE365 te openen, maar in plaats daarvan wordt het klantnummer gekopieerd. Dat kun je gelijk plakken in STORE365 en vervolgens verschijnt met één druk op de knop de klant in beeld. 
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan customized knoppen zoals: <br>
+Denk hierbij aan customized knoppen zoals: <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
