@@ -39,6 +39,6 @@ Met de Callvoip Cashdesk koppeling beschik je over een slimme koppeling tussen t
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC vanui Cashdesk met daarin de klantgegevens. Je kunt zo doorklikken naar de kassasortware. <br>
 <br>
-**Technische gegevens:**<br>
+**Technische gegevens:**<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Het softwarepakket Cashdesk CRM wordt gekoppeld met telefonie van Callvoip op basis van registratie van een toestelaccount. De kassa rinkelt mee, krijgt het nummer en toont zo de informatie.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
