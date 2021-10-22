@@ -63,7 +63,7 @@ Je kunt dan de klantgegevens uit Mews gebruiken, denk hierbij aan gegevens zoals
 • etc. <br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
-• Open klant in Mews<br>
+• Open klant in Mews<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer<br>
 • Maak terugbelverzoek<br>
 • Open website <br>
