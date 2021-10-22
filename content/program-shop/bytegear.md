@@ -63,7 +63,7 @@ Bij een inkomend gesprek verschijnt er een gesprekspopup in Bytegear zelf dankzi
 Dankzij de connector kun je de nummers in Bytegear aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Bytegear:**<br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Als het nummer bekend is in Bytegear dan wordt er gelijk bij het aannemen van het gesprek de popup vanuit Bytegear getoond. <br>
 Als het nummer niet bekend is in Bytegear dan verschijnt alleen de popup van de connector met de Google verrijking (naam, adres, woonplaats, website). Je kunt dan de klantgegevens uit Bytegear gebruiken, denk hierbij aan gegevens zoals: <br>
 • Stuur het nummer naar Bytegear en open de Bytegear popup<br>
