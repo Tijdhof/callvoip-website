@@ -62,7 +62,7 @@ Dankzij de connector kun je de nummers in Radar360 aanklikken en automatisch bel
 <br>
 **Details van de popup in combinatie met Radar360 CRM:**<br>
 Door de connector wordt de klantenkaart gelijk en autoamtisch in Radar CRM geopend, en kun je gelijk notities typen in het klantlog. Omdat de popup van Radar360 zelf wordt geopend, is het een optie om de Bubble popup uit te schakelen; je kunt er ook voor kiezen deze aan te laten staan zodat je extra knoppen van de Bubble popup tot je beschikking hebt. En is het nummer niet bekend in Raddar360 dan wordt het nummer verrijkt door Google gegevens.<br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Denk hierbij aan customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
