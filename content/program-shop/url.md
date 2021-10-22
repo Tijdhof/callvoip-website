@@ -36,7 +36,7 @@ Deze kunnen rechtstreeks koppelen met softwarepakketten, databases of databestan
 <br>
 Als je koppelt op basis van een URL Executer kun je zelf instellen dat er een bepaalde actie wordt uitgevoerd op het moment dat ereen gesprek BINNENKOMT, danwel wordt AANGENOMEN, danwel wordt BEEINDIGD. Deze actie kan ook op de achtergrond worden uitgevoerd. Op basis van deze verbinding kan de Callvoip CRM-koppelingssoftware een actie starten bij de gewenste gebeurtenis die dan een volgactie in jouw CRM pakket laat starten, bv een popup of telefoonnotificatie. En uiteraard is het mogelijk om van een telefoonnummer dat NIET in jouw database wordt aangetroffen, een Google loockup te laten doen. Google zal de naam, adres, plaats en websitegegvens weergeven zodat je toch meer weet dan enkel een nummer in het display van je telefoon. <br>
 Bovendien kun je, naast bovenstaande gegevens, tot 4 knoppen in de pop-up definiëren om direct de juiste actie uit te voeren tijdens een telefoongesprek.<br>
-Denk hierbij aan: <br>
+Denk hierbij aan: <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer <br>
 • Maak een terugbelnotitie  <br>
 • Open website <br>
