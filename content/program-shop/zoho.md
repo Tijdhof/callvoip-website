@@ -88,7 +88,7 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 Denk hierbij aan:<br>
 • Open klant in ZoHo<br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
+En daarnaast: customized knoppen zoals: <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
