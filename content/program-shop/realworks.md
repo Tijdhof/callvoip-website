@@ -63,7 +63,7 @@ Dankzij de connector kun je de nummers in Realworks aanklikken en automatisch be
 Als het nummmer van de beller in Realworks staat, dan verzorgt Realworks de popup.<br>
 Als het nummer van de beller niet in Realworks staat, dan kun je zelf de popup van de connector vormgeven. Deze omvat het nummer van de beller, de gegevens die Google over het nummer kan vinden (naam, adres, woonplaats, website). <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br>
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
