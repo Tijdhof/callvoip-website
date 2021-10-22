@@ -31,5 +31,5 @@ headerside:
 ---
 
 **Welke voordelen levert Microsoft Teams?**
-
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Krijg een melding op je PC bij elk gesprek met de Callvoip integratie met Microsoft Teams. Één keer klikken en je hebt alle gegevens voor je. Dit pakket wordt veel gebruikt voor workflow.<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
