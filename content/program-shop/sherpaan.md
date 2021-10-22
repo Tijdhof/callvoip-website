@@ -15,9 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Webshop Software
-  - Nieuw
 weight: 10
-new: true
 url: /marketplace/Sherpaan/
 aliases: /program-shop/Sherpaan/
 headerside:
@@ -74,7 +72,7 @@ Je kunt dan de klantgegevens uit Sherpaan gebruiken, denk hierbij aan gegevens z
 • Last call user<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br>
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Open klant in Sherpaan CRM<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
