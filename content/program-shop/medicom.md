@@ -66,7 +66,7 @@ Dankzij de connector kun je de nummers in Medicom Pharmapartners CRM aanklikken 
 **Details van de popup in combinatie met Medicom Pharmapartners CRM:**<br>
 Als gebruiker kun je de pop-up zelf ontwerpen, en bij aannemen verschijnt de patiëntinformatie in Medicom reeds automatisch. <br>
 Daarnaast kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br>
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Open patiënt in Medicom<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
