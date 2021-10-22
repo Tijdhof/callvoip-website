@@ -59,7 +59,7 @@ Standaard is de RobinHQ Callvoip connector voorzien van de functie om automatisc
 Dankzij de connector kun je de nummers in RobinHQ aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met RobinHQ:**<br>
-De popup binnen RibnHQ speelt de hoofdrol, de popup van de koppeling voegt daar bv de Google verrijking van nummers die NIET in RobinHQ staan, aan toe, en een viertal handige toetsen. Denk bv aan deze customized knoppen: <br>
+De popup binnen RibnHQ speelt de hoofdrol, de popup van de koppeling voegt daar bv de Google verrijking van nummers die NIET in RobinHQ staan, aan toe, en een viertal handige toetsen. Denk bv aan deze customized knoppen: <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
