@@ -70,7 +70,7 @@ Je kunt dan de klantgegevens uit Bullhorn gebruiken, denk hierbij aan gegevens z
 &bull; etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br>
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Open klant in Bullhorn CRM<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
