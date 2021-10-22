@@ -50,7 +50,7 @@ Deze kunnen rechtstreeks koppelen met softwarepakketten, databases of databestan
 **Tip:** zorg dat je een .csv bestand periodiek bv dagelijks laat genereren en op een plaats laat zetten op een netwerkschijf. Als je de koppeling met dat bestand koppelt heb je elke dag toch beschikking over de laatste informatie. Het is niet realtime, nee, maar het komt er dan wel dichtbij. <br>
 <br>
 Verder kun je, naast bovenstaande gegevens, tot 4 knoppen in de pop-up definiëren om direct de juiste actie uit te voeren tijdens een telefoongesprek.<br>
-Denk hierbij aan: <br>
+Denk hierbij aan: <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Kopieer telefoonnummer <br>
 • Maak een terugbelnotitie  <br>
 • Open website <br>
