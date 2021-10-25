@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - E-commerce
+  - Custom bubble fields
 weight: 10
 url: /marketplace/salesforce/
 aliases: /program-shop/salesforce/
