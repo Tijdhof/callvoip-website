@@ -6,7 +6,7 @@ hideinsearch: true
 hideingoogle: false
 hero:
   title: Koppel je CRM aan onze slimme zakelijke telefonie!
-  info: "Wij koppelen onze slimme telefonie aan jouw CRM. Krijg een popup van elk telefoongesprek en werk sneller en efficienter."
+  info: "Wij koppelen onze slimme telefonie aan jouw CRM. Krijg een popup van elk telefoongesprek en werk sneller en efficiënter."
   form:
     title: "Vertel me meer!"
     desc: Benieuwd naar onze slimme popup en wat onze telefonie verder allemaal kan?
