@@ -16,6 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Custom bubble fields
 weight: 10
 url: /marketplace/afas-small/
 aliases: /program-shop/afas-small/
