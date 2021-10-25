@@ -17,6 +17,7 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Meest populair
+  - Custom bubble fields
 weight: 4
 populair: true
 url: /marketplace/afas
