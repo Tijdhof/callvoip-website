@@ -19,6 +19,8 @@ selected_tags2:
     info: Automatisch gesprekken opslaan
   - name: Integrated Popup
     info: Een popup met alle klantinformatie
+  - name: Custom bubble fields
+    info: Customize de popup.
 outputs:
   - HTML
   - JSON
