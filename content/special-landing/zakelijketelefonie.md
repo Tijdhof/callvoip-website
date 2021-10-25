@@ -6,7 +6,7 @@ hideinsearch: true
 hideingoogle: false
 hero:
   title: Slimme zakelijke, vaste telefonie voor iedereen!
-  info: "Met onze persoonlijke service en uitgekiende cloud centrale hebben we ook voor jouworganisatie de perfecte vaste telefonieoplossing."
+  info: "Met onze persoonlijke service en uitgekiende cloud centrale hebben we ook voor jouw organisatie de perfecte vaste telefonieoplossing."
   form:
     title: "Vertel me meer!"
     desc: Benieuwd naar onze service en wat onze slimme telefonie allemaal kan?
