@@ -16,9 +16,9 @@ selected_tags:
   - Nieuw
 selected_tags2:
   - name: Auto Call Log
-    info: Automatisch gesprekken opslaan.
+    info: Automatisch gesprekken opslaan
   - name: Integrated Popup
-    info: Een popup met alle klantinformatie, handig!
+    info: Een popup met alle klantinformatie
 outputs:
   - HTML
   - JSON
