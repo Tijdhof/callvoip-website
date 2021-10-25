@@ -45,6 +45,6 @@ anderen:
 
 btn:
   url: /zakelijketelefonie/#form
-  title: Vertel me meer over VoIP telefonie
+  title: Vertel me meer over jullie telefonie
   
 ---
