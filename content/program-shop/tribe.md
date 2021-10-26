@@ -14,6 +14,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
+  - Relatiebeheer
+  - Klantcontact
 weight: 10
 url: /marketplace/tribe/
 aliases: /program-shop/tribe/
