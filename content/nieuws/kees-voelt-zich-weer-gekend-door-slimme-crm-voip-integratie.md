@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: "/nieuws/persoonlijk-contact-door-techniek"
+url: "/nieuws/persoonlijk-contact-door-techniek/"
 contactpersoon: []
 categories: []
 tags: []
