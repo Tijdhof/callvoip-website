@@ -38,15 +38,6 @@ team:
     processen zodra je klant wordt. Maakt meer lawaai dan je denkt. Heeft iets met
     Griekenland. Vindt het leuk om op een paard te zitten.
   linkedin: ''
-- content: Dit charmante heerschap is de nieuwste Callvoip-telg. Steekt met zichtbaar
-    plezier zijn neus in andermans zaken. Weet dan behendig doch subtiel zijn ‘weldoordachte’
-    en brutale visie te ventileren. Ideale eigenschappen als support medewerker. Kleedt
-    zich met cachet zoals overeenkomstige kleurtjes. Droomt nog van zijn eigen podcast.
-    Kortom, mooie kerel die Tom. Zijn we blij mee.
-  function: Support
-  name: Tom Ravesloot
-  linkedin: ''
-  image: "/v1603205075/tom_yqm9df.png"
 - content: 'Wordt gelukkig van klanten helpen en heavy metal. Hij wordt bovendien
     blij van een leuk team om zich heen, dus het is een compliment dat hij onze gelederen
     heeft versterkt. Reisde met zijn vrouw samen al heel de wereld over en thuis wacht,
@@ -78,8 +69,8 @@ team:
   linkedin: https://www.linkedin.com/in/timschouwenaar/?locale=nl_NL
   image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
   name: Tim Schouwenaar
-description: 'Maak kennis met het team van Callvoip: Tim (2x), Tom, , Arjan, Remco,
-  Lynn, Herman, Marieke & Robert.'
+description: 'Maak kennis met het team van Callvoip: Tim (2x), Arjan, Remco, Lynn,
+  Herman, Marieke & Robert.'
 images: []
 hideinsearch: false
 hideingoogle: false
