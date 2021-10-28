@@ -17,7 +17,8 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Meest populair
-weight: 10
+weight: 1
+new: true
 url: /marketplace/tribe/
 aliases: /program-shop/tribe/
 headerside:
