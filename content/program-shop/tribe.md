@@ -1,6 +1,6 @@
 ---
-shorttitle: "Tribe"
-title: "Wij koppelen jouw CRM Tribe aan onze telefonie"
+shorttitle: "Tribe CRM"
+title: "Wij koppelen jouw Tribe-CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/tribe_dhpudw.png"
 description: Door het koppelen van Tribe CRM aan onze slimme telefonie werk je een stuk efficienter.
@@ -16,6 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Meest populair
 weight: 10
 url: /marketplace/tribe/
 aliases: /program-shop/tribe/
@@ -26,16 +27,16 @@ headerside:
     - Direct de klantgegevens in beeld
     - Met één klik uitbellen vanuit elk programma
   btn:
-    text: Tribe koppeling gratis testen?
+    text: Tribe CRM koppeling gratis testen?
     url: /aanvragen/voip-cti/
 
 
 ---
 
-<b>Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Tribe?</b><br>
+<b>Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Tribe CRM?</b><br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip Tribe telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket Tribe. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Tribe staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Tribe CRM telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket Tribe CRM. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Tribe CRM staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Tribe en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen:
@@ -51,16 +52,15 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Tribe aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in Tribe CRM aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
-**Details van de popup in combinatie met Tribe:**<br>
+**Details van de popup in combinatie met Tribe CRM:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit Tribe gebruiken, denk hierbij aan gegevens zoals: <br>
+Je kunt dan de klantgegevens uit Tribe CRM gebruiken, denk hierbij aan gegevens zoals: <br>
 &bull; Telefoonnummer <br>
 &bull; Naam<br>
 &bull; Bedrijfsnaam<br>
 &bull; Adres<br>
-&bull; Tijdzone<br>
 &bull; E-mail<br>
 &bull; Opmerkingen<br>
 &bull; Afdeling<br>
