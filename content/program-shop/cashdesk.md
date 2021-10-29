@@ -2,7 +2,7 @@
 shorttitle: "CashDesk"
 title: "Wij koppelen jouw CRM CashDesk aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/cashdesk_mpi4gj.png"
+logo: "/cashdesk-new_rrncjn.png"
 description: Door het koppelen van CashDesk CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
@@ -33,7 +33,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Cashdesk?<br>
 Cashdesk: geavanceerde horeca kassasystemen**<br>
 <br>
-**Samenvatting**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/Voip_x_CashDesk_2_1_xwod6x.png" style="float:right; padding-left:15px;" width=500px" class="zoom">**Samenvatting**<br>
 Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen telefonie van Callvoip en jouw CashDesk kassasysteem. Deze koppeling biedt een waardevolle toevoeging aan jouw bellende klanten. Zo kun je jouw waardevolle tijd nog efficienter benutten! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Wat biedt CashDesk?**<br>
