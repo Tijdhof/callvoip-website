@@ -1,5 +1,5 @@
 ---
-shorttitle: "Hubspot"
+shorttitle: "Hubspot + auto call log"
 title: "Wij koppelen jouw CRM Hubspot aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/hubspot_uo2xhs.png"
@@ -49,6 +49,9 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Geen match van het telefoonnummer met een contact in Hubspot? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
+<br>
+**Bonus: automatische call logging**<br>
+Standaard is de Hubspot Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Hubspot. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Hubspot aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
