@@ -16,7 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Meest populair
+  - Nieuw
 weight: 1
 new: true
 url: /marketplace/tribe/
