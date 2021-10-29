@@ -16,11 +16,11 @@ selected_tags:
   - Nieuw
 selected_tags2:
   - name: Auto Call Log
-    info: Automatisch gesprekken opslaan
+    info: Telefoongesprekken worden automatisch in het CRM pakket gelogd met vermelding van datum, tijd, duur en medewerker.
   - name: Integrated Popup
-    info: Een popup met alle klantinformatie
-  - name: Custom bubble fields
-    info: Customize de popup.
+    info: Van elk telefoongesprek verschijnt een popup in het CRM-pakket zelf, vaak met handige informatie en doorklikmogelijkheden. 
+  - name: Custom fields
+    info: In het CRM-pakket kun je eigen velden toevoegen; deze custom-velden kunnen ook weer in de pop-up worden getoond.
 outputs:
   - HTML
   - JSON
