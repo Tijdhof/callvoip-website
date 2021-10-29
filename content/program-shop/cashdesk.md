@@ -46,12 +46,13 @@ Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen t
 -	Een wachtrij waardoor je als consument nooit meer een ‘in gesprek’ toon hoort wat zorgt voor meer bestellingen.<br>
 <br>
 **Wat maakt de combinatie zo interessant?**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 -	CashDesk verkoopt de combinatie van CashDesk bezorgsoftware + Callvoip: wat Callvoip toevoegt in deze combinatie is dat zij de handmatige invoer van telefonische bestellingen optimaliseren.<br>
 -	Nu het afgelopen jaar het aantal bestellingen fors is toegenomen is de werkdruk hoger komen te liggen. Een hoge werkdruk zorgt voor behoefte aan manieren om efficiënter te werken om zo de werkdruk te kunnen verlagen. Callvoip zorgt voor dat stukje extra efficiëntie in het opnemen en werken van telefoontjes. <br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC vanuit CashDesk met daarin de klantgegevens. Je kunt zo doorklikken naar de kassasortware. <br>
 <br>
-**Technische gegevens:**<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+**Technische gegevens:**<br>
 Het softwarepakket Cashdesk CRM wordt gekoppeld met telefonie van Callvoip op basis van registratie van een toestelaccount. De CashDesk kassa rinkelt mee, krijgt het nummer en toont zo de informatie.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
