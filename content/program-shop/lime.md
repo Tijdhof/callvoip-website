@@ -1,6 +1,6 @@
 ---
-shorttitle: "Lime"
-title: "Wij koppelen jouw CRM Lime aan onze telefonie"
+shorttitle: "Lime CRM"
+title: "Wij koppelen jouw Lime CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/lime_hocejc.png"
 description: Door het koppelen van Lime CRM aan onze slimme telefonie werk je een stuk efficienter.
@@ -25,7 +25,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Bel automatisch uit vanuit elk programma
   btn:
-    text: Lime-koppeling gratis 1 week zelf testen?
+    text: Lime CRM-koppeling gratis 1 week zelf testen?
     url: /aanvragen/voip-cti/
 
 ---
