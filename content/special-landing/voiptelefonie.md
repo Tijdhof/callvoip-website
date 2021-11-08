@@ -1,5 +1,5 @@
 ---
-title: "Zakelijke VoIP telefone"
+title: "Zakelijke VoIP telefonie"
 date: 2021-10-12T21:05:12+05:00
 url: /voiptelefonie/
 hideinsearch: true
