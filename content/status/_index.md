@@ -29,7 +29,7 @@ items:
 - title: Trunk
   status: true
 - title: Callvoip Internet
-  status: false
+  status: true
 contentTop: Op deze pagina vindt u de status van de verschillende onderdelen van Simmpl,
   de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en incidenten.
 contentMiddle: ''
