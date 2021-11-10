@@ -37,17 +37,29 @@ Cashdesk: geavanceerde horeca kassasystemen**<br>
 Met de Callvoip CashDesk koppeling beschik je over een slimme koppeling tussen telefonie van Callvoip en jouw CashDesk kassasysteem. Deze koppeling biedt een waardevolle toevoeging aan jouw bellende klanten. Zo kun je jouw waardevolle tijd nog efficienter benutten! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Wat biedt CashDesk?**<br>
-✅	Bezorgsoftware voor bezorgrestaurants waarbij alle online orders (via Thuisbezorgd, Deliveroo, UberEats, andere platforms en de eigen website) automatisch worden geïmporteerd in één systeem, en waarmee u uw telefonische bestellingen eenvoudig kunt invoeren;<br>
-✅	Op maat gemaakte websites en bestel apps zodat consumenten direct bij uw restaurant kunnen bestellen zonder u commissies betaalt;<br>
-✅	Talloze oplossingen voor het managen van uw bezorgers (GPS-tracking, routeplanning), marketingopties om meer klanten via uw eigen website te laten bestellen en oplossingen op het gebied van data-analyse. <br>
+<div class="usp-list">
+<ul>
+<li>Bezorgsoftware voor bezorgrestaurants waarbij alle online orders (via Thuisbezorgd, Deliveroo, UberEats, andere platforms en de eigen website) automatisch worden geïmporteerd in één systeem, en waarmee u uw telefonische bestellingen eenvoudig kunt invoeren </li>
+<li> Op maat gemaakte websites en bestel apps zodat consumenten direct bij uw restaurant kunnen bestellen zonder u commissies betaalt </li>
+<li> Talloze oplossingen voor het managen van uw bezorgers (GPS-tracking, routeplanning), marketingopties om meer klanten via uw eigen website te laten bestellen en oplossingen op het gebied van data-analyse </li>
+</ul>
+</div>
 <br>
 **Wat biedt de telefoonkoppeling van Callvoip voor CashDesk gebruikers?**<br>
-✅	Directe nummerherkenning zodat telefonische bestellingen sneller opgenomen kunnen worden, en zodat er geen typefouten in telefoonnummers worden gemaakt;<br>
-✅	Een wachtrij waardoor je als consument nooit meer een ‘in gesprek’ toon hoort wat zorgt voor meer bestellingen.<br>
+<div class="usp-list">
+<ul>
+<li> Directe nummerherkenning zodat telefonische bestellingen sneller opgenomen kunnen worden, en zodat er geen typefouten in telefoonnummers worden gemaakt </li>
+<li> Een wachtrij waardoor je als consument nooit meer een ‘in gesprek’ toon hoort wat zorgt voor meer bestellingen </li>
+</ul>
+</div>
 <br>
 **Wat maakt de combinatie zo interessant?**<br>
-✅	CashDesk verkoopt de combinatie van CashDesk bezorgsoftware + Callvoip: wat Callvoip toevoegt in deze combinatie is dat zij de handmatige invoer van telefonische bestellingen optimaliseren.<br>
-✅	Nu het afgelopen jaar het aantal bestellingen fors is toegenomen is de werkdruk hoger komen te liggen. Een hoge werkdruk zorgt voor behoefte aan manieren om efficiënter te werken om zo de werkdruk te kunnen verlagen. Callvoip zorgt voor dat stukje extra efficiëntie in het opnemen en werken van telefoontjes. <br>
+<div class="usp-list">
+<ul>
+<li> CashDesk verkoopt de combinatie van CashDesk bezorgsoftware + Callvoip: wat Callvoip toevoegt in deze combinatie is dat zij de handmatige invoer van telefonische bestellingen optimaliseren. </li>
+<li> Nu het afgelopen jaar het aantal bestellingen fors is toegenomen is de werkdruk hoger komen te liggen. Een hoge werkdruk zorgt voor behoefte aan manieren om efficiënter te werken om zo de werkdruk te kunnen verlagen. Callvoip zorgt voor dat stukje extra efficiëntie in het opnemen en werken van telefoontjes </li>
+</ul>
+</div>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC vanuit CashDesk met daarin de klantgegevens. Je kunt zo doorklikken naar de kassasortware. <br>
