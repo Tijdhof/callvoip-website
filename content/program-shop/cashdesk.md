@@ -54,4 +54,5 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Cashdesk CRM wordt gekoppeld met telefonie van Callvoip op basis van registratie van een toestelaccount. De CashDesk kassa rinkelt mee, krijgt het nummer en toont zo de informatie.<br>
+<a href="https://www.callvoip.nl/nieuws/cashdesk-en-callvoip/" target="_blank">Gebruikerservaring: CashDesk en Callvoip bezorgen de afhaal- en bezorgbranche efficiëntie</a><br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
