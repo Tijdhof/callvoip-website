@@ -1,9 +1,10 @@
 ---
 title: Met Callvoip de wereld over…
-description: ''
+description: 'Callvoip klanten over de grens. Nomadische telefonie en meer en waarom
+  dat bij Callvoip heel handig is. '
 images: []
 featured: false
-hideinsearch: true
+hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
 image_uitgelicht: ''
