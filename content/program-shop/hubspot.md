@@ -34,7 +34,7 @@ headerside:
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Hubspot?<br>
 Hubspot: CRM platform met software voor marketing, sales, customer service, content management en operations**<br>
-<br>
+<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/hubspot_nroxeg.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">
 **Samenvatting**<br>
 Met de Callvoip Hubspot telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Hubspot. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Hubspot staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
