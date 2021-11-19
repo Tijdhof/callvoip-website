@@ -2,7 +2,7 @@
 shorttitle: "Urios"
 title: "Wij koppelen jouw CRM Urios aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/urios_tfxa0m.png"
+logo: "/urios_xvukgj.png"
 description: Door het koppelen van Urios CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
