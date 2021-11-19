@@ -14,7 +14,7 @@ button:
 categories:
   - E-commerce
   - Meest populair
-  - auto call log
+  - Auto call log
 weight: 3
 populair: true
 url: /marketplace/hubspot/
