@@ -8,7 +8,7 @@ error: false
 Start: 26-11-2021 om 21.00 uur  
 Eind: 28-11-2021 om 06.00 uur
 
-Tijdens het onderhoud wordt de volgende impact verwacht:   
+Tijdens het onderhoud wordt de volgende impact verwacht:  
 \* 2e SIP-trunk: volledig offline  
 \* 1e SIP-trunk: online met interrupties  
 \* gesprekken: interrupties  
@@ -16,5 +16,7 @@ Tijdens het onderhoud wordt de volgende impact verwacht:
 \* Realtime API: mogelijk onderbrekingen, max. 30 minuten  
 \* Qaller: mogelijk onderbrekingen, max. 30 minuten
 
-Onze welgemeende excuses voor de eventuele hinder die dit onderhoud kan opleveren.   
+NB: Trunkgebruikers wordt met klem geadviseerd om beide trunkregistraties te gebruiken; tijdens dit onderhoud blijft u via de primaire trunkregistratie bereikbaar. 
+
+Onze welgemeende excuses voor de eventuele hinder die dit onderhoud kan opleveren.  
 Team Callvoip
