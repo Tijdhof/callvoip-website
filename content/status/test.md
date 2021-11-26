@@ -5,8 +5,8 @@ error: false
 ---
 **Onderhoudsaankondiging**
 
-Start: 26-11-2021 om 21.00 uur  
-Eind: 28-11-2021 om 06.00 uur
+Start: vrijdag 26-11-2021 om 21.00 uur  
+Eind: zondag 28-11-2021 om 06.00 uur
 
 Tijdens het onderhoud wordt de volgende impact verwacht:  
 \* 2e SIP-trunk: volledig offline  
