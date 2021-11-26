@@ -16,4 +16,5 @@ Tijdens het onderhoud wordt de volgende impact verwacht:
 \* Realtime API: mogelijk onderbrekingen, max. 30 minuten  
 \* Qaller: mogelijk onderbrekingen, max. 30 minuten
 
-Onze welgemeende excuses voor de eventuele hinder die dit onderhoud kan opleveren. 
+Onze welgemeende excuses voor de eventuele hinder die dit onderhoud kan opleveren.   
+Team Callvoip
