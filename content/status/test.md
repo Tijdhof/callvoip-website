@@ -3,4 +3,17 @@ title: Meldingen
 error: false
 
 ---
-Geen meldingen, de telefonie werkt naar behoren.
+**Onderhoudsaankondiging**
+
+Start: 26-11-2021 om 21.00 uur  
+Eind: 28-11-2021 om 06.00 uur
+
+Tijdens het onderhoud wordt de volgende impact verwacht:   
+\* 2e SIP-trunk: volledig offline  
+\* 1e SIP-trunk: online met interrupties  
+\* gesprekken: interrupties  
+\* webservices: mogelijk onderbrekingen, max. 30 minuten  
+\* Realtime API: mogelijk onderbrekingen, max. 30 minuten  
+\* Qaller: mogelijk onderbrekingen, max. 30 minuten
+
+Onze welgemeende excuses voor de eventuele hinder die dit onderhoud kan opleveren. 
