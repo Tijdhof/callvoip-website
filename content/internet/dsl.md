@@ -55,7 +55,7 @@ usps:
       performance.
 intro:
   title: Welke abonnementen zijn er?
-  content: ''
+  content: 'Callvoip levert altijd de hoogste snelheid mogelijk, dit is is afhankelijk van de locatie.'
 images: []
 hideinsearch: false
 hideingoogle: false
