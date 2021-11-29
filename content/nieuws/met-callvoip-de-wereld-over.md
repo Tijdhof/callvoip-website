@@ -48,7 +48,7 @@ Andere toepassingen zijn bijvoorbeeld mensen die overwinteren aan een Spaanse Co
 
 Verrassing! Of misschien na deze inleiding niet meer zo’n grote verrassing ;-) Niet al onze klanten die jou bellen met een vast, Nederlands nummer zitten daadwerkelijk binnen de landsgrenzen van de Nederlandse staat!
 
-Zo kan op een mooie dag je telefoon overgaan met in beeld een 020 nummer. Amsterdam, denk je dan natuurlijk meteen. Maar onze klant Hyper Talented zal op dat moment eerder uitkijken over de Eiffeltoren dan over de Dam.  
+Zo kan op een mooie dag je telefoon overgaan met in beeld een 020 nummer. Amsterdam, denk je dan natuurlijk meteen. Maar onze klant Hyper Talented zal op dat moment eerder uitkijken over de Eiffeltoren dan over de Dam. Zie ook onderstaand kader.
 
 Of misschien ken je het gevoel dat je aarzelt te bellen naar die camping in het buitenland met dat internationale nummer met hoge kosten? Niet bij Callvoip klant Camping Du Nord in Luxemburg: je belt hen met lokaal tarief op een regionaal nummer uit Dieren.
 
