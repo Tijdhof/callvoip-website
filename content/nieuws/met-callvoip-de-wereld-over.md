@@ -49,15 +49,16 @@ Andere toepassingen zijn bijvoorbeeld mensen die overwinteren aan een Spaanse Co
 Verrassing! Of misschien na deze inleiding niet meer zo’n grote verrassing ;-) Niet al onze klanten die jou bellen met een vast, Nederlands nummer zitten daadwerkelijk binnen de landsgrenzen van de Nederlandse staat!
 
 Zo kan op een mooie dag je telefoon overgaan met in beeld een 020 nummer. Amsterdam, denk je dan natuurlijk meteen. Maar onze klant Hyper Talented zal op dat moment eerder uitkijken over de Eiffeltoren dan over de Dam.  
-<p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">
-Karel-Oscar heeft een internationaal recruitment agency genaamd HyperTalented en is spreker over sales en business development in Europa. Hij woont in Parijs en reist vaak tussen Nederland en Frankrijk. Zijn team zit in Parijs. Echter hebben zij ook het remote werken omarmt en door het gemak van de Qaller App van Callvoip kunnen ze direct en overal werken. In een interview met Karel-Oscar geeft hij aan hoe hij door Callvoip veel tijd heeft kunnen winnen.<br><br>
-<b>“ We hebben geïnvesteerd in goede heatsets en het team heeft de app op zijn telefoon, het gebruik is simpel en de kwaliteit is subliem, we hebben ons CRM gekoppeld en hierdoor kan ik ook precies de performance van mijn team bekijken en mocht er iets zijn dan zijn Marieke of Robert altijd snel bereikbaar. “<br>--- Karel-Oscar, HyperTalented</b></p>
 
 Of misschien ken je het gevoel dat je aarzelt te bellen naar die camping in het buitenland met dat internationale nummer met hoge kosten? Niet bij Callvoip klant Camping Du Nord in Luxemburg: je belt hen met lokaal tarief op een regionaal nummer uit Dieren.
 
 Of neem Wonen Limburg: zij wilde een paar maanden reizen, maar wel gewoon doorwerken terwijl ze duizenden kilometers verderop is. Dus neemt ze een laptop met Webcalls en een headset mee en kan overal met haar 0475 nummer bellen en gebeld worden.
 
 We kunnen nog wel even doorgaan: klanten met een huis in het buitenland die dan weer daar, dan weer in Nederland zijn zonder dat bellers daar iets van merken. Of bedrijven die in meerdere landen actief zijn maar alle inkomende, internationale telefoontjes in Nederland afhandelen, ongeacht het gebelde nummer.
+
+<p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">
+Karel-Oscar heeft een internationaal recruitment agency genaamd HyperTalented en is spreker over sales en business development in Europa. Hij woont in Parijs en reist vaak tussen Nederland en Frankrijk. Zijn team zit in Parijs. Echter hebben zij ook het remote werken omarmt en door het gemak van de Qaller App van Callvoip kunnen ze direct en overal werken. In een interview met Karel-Oscar geeft hij aan hoe hij door Callvoip veel tijd heeft kunnen winnen.<br><br>
+<b>“ We hebben geïnvesteerd in goede heatsets en het team heeft de app op zijn telefoon, het gebruik is simpel en de kwaliteit is subliem, we hebben ons CRM gekoppeld en hierdoor kan ik ook precies de performance van mijn team bekijken en mocht er iets zijn dan zijn Marieke of Robert altijd snel bereikbaar. “<br>--- Karel-Oscar, HyperTalented</b></p>
 
 **Andersom: in Nederland bellen met een niet Nederlands nummer**
 
