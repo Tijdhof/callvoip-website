@@ -82,5 +82,5 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket XPS CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
-<a href="https://secure.xpslogic.com/service?&client=test_service_redcactus&service=service&module=hlp&action=manuals_system&hlp_manuals_system_xpsid=424&response=html" target="_blank">Hier vind je de installatiehandleiding. </a>.
+<a href="https://secure.xpslogic.com/service?&client=test_service_redcactus&service=service&module=hlp&action=manuals_system&hlp_manuals_system_xpsid=424&response=html" target="_blank">Hier vind je de installatiehandleiding.</a><br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
