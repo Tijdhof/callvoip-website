@@ -7,7 +7,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1638194010/callvoipmap_hgju0k.png"
 hero:
   image: ''
   mobile: ''
@@ -59,6 +59,8 @@ We kunnen nog wel even doorgaan: klanten met een huis in het buitenland die dan 
 <p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1638190782/50cc3204-6930-49f3-a1ad-8418df365994_t0ay61.jpg" style="float:right; padding:5px" width="250px">Karel-Oscar heeft een internationaal recruitment agency genaamd HyperTalented en is spreker over sales en business development in Europa. Hij woont in Parijs en reist vaak tussen Nederland en Frankrijk. Zijn team zit in Parijs. Echter hebben zij ook het remote werken omarmt en door het gemak van de Qaller App van Callvoip kunnen ze direct en overal werken. In een interview met Karel-Oscar geeft hij aan hoe hij door Callvoip veel tijd heeft kunnen winnen.<br><br>
 <b>“ We hebben geïnvesteerd in goede heatsets en het team heeft de app op zijn telefoon, het gebruik is simpel en de kwaliteit is subliem, we hebben ons CRM gekoppeld en hierdoor kan ik ook precies de performance van mijn team bekijken en mocht er iets zijn dan zijn Marieke of Robert altijd snel bereikbaar. “<br>--- Karel-Oscar, HyperTalented</b></p>
+
+![](https://res.cloudinary.com/callvoip/image/upload/v1638194010/callvoipmap_hgju0k.png)
 
 **Andersom: in Nederland bellen met een niet Nederlands nummer**
 
