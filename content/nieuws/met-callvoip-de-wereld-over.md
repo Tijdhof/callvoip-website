@@ -19,7 +19,7 @@ url: "/nieuws/callvoipwereldwijd/"
 contactpersoon: []
 categories: []
 tags: []
-draft: true
+type: ''
 
 ---
 ‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?
@@ -48,7 +48,10 @@ Andere toepassingen zijn bijvoorbeeld mensen die overwinteren aan een Spaanse Co
 
 Verrassing! Of misschien na deze inleiding niet meer zo’n grote verrassing ;-) Niet al onze klanten die jou bellen met een vast, Nederlands nummer zitten daadwerkelijk binnen de landsgrenzen van de Nederlandse staat!
 
-Zo kan op een mooie dag je telefoon overgaan met in beeld een 020 nummer. Amsterdam, denk je dan natuurlijk meteen. Maar onze klant Hyper Talented zal op dat moment eerder uitkijken over de Eiffeltoren dan over de Dam.
+Zo kan op een mooie dag je telefoon overgaan met in beeld een 020 nummer. Amsterdam, denk je dan natuurlijk meteen. Maar onze klant Hyper Talented zal op dat moment eerder uitkijken over de Eiffeltoren dan over de Dam.  
+  
+Karel-Oscar heeft een internationaal recruitment agency genaamd HyperTalented en is spreker over sales en business development in Europa. Hij woont in Parijs en reist vaak tussen Nederland en Frankrijk. Zijn team zit in Parijs. Echter hebben zij ook het remote werken omarmt en door het gemak van de Qaller App van Callvoip kunnen ze direct en overal werken. In een interview met Karel-Oscar geeft hij aan hoe hij door Callvoip veel tijd heeft kunnen winnen.  
+**“ We hebben geïnvesteerd in goede heatsets en het team heeft de app op zijn telefoon, het gebruik is simpel en de kwaliteit is subliem, we hebben ons CRM gekoppeld en hierdoor kan ik ook precies de performance van mijn team bekijken en mocht er iets zijn dan zijn Marieke of Robert altijd snel bereikbaar. “**
 
 Of misschien ken je het gevoel dat je aarzelt te bellen naar die camping in het buitenland met dat internationale nummer met hoge kosten? Niet bij Callvoip klant Camping Du Nord in Luxemburg: je belt hen met lokaal tarief op een regionaal nummer uit Dieren.
 
