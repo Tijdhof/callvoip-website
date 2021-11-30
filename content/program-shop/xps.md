@@ -1,9 +1,9 @@
 ---
-shorttitle: "XPS Logic CRM"
-title: "Wij koppelen jouw CRM XPS Logic aan onze telefonie"
+shorttitle: "XPS CRM"
+title: "Wij koppelen jouw CRM XPS aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/xps_j5cmou.png"
-description: Door het koppelen van XPS Logic CRM aan onze slimme telefonie werk je een stuk efficienter.
+description: Door het koppelen van XPS CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
@@ -34,14 +34,14 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket XPS Logic?<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket XPS CRM?<br>
 XPS Logic: CRM software speciaal voor Relatiebeheer**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip XPS telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket XPS Logic. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in XPS Logic staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip XPS telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket XPS. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in XPS CRM staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit XPS en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen:
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit XPS CRM en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen:
 <div class="usp-list">
 <ul>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
@@ -49,12 +49,12 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
 <li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
 <li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
-<li>Geen match van het telefoonnummer met een contact in XPS Logic? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>Geen match van het telefoonnummer met een contact in XPS CRM? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in XPS Logic aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in XPS CRM aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met XPS:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
@@ -72,7 +72,7 @@ Je kunt dan de klantgegevens uit XPS Logic gebruiken, denk hierbij aan gegevens 
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
-• Open klant in XPS Logic CRM<br>
+• Open klant in XPS CRM<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
 • Kopieer telefoonnummer<br>
@@ -81,6 +81,6 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket XPS Logic CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
-<a href="https://secure.xpslogic.com/service?&client=test_service_redcactus&service=service&module=hlp&action=manuals_system&hlp_manuals_system_xpsid=424&response=html" target="_blank">Hier vind je de instructies om de Callvoip XPS Logic koppeling in te stellen.</a><br>
+Het softwarepakket XPS CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+<a href="https://secure.xpslogic.com/service?&client=test_service_redcactus&service=service&module=hlp&action=manuals_system&hlp_manuals_system_xpsid=424&response=html" target="_blank">Hier vind je de instructies om de Callvoip XPS CRM koppeling in te stellen.</a><br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
