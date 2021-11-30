@@ -37,7 +37,7 @@ headerside:
 Gripp: de online bedrijfssoftware voor procesgeorienteerde bureaus en dienstverleners met ambitie**<br>
 <br>
 **Samenvatting**<br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/gripp_jkjoo9.png" style="float:right; padding-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Gripp telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Gripp. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Outsmart staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/gripp_jkjoo9.png" style="float:right; padding-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Gripp telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Gripp. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Gripp staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Gripp en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
