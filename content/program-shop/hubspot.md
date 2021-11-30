@@ -15,6 +15,7 @@ categories:
   - E-commerce
   - Meest populair
   - Auto call log
+  - Custom fields
 weight: 3
 populair: true
 url: /marketplace/hubspot/
