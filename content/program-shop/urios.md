@@ -82,4 +82,5 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Urios CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+<a href="https://www.urios.nl/helpdesk/dossiers-relaties/#VoIP-bellen-vanuit-Urios" target="_blank">Hier vind je de instructies om de Callvoip Urios koppeling in te stellen. </b><br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
