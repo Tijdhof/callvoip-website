@@ -35,7 +35,7 @@ headerside:
 Urios: software voor tijdschrijven en werken op declaratiebasis, veelgebruikt door o.a. advocaten**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip Urios telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket Urios. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Urios staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Urios telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket Urios. Urios is een tijdschrijf- en declaratieprogramma, dat veel wordt gebruikt door o.a. de advocatuur. Met de Callvoip Urios koppeling kunnen gebruikers meer bereiken in minder handelingen; zodra een gesprek start, gaat direct een stopwatch lopen. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Urios staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Urios en kun je direct de klantkaart openen. De pop-up heeft een aantal unieke eigenschappen:
@@ -49,6 +49,9 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Geen match van het telefoonnummer met een contact in Urios? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
 </div>
+<br>
+**Bonus: gespreks-pop-up in Urios zelf met gespreks-timer / stopwatch**<br>
+Bij een inkomend gesprek verschijnt er een gesprekspop-up in Urios zelf dankzij de ingebouwde telefoonkoppeling van urios. Deze pop-up omvat alle relevante klantinformatie zodat je direct de juiste context hebt en het gesprek gelijk inhoudelijk kunt starten. Bovendien gaat er gelijk een stopwatch lopen zodra je het gesprek start. De tijd van het gesprek kun je vervolgens direct doorboeken op het juiste dossier en desgewenst achteraf nog aanpassen. Omdat Urios zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Urios staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in Urios te openen. <br>
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Urios aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
