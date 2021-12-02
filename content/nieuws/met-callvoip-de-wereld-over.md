@@ -27,7 +27,7 @@ type: ''
 <tbody>
 <tr>
 <td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</td>
-<td><p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</p></td>
+<td><p style="border:2px; border-style:solid; border-color:#606060; padding: 1em;">‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</p></td>
 </tr>
 </tbody>
 </table>
