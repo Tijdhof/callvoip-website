@@ -27,7 +27,7 @@ type: ''
 <tbody>
 <tr>
 <td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?<br><br>Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.<br><br><b>Minimale eisen, maximale vrijheid</b></td>
-<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em; font-size:85%; background-color:e0e0e0;"><b>Callvoip overal: de tools</b><div class="usp-list"><ul><li><a href= "/webcalls">Bel met je PC</a></li><li><a href="/qaller">Bel met je smartphone</a></li><li><a href="/2fa">Veilig inloggen: 2FA</a></li><li><a href="/telefonie/hostedvoip/">Cloud overal toegankelijk</a></li></ul></div></td>
+<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em; font-size:85%; background-color:#e0e0e0;"><b>Callvoip overal: de tools</b><div class="usp-list"><ul><li><a href= "/webcalls">Bel met je PC</a></li><li><a href="/qaller">Bel met je smartphone</a></li><li><a href="/2fa">Veilig inloggen: 2FA</a></li><li><a href="/telefonie/hostedvoip/">Cloud overal toegankelijk</a></li></ul></div></td>
 </tr>
 </tbody>
 </table>
