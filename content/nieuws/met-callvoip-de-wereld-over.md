@@ -27,7 +27,7 @@ type: ''
 <tbody>
 <tr>
 <td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?<br><br>Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.<br><br><b>Minimale eisen, maximale vrijheid</b></td>
-<td style="padding: 1em; font-size:85%; background-color:#f5f5f5;"><b>Callvoip overal: de tools</b><div class="usp-list"><ul><li><a href= "/webcalls">Bel met je PC</a></li><li><a href="/qaller">Bel met je smartphone</a></li><li><a href="/2fa">Veilig inloggen: 2FA</a></li><li><a href="/telefonie/hostedvoip/">Cloud overal toegankelijk</a></li></ul></div></td>
+<td style="padding: 1em; font-size:85%; background-color:#f5f5f5;" width="210px"><b>Callvoip overal: de tools</b><div class="usp-list"><ul><li><a href= "/webcalls">Bel met je PC</a></li><li><a href="/qaller">Bel met je smartphone</a></li><li><a href="/2fa">Veilig inloggen: 2FA</a></li><li><a href="/telefonie/hostedvoip/">Cloud overal toegankelijk</a></li></ul></div></td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ Of neem Wonen Limburg: zij wilde een paar maanden reizen, maar wel gewoon doorwe
 
 We kunnen nog wel even doorgaan: klanten met een huis in het buitenland die dan weer daar, dan weer in Nederland zijn zonder dat bellers daar iets van merken. Of bedrijven die in meerdere landen actief zijn maar alle inkomende, internationale telefoontjes in Nederland afhandelen, ongeacht het gebelde nummer.
 
-<p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">
+<p style="background-color:#f5f5f5; padding: 1em;">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1638190782/50cc3204-6930-49f3-a1ad-8418df365994_t0ay61.jpg" style="float:right; padding:5px" width="250px">Karel-Oscar heeft een internationaal recruitment agency genaamd HyperTalented en is spreker over sales en business development in Europa. Hij woont in Parijs en reist vaak tussen Nederland en Frankrijk. Zijn team zit in Parijs. Echter hebben zij ook het remote werken omarmt en door het gemak van de Qaller App van Callvoip kunnen ze direct en overal werken. In een interview met Karel-Oscar geeft hij aan hoe hij door Callvoip veel tijd heeft kunnen winnen.<br><br>
 <b>“ We hebben geïnvesteerd in goede heatsets en het team heeft de app op zijn telefoon, het gebruik is simpel en de kwaliteit is subliem, we hebben ons CRM gekoppeld en hierdoor kan ik ook precies de performance van mijn team bekijken en mocht er iets zijn dan zijn Marieke of Robert altijd snel bereikbaar. “<br>--- Karel-Oscar, HyperTalented</b></p>
 
