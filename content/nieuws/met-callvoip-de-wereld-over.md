@@ -68,15 +68,10 @@ We kunnen nog wel even doorgaan: klanten met een huis in het buitenland die dan 
 
 Waar de nomadische bellers over de hele wereld zijn en bellen met hun Nederlandse vaste nummer, zijn er ook mogelijkheden om het andersom te doen. Misschien heb jij wel een kleine vestiging of zelfs alleen een vertegenwoordiger in België of Duitsland. Voor klanten uit die landen is een nummer in het betreffende land wel zo professioneel, maar misschien wil je de daadwerkelijke telefoongesprekken wel bij je Nederlandse klantenservice afwikkelen.
 
-Ook dit kun je oplossen met onze telefonie. Een +32 nummer uit België bijvoorbeeld hoeft namelijk net zo min in België te rinkelen als een Nederlands nummer binnen Nederland. Je Nederlandse klantenservice kan dus de telefonische support van je Belgische vertegenwoordiger makkelijk waarnemen. En met een zgn. Prefix of een handig keuzemenu kunnen we er voor zorgen dat bij de medewerkers meteen duidelijk is via welk nummer zo’n telefoongesprek binnenkomt.
+Ook dit kun je oplossen met onze telefonie. Een +32 nummer uit België bijvoorbeeld hoeft namelijk net zo min in België te rinkelen als een Nederlands nummer binnen Nederland. Je Nederlandse klantenservice kan dus de telefonische support van je Belgische vertegenwoordiger makkelijk waarnemen. En met een zgn. Prefix of een handig keuzemenu kunnen we er voor zorgen dat bij de medewerkers meteen duidelijk is via welk nummer zo’n telefoongesprek binnenkomt. Zo'n internationaal nummer aanvragen is vaak eenvoudig. Bekijk ook [deze pagina.](https://www.callvoip.nl/telefonie/internationale-nummers/) 
 
-**Callvoip overal: waarom het handig is.**
+**Callvoip wereldwijd: Wil jij dat ook?**
 
-Waarom zijn onze klanten blij met onze dienst bij hun internationale ondernemingen? We sommen even kort de handigste functionaliteiten op voor de nomadische telefonie gebruiker:
+Je hebt kunnen lezen dat je met al wat we te bieden hebben volledig locatieonafhankelijk kunt zijn met je telefonie. Of je nu wilt thuiswerken of nomadisch bellen, het kan allemaal!
 
-* Webcalls - bel met je laptop of PC
-* Qaller - bel met je smartphone
-* 2 step authenticatie: log overal ter wereld veilig in
-* Cloud centrale: overal ter wereld toegankelijk voor aanpassingen
-
-Met deze korte lijst plus al het andere wat we te bieden hebben ben je volledig locatieonafhankelijk. Of je nu wilt thuiswerken of nomadisch bellen, het kan allemaal! We denken graag mee bij jouw internationale vraagstukken!
+We denken graag mee bij jouw internationale vraagstukken! Neem [contact ](https://www.callvoip.nl/contact/)op als je meer wilt weten of vragen hebt!
