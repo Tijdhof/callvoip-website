@@ -27,7 +27,7 @@ type: ''
 <tbody>
 <tr>
 <td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?<br><br>Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.<br><br><b>Minimale eisen, maximale vrijheid</b><br><br>Weet je wat je eigenlijk, naast dat je bij ons klant bent, nodig hebt om te kunnen bellen? Een toestel op je bureau? Een vaste locatie?</td>
-<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em; font-size:90%;"><b>Callvoip overal gebruiken: waarom het handig is</b><div class="usp-list"><ul><li><a href= "/webcalls">Webcalls - bel met je laptop of PC</a></li><li>Qaller - bel met je smartphone</li><li>2 step authenticatie: log overal ter wereld veilig in</li><li>Cloud centrale: overal ter wereld toegankelijk</li></ul></div></td>
+<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em; font-size:85%;"><b>Callvoip overal gebruiken: waarom het handig is</b><div class="usp-list"><ul><li><a href= "/webcalls">Webcalls - bel met je laptop of PC</a></li><li>Qaller - bel met je smartphone</li><li>2 step authenticatie: log overal ter wereld veilig in</li><li>Cloud centrale: overal ter wereld toegankelijk</li></ul></div></td>
 </tr>
 </tbody>
 </table>
