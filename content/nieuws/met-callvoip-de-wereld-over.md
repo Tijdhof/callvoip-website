@@ -26,13 +26,11 @@ type: ''
 <table>
 <tbody>
 <tr>
-<td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</td>
-<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em;"><b>Callvoip overal gebruiken: waarom het handig is</b><div class="usp-list"><br><ul><li>Webcalls - bel met je laptop of PC</li><li>Qaller - bel met je smartphone</li><li>2 step authenticatie: log overal ter wereld veilig in</li><li>Cloud centrale: overal ter wereld toegankelijk</li></ul></div></td>
+<td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?<br><br>Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.</td>
+<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em;"><b>Callvoip overal gebruiken: waarom het handig is</b><div class="usp-list"><ul><li>Webcalls - bel met je laptop of PC</li><li>Qaller - bel met je smartphone</li><li>2 step authenticatie: log overal ter wereld veilig in</li><li>Cloud centrale: overal ter wereld toegankelijk</li></ul></div></td>
 </tr>
 </tbody>
 </table>
-
-Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.
 
 **Minimale eisen, maximale vrijheid**
 
