@@ -31,7 +31,7 @@ type: ''
 </tr>
 </tbody>
 </table>
-<br><br>Weet je wat je eigenlijk, naast dat je bij ons klant bent, nodig hebt om te kunnen bellen? Een toestel op je bureau? Een vaste locatie? Nee hoor, feitelijk is het enige wat je nodig hebt een apparaat met internettoegang, een microfoon en speaker. Dat kan natuurlijk van alles zijn: een smartphone heeft alles in zich, een laptop (al dan niet met headset) ook, net als een vast toestel of een PC met headset. Die laatste 2 heb je alleen niet altijd in je broekzak ;-)<br><br>
+<br>Weet je wat je eigenlijk, naast dat je bij ons klant bent, nodig hebt om te kunnen bellen? Een toestel op je bureau? Een vaste locatie? Nee hoor, feitelijk is het enige wat je nodig hebt een apparaat met internettoegang, een microfoon en speaker. Dat kan natuurlijk van alles zijn: een smartphone heeft alles in zich, een laptop (al dan niet met headset) ook, net als een vast toestel of een PC met headset. Die laatste 2 heb je alleen niet altijd in je broekzak ;-)<br><br>
 Internettoegang heb je op veel plekken wel, ook over de grens. Op onderstaande kaart (bron: [Wikipedia](https://nl.wikipedia.org/wiki/Internet)) die alweer 5 jaar oud is, valt te zien dat je alleen op Antarctica en in centraal Afrika wel eens lastig een verbinding zou kunnen vinden.
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1637239393/InternetPenetrationWorldMap_iywvug.svg)
