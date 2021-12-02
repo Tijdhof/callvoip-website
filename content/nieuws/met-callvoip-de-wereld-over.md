@@ -26,15 +26,11 @@ type: ''
 <table>
 <tbody>
 <tr>
-<td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?<br><br>Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.</td>
-<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em;"><b>Callvoip overal gebruiken: waarom het handig is</b><div class="usp-list"><ul><li><a href= "/webcalls">Webcalls - bel met je laptop of PC</a></li><li>Qaller - bel met je smartphone</li><li>2 step authenticatie: log overal ter wereld veilig in</li><li>Cloud centrale: overal ter wereld toegankelijk</li></ul></div></td>
+<td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?<br><br>Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.<br><br><b>Minimale eisen, maximale vrijheid</b><br><br>Weet je wat je eigenlijk, naast dat je bij ons klant bent, nodig hebt om te kunnen bellen? Een toestel op je bureau? Een vaste locatie? Nee hoor, feitelijk is het enige wat je nodig hebt een apparaat met internettoegang, een microfoon en speaker. Dat kan natuurlijk van alles zijn: een smartphone heeft alles in zich, een laptop (al dan niet met headset) ook, net als een vast toestel of een PC met headset. Die laatste 2 heb je alleen niet altijd in je broekzak ;-)</td>
+<td style="border:2px; border-style:solid; border-color:#606060; padding: 1em; font-size:90%;"><b>Callvoip overal gebruiken: waarom het handig is</b><div class="usp-list"><ul><li><a href= "/webcalls">Webcalls - bel met je laptop of PC</a></li><li>Qaller - bel met je smartphone</li><li>2 step authenticatie: log overal ter wereld veilig in</li><li>Cloud centrale: overal ter wereld toegankelijk</li></ul></div></td>
 </tr>
 </tbody>
 </table>
-
-**Minimale eisen, maximale vrijheid**
-
-Weet je wat je eigenlijk, naast dat je bij ons klant bent, nodig hebt om te kunnen bellen? Een toestel op je bureau? Een vaste locatie? Nee hoor, feitelijk is het enige wat je nodig hebt een apparaat met internettoegang, een microfoon en speaker. Dat kan natuurlijk van alles zijn: een smartphone heeft alles in zich, een laptop (al dan niet met headset) ook, net als een vast toestel of een PC met headset. Die laatste 2 heb je alleen niet altijd in je broekzak ;-)
 
 Internettoegang heb je op veel plekken wel, ook over de grens. Op onderstaande kaart (bron: [Wikipedia](https://nl.wikipedia.org/wiki/Internet)) die alweer 5 jaar oud is, valt te zien dat je alleen op Antarctica en in centraal Afrika wel eens lastig een verbinding zou kunnen vinden.
 
