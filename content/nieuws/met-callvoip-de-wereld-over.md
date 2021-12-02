@@ -27,7 +27,7 @@ type: ''
 <tbody>
 <tr>
 <td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</td>
-<td><p style="border:2px; border-style:solid; border-color:#606060; padding: 1em;">‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</p></td>
+<td><p style="border:2px; border-style:solid; border-color:#606060; padding: 1em;"><b>Callvoip overal gebruiken: waarom het handig is</b><br><br><div class="usp-list"><ul><li>Webcalls - bel met je laptop of PC</li><li>Qaller - bel met je smartphone</li><li>2 step authenticatie: log overal ter wereld veilig in</li><li>Cloud centrale: overal ter wereld toegankelijk</li></ul></div></p></td>
 </tr>
 </tbody>
 </table>
