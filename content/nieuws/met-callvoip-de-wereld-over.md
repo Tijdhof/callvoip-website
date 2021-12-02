@@ -23,7 +23,14 @@ tags: []
 type: ''
 
 ---
-‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?
+<table>
+<tbody>
+<tr>
+<td>‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</td>
+<td><p style="border:3px; border-style:solid; border-color:#000000; padding: 1em;">‘Waar gaat dit artikel nu weer over?’ zou je kunnen denken. Gaat mijn persoonlijke, kleinschalige maar grootse telefonieprovider internationaal? Worden ze een groot, corporate bedrijf waar ik dan toch een nummertje ga worden in plaats van een mens?</p></td>
+</tr>
+</tbody>
+</table>
 
 Geen zorgen! Wij blijven jou als klant het belangrijkst vinden en we gaan ook niet naar de beurs of andere wilde plannen. We willen het eens hebben over een deel van jullie, onze klanten, dat het locatie-onafhankelijke karakter van onze dienst maximaal gebruikt.
 
