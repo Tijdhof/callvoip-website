@@ -6,10 +6,10 @@ hideinsearch: true
 hideingoogle: false
 hero:
   title: Zakelijk bellen op elke PC of Mac?
-  info: "Met Callvoip Webcalls kan dat. Geen installaties of gedoe: gewoon inloggen en bellen maar. Werkt altijd en overal."
+  info: "Met Callvoip Webcalls kan je makkelijk overal zakelijk bellen. Geen installaties of gedoe: gewoon inloggen en bellen maar."
   form:
     title: Vertel me meer!
-    desc: Nieuwsgierig naar Webcalls en onze andere functionaliteiten?
+    desc: Nieuwsgierig naar onze zakelijke telefonie en bellen via je browser?
 waroom:
   title: Waarom Callvoip?
   info: "Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:"
