@@ -14,6 +14,8 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2021</h3>
 
+* <a href="https://sh1.sendinblue.com/vzrsk8qutt7e.html?t=1638950593" target="_blank">Nieuwsbrief 03-12-2021 | De wereld rond, bedrijfstelefoonboek en Gaming Tim!</a>
+* <a href="https://sh1.sendinblue.com/vxnxw8qutt7e.html?t=1638950593" target="_blank">Nieuwsbrief 28-10-2021 | Hybride werken, koffieplanten en meer!</a>
 * <a href="https://sh1.sendinblue.com/vuut08qutt7e.html?t=1627461358" target="_blank">Nieuwsbrief 27-07-2021 | Nieuw: CRM integratie Marketplace!</a>
 * <a href="https://4hdx3.r.ag.d.sendibm3.com/mk/mr/8BCUyfvDl2gIjs7uxPPnLW4zg-517CAiyw77y_8nD21wwY3p2dBkn9vmS-cOtmnIgT1OuUHCum9J_3h1m5WXAmqn7LJ7L9KYf-QHGMr7NUUCqk0" target="_blank">Nieuwsbrief 27-05-2021 | Integreer jij al met Callvoip?</a>
 * <a href="https://4hdx3.r.ag.d.sendibm3.com/mk/mr/McDAE8AXBd02nZ1Bzw2174a_iY5KEyLHHoB5iQEArR0UcRa19TughXjjMRi9h8JLU_K2-l-DhbkF-nqqATY_Pirz3Bs4ElEmrbFG-nK2Z4NiGxE" target="_blank">Nieuwsbrief 02-04-2021 | Laatste kans: Webcalls ook gratis proberen?</a>
