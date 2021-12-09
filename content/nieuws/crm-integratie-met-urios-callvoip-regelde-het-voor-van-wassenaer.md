@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: "/nieuws/urios-wassenaer"
+url: "/nieuws/urios-wassenaer/"
 contactpersoon: []
 categories: []
 tags: []
@@ -28,23 +28,23 @@ Met wie en wanneer heeft deze persoon de laatste keer gebeld en wat is er bespro
   
 **Van Wassenaer Wytema Letselschade Advocaten & Mediation** bespeurde vrijwel meteen de volgende voordelen;
 
-**1 Nummerweergave/klantherkenning  
-**Je kan door middel van nummerherkenning op je scherm direct zien met wie je in verbinding staat. Prettig voor zowel jezelf als de beller.
+<b>1. Nummerweergave/klantherkenning</b>
+Je kan door middel van nummerherkenning op je scherm direct zien met wie je in verbinding staat. Prettig voor zowel jezelf als de beller.
 
-**2 Relevante gegevens klant meteen paraat  
-**Zodra je een klant aan de lijn krijgt verschijnen door middel van een ‘pop up’ alle relevante klantgegevens plus mogelijk zelf ingevoerde notities. Deze informatie geeft je direct een voorsprong op eventuele vragen van de beller.
+<b>2. Relevante gegevens klant meteen paraat</b>
+Zodra je een klant aan de lijn krijgt verschijnen door middel van een ‘pop up’ alle relevante klantgegevens plus mogelijk zelf ingevoerde notities. Deze informatie geeft je direct een voorsprong op eventuele vragen van de beller.
 
-**3 Met één klik op het telefoonnummer in een klantomgeving bel je de klant  
-**Uiterst efficiënt in plaats van het telkens opzoeken van benodigde telefoonnummers en daarna invoeren op een toestel. Dit bespaart vanzelfsprekend veel tijd.
+<b>3. Met één klik op het telefoonnummer in een klantomgeving bel je de klant</b>
+Uiterst efficiënt in plaats van het telkens opzoeken van benodigde telefoonnummers en daarna invoeren op een toestel. Dit bespaart vanzelfsprekend veel tijd.
 
-**4 Doorschakelen  
-**Je ziet wie er intern beschikbaar is om telefoontjes te behandelen en schakelt gesprekken door of zet een gesprek in de wacht. Door inkomende belletjes snel en adequaat door te verbinden ben je optimaal bereikbaar voor je klanten. Het geeft tegelijkertijd blijk van professionaliteit naar je klant toe.
+<b>4. Doorschakelen</b>
+Je ziet wie er intern beschikbaar is om telefoontjes te behandelen en schakelt gesprekken door of zet een gesprek in de wacht. Door inkomende belletjes snel en adequaat door te verbinden ben je optimaal bereikbaar voor je klanten. Het geeft tegelijkertijd blijk van professionaliteit naar je klant toe.
 
-**5 Terugbelverzoek  
-**Vanuit het systeem kun je snel een terugbelverzoek naar een beschikbare collega mailen.
+<b>5. Terugbelverzoek</b>
+Vanuit het systeem kun je snel een terugbelverzoek naar een beschikbare collega mailen.
 
-**6 Tijdregistratie  
-**De tijd die je hebt besteed aan een klant kan accuraat aan de hand van een zogenoemde stopwatch genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.
+<b>6. Tijdregistratie</b>
+De tijd die je hebt besteed aan een klant kan accuraat aan de hand van een zogenoemde stopwatch genoteerd worden in de klantgegevens. Vanzelfsprekend belangrijke informatie in meerdere opzichten voor je eigen bedrijfsvoering en die van je klant.
 
 _“Alles is gekoppeld aan ons dossiersysteem. Wij zien direct het inkomende nummer en daarbij wordt de gebruikte tijd door een ingerichte stopwatch geregistreerd. Kleine handelingen wellicht maar alles bij elkaar scheelt de automatisering hiervan veel kostbare tijd. Dat we van tevoren zien wie er belt is eveneens erg prettig. Het geeft net dat stukje voorsprong die je graag wil. Samengevat werkt deze integratie voor ons erg fijn en voelen cliënten zich door deze adequate aanpak serieus genomen.”  
 \- **Sabine - Ondersteuning/officemanager bij Van Wassenaer Wytema**_
@@ -53,4 +53,4 @@ Je ziet dat Van Wassenaer Wytema met deze geheugensteuntjes en talloze functiona
 
 ### Benieuwd naar de mogelijkheden van CRM-VoIP integratie voor jouw bedrijf?
 
-Wij hebben al onze koppelingen met een legio aan CRM-systemen gebundeld op een centrale plek genaamd [Callvoip Marketplace](https://www.callvoip.nl/marketplace/). Staat jouw pakket er niet bij? Neem [contact](https://www.callvoip.nl/contact/) op voor de mogelijkheden.
+Wij hebben al onze koppelingen met een legio aan CRM-systemen gebundeld op een centrale plek genaamd [Callvoip Marketplace](https://www.callvoip.nl/marketplace/). Staat jouw pakket er niet bij? Neem [contact](https://www.callvoip.nl/contact/) op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Naar Marketplace</a>
