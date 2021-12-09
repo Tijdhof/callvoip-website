@@ -1,12 +1,13 @@
 ---
 title: CRM integratie met Urios? Callvoip regelde het voor Van Wassenaer
 description: ''
-images: []
+images:
+- "/v1639041687/uriospuzzle_mxcy9t.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1639041687/uriospuzzle_mxcy9t.png"
 hero:
   image: ''
   mobile: ''
@@ -18,14 +19,16 @@ url: "/nieuws/urios-wassenaer/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
-**Kan ik als advocatenkantoor mijn CRM-systeem eenvoudig koppelen aan mijn zakelijke telefooncentrale? En of dit kan! Door pijlsnelle innovatie tussen Urios en Callvoip werken bedrijven nu steeds efficiënter, klantvriendelijker en resultaatgerichter. Ieder telefoontje kan van belang zijn, daarom biedt slimme VoIP-CRM integratie bedrijven meer kans op zakelijk succes. Voorbeeld: Op je computer komt een belletje binnen en er verschijnt direct een ‘pop-up’ op je scherm. Alle gegevens van deze beller staan perfect opgesomd voor je neus. Callvoip regelde dit onlangs voor Van Wassenaer Wytema. Wat zijn volgens hun voordelen van de integratie tussen hun CRM-systeem Urios en onze VoIP-oplossing?**
+**![](https://res.cloudinary.com/callvoip/image/upload/v1639041687/uriospuzzle_mxcy9t.png)  
+Kan ik als advocatenkantoor mijn CRM-systeem eenvoudig koppelen aan mijn zakelijke telefooncentrale? En of dit kan! Door pijlsnelle innovatie tussen Urios en Callvoip werken bedrijven nu steeds efficiënter, klantvriendelijker en resultaatgerichter. Ieder telefoontje kan van belang zijn, daarom biedt slimme VoIP-CRM integratie bedrijven meer kans op zakelijk succes. Voorbeeld: Op je computer komt een belletje binnen en er verschijnt direct een ‘pop-up’ op je scherm. Alle gegevens van deze beller staan perfect opgesomd voor je neus. Callvoip regelde dit onlangs voor Van Wassenaer Wytema. Wat zijn volgens hun voordelen van de integratie tussen hun CRM-systeem Urios en onze VoIP-oplossing?**
 
 ### Directe voordelen van CRM integratie met zakelijke telefonie voor Van Wassenaer Wytema
 
-Met wie en wanneer heeft deze persoon de laatste keer gebeld en wat is er besproken? Informatie welke jou net dat stukje voorsprong geeft op je beller, waardoor je telkens zorgt voor een persoonlijke klantbeleving. Callvoip integreerde onlangs haar slimme VoIP-oplossing met het efficiënte CRM-systeem van **Urios** voor haar klant **Van Wassenaer Wytema Letselschade Advocaten & Mediation.** De CRM-software van Urios is **speciaal ontwikkeld voor de advocatuur.** Hun slimme software zorgt ervoor dat advocatenkantoren grip houden op hun bedrijfsprocessen, zodat alles soepel en overzichtelijk verloopt. Dit doen zij op het gebied van; dossier- en relatiebeheer/ tijdschrijven/ declareren/ herinneren & aanmanen/ verschotten/ toevoegingen en insolventies. De integratie van hun uitstekende software met onze zakelijke telefooncentrale biedt onze gezamenlijke klanten/cliënten veel voordelen.  
-  
+Met wie en wanneer heeft deze persoon de laatste keer gebeld en wat is er besproken? Informatie welke jou net dat stukje voorsprong geeft op je beller, waardoor je telkens zorgt voor een persoonlijke klantbeleving. Callvoip integreerde onlangs haar slimme VoIP-oplossing met het efficiënte CRM-systeem van **Urios** voor haar klant **Van Wassenaer Wytema Letselschade Advocaten & Mediation.** De CRM-software van Urios is **speciaal ontwikkeld voor de advocatuur.** Hun slimme software zorgt ervoor dat advocatenkantoren grip houden op hun bedrijfsprocessen, zodat alles soepel en overzichtelijk verloopt. Dit doen zij op het gebied van; dossier- en relatiebeheer/ tijdschrijven/ declareren/ herinneren & aanmanen/ verschotten/ toevoegingen en insolventies. De integratie van hun uitstekende software met onze zakelijke telefooncentrale biedt onze gezamenlijke klanten/cliënten veel voordelen.
+
 **Van Wassenaer Wytema Letselschade Advocaten & Mediation** bespeurde vrijwel meteen de volgende voordelen;
 
 <b>1. Nummerweergave/klantherkenning</b><br>
