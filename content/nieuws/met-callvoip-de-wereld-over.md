@@ -4,7 +4,7 @@ description: 'Callvoip klanten over de grens. Nomadische telefonie en meer en wa
   dat bij Callvoip heel handig is. '
 images:
 - "/v1638194010/callvoipmap_hgju0k.png"
-featured: false
+featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2021-11-29T23:00:00+00:00
 url: "/nieuws/callvoipwereldwijd/"
 contactpersoon: []
 categories: []
