@@ -23,7 +23,7 @@ type: ''
 
 ---
 **![](https://res.cloudinary.com/callvoip/image/upload/v1639041687/uriospuzzle_mxcy9t.png)  
-Kan ik als advocatenkantoor mijn CRM-systeem eenvoudig koppelen aan mijn zakelijke telefooncentrale? En of dit kan! Door pijlsnelle innovatie tussen Urios en Callvoip werken bedrijven nu steeds efficiënter, klantvriendelijker en resultaatgerichter. Ieder telefoontje kan van belang zijn, daarom biedt slimme VoIP-CRM integratie bedrijven meer kans op zakelijk succes. Voorbeeld: Op je computer komt een belletje binnen en er verschijnt direct een ‘pop-up’ op je scherm. Alle gegevens van deze beller staan perfect opgesomd voor je neus. Callvoip regelde dit onlangs voor Van Wassenaer Wytema. Wat zijn volgens hun voordelen van de integratie tussen de advocatensoftware van Urios plus CRM-functionaliteiten en onze VoIP-oplossing?**
+Kan ik als advocatenkantoor mijn CRM-systeem eenvoudig koppelen aan mijn zakelijke telefooncentrale? En of dit kan! Door pijlsnelle innovatie tussen Urios en Callvoip werken bedrijven nu steeds efficiënter, klantvriendelijker en resultaatgerichter. Ieder telefoontje kan van belang zijn, daarom biedt slimme VoIP-CRM integratie bedrijven meer kans op zakelijk succes. Voorbeeld: Op je computer komt een belletje binnen en er verschijnt direct een ‘pop-up’ op je scherm. Alle gegevens van deze beller staan perfect opgesomd voor je neus. Callvoip regelde dit onlangs voor Van Wassenaer Wytema. Wat zijn volgens hun voordelen van de integratie tussen de advocatensoftware van Urios inclusief CRM-functionaliteiten en onze VoIP-oplossing?**
 
 ### Directe voordelen van CRM integratie met zakelijke telefonie voor Van Wassenaer Wytema
 
