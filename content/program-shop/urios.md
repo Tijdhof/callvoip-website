@@ -17,7 +17,6 @@ categories:
   - Advocatuur
   - Tijdsregistratie
   - Declaratie
-  - 
 weight: 10
 url: /marketplace/Urios/
 aliases: /program-shop/Urios/
