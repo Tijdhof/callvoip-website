@@ -15,7 +15,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: "/callvoip-2021/"
+url: "/nieuws/callvoip-2021/"
 contactpersoon: []
 categories: []
 tags: []
