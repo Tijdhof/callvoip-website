@@ -25,7 +25,7 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1640006933/unnamed_p2oe10.png)  
 December is alweer halverwege wat bij veel mensen de aanleiding is om eens terug te kijken op het jaar wat alweer bijna helemaal achter ons ligt. Wij bij Callvoip zijn daar geen uitzondering op. In deze blog blikken we terug op ons jaar. Welke mooie dingen kwamen we tegen? Wat vonden we minder leuk? Dol op lijstjes als we zijn, maken we er nu één van 2021 met gelukkig meer 👍 dan 👎.
 
-👍 _We maakten (XXXX) mensen blij met Webcalls en XXXX met Qaller zodat ze ideaal konden thuiswerken._
+👍 _We maakten 1154 mensen blij met Webcalls en 1952 met Qaller zodat ze ideaal konden thuiswerken._
 
 2021 gaat de geschiedenisboeken in als het 2e jaar van de coronapandemie. De effecten op de maatschappij als geheel, jullie bereikbaarheid en onze organisatie zijn dan ook onverminderd merkbaar. Al vanaf de eerste lockdowns en maatregelen merken we dat we met ons duo Webcalls en Qaller een ijzersterke oplossing hebben voor alle soorten thuiswerkers. En afgelopen jaar maakten we ze ook nog eens betrouwbaarder, stabieler en completer.
 
