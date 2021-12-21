@@ -32,11 +32,11 @@ Na een jaar van focus op het verstevigen van onze technische basis, plannen we k
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537761/phonebook_gqfked.png">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537298/reportingcdr_yumnrk.png">
 <h2>2021:</h2>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Onderhoud_chemgd.png">
-<a target="_blank" href="https://www.callvoip.nl/nieuws/hybridewerken/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/hybride_y007d8.png"></a>
-<a target="_blank" href="https://www.callvoip.nl/marketplace"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Marketplace_fuuhrn.png"></a>
-<a target="_blank" href="https://www.callvoip.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/qaller_update_qjq4p4.png"></a>
-<a target="_blank" href="https://www.callvoip.nl/interview-mark-minnaard-redcactus//"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/tijdlijn2021_qu2ayr.png"></a>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Onderhoud_r6uzzz.png">
+<a target="_blank" href="https://www.callvoip.nl/nieuws/hybridewerken/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/hybride_vdpp66.png"></a>
+<a target="_blank" href="https://www.callvoip.nl/marketplace"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Marketplace_dec3fa.png"></a>
+<a target="_blank" href="https://www.callvoip.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/qaller_update_beedui.png"></a>
+<a target="_blank" href="https://www.callvoip.nl/interview-mark-minnaard-redcactus//"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Redcactus_rijoz6.png"></a>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608536787/2021_rzls03.png">
 <h2>2020:</h2>
 <a target="_blank" href="https://www.callvoip.nl/nieuws/webcalls/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Webcals_part_2_q4weh3.png"></a>
