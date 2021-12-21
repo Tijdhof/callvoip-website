@@ -26,17 +26,17 @@ aliases: "/roadmap"
 type: ''
 
 ---
-<h2>Onze beloftes van 2022:</h2>
+<h2>Onze beloftes voor 2022:</h2>
 Na een jaar van focus op het verstevigen van onze technische basis, plannen we komend jaar de volgende mooie toevoegingen aan ons platform
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537536/webcalls2_jac0f9.png">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537761/phonebook_gqfked.png">
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608537298/reportingcdr_yumnrk.png">
 <h2>2021:</h2>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Onderhoud_vacrla.png">
-<a target="_blank" href="https://www.callvoip.nl/nieuws/hybridewerken/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/hybride_zhgvcl.png"></a>
-<a target="_blank" href="https://www.callvoip.nl/marketplace"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Marketplace_hcgpva.png"></a>
-<a target="_blank" href="https://www.callvoip.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/qaller_update_quym94.png"></a>
-<a target="_blank" href="https://www.callvoip.nl/interview-mark-minnaard-redcactus//"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Redcactus_ijgnlj.png"></a>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Onderhoud_chemgd.png">
+<a target="_blank" href="https://www.callvoip.nl/nieuws/hybridewerken/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/hybride_y007d8.png"></a>
+<a target="_blank" href="https://www.callvoip.nl/marketplace"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Marketplace_fuuhrn.png"></a>
+<a target="_blank" href="https://www.callvoip.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/qaller_update_qjq4p4.png"></a>
+<a target="_blank" href="https://www.callvoip.nl/interview-mark-minnaard-redcactus//"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/tijdlijn2021_qu2ayr.png"></a>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608536787/2021_kdet9k.png">
 <h2>2020:</h2>
 <a target="_blank" href="https://www.callvoip.nl/nieuws/webcalls/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Webcals_part_2_q4weh3.png"></a>
