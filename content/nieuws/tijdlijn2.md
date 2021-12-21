@@ -36,7 +36,7 @@ Na een jaar van focus op het verstevigen van onze technische basis, plannen we k
 <a target="_blank" href="https://www.callvoip.nl/nieuws/hybridewerken/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/hybride_sls3ya.png"></a>
 <a target="_blank" href="https://www.callvoip.nl/marketplace"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Marketplace_mp4glx.png"></a>
 <a target="_blank" href="https://www.callvoip.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/qaller_update_gefcph.png"></a>
-<a target="_blank" href="/overons/team/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/arjan_wodw7i.png"></a>
+<a target="_blank" href="/overons/team/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/arjan_k2gbop.png"></a>
 <a target="_blank" href="https://www.callvoip.nl/interview-mark-minnaard-redcactus/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Redcactus_wsp0vt.png"></a>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1608536787/2021_rzls03.png">
 <h2>2020:</h2>
