@@ -17,7 +17,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2020-12-21
+date: 2021-12-21
 url: tijdlijn
 contactpersoon: []
 categories: []
