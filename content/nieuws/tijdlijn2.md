@@ -37,7 +37,7 @@ Na een jaar van focus op het verstevigen van onze technische basis, plannen we k
 <a target="_blank" href="https://www.callvoip.nl/marketplace"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Marketplace_fuuhrn.png"></a>
 <a target="_blank" href="https://www.callvoip.nl/qaller"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/qaller_update_qjq4p4.png"></a>
 <a target="_blank" href="https://www.callvoip.nl/interview-mark-minnaard-redcactus//"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/tijdlijn2021_qu2ayr.png"></a>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1608536787/2021_kdet9k.png">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1608536787/2021_rzls03.png">
 <h2>2020:</h2>
 <a target="_blank" href="https://www.callvoip.nl/nieuws/webcalls/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Webcals_part_2_q4weh3.png"></a>
 <a target="_blank" href="https://www.callvoip.nl/yealink-ruggedized-unboxing/"><img src="https://res.cloudinary.com/callvoip/image/upload/v1608046277/Ruggedized_rttbv6.png"></a>
