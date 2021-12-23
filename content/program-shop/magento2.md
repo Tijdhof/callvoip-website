@@ -31,7 +31,7 @@ aliases: /program-shop/magento2/
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Magento 2?**<br>
-**E-commerce platform voor het ontwikkelen van webshops in alle soorten en maten.**
+**E-commerce platform voor het ontwikkelen van webshops in alle soorten en maten.**<br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip Magento 2 telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Magento 2. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Magento 2 staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
