@@ -37,6 +37,12 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Kan de internetverbinding per direct stoppen, of moet internet tot het einde van de abonnementsduur blijven werken?" >}}
 
+{{< form/input "Betreffend straatnaam en huisnummer" >}}
+
+{{< form/input "Betreffend postcode en woonplaats" >}}
+
+{{< form/input "Bedrijfsnaam" >}}
+
 {{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
 
