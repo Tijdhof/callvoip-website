@@ -3,7 +3,7 @@ title: Handleiding Hotdesking / flexwerkplek
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_hotdesking.pdf
+pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_hotdesking.pdf
 
 ---
 Goed nieuws voor situaties met flexibele werkplekken, bedrijven met (regio-)kantoren waar medewerkers dan weer hier, dan weer daar actief zijn, of bij kantoor- en thuiswerkplek: Simmpl biedt HotDesking!  
