@@ -4,6 +4,7 @@ weight: 2
 description: ''
 images: []
 pdf: http://www.simmpl.nl/downloads/Welkom_op_de_Simmpl_telefooncentrale.pdf
+url: '/ondersteuning/simmpl-instellen/snelstart-handleiding-telefooncentrale/'
 
 ---
 De Simmpl telefooncentrale is uitgebreid met vele features en functionaliteiten. De uitgebreide handleiding is beschikbaar in .pdf.
