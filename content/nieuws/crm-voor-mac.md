@@ -47,7 +47,7 @@ B. Grmbl.
 <p style="background-color:#f5f5f5; padding: 1em;">
 Met de Callvoip CRM - telefonie integratie<br><br>
 <b>TRING</b><br>
-A. GGoedemiddag meneer Mopperklant, met bedrijf Goed Geregeld. U bent vast benieuwd naar uw laatste status na dat onderzoek van laatst. Helaas kon mijn collega u gisteren nog niet alles vertellen maar ik heb uw status hier voor me. Hoe is het trouwens met uw cavia die laatst van de bank is gevallen? Pootje helemaal hersteld?<br>
+A. Goedemiddag meneer Mopperklant, met bedrijf Goed Geregeld. U bent vast benieuwd naar uw laatste status na dat onderzoek van laatst. Helaas kon mijn collega u gisteren nog niet alles vertellen maar ik heb uw status hier voor me. Hoe is het trouwens met uw cavia die laatst van de bank is gevallen? Pootje helemaal hersteld?<br>
 B. …ik hou van u!
 </p>
 
