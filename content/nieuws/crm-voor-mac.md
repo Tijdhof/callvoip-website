@@ -28,19 +28,30 @@ Gelukkig komt daar nu een einde aan! Gelukkig voor ons omdat we geen ‘nee’ m
 
 Zeker in tijden dat het <a href="https://www.techzine.nl/nieuws/security/454694/mac-gebruik-in-nederlandse-bedrijven-blijft-groeien/" target="_blank">zakelijk gebruik van macOS toeneemt</a>, zijn we extra trots om als eerste in Nederland de mogelijkheid te bieden om onze onvolprezen Bubble slimme popup ook op een Apple te installeren. Dus zweer jij bij een MacBook en wil je ook het gemak van zo’n koppeling! Dan kunnen we nu volmondig zeggen: “JA, DAT KAN!”
 
-<b>Wat is dat ook weer: Callvoip CRM - telefonie integratie?</b>
+<b>Wat is dat ook weer: Callvoip CRM - telefonie integratie?</b><br>
 Goeie vraag: we leggen het uit met 2 voorbeelden, één zonder en één met onze integratie.
 
 <p style="background-color:#f5f5f5; padding: 1em;">
-Zonder de Callvoip CRM - telefonie integratie:
+Zonder de Callvoip CRM - telefonie integratie:<br><br>
+<b>TRING</b><br>
+A. Goedemiddag, met bedrijf Kan Beter, waarmee kan ik u helpen?<br>
+B. Ja, met Mopperklant. Ik bel voor mijn laatste status.<br><br>
 
-TRING
-A. Goedemiddag, met bedrijf Kan Beter, waarmee kan ik u helpen?
-B. Ja, met Mopperklant. Ik bel voor mijn laatste status. 
+A. Die ga ik even voor u opzoeken. Uw naam is Topperklant?<br>
+B. Nee, het is Mopperklant. :-(<br><br>
 
-A. Die ga ik even voor u opzoeken. Uw naam is Topperklant? 
-B. Nee, het is Mopperklant. :-(
-
-A. Excuses. Heeft u voor mij ter controle uw postcode, huisnummer, geboortedatum, pincode, meisjesnaam van uw moeder en uw BSN?
+A. Excuses. Heeft u voor mij ter controle uw postcode, huisnummer, geboortedatum, pincode, meisjesnaam van uw moeder en uw BSN?<br>
 B. Grmbl. 
 </p>
+<br><br>
+<p style="background-color:#f5f5f5; padding: 1em;">
+Met de Callvoip CRM - telefonie integratie<br><br>
+<b>TRING</b><br>
+A. GGoedemiddag meneer Mopperklant, met bedrijf Goed Geregeld. U bent vast benieuwd naar uw laatste status na dat onderzoek van laatst. Helaas kon mijn collega u gisteren nog niet alles vertellen maar ik heb uw status hier voor me. Hoe is het trouwens met uw cavia die laatst van de bank is gevallen? Pootje helemaal hersteld?<br>
+B. …ik hou van u!
+</p>
+
+Hét verschil tussen deze 2 gesprekken is onze ‘Bubble’: de slimme op maat ingerichte popup op je PC of Mac van elk inkomend telefoongesprek. Hierin kun je verschillende velden uit jouw eigen CRM weergeven en klik je meteen door naar alle relevante klantgegevens in jouw eigen CRM. En dat is, zoals het voorbeeld al laat zien, niet alleen erg efficiënt voor jou als werknemer, maar ook erg prettig voor jouw klanten! :-)
+
+Meer weten? Of gratis een week proberen? (pas ook, je wilt daarna niet meer zonder ;-)) Neem contact op en we regelen het voor je! 
+
