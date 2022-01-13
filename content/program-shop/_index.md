@@ -5,7 +5,7 @@ date: 2021-07-19T10:35:57+05
 url: /marketplace/
 intro:
   title: Integreer je favoriete tools
-  content: Alle CRM pakketten waarmee we kunnen koppelen op één plek. Werkt altijd, op macOS en Windows. Staat jouw pakket er niet bij? Neem <a href="/contact/">contact</a> op voor de mogelijkheden.
+  content: Alle CRM pakketten waarmee we kunnen koppelen op één plek. Werkt altijd, op macOS en Windows.<br>Staat jouw pakket er niet bij? Neem <a href="/contact/">contact</a> op voor de mogelijkheden.
 hero:
   image: "/v1603982195/crmoverzicht_geuhmx.png"
 Images:
