@@ -32,8 +32,8 @@ Zeker in tijden dat het <a href="https://www.techzine.nl/nieuws/security/454694/
 Goeie vraag: we leggen het uit met 2 voorbeelden, één zonder en één met onze integratie.
 
 <p style="background-color:#f5f5f5; padding: 1em;">
-Zonder de Callvoip CRM - telefonie integratie:<br><br>
-<b>TRING</b><br>
+<b>Zonder de Callvoip CRM - telefonie integratie:</b><br><br>
+<i>TRING</i><br><br>
 A. Goedemiddag, met bedrijf Kan Beter, waarmee kan ik u helpen?<br>
 B. Ja, met Mopperklant. Ik bel voor mijn laatste status.<br><br>
 
@@ -43,10 +43,10 @@ B. Nee, het is Mopperklant. :-(<br><br>
 A. Excuses. Heeft u voor mij ter controle uw postcode, huisnummer, geboortedatum, pincode, meisjesnaam van uw moeder en uw BSN?<br>
 B. Grmbl. 
 </p>
-<br><br>
+<br>
 <p style="background-color:#f5f5f5; padding: 1em;">
-Met de Callvoip CRM - telefonie integratie<br><br>
-<b>TRING</b><br>
+<b>Met de Callvoip CRM - telefonie integratie:</b><br><br>
+<i>TRING</i><br><br>
 A. Goedemiddag meneer Mopperklant, met bedrijf Goed Geregeld. U bent vast benieuwd naar uw laatste status na dat onderzoek van laatst. Helaas kon mijn collega u gisteren nog niet alles vertellen maar ik heb uw status hier voor me. Hoe is het trouwens met uw cavia die laatst van de bank is gevallen? Pootje helemaal hersteld?<br>
 B. …ik hou van u!
 </p>
