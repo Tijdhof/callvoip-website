@@ -80,4 +80,6 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Hubspot CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+De telefoonkoppeling met Hubspot werkt zowel voor klanten op de US server als op de EU server.<br> 
+De Callvoip telefoon-integratie met Hubspot CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
