@@ -6,7 +6,7 @@ featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: "/v1638194010/callvoipmap_hgju0k.png"
+image_uitgelicht: "/v1638194010/mac_cjz10g.png"
 hero:
   image: ''
   mobile: ''
@@ -21,6 +21,7 @@ tags: []
 type: ''
 
 ---
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1642149002/mac_cjz10g.png"><br><br>
 We hebben de afgelopen tijd veel aandacht gegeven aan de nieuwste integratie van onze telefonie met een lange lijst CRM systemen. Veel klanten reageren dan ook enthousiast en beamen meteen het gemak van zo’n integratie in de dagelijkse werkzaamheden. Maar helaas moesten we heel soms iets doen waar we helemaal niet van houden. We moesten soms antwoorden: “Nee, sorry. Dat kan (nog) niet.” 😲
 
 Gelukkig komt daar nu een einde aan! Gelukkig voor ons omdat we geen ‘nee’ meer hoeven verkopen, maar nog meer gelukkig voor onze klanten! Het gaat namelijk om onze Callvoip CRM - telefonie integratie voor mensen met een Apple macOS systeem.
