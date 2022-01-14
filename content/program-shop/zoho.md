@@ -97,4 +97,6 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket ZoHo CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+De koppeling werkt met klanten op de diverse ZoHo servers: US, EU, etc.<br>
+De Callvoip telefoon-integratie met ZoHo CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
