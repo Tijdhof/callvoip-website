@@ -3,7 +3,7 @@ title: Snelstart handleiding telefooncentrale
 weight: 1
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_snelstart_handleiding.pdf
+pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding-telefooncentrale.pdf
 aliases: "/snelstart"
 
 ---
