@@ -47,10 +47,10 @@ B. Grmbl.
 <p style="background-color:#f5f5f5; padding: 1em;">
 <b>Met de Callvoip CRM - telefonie integratie:</b><br><br>
 <i>TRING</i><br><br>
-A. Goedemiddag meneer Mopperklant, met bedrijf Goed Geregeld. U bent vast benieuwd naar uw laatste status na dat onderzoek van laatst. Helaas kon mijn collega u gisteren nog niet alles vertellen maar ik heb uw status hier voor me. Hoe is het trouwens met uw cavia die laatst van de bank is gevallen? Pootje helemaal hersteld?<br>
-B. …ik hou van u!
+A. Goedemiddag meneer Mopperklant, met bedrijf Goed Geregeld. U bent vast benieuwd naar uw laatste status na dat onderzoek van laatst. Helaas kon mijn collega u gisteren nog niet alles vertellen maar ik heb uw status hier voor me. Hoe is het trouwens met uw cavia die laatst van de bank is gevallen? Pootje helemaal hersteld?<br><br>
+B. …ik hou van u! 😍
 </p>
 
 Hét verschil tussen deze 2 gesprekken is onze ‘Bubble’: de slimme op maat ingerichte popup op je PC of Mac van elk inkomend telefoongesprek. Hierin kun je verschillende velden uit jouw eigen CRM weergeven en klik je meteen door naar alle relevante klantgegevens in jouw eigen CRM. En dat is, zoals het voorbeeld al laat zien, niet alleen erg efficiënt voor jou als werknemer, maar ook erg prettig voor jouw klanten! :-)
 
-Meer weten? Of gratis een week proberen? (pas ook, je wilt daarna niet meer zonder ;-)) Neem contact op en we regelen het voor je!
+Meer weten? Of gratis een week proberen? (pas op, je wilt daarna niet meer zonder ;-)) Neem contact op en we regelen het voor je!
