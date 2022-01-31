@@ -70,7 +70,10 @@ En daarnaast: customized knoppen zoals: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Exquise wordt gekoppeld met telefonie van Callvoip op basis van een URL Executor.<br>
-**NB:** om de koppeling te kunnen gebruiken is de Exquise Telefoonmonitor licentie nodig. Dit is een betaalde bedrijfslicentie die u door Exquise / Vertimart kunt laten activeren.<br>
+**NB:** om de koppeling te kunnen gebruiken is de Exquise Telefoonmonitor nodig. <br>
+&bull; Heeft u Exquise Classic? Dan kan Vertimart de telefoniemodule toevoegen (éénmalige aanschaf). <br>
+&bull; Heeft u Exquise Next Generation (cloudversie)? Dan is de telefoniemodule een maandelijkse service. <BR>
+Meer informatie en activatie verwijzen we u naar Exquise / Vertimart. Activatie duurt doorgaans enkele dagen. <br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a><br>
 <br>
 
