@@ -3,7 +3,7 @@ title: Handleiding Wachtrij-app
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_wachtrij.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_wachtrij-feature.pdf
 Aliases: handleiding-wachtrij
 hideinsearch: false
 hideingoogle: false

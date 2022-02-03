@@ -1,6 +1,6 @@
 ---
 title: Handleiding Voorwaarde-app
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_voorwaarde-app.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_condition_voorwaarde-app.pdf
 
 ---
 **Filter gesprekken op basis van een (deel van het) telefoonnummer** 
