@@ -42,6 +42,7 @@ fields:
     required: false
   label: PDF
 pages:
+- content/ondersteuning/Apparatuurhandleidingen/cisco-spa-toestel-instellen.md
 - content/ondersteuning/Apparatuurhandleidingen/fritz-box.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-handmatig.md
 - content/ondersteuning/Apparatuurhandleidingen/gigaset-ip-pro-provisioning.md
