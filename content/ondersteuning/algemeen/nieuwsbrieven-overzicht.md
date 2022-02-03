@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2021</h3>
 
+* <a href="https://sh1.sendinblue.com/aoic1ewy9xpfe.html?t=1643887257" target="_blank">Nieuwsbrief 17-01-2022 | CRM - Telefonie integratie nu ook op macOS</a>
 * <a href="https://sh1.sendinblue.com/vzrsk8qutt7e.html?t=1638950593" target="_blank">Nieuwsbrief 03-12-2021 | De wereld rond, bedrijfstelefoonboek en Gaming Tim!</a>
 * <a href="https://sh1.sendinblue.com/vxnxw8qutt7e.html?t=1638950593" target="_blank">Nieuwsbrief 28-10-2021 | Hybride werken, koffieplanten en meer!</a>
 * <a href="https://sh1.sendinblue.com/vuut08qutt7e.html?t=1627461358" target="_blank">Nieuwsbrief 27-07-2021 | Nieuw: CRM integratie Marketplace!</a>
