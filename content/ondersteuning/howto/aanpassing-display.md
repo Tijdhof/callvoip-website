@@ -9,7 +9,8 @@ hidesocialshare: false
 Nieuw: false
 Update: false
 pdf: http://timvaek453.453.axc.nl/Callvoip_handleiding_Yealink-missed-calls-popup_121120MT.pdf
-aliases: /ondersteuning/apparatuurhandleidingen/aanpassing-display/
+aliases: "/ondersteuning/apparatuurhandleidingen/aanpassing-display/"
+draft: true
 
 ---
 Geeft je Yealink telefoon een grote witte popup met het aantal gemiste gesprekken?  
