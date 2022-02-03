@@ -9,9 +9,9 @@ hidesocialshare: false
 Nieuw: false
 Update: false
 pdf: ''
+draft: true
 
 ---
-
 <h3>Wat doet CRM Lookup?</h3><br>
 Heel eenvoudig; de zoekactie in jouw CRM volledig automatiseren! Dus je wordt gebeld en wij zoeken voor jou de klantgegevens in het CRM erbij en openen deze op je scherm. Dan kun jij je lekker bezig houden met de inhoud van het gesprek en gemakkelijk de klanthistorie inzien
 <br><br>
