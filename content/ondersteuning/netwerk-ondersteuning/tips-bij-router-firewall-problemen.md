@@ -3,7 +3,7 @@ title: Tips bij router-/firewall problemen
 weight: 2
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_Router-en-Firewall-Issues.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_technnote_Router-en-Firewall-Issues.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
