@@ -41,8 +41,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Postcode en woonplaats" >}}
 
-{{< form/input "Bedrijfsnaam" >}}
-
 {{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
 
