@@ -3,7 +3,7 @@ title: Handleiding Tijdsconditie-app
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_tijdscondities.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_tijdsconditie-app.pdf
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false

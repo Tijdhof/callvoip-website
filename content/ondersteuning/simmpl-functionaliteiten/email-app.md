@@ -3,7 +3,7 @@ title: Handleiding Email-app
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_email-app.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_emailnotificatie-app.pdf
 aliases: email-app
 hideinsearch: false
 hideingoogle: false

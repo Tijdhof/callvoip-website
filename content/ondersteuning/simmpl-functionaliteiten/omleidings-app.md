@@ -3,7 +3,7 @@ title: Handleiding Omleidings-app
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_omleidingsapp.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_omleidingsapp_flowcontrol.pdf
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
