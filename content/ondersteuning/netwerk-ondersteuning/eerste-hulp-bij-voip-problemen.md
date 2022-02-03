@@ -3,10 +3,12 @@ title: Eerste hulp bij VoIP-problemen
 weight: 1
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_Eerste-Hulp-bij-VoIP-problemen.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_eerste-hulp-bij-voipproblemen.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 Ondervindt u problemen met bellen of gebeld worden? Vervelend! De meeste problemen met internettelefonie worden niet veroorzaakt door een probleem met de telefoniedienst, maar worden veroorzaakt door de internetverbinding, de netwerkapparatuur of uw IP-telefoons. In de meeste gevallen biedt herstart van de apparatuur de oplossing.
