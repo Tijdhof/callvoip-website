@@ -7,6 +7,8 @@ hideinsearch: false
 Nieuw: false
 Update: false
 pdf: ''
+hideingoogle: false
+hidesocialshare: false
 
 ---
 ### Algemeen
@@ -30,22 +32,10 @@ PPPoA (Draytek)
 
 {{< layout/columns >}}  
 {{< layout/column3 >}}  
-**VPI**  
+**VLAN-tag**  
 {{</ layout/column3 >}}  
 {{< layout/column3 >}}  
-0  
-{{</ layout/column3 >}}  
-{{< layout/column3 >}}
-
-{{</ layout/column3 >}}  
-{{</ layout/columns >}}
-
-{{< layout/columns >}}  
-{{< layout/column3 >}}  
-**VCI**  
-{{</ layout/column3 >}}  
-{{< layout/column3 >}}  
-35  
+6  
 {{</ layout/column3 >}}  
 {{< layout/column3 >}}
 
