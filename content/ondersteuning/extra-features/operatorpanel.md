@@ -3,12 +3,11 @@ title: Handleiding Operator Console
 weight: 3
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_Operator-Console.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_Operator-Panel.pdf
 Update: false
 aliases: "/ondersteuning/extra-features/privacy"
 
 ---
-In de **afgelopen** maanden werd de start gemaakt met de ontwikkeling van het UC Panel, en de Operator Console is daarvan de eerste functionaliteit.  
 Het **Operator Console** is een dashboard voor receptionist/supervisor met realtime gespreksinformatie. Vanuit dit dashboard is het volgende mogelijk:
 
 1. **Zien van het realtime gespreksverkeer**
@@ -23,7 +22,7 @@ Team Callvoip
 
 <h3>Operator Console</h3>
 
-In december 2017 is de Simmpl centrale uitgebreid met het Operator Panel: een overzichtelijk dashboard voor receptionist en supervisor met informatie wat er binnen het bedrijf gebeurt. Elke gebruiker kan één of meer consoles maken, met daarop een selectie van widgets die de gebruiker zelf naar eigen wens op het dashboard kan plaatsen.
+Het Operator Panel is een overzichtelijk dashboard voor receptionist en supervisor met informatie wat er binnen het bedrijf gebeurt. Elke gebruiker kan één of meer consoles maken, met daarop een selectie van widgets die de gebruiker zelf naar eigen wens op het dashboard kan plaatsen.
 
 <h3>De Operator Console inschakelen</h3>
 
