@@ -3,10 +3,12 @@ title: Faxbox gebruiken (Quickstart)
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_Snelstarthandleiding_Fax-versturen.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_snelstarthandleiding_fax-versturen.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 Zonder faxapparaat een fax versturen, dat kan toch niet? Jawel, en dat is super Simmpl met onze telefooncentrale! Volg deze handleiding en uw eerste fax zal binnen een mum van tijd verstuurd zijn!
