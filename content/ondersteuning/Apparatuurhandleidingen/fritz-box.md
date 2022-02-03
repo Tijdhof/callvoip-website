@@ -3,7 +3,7 @@ title: FRITZ!Box instellen voor Callvoip
 weight: 20
 description: FRITZ!Box instellen voor Callvoip
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_FRITZBox.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_FRITZBox.pdf
 Hide in Search: false
 Nieuw: false
 Update: false
