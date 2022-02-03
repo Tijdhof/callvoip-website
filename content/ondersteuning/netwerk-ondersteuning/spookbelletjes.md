@@ -3,7 +3,7 @@ title: Spookbelletjes voorkomen
 weight: 3
 description: ''
 images: []
-pdf: https://www.simmpl.nl/downloads/Simmpl_technote_voorkomen_spookbelletjes.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_technote_voorkomen_spookbelletjes.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
