@@ -1,15 +1,17 @@
 ---
-title: Handleiding Click-to-Dial Yealink
+title: Handleiding Yealink C2D adresboek
 weight: 2
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_snelstarthandleiding_Yealink-C2D-adresboek.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_snelstart_Yealink-C2D-telefoonboek.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
-Installeer de gratis Simmpl Click-to-Dial chrome-app en laat uw Yealink toestellen het Click to Dial adresboek uitlezen:
+Installeer de gratis Callvoip Click-to-Dial chrome-app en laat uw Yealink toestellen het Click to Dial adresboek uitlezen:
 
 * Bij een inkomend gesprek ziet u nummer en naam in uw Yealink display
 * U kunt ook een popup op uw computerscherm krijgen (Apple en Windows)
@@ -21,10 +23,10 @@ Start met de installatie van de Chrome app en log in.
 <h3>Join the app!</h3>
 
 * Download de app <a href="https://goo.gl/Px9dGE" target="_blank">hier</a>
-* Log in met Simmpl gebruikersnaam en wachtwoord
+* Log in met Callvoip gebruikersnaam en wachtwoord
 * Activeer en klaar!  
   ![](https://res.cloudinary.com/callvoip/image/upload/v1565088973/click2dial-yealink-1_au2gwv.png)  
-  Elk nummer dat u belt of dat naar u belt wordt in de app opgeslagen.   
+  Elk nummer dat u belt of dat naar u belt wordt in de app opgeslagen.  
   Voorzie nummers van namen zodat u een adresboek opbouwt.
 
 Tip: Heeft u een Excellijst met namen en nummers?  
