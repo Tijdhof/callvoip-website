@@ -1,7 +1,8 @@
 ---
 title: Integreer nu ook je Mac met onze telefonie
 description: ''
-images: []
+images:
+- "/v1642149002/mac_cjz10g.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
