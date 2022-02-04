@@ -30,10 +30,13 @@ Trengo zelf is een bredere tool dan een CRM op zich. Zelf omschrijven ze zich al
 
 Maar wat nu als je een veeleisende, zakelijke telefonieklant bent? Met behoefte aan een slimme, veelzijdige online telefoniecentrale als die van ons én dat mooie omnichannel communicatieplatform van Trengo? Zit je dan alsnog met 2 plekken om je communicatie te organiseren? Nee! Dat hoeft niet! Daar komt dus onze mooie api-koppeling met het Trengo platform in beeld.
 
-Met de Trengo Callvoip connector voeg je drie prachtige features aan je telefoonsysteem toe:  
-1\. Bij een inkomend gesprek verschijnt een popup met klantinformatie; je kunt gelijk doorklikken naar de klant in Trengo. Deze popup is volledig op maat in te richten.  
-2\. Er verschijnt ook een popup binnen Trengo zelf van de call, met daarin de status van het gesprek.  
-3\. Er wordt automatisch een callregistratie gelogd; typ gelijk je gespreksinformatie!
+Met de Trengo Callvoip connector voeg je drie prachtige features aan je telefoonsysteem toe:
+
+* Bij een inkomend gesprek verschijnt een popup met klantinformatie; je kunt gelijk doorklikken naar de klant in Trengo. Deze popup is volledig op maat in te richten.
+
+
+* Er verschijnt ook een popup binnen Trengo zelf van de call, met daarin de status van het gesprek.
+* Er wordt automatisch een callregistratie gelogd; typ gelijk je gespreksinformatie!
 
 Er is nog meer bijzonders aan deze koppeling. Denk aan gemakkelijk doorverbinden, maar ook automatische Google Number Lookup. Staat het nummer van de beller niet in jouw Trengo omgeving, dan zoekt onze software op Google alle bekende informatie erbij. Zo ben je toch al geïnformeerd, ook als bijvoorbeeld een nieuwe klant belt.
 
