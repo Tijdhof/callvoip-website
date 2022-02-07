@@ -13,7 +13,9 @@ aliases: "/nieuwsbrieven"
 
 ---
 <h3>2022</h3>
-* <a href="https://sh1.sendinblue.com/aoic1ewy9xpfe.html?t=1643887257" target="_blank">Nieuwsbrief 17-01-2022 | CRM - Telefonie integratie nu ook op macOS</a>
+<ul>
+<li><a href="https://sh1.sendinblue.com/aoic1ewy9xpfe.html?t=1643887257" target="_blank">Nieuwsbrief 17-01-2022 | CRM - Telefonie integratie nu ook op macOS</a></li>
+</ul>
 
 <h3>2021</h3>
 
