@@ -18,7 +18,7 @@ categories:
   - Sales
   - Marketing automation
 new: false
-weight: 1
+weight: 10
 url: /marketplace/act/
 aliases: /program-shop/act/
 headerside:
