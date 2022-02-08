@@ -2,7 +2,7 @@
 shorttitle: "Lightspeedhq"
 title: "Wij koppelen jouw CRM Lightspeedhq aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/ligthspeedhq_id9oqo.jpg"
+logo: "/ligthspeedhq_yed9tz.png"
 description: Door het koppelen van Lightspeedhq CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
