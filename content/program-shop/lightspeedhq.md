@@ -32,7 +32,7 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Lightspeedhq?<br>
-Lightspeedhq: CRM platform met een complete ondernemersplatform voor horeca, retail en e-Commerce wereldwijd.**<br>
+Lightspeedhq: CRM platform met een complete ondernemersplatform voor horeca, retail en e-Commerce wereldwijd.**<br><br>
 **Samenvatting**<br>
 Met de Callvoip Lightspeedhq telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Lightspeedhq. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Lightspeedhq staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
