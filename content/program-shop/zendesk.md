@@ -15,7 +15,7 @@ categories:
   - Customer service
   - E-Commerce
   - Nieuw
-weight: 3
+weight: 1
 new: true
 url: /marketplace/zendesk/
 aliases: /program-shop/zendesk/
