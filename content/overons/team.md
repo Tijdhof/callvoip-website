@@ -54,18 +54,11 @@ team:
     Vermoedelijk een gamer. Typt in vreemde talen. '
   function: Marketingmedewerker
   linkedin: ''
-- function: Interim Marketing Manager
-  name: Roy Liezen
-  linkedin: https://www.linkedin.com/in/roy-liezen-83675952/
-  image: "/v1570532524/roy_ugofnc.png"
-  content: |-
-    Een door de wol geverfde marketingman met oneindig veel ideeën. Deelt deze ideeën graag naast vele andere zaken. Haalt
-    zichtbaar plezier uit inspireren en motiveren. Zit weleens op de racefiets. En voedt ook nog een dochter op.
 - content: Is breed inzetbaar want heeft veel kennis van marketing maar ook gezond
-    boerenverstand om de techniek met logica te benaderen. Komt naar werk met zo'n
-    pedelec waardoor de 58 kilometer door de Groningse polder een eitje wordt met
-    zonder auto. Thuis ook druk met een gezin waar ook katten bij horen.
-  function: Marketing, communicatie en support
+    boerenverstand om de techniek met logica te benaderen. Komt naar werk met de fiets,
+    58 kilometer door de Groningse polder dus met zonder auto. Thuis ook druk met
+    een gezin waar ook katten bij horen.
+  function: Marketing en communicatie
   linkedin: https://www.linkedin.com/in/timschouwenaar/?locale=nl_NL
   image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
   name: Tim Schouwenaar
