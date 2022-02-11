@@ -42,7 +42,7 @@ Met de Trengo Callvoip connector voeg je drie prachtige features aan je telefoon
 <li>Er wordt automatisch een callregistratie gelogd; typ gelijk je gespreksinformatie!</li>
 </ul>
 Er is nog meer bijzonders aan deze koppeling. Denk aan gemakkelijk doorverbinden, maar ook automatische Google Number Lookup. Staat het nummer van de beller niet in jouw Trengo omgeving, dan zoekt onze software op Google alle bekende informatie erbij. Zo ben je toch al geïnformeerd, ook als bijvoorbeeld een nieuwe klant belt.<br><br>
-<h3>Meer weten?</h3><br>
+<h3>Meer weten?</h3>
 Wil je meer weten over de details en mogelijkheden van deze mooie CRM integratie? Bekijk dan de pagina van de [Trengo koppeling in onze Marketplace](https://www.callvoip.nl/marketplace/trengo/). Daar kun je ook gemakkelijk een gratis demo aanvragen.
 
 Lees je dit allemaal en heb je om te beginnen nog geen Trengo? Dan kunnen we je warm aanbevelen contact met ze te zoeken. Klik daarvoor op [deze link](https://trengo.com/en/getdemo?ref=marieketimmer). En als je daar helemaal ingericht bent, bel je ons toch voor een koppeling? ;-)
