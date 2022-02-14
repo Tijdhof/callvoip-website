@@ -15,9 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Universele koppeling
-  - Meest populair
-weight: 3
-populair: true
+weight: 10
 url: /marketplace/Google
 aliases: /program-shop/Google/
 headerside:
