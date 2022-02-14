@@ -83,5 +83,5 @@ En daarnaast: customized knoppen zoals: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Gripp CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met Gripp is beschikbaar voor zowel Windows als Apple Mac.<br> 
-<a href="https://www.gripp.com/koppelingen/callvoip/" target="_blank">Bekijk de telefonie-integratiepagina op Gripp.nl.</a>.<br>
+<a href="https://www.gripp.com/koppelingen/callvoip/" target="_blank">Bekijk de telefonie-integratiepagina op Gripp.nl</a>.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
