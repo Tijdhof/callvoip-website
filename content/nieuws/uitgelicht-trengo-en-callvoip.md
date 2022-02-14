@@ -45,4 +45,4 @@ Er is nog meer bijzonders aan deze koppeling. Denk aan gemakkelijk doorverbinden
 <h3>Meer weten?</h3>
 Wil je meer weten over de details en mogelijkheden van deze mooie CRM integratie? Bekijk dan de pagina van de [Trengo koppeling in onze Marketplace](https://www.callvoip.nl/marketplace/trengo/). Daar kun je ook gemakkelijk een gratis demo aanvragen.
 
-Lees je dit allemaal en heb je om te beginnen nog geen Trengo? Dan kunnen we je warm aanbevelen contact met ze te zoeken. Klik daarvoor op [deze link](https://trengo.com/en/getdemo?ref=marieketimmer). En als je daar helemaal ingericht bent, bel je ons toch voor een koppeling? ;-)
+Lees je dit allemaal en heb je om te beginnen nog geen Trengo? Dan kunnen we je warm aanbevelen contact met ze te zoeken. Klik daarvoor op [deze link](https://trengo.com/en/getdemo?ref=marieketimmer). En als je daar helemaal ingericht bent, bel je ons toch voor een koppeling? ;-)<br><br><a href="https://www.callvoip.nl/marketplace/trengo/">Meer informatie over de Trengo koppeling</a>
