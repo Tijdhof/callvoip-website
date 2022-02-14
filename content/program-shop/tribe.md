@@ -16,9 +16,8 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Nieuw
-weight: 1
-new: true
+weight: 10
+new: false
 url: /marketplace/tribe/
 aliases: /program-shop/tribe/
 headerside:
