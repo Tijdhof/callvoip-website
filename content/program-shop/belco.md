@@ -25,10 +25,9 @@ button:
 categories:
   - E-commerce
   - Customerservice
-  - Nieuw
   - Auto call log
-weight: 1
-new: true
+weight: 10
+new: false
 url: /marketplace/belco/
 aliases: /program-shop/belco/
 
