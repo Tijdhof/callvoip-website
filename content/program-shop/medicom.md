@@ -16,8 +16,7 @@ categories:
   - Zorgverleners
   - Auto Call Log
   - Integrated Popup
-weight: 5
-populair: true
+weight: 10
 url: /marketplace/medicom/
 aliases: /program-shop/medicom/
 headerside:
