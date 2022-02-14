@@ -15,9 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
-  - Meest populair
-weight: 3
-populair: true
+weight: 10
 url: /marketplace/bytegear/
 aliases: /program-shop/bytegear/
 headerside:
