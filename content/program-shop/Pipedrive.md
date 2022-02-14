@@ -18,7 +18,7 @@ categories:
   - Customerservice
   - Meest populair
   - Auto Call Log
-weight: 3
+weight: 1
 populair: true
 url: /marketplace/Pipedrive/
 aliases: /program-shop/Pipedrive/
