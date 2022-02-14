@@ -15,10 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
-  - Meest populair
   - Integrated Popup
-weight: 5
-populair: true
+weight: 10
 url: /marketplace/exquise-next/
 aliases: /program-shop/exquise-next/
 headerside:
