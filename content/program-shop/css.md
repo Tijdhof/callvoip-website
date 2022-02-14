@@ -13,11 +13,9 @@ button:
   link: /marketplace/
 categories:
   - Garagesoftware
-  - Meest populair
-weight: 3
+weight: 10
 ontwikkelaar:
   - title: Via API
-populair: true
 url: /marketplace/css/
 aliases: /program-shop/css/
 headerside:
