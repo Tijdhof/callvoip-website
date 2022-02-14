@@ -14,8 +14,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-weight: 5
-populair: true
+weight: 10
 url: /marketplace/alexion
 aliases: /program-shop/alexion
 headerside:
