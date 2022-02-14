@@ -13,9 +13,7 @@ button:
   link: /marketplace/
 categories:
   - Kassasysteem
-  - Meest populair
-weight: 3
-populair: true
+weight: 10
 url: /marketplace/cashdesk/
 aliases: /program-shop/cashdesk/
 headerside:
