@@ -16,9 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Meest populair
-weight: 3
-populair: true
+weight: 10
 url: /marketplace/exact-online/
 aliases: /program-shop/exact-online/
 headerside:
