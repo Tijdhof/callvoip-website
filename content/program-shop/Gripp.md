@@ -16,9 +16,9 @@ button:
 categories:
   - Workflow
   - Planning
-  - Nieuw
+  - Meest populair
 weight: 1
-new: true
+populair: true
 url: /marketplace/Gripp/
 aliases: /program-shop/Gripp/
 headerside:
