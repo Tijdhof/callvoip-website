@@ -28,7 +28,9 @@ categories:
   - Relatiebeheer
   - Boekhouding
   - Projectbeheer
-weight: 10
+  - Nieuw
+weight: 1
+new: true
 url: /marketplace/odoo/
 aliases: /program-shop/odoo/
 
