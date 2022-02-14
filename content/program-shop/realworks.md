@@ -17,7 +17,7 @@ categories:
   - Meest populair
   - Auto Call Log
   - Integrated Popup
-weight: 2
+weight: 1
 populair: true
 url: /marketplace/realworks/
 aliases: /program-shop/realworks/
