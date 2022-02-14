@@ -16,7 +16,7 @@ categories:
   - Meest populair
   - Auto call log
   - Custom fields
-weight: 3
+weight: 1
 populair: true
 url: /marketplace/hubspot/
 aliases: /program-shop/hubspot/
