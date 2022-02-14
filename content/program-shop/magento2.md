@@ -24,7 +24,9 @@ button:
   link: /marketplace/
 categories:
   - Webshop software
-weight: 10
+  - Nieuw
+weight: 1
+new: true
 url: /marketplace/magento2/
 aliases: /program-shop/magento2/
 
