@@ -16,10 +16,8 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Meest populair
   - Custom fields
-weight: 4
-populair: true
+weight: 10
 url: /marketplace/afas
 aliases: /program-shop/afas-profit
 headerside:
