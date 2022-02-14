@@ -16,11 +16,11 @@ button:
 categories:
   - E-commerce
   - Customerservice
-  - Nieuw
+  - Meest Populair
   - Auto Call Log
   - Integrated Popup
 weight: 1
-new: true
+populair: true
 url: /marketplace/trengo
 aliases: /program-shop/trengo
 headerside:
