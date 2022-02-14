@@ -14,9 +14,7 @@ button:
 categories:
   - Workflow
   - Planning
-  - Meest populair
-weight: 3
-populair: true
+weight: 10
 url: /marketplace/teamleader/
 aliases: /program-shop/teamleader/
 headerside:
