@@ -13,9 +13,8 @@ button:
   link: /marketplace/
 categories:
   - Klantcontact
-  - Nieuw
-weight: 1
-new: true
+weight: 10
+new: false
 url: /marketplace/Lime/
 aliases: /program-shop/Lime/
 headerside:
