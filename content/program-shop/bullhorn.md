@@ -15,9 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Recruitment
-  - Nieuw
-weight: 1
-new: true
+weight: 10
+new: false
 url: /marketplace/Bullhorn/
 aliases: /program-shop/Bullhorn/
 headerside:
