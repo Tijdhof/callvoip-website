@@ -13,7 +13,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2022-02-13T23:00:00+00:00
 url: "/nieuws/trengo-en-callvoip"
 contactpersoon: []
 categories: []
