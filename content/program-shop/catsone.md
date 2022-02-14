@@ -25,7 +25,9 @@ button:
 categories:
   - Recruitment
   - Relatiebeheer
-weight: 10
+  - Nieuw
+weight: 1
+new: true
 url: /marketplace/catsone/
 aliases: /program-shop/catsone/
 
