@@ -16,8 +16,7 @@ button:
 categories:
   - Workflow
   - Planning
-weight: 3
-populair: true
+weight: 10
 url: /marketplace/Simplicate/
 aliases: /program-shop/Simplicate/
 headerside:
