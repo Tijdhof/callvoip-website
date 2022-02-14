@@ -1,12 +1,13 @@
 ---
 title: 'Uitgelicht: Trengo en Callvoip'
 description: ''
-images: []
+images:
+- "/v1643976048/trengo-image_qsqq6h.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1643976048/trengo-image_qsqq6h.png"
 hero:
   image: ''
   mobile: ''
