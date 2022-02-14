@@ -14,10 +14,9 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Nieuw
   - Auto Call Log
-weight: 1
-new: true
+weight: 10
+new: false
 url: /marketplace/zoho
 aliases: /program-shop/zoho
 headerside:
