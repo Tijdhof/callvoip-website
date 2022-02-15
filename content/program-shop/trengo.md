@@ -90,6 +90,6 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het <a href="https://trengo.com/en/getdemo?ref=marieketimmer" target="_blank">softwarepakket Trengo CR</a>M wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het <a href="https://trengo.com/en/getdemo?ref=marieketimmer" target="_blank">softwarepakket Trengo CRM</a> wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met Trengo CRM kan worden gebruikt op zowel Windows als Apple Mac.<br><a href="https://www.callvoip.nl/nieuws/trengo-en-callvoip/">Uitgelicht: Callvoip en Trengo - meer dan een popup</a>
 <br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
