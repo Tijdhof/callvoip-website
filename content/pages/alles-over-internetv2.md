@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: 'De internetverbinding van nu en de toekomst loopt door een glasvezelkabel. Snel, betrouwbaar en up- en downloadsnelheden zijn gelijk. Maar met Callvoip internet bieden we op elk adres een goede verbinding, ook als bij jou de glasvezelkabel nog niet ligt. De beproefde DSL is vrijwel altijd beschikbaar en biedt veelal ook voldoende snelheid. Liever via de Ziggo kabel online? Regelen we voor je. En voor locaties in het buitengebied hebben we zelfs een 4G verbindingen die overal en altijd werken.'
-  image: "/v1600956804/spongbob_owpksz.jpg"
+  image: "/v1600956804/internet-max_p0ugq5.png"
   zooming: true
   position: image_left
   title: 'Compleet aanbod: DSL, glasvezel, 4g en kabel'
