@@ -21,9 +21,9 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Callvoip Glasvezel
-  content1: Met een (FTTH - Fiber to the Home) glasvezelverbinding bieden we een eigen lijn en een stabiele snelheid die klaar is voor de toekomst. De upload- en downloadsnelheid zijn gelijk en hoge snelheden tot 1 Gbps zijn mogelijk. Met de combinatie van onze telefonie en een internetverbinding profiteer je van 1 aanspreekpunt dat alles voor je regelt.
+  content1: 'Met een (FTTH - Fiber to the Home) glasvezelverbinding bieden we een eigen lijn en een stabiele snelheid die klaar is voor de toekomst. De upload- en downloadsnelheid zijn gelijk en hoge snelheden tot 1 Gbps zijn mogelijk. Met de combinatie van onze telefonie en een internetverbinding profiteer je van 1 aanspreekpunt dat alles voor je regelt.'
   title2: Callvoip DSL
-  content2: De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.
+  content2: 'De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.'
 images: []
 hideinsearch: false
 hideingoogle: false
