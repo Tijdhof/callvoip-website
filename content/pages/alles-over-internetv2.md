@@ -8,7 +8,7 @@ url: /internet-test/
 hero:
   title: 'Callvoip internet: snel en betrouwbaar'
   content: |-
-    'In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>'
+    In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>
   image: "/v1604049415/nummers_tmjv48.jpg"
   image_position: center
   disable_image_on_mobile: false
@@ -110,7 +110,76 @@ textblocksfooter:
             </div>
           </div>'
   title2: Callvoip DSL
-  content2: 'De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.'
+  content2: 'De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.
+    <div class="mb-8 bg-white rounded-lg py-8 px-6">
+            <h4 class="text-lg lg:text-2xl font-medium mb-2">Koper</h4>
+
+            <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Techniek soort</h5>
+
+            <div id="monthly">
+              <div id="basic-fields-monthly">
+  
+  
+  <div class="flex mb-1">
+    
+    <div class="flex-1 px-2">ADSL</div>
+    
+    <div class="">€&nbsp;30,- per maand</div>
+    
+  </div>
+  
+  
+  
+  
+  
+  </div>
+<div class="flex mb-1">
+    
+    <div class="flex-1 px-2">(V)VDSL</div>
+    
+    <div class="">€&nbsp;35,- per maand</div>
+    
+  </div>
+<div class="flex mb-1">
+    
+    <div class="flex-1 px-2">VPLUS</div>
+    
+    <div class="">€&nbsp;45,- per maand</div>
+    
+  </div>          
+              
+              <div id="total-fields-monthly">
+  <div class="flex mb-">
+  <div class="w-6">
+    &nbsp;
+  </div>
+  
+  
+  </div>
+  </div>
+            </div>
+
+            
+            
+            <div class="mt-4">
+              <div class="space-y-4 hidden">
+                <div class="flex flex-col space-y-2">
+                  <label for="Voor-en-achternaam">Voor-en achternaam <span class="text-red">*</span></label>
+                  <input id="s-name" class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
+                </div>
+                <div class="flex flex-col space-y-2">
+                  <label for="E-mailadres">E-mailadres <span class="text-red">*</span></label>
+                  <input id="s-email" class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
+                </div>
+                <button type="button" id="submit-small-form" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
+                  Gegevens versturen
+                </button>
+              </div>
+              <button type="button" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
+                Meer informatie?
+              </button>
+            </div>
+          </div>'
 images: []
 hideinsearch: false
 hideingoogle: false
