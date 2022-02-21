@@ -1,5 +1,5 @@
 ---
-title: Callvoip internet: snel en betrouwbaar
+title: 'Callvoip internet: snel en betrouwbaar'
 description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service of internationaal.'
 type: page
 layout: default2
