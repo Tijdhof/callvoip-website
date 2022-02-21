@@ -72,6 +72,10 @@ textblocksfooter:
     <div class="">€&nbsp;69,- per maand</div>
     
   </div>
+  <div class="flex mb-1">
+<div class="flex-1 px-2"></div>
+<div class="">Prijzen zijn excl. BTW</div>
+</div>
               
               
               
@@ -110,7 +114,7 @@ textblocksfooter:
             </div>
           </div>'
   title2: Callvoip DSL
-  content2: 'De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.<br>
+  content2: 'De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.<br><br>
     <div class="mb-8 bg-white rounded-lg py-8 px-6">
             <h4 class="text-lg lg:text-2xl font-medium mb-2">Koper</h4>
 
@@ -146,7 +150,11 @@ textblocksfooter:
     
     <div class="">€&nbsp;45,- per maand</div>
     
-  </div>          
+  </div>
+  <div class="flex mb-1">
+<div class="flex-1 px-2"></div>
+<div class="">Prijzen zijn excl. BTW</div>
+</div><br><br><br>
               
               <div id="total-fields-monthly">
   <div class="flex mb-">
