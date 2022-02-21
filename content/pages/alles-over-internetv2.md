@@ -1,15 +1,14 @@
 ---
 title: Callvoip internet: snel en betrouwbaar
-description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service
-  of internationaal. '
+description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service of internationaal.'
 type: page
 layout: default2
 logos: false
 url: /internet-test/
 hero:
-  title: Callvoip internet: snel en betrouwbaar
+  title: 'Callvoip internet: snel en betrouwbaar'
   content: |-
-    In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>
+    'In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>'
   image: "/v1604049415/nummers_tmjv48.jpg"
   image_position: center
   disable_image_on_mobile: false
