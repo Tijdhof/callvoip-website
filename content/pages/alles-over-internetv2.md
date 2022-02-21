@@ -22,7 +22,7 @@ blocks:
 textblocksfooter:
 - title1: Callvoip Glasvezel
   content1: 'Met een (FTTH - Fiber to the Home) glasvezelverbinding bieden we een eigen lijn en een stabiele snelheid die klaar is voor de toekomst. De upload- en downloadsnelheid zijn gelijk en hoge snelheden tot 1 Gbps zijn mogelijk. Met de combinatie van onze telefonie en een internetverbinding profiteer je van 1 aanspreekpunt dat alles voor je regelt.
-  <div class="mb-8 bg-grey-lightest rounded-lg py-8 px-6">
+  <div class="mb-8 bg-white rounded-lg py-8 px-6">
             <h4 class="text-lg lg:text-2xl font-medium mb-2">Glasvezel</h4>
 
             <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Snelheden</h5>
