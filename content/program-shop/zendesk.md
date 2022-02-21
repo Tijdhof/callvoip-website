@@ -12,7 +12,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customer service
+  - Customerservice
   - E-Commerce
   - Nieuw
 weight: 1
