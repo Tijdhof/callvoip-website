@@ -141,7 +141,7 @@ textblocksfooter:
   <div class="flex mb-1">
 <div class="flex-1 px-2"></div>
 <div class="">Prijzen zijn excl. BTW</div>
-</div><br><br>
+</div><br><br><hr style="height:5pt; visibility:hidden;">
               
               <div id="total-fields-monthly">
   <div class="flex mb-">
