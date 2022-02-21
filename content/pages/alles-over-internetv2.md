@@ -95,19 +95,6 @@ textblocksfooter:
             
             
             <div class="mt-4">
-              <div class="space-y-4 hidden">
-                <div class="flex flex-col space-y-2">
-                  <label for="Voor-en-achternaam">Voor-en achternaam <span class="text-red">*</span></label>
-                  <input id="s-name" class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
-                </div>
-                <div class="flex flex-col space-y-2">
-                  <label for="E-mailadres">E-mailadres <span class="text-red">*</span></label>
-                  <input id="s-email" class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
-                </div>
-                <button type="button" id="submit-small-form" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                  Gegevens versturen
-                </button>
-              </div>
               <button type="button" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
                 Meer informatie?
               </button>
@@ -154,7 +141,7 @@ textblocksfooter:
   <div class="flex mb-1">
 <div class="flex-1 px-2"></div>
 <div class="">Prijzen zijn excl. BTW</div>
-</div><br><br><br>
+</div><br><br>
               
               <div id="total-fields-monthly">
   <div class="flex mb-">
@@ -170,19 +157,6 @@ textblocksfooter:
             
             
             <div class="mt-4">
-              <div class="space-y-4 hidden">
-                <div class="flex flex-col space-y-2">
-                  <label for="Voor-en-achternaam">Voor-en achternaam <span class="text-red">*</span></label>
-                  <input id="s-name" class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
-                </div>
-                <div class="flex flex-col space-y-2">
-                  <label for="E-mailadres">E-mailadres <span class="text-red">*</span></label>
-                  <input id="s-email" class="px-4 py-2 rounded-md focus:outline-none focus:shadow-md border border-grey-medium">
-                </div>
-                <button type="button" id="submit-small-form" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                  Gegevens versturen
-                </button>
-              </div>
               <button type="button" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
                 Meer informatie?
               </button>
