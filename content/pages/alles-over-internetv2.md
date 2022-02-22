@@ -173,5 +173,12 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
+menu:
+  main:
+    name: Callvoip internet
+    weight: 1
+    parent: Internet
+    pre: Snel en betrouwbaar internet via glasvezel of DSL
+    post: fa-wifi
 
 ---
