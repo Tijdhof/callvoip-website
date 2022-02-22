@@ -67,13 +67,6 @@ double_content:
     undefined: ''
   right:
     undefined: ''
-menu:
-  main:
-    name: DSL
-    weight: 1
-    parent: Internet
-    pre: De beste DSL verbinding als basis van je IP-telefonie
-    post: fa-wifi
 
 ---
 {{< dsl-tabel >}}
