@@ -35,10 +35,6 @@ usps:
       link: https://files.callvoip.nl/downloads/callvoip-ftth-glasvezel_aanvraagformulier.pdf
     - title: Managed 4G-oplossing
       link: "/aanvragen/managed-4g/"
-    - title: Ziggo Zakelijk Internet - PDF
-      link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_variabel-IP.pdf
-    - title: " Ziggo Zakelijk Internet Pro - PDF"
-      link: http://files.callvoip.nl/downloads/ZIGGO-Zakelijk-Internet_Pro.pdf
     - title: Ziggo Zakelijk Internet - Portal
       link: https://www.ziggo.nl/zakelijk/stel-samen
     - title: Ziggo Zakelijk Internet Pro - Portal
