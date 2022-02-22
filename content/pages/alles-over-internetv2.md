@@ -95,7 +95,7 @@ textblocksfooter:
             
             
             <div class="mt-4">
-              <button type="button" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
+              <button type="button" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2" onclick="window.location.href='/offerte'">
                 Meer informatie?
               </button>
             </div>
