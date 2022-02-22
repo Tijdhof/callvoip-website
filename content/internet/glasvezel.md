@@ -91,13 +91,6 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-menu:
-  main:
-    name: Glasvezel
-    weight: 3
-    parent: Internet
-    pre: Supersnelle download- en uploadsnelheid met glasvezel
-    post: fa-wifi
 
 ---
 ## Extra mogelijkheden Callvoip Glasvezel
