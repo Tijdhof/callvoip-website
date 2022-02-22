@@ -4,7 +4,7 @@ description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, servic
 type: page
 layout: default2
 logos: false
-url: /internet-test/
+url: /internet/glasvezel-dsl/
 hero:
   title: 'Callvoip internet: snel en betrouwbaar'
   content: |-
