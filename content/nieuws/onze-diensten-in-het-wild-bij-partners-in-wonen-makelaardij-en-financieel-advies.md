@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2022-02-22T13:00:00+00:00
 url: "/nieuws/partners-in-wonen/"
 contactpersoon: []
 categories: []
@@ -24,7 +24,7 @@ tags: []
 ![](https://res.cloudinary.com/callvoip/image/upload/v1645528538/Verhuur-en-beheer-1547x800_fbczmm.jpg)  
 Vaak belichten we in blogs en onze nieuwsbrief functionaliteiten van onze dienst. Natuurlijk doen we dat vol trots en inclusief duidelijke overzichtjes wat er allemaal mogelijk is. Maar uiteindelijk is het natuurlijk voor jouw eigen situatie een maatwerk toepassing. Daarom lichten we eens een totaalpakket van een klant uit. Om al die features eens in het wild te zien, samenwerkend als een geolied geheel.
 
-We stellen je dan ook graag voor aan Partners in Wonen, net als wij uit Groningen. Zij zijn een full service makelaardij voor nieuwbouwprojecten, bestaande bouw en starters. Het zal niet verbazen dat makelaars veel bellen, een goede telefonie-oplossing is dan ook onmisbaar. En dat gaat wat ons betreft natuurlijk veel verder dan een toestel wat op een bureau rinkelt als het vaste nummer gebeld wordt. Na de overstap naar onze dienst dit najaar, heeft Partners in Wonen namelijk geen enkel toestel meer op kantoor staan…
+We stellen je dan ook graag voor aan [Partners in Wonen](http://www.partnersinwonen.nl/), net als wij uit Groningen. Als full service makelaarskantoor bieden ze alles om woondromen te realiseren. Of het nu om aankoop, verkoop, nieuwbouw, hypotheken of vastgoedbeheer gaat. Zij hebben alle specialisten onder één dak. Het zal niet verbazen dat makelaars veel bellen, een goede telefonie-oplossing is dan ook onmisbaar. En dat gaat wat ons betreft natuurlijk veel verder dan een toestel wat op een bureau rinkelt als het vaste nummer gebeld wordt. Na de overstap naar onze dienst dit najaar, heeft Partners in Wonen namelijk geen enkel toestel meer op kantoor staan…
 
 **Veel bellen zonder toestel?**  
 Dus een makelaarskantoor, zo’n typisch veel bellend bedrijf, heeft geen toestellen meer? Dat klopt! Wij zelf zijn trouwens ook een voorbeeld van een veel bellend bedrijf waar lang niet iedereen een toestel gebruikt. Hoe bellen ze bij Partners in Wonen dan wel? Gewoon in de browser van de PC waar ze toch al achter zaten te werken. Of op de mobiel die ze toch al hadden. Ze gebruiken namelijk allemaal onze Webcalls en smartphone app. Met gemak maak je zo iedere werkplek telefonisch bereikbaar en met de app bel je onderweg ook op met het vaste nummer. Het levert Partners in Wonen veel gemak en flexibiliteit op.
