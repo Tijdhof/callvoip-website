@@ -46,4 +46,4 @@ Zo’n mix van slimme toepassingen en koppelingen is vast ingewikkeld om te behe
 * [Koppelingen Realworks](https://www.callvoip.nl/marketplace/realworks/): slimme popups en automatische logs
 * [Whatsapp for Business](https://www.callvoip.nl/telefonie/functionaliteiten/whatsapp-business/): app met je klanten met je vaste nummer.
 
-Weten hoe dit er voor jouw makelaardij uit kan zien? Bel ons en we vertellen er graag alles over!
+Weten hoe dit er voor jouw makelaardij uit kan zien? Bel ons en we vertellen er graag alles over!<br><br><a href="/contact" class="button">Neem contact op</a>
