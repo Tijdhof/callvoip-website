@@ -95,9 +95,9 @@ textblocksfooter:
             
             
             <div class="mt-4">
-              <button type="button" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2" onclick="window.location.href=/offerte">
-                Meer informatie?
-              </button>
+              <a href="/offerte" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
+                Offerte aanvragen
+              </a>
             </div>
           </div>'
   title2: Callvoip DSL
@@ -164,9 +164,9 @@ textblocksfooter:
             
             
             <div class="mt-4">
-              <button type="button" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                Meer informatie?
-              </button>
+              <a href="/offerte" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
+                Offerte aanvragen
+              </a>
             </div>
           </div>'
 images: []
