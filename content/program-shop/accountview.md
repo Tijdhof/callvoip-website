@@ -17,9 +17,7 @@ categories:
   - Customerservice
   - Accountancy
   - Boekhouding
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 url: /marketplace/accountview/
 aliases: /program-shop/accountview/
 headerside:
