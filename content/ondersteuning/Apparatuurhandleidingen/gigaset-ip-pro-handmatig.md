@@ -3,7 +3,7 @@ title: Gigaset IP DECT instellen (handmatig)
 weight: 40
 description: Gigaset IP DECT instellen (handmatig)
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_configuratiehandleiding_Gigaset_IP_DECT.pdf
+pdf: http://files.callvoip.nl/downloads/Callvoip_configuratiehandleiding_Gigaset_IP_DECT_Maxwell-Serie.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
@@ -15,7 +15,7 @@ In deze handleiding kunt u lezen hoe u uw Gigaset IP DECT instelt voor een VoIP-
 
 **NB:** de handleiding is ook toepasbaar op een Sinus IP DECT (= speciale uitvoering Gigaset IP DECT). Let u er dan op dat u bij Telefonie > Voicemail geen vinkjes zet – het toestel zal dan niet gebeld kunnen worden.
 
-1. **Maak een Simmpl toestelaccount aan**  
+1. **Maak een Callvoip toestelaccount aan**  
    Voordat u de telefoon kunt instellen maakt u op de Simmpl centrale aan:  
    \- een gebruiker (extension)  
    \- een toestel (device) > hier vindt u ook de SIP-username en password  
