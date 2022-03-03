@@ -40,7 +40,7 @@ Trengo: CRM software voor optimale klantenservice obv omnichannel communicatieka
 <br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">**Samenvatting**<br>
 Met de Callvoip Trengo telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Trengo. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Trengo staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
-<a href="https://trengo.com/en/getdemo?ref=marieketimmer" target="_blank">Klik hier voor meer informatie over Trengo.</a><br>
+<a href="https://trengo.com/en?ref=marieketimmer&utm_source=CallVoip&utm_medium=Partner+Marketing&utm_campaign=CallVoip" target="_blank">Klik hier voor meer informatie over Trengo.</a><br>
 <br>
 **Inkomende gesprekken**<br>
 Met de unieke Trengo Callvoip connector voeg je drie prachtige features aan je telefoonsysteem toe:<br>
@@ -90,6 +90,6 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het <a href="https://trengo.com/en/getdemo?ref=marieketimmer" target="_blank">softwarepakket Trengo CRM</a> wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het <a href="https://trengo.com/en?ref=marieketimmer&utm_source=CallVoip&utm_medium=Partner+Marketing&utm_campaign=CallVoip" target="_blank">softwarepakket Trengo CRM</a> wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met Trengo CRM kan worden gebruikt op zowel Windows als Apple Mac.<br><a href="https://www.callvoip.nl/nieuws/trengo-en-callvoip/">Uitgelicht: Callvoip en Trengo - meer dan een popup</a>
 <br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
