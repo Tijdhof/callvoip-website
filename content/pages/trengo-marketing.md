@@ -9,7 +9,7 @@ marketplaceItem: true
 hero:
   title: Trengo + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
-    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het <a href="https://trengo.com/en/getdemo?ref=marieketimmer" target="_blank">CRM platform Trengo</a> is een systeem gericht op E-commerce. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Trengo nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/Trengo/" class="button">Meer informatie</a>'
+    de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het <a href="https://trengo.com/en?ref=marieketimmer&utm_source=CallVoip&utm_medium=Partner+Marketing&utm_campaign=CallVoip">CRM platform Trengo</a> is een systeem gericht op E-commerce. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Trengo nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/Trengo/" class="button">Meer informatie</a>'
   image: "/v1622801300/trengologo_vawbbf.png"
   zooming: true
   image_position: center
