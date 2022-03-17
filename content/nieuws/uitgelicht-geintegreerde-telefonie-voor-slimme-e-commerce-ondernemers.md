@@ -1,7 +1,8 @@
 ---
 title: 'Uitgelicht: geïntegreerde telefonie voor slimme e-commerce ondernemers.'
 description: ''
-images: []
+images:
+- "/v1647514498/ecommerce_telefonie_zuzvmy.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -14,13 +15,14 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: ''
+url: nieuws/ecommerce-en-telefonie/
 contactpersoon: []
 categories: []
 tags: []
-draft: true
 
 ---
+![](https://res.cloudinary.com/callvoip/image/upload/v1647514498/ecommerce_telefonie_zuzvmy.png)
+
 In de constant groeiende e-commerce in Nederland bieden we ook de nodige slimme oplossingen. Denk aan een landelijk 088 nummer voor je webshop, een 0900 servicenummer voor de helpdesk, en zelfs buitenlandse nummers. Naast telefoonnummers bieden we nu ook een slimme integratie tussen onze telefonie met [Magento 2](https://www.callvoip.nl/marketplace/magento2/), het meest gebruikte e-commerce platform. Maar ook met het veelgebruikte [Lightspeed ](https://www.callvoip.nl/marketplace/lightspeedhq/)kun je koppelen. Dan werken jouw e-commerce systemen helemaal naadloos samen!
 
 **Groei groei groei**
@@ -48,7 +50,9 @@ Daar wordt elk telefoongesprek een stuk efficiënter van is onze ervaring.
 
 **Koppel meer dan 1 systeem**
 
-Wellicht gebruik je binnen je e-commerce nog andere systemen zoals Exact voor de boekhouding, Trengo voor de klantenservice. Dan is het goed om te weten dat onze pop-up zó slim is dat hij ook tegelijk met 2 systemen tegelijk koppelt! Dus je wordt gebeld en kunt in de pop-up kiezen in welk systeem je de klant wilt bekijken. Dubbel gemak in 1 pop-up dus!  
-**Ecommerce + Callvoip = ❤️**  
+Wellicht gebruik je binnen je e-commerce nog andere systemen zoals Exact voor de boekhouding, Trengo voor de klantenservice. Dan is het goed om te weten dat onze pop-up zó slim is dat hij ook tegelijk met 2 systemen tegelijk koppelt! Dus je wordt gebeld en kunt in de pop-up kiezen in welk systeem je de klant wilt bekijken. Dubbel gemak in 1 pop-up dus!
+
   
-Kortom: als e-commerce ondernemer kun je profiteren van een slimme samenwerking van 2 of meer platformen om zo jouw klantcontact te stroomlijnen. Fijn voor zowel je medewerkers als jouw klanten. Meer weten of een demo? Neem contact met ons op!
+**Ecommerce + Callvoip = ❤️**
+
+Kortom: als e-commerce ondernemer kun je profiteren van een slimme samenwerking van 2 of meer platformen om zo jouw klantcontact te stroomlijnen. Fijn voor zowel je medewerkers als jouw klanten. Meer weten of een demo? Neem [contact ](https://www.callvoip.nl/contact/)met ons op!
