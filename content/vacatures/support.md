@@ -11,6 +11,7 @@ card:
   link:
     url: "/sollicitatiebrief"
     content: Soliciteer nu
+draft: true
 
 ---
 ### Wie zijn wij?
