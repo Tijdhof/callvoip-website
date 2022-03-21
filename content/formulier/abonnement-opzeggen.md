@@ -57,6 +57,8 @@ _Per wanneer wilt u het abonnement opzeggen?_
 
 {{< form/input "Heeft u ook CallvoipDSL en dient deze te worden opgezegd?" >}}
 
+{{< form/input "Heeft u ook een CRM-koppeling en dient deze te worden opgezegd?" >}}
+
 {{< form/textarea "Reden van opzegging" >}}
 
 {{</ form/fieldset >}}
