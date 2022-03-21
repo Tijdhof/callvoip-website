@@ -4,15 +4,15 @@ tag: 'vacature '
 hidesocialshare: false
 excerpt: ''
 card:
-  title: ''
-  content: ''
+  title: Klantblijheid Supporter
+  content: Zorg jij voor onze blije klanten?
   link:
-    url: ''
-    content: ''
+    url: "/sollicitatiebrief"
+    content: Solliciteer nu
 draft: true
 
 ---
-**Zorg jij voor onze blije klanten?**
+### **Zorg jij voor onze blije klanten?**
 
 **wij:**
 
@@ -28,8 +28,7 @@ draft: true
 * **Enthousiaste starter OF ervaren professional**
 * **Affiniteit met ICT techniek**
 
-###   
-Wie zijn wij?
+### Wie zijn wij?
 
 Wij zijn Callvoip en leveren uitgekiende, zakelijke telefonie. Wij worden blij van onze klanten en doen dan ook alles om hun bereikbaarheid zo goed mogelijk te regelen. Ons kantoor zit in Groningen maar onze klanten in het hele land verspreid over alle branches. We doen dit al meer dan 10 jaar en zijn er dan ook behoorlijk goed in geworden. Dus we nemen geen genoegen met een zesje.
 
@@ -55,7 +54,6 @@ Advies geven over slimme oplossingen, gevraagd maar ook vooral ongevraagd, gaat 
 
 Werken bij Callvoip betekent deel uitmaken van een enthousiast team. We delen graag onze kennis en je leert gegarandeerd een hoop over telefonie, internet en apparatuur. Je hebt in deze functie een sleutelrol binnen ons bedrijf. We hechten veel waarde aan persoonlijke ontwikkeling en geven dan ook ruimte voor verdere verdieping van de functie.
 
-  
 Lijkt het je wat? Laat dan wat van je horen via onderstaande knop! Of bel ons, vinden we leuk. ;-)
 
 <a href="/sollicitatiebrief" class="button">Soliciteer nu</a>
