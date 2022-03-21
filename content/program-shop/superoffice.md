@@ -16,7 +16,7 @@ button:
 categories:
   - Sales
   - Marketing
-  - Administratie
+  - Klantcontact
 weight: 10
 url: /marketplace/superoffice/
 aliases: /program-shop/superoffice/
