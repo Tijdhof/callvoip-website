@@ -16,7 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Sales
-  - Marketing automation
+  - Marketing
 new: false
 weight: 10
 url: /marketplace/act/
