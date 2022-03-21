@@ -16,7 +16,7 @@ card:
 
 **wij:**
 
-* **Callvoip,**
+* **Callvoip**
 * **Zakelijke telefonieprovider**
 * **Groningen**
 * **Hart voor onze klanten**
