@@ -2,8 +2,8 @@
 title: Klantzoeker
 tag: 'vacature '
 hidesocialshare: false
-url: "/vacatures/klantblijheid-supporter/"
-excerpt: Zorg jij voor onze blije klanten?
+url: "/vacatures/klantzoeker/"
+excerpt: Zorg jij voor onze nieuwe klanten?
 card:
   title: Klantzoeker
   content: Zorg jij voor onze nieuwe klanten?
