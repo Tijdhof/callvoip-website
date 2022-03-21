@@ -2,14 +2,13 @@
 title: Klantblijheid Supporter
 tag: 'vacature '
 hidesocialshare: false
-excerpt: ''
+excerpt: Zorg jij voor onze blije klanten?
 card:
   title: Klantblijheid Supporter
   content: Zorg jij voor onze blije klanten?
   link:
     url: "/sollicitatiebrief"
     content: Solliciteer nu
-draft: true
 
 ---
 ### **Zorg jij voor onze blije klanten?**
