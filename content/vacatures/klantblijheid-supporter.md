@@ -2,6 +2,7 @@
 title: Klantblijheid Supporter
 tag: 'vacature '
 hidesocialshare: false
+url: "/vacatures/klantblijheid-supporter/"
 excerpt: Zorg jij voor onze blije klanten?
 card:
   title: Klantblijheid Supporter
