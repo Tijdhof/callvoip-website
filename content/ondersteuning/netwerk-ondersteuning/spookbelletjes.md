@@ -20,4 +20,4 @@ Callvoip supportteam.
 
 Hieronder vindt je een PDF met uitleg en advies hoe u dit kunt voorkomen.
 
-<a href="https://www.simmpl.nl/downloads/Simmpl_technote_voorkomen_spookbelletjes.pdf" class="button" target="_blank">PDF Handleiding</a>
+<a href="http://files.callvoip.nl/downloads/Callvoip_technote_voorkomen_spookbelletjes.pdf" class="button" target="_blank">PDF Handleiding</a>
