@@ -40,4 +40,4 @@ title: Download meldteksten
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
 
 <h3>Je eigen meldtekst?</h3>
-Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd? Dat kan al voor slechts € 42,50 (excl. btw)<br><br><a href="https://www.callvoip.nl/aanvragen/meldtekst/" class="button">Meldtekst aanvragen</a>
+Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<br>Dat kan al voor slechts € 42,50 (excl. btw)<br><br><a href="https://www.callvoip.nl/aanvragen/meldtekst/" class="button">Meldtekst aanvragen</a>
