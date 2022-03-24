@@ -6,21 +6,21 @@ title: Download meldteksten
 
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/wp-content/uploads/2014/04/2_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a>
+<a href="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/wp-content/uploads/2014/04/2_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/wp-content/uploads/2014/04/3_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a>
+<a href="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/wp-content/uploads/2014/04/3_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/wp-content/uploads/2014/04/4_Simmpl_telefonisch_niet_bereikbaar.mp3" target="_blank" rel="noopener noreferrer" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a>
+<a href="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" target="_blank" rel="noopener noreferrer" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/wp-content/uploads/2014/04/4_Simmpl_telefonisch_niet_bereikbaar.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/wp-content/uploads/2014/04/5_Simmpl_standaard-voicemailbegroeting.mp3" target="_blank" rel="noopener noreferrer" download="standaard_voicemail">Standaard voicemail begroeting</a>
+<a href="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" target="_blank" rel="noopener noreferrer" download="standaard_voicemail">Standaard voicemail begroeting</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/wp-content/uploads/2014/04/5_Simmpl_standaard-voicemailbegroeting.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" type="audio/mpeg"></audio>
 
 <a href="https://simmpl.nl/wp-content/uploads/2014/04/6-Simmpl-feestdagen-gesloten-eindebericht.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
 
