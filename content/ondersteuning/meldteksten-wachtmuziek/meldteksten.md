@@ -2,7 +2,7 @@
 title: Download meldteksten
 
 ---
-<a href="https://simmpl.nl/wp-content/uploads/2014/04/1_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a>
+<a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a>
 
 <audio controls="controls"><source src="https://simmpl.nl/wp-content/uploads/2014/04/1_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
 
