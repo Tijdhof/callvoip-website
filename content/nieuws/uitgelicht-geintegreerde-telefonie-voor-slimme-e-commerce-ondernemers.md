@@ -14,11 +14,12 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2022-03-21T23:00:00+00:00
 url: nieuws/ecommerce-en-telefonie/
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1647514498/ecommerce_telefonie_zuzvmy.png)
