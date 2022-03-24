@@ -22,18 +22,18 @@ title: Download meldteksten
 
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/wp-content/uploads/2014/04/6-Simmpl-feestdagen-gesloten-eindebericht.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
+<a href="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/wp-content/uploads/2014/04/6-Simmpl-feestdagen-gesloten-eindebericht.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/wp-content/uploads/2014/04/7-Simmpl-feestdagen-gesloten-voicemail.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Feestdagen gesloten voicemail</a>
+<a href="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Feestdagen gesloten voicemail</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/wp-content/uploads/2014/04/7-Simmpl-feestdagen-gesloten-voicemail.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/downloads/carnavalteksten_met_voicemail.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, met vm</a>
+<a href="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, met vm</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/downloads/carnavalteksten_met_voicemail.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" type="audio/mpeg"></audio>
 
-<a href="https://simmpl.nl/downloads/carnavalteksten_einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, zonder vm</a>
+<a href="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, zonder vm</a>
 
-<audio controls="controls"><source src="https://simmpl.nl/downloads/carnavalteksten_einde-bericht.mp3" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
