@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2022</h3>
 <ul>
+<li><a href="https://sh1.sendinblue.com/3g3ed82wy9xpfe.html?t=1648210878" target="_blank">Nieuwsbrief 22-03-2022 | Slimme telefonie voor e-commerce</a></li>
 <li><a href="https://sh1.sendinblue.com/3g2xieqwy9xpfe.html?t=1646130884" target="_blank">Nieuwsbrief 22-02-2022 | Makelaar zonder telefoontoestellen</a></li>
 <li><a href="https://sh1.sendinblue.com/aoic1ewy9xpfe.html?t=1643887257" target="_blank">Nieuwsbrief 17-01-2022 | CRM - Telefonie integratie nu ook op macOS</a></li>
 </ul>
