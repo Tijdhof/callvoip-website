@@ -1,5 +1,5 @@
 ---
-shorttitle: "Tribe CRM"
+shorttitle: "Tribe CRM + auto call log"
 title: "Wij koppelen jouw Tribe-CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/tribe_dhpudw.png"
@@ -16,6 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Auto Call Log
 weight: 10
 new: false
 url: /marketplace/tribe/
