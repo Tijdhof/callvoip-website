@@ -9,7 +9,7 @@ pdf: http://files.callvoip.nl/downloads/Callvoip_handleiding_CallRecording_Batch
 De Callvoip telefooncentrale biedt de mogelijkheid om gesprekken op te nemen.  
 Het opnemen van telefoongesprekken kan wenselijk zijn uit oogpunt van training, controle of wettelijk verplichting, bv de MiFID II regulering.
 
-**Opname per gebruik op al zijn toestellen** - je zet gespreksopname aan op de Callvoip-centrale voor een specifieke gebruiker. Een gebruiker kan beschikken over een kantoortoestel, de Qaller Plus Smartphone app en/of Vamos Vast Mobiel. De gespreksopname geldt voor alle gesprekken, ook voor gesprekken via de Qaller App of via de Vamos SIM.
+**Opname per gebruiker op al zijn toestellen** - je zet gespreksopname aan op de Callvoip-centrale voor een specifieke gebruiker. Een gebruiker kan beschikken over een kantoortoestel, de Qaller Plus Smartphone app en/of Vamos Vast Mobiel. De gespreksopname geldt voor alle gesprekken, ook voor gesprekken via de Qaller App of via de Vamos SIM.
 
 **Kosten** - de kosten voor gespreksopname hangen af van de bewaartermijn die je instelt: de kosten zijn hoger als je wilt dat de gesprekken langer op de centrale gedownload kunnen worden.
 
