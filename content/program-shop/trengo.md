@@ -80,7 +80,7 @@ Je kunt dan de klantgegevens uit Trengo gebruiken, denk hierbij aan gegevens zoa
 &bull; laatst gebeld met functie<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br><iframe width="1280" height="720" src="https://www.youtube.com/embed/e6Ps50G-b_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="float:right" allowfullscreen></iframe>
 • Open klant in Trengo CRM<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
