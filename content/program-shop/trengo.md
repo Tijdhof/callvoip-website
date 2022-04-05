@@ -38,7 +38,8 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Trengo?<br>
 Trengo: CRM software voor optimale klantenservice obv omnichannel communicatiekanalen**<br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">**Samenvatting**<br>
+<iframe width="500" height="285" src="https://www.youtube.com/embed/e6Ps50G-b_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="float:right" allowfullscreen></iframe>
+**Samenvatting**<br>
 Met de Callvoip Trengo telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Trengo. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Trengo staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <a href="https://trengo.com/en?ref=marieketimmer&utm_source=CallVoip&utm_medium=Partner+Marketing&utm_campaign=CallVoip" target="_blank">Klik hier voor meer informatie over Trengo.</a><br>
 <br>
@@ -80,7 +81,7 @@ Je kunt dan de klantgegevens uit Trengo gebruiken, denk hierbij aan gegevens zoa
 &bull; laatst gebeld met functie<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><iframe width="500" height="285" src="https://www.youtube.com/embed/e6Ps50G-b_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="float:right" allowfullscreen></iframe>
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1627995262/trengo_bif0aq.png" style="float:right; padding-left:15px" width=500px" class="zoom">
 • Open klant in Trengo CRM<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
