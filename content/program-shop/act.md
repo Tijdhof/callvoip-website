@@ -35,7 +35,7 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Act!?<br>
-Act!: CRM software speciaal voor Relatiebeheer**<br>
+Act!: CRM software speciaal voor Relatiebeheer**<br><br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip Act! telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM Pakket Act!. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Act! staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
