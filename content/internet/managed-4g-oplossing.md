@@ -5,8 +5,8 @@ description: Met de managed 4G-oplossing van Callvoip ben je altijd en overal be
 images: []
 type: page
 aliases:
-  - "/4g"
-  - "/guezenet"
+- "/4g"
+- "/guezenet"
 layout: default
 logos: false
 hero:
@@ -67,9 +67,9 @@ prijzen:
   tarieven:
     items:
     - title: Maandelijks
-      price: '99.00'
+      price: 99.0
     - title: Eenmalig (ongeveer)
-      price: '350.00'
+      price: 450.0
     footer: Prijzen zijn excl. BTW
     title: Snel 4G internet
 - title: Snel 4G internet met onbeperkt data
@@ -81,13 +81,18 @@ prijzen:
     title: Snel 4G internet met onbeperkt data
     items:
     - title: Maandelijks
-      price: '189.00'
+      price: 189.0
     - title: Eenmalig (ongeveer)
-      price: '350.00'
+      price: 450.0
     footer: Prijzen zijn excl. BTW
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+double_content:
+  left:
+    undefined: ''
+  right:
+    undefined: ''
 menu:
   main:
     name: 4G Oplossingen
