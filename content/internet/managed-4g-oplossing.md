@@ -59,7 +59,7 @@ intro:
   title: ''
   content: ''
 prijzen:
-- title: Snel 4G internet
+- title: Snel 4G internet 100GB data
   content: De eenmalige kosten zijn een schatting en verschillen per situatie.
   button:
     title: Vraag Managed 4G internet aan
