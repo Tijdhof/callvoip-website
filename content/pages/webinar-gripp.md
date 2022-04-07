@@ -10,4 +10,6 @@ Klant- of prospectgegevens vormen de kern van jouw CRM maar ook van de communica
  
 In dit Webinar laten Gripp en Callvoip je zien hoe wij als gekoppelde eenheid die cruciale gegevens in beeld brengen en zo bijdragen aan elk salesgesprek.
 
+Meld je hieronder aan en schrijf 21 april in je agenda. Tot dan!
+
 <iframe width="100%" height="480" frameborder="0" src="https://app.livestorm.co/p/f95ce63d-188f-40ec-8fde-83a6a9179cf8/form"></iframe>
