@@ -26,8 +26,8 @@ Vul het formulier in, controleer de bevestigingsmail en geef daarop een reply na
 
 {{< form/fieldset "Aanvraag Managed 4G" >}}
 {{< form/select "Type verbinding" >}}
-{{< form/option "Snel internet 4G" >}}
-{{< form/option "4G internet, onbeperkt data" >}}
+{{< form/option "Snel 4G internet 100GB data" >}}
+{{< form/option "Snel 4G internet met onbeperkte data" >}}
 {{< form/option "Snelle back-up voor glas/kabelinternet" >}}
 {{< form/option "Tijdelijke internet op locatie" >}}
 {{</ form/select >}}
@@ -56,7 +56,7 @@ Maandelijks
 4G internet, 100GB data/mnd
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-Ca € 350,00
+Ca € 450,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
 € 99,00
@@ -67,7 +67,7 @@ Ca € 350,00
 4G internet met onbeperkt data
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-Ca € 350,00
+Ca € 450,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
 € 189,00
@@ -78,10 +78,10 @@ Ca € 350,00
 Snelle back-up voor glas-/kabelinternet
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-Ca € 350,00
+Ca € 450,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-€ 59,00
+€ 69,00
 {{</ layout/column3 >}}
 {{</ layout/columns >}}
 {{< layout/columns >}}
