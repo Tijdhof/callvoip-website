@@ -10,7 +10,7 @@ pdf: ''
 
 ---
 <h3>Algemene informatie</h3>
-Op zoek naar rechtenvrije wachtmuziek voor jouw wachtrij? Download hier gratis onze selectie.
+Op zoek naar rechtenvrije wachtmuziek voor jouw wachtrij? Download hier gratis onze selectie.<br>
 Wil je weten hoe je gemakkelijk deze muziek inzet in een belplan? Of heb je andere vragen over telefonie? Neem contact met ons op!<br><br><a href="/contact" class="button">Contact opnemen</a><br><br>
 <h3>Onze wachtmuziek</h3>
 
