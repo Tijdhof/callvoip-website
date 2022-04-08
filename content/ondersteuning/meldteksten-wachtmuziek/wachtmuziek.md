@@ -9,6 +9,11 @@ Update: false
 pdf: ''
 
 ---
+<h3>Algemene informatie</h3>
+Op zoek naar rechtenvrije wachtmuziek voor jouw wachtrij? Download hier gratis onze selectie.
+Wil je weten hoe je gemakkelijk deze muziek inzet in een belplan? Of heb je andere vragen over telefonie? Neem contact met ons op!<br><br><a href="/contact" class="button">Contact opnemen</a><br><br>
+<h3>Onze wachtmuziek</h3>
+
 <a href="https://www.callvoip.nl/cvtsupport/audio/chillout_slow_243.wav" target="_blank" rel="noopener noreferrer" download="Chillout_slow">Chillout slow </a>
 
 <audio controls="controls"><source src="https://www.callvoip.nl/cvtsupport/audio/chillout_slow_243.wav" type="audio/mpeg"></audio>
