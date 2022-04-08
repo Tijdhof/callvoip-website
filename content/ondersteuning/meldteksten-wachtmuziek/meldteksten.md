@@ -7,9 +7,7 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 
 
 <h3>Onze standaard meldteksten</h3>
-<a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a>
-
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
+<a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a><br><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
 
 <a href="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a>
 
