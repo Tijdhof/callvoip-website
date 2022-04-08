@@ -2,6 +2,10 @@
 title: Download meldteksten
 
 ---
+<h3>Je eigen meldtekst?</h3>
+Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<br>Dat kan al voor slechts € 42,50 (excl. btw)<br><br><a href="https://www.callvoip.nl/aanvragen/meldtekst/" class="button">Meldtekst aanvragen</a>
+
+
 <h3>Onze standaard meldteksten</h3>
 <a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a>
 
@@ -38,6 +42,3 @@ title: Download meldteksten
 <a href="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, zonder vm</a>
 
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
-
-<h3>Je eigen meldtekst?</h3>
-Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<br>Dat kan al voor slechts € 42,50 (excl. btw)<br><br><a href="https://www.callvoip.nl/aanvragen/meldtekst/" class="button">Meldtekst aanvragen</a>
