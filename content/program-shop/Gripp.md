@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Workflow
+  - Auto call log
   - Planning
   - Meest populair
 weight: 1
