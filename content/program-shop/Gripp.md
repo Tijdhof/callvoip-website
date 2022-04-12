@@ -37,7 +37,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Gripp?<br>
 Gripp: de online bedrijfssoftware voor procesgeorienteerde bureaus en dienstverleners met ambitie**<br>
 <br>
-**21 april 2022 webinar Callvoip X Gripp: Haal het maximale uit je salesgesprekken**<br>
+<a href="/webinar" target="_blank"><b>21 april 2022 webinar Callvoip X Gripp: Haal het maximale uit je salesgesprekken</b></a><br>
 <br>
 **Samenvatting**<br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/gripp_jkjoo9.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Gripp telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Gripp. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Gripp staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
