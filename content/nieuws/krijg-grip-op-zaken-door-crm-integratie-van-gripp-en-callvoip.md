@@ -37,7 +37,7 @@ Kevin van Dongen - Positief Wonen_
 <b>1. Blije klanten</b><br>
 Optimale klantvriendelijkheid leidt tot blije klanten en blije klanten staan aan de basis voor **meer zakelijk succes**. Technologie zorgt voor een grote vooruitgang, toch ligt het gevaar voor een gemis van herkenning en persoonlijke aandacht op de loer. Dit is helemaal nergens voor nodig. Met de slimme integratie van Gripp en Callvoip wordt communicatie weer persoonlijk.<br><br>
 <b>2. Meer werkplezier</b><br>
-En wat dacht je van het toegenomen werkplezier: handige functionaliteiten zorgen voor meer werkplezier. Nooit meer zoeken naar een speld in een hooiberg voor de juiste klantgegevens. En veel meer tijd en ruimte voor de zaken waar ze goed in zijn: klanten deskundig en met zichtbaar plezier helpen met de juiste informatie.<br><br>
+En wat dacht je van het toegenomen werkplezier: handige functionaliteiten zorgen voor <b>meer werkplezier</b>. Nooit meer zoeken naar een speld in een hooiberg voor de juiste klantgegevens. En veel meer tijd en ruimte voor de zaken waar ze goed in zijn: klanten deskundig en met zichtbaar plezier helpen met de juiste informatie.<br><br>
 <b>3. Betere efficiëntie</b><br>
 Bij ieder inkomend of uitgaand belletje hebben je medewerkers met deze CRM-integratie alle gegevens en benodigde informatie tijdens een gesprek bij de hand. Een logisch gevolg hiervan is **tijdsbesparing** en een veel scherpere focus op de kernpunten van een gesprek.<br><br>
 
