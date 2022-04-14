@@ -1,12 +1,13 @@
 ---
 title: Krijg grip op zaken door CRM integratie van Gripp en Callvoip
 description: ''
-images: []
+images:
+- "/v1649935477/gripp-callvoip_bzzjz6.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1649935477/gripp-callvoip_bzzjz6.png"
 hero:
   image: ''
   mobile: ''
@@ -14,13 +15,15 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: '/nieuws/gripp-callvoip/'
+url: "/nieuws/gripp-callvoip/"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
-**Het enthousiasme waarmee Kevin van Dongen vertelt over Positief Wonen werkt aanstekelijk, met een enorme schat aan kennis en ervaring schept Positief Wonen duidelijkheid in het woud van aantrekkelijke mogelijkheden rondom de verduurzaming van woningen. Zijn team steunt hierbij op Gripp voor haar bedrijfsprocessen en Callvoip voor de telefonische communicatie met haar relaties. Gripp komen we vaker tegen bij creatieve bedrijven en adviesbureaus, en dat begrijpen we. Doordat Gripp alles biedt voor gestroomlijnde werkprocessen, kunnen (creatieve) experts zich zorgeloos richten op het primaire proces.**
+**![](https://res.cloudinary.com/callvoip/image/upload/v1649935477/gripp-callvoip_bzzjz6.png)  
+Het enthousiasme waarmee Kevin van Dongen vertelt over Positief Wonen werkt aanstekelijk, met een enorme schat aan kennis en ervaring schept Positief Wonen duidelijkheid in het woud van aantrekkelijke mogelijkheden rondom de verduurzaming van woningen. Zijn team steunt hierbij op Gripp voor haar bedrijfsprocessen en Callvoip voor de telefonische communicatie met haar relaties. Gripp komen we vaker tegen bij creatieve bedrijven en adviesbureaus, en dat begrijpen we. Doordat Gripp alles biedt voor gestroomlijnde werkprocessen, kunnen (creatieve) experts zich zorgeloos richten op het primaire proces.**
 
 "Zou het nu niet geweldig zijn als de klantinformatie uit Gripp direct verschijnt bij inkomende oproepen?" vroeg Kevin zich af? En of dat kan, en het biedt zelfs meer! Met de slimme CRM integratie van Gripp en Callvoip is dit zo geregeld. We nemen je mee in de ervaring van Positief Wonen en vertellen je graag hoe we ook jouw bedrijf kunnen helpen met efficiënte en persoonlijke telefonische bereikbaarheid.
 
@@ -32,13 +35,12 @@ Kevin van Dongen - Positief Wonen_
 <h3>Blije klanten, meer werkplezier en meer efficiënte</h3>
 “Waarom hebben wij deze CRM-integratie nog niet geregeld?”; horen wij je denken. En de eerlijkheid gebiedt te zeggen dat dit stukje innovatie tussen CRM-software en zakelijke telefonie tegenwoordig onontbeerlijk is voor ieder professioneel bedrijf. Heb je de beschikking over een modern CRM-systeem, koppel deze dan kinderlijk eenvoudig aan je zakelijke telefonie. Het gaat je bedrijf en je klanten enkel direct zichtbare voordelen opleveren:<br><br>
 <b>1. Blije klanten</b><br>
-   Optimale klantvriendelijkheid leidt tot blije klanten en blije klanten staan aan de basis voor **meer zakelijk succes**. Technologie zorgt voor een grote vooruitgang, toch ligt het gevaar voor een gemis van herkenning en persoonlijke aandacht op de loer. Dit is helemaal nergens voor nodig. Met de slimme integratie van Gripp en Callvoip wordt communicatie weer persoonlijk.<br><br>
+Optimale klantvriendelijkheid leidt tot blije klanten en blije klanten staan aan de basis voor **meer zakelijk succes**. Technologie zorgt voor een grote vooruitgang, toch ligt het gevaar voor een gemis van herkenning en persoonlijke aandacht op de loer. Dit is helemaal nergens voor nodig. Met de slimme integratie van Gripp en Callvoip wordt communicatie weer persoonlijk.<br><br>
 <b>2. Meer werkplezier</b><br>
-   En wat dacht je van het toegenomen werkplezier: handige functionaliteiten zorgen voor meer werkplezier. Nooit meer zoeken naar een speld in een hooiberg voor de juiste klantgegevens. En veel meer tijd en ruimte voor de zaken waar ze goed in zijn: klanten deskundig en met zichtbaar plezier helpen met de juiste informatie.<br><br>
+En wat dacht je van het toegenomen werkplezier: handige functionaliteiten zorgen voor meer werkplezier. Nooit meer zoeken naar een speld in een hooiberg voor de juiste klantgegevens. En veel meer tijd en ruimte voor de zaken waar ze goed in zijn: klanten deskundig en met zichtbaar plezier helpen met de juiste informatie.<br><br>
 <b>3. Betere efficiëntie</b><br>
-   Bij ieder inkomend of uitgaand belletje hebben je medewerkers met deze CRM-integratie alle gegevens en benodigde informatie tijdens een gesprek bij de hand. Een logisch gevolg hiervan is **tijdsbesparing** en een veel scherpere focus op de kernpunten van een gesprek.<br><br>
+Bij ieder inkomend of uitgaand belletje hebben je medewerkers met deze CRM-integratie alle gegevens en benodigde informatie tijdens een gesprek bij de hand. Een logisch gevolg hiervan is **tijdsbesparing** en een veel scherpere focus op de kernpunten van een gesprek.<br><br>
 
-  
 <h3>De kracht van Gripp</h3>
 Positief Wonen werkt met Gripp. De intelligente en efficiënte bedrijfssoftware van Gripp is hoofdzakelijk ontwikkeld voor uiteenlopende bureau’s in dienstverlenende sectoren. Denk aan;
 
@@ -55,6 +57,7 @@ Met Gripp verbeter en versnel je **de organisatorische processen die je dagelijk
 Neem bijvoorbeeld de functionaliteit voor uitgaande gesprekken: Binnen relatiebeheer van Gripp **klik je op een telefoonnummer en bel je direct via Callvoip!** Maar ook andersom: Word je gebeld door een klant of prospect? Klik op de naam en je hebt gelijk alle klantgegevens in het Gripp CRM **overzicht.**. Vul je pop-up aan met alle klantgegevens die je hebt in Gripp zo ben je altijd op de hoogte met wie je belt. Daarnaast biedt Gripp nog veel meer voordelen en heb je altijd grip op je organisatorische processen zoals: **sales, relatiebeheer, rapportages, facturen, planning en projecten.**
 
 **Positief Wonen** ervoer meteen de volgende voordelen;
+
 * Nummerweergave/klantherkenning
 * Relevante gegevens klant meteen paraat
 * Met één klik op het telefoonnummer in een klantomgeving bel je de klant
