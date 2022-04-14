@@ -41,10 +41,10 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
 
-<a href="https://callvoip.nl/cvtsupport/audio/meldtekst_goedevrijdag-gesloten_140422MT" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail">Goedevrijdag gesloten voicemail</a>
+<a href="https://callvoip.nl/cvtsupport/audio/meldtekst_goedevrijdag-gesloten_140422MT.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail">Goedevrijdag gesloten voicemail</a>
 
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/meldtekst_goedevrijdag-gesloten_140422MT" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/meldtekst_goedevrijdag-gesloten_140422MT.mp3" type="audio/mpeg"></audio>
 
-<a href="https://callvoip.nl/cvtsupport/audio/meldtekst_paasdagen-gesloten_140422MT" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail">Paasdagen gesloten voicemail</a>
+<a href="https://callvoip.nl/cvtsupport/audio/meldtekst_paasdagen-gesloten_140422MT.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail">Paasdagen gesloten voicemail</a>
 
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/meldtekst_paasdagen-gesloten_140422MT" type="audio/mpeg"></audio>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/meldtekst_paasdagen-gesloten_140422MT.mp3" type="audio/mpeg"></audio>
