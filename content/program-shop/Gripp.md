@@ -21,7 +21,9 @@ categories:
 weight: 1
 populair: true
 url: /marketplace/Gripp/
-aliases: /program-shop/Gripp/
+aliases:
+  - /program-shop/Gripp/
+  - /gripp/
 headerside:
   title: Waarom integreren?
   list:
