@@ -29,7 +29,7 @@ Het enthousiasme waarmee Kevin van Dongen vertelt over Positief Wonen werkt aans
 
 De CRM integratie tussen Gripp en Callvoip heeft onze klant Positief Wonen ontzettend geholpen in de communicatie met haar klanten. Er zijn natuurlijk meer directe voordelen op te noemen. Maar een prachtig punt om hier te benoemen is dat het koppelen van je CRM-systeem aan je zakelijke telefonie zorgt voor gestroomlijnde werkprocessen en bovenal een zo optimaal mogelijke klantervaring.
 
-_“Nadat er een koppeling mogelijk is gemaakt tussen Gripp en Callvoip weten wij van Positief Wonen wie we van onze relaties aan de telefoon hebben. Dit zorgt voor betere communicatie, efficiënter werken en betere registratie van de communicatie tussen alle partijen. Het is nu enorm makkelijk te schakelen tussen de systemen. Ook heeft Callvoip ons een telefooncentrale geleverd die ons de professionele uitstraling geeft die we verdienen. Nu hebben we Gripp op de zaken maar ook op de telefonie.”  
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1649935923/positiefwonen_aychsw.png" style="float:right">_“Nadat er een koppeling mogelijk is gemaakt tussen Gripp en Callvoip weten wij van Positief Wonen wie we van onze relaties aan de telefoon hebben. Dit zorgt voor betere communicatie, efficiënter werken en betere registratie van de communicatie tussen alle partijen. Het is nu enorm makkelijk te schakelen tussen de systemen. Ook heeft Callvoip ons een telefooncentrale geleverd die ons de professionele uitstraling geeft die we verdienen. Nu hebben we Gripp op de zaken maar ook op de telefonie.”  
 Kevin van Dongen - Positief Wonen_
 
 <h3>Blije klanten, meer werkplezier en meer efficiënte</h3>
