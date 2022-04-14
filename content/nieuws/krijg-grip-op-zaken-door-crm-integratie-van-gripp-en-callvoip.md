@@ -42,7 +42,7 @@ En wat dacht je van het toegenomen werkplezier: handige functionaliteiten zorgen
 Bij ieder inkomend of uitgaand belletje hebben je medewerkers met deze CRM-integratie alle gegevens en benodigde informatie tijdens een gesprek bij de hand. Een logisch gevolg hiervan is **tijdsbesparing** en een veel scherpere focus op de kernpunten van een gesprek.<br><br>
 
 <h3>De kracht van Gripp</h3>
-Positief Wonen werkt met Gripp. De intelligente en efficiënte bedrijfssoftware van Gripp is hoofdzakelijk ontwikkeld voor uiteenlopende bureau’s in dienstverlenende sectoren. Denk aan;
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1649936230/gripp-icon_xgor6p.png" style="float:right" width="320px">Positief Wonen werkt met Gripp. De intelligente en efficiënte bedrijfssoftware van Gripp is hoofdzakelijk ontwikkeld voor uiteenlopende bureau’s in dienstverlenende sectoren.<br>Denk aan;
 
 * [Architectenbureau](https://www.gripp.com/architectenbureaus/)
 * [internetbureau](https://www.gripp.com/internetbureaus/)
