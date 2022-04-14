@@ -34,10 +34,10 @@ Kevin van Dongen - Positief Wonen_
 
 1. **Blije klanten**
 
-   Optimale klantvriendelijkheid leidt tot blije klanten en blije klanten staan aan de basis voor **meer zakelijk succes**. Technologie zorgt voor een grote vooruitgang, toch ligt het gevaar voor een gemis van herkenning en persoonlijke aandacht op de loer. Dit is helemaal nergens voor nodig. Met de slimme integratie van Gripp en Callvoip wordt communicatie weer persoonlijk.
-2. **Meer werkplezier**
-   En wat dacht je van het toegenomen werkplezier: handige functionaliteiten zorgen voor meer werkplezier. Nooit meer zoeken naar een speld in een hooiberg voor de juiste klantgegevens. En veel meer tijd en ruimte voor de zaken waar ze goed in zijn: klanten deskundig en met zichtbaar plezier helpen met de juiste informatie.
-3. **Betere efficiëntie**
+   Optimale klantvriendelijkheid leidt tot blije klanten en blije klanten staan aan de basis voor **meer zakelijk succes**. Technologie zorgt voor een grote vooruitgang, toch ligt het gevaar voor een gemis van herkenning en persoonlijke aandacht op de loer. Dit is helemaal nergens voor nodig. Met de slimme integratie van Gripp en Callvoip wordt communicatie weer persoonlijk.<br><br>
+2. **Meer werkplezier**<br>
+   En wat dacht je van het toegenomen werkplezier: handige functionaliteiten zorgen voor meer werkplezier. Nooit meer zoeken naar een speld in een hooiberg voor de juiste klantgegevens. En veel meer tijd en ruimte voor de zaken waar ze goed in zijn: klanten deskundig en met zichtbaar plezier helpen met de juiste informatie.<br><br>
+3. **Betere efficiëntie**<br>
    Bij ieder inkomend of uitgaand belletje hebben je medewerkers met deze CRM-integratie alle gegevens en benodigde informatie tijdens een gesprek bij de hand. Een logisch gevolg hiervan is **tijdsbesparing** en een veel scherpere focus op de kernpunten van een gesprek..
 
   
@@ -57,7 +57,6 @@ Met Gripp verbeter en versnel je **de organisatorische processen die je dagelijk
 Neem bijvoorbeeld de functionaliteit voor uitgaande gesprekken: Binnen relatiebeheer van Gripp **klik je op een telefoonnummer en bel je direct via Callvoip!** Maar ook andersom: Word je gebeld door een klant of prospect? Klik op de naam en je hebt gelijk alle klantgegevens in het Gripp CRM **overzicht.**. Vul je pop-up aan met alle klantgegevens die je hebt in Gripp zo ben je altijd op de hoogte met wie je belt. Daarnaast biedt Gripp nog veel meer voordelen en heb je altijd grip op je organisatorische processen zoals: **sales, relatiebeheer, rapportages, facturen, planning en projecten.**
 
 **Positief Wonen** ervoer meteen de volgende voordelen;
-
 * Nummerweergave/klantherkenning
 * Relevante gegevens klant meteen paraat
 * Met één klik op het telefoonnummer in een klantomgeving bel je de klant
