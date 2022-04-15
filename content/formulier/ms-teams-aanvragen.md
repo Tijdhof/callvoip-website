@@ -91,17 +91,17 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Per organisatie {{</ layout/column3 >}}
+Per gebruiker {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 4,00 excl. BTW
+€ 5,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 5,00 excl. BTW
+€ 15,00 excl. BTW
 
 {{</ layout/column3 >}}
 
