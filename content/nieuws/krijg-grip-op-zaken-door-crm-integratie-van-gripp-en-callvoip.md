@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2022-04-13T22:00:00+00:00
 url: "/nieuws/gripp-callvoip/"
 contactpersoon: []
 categories: []
