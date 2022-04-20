@@ -40,7 +40,7 @@ Als jouw account met MS Teams is gekoppeld, verschijnt er een keypad in je Micro
 **Handig: presence, zie de status van collega's**<br>
 Een groot voordeel van het gebruik van MS Teams is, dat je collega’s dan gelijk zien of je wel of niet in gesprek bent. Zo weten ze wanneer ze oproepen wel of niet kunnen doorverbinden. Het is zelfs mogelijk om je status (bezet, beschikbaar etc.) te laten zien in je telefonieomgeving wanneer je aan het videobellen bent met een andere Microsoft Teams gebruiker.<br>
 <br>
-<b>Wat kan de MS Teams koppeling>?<b><br>
+<b>Wat kan de MS Teams koppeling?</b><br>
 • Koppeling met MS Teams op basis van gebruiker / seat<br>
 • Volledige inkomende belroutering via de Callvoip centrale, incl. wachtrijen en keuzemenu<br>
 • Onderlinge gesprekken in MS Teams worden afgehandeld in MT Teams > spraak / video / chat<br>
