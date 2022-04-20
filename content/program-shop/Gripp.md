@@ -77,7 +77,6 @@ Je kunt dan de klantgegevens uit Gripp gebruiken, denk hierbij aan gegevens zoal
 • Bank-gegevens<br>
 • etc.<br>
 <br>
-<br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Denk hierbij aan:<br>
 • Open klant in Gripp CRM<br>
