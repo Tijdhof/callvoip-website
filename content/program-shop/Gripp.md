@@ -39,7 +39,7 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Gripp?<br>
 Gripp: de online bedrijfssoftware voor procesgeorienteerde bureaus en dienstverleners met ambitie**<br>
 <br>
-<a href="/webinar" target="_blank"><b>21 april 2022 webinar Callvoip X Gripp: Haal het maximale uit je salesgesprekken</b></a><br>
+<a href="/grippwebinar" target="_blank"><b>21 april 2022 webinar Callvoip X Gripp: Haal het maximale uit je salesgesprekken</b></a><br>
 <br>
 **Samenvatting**<br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/gripp_jkjoo9.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Gripp telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Gripp. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Gripp staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
@@ -57,6 +57,9 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </ul>
 </div>
 <br>
+**Bonus: automatische call logging**<br>
+Standaard is de Gripp Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Gripp. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
+<br><br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Gripp aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
