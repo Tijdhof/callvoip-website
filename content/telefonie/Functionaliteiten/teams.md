@@ -28,7 +28,7 @@ blocks:
 - content: MS Teams kan worden gebruikt op elke PC, Mac of mobiel apparaat, en dat
     voegt flexibiliteit en plaats-onafhankelijkheid toe aan jouw team. Iedereen kan
     nu nog eenvoudiger inkomend en uitgaand zakelijk bellen - waar dan ook en met
-    welke apparatuur dan ook. <br><br><a href="https://www.callvoip.nl/ondersteuning/integraties/handleiding-ms-teams/"
+    welke apparatuur dan ook. <br><br><a href="https://www.callvoip.nl/marketplace/teams/"
     class="button">Hoe werkt het?</a>
   image: "/v1572861318/teams_ojza3v.png"
   position: image_left
