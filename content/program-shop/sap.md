@@ -33,7 +33,7 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket SAP Business One?<br>
-SAP Business One: Deze beheersoftware voor kleine ondernemingen verbindt en stroomlijnt uw processen en groeit met u mee.**<br><br>
+SAP Business One: software voor bedrijfsbeheer, gericht op het automatiseren van belangrijke bedrijfsfuncties in financiën, operaties en human resources.**<br><br>
 **Samenvatting**<br>
 Met de Callvoip SAP Business One telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en SAP Business One. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in SAP Business One staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
@@ -77,6 +77,6 @@ En daarnaast: customized knoppen zoals: <br>
 • Kopieer een parameter (bv klantnummer of klantnaam) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket SAP Business One CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het softwarepakket SAP Business One CRM wordt gekoppeld met telefonie van Callvoip op basis van de SAP Business One Service Layer.<br>
 De Callvoip telefoon-integratie met SAP Business One CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
