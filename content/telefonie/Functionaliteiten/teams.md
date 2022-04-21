@@ -56,7 +56,7 @@ prijzen:
     - title: Maandelijks p/gebruiker
       price: '5.00'
     - title: Eenmalig p/gebruiker
-      price: '25.00'
+      price: '15.00'
 images: []
 hideinsearch: false
 hideingoogle: false
