@@ -5,7 +5,7 @@ hero:
   content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
     Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
     plaats achter het stuur of laat je rijden door ons enthousiaste supportteam. <br><br>
-    <a href="/webinar/">21 april: webinar "Haal het maximale uit je salesgesprekken" van Callvoip en Gripp. Meld je nu aan!</a>'
+    <a href="/marketplace/">Callvoip CRM Integratie: als eerste in Nederland nu ook voor macOS.</a>'
   button:
     content: 'Ons aanbod: de Callvoip Toolkit'
     link: "/toolkit/"
