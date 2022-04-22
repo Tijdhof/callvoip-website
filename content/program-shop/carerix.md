@@ -1,5 +1,5 @@
 ---
-shorttitle: "Carerix"
+shorttitle: "Carerix + auto call log"
 title: "Wij koppelen jouw CRM Carerix aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/carerix_hvufri.png"
