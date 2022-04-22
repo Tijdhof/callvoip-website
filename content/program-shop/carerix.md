@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Recruitment
+  - Auto call log
 weight: 10
 url: /marketplace/carerix/
 aliases: /program-shop/carerix/
