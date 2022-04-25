@@ -27,6 +27,7 @@ headerside:
   btn:
     text: Test de MS Teamskoppeling gratis!
     url: /aanvragen/ms-teams/
+apple_logo: false
 
 ---
 
