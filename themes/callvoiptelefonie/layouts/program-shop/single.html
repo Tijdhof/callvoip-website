@@ -56,17 +56,24 @@
                 </div>
                 {{ end }}
 <div>
-<span><b>Beschikbaar voor:</b></span>
-<table>
-<tbody>
-<tr>
-<td><img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png"></td>
-<td>&nbsp;&nbsp;</td>
-<td><img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png"></td>
-</tr>
-</tbody>
-</table>
-</div>
+                  <span><b>Beschikbaar voor:</b></span>
+                  <table>
+                    <tbody>
+                      <tr>
+                        {{ with not (.Params.apple_logo) }}
+                        <td><img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png">
+                        </td>
+                        <td>&nbsp;&nbsp;</td>
+                        {{ end }}
+                        {{ with not (.Params.ws_logo) }}
+                        <td><img
+                            src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png">
+                        </td>
+                        {{ end }}
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
               </div>
             </div>
           </div>
