@@ -26,7 +26,7 @@ headerside:
     - complete mobile office 
   btn:
     text: Test de MS Teamskoppeling gratis!
-    url: /aanvragen/voip-cti/
+    url: /aanvragen/ms-teams/
 
 ---
 
