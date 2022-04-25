@@ -90,4 +90,4 @@ Het softwarepakket Gripp CRM wordt gekoppeld met telefonie van Callvoip op basis
 De Callvoip telefoon-integratie met Gripp is beschikbaar voor zowel Windows als Apple Mac.<br> 
 <a href="https://www.gripp.com/koppelingen/callvoip/" target="_blank">Bekijk de telefonie-integratiepagina op Gripp.nl</a>.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
-<br><br><a href="https://app.livestorm.co/gripp/gripp-x-callvoip-haal-het-maximale-uit-je-salesgesprekken/live?s=46f042a0-7d6f-4485-9dd2-978681147a03#/chat" target="_blank">Bekijk de Gripp x Callvoip Webinar
+<br><br><b><a href="https://app.livestorm.co/gripp/gripp-x-callvoip-haal-het-maximale-uit-je-salesgesprekken/live?s=46f042a0-7d6f-4485-9dd2-978681147a03#/chat" target="_blank">Bekijk de Gripp x Callvoip Webinar</a></b>
