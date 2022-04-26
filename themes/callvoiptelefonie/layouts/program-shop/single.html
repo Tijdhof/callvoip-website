@@ -57,15 +57,15 @@
                 {{ end }}
 <div>
                   <span><b>Beschikbaar voor:</b></span>
-                  <table>
+<table>
                     <tbody>
                       <tr>
-                        {{ with not (.Params.apple_logo) }}
+                        {{ with .Params.apple_logo }}{{else}}
                         <td><img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png">
                         </td>
                         <td>&nbsp;&nbsp;</td>
                         {{ end }}
-                        {{ with not (.Params.ws_logo) }}
+                        {{ with .Params.ws_logo }}{{else}}
                         <td><img
                             src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png">
                         </td>
