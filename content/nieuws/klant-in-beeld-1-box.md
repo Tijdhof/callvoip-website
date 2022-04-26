@@ -52,7 +52,7 @@ Ook de smartphones worden niet genegeerd in de uitgebreide telefonie-inrichting 
 Ook maakt 1BOX gebruik van onze unieke simkaart oplossing: [VAMOS](https://www.callvoip.nl/telefonie/functionaliteiten/vamos/). Deze maakt maximale integratie mogelijk en combineert de flexibele mobiele bereikbaarheid overal in het land met optimale integratie met onze online centrale.
 
   
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1650971943/faceless-man-relaxing-armchair_f6qkbl.jpg" style="float:right"> **ServicePlus: volledig ontzorgen**
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1650971943/faceless-man-relaxing-armchair_f6qkbl.jpg"> **ServicePlus: volledig ontzorgen**
 
 Zo’n uitgebreide telefonie-inrichting als 1BOX vraagt wel wat studie om te beheren. Bovendien groeit 1BOX hard dus regelmatig moeten nieuwe nummers toegevoegd, het keuzemenu aangepast en gebruikers aangemaakt. Nu kun je ervoor kiezen alles zelf te beheren maar 1BOX koos voor het uit handen geven aan ons.
 
