@@ -28,7 +28,7 @@ Met onze handleiding heeft u de plugin in een handomdraai geïnstalleerd.
 
 [Download plugin](https://chrome.google.com/webstore/detail/simmpl-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl)
 
-[Handleiding](https://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf)
+[Handleiding](https://files.callvoip.nl/downloads/Callvoip_handleiding_Click-to-Dial.pdff)
 
 ### Waarom een bedrijfstelefoonboek?
 
