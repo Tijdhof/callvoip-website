@@ -1,0 +1,63 @@
+---
+title: 'Klant in beeld: 1 Box'
+description: ''
+images: []
+featured: false
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
+image_uitgelicht: ''
+hero:
+  image: ''
+  mobile: ''
+  link: ''
+  disable_image_on_mobile: false
+author: ''
+date: 
+url: "/nieuws/1box/"
+contactpersoon: []
+categories: []
+tags: []
+
+---
+![](https://res.cloudinary.com/callvoip/image/upload/v1650966057/1box_vmkjvi.png)  
+We houden van al onze klanten. Groot of klein, simpel of gecompliceerd, stil of mondig, allemaal. Het leukste vinden we om al die verschillen te vertalen in de best mogelijke telefonieoplossing. En als je al Callvoip klant bent, weet je dat we daar best goed in zijn.
+
+Een klant die ons al langere tijd steeds voor nieuwe uitdagingen stelt, is shelf storage aanbieder 1BOX. De oplossingen die we voor hen bedachten zijn onder andere:
+
+* [Keuzemenu ](https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/)met postcodekiezer
+* Meerdere filialen én hoofdkantoor in 1 beheeromgeving
+* CRM gekoppeld aan de telefonie
+* Vast mobiel: zowel app als simkaart.
+* Compleet ontzorgen: ServicePlus
+
+**Centraal vs lokaal**
+
+“Het hele jaar 24 uur per dag bereikbaar” staat op de[ website van 1BOX ](https://www.1box.nl/)bovenaan. En het nummer wat daarachter staat vertrouwt volledig op onze telefonie om die bereikbaarheid te garanderen. Het is een landelijk 085 nummer.
+
+Als je in de markt bent voor opslag is een box huren in Heerlen als je in Groningen woont natuurlijk niet handig. Daarom bedachten wij voor het landelijke hoofdnummer een ingenieus keuzemenu waarbij bellers de eerste cijfers van hun postcode invoeren waarna ze automatisch worden doorverbonden met de locatie in hun directe omgeving.
+
+De inmiddels 16 verschillende locaties in Nederland hebben allen ook een eigen, lokaal telefoonnummer. Zo wordt de lokale bereikbaarheid geborgd. De toestellen op die vestigingen rinkelen dus de ene keer via het landelijke nummer en het postcode keuzemenu, de andere keer van een huurder die het lokale nummer belt.
+
+Alle nummers van 1BOX draaien in 1 beheeromgeving. Zo kunnen ze onderling gemakkelijk achterwachten inregelen bijvoorbeeld en het hoofdkantoor heeft zicht op alle telefonie met 1 login.
+
+**Integratie: koppeling met CRM Store365**
+
+Telefonie is al lang niet meer beperkt tot dat toestel op de hoek van je bureau wat rinkelt als je gebeld wordt. Jouw smartphone maar ook de PC van je werkplek kunnen inmiddels allemaal bijdragen aan het zo efficiënt mogelijk afhandelen van je belverkeer. Daarom maakt ook 1Box gebruik van onze [CRM koppeling met hun systeem: Store365](https://www.callvoip.nl/marketplace/store365/). Zo weten ze meteen wie ze aan de lijn hebben bij elk telefoontje. Het hoofdkantoor weet zo bijvoorbeeld bij welke vestiging de beller opslag huurt, klikt zo door naar Store365 voor meer informatie. Ook het uitbellen wordt makkelijker met deze integratie: klik op een nummer op je PC en je toestel belt de klant in kwestie.
+
+**Vast-Mobiel bij 1BOX**
+
+Ook de smartphones worden niet genegeerd in de uitgebreide telefonie-inrichting van 1BOX. Verschillende locatiemanagers beschikken over [onze app](https://www.callvoip.nl/telefonie/qaller/) waarmee ook met de smartphone de bereikbaarheid op het vaste nummer is geregeld. Bovendien kunnen ze eenvoudig eventuele doorschakelingen beheren.
+
+Ook maakt 1BOX gebruik van onze unieke simkaart oplossing: [VAMOS](https://www.callvoip.nl/telefonie/functionaliteiten/vamos/). Deze maakt maximale integratie mogelijk en combineert de flexibele mobiele bereikbaarheid overal in het land met optimale integratie met onze online centrale.
+
+  
+**ServicePlus: volledig ontzorgen**
+
+Zo’n uitgebreide telefonie-inrichting als 1BOX vraagt wel wat studie om te beheren. Bovendien groeit 1BOX hard dus regelmatig moeten nieuwe nummers toegevoegd, het keuzemenu aangepast en gebruikers aangemaakt. Nu kun je ervoor kiezen alles zelf te beheren maar 1BOX koos voor het uit handen geven aan ons.
+
+Met de [ServicePlus uitbreiding](https://www.callvoip.nl/aanvragen/serviceplus/) regelen we alles voor je. En dan ook echt alles: nieuwe bandjes, alle aanpassingen. Stuur een mail of bel en we regelen het. Zo heb je goed geoptimaliseerde en onderhouden telefonie. Altijd.
+
+**Trots**
+
+Wanneer we zo alle diensten die we aan 1BOX leveren uitschrijven, voelen we toch een beetje een gevoel van trots opborrelen. We krijgen veel vertrouwen en kunnen echt waarde toevoegen aan hun organisatie. Dat voelt goed voor beide partijen, al vele jaren.
