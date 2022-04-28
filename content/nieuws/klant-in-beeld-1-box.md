@@ -1,5 +1,5 @@
 ---
-title: 'Klant in beeld: 1 Box'
+title: 'Klant in beeld: 1Box'
 description: ''
 images: []
 featured: false
