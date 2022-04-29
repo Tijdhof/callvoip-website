@@ -20,7 +20,7 @@ Gefeliciteerd met de installatie van de Bubble CRM-koppeling! Bubble zorgt dat e
 
 Bubble is de naam van de popup die je ziet bij elk telefoongesprek.  
 De popup geeft informatie over de beller; de inhoud van Bubble omvat 5 onderdelen die we per installatie samen met jou op maat maken.  
-![](https://res.cloudinary.com/callvoip/image/upload/v1651232664/Bubble_grafische_uitleg_290422MT_pnwxza.jpg)
+![](https://res.cloudinary.com/callvoip/image/upload/v1651240493/image_32_o3kw7z.png)
 
 Als we éénmaal éen mooie Bubble indeling hebben gemaakt, dan kunnen we deze kopiëren naar één of meer andere gebruikers in jouw organisatie.
 
