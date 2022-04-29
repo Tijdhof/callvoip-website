@@ -37,7 +37,7 @@ Een klant die ons al langere tijd steeds voor nieuwe uitdagingen stelt, is self 
 
 Als je in de markt bent voor opslag is een box huren in Heerlen als je in Groningen woont natuurlijk niet handig. Daarom bedachten wij voor het landelijke hoofdnummer een ingenieus keuzemenu waarbij bellers de eerste cijfers van hun postcode invoeren waarna ze automatisch worden doorverbonden met de locatie in hun directe omgeving.
 
-De inmiddels 16 verschillende locaties in Nederland hebben allen ook een eigen, lokaal telefoonnummer. Zo wordt de lokale bereikbaarheid geborgd. De toestellen op die vestigingen rinkelen dus de ene keer via het landelijke nummer en het postcode keuzemenu, de andere keer van een huurder die het lokale nummer belt.
+De inmiddels 16 verschillende locaties in Nederland hebben allen ook een eigen, lokaal telefoonnummer. Zo wordt de lokale bereikbaarheid geborgd. De toestellen op die vestigingen rinkelen dus de ene keer via het landelijke nummer en het postcode keuzemenu, de andere keer van een huurder die het lokale nummer belt.<img src="https://res.cloudinary.com/callvoip/image/upload/v1650972469/business-man-holding-tablet-with-franchise-icon_fxubqe.png" style="float:right; margin-top:10px;" width="300px">
 
 Alle nummers van 1BOX draaien in 1 beheeromgeving. Zo kunnen ze onderling gemakkelijk achterwachten inregelen bijvoorbeeld en het hoofdkantoor heeft zicht op alle telefonie met 1 login.
 
@@ -53,7 +53,7 @@ Ook maakt 1BOX gebruik van onze unieke simkaart oplossing: [VAMOS](https://www.c
 
 **ServicePlus: volledig ontzorgen**
 
-Zo’n uitgebreide telefonie-inrichting als 1BOX vraagt wel wat studie om te beheren. Bovendien groeit 1BOX hard dus regelmatig moeten nieuwe nummers toegevoegd, het keuzemenu aangepast en gebruikers aangemaakt. Nu kun je ervoor kiezen alles zelf te beheren maar 1BOX koos voor het uit handen geven aan ons.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1650971943/faceless-man-relaxing-armchair_f6qkbl.jpg" style="float:right; margin-left:5px;" width="225px">Zo’n uitgebreide telefonie-inrichting als 1BOX vraagt wel wat studie om te beheren. Bovendien groeit 1BOX hard dus regelmatig moeten nieuwe nummers toegevoegd, het keuzemenu aangepast en gebruikers aangemaakt. Nu kun je ervoor kiezen alles zelf te beheren maar 1BOX koos voor het uit handen geven aan ons.
 
 Met de [ServicePlus uitbreiding](https://www.callvoip.nl/aanvragen/serviceplus/) regelen we alles voor je. En dan ook echt alles: nieuwe bandjes, alle aanpassingen. Stuur een mail of bel en we regelen het. Zo heb je goed geoptimaliseerde en onderhouden telefonie. Altijd.
 
