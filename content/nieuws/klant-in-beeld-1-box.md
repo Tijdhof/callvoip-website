@@ -21,6 +21,7 @@ tags: []
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1650966057/1box_vmkjvi.png)  
+**Telefonie als stukje van de héle puzzel**
 We houden van al onze klanten. Groot of klein, simpel of gecompliceerd, stil of mondig, allemaal. Het leukste vinden we om al die verschillen te vertalen in de best mogelijke telefonieoplossing. En als je al Callvoip klant bent, weet je dat we daar best goed in zijn.
 
 Een klant die ons al langere tijd steeds voor nieuwe uitdagingen stelt, is self storage aanbieder 1BOX. De oplossingen die we voor hen bedachten zijn onder andere:
