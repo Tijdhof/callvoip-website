@@ -32,7 +32,7 @@ Een klant die ons al langere tijd steeds voor nieuwe uitdagingen stelt, is self 
 - Compleet ontzorgen: ServicePlus<br>
 
 **Centraal vs lokaal**<br>
-“Het hele jaar 24 uur per dag bereikbaar” staat op de <a href="https://www.1box.nl/" target="_blank">website van 1BOX</a> bovenaan. En het nummer wat daarachter staat vertrouwt volledig op onze telefonie om die bereikbaarheid te garanderen. Het is een landelijk 085 nummer.
+“Het hele jaar 24 uur per dag bereikbaar” staat op de <a href="https://www.1box.nl/" target="_blank">website van 1Box</a> bovenaan. En het nummer wat daarachter staat vertrouwt volledig op onze telefonie om die bereikbaarheid te garanderen. Het is een landelijk 085 nummer.
 
 Als je in de markt bent voor opslag is een box huren in Heerlen als je in Groningen woont natuurlijk niet handig. Daarom bedachten wij voor het landelijke hoofdnummer een ingenieus keuzemenu waarbij bellers de eerste cijfers van hun postcode invoeren waarna ze automatisch worden doorverbonden met de locatie in hun directe omgeving.
 
