@@ -62,7 +62,7 @@ Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daar
 • Bedrijfsnaam<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651330384/Bubble_infographic_beknopt_300422MT_zscpmp.jpg" style="float:right">
 • Open klant in CatsOne<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
