@@ -47,6 +47,8 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
 <li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
+<li>Call History: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie.</li>
+<li>Redial: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
 <li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
 <li>Geen match van het telefoonnummer met een contact in CatsOne? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 </ul>
@@ -55,14 +57,14 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in CatsOne aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
-**Details van de popup in combinatie met CatsOne:**<br>
+**Details van de popup in combinatie met CatsOne:**<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651330384/Bubble_infographic_beknopt_300422MT_zscpmp.jpg" style="float:right">
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit CatsOne, zoals: <br>
 • Telefoonnummer<br>
 • Naam<br>
 • Bedrijfsnaam<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651330384/Bubble_infographic_beknopt_300422MT_zscpmp.jpg" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in CatsOne<br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
