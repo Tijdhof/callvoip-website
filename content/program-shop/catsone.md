@@ -43,14 +43,19 @@ Met de Callvoip CatsOne telefoonconnector beschik je over een slimme koppeling t
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit CatsOneen kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
 <div class="usp-list">
 <ul>
+<li>Popup met nummer van de beller en handige gesprekstimer.</li>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
-<li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
-<li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
-<li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
-<li>Call History: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie.</li>
-<li>Redial: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
-<li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
+<li>Toon klantinformatie vanuit je CRM('s); dit is aanpasbaar per medewerker / functie. </li>
 <li>Geen match van het telefoonnummer met een contact in CatsOne? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>Laatste contactinformatie: zie het laatste contactmoment met dit nummer: wanneer en met wie.</li>
+<li>Call History: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie. Handig voor bellers die niet weten met wie ze eerder spraken.</li>
+<li>Redial: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
+<li>Vier instelbare buttons met kopiefunctie, emailfunctie, actiebutton (open URL) en knop om klantkaart in CRM te openen.</li>
+<li>Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te kiezen. </li>
+<li>Handige click to dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
+<li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
+<li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
+
 </ul>
 </div>
 <br>
