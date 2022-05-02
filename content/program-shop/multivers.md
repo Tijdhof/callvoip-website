@@ -61,11 +61,11 @@ Dankzij de connector kun je de nummers in Software Gemak (Unit4 Multivers) aankl
 <br>
 **Details van de popup in combinatie met Software Gemak (Unit4 Multivers):**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit Software Gemak (Unit4 Multivers) gebruiken, denk hierbij aan gegevens zoals: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
+Je kunt dan de klantgegevens uit Software Gemak (Unit4 Multivers) gebruiken, denk hierbij aan gegevens zoals: <br>
 • Telefoonnummer<br>
 • Klantnaam<br>
 • Bedrijfsnaam<br>
-• E-mailadres<br>
+• E-mailadres<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
 • Website<br>
 • etc.<br>
 <br>
