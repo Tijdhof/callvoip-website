@@ -64,9 +64,11 @@ Dankzij de connector kun je de nummers in CatsOne aanklikken en automatisch bell
 <br>
 **Details van de popup in combinatie met CatsOne:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit CatsOne, zoals: <br>
-• Telefoonnummer<br>
 • Naam<br>
 • Bedrijfsnaam<br>
+• Huidige werkgever<br>
+• Skills<br>
+• etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
