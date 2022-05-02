@@ -68,7 +68,7 @@ Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/
 • Klik en kopieer het klantnummer om de relatiekaart in Software Gemak (Unit4 Multivers) te openen<br>
 • Software Gemak biedt geen ondersteuning voor het direct openen van de klantkaart<br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
+En daarnaast: customized knoppen met: <br>
 • Kopie-functie (bv telefoonnummer of parameter)<br>
 • Email-functie (bv terugbelverzoek of leadnotitie)<br>
 • Actie-button (bv open URL of website, evt met parameter) <br>
