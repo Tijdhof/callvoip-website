@@ -74,11 +74,10 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 Denk hierbij aan:<br>
 • Open klant in CatsOne<br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
-• Kopieer telefoonnummer<br>
-• Maak een terugbelverzoek<br>
-• Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam) <br>
+En daarnaast: customized knoppen met: <br>
+• Kopie-functie (bv telefoonnummer of parameter)<br>
+• Email-functie (bv terugbelverzoek of leadnotitie)<br>
+• Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket CatsOne CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
