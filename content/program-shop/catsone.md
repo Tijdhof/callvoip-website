@@ -40,7 +40,7 @@ aliases: /program-shop/catsone/
 Met de Callvoip CatsOne telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CatsOne. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in CatsOne staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit CatsOneen kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit CatsOne en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
 <div class="usp-list">
 <ul>
 <li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
