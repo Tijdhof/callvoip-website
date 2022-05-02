@@ -49,7 +49,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
 <li>Toon klantinformatie vanuit je CRM('s): dit is aanpasbaar per medewerker / functie. </li>
-<li>Geen match van het telefoonnummer met een contact in Hubspot? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>Geen match van het telefoonnummer met een contact in Gripp? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
 <li>**Laatste contact**: zie het laatste contactmoment met dit nummer, wanneer en met welke collega.</li>
 <li>**Call History**: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie. Handig voor bellers die niet weten met wie ze eerder spraken.</li>
 <li>**Redial**: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
