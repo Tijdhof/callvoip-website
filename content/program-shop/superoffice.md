@@ -34,9 +34,9 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket SuperOffice?<br>
-SuperOffice : CRM-oplossing waarmee je duurzame relaties opbouwt en zorgt dat ze groeien.**<br><br>
+SuperOffice: complete CRM-oplossing waarmee om duurzame relaties op te bouwen en te laten groeien.**<br><br>
 **Samenvatting**<br>
-Met de Callvoip SuperOffice telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en SuperOffice . Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in SuperOffice staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip SuperOffice telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en SuperOffice. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in SuperOffice staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit SuperOffice en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
@@ -58,14 +58,15 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Bonus: automatische call logging**<br>
-Standaard is de SuperOffice Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in SuperOffice . Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
+Standaard is de SuperOffice Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in SuperOffice. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Zijn er meerdere relaties onder hetzelfde telefoonnummer? Dan kun je kiezen bij welk contact de gespreksnotie wordt geregistreerd. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in SuperOffice aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in SuperOffice aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
+Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst!<br>
 <br>
 **Details van de popup in combinatie met SuperOffice :**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit SuperOffice gebruiken, denk hierbij aan gegevens zoals: <br>
+Je kunt dan de klantgegevens uit SuperOffice gebruiken, denk hierbij aan gegevens zoals: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
 • Telefoonnummer<br>
 • Klantnaam<br>
 • Bedrijfsnaam<br>
@@ -74,7 +75,7 @@ Je kunt dan de klantgegevens uit SuperOffice gebruiken, denk hierbij aan gegeven
 • etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in SuperOffice <br>
 <br>
 En daarnaast: customized knoppen met: <br>
