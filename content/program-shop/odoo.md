@@ -62,7 +62,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Bonus: automatische call logging**<br>
-Standaard is de Odoo Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Odoo. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
+Standaard is de Odoo Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Odoo. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Zijn er meerdere relaties onder hetzelfde telefoonnummer? Dan kun je kiezen bij welk contact de gespreksnotie wordt geregistreerd. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in ODOO aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br> <img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
