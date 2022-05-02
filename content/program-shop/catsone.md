@@ -52,7 +52,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>**Redial**: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
 <li>**Vier instelbare buttons** met kopiefunctie, emailfunctie, actiebutton (open URL) en knop om klantkaart in CRM te openen.</li>
 <li>Meerdere relaties met één nummer? Handige **bladerfunctie** om juiste relatie te kiezen. </li>
-<li>Handige click to dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
+<li>Handige **Click-to-Dial** functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
 <li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
 
