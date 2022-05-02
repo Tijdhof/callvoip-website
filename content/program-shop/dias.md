@@ -40,7 +40,15 @@ aliases: /program-shop/dias/
 Met de Callvoip Dias Assurantie (voorheen Unit4 Dias) CRM telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Dias Assurantie. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Dias Assurantie staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Dias Assurantie en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Dias Assurantie en kun je direct de klantkaart openen. Er zijn twee koppelingsmogelijkheden:<br>
+**Optie A:** direct openen van klantkaart in DIAS Assurantie bij het aannemen van een gesprek.<br>
+**Optie B:** voorvertoning van gegevens in pop-up software Bubble én openen klantenkaart bij aannemen gesprek.<br>
+<br>
+De gegevens uit DIAS Assurantie halen kan op twee manieren:<br>
+• Vanuit DIAS Assurantie is het mogelijk om de data te exporteren naar CSV die je daarna kunt uploaden met de Bubble CSV connector. Hierdoor is het mogelijk om alle data die in de export staat weer te geven in de pop-up. Vervolgens kun je met een druk op de knop de klantkaart openen in DIAS Assurantie. Het verversen van data moet handmatig gebeuren door het maken en uploaden van een nieuwe CSV export.<br>
+• Met de ODBC-connector (= betaalde module aan de kant van DIAS Assurantien) is het mogelijk om data realtime op te halen vanuit DIAS. Vervolgens kun je met een druk op de knop de klantkaart openen in DIAS Assurantie.<br>
+<br>
+De popup heeft een aantal unieke eigenschappen. <br>
 <div class="usp-list">
 <ul>
 <li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
