@@ -51,7 +51,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Software Gemak (Unit4 Multivers) aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in Software Gemak (Unit4 Multivers) aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651471787/Bubble_infographic_beknopt-3_020522MT_z19b21.jpg" style="float:right">
 <br>
 **Details van de popup in combinatie met Software Gemak (Unit4 Multivers):**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
@@ -64,7 +64,7 @@ Je kunt dan de klantgegevens uit Software Gemak (Unit4 Multivers) gebruiken, den
 • etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br>
 • Klik en kopieer het klantnummer om de relatiekaart in Software Gemak (Unit4 Multivers) te openen<br>
 • Software Gemak biedt geen ondersteuning voor het direct openen van de klantkaart<br>
 <br>
