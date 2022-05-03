@@ -21,7 +21,6 @@ tags: []
 type: ''
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1650966057/1box_vmkjvi.png)  
 ![](https://res.cloudinary.com/callvoip/image/upload/v1651582658/1Box_team_groot_c6jf85.jpg)  
 
 **Telefonie als stukje van de héle puzzel**<br>
