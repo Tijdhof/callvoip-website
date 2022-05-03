@@ -31,9 +31,9 @@ Een klant die ons al langere tijd steeds voor nieuwe uitdagingen stelt, is self 
 
 * [Keuzemenu ](https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/)met postcodekiezer<br>
 * Meerdere filialen én hoofdkantoor in 1 beheeromgeving<br>
-* <a href="https://www.callvoip.nl/marketplace">CRM gekoppeld aan de telefonie</a><br>
-* <a href="https://www.callvoip.nl/telefonie/functionaliteiten/vamos/">Vast mobiel: zowel app als simkaart</a><br>
-* <a href="https://www.callvoip.nl/aanvragen/serviceplus/">Compleet ontzorgen: ServicePlus</a><br>
+* <a href="https://www.callvoip.nl/marketplace" target="_blank">CRM gekoppeld aan de telefonie</a><br>
+* <a href="https://www.callvoip.nl/telefonie/functionaliteiten/vamos/" target="_blank">Vast mobiel: zowel app als simkaart</a><br>
+* <a href="https://www.callvoip.nl/aanvragen/serviceplus/" target="_blank">Compleet ontzorgen: ServicePlus</a><br>
 
 **Centraal vs lokaal**<br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1650972469/business-man-holding-tablet-with-franchise-icon_fxubqe.png" style="float:right; margin-top:10px;" width="300px">“Het hele jaar 24 uur per dag bereikbaar” staat op de <a href="https://www.1box.nl/" target="_blank">website van 1Box</a> bovenaan. En het nummer wat daarachter staat vertrouwt volledig op onze telefonie om die bereikbaarheid te garanderen. Het is een landelijk 085 nummer.
