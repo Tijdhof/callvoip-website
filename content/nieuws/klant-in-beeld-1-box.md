@@ -22,6 +22,8 @@ type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1650966057/1box_vmkjvi.png)  
+![](https://res.cloudinary.com/callvoip/image/upload/v1651582658/1Box_team_groot_c6jf85.jpg)  
+
 **Telefonie als stukje van de héle puzzel**<br>
 We houden van al onze klanten. Groot of klein, simpel of gecompliceerd, stil of mondig, allemaal. Het leukste vinden we om al die verschillen te vertalen in de best mogelijke telefonieoplossing. En als je al Callvoip klant bent, weet je dat we daar best goed in zijn.
 
