@@ -59,5 +59,5 @@ Met de [ServicePlus uitbreiding](https://www.callvoip.nl/aanvragen/serviceplus/)
 Wanneer we zo alle diensten die we aan 1BOX leveren uitschrijven, voelen we toch een beetje een gevoel van trots opborrelen. We krijgen veel vertrouwen en kunnen echt waarde toevoegen aan hun organisatie. Dat voelt goed voor beide partijen, al vele jaren.
 
 Ben je ook geïnteresseerd in één van de oplossingen van 1BOX, of wil je zelf klant worden?<br>
-<br><br>
+<br>
 <a href="/klantworden/" class="button">Ja dit wil ik ook!</a>
