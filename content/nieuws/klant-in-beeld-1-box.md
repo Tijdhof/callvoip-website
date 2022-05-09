@@ -1,19 +1,20 @@
 ---
 title: 'Klant in beeld: 1Box'
 description: ''
-images: []
+images:
+- "/v1652081522/1box-preview_bvfdjc.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: ''
+image_uitgelicht: "/v1652081522/1box-preview_bvfdjc.png"
 hero:
   image: ''
   mobile: ''
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2022-05-05T22:00:00+00:00
 url: "/nieuws/1box/"
 contactpersoon: []
 categories: []
