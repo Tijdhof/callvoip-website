@@ -35,7 +35,7 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket 2Solar?<br>
-2Solar : Een efficiënte keten van modules, van lead tot verkoop, van ontwerp tot beheer.**<br><br>
+2Solar: efficiënte keten van modules, van lead tot verkoop, van ontwerp tot beheer > één compleet softwareplatform voor de zonnepanelenmarkt.**<br><br>
 **Samenvatting**<br>
 Met de Callvoip CatsOne telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en 2Solar. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in 2Solar staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
