@@ -60,11 +60,11 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in 2Solar aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
-Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right"><br>
+Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met 2Solar:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit 2Solar gebruiken, denk hierbij aan gegevens zoals: <br>
+Je kunt dan de klantgegevens uit 2Solar gebruiken, denk hierbij aan gegevens zoals: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
 • Telefoonnummer<br>
 • Klantnaam<br>
 • Bedrijfsnaam<br>
