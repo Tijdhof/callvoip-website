@@ -60,7 +60,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in CatsOne aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right"><br>
+Dankzij de connector kun je de nummers in CatsOne aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <img src="https://res.cloudinary.com/callvoip/image/upload/v1652365416/Bubble_Infographic_120522MT_tsnzh7.jpg" style="float:right"><br>
 <br>
 **Details van de popup in combinatie met CatsOne:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit CatsOne, zoals: <br>
