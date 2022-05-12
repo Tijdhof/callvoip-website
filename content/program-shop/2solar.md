@@ -37,28 +37,32 @@ headerside:
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket 2Solar?<br>
 2Solar : Een efficiënte keten van modules, van lead tot verkoop, van ontwerp tot beheer.**<br><br>
 **Samenvatting**<br>
-Met de Callvoip 2Solar telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en 2Solar . Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in 2Solar staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip CatsOne telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en 2Solar. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in 2Solar staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit 2Solar en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
+<li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
-<li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
+<li>Toon klantinformatie vanuit je CRM('s): dit is aanpasbaar per medewerker / functie. </li>
+<li>Geen match van het telefoonnummer met een contact in 2Solar? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>**Laatste contact**: zie het laatste contactmoment met dit nummer, wanneer en met welke collega.</li>
+<li>**Call History**: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie. Handig voor bellers die niet weten met wie ze eerder spraken.</li>
+<li>**Redial**: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
+<li>**Vier instelbare buttons** met kopiefunctie, emailfunctie, actiebutton (open URL) en knop om klantkaart in CRM te openen.</li>
+<li>Meerdere relaties met één nummer? Handige **bladerfunctie** om juiste relatie te kiezen. </li>
+<li>Handige **Click-to-Dial** functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
-<li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
-<li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
-<li>Geen match van het telefoonnummer met een contact in 2Solar ? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
+<li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
 </ul>
 </div>
 <br>
-**Bonus: automatische call logging**<br>
-Standaard is de 2Solar Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in 2Solar . Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
-<br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in 2Solar aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in 2Solar aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
+Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right"><br>
 <br>
-**Details van de popup in combinatie met 2Solar :**<br>
+**Details van de popup in combinatie met 2Solar:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit 2Solar gebruiken, denk hierbij aan gegevens zoals: <br>
 • Telefoonnummer<br>
@@ -69,7 +73,7 @@ Je kunt dan de klantgegevens uit 2Solar gebruiken, denk hierbij aan gegevens zoa
 • etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in 2Solar <br>
 <br>
 En daarnaast: customized knoppen zoals: <br>
