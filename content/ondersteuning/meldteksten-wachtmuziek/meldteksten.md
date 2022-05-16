@@ -17,24 +17,16 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 <br><br>
 <a href="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" target="_blank" rel="noopener noreferrer" download="standaard_voicemail">Standaard voicemail begroeting</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" type="audio/mpeg"></audio>
 <br><br>
-<a href="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
+<a href="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" type="audio/mpeg"></audio>
 <br><br>
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" type="audio/mpeg"></audio>
-
-<a href="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Feestdagen gesloten voicemail</a>
-
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" type="audio/mpeg"></audio>
-
+<a href="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Feestdagen gesloten voicemail</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" type="audio/mpeg"></audio>
+<br><br>
 <h3>Carnaval meldteksten</h3>
 
-<a href="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, met vm</a>
-
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" type="audio/mpeg"></audio>
-
-<a href="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, zonder vm</a>
-
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
-
+<a href="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, met vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/11-Simmpl-carnaval-met-voicemail.mp3" type="audio/mpeg"></audio>
+<br><br>
+<a href="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail"><b>Carnaval-19</b>: niet bereikbaar, zonder vm</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/12-Simmpl-carnaval-einde-bericht.mp3" type="audio/mpeg"></audio>
+<br><br>
 <h3>Goedevrijdag & Pasen meldteksten</h3>
 
 <a href="https://callvoip.nl/cvtsupport/audio/meldtekst_goedevrijdag-gesloten_140422MT.mp3" target="_blank" rel="noopener noreferrer" download="carnaval_gesloten_voicemail">Goedevrijdag gesloten voicemail</a>
