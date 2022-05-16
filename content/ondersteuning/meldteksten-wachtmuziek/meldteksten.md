@@ -31,6 +31,10 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 
 <a href="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Feestdagen gesloten voicemail</a>
 
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" type="audio/mpeg"></audio>
+
+<a href="https://callvoip.nl/cvtsupport/audio/15-Callvoip_Helmelvaart-gesloten.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten_voicemail">Helmelvaart gesloten voicemail</a>
+
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/10-Simmpl_feestdagen_gesloten_voicemail.mp3" type="audio/mpeg"></audio>
 
 <h3>Carnaval meldteksten</h3>
