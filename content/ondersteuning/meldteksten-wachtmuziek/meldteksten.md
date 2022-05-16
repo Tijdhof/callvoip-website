@@ -9,13 +9,15 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 <h3>Onze standaard meldteksten</h3>
 <a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
 <br><br>
-<a href="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio><br><a href="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a>
+<a href="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio>
 <br><br>
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio><br><a href="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" target="_blank" rel="noopener noreferrer" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a>
+<a href="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
 <br><br>
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" type="audio/mpeg"></audio><br><a href="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" target="_blank" rel="noopener noreferrer" download="standaard_voicemail">Standaard voicemail begroeting</a>
+<a href="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" target="_blank" rel="noopener noreferrer" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" type="audio/mpeg"></audio>
 <br><br>
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" type="audio/mpeg"></audio><br><a href="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
+<a href="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" target="_blank" rel="noopener noreferrer" download="standaard_voicemail">Standaard voicemail begroeting</a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/07_Simmpl_standaard_voicemailbegroeting.mp3" type="audio/mpeg"></audio>
+<br><br>
+<a href="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" target="_blank" rel="noopener noreferrer" download="feestdagen_gesloten">Feestdagen gesloten eindebericht</a>
 <br><br>
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/09-Simmpl_feestdagen_gesloten_eindebericht.mp3" type="audio/mpeg"></audio>
 
