@@ -7,16 +7,12 @@ Jouw eigen meldtekst op maat door ons ingesproken en kant en klaar opgeleverd?<b
 
 
 <h3>Onze standaard meldteksten</h3>
-<a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a><br><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
-<a href="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a><br><br>
-
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio>
-
-<a href="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a>
-
-<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio>
-
-<a href="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" target="_blank" rel="noopener noreferrer" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a>
+<a href="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" target="_blank" rel="noopener noreferrer" download="in_gesprek">Alle medewerkers in gesprek </a><br><audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/01_Simmpl_medewerkers_in_gesprek.mp3" type="audio/mpeg"></audio>
+<a href="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" target="_blank" rel="noopener noreferrer" download="moment_geduld">Een ogenblik geduld alstublieft</a>
+<br><br>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/02_Simmpl_moment_geduld_alstublieft.mp3" type="audio/mpeg"></audio><br><a href="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" target="_blank" rel="noopener noreferrer" download="wordt_doorverbonden">Een ogenblik geduld u wordt doorverbonden</a>
+<br><br>
+<audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/03_Simmpl_u_wordt_doorverbonden.mp3" type="audio/mpeg"></audio><br><a href="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" target="_blank" rel="noopener noreferrer" download="niet_bereikbaar">Op dit moment telefonisch niet bereikbaar</a>
 
 <audio controls="controls"><source src="https://callvoip.nl/cvtsupport/audio/04-Simmpl_telefonisch_niet_bereikbaar_einde_bericht.mp3" type="audio/mpeg"></audio>
 
