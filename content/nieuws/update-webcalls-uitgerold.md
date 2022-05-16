@@ -32,4 +32,4 @@ Naast de nodige onderhuidse verbeteringen die de prestaties ten goede komen, heb
 
 **Meer weten?**
 
-Benieuwd naar de vernieuwde Webcalls? Of heb je feedback waar wij onze producten verder mee kunnen verbeteren? Neem dan contact met ons op.
+Benieuwd naar de vernieuwde Webcalls? Of heb je feedback waar wij onze producten verder mee kunnen verbeteren?<br><br><a href="/contact" class="button">Neem dan contact met ons op.</a>
