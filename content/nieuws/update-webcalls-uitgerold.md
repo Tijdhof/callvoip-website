@@ -20,7 +20,7 @@ categories: []
 tags: []
 
 ---
-Ben jij, zoals veel van onze klanten, gebruiker van onze Webcalls? Dan kan het zijn dat je iets is opgevallen aan het dashboard. We hebben namelijk recent een update uitgerold van deze populaire functionaliteit.
+Ben jij, zoals veel van onze klanten, gebruiker van onze [Webcalls](https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/)? Dan kan het zijn dat je iets is opgevallen aan het dashboard. We hebben namelijk recent een update uitgerold van deze populaire functionaliteit.
 
 **Wat is er nieuw?**
 
