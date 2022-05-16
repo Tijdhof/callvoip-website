@@ -232,8 +232,6 @@ fields:
         name: price
         label: Price
 pages:
-- content/internet/dsl.md
-- content/internet/glasvezel.md
 - content/internet/kabel.md
 - content/internet/managed-4g-oplossing.md
 - content/oplossingen/branches.md
