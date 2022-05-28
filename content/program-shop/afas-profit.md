@@ -104,7 +104,7 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Afas Profit CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling. De gebruiker vult in de software het e-mailadres in dat bekend is in AFAS. Daarna wordt een authenticatiecode gemaild en deze kan worden ingevuld in de koppelingssoftware. <br>
-De Callvoip telefoon-integratie met CastsOne CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
+De Callvoip telefoon-integratie met Afas Profit CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
 <br>
 <a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
 
