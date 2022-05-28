@@ -53,6 +53,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>**Laatste contact**: zie het laatste contactmoment met dit nummer, wanneer en met welke collega.</li>
 <li>**Call History**: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie. Handig voor bellers die niet weten met wie ze eerder spraken.</li>
 <li>**Redial**: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
+<li>**Notepad**: maak een gespreksnotitie, deze wordt opgeslagen in de Call History en kun je daar kopiëren.</li>
 <li>**Vier instelbare buttons** met kopiefunctie, emailfunctie, actiebutton (open URL) en knop om klantkaart in CRM te openen.</li>
 <li>Meerdere relaties met één nummer? Handige **bladerfunctie** om juiste relatie te kiezen. </li>
 <li>Handige **Click-to-Dial** functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
@@ -84,4 +85,5 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Odoo CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+<b>NB: de API-koppeling werkt vanaf Odoo versie 14</b>; bij de eerdere versies is het mogelijk om via .csv te koppelen. Je maakt dan een export van klanten, hun telefoonnummers en de gegevens die je in de popup wilt opvragen. <br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
