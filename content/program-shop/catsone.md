@@ -56,7 +56,6 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>Handige **Click-to-Dial** functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
 <li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
 <li>Ook bij het doorverbinden van gesprekken blijven de klantgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
-
 </ul>
 </div>
 <br>
