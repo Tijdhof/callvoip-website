@@ -41,7 +41,9 @@ Zendesk: CRM platform met een software gebouwd om aan de behoeften van je klante
 Met de Callvoip Zendesk telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Zendesk. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Zendesk staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Zendesk en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Zendesk en kun je direct de klantkaart openen. Het is mogelijk om telefoongesprekken automatisch te loggen als ticket onder de relatie in Zendesk. <b>Handig:</b> als het telefoonnummer meerdere keren voorkomt, dan is het mogelijk om door de gevonden relaties heen te bladeren en het gesprek onder de juiste relatie op te slaan. <br>
+Dankzij deze koppeling kun je Zendesk gebruiken alsof je het duurdere Zendesk Talk hebt; de Callvoip telefonie oplossing voegt de telefonie-functionaliteiten toe die je anders bij Zendesk Talk vindt (dialpad, zien welke bellers er zijn, gespreksopname, etc.). Bovendien kun je kiezen hoe je wilt bellen: met de computer, met een gewone telefoon of met je smartphone. Ook kun je vanuit Zendesk uitbellen door op een nummer te klikken. <br>
+De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
 <li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
@@ -61,7 +63,8 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Bonus: automatische call logging**<br>
-Standaard is de Zendesk Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Zendesk. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Zijn er meerdere relaties onder hetzelfde telefoonnummer? Dan kun je kiezen bij welk contact de gespreksnotie wordt geregistreerd. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
+Standaard is de Zendesk Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Zendesk. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Zijn er meerdere relaties onder hetzelfde telefoonnummer? Dan kun je kiezen bij welk contact de gespreksnotie wordt geregistreerd. Bovendien kun je ervoor kiezen om van elk beantwoorde gesprek automatisch een ticket te genereren. <br>
+Deze mogelijkheden worden zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Zendesk aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
@@ -80,6 +83,7 @@ Je kunt dan de klantgegevens uit Zendesk gebruiken, denk hierbij aan gegevens zo
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
 • Open klant in Zendesk<br>
+• Open ticket bij de klant in Zendesk<br>
 <br>
 En daarnaast: customized knoppen met: <br>
 • Kopie-functie (bv telefoonnummer of parameter)<br>
