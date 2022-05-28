@@ -40,7 +40,7 @@ Met de Callvoip Zendesk Talk telefoonconnector beschik je over een slimme koppel
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Zendesk Talk en kun je direct de klantkaart openen. Het openen van acties gebeurt in dezelfde webbrowser op basis van tabbladen in Zendesk Talk. Het is mogelijk om telefoongesprekken automatisch te loggen als ticket onder de relatie in Zendesk Talk. <b>Handig:</b> als het telefoonnummer meerdere keren voorkomt, dan is het mogelijk om door de gevonden relaties heen te bladeren en het gesprek onder de juiste relatie op te slaan. <br>
-De koppeling maakt geen gebruik van de telefoniemodule in Zendesk Talk. Daarom maak je geen gebruik van het dialpad, de wachtende beller visual en de gespreksopname vanuit Zendesk Talk - die feaetures zitten al in de Callvoip-dienst. Uiteraard kun je wel uitbellen vanuit  Zendesk Talk doorde klikken en uit te bellen. <br>
+De koppeling maakt geen gebruik van de telefoniemodule in Zendesk Talk. Daarom maak je geen gebruik van het dialpad, de wachtende beller visual en de gespreksopname vanuit Zendesk Talk - die features zitten al in de Callvoip-dienst. Uiteraard kun je wel uitbellen vanuit  Zendesk Talk doorde klikken en uit te bellen. <br>
 <br>
 De popup heeft een aantal unieke eigenschappen. <br>
 <div class="usp-list">
@@ -61,7 +61,11 @@ De popup heeft een aantal unieke eigenschappen. <br>
 </ul>
 </div>
 <br>
-**Uitgaande gesprekken**<br>
+**Bonus: automatische call logging**<br>
+Standaard is de Zendesk Talk Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Zendesk Talk. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Zijn er meerdere relaties onder hetzelfde telefoonnummer? Dan kun je kiezen bij welk contact de gespreksnotie wordt geregistreerd. Bovendien kun je ervoor kiezen om van elk beantwoorde gesprek automatisch een ticket te genereren. <br>
+Deze mogelijkheden worden zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
+<br>
+<br>**Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Zendesk Talk aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <img src="https://res.cloudinary.com/callvoip/image/upload/v1652365416/Bubble_Infographic_120522MT_tsnzh7.jpg" style="float:right"><br>
 <br>
