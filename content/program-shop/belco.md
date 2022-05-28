@@ -82,10 +82,11 @@ Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daar
 • totale uitgaven <br>
 • shop naam <br>
 • etc.<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
-• Open klant in Belco<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+• Open klant in Belco<br>
 <br>
 En daarnaast: customized knoppen met: <br>
 • Kopie-functie (bv telefoonnummer of parameter)<br>
