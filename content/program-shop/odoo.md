@@ -1,6 +1,6 @@
 ---
 title: "Wij koppelen jouw CRM Odoo aan onze telefonie"
-shorttitle: "Odoo"
+shorttitle: "Odoo + auto call log"
 date: 2021-06-03T16:52:17+05:00
 logo: "/odoo_myvzjv.png"
 description: Door het koppelen van Odoo CRM aan onze slimme telefonie werk je een stuk efficienter.
@@ -28,7 +28,7 @@ categories:
   - Relatiebeheer
   - Boekhouding
   - Projectbeheer
-  - Nieuw
+  - Auto Call Log
 weight: 1
 new: true
 url: /marketplace/odoo/
