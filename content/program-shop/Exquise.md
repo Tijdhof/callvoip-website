@@ -43,13 +43,6 @@ Met de Callvoip Exquise Software telefoonconnector beschik je over een slimme ko
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de patiëntinformatie vanuit Exquise. Zodra je het gesprek aanneemt verschijnt een indicator in Exquise en kun je gelijk de patiëntgegevens openen. De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
-<li>De knoppen in de pop-up zijn naar eigen wens samen te stellen.</li>
-<li>Ook bij het doorverbinden van gesprekken blijven de patientgegevens zichtbaar (dus niet alleen de gegevens van je collega).</li>
-<li>Bij meerdere beeldschermen kun je zelf kiezen op welk scherm je de pop-up wilt zien.</li>
-<li>Op de popup is zichtbaar welke collega op welke datum en tijd als laatste contact had met dit nummer. Dat kan handig zijn als iemand terugbelt en je niet weet door welke collega hij of zij gebeld zou kunnen zijn.</li>
-<li>De Callvoip popup-applicatie is voorzien van click to dial functionaliteit die zowel lokaal als webbased werkt. Uitbellen met 1 klik!</li>
-<li>Geen match van het telefoonnummer met een contact in Exquise? Maak dan gebruik van de **automatische Google Number Lookup**: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.</li>
-
 <li>Popup met nummer van de beller met doorklik naar de Exquise klantenkaart.</li>
 <li>Bij aannemen van een gesprek wordt automatisch de Exquise klantenkaart geopend.</li>
 <li>De informatie en de knoppen in de pop-up zijn volledig naar eigen wens samen te stellen.</li>
