@@ -34,8 +34,8 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Pipedrive?**
-**Pipedrive: CRM die ontworpen door verkopers, voor verkopers, bedoeld om je bedrijf te laten groeien. Software voor sales-CRM en pijplijnbeheer.**
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Pipedrive?**<br>
+**Pipedrive: CRM die ontworpen door verkopers, voor verkopers, bedoeld om je bedrijf te laten groeien. Software voor sales-CRM en pijplijnbeheer.**<br>
 <br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/image_d5devh.png" style="float:right; padding-left:15px; border:1px solid black;" width=500px" class="zoom" border="1">
 **Samenvatting**<br>
