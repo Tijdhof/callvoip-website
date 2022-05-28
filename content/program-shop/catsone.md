@@ -25,7 +25,7 @@ button:
 categories:
   - Recruitment
   - Relatiebeheer
-  - Nieuw
+  - Auto Call Log
 weight: 1
 new: true
 url: /marketplace/catsone/
