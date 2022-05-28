@@ -50,6 +50,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>**Laatste contact**: zie het laatste contactmoment met dit nummer, wanneer en met welke collega.</li>
 <li>**Call History**: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie. Handig voor bellers die niet weten met wie ze eerder spraken.</li>
 <li>**Redial**: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
+<li>**Notepad**: maak een gespreksnotitie, deze wordt opgeslagen in de Call History en kun je daar kopiëren.</li>
 <li>**Vier instelbare buttons** met kopiefunctie, emailfunctie, actiebutton (open URL) en knop om klantkaart in CRM te openen.</li>
 <li>Meerdere relaties met één nummer? Handige **bladerfunctie** om juiste relatie te kiezen. </li>
 <li>Handige **Click-to-Dial** functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
@@ -62,7 +63,8 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 Standaard is de Hubspot Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Hubspot. Een gesprek wordt standaard geregistreerd en je kunt gelijk je gespreksnotities toevoegen. Dan kun je kiezen bij welk contact de gespreksnotie wordt geregistreerd. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Hubspot aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in Hubspot aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
+Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Hubspot:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
