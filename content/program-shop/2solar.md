@@ -50,6 +50,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 <li>**Laatste contact**: zie het laatste contactmoment met dit nummer, wanneer en met welke collega.</li>
 <li>**Call History**: zie alle contactmomenten met dit nummer van de laatste 90 dagen: wanneer, hoe lang en met wie. Handig voor bellers die niet weten met wie ze eerder spraken.</li>
 <li>**Redial**: open de popup van een eerder gesprek en bel de relatie met 1 klik terug.</li>
+<li>**Notepad**: maak een gespreksnotitie, deze wordt opgeslagen in de Call History en kun je daar kopiëren.</li>
 <li>**Vier instelbare buttons** met kopiefunctie, emailfunctie, actiebutton (open URL) en knop om klantkaart in CRM te openen.</li>
 <li>Meerdere relaties met één nummer? Handige **bladerfunctie** om juiste relatie te kiezen. </li>
 <li>Handige **Click-to-Dial** functie: bel elk nummer met 1 klik, vanuit je CRM, de browser en elk ander programma!</li>
@@ -76,11 +77,10 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 Denk hierbij aan:<br>
 • Open klant in 2Solar <br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
-• Kopieer telefoonnummer<br>
-• Maak een terugbelverzoek<br>
-• Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam) <br>
+En daarnaast: customized knoppen met: <br>
+• Kopie-functie (bv telefoonnummer of parameter)<br>
+• Email-functie (bv terugbelverzoek of leadnotitie)<br>
+• Actie-button (bv open URL of website, evt met parameter)<br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket 2Solar CRM wordt gekoppeld met telefonie van Callvoip op basis van een CSV-koppeling.<br>
