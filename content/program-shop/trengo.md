@@ -36,7 +36,7 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Trengo?<br>
-Trengo: CRM software voor optimale klantenservice obv omnichannel communicatiekanalen**<br>
+Trengo: CRM software voor optimale klantenservice obv omnichannel communicatiekanalen (email, chat, whatsapp, SMS, ticketing, etc.)**<br>
 <br>
 <iframe width="600" height="350" src="https://www.youtube.com/embed/e6Ps50G-b_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="float:right" allowfullscreen></iframe>
 **Samenvatting**<br>
@@ -45,10 +45,12 @@ Met de Callvoip Trengo telefoonconnector beschik je over een slimme koppeling tu
 <br>
 **Inkomende gesprekken**<br>
 Met de unieke Trengo Callvoip connector voeg je drie prachtige features aan je telefoonsysteem toe:<br>
-1. Bij een inkomend gesprek verschijnt een popup met klantinformatie; je kunt gelijk doorklikken naar de klant in Trengo<br>
-2. Er verschijnt ook een popup binnen Trengo zelf van de call, met daarin de status van het gesprek <br>
-3. Er wordt automatisch een callregistratie gelogd; type gelijk je gespreksinformatie!<br>
+1. Bij een inkomend gesprek verschijnt een popup met klantinformatie; je kunt gelijk doorklikken naar de klant in Trengo.<br>
+2. Er wordt automatisch een callregistratie toegevoegd aan een open ticket waar je verdere gespreksinformatie aan kunt toevoegen <br>
+3. Als er geen open ticket gevonden wordt, wordt een nieuw ticket geopend met de call registratie. <br>
+4. Na het gesprek verdwijnt de popup automatisch. 
 <br>
+
 De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
@@ -68,7 +70,8 @@ Bij een inkomend gesprek verschijnt er een gesprekspopup in Trengo zelf dankzij 
 Standaard is de Trengo Callvoip connector voorzien van de functie om automatisch gesprekken te loggen onder de klantkaart in Trengo. Dit wordt zeer gewaardeerd; je hoeft zo geen actie meer te ondernemen om de call zelf te registreren, dat betekent meer focus en aandacht voor de inhoudelijke zaken en plezieriger werken!<br>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Trengo aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
+Dankzij de connector kun je de nummers in Trengo aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken  (Windows). <br>
+Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Trengo:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
@@ -84,11 +87,10 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Open klant in Trengo CRM<br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
-• Kopieer telefoonnummer<br>
-• Maak een terugbelverzoek<br>
-• Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam) <br>
+En daarnaast: customized knoppen met: <br>
+• Kopie-functie (bv telefoonnummer of parameter)<br>
+• Email-functie (bv terugbelverzoek of leadnotitie)<br>
+• Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 **Technische gegevens:**<br>
 Het <a href="https://trengo.com/en?ref=marieketimmer&utm_source=CallVoip&utm_medium=Partner+Marketing&utm_campaign=CallVoip" target="_blank">softwarepakket Trengo CRM</a> wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
