@@ -1,6 +1,6 @@
 ---
 title: "Wij koppelen jouw CRM CatsOne aan onze telefonie"
-shorttitle: "CatsOne"
+shorttitle: "CatsOne + auto call log"
 date: 2021-06-03T16:52:17+05:00
 logo: "/catsone_kjm8p6.png"
 description: Door het koppelen van CatsOne CRM aan onze slimme telefonie werk je een stuk efficienter.
