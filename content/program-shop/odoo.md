@@ -85,5 +85,5 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Odoo CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
-<b>NB: de API-koppeling werkt vanaf Odoo versie 14</b>; bij de eerdere versies is het mogelijk om via .csv te koppelen. Je maakt dan een export van klanten, hun telefoonnummers en de gegevens die je in de popup wilt opvragen. <br>
+<b>NB: de API-koppeling werkt vanaf Odoo versie 14</b>, in eerdere versies biedt Odoo nog geen API mogelijkheden. Bij eerdere Odoo-versies is het wel mogelijk om via .csv te koppelen. Je maakt dan een export van klanten, hun telefoonnummers en de gegevens die je in de popup wilt opvragen. <br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
