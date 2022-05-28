@@ -71,6 +71,7 @@ Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad
 **Details van de popup in combinatie met Pipedrive:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Pipedrive gebruiken, denk hierbij aan gegevens zoals: <br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • telefoonnummer <br>
 • laatste contact met <br>
 • Naam en gegevens contactpersoon <br>
@@ -82,7 +83,7 @@ Je kunt dan de klantgegevens uit Pipedrive gebruiken, denk hierbij aan gegevens 
 • Notitie <br>
 • etc. <br>
  <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
 • Open de klant in Pipedrive <br>
