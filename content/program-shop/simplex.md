@@ -61,12 +61,13 @@ De popup heeft een aantal unieke eigenschappen: <br>
 Bij een inkomend gesprek verschijnt er een gesprekspopup in Simplex zelf dankzij de ingebouwde telefoonkoppeling van Simplex. Deze popup omvat alle relevante patiëntinformatie zodat je direct de juiste context hebt en het gesprek met de patiënt gelijk inhoudelijk kunt starten. Omdat EYE-move zelf gespreksinformatie toont kan de pop-up van de koppeling uitgeschakeld worden; het is ook mogelijk om beiden te gebruiken: je hebt dan de Google nummerverrijking bij bellers die NIET in Simplex staan en je hebt beschikking over de 4 instelbare knoppen (zie onder), en een knop op de relatie in Simplex te openen. <br>
 <br>
 **Uitgaande gesprekken**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Dankzij de connector kun je de nummers in Simplex aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Simplex:**<br>
 Als gebruiker kun je in je pop-up tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in Simplex<br>
 <br>
 En daarnaast: customized knoppen met: <br>
