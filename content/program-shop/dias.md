@@ -88,4 +88,5 @@ En daarnaast: customized knoppen met: <br>
 **Technische gegevens:**<br>
 Het softwarepakket DIAS Assurantie maakt bij oproepen gebruik van de CSV data of op basis van ODBC connectie (indien gekozen wordt voor optie B) en opent de klantkaart middels een druk op de knop in de pop-up.<br>
 **Let op:** indien er gebruik gemaakt wordt van de ODBC connector is dit een betaalde module aan de zijde van DIAS Assurantie.<br>
+De Callvoip telefoon-integratie met Dias Assurantie kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
