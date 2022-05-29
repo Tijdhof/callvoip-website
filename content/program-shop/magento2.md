@@ -82,4 +82,5 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Magento 2 CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+De Callvoip telefoon-integratie met Magento 2 kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
