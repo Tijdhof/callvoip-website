@@ -80,4 +80,5 @@ En daarnaast: customized knoppen met: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Realworks CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling (of evt. met een .csv export).<br>
 <b>NB:</b> voor de API koppeling is de Realworks telefoonmodule nodig (betaald), deze kunt u bij Realworks aanvragen en is in enkele dagen geactiveerd. Zonder de telefoonmodule kunt u ook een .csv koppeling maken op basis van een gegevens-export. <br> 
+De Callvoip telefoon-integratie met Realworks kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
