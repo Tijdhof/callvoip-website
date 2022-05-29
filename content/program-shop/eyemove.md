@@ -67,18 +67,18 @@ Standaard is de Callvoip EYE-move connector voorzien van de functie om automatis
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Eyemove aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 <br>
 **Details van de popup in combinatie met Eyemove:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. EYE-move toont zelf gelijk een eigen popup met alle relevante klantinformatie. <br>
 Daarnaast kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in Eyemove<br>
 <br>
-En daarnaast: customized knoppen zoals: <br>
-• Kopieer telefoonnummer<br>
-• Maak een terugbelverzoek<br>
-• Open website <br>
-• Kopieer een parameter (bv klantnummer of klantnaam) <br>
+En daarnaast: customized knoppen met: <br>
+• Kopie-functie (bv telefoonnummer of parameter)<br>
+• Email-functie (bv terugbelverzoek of leadnotitie)<br>
+• Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Eyemove CRM wordt gekoppeld met telefonie van Callvoip op basis van een URL-opdracht naar de EYE-move ingebouwde telefoonconnector.<br>
