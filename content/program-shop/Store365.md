@@ -30,7 +30,8 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Store365 - Self Storage Software**<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Store365?**<br>
+**Store365: Self Storage Software - één database voor alle sites, prospects en customers, unit management en veel meer.**<br>
 <br>
 **Samenvatting** <br>
 Met de Callvoip Store365 connector beschik je over een slimme koppeling tussen Callvoip en Store365. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Perfectview staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
@@ -60,6 +61,7 @@ Dankzij de connector kun je de nummers in Store365 aanklikken en automatisch bel
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Store365:**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Store365 gebruiken, denk hierbij aan gegevens zoals: <br>
 • klatnnaam<br>
@@ -73,7 +75,7 @@ Je kunt dan de klantgegevens uit Store365 gebruiken, denk hierbij aan gegevens z
 • of de klant actieve contracten heeft <br>
 • etc. <br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+
 Let op: het is niet mogelijk om met één druk op de knop STORE365 te openen, maar in plaats daarvan wordt het klantnummer gekopieerd. Dat kun je gelijk plakken in STORE365 en vervolgens verschijnt met één druk op de knop de klant in beeld. 
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 
