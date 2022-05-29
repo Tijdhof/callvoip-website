@@ -83,6 +83,7 @@ Het softwarepakket Exquise wordt gekoppeld met telefonie van Callvoip op basis v
 &bull; Heeft u Exquise Classic? Dan kan Vertimart de telefoniemodule toevoegen (éénmalige aanschaf). <br>
 &bull; Heeft u Exquise Next Generation (cloudversie)? Dan is de telefoniemodule een maandelijkse service. <BR>
 Meer informatie en activatie verwijzen we u naar Exquise / Vertimart. Activatie duurt doorgaans enkele dagen. <br>
+De Callvoip telefoon-integratie met Exquise kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a><br>
 <br>
 
