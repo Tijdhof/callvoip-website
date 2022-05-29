@@ -62,13 +62,14 @@ Dankzij de connector kun je de nummers in OS Optiek aanklikken en automatisch be
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met OS Optiek:**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit OS Optiek, zoals: <br>
 • Telefoonnummer<br>
 • Naam<br>
 • Bedrijfsnaam<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in OS Optiek<br>
 <br>
 En daarnaast: customized knoppen met: <br>
