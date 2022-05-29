@@ -68,7 +68,7 @@ Dankzij de connector kun je de nummers in RobinHQ aanklikken en automatisch bell
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right"><br>
 **Details van de popup in combinatie met RobinHQ:**<br>
-De popup binnen RibnHQ speelt de hoofdrol, de popup van de koppeling voegt daar bv de Google verrijking van nummers die NIET in RobinHQ staan, aan toe, en een viertal handige toetsen. <br>
+De popup binnen RobinHQ speelt de hoofdrol, de popup van de koppeling voegt daar bv de Google verrijking van nummers die NIET in RobinHQ staan, aan toe, en een viertal handige toetsen. <br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit RobinHQ, zoals: <br>
 • Naam<br>
 • Bedrijfsnaam<br>
