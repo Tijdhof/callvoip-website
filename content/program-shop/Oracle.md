@@ -78,7 +78,7 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Oracle® Hospitality Suite8 CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
-**Let op: deze koppeling dient nog gerealiseerd te worden en heeft een doorlooptijd van ongeveer 2 weken, kosten 495,-.**<br>
+NB: voor deze koppeling is een development fee vereist van 695,- ex BTW éénmalig.<br>
 **Let op: aan de Oracle® Hospitality Suite8 CRM zijde is ook een betaalde licentie vereist, namelijk de Basic XML licentie.**<br> 
 De Callvoip telefoon-integratie met Oracle Hospitality Suite8 CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
