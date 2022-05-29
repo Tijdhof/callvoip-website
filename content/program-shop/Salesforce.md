@@ -31,7 +31,8 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Salesforce, cloud computing software voor eCommerce en klantcontact?**<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Salesforce?**
+**Salesforce: software voor optimalisatie van elk bedrijfsproces met klantinteractie zoals marketing, sales, commerce en klantenservice.**<br>
 <br>
 **Samenvatting** <br>
 Met de Callvoip Salesforce connector beschik je over een slimme koppeling tussen Callvoip en Salesforce. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Salesforce staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
@@ -61,10 +62,10 @@ Dankzij de connector kun je de nummers in Salesforce aanklikken en automatisch b
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Salesforce:**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de beschikbare klantgegevens uit Salesforce gebruiken.<br>
 Daarnaast kun je in de popup tot 4 customized knoppen aanmaken om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Denk hierbij aan:<br>
 • Open klant in Salesforce<br>
 <br>
