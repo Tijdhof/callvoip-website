@@ -62,6 +62,7 @@ Dankzij de connector kun je de nummers in Sherpaan aanklikken en automatisch bel
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Sherpaan:**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Sherpaan gebruiken, denk hierbij aan gegevens zoals: <br>
 • Number<br>
@@ -80,7 +81,7 @@ Je kunt dan de klantgegevens uit Sherpaan gebruiken, denk hierbij aan gegevens z
 • Last call user<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in Sherpaan CRM<br>
 <br>
 En daarnaast: customized knoppen met: <br>
