@@ -53,9 +53,14 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 Dankzij de connector kun je de nummers in Simar aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Simar:**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Door de connector wordt de klantenkaart gelijk en automatisch in het Simar  geopend, en kun je gelijk notities typen in het klantlog. Omdat de popup van Simar zelf wordt geopend, is het een optie om de Bubble popup uit te schakelen; je kunt er ook voor kiezen deze aan te laten staan zodat je extra knoppen van de Bubble popup tot je beschikking hebt. En is het nummer niet bekend in Simar dan wordt het nummer verrijkt door Google gegevens. <br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek.
-Denk hierbij aan customized knoppen zoals:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek.<br>
+<br>
+Daarnaast kun je max 4 customized knoppen toevoegen met: <br>
+• Kopie-functie (bv telefoonnummer of parameter)<br>
+• Email-functie (bv terugbelverzoek of leadnotitie)<br>
+• Actie-button (bv open URL of website, evt met parameter) <br>
 • Kopieer telefoonnummer<br>
 • Maak een terugbelverzoek<br>
 • Open website <br>
@@ -63,4 +68,5 @@ Denk hierbij aan customized knoppen zoals:<br><img src="https://res.cloudinary.c
 <br>
 **Technische gegevens:**<br>
 Door de integratiemethode met het softwarepakket Simar wordt de functionaliteit van de Bubble pop-up uitgeschakeld omdat Simar deze functie overneemt.<br>
+De Callvoip telefoon-integratie met Simar kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
