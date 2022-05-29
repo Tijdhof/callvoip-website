@@ -1,5 +1,5 @@
 ---
-shorttitle: "KidsVision"
+shorttitle: "KidsVision + auto call log"
 title: "Wij koppelen jouw CRM KidsVision aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/kidsvision_b1zunf.png"
