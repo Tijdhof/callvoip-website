@@ -82,6 +82,6 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket FasterForward Elements CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
-De Callvoip telefoon-integratie met FasterForward CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <b>NB:</b> Aan FasterForward-zijde dient een API-licentie geactiveerd te worden. Dit kan worden aangevraagd met een formulier en activatie duurt enkele dagen. Je ontvangt een .XML file  die in de koppelingssoftware kan worden ingeladen. Voor zover bekend worden hiervoor geen kosten berekend. <br>   
+De Callvoip telefoon-integratie met FasterForward CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
