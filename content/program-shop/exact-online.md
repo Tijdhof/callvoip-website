@@ -64,6 +64,7 @@ Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad
 **Details van de popup in combinatie met Exact Online:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Exact Online gebruiken, denk hierbij aan gegevens zoals: <br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 • Telefoonnummer <br>
 • Bedrijfsnaam<br>
 • Voornaam<br>
@@ -76,7 +77,7 @@ Je kunt dan de klantgegevens uit Exact Online gebruiken, denk hierbij aan gegeve
 • etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
-Denk hierbij aan:<br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Denk hierbij aan:<br>
 • Open klant in Exact Online<br>
 <br>
 En daarnaast: customized knoppen met: <br>
@@ -86,5 +87,5 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket Exact Online wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
-De Callvoip telefoon-integratie met Exact CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
+De Callvoip telefoon-integratie met Exact Online kan worden gebruikt op zowel Windows als Apple Mac.<br>
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
