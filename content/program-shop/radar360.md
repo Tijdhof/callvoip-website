@@ -65,6 +65,7 @@ Dankzij de connector kun je de nummers in Radar360 aanklikken en automatisch bel
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Radar360 CRM:**<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Radar360, zoals: <br>
 • Naam<br>
 • Bedrijfsnaam<br>
