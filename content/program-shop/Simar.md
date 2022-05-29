@@ -31,7 +31,8 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en Simar: CRM-pakket voor de keuken-, sanitair- en tegelbranche?**
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en Simar?**<br?
+**Simar: alles-in-één CRM-pakket voor de keuken-, sanitair- en tegelbranche**
 
 **Samenvatting** <br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/simar-screenshot.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip Simar connector beschik je over een slimme koppeling tussen Callvoip en Simar. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Simar staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
