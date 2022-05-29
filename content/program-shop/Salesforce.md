@@ -31,7 +31,7 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Salesforce?**
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Salesforce?**<br>
 **Salesforce: software voor optimalisatie van elk bedrijfsproces met klantinteractie zoals marketing, sales, commerce en klantenservice.**<br>
 <br>
 **Samenvatting** <br>
