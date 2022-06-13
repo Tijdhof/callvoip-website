@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+<div class="container space-y-8">
+  <form method="get" class="max-w-screen-sm mx-auto" id="pc-form">
+    <div class="mb-4"> <label>Postcode <span class="text-red">*</span><input name="zipcheck-zipcode"
+          placeholder="i.e. 9671HA" class="w-full border border-grey-light bg-white px-3 py-2 text-base" required>
+      </label>
+    </div>
+    <div class="mb-4"> <label>Huisnummer <span class="text-red">*</span><input name="zipcheck-housenr"
+          placeholder="i.e. 2" class="w-full border border-grey-light bg-white px-3 py-2 text-base" required>
+      </label>
+    </div>
+    <div class="mb-4"> <label>Toevoeging <input name="zipcheck-ext"
+          class="w-full border border-grey-light bg-white px-3 py-2 text-base">
+      </label>
+    </div>
+    <button class="bg-blue px-8 py-3 rounded-full text-white">ZOEK</button>
+  </form>
+
+  <div class="">
+    <div class="hidden text-center">Loading...</div>
+    <iframe class="w-full" id="pc-result"></iframe>
+  </div>
+</div>
+
+<script>
+  const url = 'https://postcode.callvoip.nl/postcode-result/?'
+
+  const form = document.getElementById('pc-form'), iframe = document.getElementById('pc-result')
+
+  form.onsubmit = function (e) {
+    e.preventDefault()
+
+    const formData = new FormData(e.target);
+    const params = new URLSearchParams(formData);
+
+    iframe.previousElementSibling.classList.remove('hidden')
+
+    iframe.src = url + params.toString()
+  }
+
+  iframe.onload = function (e) {
+    iframe.previousElementSibling.classList.add('hidden')
+    iframe.style.height = '60rem'
+  }
+
+</script>
+{{ end }} 
