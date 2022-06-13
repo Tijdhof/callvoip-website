@@ -14,6 +14,7 @@ hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
 url: "/postcode-check/"
+layout: "postcode-check"
 
 ---
 Insert below.
