@@ -1,6 +1,6 @@
 ---
 weight: 9
-title: Handleiding BUbble CRM-koppeling
+title: Handleiding Bubble CRM-koppeling
 description: ''
 images: []
 hideinsearch: false
@@ -9,9 +9,9 @@ hidesocialshare: true
 Nieuw: true
 Update: false
 pdf: https://files.callvoip.nl/downloads/Callvoip_VoIP-CTI-Bubble_handleiding-en-naslagwerk.pdf
-aliases: 
-   - /voipctihelp/
-   - /voipctihulp/
+aliases:
+- "/voipctihelp/"
+- "/voipctihulp/"
 
 ---
 Gefeliciteerd met de installatie van de Bubble CRM-koppeling! <br>
