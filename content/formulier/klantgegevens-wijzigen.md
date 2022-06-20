@@ -35,6 +35,32 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
+{{< form/fieldset "Wijziging bedrijfsgegevens" >}}
+
+_Indien u uw bedrijfsgegevens wilt wijzigen, kunt u hieronder uw nieuwe klantgegevens invullen._
+
+{{< form/input "Bedrijfsnaam (wijziging)" >}}
+
+{{< form/select "Aanhef (wijziging)" >}}
+
+{{< form/option "Heer" >}}
+
+{{< form/option "Mevrouw" >}}
+
+{{</ form/select >}}
+
+{{< form/input "Contactpersoon (wijziging)" >}}
+
+{{< form/input "Telefoonnummer (wijziging)" >}}
+
+{{< form/email "E-mailadres (login telefooncentrale) (wijziging)" >}}
+
+{{< form/input "KvK-nummer (wijziging)" >}}
+
+{{< form/input "BTW-nummer (wijziging)" >}}
+
+{{</ form/fieldset >}}
+
 {{< form/fieldset "Wijzigen factuurgegevens" >}}
 
 _Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgegevens invullen._
@@ -72,32 +98,6 @@ _Indien u uw factuurgegevens wilt wijzigen kunt u hieronder uw nieuwe factuurgeg
 {{< form/option "Post (ad €1,50 per maand)" >}}
 
 {{</ form/select >}}
-
-{{</ form/fieldset >}}
-
-{{< form/fieldset "Wijziging bedrijfsgegevens" >}}
-
-_Indien u uw bedrijfsgegevens wilt wijzigen, kunt u hieronder uw nieuwe klantgegevens invullen._
-
-{{< form/input "Bedrijfsnaam (wijziging)" >}}
-
-{{< form/select "Aanhef (wijziging)" >}}
-
-{{< form/option "Heer" >}}
-
-{{< form/option "Mevrouw" >}}
-
-{{</ form/select >}}
-
-{{< form/input "Contactpersoon (wijziging)" >}}
-
-{{< form/input "Telefoonnummer (wijziging)" >}}
-
-{{< form/email "E-mailadres (login telefooncentrale) (wijziging)" >}}
-
-{{< form/input "KvK-nummer (wijziging)" >}}
-
-{{< form/input "BTW-nummer (wijziging)" >}}
 
 {{</ form/fieldset >}}
 
