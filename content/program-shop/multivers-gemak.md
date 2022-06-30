@@ -2,7 +2,7 @@
 shorttitle: "Software Gemak (Unit4 Multivers)"
 title: "Wij koppelen jouw CRM Software Gemak (Unit4 Multivers) aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/unit4_rf2lkv.png"
+logo: "/gemak_xhpa4n.png"
 description: Door het koppelen van Software Gemak (Unit4 Multivers) CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
