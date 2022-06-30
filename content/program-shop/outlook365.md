@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM Outlook aan onze telefonie"
 shorttitle: "Office365 (+ Outlook)"
 date: 2021-06-03T16:52:17+05:00
-logo: "/office365_ri3hxa.png"
+logo: "/office365-new_it9zrb.png"
 description: Door het koppelen van Outlook CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
