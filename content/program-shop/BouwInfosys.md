@@ -17,7 +17,7 @@ categories:
   - Bouw
 weight: 10
 url: /marketplace/bouwInfosys/
-aliases: /program-shop/BbuwInfosys/
+aliases: /program-shop/bouwInfosys/
 headerside:
   title: Waarom integreren?
   list:
