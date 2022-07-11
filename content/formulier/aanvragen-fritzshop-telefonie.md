@@ -55,7 +55,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Huidige provider" >}}
 
-{{< form/input "Te porteren nummer" >}}
+{{< form/textarea "Te porteren nummers" >}}
 {{< form/input "Wensdatum portering" >}}
 
 _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren._
