@@ -42,15 +42,14 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag porteren telefoonnummer(s)" >}}
+{{< form/fieldset "Telefoonnummer aanvragen" >}}
 
-{{< form/radiogroup "Soort telefoonnummer" "inline" >}}
+{{< form/radiogroup "Nieuw nummer aanvragen of bestaand nummer overzetten?" "inline" >}}
 
-{{< form/radio "Los nummer" "Soort telefoonnummer" >}}
+{{< form/radio "Nieuw nummer aanvragen" "Nieuw nummer aanvragen of bestaand nummer overzetten?" >}}
 
-{{< form/radio "10-nummerblok" "Soort telefoonnummer" >}}
+{{< form/radio "Bestaand nummer overzetten (porteren)" "Nieuw nummer aanvragen of bestaand nummer overzetten?" >}}
 
-{{< form/radio "088-nummerblok" "Soort telefoonnummer" >}}
 
 {{</ form/radiogroup >}}
 
