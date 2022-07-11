@@ -17,7 +17,6 @@ categories:
   - Sales
   - Marketing
   - Klantcontact
-  - Nieuw
 weight: 10
 url: /marketplace/superoffice/
 aliases: /program-shop/superoffice/
