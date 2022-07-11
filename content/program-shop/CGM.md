@@ -15,8 +15,9 @@ button:
   link: /marketplace/
 categories:
   - Huisartsen
-  - Zorgverleners
+  - Medisch
   - Apotheken
+  - Zorg
 weight: 10
 url: /marketplace/cgm/
 aliases: /program-shop/cgm/
