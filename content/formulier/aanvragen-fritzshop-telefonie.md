@@ -42,11 +42,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Telefoonnummer aanvragen" >}}
 
-{{< form/radiogroup "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten?" "inline" >}}
+{{< form/radiogroup "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten" "inline" >}}
 
-{{< form/radio "Nieuw nummer aanvragen "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten?" >}}
+{{< form/radio "Nieuw nummer aanvragen "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten" >}}
 
-{{< form/radio "Bestaand nummer overzetten (porteren)" "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten?" >}}
+{{< form/radio "Bestaand nummer overzetten (porteren)" "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten" >}}
 
 {{</ form/radiogroup >}}
 
