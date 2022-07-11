@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
+  - Medisch
 weight: 10
 url: /marketplace/bytegear/
 aliases: /program-shop/bytegear/
