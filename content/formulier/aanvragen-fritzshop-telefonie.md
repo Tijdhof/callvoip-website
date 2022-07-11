@@ -128,73 +128,25 @@ Los telefoonummer
 
 {{< layout/column3 >}}
 
-10-nummerblok
+Licentie
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 20,00 excl. BTW
+€ 5,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 100,00 excl. BTW
+€ 5,00 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
 
 {{< layout/columns >}}
-
-{{< layout/column3 >}}
-
-088-nummerblok
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 30,00 excl. BTW
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 100,00 excl. BTW
-
-{{</ layout/column3 >}}
-
-{{</ layout/columns >}}
-
-
-
-
-
-
-{{< layout/columns >}}
-
-{{< layout/column3 >}}
-
-Internationaal nummer
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-v.a. € 6,00 excl. BTW
-
-{{</ layout/column3 >}}
-
-{{< layout/column3 >}}
-
-€ 25,00 excl. BTW
-
-{{</ layout/column3 >}}
-
-{{</ layout/columns >}}
-
 
 <br>
 
