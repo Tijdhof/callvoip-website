@@ -53,9 +53,13 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/radiogroup >}}
 
+{{</ form/fieldset >}}
+
+{{< form/fieldset "Indien u heeft gekozen voor Bestaand nummer overzetten (porteren)" >}}
+
 {{< form/input "Huidige provider" >}}
 
-{{< form/textarea "Te porteren nummers" >}}
+{{< form/input "Te porteren nummer" >}}
 {{< form/input "Wensdatum portering" >}}
 
 _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren._
