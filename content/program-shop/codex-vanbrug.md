@@ -80,6 +80,6 @@ En daarnaast: customized knoppen met: <br>
 • Actie-button (bv open URL of website, evt met parameter)<br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Codex CRM wordt gekoppeld met telefonie van Callvoip op basis van een CSV-koppeling.<br>
+Het softwarepakket Codex CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met Codex CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
