@@ -26,6 +26,10 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Contactpersoon" >}}
 
+{{< form/input "Postcode" >}}
+
+{{< form/input "Woonplaats" >}}
+
 {{< form/input "Telefoonnummer" >}}
 
 {{< form/email "Email" required >}}
@@ -36,15 +40,13 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag porteren telefoonnummer(s)" >}}
+{{< form/fieldset "Telefoonnummer aanvragen" >}}
 
-{{< form/radiogroup "Soort telefoonnummer" "inline" >}}
+{{< form/radiogroup "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten?" "inline" >}}
 
-{{< form/radio "Los nummer" "Soort telefoonnummer" >}}
+{{< form/radio "Nieuw nummer aanvragen "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten?" >}}
 
-{{< form/radio "10-nummerblok" "Soort telefoonnummer" >}}
-
-{{< form/radio "088-nummerblok" "Soort telefoonnummer" >}}
+{{< form/radio "Bestaand nummer overzetten (porteren)" "Wilt u een nieuw nummer aanvragen of een bestaand nummer overzetten?" >}}
 
 {{</ form/radiogroup >}}
 
