@@ -17,6 +17,7 @@ categories:
   - Tandarts
   - Integrated Popup
   - Meest populair
+  - Medisch
 weight: 1
 populair: true
 url: /marketplace/Exquise/
