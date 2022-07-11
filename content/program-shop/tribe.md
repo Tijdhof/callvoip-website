@@ -18,7 +18,6 @@ categories:
   - Klantcontact
   - Auto Call Log
 weight: 10
-new: false
 url: /marketplace/tribe/
 aliases: /program-shop/tribe/
 headerside:
