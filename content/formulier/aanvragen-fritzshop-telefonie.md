@@ -44,18 +44,18 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Telefoonnummer aanvragen" >}}
 
-{{< form/radiogroup "Nieuw nummer aanvragen of bestaand nummer overzetten?" "inline" >}}
+{{< form/radiogroup "Maak een keuze" "inline" >}}
 
-{{< form/radio "Nieuw nummer aanvragen" "Nieuw nummer aanvragen of bestaand nummer overzetten?" >}}
+{{< form/radio "Nieuw nummer aanvragen" "Maak een keuze" >}}
 
-{{< form/radio "Bestaand nummer overzetten (porteren)" "Nieuw nummer aanvragen of bestaand nummer overzetten?" >}}
+{{< form/radio "Bestaand nummer overzetten (porteren)" "Maak een keuze" >}}
 
 
 {{</ form/radiogroup >}}
 
 {{< form/input "Huidige provider" >}}
 
-{{< form/textarea "Te porteren nummers" >}}
+{{< form/input "Te porteren nummer" >}}
 {{< form/input "Wensdatum portering" >}}
 
 _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te porteren._
