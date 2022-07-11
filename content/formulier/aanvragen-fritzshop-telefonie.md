@@ -150,8 +150,6 @@ Licentie
 
 <br>
 
-**Let op**:<br>
-
-Neem voor de aanvraag contact op met de huidige provider om navraag te doen over eventuele contractuele verplichtingen. Zodra wij een nummer toevoegen kunt u ermee uitbellen; de facturatie van het nummer start ook vanaf dat moment. 
+<b>Let op:</b>Neem voor de aanvraag contact op met de huidige provider om navraag te doen over eventuele contractuele verplichtingen. Zodra wij een nummer toevoegen kunt u ermee uitbellen; de facturatie van het nummer start ook vanaf dat moment. 
 
 {{</ form >}}
