@@ -53,13 +53,6 @@ _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te portere
 
 {{< form/input "Opmerkingen" >}}
 
-{{</ form/fieldset >}}
-
-{{< form/fieldset "Indien u heeft gekozen voor: Nieuw nummer aanvragen" >}} {{< form/radiogroup "Soort telefoonnummer" "inline" >}} {{< form/radio "Regionaal" "Soort telefoonnummer" >}} {{< form/radio "Landelijk (085)" "Soort telefoonnummer" >}} {{</ form/radiogroup >}} {{< form/input "Netnummer"   >}} {{< form/radiogroup "Wilt u een premium (mooi) nummer?" "inline" >}} {{< form/radio "Nee, ik wil geen premium nummer" "Wilt u een premium (mooi) nummer?" >}} {{< form/radio "Ja, ik wil een premium nummer" "Wilt u een premium (mooi) nummer?" >}} _De toeslag is € 50,00 excl. BTW._
-{{</ form/radiogroup >}}
-{{< form/input "Opmerkingen"  >}}
-{{</ form/fieldset >}}
-
 
 {{< form/button "Verstuur formulier" >}}
 
