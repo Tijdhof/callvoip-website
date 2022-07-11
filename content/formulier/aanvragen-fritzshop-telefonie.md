@@ -1,5 +1,5 @@
 ---
-title: FritzShop Telefonie aanvragen
+title: FritzShop Telefonie portering aanvragen
 url: "/aanvragen/fritzshop-telefonie/"
 hideinsearch: false
 hideingoogle: false
@@ -36,26 +36,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/email "Email" required >}}
 
-{{< form/input "KvK-nummer" required >}}
-
 {{< form/input "IBAN-nummer" required >}}
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Telefoonnummer aanvragen" >}}
-
-{{< form/radiogroup "Maak een keuze" "inline" >}}
-
-{{< form/radio "Nieuw nummer aanvragen" "Maak een keuze" >}}
-
-{{< form/radio "Bestaand nummer overzetten (porteren)" "Maak een keuze" >}}
-
-
-{{</ form/radiogroup >}}
-
-{{</ form/fieldset >}}
-
-{{< form/fieldset "Indien u heeft gekozen voor: Bestaand nummer overzetten (porteren)" >}}
+{{< form/fieldset "Bestaand nummer overzetten (porteren)" >}}
 
 {{< form/input "Huidige provider" >}}
 
