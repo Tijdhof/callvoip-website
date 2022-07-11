@@ -66,7 +66,7 @@ _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te portere
 
 {{< form/fileupload "Kopie telefoonnota" >}}
 
-{{< form/textarea "Opmerkingen" >}}
+{{< form/input "Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
