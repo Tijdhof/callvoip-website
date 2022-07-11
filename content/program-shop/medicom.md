@@ -13,9 +13,10 @@ button:
   link: /marketplace/
 categories:
   - Huisartsen
-  - Zorgverleners
+  - Zorg
   - Auto Call Log
   - Integrated Popup
+  - Medisch
 weight: 10
 url: /marketplace/medicom/
 aliases: /program-shop/medicom/
