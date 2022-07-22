@@ -10,7 +10,7 @@ blocks:
     mooier uitziet en daardoor makkelijker te onthouden is en er natuurlijk gewoon
     goed uitziet op jouw website en visitekaartjes.'
   image: "/v1600956804/mapje_l2znsw.png"
-  zooming: true
+  zooming: false
   position: image_left
   title: <div id="premium">Regionaal, 085 landelijk en Premium nummers</div>
   image_position: center
