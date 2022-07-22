@@ -1,5 +1,5 @@
 ---
-shorttitle: "Lime CRM"
+shorttitle: "Lime"
 title: "Wij koppelen jouw Lime CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/lime_hocejc.png"
