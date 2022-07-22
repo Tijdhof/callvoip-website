@@ -8,13 +8,14 @@ shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
     url: /ondersteuning/
+ontwikkelaar:
+  - title: Via API
 button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
   - Klantcontact
 weight: 10
-new: false
 url: /marketplace/Lime/
 aliases: /program-shop/Lime/
 headerside:
