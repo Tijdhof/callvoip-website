@@ -12,7 +12,7 @@ blocks:
   image: "/v1600956804/mapje_l2znsw.png"
   zooming: true
   position: image_left
-  title: <div id="#premium">Regionaal, 085 landelijk en Premium nummers</div>
+  title: <div id="premium">Regionaal, 085 landelijk en Premium nummers</div>
   image_position: center
 title: Alles over Nederlandse nummers | service nummers | regionaal
 url: telefonie/nederlandse-nummers/
