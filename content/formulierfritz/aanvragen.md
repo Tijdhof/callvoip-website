@@ -1,9 +1,9 @@
 ---
-title: "FritzShop Telefonie nieuw nummer aanvragen!"
+title: ""
 date: 2021-10-12T21:05:12+05:00
 url: /fritzaanvraag/
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 
   
 ---
