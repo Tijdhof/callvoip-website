@@ -55,6 +55,7 @@ _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te portere
 
 {{< form/input "Opmerkingen" >}}
 
+{{< form/checkbox "Algemene voorwaarden" required >}}
 
 {{< form/button "Verstuur formulier" >}}
 
