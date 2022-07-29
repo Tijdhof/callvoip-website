@@ -49,8 +49,10 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{</ form/fieldset >}}
 
 
+{{< form/checkbox "Ik ga akkoord met de algemene voorwaarden*" required >}}
+<br>
 {{< form/button "Verstuur formulier" >}}
-
+<br><a href="https://www.callvoip.nl/voorwaarden/" target="_blank">*Algemene voorwaarden</a>
 <br><br>
 
 {{< layout/columns >}}
