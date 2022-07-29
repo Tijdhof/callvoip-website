@@ -55,10 +55,10 @@ _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te portere
 
 {{< form/input "Opmerkingen" >}}
 
-{{< form/checkbox "Algemene voorwaarden" required >}}
-
+{{< form/checkbox "Ik ga akkoord met de algemene voorwaarden*" required >}}
+<br>
 {{< form/button "Verstuur formulier" >}}
-
+<a href="https://www.callvoip.nl/voorwaarden/">*Algemene voorwaarden</a>
 <br><br>
 
 {{< layout/columns >}}
