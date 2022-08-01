@@ -40,7 +40,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "IBAN-nummer" required >}}
 
-{{< form/checkbox "Ja, ik ga akkoord met automatische incasso*" required >}}
+{{< form/checkbox "Ja, ik ga akkoord met automatische incasso*" "agree to terms" true >}}
 
 {{</ form/fieldset >}}
 
