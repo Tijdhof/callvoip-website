@@ -1,5 +1,6 @@
 {{ $name := default "Provide input name" (.Get 0) }}
 {{ $group := default "group" (.Get 1) }}
+{{ $required := (.Get 2) }}
 
 <div class=" mr-4 ">
 <label for="{{ $name | urlize }}" class="blockcursor-pointer">
@@ -8,6 +9,7 @@
   id="{{ $name | urlize }}"
   value="{{ $name | urlize }}"
   name="{{ $group | urlize }}"
+  {{if $required}}required{{end}}
   class="">
   {{ $name }}
 </label>
