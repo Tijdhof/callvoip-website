@@ -57,7 +57,7 @@ _Wij hebben een kopie van uw telefoonnota nodig om de telefoonnummers te portere
 
 {{< form/input "Opmerkingen" >}}
 
-{{< form/checkbox "Ik ga akkoord met de algemene voorwaarden*" required >}}
+{{< form/checkbox "Ik ga akkoord met de algemene voorwaarden*" "agree to terms" true >}}
 <br>
 {{< form/button "Verstuur formulier" >}}
 <br><a href="https://www.callvoip.nl/voorwaarden/" target="_blank">*Algemene voorwaarden</a>
