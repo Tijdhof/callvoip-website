@@ -10,7 +10,7 @@ hideingoogle: true
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
-{{< form "aanvragen-fritzshoptelefonie" "/aanvragen/verzonden" >}}  
+{{< form "aanvragen-fritzshoptelefonie-porteren" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
 {{< form/to "aanvragen">}}
 
@@ -39,6 +39,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/email "Email" required >}}
 
 {{< form/input "IBAN-nummer" required >}}
+
+{{< form/checkbox "Ja, ik ga akkoord met automatische incasso*" required >}}
 
 {{</ form/fieldset >}}
 
