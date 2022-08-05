@@ -32,7 +32,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Slim Telefoonboek
-  content1: Heb je een bedrijfstelefoonboek, bv in Google, Microsoft, Zendesk of Exact? Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de klantgegevens bij inkomende en uitgaande telefoontjes in <b>Webcalls, Qaller, Vamos</b> én op jouw <b>vaste toestel</b>.<br><br><a hrerf="https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/" class="button">Meer over Slim Telefoonboek</a>
+  content1: Heb je een bedrijfstelefoonboek, bv in Google, Microsoft, Zendesk of Exact? Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de klantgegevens bij inkomende en uitgaande telefoontjes in <b>Webcalls, Qaller, Vamos</b> én op jouw <b>vaste toestel</b>.<br><br><a hrerf="https://www.callvoip.nl/telefonie/slim-telefoonboek" class="button">Meer over Slim Telefoonboek</a>
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png" width="400px" style="margin-left:90px">
   show_vshape: false
@@ -54,7 +54,7 @@ textblocks:
     voor je Yealink. Allemaal standaard, zonder meerprijs!<br><br><a href="/telefonie/clicktodial/"
     class="button">Meer informatie</a>
   title2: 'Wat is dat: Slim Telefoonboek?'
-  content2: Het Slimme Telefoonboek zorgt dat je de gegevens uit je bestaande bedrijfstelefoonboek of CRM systeem gemakkelijk kunt koppelen aan Webcalls, Qaller, Vamos en je vaste telefoontoestel<br><br><a href="https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/"
+  content2: Het Slimme Telefoonboek zorgt dat je de gegevens uit je bestaande bedrijfstelefoonboek of CRM systeem gemakkelijk kunt koppelen aan Webcalls, Qaller, Vamos en je vaste telefoontoestel<br><br><a href="https://www.callvoip.nl/telefonie/slim-telefoonboek"
     class="button">Meer informatie</a>
   title3: 'Wat is dat: CRM integratie?'
   content3: Jouw CRM koppelen met onze centrale? Dat kan met onze VoIP CTI oplossingen.
