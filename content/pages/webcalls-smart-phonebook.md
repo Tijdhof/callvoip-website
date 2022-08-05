@@ -5,7 +5,7 @@ description: Callvoip levert slimme oplossingen voor thuiswerkers. Zo ben je ove
 type: page
 layout: default2
 logos: false
-url: telefonie/slim-telefoonboek/
+url: 'telefonie/slim-telefoonboek/'
 hero:
   title: Slim Telefoonboek
   content: 'Heb je een bedrijfstelefoonboek, bv in Google, Microsoft, Zendesk of Exact? Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de klantgegevens bij inkomende en uitgaande telefoontjes in <b>Webcalls, Qaller, Vamos</b> én op jouw <b>vaste toestel</b>.'
@@ -18,7 +18,7 @@ blocks:
   image: "/v1615191642/webcalls_yealink2_vu4ukt.png"
   zooming: true
   position: image_left
-  title: Wat is dat: Slim Telefoonboek?
+  title: 'Wat is dat: Slim Telefoonboek?'
   image_position: center
 textblocksfooter:
 - title1: 'Wat is dat: Webcalls?'
