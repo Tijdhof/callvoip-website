@@ -38,7 +38,7 @@ textblocksfooter:
   show_vshape: false
 textblocksfooter2:
 - title1: ''
-  content1: '<iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1&" width="520" height="325" volume="0" allowfullscreen></iframe>'
+  content1: '<iframe width="560" height="315" src="https://www.youtube.com/embed/4bVIvLQFzrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   title2: 'Customized popups en bubbles'
   content2: 'Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
 Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
