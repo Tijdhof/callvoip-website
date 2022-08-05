@@ -46,8 +46,8 @@ textblocksfooter:
 textblocksfooter2:
 - title1: ''
   content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png" width="400px" style="margin-left:90px">'
-  title2: 'Webcalls slimme phonebook'
-  content2: 'Koppel gemakkelijk jou CRM aan onze webcalls! De contacten uit je CRM worden automatisch vertoond als je gebeld wordt, dit noemen wij onze slimme phonebook!<br><br><a hrerf="https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/" class="button">Lees meer over webcalls</a>'
+  title2: 'Slim Telefoonboek'
+  content2: 'Heb je een bedrijfstelefoonboek, bv in Google, Microsoft, Zendesk of Exact? Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de klantgegevens bij inkomende en uitgaande telefoontjes in <b>Webcalls, Qaller, Vamos</b> én op jouw <b>vaste toestel</b>.<br><br><a hrerf="https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/" class="button">Meer over Slim Telefoonboek</a>'
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
