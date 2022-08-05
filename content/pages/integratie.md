@@ -44,8 +44,8 @@ textblocksfooter:
     width="520" height="325" volume="0" allowfullscreen></iframe>
   show_vshape: false
 textblocksfooter2:
-- title1: ''
-  content1: ''
+- title1: 'Webcalls Smart Phonebook'
+  content1: 'Koppel je webcalls met crm, haal je contacten uit je crm.'
   title2: ''
   content2: ''
   show_vshape: false
