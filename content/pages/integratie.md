@@ -45,9 +45,9 @@ textblocksfooter:
   show_vshape: false
 textblocksfooter2:
 - title1: ''
-  content1: ''
-  title2: ''
-  content2: ''
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png">'
+  title2: 'Webcalls slimme phonebook'
+  content2: 'Koppel gemakkelijk jou CRM aan onze webcalls! De contacten uit je CRM worden automatisch vertoond als je gebeld wordt, dit noemen wij onze slimme phonebook!<br><br><a hrerf="https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/">Lees meer over webcalls</a>'
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
