@@ -45,7 +45,7 @@ Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
 zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
 bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
 naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
-na een dag niet meer zonder!<br><br><a href="/ondersteuning/integraties/redcactus/" class="button">Lees meer over de slimme pop-up Bubble</a>'
+na een dag niet meer zonder!<br><br><a href="/ondersteuning/integraties/redcactus/" class="button">Alle functies van Bubble</a>'
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
