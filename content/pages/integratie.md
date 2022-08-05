@@ -38,9 +38,14 @@ textblocksfooter:
   show_vshape: false
 textblocksfooter2:
 - title1: ''
-  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png" width="400px" style="margin-left:90px">'
-  title2: 'Slim Telefoonboek'
-  content2: 'Heb je een bedrijfstelefoonboek, bv in Google, Microsoft, Zendesk of Exact? Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de klantgegevens bij inkomende en uitgaande telefoontjes in <b>Webcalls, Qaller, Vamos</b> én op jouw <b>vaste toestel</b>.<br><br><a hrerf="https://www.callvoip.nl/telefonie/functionaliteiten/webcalls/" class="button">Meer over Slim Telefoonboek</a>'
+  content1: '<iframe src="https://redcactus.nl/wp-content/uploads/2021/02/Bubble-algemeen-v2.mp4?_=1&" width="520" height="325" volume="0" allowfullscreen></iframe>'
+  title2: 'Customized popups en bubbles'
+  content2: 'Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
+Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
+zie je met welke collega de beller voor het laatst sprak en wanneer en kun je
+bepalen waar de notificatie in je scherm verschijnt! En uiteraard is er de doorklik
+naar de juiste pagina in jouw klantsysteem! Als je dit eenmaal ervaart wil je
+na een dag niet meer zonder!<br><br><a href="/ondersteuning/integraties/redcactus/" class="button">Lees meer over de slimme pop-up Bubble</a>'
   show_vshape: false
 textblocks:
 - title1: 'Wat is dat: Click-to-Dial?'
