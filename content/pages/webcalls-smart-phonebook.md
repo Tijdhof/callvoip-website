@@ -9,7 +9,7 @@ url: 'telefonie/slim-telefoonboek/'
 hero:
   title: Slim Telefoonboek
   content: 'Heb je een bedrijfstelefoonboek, bv in Google, Microsoft, Zendesk of Exact? Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de klantgegevens bij inkomende en uitgaande telefoontjes in <b>Webcalls, Qaller, Vamos</b> én op jouw <b>vaste toestel</b>.'
-  image: "/v1614959368/webcalls-phonebook-1_efz4eo.png"
+  image: "/v1614959368/filter-new_awsocv.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
