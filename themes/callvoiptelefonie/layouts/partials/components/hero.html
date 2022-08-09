@@ -4,10 +4,10 @@
 {{$mobile := .Params.hero.mobile}}
 {{ $showContent := .Params.hero.showContent }}
 {{ $heroContent := .Params.hero.content }}
-              {{ $zoom := "" }}
-              {{if eq .zooming true}}
-              {{ $zoom = "zoom" }}
-              {{end}}
+{{ $zoom := "" }}
+{{if eq .zooming true}}
+{{ $zoom = "zoom" }}
+{{end}}
 
 
 {{ with .Params.hero.image}}
