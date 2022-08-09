@@ -5,6 +5,10 @@
 {{ $showContent := .Params.hero.showContent }}
 {{ $heroContent := .Params.hero.content }}
 
+              {{ $zoom := "" }}
+              {{if eq .zooming true}}
+              {{ $zoom = "zoom" }}
+              {{end}}
 
 {{ with .Params.hero.image}}
 
@@ -15,10 +19,10 @@
     <a href="{{$link}}">
     {{ end}}
     {{ if $mobile }}
-  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{$mobile}}" class="h-full w-full cld-responsive block md:hidden" style="object-fit: cover;" alt="{{$title}}" />
-  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive hidden md:block" style="object-fit: cover;" alt="{{$title}}" />
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{$mobile}}" class="h-full w-full cld-responsive block md:hidden {{$zoom}}" style="object-fit: cover;" alt="{{$title}}" />
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive hidden md:block {{$zoom}}" style="object-fit: cover;" alt="{{$title}}" />
   {{ else }}
-  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive " style="object-fit: cover;" alt="{{$title}}" />
+  <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{.}}" class="h-full w-full cld-responsive {{$zoom}}" style="object-fit: cover;" alt="{{$title}}" />
       {{ end }}
   {{ if $link }}
       </a>
