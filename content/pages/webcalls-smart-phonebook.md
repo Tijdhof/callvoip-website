@@ -26,6 +26,12 @@ textblocksfooter:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/3-contacten2_yl2jxg.png" width="600px" style="margin-left:90px">
   show_vshape: false
+textblocksfooter2:
+- title1: ''
+  content1: ''
+  title2: ''
+  content2: ''
+  show_vshape: false  
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
