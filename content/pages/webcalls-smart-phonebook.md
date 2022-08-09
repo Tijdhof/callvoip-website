@@ -20,6 +20,12 @@ blocks:
   position: image_left
   title: 'Wat is dat: Slim Telefoonboek?'
   image_position: center
+textblocksfooter:
+- title1: Slim Telefoonboek
+  content1: Heb je een bedrijfstelefoonboek, bv in Google, Microsoft, Zendesk of Exact? Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de klantgegevens bij inkomende en uitgaande telefoontjes in <b>Webcalls, Qaller, Vamos</b> én op jouw <b>vaste toestel</b>.<br><br><a href="https://www.callvoip.nl/telefonie/slim-telefoonboek" class="button">Meer over Slim Telefoonboek</a>
+  title2: ''
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/webcalls-phonebook-2_owj6qb.png" width="400px" style="margin-left:90px">
+  show_vshape: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
