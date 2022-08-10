@@ -8,7 +8,7 @@ logos: false
 url: 'telefonie/slim-telefoonboek/'
 hero:
   title: Slim Telefoonboek
-  content: 'Verzamel jij jouw relaties in een systeem zoals: <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot</b?
+  content: 'Verzamel jij jouw relaties in een systeem zoals: <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot?</b>
 Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Je ziet dan de naam van de beller bij inkomende en uitgaande telefoontjes op je computer,, op je smarpthone én op jouw vaste toestel.<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   image: "w_600/v1614959368/arrows-smart_qounwg.png"
   zooming: true
