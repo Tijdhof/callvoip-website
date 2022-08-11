@@ -22,7 +22,7 @@ blocks:
     Chrome) en speakers + microfoon om te horen en te praten. Het is niet nodig om software te installeren, en dus zijn driverproblemen
     ook verleden tijd. Zet Webcalls met één klik aan op de telefooncentrale, log in en je kunt binnen 1 minuut aan de slag!<BR><BR>
     <a target="_blank" href="https://www.callvoip.nl/ondersteuning/extra-features/handleiding-web-calls/" class="button">Hoe werkt het?</a>
-  image: "/v1572861318/webcalls_ejtcdu.png"
+  image: "/v1572861318/image_44_jdhn94.png"
   position: image_left
   title: Webcalls – wat is er nodig?
   image_position: center
