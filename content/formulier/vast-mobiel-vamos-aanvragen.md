@@ -268,6 +268,7 @@ Onbeperkt bellen EU + 10GB data
 
 {{</ layout/columns >}}
 
+<br><br>  
 **Let op:**
 
 * Vamos heeft een opzegtermijn van een kalendermaand (dus: per einde van een hele maand).
