@@ -1,6 +1,9 @@
 ---
 title: Vast Mobiel (Vamos) aanvragen
 url: "/aanvragen/vamos/"
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: false
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
@@ -166,6 +169,10 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< layout/column3 >}}
 
 **Tariefoverzicht**
+
+Let op: 
+
+* Vamos heeft een opzegtermijn van een kalendermaand (dus: per einde van een hele maand). 
 
 {{</ layout/column3 >}}
 
