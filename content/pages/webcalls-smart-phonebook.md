@@ -13,7 +13,7 @@ Dan hebben wij goed nieuws! Koppel deze dan met een snelle handeling aan de Call
 &middot;  op je computer<br>
 &middot;  op je smartphone<br>
 &middot;  én op jouw vaste toestel.<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
-  image: "w_600/v1614959368/highlights_h2ckhw.png"
+  image: "/v1614959368/highlights_rernmy.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
