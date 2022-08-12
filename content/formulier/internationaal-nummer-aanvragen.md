@@ -145,8 +145,6 @@ v.a. € 18,00 excl. BTW
 
 **Let op**:
 
-<br>
-
 – Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.  
 Een opslagtarief dat over inkomende gesprekken wordt berekend. Na uw aanvraag laten wij u weten wat deze Call Cost per minute is voor het nummer van uw bestemming.
 
