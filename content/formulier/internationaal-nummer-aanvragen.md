@@ -3,6 +3,7 @@ title: Internationaal nummer aanvragen
 url: "/aanvragen/internationaal-nummer/"
 hideinsearch: false
 hideingoogle: false
+hidesocialshare: false
 
 ---
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
@@ -146,16 +147,13 @@ v.a. € 18,00 excl. BTW
 
 <br>
 
-– Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.
-
+– Voor veel buitenlandse bestemmingen geldt een Call Cost per minute.  
 Een opslagtarief dat over inkomende gesprekken wordt berekend. Na uw aanvraag laten wij u weten wat deze Call Cost per minute is voor het nummer van uw bestemming.
 
-– Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.
+– Het is niet mogelijk om buitenlandse nummers mee te sturen als uitgaand nummer.  
+Dit is wél mogelijk voor Belgische, Duitse, Franse, Zweedse, Deense en Zwitserse nummers.
 
-Dit is wél mogelijk voor Belgische en Duitse nummers.
-
-– Buitenlandse nummers en servicenummers hebben een initiële looptijd van een jaar.
-
+– Buitenlandse nummers hebben een initiële looptijd van een jaar en een opzegtermijn van één kalendermaand.  
 Dit in tegenstelling tot de reguliere Nederlandse nummers die ook binnen het eerste jaar een opzegtermijn van één maand hebben.
 
 {{</ form >}}
