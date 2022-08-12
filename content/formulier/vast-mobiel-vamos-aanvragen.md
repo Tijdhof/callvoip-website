@@ -170,10 +170,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 **Tariefoverzicht**
 
-Let op: 
-
-* Vamos heeft een opzegtermijn van een kalendermaand (dus: per einde van een hele maand). 
-
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -271,5 +267,9 @@ Onbeperkt bellen EU + 10GB data
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
+
+**Let op:**
+
+* Vamos heeft een opzegtermijn van een kalendermaand (dus: per einde van een hele maand).
 
 {{</ form >}}
