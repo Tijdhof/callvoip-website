@@ -28,7 +28,7 @@ textblocksfooter:
 - title1: 'Tip: Informatie-popup'
   content1: Klik op een contact in de lijst voor een handige informatie-popup met nummers en emailadres.
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/3-contacten2_pleras.png" width="510px" style="margin-left:90px">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/side-tabs_x25k8c.png" width="510px">
   show_vshape: false
 textblocksfooter2:
 - title1: ''
