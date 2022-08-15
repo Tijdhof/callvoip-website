@@ -1,7 +1,6 @@
 ---
 title: Alles over ons slim Telefoonboek
-description: Callvoip levert slimme oplossingen voor thuiswerkers. Zo ben je overal
-  bereikbaar zoals jij dat wilt
+description: Callvoip levert slimme oplossingen voor thuiswerkers. Zo ben je overal bereikbaar zoals jij dat wilt
 type: page
 layout: default2
 logos: false
@@ -29,7 +28,7 @@ Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhou
 
   image_position: center
 textblocksfooter:
-- title1: 'Tip: Informatie-popup'
+- title1: 'Slimme contact informatie popup'
   content1: Klik op een contact in de lijst voor een handige informatie-popup met nummers en emailadres.
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/side-tabs_sg1c9q.png" width="490px">
