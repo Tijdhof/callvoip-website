@@ -11,7 +11,7 @@ hero:
 Goed nieuws! Je kunt deze pakketten koppelen aan jouw Callvoip omgeving. Je ziet de naam van de beller bij inkomende en uitgaande telefoontjes:<br>
 &middot;  ...op je computer<br>
 &middot;  ...op je smartphone<br>
-&middot;  ...én op jouw vaste toestel.<br>
+&middot;  ...én op jouw vaste toestel.<br>.
 <br>
 Slim gereegeld toch?<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   image: "/v1614959368/highlights_rernmy.png"
