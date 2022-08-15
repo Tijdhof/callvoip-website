@@ -20,7 +20,12 @@ Slim gereegeld toch?<br><br><a href="/contact" class="button">Meer informatie? N
   disable_image_on_mobile: false
 blocks:
   title: 'Wat is dat: Slim Telefoonboek?'
-  content: 'Met het Slimme Telefoonboek kun je de contactgegevens uit jouw klantsysteem of CRM systeem gemakkelijk koppelen aan bellen via Callvoip, op alle manieren. Je ziet de naam van de beller in je scherm, in de oproeplijst en zelfs in de emailnotificatie! En: je kunt uitbellen door op de naam van een relatie te zoeken. <br>
+  content: 'Met het Slimme Telefoonboek koppel je jouw klantsysteem/CRM aan bellen via Callvoip, op alle manieren:<br>
+- je ziet de naam van de beller in je scherm<br>
+- in de oproeplijst en gespreksregels<br> 
+- in je adresboek op PC en in de apps<br>
+- en zelfs in de emailnotificatie! <br>
+<br>En: je kunt uitbellen door op de naam van een relatie te zoeken. <br>
 Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
   image: "/v1615191642/webcalls-phonebook-2_kz7ctd.png"
   zooming: true
