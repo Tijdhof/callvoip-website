@@ -12,7 +12,8 @@ hero:
 Dan hebben wij goed nieuws! Koppel deze dan met een snelle handeling aan de Callvoip-centrale. Het resultaat: je ziet de naam van de beller bij inkomende en uitgaande telefoontjes:<br>
 &middot;  op je computer<br>
 &middot;  op je smartphone<br>
-&middot;  én op jouw vaste toestel.<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
+&middot;  én op jouw vaste toestel.<br>
+Zo is ons UC Panel steeds slimmer om jou optimaal van dienst te zijn!<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   image: "/v1614959368/highlights_rernmy.png"
   zooming: true
   image_position: center
