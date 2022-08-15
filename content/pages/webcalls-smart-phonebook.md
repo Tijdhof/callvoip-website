@@ -19,11 +19,12 @@ Zo is ons UC Panel steeds slimmer om jou optimaal van dienst te zijn!<br><br><a 
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Het Slimme Telefoonboek zorgt dat je de gegevens uit je bestaande bedrijfstelefoonboek of CRM systeem gemakkelijk kunt koppelen aan Webcalls, Qaller, Vamos en je vaste telefoontoestel<br><br><a href="#" class="button">Meer informatie</a>'
+-   title: 'Wat is dat: Slim Telefoonboek?'
+-   content: 'Het Slimme Telefoonboek zorgt dat je de gegevens uit je bestaande bedrijfstelefoonboek of CRM systeem gemakkelijk kunt koppelen aan Webcalls, Qaller, Vamos en je vaste telefoontoestel<br><br><a href="#" class="button">Meer informatie</a>'
   image: "/v1615191642/webcalls-phonebook-2_kz7ctd.png"
   zooming: true
   position: image_left
-  title: 'Wat is dat: Slim Telefoonboek?'
+
   image_position: center
 textblocksfooter:
 - title1: 'Tip: Informatie-popup'
