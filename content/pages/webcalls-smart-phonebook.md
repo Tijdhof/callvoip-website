@@ -14,7 +14,7 @@ Goed nieuws! Je kunt deze pakketten koppelen aan jouw Callvoip omgeving. Je ziet
 &middot;  ...én op jouw vaste toestel.<br>
 <br>
 Slim gereegeld toch?<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
-  image: "w_600/v1614959368/Screen_avbpcf.png"
+  image: "/v1614959368/3screens_zpgweg.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
