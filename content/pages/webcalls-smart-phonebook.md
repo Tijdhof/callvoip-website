@@ -33,9 +33,15 @@ textblocksfooter:
 
 textblocksfooter2:
 - title1: ''
-  content1: ''
-  title2: ''
-  content2: ''
+  content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/Screen_bmgoow.png" width="600px">'
+  title2: 'Slim Telefoonboek'
+  content2: 'Gebruik jij <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot?</b><br>
+Goed nieuws! Je kunt deze pakketten koppelen aan jouw Callvoip omgeving. Je ziet de naam van de beller bij inkomende en uitgaande telefoontjes:<br>
+&middot;  ...op je computer<br>
+&middot;  ...op je smartphone<br>
+&middot;  ...én op jouw vaste toestel.<br>
+<br>
+Slim gereegeld toch?<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   show_vshape: false  
 hideinsearch: false
 hideingoogle: false
