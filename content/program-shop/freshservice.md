@@ -77,7 +77,8 @@ Je kunt dan de klantgegevens uit Freshservice gebruiken, denk hierbij aan gegeve
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
-• Open klant in Freshservice <br>
+• Open klant-ticket in Freshservice <br>
+• Open de Requister<br>
 <br>
 En daarnaast: customized knoppen met: <br>
 • Kopie-functie (bv telefoonnummer of parameter)<br>
