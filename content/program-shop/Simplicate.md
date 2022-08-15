@@ -2,7 +2,7 @@
 shorttitle: "Simplicate"
 title: "Wij koppelen jouw CRM Simplicate aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/simplicate_wvzjue.png"
+logo: "/simplicate_ekctx4.png"
 description: Door het koppelen van Simplicate CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
