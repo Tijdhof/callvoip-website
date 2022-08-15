@@ -20,7 +20,7 @@ Zo is ons UC Panel steeds slimmer om jou optimaal van dienst te zijn!<br><br><a 
   disable_image_on_mobile: false
 blocks:
 -   title: 'Wat is dat: Slim Telefoonboek?'
--   content: 'Met het Slimme Telefoonboek kun je de contactgegevens uit jouw klantsysteem of CRM systeem gemakkelijk koppelen aan bellen via Callvoipp, op alle manieren. Je ziet de naam van de beller in je scherm, in de oproeplijst en zelfs in de emailnotificatie! En: je kunt uitbellen door op de naam van een relatie te zoeken. <br>
+  content: 'Met het Slimme Telefoonboek kun je de contactgegevens uit jouw klantsysteem of CRM systeem gemakkelijk koppelen aan bellen via Callvoipp, op alle manieren. Je ziet de naam van de beller in je scherm, in de oproeplijst en zelfs in de emailnotificatie! En: je kunt uitbellen door op de naam van een relatie te zoeken. <br>
 Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
   image: "/v1615191642/webcalls-phonebook-2_kz7ctd.png"
   zooming: true
