@@ -7,18 +7,14 @@ logos: false
 url: 'telefonie/slim-telefoonboek/'
 hero:
   title: Slim Telefoonboek
-  content: 'Goed nieuws! Heb je een <b>klantsysteem</b> met daarin al jouw relaties? Koppel het aan Callvoip en bellen wordt nóg eenvoudiger en persoonlijker. <b>Hoe jij ook belt</b>, met de computer, smartphone of je toestel, je ziet de naam van je relatie. Deze is ook zichtbaar in:<br>
-&middot;  ...in de gesprekshistorie en oproeplijst<br>
-&middot;  ...in je Callvoip adresboek<br>
-&middot;  ...en zelfs in de emailnotificatie<br>
-<br>
-Zoek de naam van je relatie op en je kunt hem gelijk bellen, nummer intoetsen is niet meer nodig. Bellen doe je voortaan op naam, en niet meer op nummer. <br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
+  content: 'Goed nieuws! Heb je een <b>klantsysteem</b> met daarin al jouw relaties? Koppel deze aan Callvoip en bellen wordt nóg eenvoudiger en persoonlijker. <b>Hoe jij ook belt</b>, met de computer, smartphone of je toestel, je ziet de naam van je relatie. Ook in je adresboek, de belhistorie, oproeplijst en in de emailnotificatie. En ook uitbellen doe je voortaan op naam, een nummer is niet meer nodig. <br>
+<br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   image: "/v1614959368/3screens_zpgweg.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Met het Slimme Telefoonboek koppel je <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot</b><br> aan Callvoip. En: je kunt uitbellen door op de naam van een relatie te zoeken.<br>Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
+- content: 'Met het Slimme Telefoonboek koppel je <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot</b> aan Callvoip. En: je kunt uitbellen door op de naam van een relatie te zoeken.<br>Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
   title: 'Wat is dat: Slim Telefoonboek?'  
   image: "/v1615191642/webcalls-phonebook-2_kz7ctd.png"
   position: image_left
