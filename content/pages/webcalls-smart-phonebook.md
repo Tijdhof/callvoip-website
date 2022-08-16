@@ -23,7 +23,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: "Handig: popup met alle contactgegevens"
-  content1: "Het dashboard van Webcalls, onze computer-bel-oplossing, biedt nu nog meer informatie. <br>Nieuw is het<b> filter om zelf te kiezen welke contacten</b> je in jouw telefoonboek wilt zien. Bijvoorbeeld je collega's en de relaties uit jouw gekoppelde klantsysteem. <br>De <b>beschikbaarheid</b> van jouw collega's <b>(beschikbaar, rinkelt, in gesprek)</b> wordt getoond in woord en kleur (groen, oranje, rood). Klik op een contact voor een handige popup met alle contact-details; klik en bel het juiste nummer of stuur een email. <br>Ook bij relaties uit jouw klantsysteem krijg je zo'n <b>popup met contact-details</b>. <br> Hoe makkelijker jouw systemen werken, hoe meer tijd je over hebt voor de dingen die écht belangrijk zijn."
+  content1: "Het dashboard van Webcalls, onze computer-bel-oplossing, biedt nu nog meer informatie. <br>Nieuw is het <b>filter</b> om zelf te kiezen welke contacten er in jouw telefoonboek staan. Bijvoorbeeld je <b>collega's</b> en de relaties uit jouw gekoppelde <b>klantsysteem</b>. <br>De <b>beschikbaarheid</b> van jouw collega's (beschikbaar, rinkelt, in gesprek) wordt getoond in woord en kleur (groen, oranje, rood). Klik op een contact voor een <b>handige popup met alle contact-details</b>; klik en bel het juiste nummer of stuur een email. <br>Ook bij relaties uit jouw klantsysteem krijg je zo'n popup met contact-details. <br>Hoe makkelijker jouw systemen werken, hoe meer tijd je over hebt voor de dingen die écht belangrijk zijn."
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/side-tabs_sg1c9q.png" width="490px">'
   show_vshape: false
