@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM Yellow Yard aan onze telefonie"
 shorttitle: "Yellow Yard"
 date: 2021-06-03T16:52:17+05:00
-logo: "/dynamics365business_kudvp1.png"
+logo: "/yellowyard_r0ik63.png"
 description: Door het koppelen van Yellow Yard CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
