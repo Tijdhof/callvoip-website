@@ -5,11 +5,14 @@ type: page
 layout: default2
 logos: false
 url: 'telefonie/slim-telefoonboek/'
+show_vshape: false  
+hideinsearch: false
+hideingoogle: false
+hidesocialshare: true
 hero:
-  title: Slim Telefoonboek
+  title: 'Slim Telefoonboek'
   content: 'Goed nieuws! Heb je een <b>klantsysteem</b> met daarin al jouw relaties? <b>Koppel jouw klantsysteem aan Callvoip</b> en bellen wordt nóg eenvoudiger en persoonlijker. <br><b>Hoe jij ook belt</b>, met de computer, smartphone of je toestel, je ziet de naam van je relatie. Oók in je adresboek, de belhistorie, oproeplijst en in de emailnotificatie. Bel je met Webcalls, dan kun je met één klik de klant in jouw klantsysteem openen. <br>Uitbellen? Ook dat doe je voortaan op naam, een nummer is niet meer nodig. Slim en gemakkelijk!<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   image: "/v1614959368/3screens_zpgweg.png"
-  zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
@@ -19,7 +22,7 @@ blocks:
   position: image_left
   image_position: center
 textblocksfooter:
-- title1: 'Handig: contactgegevens bij collega's en relaties'
+- title1: "Handig: contactgegevens bij collega's en relaties"
   content1: 'Bel je met de computer? Het dashboard van Webcalls, onze computer-bel-oplossing, biedt nu nog meer informatie. <br> Zo kun je zelf kiezen welke dingen je in jouw telefoonboek wilt zien. Bijvoorbeeld je collega's en de relaties uit jouw gekoppelde klantsysteem. Met een handige filter is dit in een paar klikken ingesteld. <br> De beschikbaarheid van jouw collega's wordt getoond in woord (beschikbaar, rinkelt, in gesprek) en kleur. Dit werkt handig en intuïtief. <br> Klik op de naam van een collega voor een handige popup met contact-details, zoals mobiele nummer(s) en emailadres. <br> Ook bij relaties uit jouw klantsysteem krijg je zo'n verrijkte popup met details. <br> Hoe makkelijker jouw systemen werken, hoe meer tijd je over hebt voor de dingen die écht belangrijk zijn. En het werkt gewoon fijner!'
   title2: ''
   content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/side-tabs_sg1c9q.png" width="490px">'
