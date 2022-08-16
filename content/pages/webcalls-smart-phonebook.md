@@ -7,19 +7,19 @@ logos: false
 url: 'telefonie/slim-telefoonboek/'
 hero:
   title: Slim Telefoonboek
-  content: 'Gebruik jij <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot?</b><br>
-Goed nieuws! Je kunt deze pakketten koppelen aan jouw Callvoip omgeving. Je ziet de naam van de beller bij inkomende en uitgaande telefoontjes:<br>
-&middot;  ...op je computer<br>
-&middot;  ...op je smartphone<br>
-&middot;  ...én op jouw vaste toestel.<br>
+  content: 'Heb je een klantsysteem met daarin al jouw relaties? Koppel het dan aan Callvoip. Je ziet de naam van de relatie:<br>
+&middot;  ...bij elk telefoontje op je computer, smartphone en vaste toestel<br>
+&middot;  ...in de gesprekshistorie en oproeplijst
+&middot;  ...in je Callvoip adresboek<br>
+&middot;  ...en zelfs in de emailnotificatie<br>
 <br>
-Slim gereegeld toch?<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
+Bellen doe je voortaan op naam, en niet meer op nummer. <br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   image: "/v1614959368/3screens_zpgweg.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Met het Slimme Telefoonboek koppel je jouw klantsysteem/CRM aan bellen via Callvoip, op alle manieren:<br>- je ziet de naam van de beller in je scherm<br>- in de oproeplijst en gespreksregels<br> - in je adresboek op PC en in de apps<br>- en zelfs in de emailnotificatie! <br><br>En: je kunt uitbellen door op de naam van een relatie te zoeken.<br>Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
+- content: 'Gebruik jij <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot?<br> Met het Slimme Telefoonboek koppel je jouw klantsysteem/CRM aan bellen via Callvoip, op alle manieren:<br>- je ziet de naam van de beller in je scherm<br>- in de oproeplijst en gespreksregels<br> - in je adresboek op PC en in de apps<br>- en zelfs in de emailnotificatie! <br><br>En: je kunt uitbellen door op de naam van een relatie te zoeken.<br>Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
   title: 'Wat is dat: Slim Telefoonboek?'  
   image: "/v1615191642/webcalls-phonebook-2_kz7ctd.png"
   position: image_left
