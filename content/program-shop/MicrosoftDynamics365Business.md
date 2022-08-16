@@ -28,8 +28,8 @@ categories:
   - Relatiebeheer
   - Sales
 weight: 10
-url: /marketplace/microsoft365/
-aliases: /program-shop/microsoft365/
+url: /marketplace/microsoft365business/
+aliases: /program-shop/microsoft365business/
 
 ---
 
