@@ -19,7 +19,7 @@ Zoek de naam van je relatie op en je kunt hem gelijk bellen, nummer intoetsen is
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Met het Slimme Telefoonboek koppel je <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot<br> aan Callvoip. En: je kunt uitbellen door op de naam van een relatie te zoeken.<br>Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
+- content: 'Met het Slimme Telefoonboek koppel je <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot</b><br> aan Callvoip. En: je kunt uitbellen door op de naam van een relatie te zoeken.<br>Laat techniek voor je werken, zodat je jezelf optimaal kunt focussen op de inhoud! <br><br><a href="#" class="button">Meer informatie</a>'
   title: 'Wat is dat: Slim Telefoonboek?'  
   image: "/v1615191642/webcalls-phonebook-2_kz7ctd.png"
   position: image_left
