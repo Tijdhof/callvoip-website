@@ -91,11 +91,11 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-Per gebruiker {{</ layout/column3 >}}
+Per gebruiker incl. Phone App {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 5,00 excl. BTW
+€ 7,99 excl. BTW
 
 {{</ layout/column3 >}}
 
