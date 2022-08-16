@@ -24,7 +24,7 @@ textblocksfooter:
 - title1: 'Handig: contactgegevens bij collega's en relaties'
   content1: 'Bel je met de computer? Het dashboard van Webcalls, onze computer-bel-oplossing, biedt nu nog meer informatie. <br> Zo kun je zelf kiezen welke dingen je in jouw telefoonboek wilt zien. Bijvoorbeeld je collega's en de relaties uit jouw gekoppelde klantsysteem. Met een handige filter is dit in een paar klikken ingesteld. <br> De beschikbaarheid van jouw collega's wordt getoond in woord (beschikbaar, rinkelt, in gesprek) en kleur. Dit werkt handig en intuïtief. <br> Klik op de naam van een collega voor een handige popup met contact-details, zoals mobiele nummer(s) en emailadres. <br> Ook bij relaties uit jouw klantsysteem krijg je zo'n verrijkte popup met details. <br> Hoe makkelijker jouw systemen werken, hoe meer tijd je over hebt voor de dingen die écht belangrijk zijn. En het werkt gewoon fijner!'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/side-tabs_sg1c9q.png" width="490px">
+  content2: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/side-tabs_sg1c9q.png" width="490px">'
   show_vshape: false
 
 textblocksfooter2:
@@ -32,7 +32,8 @@ textblocksfooter2:
   content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/Screen_bmgoow.png" width="600px">'
   title2: 'Bellen met een duidelijk, intuïtief dashboard'
   content2: 'Of je nu veel of weinig belt: met een<b> overzichtelijk en intuïtief systeem</b> is het  fijner, plezieriger, sneller werken!<br>Zo zie je in het dashboard duidelijk de voicemails, een lijst met recente gesprekken met de namen uit jouw klantsysteem. Klik je op een regel, dan die je de details van het gesprek, de eventuele opname, én je kunt het nummer direct bellen of kopieren. <br>Rechts staat jouw telefoonboek met een handig filter zodat jouw telefoonboek naar jouw wensen is samengesteld.   Gebruik jij <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot?</b><br>Goed nieuws! Je kunt deze pakketten koppelen aan jouw Callvoip omgeving. Je ziet de naam van de beller bij inkomende en uitgaande telefoontjes:<br>&middot;  ...op je computer<br>&middot;  ...op je smartphone<br>&middot;  ...én op jouw vaste toestel.<br><br>Slim geregeld toch?<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
-  show_vshape: false  
+
+show_vshape: false  
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
