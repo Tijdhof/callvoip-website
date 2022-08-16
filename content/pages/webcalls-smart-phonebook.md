@@ -32,6 +32,6 @@ textblocksfooter2:
 - title1: ''
   content1: '<img src="https://res.cloudinary.com/callvoip/image/upload/v1659691896/Screen_bmgoow.png" width="600px">'
   title2: 'Bellen met een duidelijk, intuïtief dashboard'
-  content2: 'Of je nu veel of weinig belt: met een<b> overzichtelijk en intuïtief systeem</b> is het  fijner, plezieriger, sneller werken!<br>Zo zie je in het dashboard duidelijk jouw voicemails en faxen. In de lijst met recente gesprekken zie je de namen uit jouw klantsysteem. Klik op een regel voor de details van het gesprek, de eventuele opname, én om het nummer te bellen of te kopieren. <br>Rechts staat jouw telefoonboek met een handig filter zodat jouw telefoonboek naar jouw wensen is samengesteld.  <br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
+  content2: 'Of je nu veel of weinig belt: met een<b> overzichtelijk en intuïtief systeem</b> is het fijner, plezieriger, sneller werken! <br>Links het menu; de rode knop is jouw telefoon. In het dashboard zie je duidelijk jouw voicemails en faxen. <br>In de lijst met recente gesprekken zie je de namen uit jouw klantsysteem. Klik op een regel voor de details van het gesprek, de eventuele opname, én om het nummer te bellen of te kopieren. <br>En rechts staat jouw persoonlijke telefoonboek met een handig filter zodat jouw telefoonboek naar jouw wensen is samengesteld.  <br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
 
 ---
