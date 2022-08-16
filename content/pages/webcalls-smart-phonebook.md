@@ -11,7 +11,7 @@ hideingoogle: false
 hidesocialshare: true
 hero:
   title: 'Slim Telefoonboek'
-  content: 'Goed nieuws! Heb je een <b>klantsysteem</b> met daarin al jouw relaties? <b>Koppel jouw klantsysteem aan Callvoip</b> en bellen wordt nóg eenvoudiger en persoonlijker. <br><b>Hoe jij ook belt</b>, met de computer, smartphone of je toestel, je ziet de naam van je relatie. Oók in je adresboek, de belhistorie, oproeplijst en in de emailnotificatie. Bel je met Webcalls, dan kun je met één klik de klant in jouw klantsysteem openen. <br>Uitbellen? Ook dat doe je voortaan op naam, een nummer is niet meer nodig. Slim en gemakkelijk!<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
+  content: 'Goed nieuws! Heb je een <b>klantsysteem</b> met daarin al jouw relaties? <b>Koppel jouw klantsysteem aan Callvoip</b> en bellen wordt nóg eenvoudiger en persoonlijker. <br><b>Hoe jij ook belt</b>, met de computer, smartphone of je toestel, je ziet de naam van je relatie. Oók in je adresboek, de belhistorie, oproeplijst en in de emailnotificatie. <br>Bel je met Webcalls, dan kun je met één klik de klant in jouw klantsysteem openen. <br>Uitbellen? Ook dat doe je voortaan op naam, een nummer is niet meer nodig. Slim en gemakkelijk!<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
   image: "/v1614959368/3screens_zpgweg.png"
   image_position: center
   disable_image_on_mobile: false
