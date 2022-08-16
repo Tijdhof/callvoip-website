@@ -31,9 +31,4 @@ textblocksfooter2:
   title2: 'Bellen met een duidelijk, intuïtief dashboard'
   content2: 'Of je nu veel of weinig belt: met een<b> overzichtelijk en intuïtief systeem</b> is het  fijner, plezieriger, sneller werken!<br>Zo zie je in het dashboard duidelijk de voicemails, een lijst met recente gesprekken met de namen uit jouw klantsysteem. Klik je op een regel, dan die je de details van het gesprek, de eventuele opname, én je kunt het nummer direct bellen of kopieren. <br>Rechts staat jouw telefoonboek met een handig filter zodat jouw telefoonboek naar jouw wensen is samengesteld.   Gebruik jij <b>Google Contacts, Microsoft, Contacts+, Zendesk, Exact Online, Teamleader, Salesforces of Hubspot?</b><br>Goed nieuws! Je kunt deze pakketten koppelen aan jouw Callvoip omgeving. Je ziet de naam van de beller bij inkomende en uitgaande telefoontjes:<br>&middot;  ...op je computer<br>&middot;  ...op je smartphone<br>&middot;  ...én op jouw vaste toestel.<br><br>Slim geregeld toch?<br><br><a href="/contact" class="button">Meer informatie? Neem contact op!</a>'
 
-show_vshape: false  
-hideinsearch: false
-hideingoogle: false
-hidesocialshare: true
-
 ---
