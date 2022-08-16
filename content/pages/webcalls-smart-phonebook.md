@@ -7,9 +7,8 @@ logos: false
 url: 'telefonie/slim-telefoonboek/'
 hero:
   title: Slim Telefoonboek
-  content: 'Heb je een klantsysteem met daarin al jouw relaties? Koppel het dan aan Callvoip. Je ziet de naam van de relatie:<br>
-&middot;  ...bij elk telefoontje op je computer, smartphone en vaste toestel<br>
-&middot;  ...in de gesprekshistorie en oproeplijst
+  content: 'Goed nieuws! Heb je een <b>klantsysteem</b> met daarin al jouw relaties? Koppel het aan Callvoip en bellen wordt nóg eenvoudiger en persoonlijker. <b>Hoe jij ook belt</b>, met de computer, smartphone of je toestel, je ziet de naam van je relatie. Deze is ook zichtbaar in:<br>
+&middot;  ...in de gesprekshistorie en oproeplijst<br>
 &middot;  ...in je Callvoip adresboek<br>
 &middot;  ...en zelfs in de emailnotificatie<br>
 <br>
