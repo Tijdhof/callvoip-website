@@ -41,6 +41,8 @@ Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de be
 
 {{< form/input "Postcode" >}}
 
+{{< form/input "Stad" >}}
+
 {{< form/input "Telefoonnummer gidsvermelding" >}}
 
 {{< form/input "Faxnummer gidsvermelding" >}}
