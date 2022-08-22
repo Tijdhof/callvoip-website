@@ -32,7 +32,7 @@ headerside:
 ---
 
 **Welke voordelen biedt een koppeling tussen Callvoip en CRM-pakket Simplicate?**<br>
-**Simplicate: gebruiksvriendelijke CRM- en projectsoftware, door de meest efficiënte flow van eerste klantcontact tot en met factuur, juiste inzichten en gelukkige medewerkers.** 
+**Simplicate: gebruiksvriendelijke CRM- en projectsoftware, door de meest efficiënte flow van eerste klantcontact tot en met factuur, juiste inzichten en gelukkige medewerkers.** <br>
 <br>
 **Samenvatting** <br>
 Met de Callvoip Simplicate connector beschik je over een slimme koppeling tussen Callvoip en Simplicate. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Simplicate staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
