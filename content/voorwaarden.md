@@ -315,7 +315,7 @@ Alle geschillen die verband houden met of voortvloeien uit aanbiedingen van Tijd
 
 #### Artikel 12.1
 
-TijdhofConsulting is gevestigd aan de Koldingweg 19-1, 9723 HL te Groningen en geregistreerd bij de Kamer van Koophandel te Groningen onder nr. 02066541. Het BTW-identificatienummer is NL 1041.63.252.B01. Gelieve alle correspondentie aangaande een overeenkomst of deze algemene voorwaarden te zenden aan TijdhofConsulting, Postbus 5236, 9700 GE te GRONINGEN, of naar het emailadres zoals zoals vermeld bij de contactgegevens op de betreffende internetsite.
+TijdhofConsulting is gevestigd aan de Koldingweg 19-1, 9723 HL te Groningen en geregistreerd bij de Kamer van Koophandel te Groningen onder nr. 02066541. Het BTW-identificatienummer is NL 1041.63.252.B01. Gelieve alle correspondentie aangaande een overeenkomst of deze algemene voorwaarden te zenden aan TijdhofConsulting, Koldingweg 19-1, 9723 HL te Groningen, of naar het emailadres zoals zoals vermeld bij de contactgegevens op de betreffende internetsite.
 
 #### Artikel 12.2
 
