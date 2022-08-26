@@ -17,7 +17,7 @@ categories:
   - Tandarts
   - Integrated Popup
   - Medisch
-  - Embedded
+  - Embedded Popup
 weight: 10
 url: /marketplace/OaseDental/
 aliases: /program-shop/OaseDental/
