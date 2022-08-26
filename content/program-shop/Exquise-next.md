@@ -17,6 +17,7 @@ categories:
   - Tandarts
   - Integrated Popup
   - Medisch
+  - Embedded
 weight: 10
 url: /marketplace/exquise-next/
 aliases: /program-shop/exquise-next/
