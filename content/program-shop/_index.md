@@ -21,6 +21,8 @@ selected_tags2:
     info: Van elk telefoongesprek verschijnt een popup in het CRM-pakket zelf, vaak met handige informatie en doorklikmogelijkheden. 
   - name: Custom fields
     info: In het CRM-pakket kun je eigen velden toevoegen; deze custom-velden kunnen ook weer in de pop-up worden getoond.
+  - name: Embedded
+    info: De bubbel niet meer als normale popup maar volledig embedded als popup in je CRM.
 outputs:
   - HTML
   - JSON
