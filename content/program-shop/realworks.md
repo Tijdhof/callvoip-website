@@ -17,6 +17,7 @@ categories:
   - Meest populair
   - Auto Call Log
   - Integrated Popup
+  - Embedded
 weight: 1
 populair: true
 url: /marketplace/realworks/
