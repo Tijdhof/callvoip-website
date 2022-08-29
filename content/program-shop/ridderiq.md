@@ -9,7 +9,7 @@ meer_info:
   - title: Support
     url: /ondersteuning/
 ontwikkelaar:
-  - title: Via API
+  - title: Via CSV
 button:
   title: Naar Marketplace
   link: /marketplace/
@@ -86,6 +86,6 @@ En daarnaast: customized knoppen met: <br>
 • Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Ridder iQ CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+Het softwarepakket Ridder iQ CRM wordt gekoppeld met telefonie van Callvoip op basis van een CSV-export.<br>
 De Callvoip telefoon-integratie met Ridder iQ CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
