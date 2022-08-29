@@ -22,7 +22,7 @@ selected_tags2:
   - name: Custom fields
     info: In het CRM-pakket kun je eigen velden toevoegen; deze custom-velden kunnen ook weer in de pop-up worden getoond.
   - name: Embedded Popup
-    info: De bubbel niet meer als normale popup maar volledig embedded als popup in je CRM.
+    info: Bij deze CRM pakketten wordt de popup getoond als onderdeel van het CRM pakket zelf. Het is altijd mogelijk om de Bubble ook te tonen, maar het CRM zelf voorziet reeds in de meldingsfunctionaliteit. 
 outputs:
   - HTML
   - JSON
