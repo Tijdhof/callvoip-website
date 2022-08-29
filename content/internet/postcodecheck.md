@@ -7,6 +7,6 @@ hero:
 ---
 Vul hieronder je gegevens in en wij sturen je een overzicht welke soorten internet op jouw adres mogelijk zijn.
 
-Je ontvangt binnen **één werkdag** een vrijblijvende offerte. Wil je tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Laat het ons weten in de toelichting!
+ Wil je tevens advies over **telefonie van Callvoip** of aanvullende **apparatuur**? Neem <a href="/contact">contact</a> met ons op!
 
 <iframe width="75%" height="1001" frameborder="0" scrolling="no" src="https://postcode.callvoip.nl"></iframe>
