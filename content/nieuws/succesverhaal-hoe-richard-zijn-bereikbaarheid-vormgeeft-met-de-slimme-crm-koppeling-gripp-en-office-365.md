@@ -28,7 +28,7 @@ Duurzaam leven, werken, wonen: duurzaamheid is een centraal thema in het leven v
 
 Logisch dat Callvoip ook steeds meer ondernemers bedient in deze groene sector.
 
-En zo begroetten we recentelijk ook Richard Mulder van Duraplus: een enthousiaste ondernemer met kennis van zaken en daarnaast vele jaren ervaring in de marketing en ICT.
+En zo begroetten we recentelijk ook Richard Mulder van Duraplus: een enthousiaste ondernemer met kennis van zaken en daarnaast vele jaren ervaring in de marketing en ICT.<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1661842683/duraplus_wzeosd.png" style="float:right">
 DuraPlus is een full service duurzaam adviesbureau dat energielabels opstelt, je adviseert over het verduurzamen van je woning en je helpt om deze adviezen in actie om te zetten.
 
