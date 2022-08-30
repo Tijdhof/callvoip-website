@@ -15,7 +15,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2022-08-31T22:00:00.000+00:00
+date: 
 url: "/nieuws/duraplus"
 contactpersoon: []
 categories: []
