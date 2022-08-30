@@ -54,15 +54,7 @@ team:
     Vermoedelijk een gamer. Typt in vreemde talen. '
   function: Marketingmedewerker
   linkedin: ''
-- content: Is breed inzetbaar want heeft veel kennis van marketing maar ook gezond
-    boerenverstand om de techniek met logica te benaderen. Komt naar werk met de fiets,
-    58 kilometer door de Groningse polder dus met zonder auto. Thuis ook druk met
-    een gezin waar ook katten bij horen.
-  function: Marketing en communicatie
-  linkedin: https://www.linkedin.com/in/timschouwenaar/?locale=nl_NL
-  image: "/v1572857685/IMG-20190922-WA0021_qecbp5.jpg"
-  name: Tim Schouwenaar
-description: 'Maak kennis met het team van Callvoip: Tim (2x), Arjan, Remco, Lynn,
+description: 'Maak kennis met het team van Callvoip: Tim, Arjan, Remco, Lynn,
   Herman, Marieke & Robert.'
 images: []
 hideinsearch: false
