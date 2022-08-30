@@ -150,11 +150,9 @@ prefooter:
   content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk
     de <a href="/testimonials/">testimonials</a> van onze klanten.
 testimonial:
-  image: "/v1556267419/Callvoip-website-logo-AlphaLabs.png"
-  title: Carlo Giliam - Alpha Labs
-  content: Al <strong>meer dan 10 jaar</strong> levert Callvoip ons de benodigde oplossingen
-    voor vaste telefonie. Van beginnende ondernemer tot en met personeel; ze denken
-    altijd met je mee.
+  image: "/v1556267419/duraplus_wzeosd.png"
+  title: Richard - Duraplus
+  content: "Een telefonieprovider vind je bij wijze van spreken op elke straathoek. Het Team van Callvoip gaat verder en heeft een slimme integratie met Grip en Office 365 ingesteld voor ons waarmee de telefonie een stuk persoonlijker en efficiënter wordt. Allemaal snel en supervriendelijk geregeld!"
 description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op je
   telefonie met de modernste oplossingen van Callvoip.
 images: []
