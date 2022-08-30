@@ -150,7 +150,7 @@ prefooter:
   content: 95% van onze klanten beveelt ons aan bij collega's en vrienden. Bekijk
     de <a href="/testimonials/">testimonials</a> van onze klanten.
 testimonial:
-  image: "/v1556267419/duraplus_wzeosd.png"
+  image: "/v1556267419/duraplus-home_y9dscb.png"
   title: Richard - Duraplus
   content: "Een telefonieprovider vind je bij wijze van spreken op elke straathoek. Het Team van Callvoip gaat verder en heeft een slimme integratie met Grip en Office 365 ingesteld voor ons waarmee de telefonie een stuk persoonlijker en efficiënter wordt. Allemaal snel en supervriendelijk geregeld!"
 description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op je
