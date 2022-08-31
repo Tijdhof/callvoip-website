@@ -1,6 +1,5 @@
 ---
-title: 'Succesverhaal: Hoe Richard zijn bereikbaarheid vormgeeft met de slimme CRM-koppeling
-  Gripp en Office 365'
+title: 'Succesverhaal: Richard blij met slimme integratie Gripp en Office 365'
 description: ''
 images:
 - "/v1661842773/87_t1x8gv.jpg"
@@ -44,3 +43,6 @@ Deze integrale oplossing waarbij mijn CRM-systemen **slim samenwerken**, heb ik 
 
 Aldus een uiterst tevreden klant!  
 Richard Mulder van <a href="https://www.duraplus.nl"target="_blank">DuraPlus</a>
+
+<br>  
+<a href="/klantworden/" class="button">Ook Ja dit wil ik ook!</a>
