@@ -43,5 +43,4 @@ Deze integrale oplossing waarbij mijn CRM-systemen **slim samenwerken**, heb ik 
 
 Aldus een uiterst tevreden klant!  
 Richard Mulder van <a href="https://www.duraplus.nl"target="_blank">DuraPlus</a>  
-<br>  
-<a href="/klantworden/" class="button">Ook Ja dit wil ik ook!</a>
+<a href="/klantworden/" class="button">Ook geïnteresseerd?</a>
