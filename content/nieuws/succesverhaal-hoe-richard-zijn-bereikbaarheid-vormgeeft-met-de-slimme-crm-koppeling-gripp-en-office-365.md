@@ -42,7 +42,6 @@ Het kunnen zien wíe er naar Duraplus belt, was de grootste uitdaging. Ik heb mi
 Deze integrale oplossing waarbij mijn CRM-systemen **slim samenwerken**, heb ik nergens anders kunnen vinden, alleen bij Callvoip. De medewerkers ervaar ik als allereerst supervriendelijk, maar ook heel belangrijker is dat ze een ruime kennis van ervaring hebben, ze begrijpen je probleem en denken mee om tot een oplossing te komen!
 
 Aldus een uiterst tevreden klant!  
-Richard Mulder van <a href="https://www.duraplus.nl"target="_blank">DuraPlus</a>
-
+Richard Mulder van <a href="https://www.duraplus.nl"target="_blank">DuraPlus</a>  
 <br>  
 <a href="/klantworden/" class="button">Ook Ja dit wil ik ook!</a>
