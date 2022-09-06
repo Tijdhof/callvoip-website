@@ -104,7 +104,7 @@ Eenmalig
 
 {{< layout/column3 >}}
 
-€ 15,00 excl. BTW
+€ 25,00 excl. BTW
 
 {{</ layout/column3 >}}
 
@@ -114,6 +114,6 @@ Eenmalig
 
 U bepaalt het tarief zelf: dit ligt tussen de 0 en 99 cent per minuut of een vast bedrag tot 1,30 per gesprek. Het 0900-servicenummer is in heel Nederland actief. De beller betaalt de kosten van het gesprek. U ontvangt de opbrengst minus de kosten terug. Bij een tarief van 0 cent per minuut zijn er geen opbrengsten, wel kosten. Er geldt een wettelijk maximum van 50,-/50 minuten – hierna wordt het gesprek automatisch verbroken.
 
-Let op:   
+Let op:  
 \- servicenummers hebben een **initiële looptijd van een jaar** (dit in tegenstelling tot de reguliere Nederlandse nummers die per maand opzegbaar zijn)  
-\- servicenummers moeten minimaal een gehele kalendermaand vóór het einde van het jaar worden opgezegd, anders wordt het nummer met een geheel jaar verlengd. 
+\- servicenummers moeten minimaal een gehele kalendermaand vóór het einde van het jaar worden opgezegd, anders wordt het nummer met een geheel jaar verlengd.
