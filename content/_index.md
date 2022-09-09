@@ -152,7 +152,7 @@ prefooter:
 testimonial:
   image: "/v1556267419/duraplus-home_y9dscb.png"
   title: Richard - Duraplus
-  content: Een telefonieprovider vind je bij wijze van spreken op elke straathoek. Het Team van Callvoip gaat verder en heeft een <b>slimme integratie </b>met Gripp en Office 365 ingesteld voor ons waarmee de telefonie een stuk <b>persoonlijker en efficiënter</b> wordt. Allemaal snel en supervriendelijk geregeld! &ldquo;
+  content: Een telefonieprovider vind je bij wijze van spreken op elke straathoek. Het Team van Callvoip gaat verder en heeft een <b>slimme integratie </b>met Gripp en Office 365 ingesteld voor ons waarmee de telefonie een stuk <b>persoonlijker en efficiënter</b> wordt. Allemaal snel en supervriendelijk geregeld!&ldquo;
 description: Callvoip is de zakelijke telefonieprovider in Nederland. Bespaar op je
   telefonie met de modernste oplossingen van Callvoip.
 images: []
