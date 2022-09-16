@@ -121,6 +121,10 @@ usps:
       link: "/opzeggen/serviceplus/"
     - title: Yealink Meeting
       link: "/opzeggen/yealink-meeting/"
+    - title: MS Teams gebruiker
+      link: "/opzeggen/teams-gebruiker/"
+    - title:  MS Teams koppeling
+      link: "/opzeggen/teams-koppeling/"
 menu:
   top:
     pre: external
