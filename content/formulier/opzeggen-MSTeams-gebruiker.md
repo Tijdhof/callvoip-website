@@ -1,5 +1,5 @@
 ---
-title: Opzeggen MS Teams gebruiker
+title: MS Teams gebruiker opzeggen
 url: "/opzeggen/teams-gebruiker/"
 hideinsearch: true
 hideingoogle: true
