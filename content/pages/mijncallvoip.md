@@ -51,8 +51,6 @@ usps:
       link: "/aanvragen/voip-cti/"
     - title: VoIP CTI extra gebruiker
       link: "/aanvragen/extra-gebruiker/"
-    - title: CRM Lookup koppeling
-      link: "/aanvragen/crm-lookup/"
     - title: MS Teams koppeling 
       link: "/aanvragen/ms-teams/"
   - title: Overig
@@ -101,7 +99,7 @@ usps:
       link: "/opzeggen/nummer/"
   - title: Internet
     items:
-    - title: Callvoip Business DSL
+    - title:  Callvoip Business internet
       link: "/opzeggen/internet-callvoip/"
   - title: Integratie
     items:
@@ -113,8 +111,6 @@ usps:
       link: "/opzeggen/voipcti/"
     - title: VoIP CTI gebruikerlicentie
       link: "/opzeggen/gebruikerlicentie/"
-    - title: CRM Lookup
-      link: "/opzeggen/crmlookup/"
   - title: Overig
     items:
     - title: Belbundel
