@@ -9,7 +9,7 @@ usps:
     Zo kun je extra diensten afnemen zoals de Conference Service, buitenlandse nummers
     aanvragen of servicenummers.</p>  <br> <a href="/tour" class="button">Nog geen klant? Start de grand tour</a>
   items:
-  - title: Nummers
+  - title: Telefonie
     items:
     - title: Aanvraagformulier
       link: http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf
@@ -93,7 +93,7 @@ usps:
   content: 'Wil je één van de diensten beeïndigen? Kies rechts de dienst die je wilt
     opzeggen en wij zullen de opzegging verwerken en bevestigen. '
   items:
-  - title: Nummers
+  - title: Telefonie
     items:
     - title: Gehele abonnement
       link: "/opzeggen/abonnement/"
