@@ -109,8 +109,12 @@ usps:
       link: "/opzeggen/conference/"
     - title: VoIP CTI CRM-integratie
       link: "/opzeggen/voipcti/"
-    - title: VoIP CTI gebruikerlicentie
+    - title: VoIP CTI gebruiker
       link: "/opzeggen/gebruikerlicentie/"
+    - title: MS Teams gebruiker
+      link: "/opzeggen/teams-gebruiker/"
+    - title:  MS Teams koppeling
+      link: "/opzeggen/teams-koppeling/"
   - title: Overig
     items:
     - title: Belbundel
@@ -121,10 +125,6 @@ usps:
       link: "/opzeggen/serviceplus/"
     - title: Yealink Meeting
       link: "/opzeggen/yealink-meeting/"
-    - title: MS Teams gebruiker
-      link: "/opzeggen/teams-gebruiker/"
-    - title:  MS Teams koppeling
-      link: "/opzeggen/teams-koppeling/"
 menu:
   top:
     pre: external
