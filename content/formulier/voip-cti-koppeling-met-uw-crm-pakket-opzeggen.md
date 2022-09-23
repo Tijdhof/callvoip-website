@@ -31,7 +31,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/email "Email" required >}}
 
-{{< form/email "CRM pakket" required >}}
+{{< form/input "CRM pakket" required >}}
 
 {{</ form/fieldset >}}
 
