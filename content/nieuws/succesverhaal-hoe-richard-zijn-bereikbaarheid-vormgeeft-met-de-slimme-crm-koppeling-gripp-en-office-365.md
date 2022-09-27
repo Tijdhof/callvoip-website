@@ -2,7 +2,7 @@
 title: 'Succesverhaal: Richard blij met slimme integratie Gripp en Office 365'
 description: ''
 images:
-- "/v1663055885/duraplus-portret-nonchalant-groen-met-plus_woivbs.png"
+- "/v1664271380/nieuws-duraplus_ktrgzb.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 2022-09-12T22:00:00+00:00
+date: 2022-09-12T22:00:00.000+00:00
 url: "/nieuws/duraplus"
 contactpersoon: []
 categories: []
@@ -22,7 +22,7 @@ tags: []
 type: ''
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1663055885/duraplus-portret-nonchalant-groen-met-plus_woivbs.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1664271380/nieuws-duraplus_ktrgzb.png)
 
 Duurzaam leven, werken, wonen: duurzaamheid staat centraal in het leven van nu.  
 Logisch dat Callvoip ook steeds meer ondernemers bedient in deze groene sector.
