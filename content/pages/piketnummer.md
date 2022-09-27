@@ -6,7 +6,7 @@ layout: default2
 logos: false
 url: /telefonie/piketnummer/
 hero:
-  title: 'Callvoip internet: snel en betrouwbaar'
+  title: 'Alles over piketnummers'
   content: |-
     In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>
   image: "/v1604049415/internet-happy_pfics8.png"
@@ -17,11 +17,13 @@ blocks:
   image: "/v1600956804/internet-max_p0ugq5.png"
   zooming: true
   position: image_left
-  title: 'Compleet aanbod: DSL, glasvezel, 4g en kabel'
+  title: 'Pikketdienst'
   image_position: center
 textblocksfooter:
-- title1: Callvoip Glasvezel
+- title1: Extra title nummer 1
   content1: 'Content'
+- title2: Extra title nummer 2
+  content2: 'Content'
 images: []
 hideinsearch: false
 hideingoogle: false
