@@ -9,7 +9,7 @@ hero:
   title: 'Alles over piketnummers'
   content: |-
     In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>
-  image: "/v1604049415/internet-happy_pfics8.png"
+  image: "/v1604049415/company-employee-answering-landline-phone-call-corporate-job-talking-manager-office-cord-telephone-line-having-remote-conversation-with-phone-number-work-business-call_hipcte.jpg"
   image_position: center
   disable_image_on_mobile: false
 blocks:
