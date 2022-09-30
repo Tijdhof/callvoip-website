@@ -26,8 +26,8 @@ categories:
   - Sales
   - Klantcontact
 weight: 10
-url: /marketplace/onsite/
-aliases: /program-shop/onsite/
+url: /marketplace/neoforce/
+aliases: /program-shop/neoforce/
 
 ---
 
