@@ -2,7 +2,7 @@
 shorttitle: "Smart Stone"
 title: "Wij koppelen jouw CRM Smart Stone aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/smartstone_n6ejh0.png"
+logo: "/smartstone_as1lxx.png"
 description: Door het koppelen van Smart Stone CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
