@@ -34,7 +34,7 @@ double_content:
     content: <div>Via onze eigen webshop kunnen we je ook voorzien van een toestel
       voor je bureau, in je magazijn. Maar ook een handige headset of netwerkapparatuur.
       Zo ben je in een keer klaar en houd je één aanspreekpunt voor alles!<br><br>
-      <center><a href="https://callvoip.shop/" class="button">Bezoek onze webshop</a></div></center>
+      <center><a href="https://callvoip.shop/" target="_blank" class="button">Bezoek onze webshop</a></div></center>
 usps:
   title: De centrale zelf
   content: Het hart van jouw telefonie is onze online centrale. Daar bepaal je wat
@@ -106,8 +106,36 @@ intro:
   title: Mooi hè?
   content: 'Wij zijn best wel trots op ons systeem en aanbod en hopen dan ook dat
     je bij het zien van deze pagina denkt: "Tjonge, dit wil ik ook!". Dat kan natuurlijk
-    allemaal en we vertellen je er graag meer over. <br><br><a href="https://www.callvoip.nl/contact/"
-    class="button">Neem contact op</a>'
+    allemaal en we vertellen je er graag meer over. <br><br>
+    <div>
+          <form class="mb-6" name="toolkitformulier" action="/bedank/toolkit/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+              <input type="hidden" name="form-name" value="toolkit" />
+              <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
+                      class="hidden"> </p>
+              <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
+              <div class="layout-split">
+                  <div class="mb-4"> <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label> <input type="text"
+                          id="bedrijfsnaam" name="bedrijfsnaam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
+                  </div>
+                  <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
+                          type="email" id="email" name="email"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
+              </div>
+              <div class="layout-split">
+                  <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
+                          id="telefoonnummer" name="telefoonnummer"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+                  <div class="mb-4"> <label for="terugbelmoment" class="block">Wensen of vragen</label> <input type="text"
+                          id="wensenvragen" name="wensenvragen"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
+              </div>
+              <center><div data-netlify-recaptcha="true"></div></center>
+              <br>
+              <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
+          </form>
+      </div>
+  </div>'
 blocks:
 - content: Als jouw zakelijke telefonieprovider negeren wij jouw smartphone natuurlijk
     niet. We hebben zelfs verschillende manieren om ervoor te zorgen dat jouw zakelijke
