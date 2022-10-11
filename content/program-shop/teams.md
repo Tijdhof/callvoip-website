@@ -1,6 +1,6 @@
 ---
 shorttitle: "Microsoft Teams"
-title: "Wij koppelen jouw Microsoft Teams aan onze telefonie"
+title: "Wij koppelen jouw CRM Microsoft Teams aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/teams_egf0gl.png"
 description: Door het koppelen van Microsoft Teams aan onze slimme telefonie werk je een stuk efficienter.
