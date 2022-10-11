@@ -32,7 +32,7 @@ aliases: /program-shop/snelstart/
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket SnelStart?**<br>
-**SnelStart: De basis voor effectief automatiseren.**<br>
+**SnelStart: Je administratie automatiseren? De slimme boekhoudsoftware van SnelStart maakt het mogelijk.**<br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip SnelStart telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en SnelStart. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in SnelStart staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
