@@ -84,7 +84,8 @@
             <ul class="space-y-1">
               {{ range .list }}<li>{{.}}</li>{{ end }}
             </ul>
-            <a href="{{.btn.url}}" class="button text-sm lg:text-normal">{{.btn.text}}</a>
+            {{/*<a href="{{.btn.url}}" class="button text-sm lg:text-normal">{{.btn.text}}</a>*/}}
+            <button class="button text-sm lg:text-normal" onclick="dialog.show();">{{.btn.text}}</button>
             {{ end }}
           </div>
         </header>
