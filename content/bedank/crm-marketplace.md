@@ -1,6 +1,6 @@
 ---
 title: Informatie over een CRM koppeling en demo
-url: 'bedank/crm-demo'
+url: 'bedank/crm-demo/'
 hero:
   image: "/v1566566520/banner_formaat_xqptws.jpg"
 slug: ''
