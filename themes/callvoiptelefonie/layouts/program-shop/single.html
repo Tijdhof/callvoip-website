@@ -6,6 +6,39 @@
     <div class="container px-0 lg:mt-8">
     </div>
     <div class="container px-0 lg:flex space-y-4 lg:space-y-0">
+            <dialog id="dialog" class="z-50 w-full h-full">
+        <form name="crm-info" action="/contact/verzonden"
+          class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
+          <button type="button" onclick="dialog.close();"
+            class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
+          <p class="hidden">
+            <input type="hidden" name="CRM Item" value="{{ .Permalink }}" />
+            <label>Don’t fill this out if human <input name="bot-field"> </label>
+            <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
+          </p>
+
+          <h3 class="text-3xl text-center text-blue">Informatie over de CRM koppeling en demo?</h3><br>
+
+          <div class="space-y-4">
+            <div class="space-y-2 flex flex-col">
+              <label for="Naam">Naam</label>
+              <input name="Naam" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Email">Email</label>
+              <input type="email" name="Email" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Telefoonnummer">Telefoonnummer</label>
+              <input type="tel" name="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <p>
+              <button class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
+            </p>
+          </div>
+        </form>
+      </dialog>
+
       <div class="w-full space-y-8">
         <header class="bg-grey-lightest lg:flex items-center justify-between border border-grey-lightest">
           <div class="lg:flex items-center">
