@@ -9,8 +9,7 @@
             <dialog id="dialog" class="z-50 w-full h-full">
         <form name="crm-info" action="/contact/verzonden" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
-          <button type="button" onclick="dialog.close();"
-            class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
+         
           <p class="hidden">
             <input type="hidden" name="CRM Item" value="{{ .Permalink }}" />
             <label>Don’t fill this out if human <input name="bot-field"> </label>
@@ -38,6 +37,7 @@
               <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
             </p>
           </div>
+          <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
         </form>
       </dialog>
 
