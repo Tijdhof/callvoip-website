@@ -85,4 +85,4 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket Tobias AX Aareon Software wordt gekoppeld met telefonie van Callvoip op basis van de telefoonconnector in Tobias AX Aareon Software zelf.<br>
 De Callvoip telefoon-integratie met Tobias kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

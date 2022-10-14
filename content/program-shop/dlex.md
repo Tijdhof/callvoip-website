@@ -86,4 +86,4 @@ En daarnaast: customized knoppen met: <br>
 **Belangrijk:** deze koppeling dient nog gerealiseerd te worden en heeft een doorlooptijd van ongeveer 2 weken; hiervoor geldt een ontwikkelingstarief van 695,- ex BTW éénmalig.<br>
 De Callvoip telefoon-integratie met DLex CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

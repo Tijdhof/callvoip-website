@@ -89,6 +89,6 @@ Door de integratiemethode met het softwarepakket Medicom Pharmapartners CRM kan 
 De koppeling is getest in samenwerking met Pharmapartners en beveiligd met two-way-SSL.<br>
 **Let op:** aan de Medicom Pharmapartners CRM zijde is ook een betaalde licentie vereist, namelijk een eenmalige component voor implementatie en een maandabonnement. <br>
 De Callvoip telefoon-integratie met Medicom kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
 <br>
 

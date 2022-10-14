@@ -80,4 +80,4 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket ConnectWise CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met Connectwise CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
 <b>NB</b> Voor deze connector geldt een developmentfee van 695,- ex BTW éénmalig.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

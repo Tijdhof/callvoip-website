@@ -87,4 +87,4 @@ Het softwarepakket Assu® CRM van A.I. Automatisering wordt gekoppeld op basis v
 **NB:** A.I. Automatisering dient hiervoor toegang te verlenen. <br>
 De Callvoip telefoon-integratie met Assu Assurantiesoftware kan worden gebruikt op zowel Windows als Apple Mac.<br>
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

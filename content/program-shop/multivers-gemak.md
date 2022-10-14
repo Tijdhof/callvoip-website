@@ -85,4 +85,4 @@ Het softwarepakket Software Gemak (Unit4 Multivers) wordt gekoppeld met telefoni
 De Callvoip telefoon-integratie met Multivers Unit4 CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br>
 <b>Let op:</b> de API die nodig is om te koppelen is alleen standaard beschikbar bij Software Gemak XtraLarge. Bij de overige varianten zoals de Small, Medium en Large is het een optionele (mogelijk betaalde) licentie.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

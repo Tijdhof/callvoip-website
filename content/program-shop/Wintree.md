@@ -76,4 +76,4 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket Wintree TSD Software CRM wordt gekoppeld met telefonie van Callvoip op basis van de database die WinTree® dient te configureren.<br>
 **Let op: WinTree® dient aan de softwarekant ook een aanpassing te doen die ervoor zorgt dat er elke dag automatisch een database op de server wordt gezet waarmee Bubble kan koppelen.**<br> 
 De Callvoip telefoon-integratie met Wintree TSD kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

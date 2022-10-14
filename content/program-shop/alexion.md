@@ -83,7 +83,7 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket Alexion CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 NB: om de pop-up te kunnen gebruiken, moet hiervoor een licentie geactiveerd worden door Alexion CRM.<br>
 De Callvoip telefoon-integratie met Alexion CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
 
                                                      
                                                      

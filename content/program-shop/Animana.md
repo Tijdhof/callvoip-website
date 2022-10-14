@@ -74,5 +74,5 @@ Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop
 Het softwarepakket IDEXX Animana wordt gekoppeld met telefonie van Callvoip op basis van de standaard telefoonkoppeling van IDEXX obv URL.<br>
 Daarnaast kan optioneel (aanvullend) informatie uit een CSV-export worden gebruikt om bv de popup met klantinformatie te verrijken.<br>
 De Callvoip telefoon-integratie met IDEXX Animana kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
 

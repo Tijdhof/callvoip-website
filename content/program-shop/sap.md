@@ -87,4 +87,4 @@ En daarnaast: customized knoppen met:<br>
 **Technische gegevens:**<br>
 Het softwarepakket SAP Business One CRM wordt gekoppeld met telefonie van Callvoip op basis van de SAP Business One Service Layer.<br>
 De Callvoip telefoon-integratie met SAP Business One CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

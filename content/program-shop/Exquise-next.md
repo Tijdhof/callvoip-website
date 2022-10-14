@@ -79,5 +79,5 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket Exquise Next Generation wordt gekoppeld met telefonie van Callvoip op basis van een URL Executor.<br>
 **NB:** om de koppeling te kunnen gebruiken is de Exquise Telefoonmonitor licentie nodig. Dit is een betaalde bedrijfslicentie die u door Exquise / Vertimart kunt laten activeren.<br>
 De Callvoip telefoon-integratie met Exquise Next Generation kan worden gebruikt op zowel Windows als Apple Mac.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
 

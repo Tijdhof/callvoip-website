@@ -57,4 +57,4 @@ Denk hierbij aan: <br><img src="https://res.cloudinary.com/callvoip/image/upload
 • Custom links met een URL aangevuld met bv klant-id om de klantpagina in jouw CRM te openen <br>
 • en customized knoppen om bv een klantparameter, klant ID, klantnaam te kopiëren.<br>
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

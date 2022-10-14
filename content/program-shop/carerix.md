@@ -98,5 +98,5 @@ En daarnaast: customized knoppen met: <br>
 Softwarepakket Carerix wordt gekoppeld op basis van een API-key.<br>
 Let op, je dient een API-code bij Carerix aan te vragen. <br>
 De Callvoip telefoon-integratie met Carerix CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
 

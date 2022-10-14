@@ -88,4 +88,4 @@ En daarnaast: customized knoppen met: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Timeff Emma CRM wordt gekoppeld met telefonie van Callvoip op basis van een CSV-koppeling.<br>
 De Callvoip telefoon-integratie met Timeff Emma kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
