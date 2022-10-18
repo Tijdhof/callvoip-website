@@ -24,7 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Automaterialen-groothandel
-  - Boekhouding
+  - Relatiebeheer
 weight: 10
 url: /marketplace/easy-trade/
 aliases: /program-shop/easy-trade/
