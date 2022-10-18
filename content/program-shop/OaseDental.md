@@ -75,4 +75,4 @@ En daarnaast: customized knoppen met: <br>
 Het programma Oase Dental wordt gekoppeld op basis van een URL Executor. Omdat Oase Dental zelf een ingebouwde telefoniekoppeling heeft, kan de pop-up van Bubble (en daarmee de functionaliteiten van de Bubble app) worden uitgeschakeld, omdat de Oase Dental module deze functie overneemt. Je kunt er ook voor kiezen de Bubble popup te behouden voor de extra knoppen en Google lookup.<br>
 De Callvoip telefoon-integratie met Oase Dental kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

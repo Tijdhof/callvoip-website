@@ -80,4 +80,4 @@ En daarnaast: customized knoppen met: <br>
 **Technische gegevens:**<br>
 Het softwarepakket WeFact CRM wordt gekoppeld met telefonie van Callvoip op basis van een HTTP-koppeling.<br>
 De Callvoip telefoon-integratie met WeFact kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

@@ -60,4 +60,4 @@ Maak de MS Teams integratie op maat zodat hij aansluit bij jouw situatie. Is een
 • Het persoonlijke belplan van een gebruiker werkt alleen voor inkomende oproepen, niet voor interne MS Teams gesprekken<br>
 <br>
 Geinteresseerd? Je kunt deze koppeling kostenloos testen!<br>
-<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

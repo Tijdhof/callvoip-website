@@ -83,4 +83,4 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket Simplicate wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 <a href="https://www.callvoip.nl/nieuws/crmintegratie-bbaw/" target="_blank">Gebruikerservaring: Callvoip Simplicate integratie voor BBAW in Norg.</b><br>
 De Callvoip telefoon-integratie met Simplicate kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

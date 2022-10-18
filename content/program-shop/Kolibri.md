@@ -86,4 +86,4 @@ Door de integratiemethode met het softwarepakket Kolibri CRM wordt de functional
 **Let op: voor het gebruik van de Kolibri CRM koppeling geldt een éénmalig bedrag van 450,- ex BTW als licentiekosten voor activatie vanuit Kolibri CRM.** <br>
 De Callvoip telefoon-integratie met Kolibri CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

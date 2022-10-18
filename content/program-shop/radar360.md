@@ -87,4 +87,4 @@ Het softwarepakket Radar360 wordt gekoppeld met telefonie van Callvoip op basis 
 **Let op:** om deze koppeling te activeren dient ook de VoIP-functionaliteit binnen Radar360 CRM te worden geactiveerd; dit is een betaalde functionaliteit (licentie).<br>
 De Callvoip telefoon-integratie met Radar360 kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

@@ -81,4 +81,4 @@ En daarnaast: customized knoppen met: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Supportpal CRM wordt gekoppeld met telefonie van Callvoip op basis van een SQL-koppeling.<br>
 De Callvoip telefoon-integratie met Supportpal kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

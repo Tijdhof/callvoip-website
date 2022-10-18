@@ -70,4 +70,4 @@ Daarnaast kun je max 4 customized knoppen toevoegen met: <br>
 **Technische gegevens:**<br>
 Door de integratiemethode met het softwarepakket Simar wordt de functionaliteit van de Bubble pop-up uitgeschakeld omdat Simar deze functie overneemt.<br>
 De Callvoip telefoon-integratie met Simar kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

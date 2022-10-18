@@ -92,4 +92,4 @@ Het softwarepakket Stratech-RCS Enterprise CRM wordt gekoppeld op basis van een 
 **Let op:** om de telefoonkoppeling te kunnen gebruiken dient de telefoonintegratie licentie te worden geactiveerd door Stratech-RCS Enterprise. Dit is een betaalde licentie.<br>
 De Callvoip telefoon-integratie met Stratech RCS kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

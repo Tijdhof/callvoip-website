@@ -80,6 +80,6 @@ En daarnaast: customized knoppen met: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Simplex CRM wordt gekoppeld met telefonie van Callvoip op basis van een URL-Executor.<br>
 De Callvoip telefoon-integratie met Simplex kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
                      
 

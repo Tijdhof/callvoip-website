@@ -96,4 +96,4 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket XPS CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 <a href="https://secure.xpslogic.com/service?&client=test_service_redcactus&service=service&module=hlp&action=manuals_system&hlp_manuals_system_xpsid=424&response=html" target="_blank">Hier vind je de instructies om de Callvoip XPS CRM koppeling in te stellen.</a><br>
 De Callvoip telefoon-integratie met XPS CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

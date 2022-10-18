@@ -87,4 +87,4 @@ Denk hierbij aan customized knoppen met: <br>
 **Technische gegevens:**<br>
 Het softwarepakket Store365 wordt gekoppeld op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met Store365 kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

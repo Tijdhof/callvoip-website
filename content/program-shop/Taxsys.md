@@ -77,4 +77,4 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket TaxSys Pro wordt gekoppeld met telefonie van Callvoip op basis van de telefoonkoppeling in TasSys Pro zelf.<br>
 De Callvoip telefoon-integratie met TaxSys Pro kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br>
-<a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

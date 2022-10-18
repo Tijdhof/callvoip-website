@@ -86,4 +86,4 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket Clientbox CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 **Let op:** aan de kant van Clientbox is een betaalde API licentie benodigd.<br>
 De Callvoip telefoon-integratie met Clientbox CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

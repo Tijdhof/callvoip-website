@@ -89,4 +89,4 @@ En daarnaast: customized knoppen zoals: <br>
 Het softwarepakket ActiveCampaign CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 <b>NB:</b> voor deze koppeling geldt een developmentbijdragen van 795,- ex BTW éénmalig.<br>
 De Callvoip telefoon-integratie met ActiveCampaign CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
-<br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>

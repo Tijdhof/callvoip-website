@@ -104,4 +104,4 @@ Het <a href="https://trengo.com/en?ref=marieketimmer&utm_source=CallVoip&utm_med
 De Callvoip telefoon-integratie met Trengo CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
 <a href="https://www.callvoip.nl/nieuws/trengo-en-callvoip/">Uitgelicht: Callvoip en Trengo - meer dan een popup</a><br>
 <a href="https://trengo.partnerpage.io/technology/callvoip">Uitgelicht: Callvoip Trengo partnerpage</a>
-<br><br><a href="/aanvragen/voip-cti/" class="button">Vraag nu deze koppeling aan</a>
+<br><br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
