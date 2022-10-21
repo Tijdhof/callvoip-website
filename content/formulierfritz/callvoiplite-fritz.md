@@ -1,5 +1,5 @@
 ---
-title: Callvoip Lite: speciaal voor FRITZ!
+title: "Callvoip Lite: speciaal voor FRITZ!"
 url: "/fritz-info/"
 hideinsearch: false
 hideingoogle: false
