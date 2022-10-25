@@ -1,13 +1,12 @@
 ---
-title: Alles voor tandartsen
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome integratie
-  tot volledige koppeling met jouw CRM.
+title: Telefonie voor tandartsen
+description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
 type: page
 layout: branche
 logos: false
 url: "/branches/tandarts/"
 hero:
-  title: Alles voor tandartsen
+  title: Telefonie voor tandartsen
   content: Telefonie voor een tandartsenpraktijk vraagt specifieke kennis en toepassingen
     om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden.
     Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen
