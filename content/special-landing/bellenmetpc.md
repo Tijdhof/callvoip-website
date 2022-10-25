@@ -5,7 +5,7 @@ url: /bellenmetcomputer/
 hideinsearch: true
 hideingoogle: false
 hero:
-  title: Zakelijk bellen op elke PC of Mac?
+  title: Zakelijk bellen op elke PC of Mac?<br>Vanaf 4,- per maand
   info: "Met Callvoip Webcalls kan je makkelijk overal zakelijk bellen. Geen installaties of gedoe: gewoon inloggen en bellen maar."
   form:
     title: Vertel me meer!
