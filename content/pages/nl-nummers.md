@@ -2,7 +2,7 @@
 logos: false
 blocks:
 - content: 'In het algemeen geldt: zaken die wij bij Callvoip in eigen beheer doen,
-    gaan snel en gemakkelijk :-) Binnen de nummervoorzieningen is dit van toepassing
+    gaan snel en gemakkelijk. Binnen de nummervoorzieningen is dit van toepassing
     op de regionale, Nederlandse nummers en de 085 landelijke nummers. Deze kun je
     gemakkelijk via <a href="/mijncallvoip/">Mijn Callvoip</a> aanvragen en zijn dan
     vlot actief. Ook als je er meer dan 1 nodig hebt.<br>Is standaard niet goed genoeg
