@@ -12,7 +12,7 @@ hero:
   content: 'Natuurlijk wil jij zo efficiënt mogelijk werken. Het met elkaar koppelen
     van de systemen waarmee je werkt kan dan veel tijdswinst opleveren. En wij hebben
     goed nieuws: wij hebben een standaard Chrome integratie en kunnen ook nog eens
-    koppelen met lange lijst pakketten. Dus onze telefonie praat met jouw eigen systeem!<br><br><a
+    koppelen met een lange lijst pakketten. Onze telefonie praat met jouw eigen systeem.<br><br><a
     href="/marketplace/" class="button" target="_blank">CRM Integratie Marketplace</a>'
   image: "/v1571655384/c2d-small2_qpj5cy.png"
   zooming: true
