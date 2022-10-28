@@ -11,7 +11,7 @@ hero:
   content: 'Of je nu thuis of op kantoor zit te werken, veel mensen zitten achter een
     PC. Die gebruiken we al voor bijna alles en daar komt nu ook bellen bij. Niet
     alleen de Teams of Zoom meeting, nee, we hebben het over het gebruik van jouw
-    vaste nummer op de PC. Dat kan met namelijk met <a href="/webcalls/">Webcalls</a>.
+    vaste nummer op de PC. Dat kan namelijk met <a href="/webcalls/">Webcalls</a>.
     Maar ook het <a href="/marketplace/">integreren</a> van onze telefonie
     met jouw CRM is mogelijk. Maak van jouw PC dus ook jouw persoonlijke belcentrale!<br><br><a href="/webcalls/" class="button">Meer
     over Webcalls</a>'
