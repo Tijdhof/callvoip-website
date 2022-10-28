@@ -22,7 +22,7 @@ blocks:
     in andere landen? Geen probleem want ook internationale nummers zijn mogelijk.
     Ook een SIM kaart met 06 nummer in combinatie met onze VaMos vast mobiel oplossing
     behoort tot de mogelijkheden. Net als 0800 en 0900 servicenummers. Kortom: ontelbaar
-    veel nummers :-)'
+    veel nummers.'
   image: "/v1600956804/phonenumber_rfynzr.png"
   zooming: true
   position: image_left
