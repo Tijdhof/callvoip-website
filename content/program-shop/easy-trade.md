@@ -23,7 +23,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Automaterialen-groothandel
+  - Automaterialen
   - Relatiebeheer
 weight: 10
 url: /marketplace/easy-trade/
