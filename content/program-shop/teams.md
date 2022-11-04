@@ -19,7 +19,7 @@ weight: 10
 url: /marketplace/Teams/
 aliases: /program-shop/Teams/
 headerside:
-  title: Waarom Teamsintegratie?
+  title: Waarom Teams integratie?
   list:
     - krachtige Callvoip centrale
     - én alle voordelen van MS Teams 
