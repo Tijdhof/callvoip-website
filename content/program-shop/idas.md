@@ -35,7 +35,7 @@ headerside:
 iDAS BeesdA2:  Dealer Management Systeem (iDAS), software en IT-dienstverlening voordealers van Volvo Cars Nederland**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip iDAS–BeesdA2 telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en iDAS–BeesdA2 CRM voor Volvodealers. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in het iDAS–BeesdA2 systeem staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1627995868/volvo_qf3vv4.png" style="float:right; margin-left:15px; border:1px solid black;" width=500px" class="zoom">Met de Callvoip iDAS–BeesdA2 telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en iDAS–BeesdA2 CRM voor Volvodealers. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in het iDAS–BeesdA2 systeem staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit iDAS–BeesdA2 en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
