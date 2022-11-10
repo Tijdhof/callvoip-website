@@ -106,7 +106,7 @@ bottom:
     etc. per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Totaal</span> <span class="text-lg md:text-2xl
-    font-medium opacity-75">€34,50</span> </div> </div> <div class="text-right px-6
+    font-medium opacity-75">€26,50</span> </div> </div> <div class="text-right px-6
     text-sm pb-6 italic"> Prijzen per maand,  excl. belkosten en excl. BTW </div>
     </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>
   title2: ''
