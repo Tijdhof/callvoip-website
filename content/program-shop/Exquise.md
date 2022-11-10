@@ -16,10 +16,8 @@ button:
 categories:
   - Tandarts
   - Integrated Popup
-  - Meest populair
   - Medisch
-weight: 1
-populair: true
+weight: 10
 url: /marketplace/Exquise/
 aliases: /program-shop/Exquise/
 headerside:
