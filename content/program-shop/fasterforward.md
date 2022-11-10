@@ -25,9 +25,7 @@ button:
 categories:
   - Hypotheken
   - Verzekeringen
-  - Meest populair
-weight: 1
-populair: true
+weight: 10
 url: /marketplace/fasterforward/
 aliases: /program-shop/fasterforward/
 
