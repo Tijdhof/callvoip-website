@@ -13,9 +13,7 @@ button:
   link: /marketplace/
 categories:
   - Webshop software
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 url: /marketplace/lightspeedhq/
 aliases: /program-shop/lightspeedhq/
 headerside:
