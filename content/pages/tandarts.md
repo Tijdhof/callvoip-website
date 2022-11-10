@@ -38,7 +38,7 @@ textblocksfooter:
     Met zo’n koppeling verschijnt op de computer van de assistente / praktijkondersteuner
     een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw
     pakket. Alle bekende namen ondersteunen we: Bytegear, Oase Dental, Exquise, Simplex
-    en nog veel meer.<br><br><a href="/telefonie/integratiemetcrm/" class="button">Lees
+    en nog veel meer.<br><br><a href="/marketplace/" class="button">Lees
     meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
@@ -57,7 +57,7 @@ usps:
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
       eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen
-      als Oase Dental, Exquise en vele anderen.<br><br><a href="/telefonie/integratie/"
+      als Oase Dental, Exquise en vele anderen.<br><br><a href="/marketplace/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
