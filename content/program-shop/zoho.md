@@ -15,7 +15,9 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Auto Call Log
-weight: 10
+  - Meest populair
+weight: 1
+populair: true
 url: /marketplace/zoho/
 aliases: /program-shop/zoho/
 headerside:
