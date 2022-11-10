@@ -16,10 +16,8 @@ button:
 categories:
   - Customerservice
   - E-Commerce
-  - Nieuw
   - Auto call log
-weight: 1
-new: true
+weight: 10
 url: /marketplace/zendesk/
 aliases: /program-shop/zendesk/
 headerside:
