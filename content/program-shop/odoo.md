@@ -29,8 +29,7 @@ categories:
   - Boekhouding
   - Projectbeheer
   - Auto Call Log
-weight: 1
-new: true
+weight: 10
 url: /marketplace/odoo/
 aliases: /program-shop/odoo/
 
