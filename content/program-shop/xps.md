@@ -17,9 +17,7 @@ categories:
   - Relatiebeheer
   - Urenregistratie
   - Auto call log
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 url: /marketplace/xps/
 aliases: /program-shop/xps/
 headerside:
