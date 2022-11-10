@@ -23,7 +23,7 @@ textblocksfooter:
 - title1: Koppel jouw eigen recruitmentsoftware
   content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: CatsOne, Bullhorn, Carerix, Recruitenow en Yellow Yard. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/cti-small2_bvq2lx.png">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als recruiter</div>
