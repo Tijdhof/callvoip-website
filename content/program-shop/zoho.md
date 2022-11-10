@@ -15,11 +15,9 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Auto Call Log
-  - Meest populair
-weight: 1
-populair: true
-url: /marketplace/zoho
-aliases: /program-shop/zoho
+weight: 10
+url: /marketplace/zoho/
+aliases: /program-shop/zoho/
 headerside:
   title: Waarom integreren?
   list:
