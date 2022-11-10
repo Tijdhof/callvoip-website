@@ -16,9 +16,7 @@ button:
 categories:
   - Workflow
   - Zonnepanelenmarkt
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 url: /marketplace/2solar/
 aliases: /program-shop/2solar/
 headerside:
