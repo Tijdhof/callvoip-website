@@ -26,8 +26,7 @@ categories:
   - Recruitment
   - Relatiebeheer
   - Auto Call Log
-weight: 1
-new: true
+weight: 10
 url: /marketplace/catsone/
 aliases: /program-shop/catsone/
 
