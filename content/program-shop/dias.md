@@ -25,9 +25,7 @@ button:
 categories:
   - Verzekeringen
   - Hypotheken
-  - Nieuw
-weight: 1
-new: true
+weight: 10
 url: /marketplace/dias/
 aliases: /program-shop/dias/
 
