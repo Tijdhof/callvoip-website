@@ -18,7 +18,7 @@ categories:
   - Zonnepanelenmarkt
   - Meest populair
 weight: 1
-popular: true
+populair: true
 url: /marketplace/2solar/
 aliases: /program-shop/2solar/
 headerside:
