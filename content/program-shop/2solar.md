@@ -16,7 +16,9 @@ button:
 categories:
   - Workflow
   - Zonnepanelenmarkt
-weight: 10
+  - Meest populair
+weight: 1
+popular: true
 url: /marketplace/2solar/
 aliases: /program-shop/2solar/
 headerside:
