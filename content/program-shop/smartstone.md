@@ -17,7 +17,7 @@ categories:
   - Sierbestratingsbranche
   - Nieuw
 new: true
-weight: 1
+weight: 2
 url: /marketplace/smartstone/
 aliases: /program-shop/smartstone/
 headerside:
