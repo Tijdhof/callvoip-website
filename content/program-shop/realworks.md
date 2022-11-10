@@ -14,12 +14,10 @@ button:
 categories:
   - Property Management
   - Makelaars
-  - Meest populair
   - Auto Call Log
   - Integrated Popup
   - Embedded Popup
-weight: 1
-populair: true
+weight: 10
 url: /marketplace/realworks/
 aliases: /program-shop/realworks/
 headerside:
