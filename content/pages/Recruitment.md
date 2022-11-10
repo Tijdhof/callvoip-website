@@ -8,7 +8,7 @@ url: "/branches/recruitment/"
 hero:
   title: Telefonie voor Recruitment
   content: 'Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we belbundels zodat de maandelijkse kosten voor belverkeer naar vast en mobiel binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis click to dial app ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek via de browser en de naam van de beller direct in beeld. En daarnaast koppelen we jouw CRM pakket (zoals CatsOne, Bullhorn, Carerix, Recruitenow en Yellow Yard) met ons platform. Jouw voordeel: direct alle gegevens van jouw kandidaten in beeld<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
-  image: "/v1571655384/recruiter_nckkz2.png"
+  image: "/v1571655384/recruiter-small_tkmp0n.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
