@@ -17,9 +17,7 @@ categories:
   - Workflow
   - Auto call log
   - Planning
-  - Meest populair
-weight: 1
-populair: true
+weight: 10
 url: /marketplace/Gripp/
 aliases:
   - /program-shop/Gripp/
