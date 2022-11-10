@@ -15,7 +15,9 @@ categories:
   - E-commerce
   - Auto call log
   - Custom fields
-weight: 10
+  - Meest populair
+weight: 1
+populair: true
 url: /marketplace/hubspot/
 aliases: /program-shop/hubspot/
 headerside:
