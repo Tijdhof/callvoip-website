@@ -24,7 +24,9 @@ button:
   link: /marketplace/
 categories:
   - Recruitment
-weight: 10
+  - Nieuw
+weight: 2
+new: true
 url: /marketplace/recruitnow/
 aliases: /program-shop/recruitnow/
 
