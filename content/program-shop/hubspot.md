@@ -13,11 +13,9 @@ button:
   link: /marketplace/
 categories:
   - E-commerce
-  - Meest populair
   - Auto call log
   - Custom fields
-weight: 1
-populair: true
+weight: 10
 url: /marketplace/hubspot/
 aliases: /program-shop/hubspot/
 headerside:
