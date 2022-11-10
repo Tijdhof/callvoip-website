@@ -16,10 +16,8 @@ button:
 categories:
   - E-commerce
   - Customerservice
-  - Meest populair
   - Auto Call Log
-weight: 1
-populair: true
+weight: 10
 url: /marketplace/Pipedrive/
 aliases: /program-shop/Pipedrive/
 headerside:
