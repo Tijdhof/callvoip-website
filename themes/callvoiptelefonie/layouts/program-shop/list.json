@@ -1,12 +1,8 @@
-{{ $t := where .Site.Taxonomies.categories ".Page.Section" "program-shop" }}
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Pages -}}
     {{- if not (.Params.hideinsearch) -}}
     {{- $.Scratch.Add "index" (dict "title" .Params.shorttitle "url" .Permalink ) -}}
     {{end }}
-{{- end -}}
-{{ range $t -}}
-    {{- $.Scratch.Add "index" (dict "title" .Page.Title "url" false ) -}}
 {{- end -}}
 
 {{- $.Scratch.Get "index" | jsonify -}}
