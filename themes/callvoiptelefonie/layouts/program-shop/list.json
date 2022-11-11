@@ -1,7 +1,17 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Pages -}}
+    {{ $title := .Params.shorttitle }}
+    {{ $url := .Permalink }}
+    
     {{- if not (.Params.hideinsearch) -}}
-    {{- $.Scratch.Add "index" (dict "title" .Params.shorttitle "url" .Permalink ) -}}
-    {{end }}
+    {{- $.Scratch.Add "index" (dict "title" $title "url" $url "match" (lower $title)) -}}
+
+    {{- with .Params.search_words -}}
+    {{- range . -}}
+    {{- $.Scratch.Add "index" (dict "title" $title "url" $url "match" (lower .)) -}}
+    {{- end }}
+    {{- end }}
+    
+    {{- end }}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
