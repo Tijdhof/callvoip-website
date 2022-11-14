@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als recruiter maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
-  image: "/v1572861318/recruiterCRM_ox8oau.png"
+  image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
   title: Altijd bereikbaar
@@ -23,7 +23,7 @@ textblocksfooter:
 - title1: Koppel jouw eigen recruitmentsoftware
   content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: CatsOne, Bullhorn, Carerix, Recruitenow en Yellow Yard. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/cti-small2_bvq2lx.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/recruiterCRM_ox8oau.png">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als recruiter</div>
