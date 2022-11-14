@@ -85,3 +85,8 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://j04jt21j.sibpages.com/"
   status = 301
   force = true
+[[redirects]]
+  from = "/oplossingen/branches/recruitment/"
+  to = "/branches/recruitment/"
+  status = 301
+  force = true
