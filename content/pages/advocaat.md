@@ -29,7 +29,7 @@ textblocksfooter2:
 - title1: ''
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/0018246_digital-faxing_450_bbtjha.png">
   title2: 'Faxbox'
-  content2: 'Minder noodzakelijk maar nog steeds gewaardeerd en gebruikt is de Faxbox. Door gebruik te maken van de fax-oplossing van Callvoip blijft de praktijk inkomend bereikbaar onder het faxnummer. Faxen komen nu niet meer fysiek uit een faxapparaat gerold, maar komen, heel praktisch, binnen als handzaam PDF-bestand via de e-mail. Niet meer onnodig printen, gemakkelijk te archiveren én alles al digitaal. Ook het uit-faxen gaat nu digitaal via de online telefooncentrale. Je logt in, uploadt een PDF en stuurt deze zo digitaal naar een faxnummer.<br><br><a href="https://www.callvoip.nl/telefonie/functionaliteiten/fax/">Meer informatie</a>'
+  content2: 'Minder noodzakelijk maar nog steeds gewaardeerd en gebruikt is de Faxbox. Door gebruik te maken van de fax-oplossing van Callvoip blijft de praktijk inkomend bereikbaar onder het faxnummer. Faxen komen nu niet meer fysiek uit een faxapparaat gerold, maar komen, heel praktisch, binnen als handzaam PDF-bestand via de e-mail. Niet meer onnodig printen, gemakkelijk te archiveren én alles al digitaal. Ook het uit-faxen gaat nu digitaal via de online telefooncentrale. Je logt in, uploadt een PDF en stuurt deze zo digitaal naar een faxnummer.<br><br><a href="https://www.callvoip.nl/telefonie/functionaliteiten/fax/" class="button">Meer informatie</a>'
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als advocaat</div>
