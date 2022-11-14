@@ -26,10 +26,10 @@ textblocksfooter:
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/advocaatcrm_ftnpwd.png">
   show_vshape: false
 textblocksfooter2:
-- title1: Koppel jouw eigen CRM Software
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Hiermee wordt degene die belt verrijkt met gegevens uit je database. Met 1 klik open je de bijbehorende gegevens in jouw pakket.<br><br>Alle bekende CRM paketten voor de advocatuur ondersteunen we. Denk dan aan DLex Wolter Kluwer en Urios. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
-  title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/advocaatcrm_ftnpwd.png">
+- title1: ''
+  content1: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/0018246_digital-faxing_450_bbtjha.png">
+  title2: 'Faxbox'
+  content2: 'Minder noodzakelijk maar nog steeds gewaardeerd en gebruikt is de Faxbox. Door gebruik te maken van de fax-oplossing van Callvoip blijft de praktijk inkomend bereikbaar onder het faxnummer. Faxen komen nu niet meer fysiek uit een faxapparaat gerold, maar komen, heel praktisch, binnen als handzaam PDF-bestand via de e-mail. Niet meer onnodig printen, gemakkelijk te archiveren én alles al digitaal. Ook het uit-faxen gaat nu digitaal via de online telefooncentrale. Je logt in, uploadt een PDF en stuurt deze zo digitaal naar een faxnummer.<br><br><a href="https://www.callvoip.nl/telefonie/functionaliteiten/fax/">Meer informatie</a>'
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als advocaat</div>
