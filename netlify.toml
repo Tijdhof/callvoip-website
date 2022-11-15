@@ -90,3 +90,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "/branches/recruitment/"
   status = 301
   force = true
+[[redirects]]
+  from = "/oplossingen/branches/advocatuur/"
+  to = "/branches/advocaten/"
+  status = 301
+  force = true
+
