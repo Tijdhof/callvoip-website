@@ -4,11 +4,11 @@
     {{ $url := .Permalink }}
     
     {{- if not (.Params.hideinsearch) -}}
-    {{- $.Scratch.Add "index" (dict "title" $title "url" $url "match" (lower $title)) -}}
+    {{- $.Scratch.Add "index" (dict "title" $title "url" $url "match" (upper $title)) -}}
 
     {{- with .Params.search_words -}}
     {{- range . -}}
-    {{- $.Scratch.Add "index" (dict "title" $title "url" $url "match" (lower .)) -}}
+    {{- $.Scratch.Add "index" (dict "title" $title "url" $url "match" (upper .)) -}}
     {{- end }}
     {{- end }}
     
