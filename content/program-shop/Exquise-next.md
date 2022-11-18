@@ -30,6 +30,8 @@ headerside:
   btn:
     text: Exquise Next-koppeling gratis zelf testen?
     url: /aanvragen/voip-cti/
+search_words:
+     - Tandarts
 
 ---
 
