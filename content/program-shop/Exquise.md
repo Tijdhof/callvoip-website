@@ -29,7 +29,9 @@ headerside:
   btn:
     text: Exquise-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
-
+search_words:
+     - Tandarts
+     
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en Exquise Software voor Tandartsen?<br>
