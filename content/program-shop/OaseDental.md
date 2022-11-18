@@ -30,6 +30,8 @@ headerside:
   btn:
     text: OaseDental-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
+search_words:
+     - Tandarts
 
 ---
 
