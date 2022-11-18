@@ -28,6 +28,8 @@ headerside:
   btn:
     text: Bytegear-koppeling 1 week gratis testen?
     url: /aanvragen/voip-cti/
+search_words:
+     - Tandarts
 
 ---
 
