@@ -29,6 +29,10 @@ headerside:
   btn:
     text: Test de ActiveCampaign-koppeling 1 week gratis!
     url: /aanvragen/voip-cti/
+search_words:
+  - Marketing
+  - E-commerce
+  - Sales
 
 
 ---
