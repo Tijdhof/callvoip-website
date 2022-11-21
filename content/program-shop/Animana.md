@@ -25,6 +25,8 @@ headerside:
   btn:
     text: Animana-koppeling kostenloos testen?
     url: /aanvragen/voip-cti/
+search_words:
+  - Dierenartsen
 
 ---
 
