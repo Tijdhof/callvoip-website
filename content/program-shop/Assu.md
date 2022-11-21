@@ -27,6 +27,8 @@ headerside:
   btn:
     text: Assu-koppeling gratis 1 week testen?
     url: /aanvragen/voip-cti/
+search_words:
+  - Assurantien
 
 ---
 
