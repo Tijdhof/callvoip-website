@@ -81,7 +81,7 @@ prijzen:
     title: Snel 4G internet met onbeperkt data
     items:
     - title: Maandelijks
-      price: 189.0
+      price: 199.0
     - title: Eenmalig (ongeveer)
       price: 450.0
     footer: Prijzen zijn excl. BTW
