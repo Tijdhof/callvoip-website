@@ -30,6 +30,9 @@ headerside:
   btn:
     text: Test de 2Solar-koppeling 1 week gratis!
     url: /aanvragen/voip-cti/
+search_words:
+  - Workflow
+  - Zonnepanelenmarkt
 
 
 ---
