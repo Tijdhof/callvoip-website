@@ -27,6 +27,8 @@ categories:
 weight: 10
 url: /marketplace/auditcase/
 aliases: /program-shop/auditcase/
+search_words:
+  - Accountancy
 
 ---
 
