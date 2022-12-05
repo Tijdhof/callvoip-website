@@ -5,8 +5,8 @@ url: /zakelijketelefonie/
 hideinsearch: true
 hideingoogle: false
 hero:
-  title: Slimme zakelijke, vaste telefonie voor iedereen!
-  info: "Met onze persoonlijke service en uitgekiende cloud centrale hebben we ook voor jouw organisatie de perfecte vaste telefonieoplossing."
+  title: Slimme zakelijke, vaste telefonie voor bedrijven!
+  info: '<b>Waarom Callvoip?</b><br><ul class="usp-list"><li>Hosted Telefonie van 1 tot 100+ gebruikers</li><li>Kennis van de juiste apparatuur</li><li>Koppel onze centrale met jouw CRM Pakket</li><li>Meer dan 12 jaar ervaring in VoIP telefonie</li><li>Enthousiast en persoonlijk supportteam</li></ul>'
   form:
     title: "Vertel me meer!"
     desc: Benieuwd naar onze service en wat onze slimme telefonie allemaal kan?
