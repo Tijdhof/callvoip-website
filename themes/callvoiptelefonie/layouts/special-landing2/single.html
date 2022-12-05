@@ -1,0 +1,109 @@
+{{ define "main" }}
+<section
+  style="background: url(https://res.cloudinary.com/callvoip/image/upload/v1632848068/team_x0ixvj.png) no-repeat center center;background-size: cover;">
+  <div class="bg-black bg-opacity-75">
+    <div class="container space-y-8 lg:space-y-16 py-8 lg:py-16">
+      <div><a href="{{.Site.BaseURL}}"><img
+            src="https://res.cloudinary.com/callvoip/image/upload/v1632848057/callvoip_wit_-_met_icon_nowixj.png"
+            alt="logo of website" class="mx-auto h-12"></a>
+      </div>
+      <div class="text-white text-center space-y-4" style="margin-top:2rem;">
+        <h1 class="text-3xl lg:text-4xl">{{ .Params.hero.title | markdownify }}</h1>
+        <div id="form"><p class="max-w-md mx-auto">{{ .Params.hero.info | markdownify }}</p></div>
+      </div>
+      <div class="max-w-screen-sm mx-auto bg-blue text-white p-4 rounded-md shadow-md">
+        <form class="mb-6" name="{{ lower .Title }}" action="/lp/verzonden/" accept-charset="UTF-8" method="POST"
+          data-netlify="true">
+          <input type="hidden" name="form-name" value="{{ lower .Title }}" />
+          <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
+          <p> <input type="hidden" id="formlayout" name="formlayout" value="d-f81edba681b54d4f86440455bce665d0"
+              class="hidden"> </p>
+          <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
+
+          <div class="space-y-4">
+            <h3 class="text-3xl">{{ .Params.hero.form.title }}</h3>
+            <p>{{ .Params.hero.form.desc }}</p>
+          </div>
+          <br>
+          <div class="space-y-4">
+            <div class="space-y-2 flex flex-col">
+              <label for="Email">Email</label>
+              <input type="email" name="Email" required class="w-full text-black bg-white rounded-full px-3 py-2">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Telefoonnummer">Telefoonnummer</label>
+              <input type="tel" name="Telefoonnummer" required
+                class="w-full text-black bg-white rounded-full px-3 py-2">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Bedrijfsnaam">Bedrijfsnaam</label>
+              <input type="text" name="Bedrijfsnaam" required
+                class="w-full text-black bg-white rounded-full px-3 py-2">
+            </div>
+            <p>
+              <button type="submit" class="w-full py-3 bg-oranger hover:shadow-md rounded-full">Versturen</button>
+            </p>
+            <p>
+              <small>Jouw gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
+            </p>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="bg-grey-lightest">
+  <div class="container text-black leading-relaxed py-8 lg:py-16 space-y-8">
+    <div class="space-y-2 text-center">
+      <h2 class="text-3xl lg:text-4xl">{{ .Params.waroom.title }}</h2>
+      <p class="max-w-md mx-auto">{{ .Params.waroom.info }}</p>
+    </div>
+    <div class="flex flex-wrap">
+      {{ range .Params.waroom.cards }}
+      <div class="lg:w-1/4 md:w-1/2 w-full p-2 space-y-2">
+        <img src="https://res.cloudinary.com/callvoip/image/upload/c_crop,c_fill,h_300{{.img}}" alt="">
+        <h3 class="text-xl">{{.name}}</h3>
+        <p class="font-light">{{.info | markdownify }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <p class="text-center">
+      <a href="{{ .Params.waroom.btn.url }}" class="button">{{ .Params.waroom.btn.title }}</a>
+    </p>
+  </div>
+</section>
+<section>
+  <div class="container text-black lg:flex items-center lg:space-x-8 py-8 lg:py-16 space-y-8 lg:space-y-0">
+    <div class="w-full flex flex-wrap">
+      {{ range .Params.anderen.img }}
+      <img src="https://res.cloudinary.com/callvoip/image/upload/c_crop,c_fill,h_400,w_400{{.}}" alt=""
+        class="w-1/2 border-4 lg:border-8 border-white">
+      {{ end }}
+    </div>
+    <div class="w-full space-y-8">
+      <h3 class="text-3xl">Anderen over ons</h3>
+      <div class="space-y-6 leading-loose">
+        {{ range.Params.anderen.testimoials }}
+        <blockquote>
+          <p>&OpenCurlyDoubleQuote;{{.p}}&CloseCurlyDoubleQuote;</p>
+          <p class="text-right">&mdash; {{.title}}</p>
+        </blockquote>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+<div class="bg-grey text-white text-center">
+  <div class="container space-y-8 lg:space-y-16 py-8 lg:py-16">
+    <h3 class="text-3xl">Callvoip - Slimme, zakelijke VoIP telefonie</h3>
+    <p><a href="{{ .Params.btn.url }}" class="px-6 py-4 rounded-full bg-oranger text-white text-center">
+        {{ .Params.btn.title }}</a></p>
+  </div>
+</div>
+<footer>
+  <div class="text-black container flex items-center space-x-4 py-8">
+    <img src="/images/callvoip-logo.svg" alt="logo" class="h-12">
+    <a href="/privacy/">Privacy Policy</a>
+  </div>
+</footer>
+{{ end }}
