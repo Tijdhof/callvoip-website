@@ -6,7 +6,7 @@ hideinsearch: true
 hideingoogle: false
 hero:
   title: Slimme zakelijke, vaste telefonie voor bedrijven!
-  info: '<b>Waarom Callvoip?</b><br><ul class="space-y-1"><li>✓ Hosted Telefonie van 1 tot 100+ gebruikers</li><li>✓ Kennis van de juiste apparatuur</li><li>✓ Koppel onze centrale met jouw CRM Pakket</li><li>✓ Meer dan 12 jaar ervaring in VoIP telefonie</li><li>✓ Enthousiast en persoonlijk supportteam</li></ul>'
+  info: '<b>Waarom Callvoip?</b><br><ul class="space-y-1"><li>✓ Kennis van de juiste apparatuur</li><li>✓ Enthousiast en persoonlijk supportteam</li><li>✓ Hosted Telefonie van 1 tot 100+ gebruikers</li><li>✓ Koppel onze centrale met jouw CRM Pakket</li><li>✓ Meer dan 12 jaar ervaring in VoIP telefonie</li></ul>'
   form:
     title: "Vertel me meer!"
     desc: Benieuwd naar onze service en wat onze slimme telefonie allemaal kan?
