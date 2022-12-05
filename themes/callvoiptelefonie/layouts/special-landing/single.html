@@ -49,6 +49,48 @@
           </div>
         </form>
       </div>
+      
+      {{ with .Params.form2 }}
+      <div class="max-w-screen-sm mx-auto bg-blue text-white p-4 rounded-md shadow-md">
+        <form class="mb-6" name="{{ lower .Title }}" action="/lp/verzonden/" accept-charset="UTF-8" method="POST"
+          data-netlify="true">
+          <input type="hidden" name="form-name" value="{{ lower .Title }}" />
+          <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
+          <p> <input type="hidden" id="formlayout" name="formlayout" value="d-f81edba681b54d4f86440455bce665d0"
+              class="hidden"> </p>
+          <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
+
+          <div class="space-y-4">
+            <h3 class="text-3xl">{{ .Params.hero.form.title }}</h3>
+            <p>{{ .Params.hero.form.desc }}</p>
+          </div>
+          <br>
+          <div class="space-y-4">
+            <div class="space-y-2 flex flex-col">
+              <label for="Email">Email</label>
+              <input type="email" name="Email" required class="w-full text-black bg-white rounded-full px-3 py-2">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Telefoonnummer">Telefoonnummer</label>
+              <input type="tel" name="Telefoonnummer" required
+                class="w-full text-black bg-white rounded-full px-3 py-2">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Bedrijfsnaam">Bedrijfsnaam</label>
+              <input type="text" name="Bedrijfsnaam" required
+                class="w-full text-black bg-white rounded-full px-3 py-2">
+            </div>
+            <p>
+              <button type="submit" class="w-full py-3 bg-oranger hover:shadow-md rounded-full">Versturen</button>
+            </p>
+            <p>
+              <small>Jouw gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
+            </p>
+          </div>
+        </form>
+      </div>
+	  {{ end }}
+      
     </div>
   </div>
 </section>
