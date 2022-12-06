@@ -1,7 +1,7 @@
 ---
-title: "Zakelijke, vaste telefonie"
+title: "Zakelijke, vaste telefonie - FB"
 date: 2021-10-12T21:05:12+05:00
-url: /zakelijketelefonie2/
+url: /zakelijketelefonieFB/
 hideinsearch: true
 hideingoogle: false
 hero:
@@ -14,7 +14,7 @@ waroom:
   title: Waarom Callvoip?
   info: "Callvoip staat voor slimme, zakelijke VoIP telefonie met persoonlijke service. Een greep uit de mogelijkheden:"
   btn:
-    url: /zakelijketelefonie/#form
+    url: /zakelijketelefonieFB/#form
     title: Dit wil ik!
   cards:
     - name: Integreer je CRM
@@ -44,7 +44,7 @@ anderen:
       title: Hartan Nederland
 
 btn:
-  url: /zakelijketelefonie/#form
+  url: /zakelijketelefonieFB/#form
   title: Vertel me meer over jullie telefonie
   
 ---
