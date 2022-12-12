@@ -65,7 +65,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/textarea "Opmerkingen" >}}
 
-<textarea placeholder="this text will show in the textarea"></textarea>
+<textarea id="opmerkingen" name="opmerkingen" class="w-full border border-grey-light bg-white  px-3 py-3 text-base" cols="30" rows="10"> placeholder="this text will show in the textarea"></textarea>
 
 {{</ form/fieldset >}}
 
