@@ -65,6 +65,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/textarea "Opmerkingen" >}}
 
+<textarea placeholder="this text will show in the textarea"></textarea>
+
 {{</ form/fieldset >}}
 
 {{< form/button "Verstuur formulier" >}}
