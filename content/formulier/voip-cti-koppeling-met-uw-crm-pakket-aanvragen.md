@@ -63,7 +63,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/textarea "Opmerkingen" >}}
+{{< form/textarea "Opmerkingen" Test >}}
 
 {{</ form/fieldset >}}
 
