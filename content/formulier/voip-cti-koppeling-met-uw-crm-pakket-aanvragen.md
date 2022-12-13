@@ -69,6 +69,12 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 <textarea name="Users" id="users" style="width: 0;height: 0;"></textarea>
 
+<script>
+var fieldsets = document.querySelectorAll('[name="aanvragen-voipcti"] fieldset');
+var fields ="<div class='bg-grey-lightest px-4 xl:px-8 py-4 xl:py-6 mb-6 rounded-lg'><div class='mb-4'><label class='block'>Voor &amp; achternaam </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>E-mail adres </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Intern nummer </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Windows of Apple gebruiker </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div></div>"
+fieldsets[fieldsets.length - 1].insertAdjacentHTML('afterend', "<fieldset><legend class='mb-2 text-2xl font-semibold' id='userfields'>Persoonsgegevens van de gebruiker(s)</legend>" + fields +"<div class='text-right'><button class='button' type='button' onclick='addUser(this)'>Add user +</button></div></fieldset>"
+</script>
+
 {{< form/button "Verstuur formulier" >}}
 
 <br><br>
