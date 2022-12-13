@@ -79,6 +79,18 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
+{{< form/fieldset "Persoonsgegevens van de gebruiker(s) 2" >}}
+
+{{< form/input "Voor & achternaam 2" >}}
+
+{{< form/input "E-mail adres2" >}}
+
+{{< form/input "Intern nummer2" >}}
+
+{{< form/input "Windows of Apple gebruiker2" >}}
+
+{{</ form/fieldset >}}
+
 {{< form/button "Verstuur formulier" >}}
 
 <br><br>
