@@ -67,6 +67,12 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
+{{< form/fieldset "Persoonsgegevens van de gebruiker(s)" >}}
+
+<textarea name="Users" id="users" class="w-0 h-0"></textarea>
+
+{{</ form/fieldset >}}
+
 {{< form/button "Verstuur formulier" >}}
 
 <br><br>
