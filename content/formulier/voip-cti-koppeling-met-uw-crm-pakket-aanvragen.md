@@ -77,6 +77,14 @@ fieldsets[fieldsets.length - 1].insertAdjacentHTML('afterend', "<fieldset id='us
 function addUser(el) {
 	el.parentElement.insertAdjacentHTML('beforebegin',fields)
 }
+
+document.querySelectorAll('#userfields > .mb-6').forEach((e, i) => {
+	let user = 'User ' + (i + 1) + ' \n'
+	e.querySelectorAll('input').forEach(input => {
+		user += input.previousElementSibling.textContent + ': ' + input.value + '\n'
+	})
+	document.getElementById('users').textContent += (user + '-----------------\n')
+})
 </script>
 
 {{< form/button "Verstuur formulier" >}}
