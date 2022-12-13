@@ -79,6 +79,18 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
+<script>
+var userFields = document.querySelectorAll('[name="aanvragen-voipcti"] fieldset')[2];
+userFields.insertAdjacentHTML('beforeend', "<div class='text-right'><button class='button' type='button' onclick='addUser(this)'>Add user +</button></div>")
+
+function addUser() {
+	var allUsers = userFields.querySelectorAll(':scope > .mb-6')
+	var newUser = allUsers[0].cloneNode(true)
+	newUser.querySelectorAll('input').forEach(e => e.name += ' ' + (allUsers.length + 1))
+	allUsers[allUsers.length - 1].insertAdjacentElement('afterend', newUser)
+}
+</script>
+
 {{< form/button "Verstuur formulier" >}}
 
 <br><br>
