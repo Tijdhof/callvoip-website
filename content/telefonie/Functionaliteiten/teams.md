@@ -1,5 +1,5 @@
 ---
-title: MS Teams | Koppel Callvoip met je MS Teams-omgeving
+title: Koppel Callvoip met MS Teams en integreer jouw zakelijke nummer
 description: Koppel Callvoip met MS Teams en profiteer van het best van twee werelden!
   Jouw nummer rinkelt op jouw MS Teams account. En we hebben er ook speciale MS Team-toestellen
   bij. Hoe handig is dat?
