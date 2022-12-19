@@ -12,12 +12,7 @@ aliases:
 - "/telefonie/functionaliteiten/msteams/"
 hero:
   title: Koppel Callvoip met Microsoft Teams
-  content: 'Microsoft Teams is een veel gebruikt communicatiesysteem. Sinds Corona
-    is het gebruik ervan voor videobellen enorm gegroeid en daarmee ook de vraag of
-    het kan worden gekoppeld met het Callvoip-telefoonsysteem, met als doel dat je
-    op je zakelijke nummer kunt bellen en gebeld kunt worden, waarbij je je Teams-apps
-    en apparatuur gebruikt. Goed nieuws: dit is mogelijk, wij bieden een naadloze
-    koppeling voor integratie van MS Teams met je Callvoip-systeem!'
+  content: 'Microsoft Teams kan heel veel en wordt binnen organisaties voor veel zaken gebruikt. Communicatie komt ook uit allerlei hoeken. Denk aan Vaste en Mobiele telefonie, e-mail, chat, (video)calls etc… Met de gewenning aan het MS Teams systeem en de grote footprint van Microsoft is het niet onlogisch dat bedrijven zoeken naar een integratie van hun vaste zakelijke telefonie met Microsoft Teams.'
   image: "/v1571655384/msteams_xpwzzm.png"
   image_position: center
   disable_image_on_mobile: false
@@ -25,11 +20,7 @@ hero:
     content: Direct aanvragen
     link: "/aanvragen/ms-teams/"
 blocks:
-- content: MS Teams kan worden gebruikt op elke PC, Mac of mobiel apparaat, en dat
-    voegt flexibiliteit en plaats-onafhankelijkheid toe aan jouw team. Iedereen kan
-    nu nog eenvoudiger inkomend en uitgaand zakelijk bellen - waar dan ook en met
-    welke apparatuur dan ook. <br><br><a href="https://www.callvoip.nl/marketplace/teams/"
-    class="button">Hoe werkt het?</a>
+- content: 'Microsoft Teams is een veel gebruikt communicatiesysteem. Daarnaast kan MS Teams gebruikt worden op elke PC, Mac of mobiel apparaat, en dat voegt flexibiliteit en plaats-onafhankelijkheid toe aan jouw team. Iedereen kan nu nog eenvoudiger inkomend en uitgaand zakelijk bellen met de koppeling tussen MS Teams en de callvoip telefooncentrale- waar dan ook en met welke apparatuur dan ook.<br><br><a href="https://www.callvoip.nl/marketplace/teams/" class="button">Hoe werkt het?</a>'
   image: "/v1572861318/teams_ojza3v.png"
   position: image_left
   title: Jouw team nog flexibeler
