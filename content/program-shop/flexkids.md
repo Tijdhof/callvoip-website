@@ -23,7 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Recruitment
+  - Kinderopvang
+  - Zorg
 weight: 10
 url: /marketplace/Flexkids/
 aliases: /program-shop/Flexkids/
