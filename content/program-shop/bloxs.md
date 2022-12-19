@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM Bloxs aan onze telefonie"
 shorttitle: "Bloxs"
 date: 2021-06-03T16:52:17+05:00
-logo: "/bloxs_vx9lye.png"
+logo: "/bloxs_gbjtrq.png"
 description: Door het koppelen van Bloxs CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
@@ -31,7 +31,7 @@ aliases: /program-shop/Bloxs/
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Bloxs?**<br>
-**Bloxs: Bloxs levert innovatieve All-in-One Property Management Software voor Vastgoed Beleggings– en Property Management Organisaties. **<br>
+**Bloxs: Bloxs levert innovatieve All-in-One Property Management Software voor Vastgoed Beleggings– en Property Management Organisaties.**<br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip Bloxs telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Bloxs. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Bloxs staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
