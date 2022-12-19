@@ -25,6 +25,8 @@ button:
 categories:
   - Verzekeringen
   - Relatiebeheer
+  - Property Management
+  - Makelaars
 weight: 10
 url: /marketplace/brioportima/
 aliases: /program-shop/brioportima/
