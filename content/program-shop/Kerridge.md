@@ -23,7 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Taxisoftware
+  - E-commerce
+  - Customerservice
 weight: 10
 url: /marketplace/kerridge/
 aliases: /program-shop/kerridge/
