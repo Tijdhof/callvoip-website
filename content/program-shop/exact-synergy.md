@@ -16,9 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Meest populair
-weight: 1
-populair: true
+weight: 10
 url: /marketplace/exact-synergy/
 aliases: /program-shop/exact-synergy/
 headerside:
