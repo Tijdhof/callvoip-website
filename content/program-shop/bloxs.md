@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Vastgoedbeheer
+  - Property Management
 weight: 10
 url: /marketplace/Bloxs/
 aliases: /program-shop/Bloxs/
