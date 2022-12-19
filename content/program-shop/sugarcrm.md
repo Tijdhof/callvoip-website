@@ -26,6 +26,8 @@ categories:
   - Marketing
   - E-commerce
   - Sales
+  - Workflow
+  - Planning
 weight: 10
 url: /marketplace/sugarcrm/
 aliases: /program-shop/sugarcrm/
