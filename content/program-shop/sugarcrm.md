@@ -28,7 +28,9 @@ categories:
   - Sales
   - Workflow
   - Planning
-weight: 10
+  - Nieuw
+weight: 2
+new: true
 url: /marketplace/sugarcrm/
 aliases: /program-shop/sugarcrm/
 
