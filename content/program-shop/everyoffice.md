@@ -24,7 +24,9 @@ button:
   link: /marketplace/
 categories:
   - Relatiebeheer
-weight: 10
+  - Nieuw
+weight: 2
+new: true
 url: /marketplace/everyoffice/
 aliases: /program-shop/everyoffice/
 
