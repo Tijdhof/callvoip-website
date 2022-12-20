@@ -16,10 +16,8 @@ button:
 categories:
   - Workflow
   - IT-dienstverleners
-  - Nieuw
-weight: 2
+weight: 10
 url: /marketplace/freshservice/
-new: true
 aliases: /program-shop/freshservice/
 headerside:
   title: Waarom integreren?
