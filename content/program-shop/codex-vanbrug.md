@@ -15,10 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Notariaat
-  - Nieuw
-weight: 2
+weight: 10
 url: /marketplace/codex/
-new: true
 aliases: /program-shop/codex/
 headerside:
   title: Waarom integreren?
