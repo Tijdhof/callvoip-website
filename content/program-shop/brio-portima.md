@@ -27,7 +27,9 @@ categories:
   - Relatiebeheer
   - Property Management
   - Makelaars
-weight: 10
+  - Nieuw
+new: true
+weight: 2
 url: /marketplace/brioportima/
 aliases: /program-shop/brioportima/
 
