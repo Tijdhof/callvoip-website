@@ -15,7 +15,9 @@ button:
   link: /marketplace/
 categories:
   - Bouw
-weight: 10
+  - Nieuw
+weight: 2
+new: true
 url: /marketplace/bouwInfosys/
 aliases: /program-shop/bouwInfosys/
 headerside:
