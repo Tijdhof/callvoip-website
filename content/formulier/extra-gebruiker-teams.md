@@ -33,12 +33,6 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag extra gebruiker" >}}
-
-{{< form/textarea "Opmerkingen" >}}
-
-{{</ form/fieldset >}}
-
 <textarea name="Users" id="users" style="width: 0;height: 0;"></textarea>
 
 <script>
