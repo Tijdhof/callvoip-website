@@ -53,6 +53,8 @@ usps:
       link: "/aanvragen/extra-gebruiker/"
     - title: MS Teams koppeling 
       link: "/aanvragen/ms-teams/"
+    - title: MS Teams extra gebruiker 
+      link: "/aanvragen/extra-gebruiker-teams/"
   - title: Overig
     items:
     - title: Opdracht inspreken meldtekst
