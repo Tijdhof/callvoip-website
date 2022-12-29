@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 author: ''
 date: 
-url: ''
+url: "/nieuws/nieuwe-kleuren/"
 contactpersoon: []
 categories: []
 tags: []
