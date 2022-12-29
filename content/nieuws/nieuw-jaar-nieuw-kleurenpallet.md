@@ -27,3 +27,4 @@ Heb jij de nieuwe centrale al bekeken? Log dan in (verwijzen naar inlog) in jouw
 
 **Webhook app**  
 Compleet nieuw is de toevoeging van de Webhook app. Ben je handig met programmeren? Dan kan deze functie een waardevolle toevoeging zijn. Je kunt de Callvoip centrale nu integreren met functionaliteiten buiten je telefoon om. Alhoewel webhook zelf niet nieuw is, is de functie nieuw binnen het platform. Binnenkort vertellen we je uitgebreid meer over deze functionaliteit.
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1672326176/webhook_pwylfw.png">
