@@ -36,25 +36,26 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 <textarea name="Users" id="users" style="width: 0;height: 0;"></textarea>
 
 <script>
-var fieldsets = document.querySelectorAll('[name="aanvragen-teams-extra-user"] fieldset');
-var fields = "<div class='bg-grey-lightest px-4 xl:px-8 py-4 xl:py-6 mb-6 rounded-lg'><div class='mb-4'><label class='block'>Voor &amp; achternaam </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>E-mail adres </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Intern nummer </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Windows of Apple gebruiker </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div></div>"
-fieldsets[fieldsets.length - 1].insertAdjacentHTML('afterend', "<fieldset id='userfields'><legend class='mb-2 text-2xl font-semibold'>Persoonsgegevens van de gebruiker(s)</legend>" + fields + "<div class='text-center'><button class='button' type='button' onclick='addUser(this)'>Gebruiker toevoegen +</button></div></fieldset>")
+var fieldsets = document.querySelectorAll('\[name="aanvragen-teams-extra-user"\] fieldset');
+var fields = "<div class='bg-grey-lightest px-4 xl:px-8 py-4 xl:py-6 mb-6 rounded-lg'><div class='mb-4'><label class='block'>Voor & achternaam </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>E-mail adres </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Intern nummer </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div><div class='mb-4'><label class='block'>Windows of Apple gebruiker </label><input class='w-full border border-grey-light bg-white px-3 py-2 text-base'></div></div>"
+fieldsets\[fieldsets.length - 1\].insertAdjacentHTML('afterend', "<fieldset id='userfields'><legend class='mb-2 text-2xl font-semibold'>Persoonsgegevens van de gebruiker(s)</legend>" + fields + "<div class='text-center'><button class='button' type='button' onclick='addUser(this)'>Gebruiker toevoegen +</button></div></fieldset>")
 
 function addUser(el) {
-	el.parentElement.insertAdjacentHTML('beforebegin', fields)
+el.parentElement.insertAdjacentHTML('beforebegin', fields)
 }
 
-document.querySelector('[name="aanvragen-voipcti"]').addEventListener("submit", function (event) {
-	event.preventDefault();
+document.querySelector('\[name="aanvragen-voipcti"\]').addEventListener("submit", function (event) {
+event.preventDefault();
 
-	document.querySelectorAll('#userfields > .mb-6').forEach((e, i) => {
-		let user = 'User ' + (i + 1) + ' \n'
-		e.querySelectorAll('input').forEach(input => {
-			user += input.previousElementSibling.textContent + ': ' + input.value + '\n'
-		})
-		document.getElementById('users').textContent += (user + '-----------------\n')
-	})
-	this.submit()
+    document.querySelectorAll('#userfields > .mb-6').forEach((e, i) => {
+    	let user = 'User ' + (i + 1) + ' \n'
+    	e.querySelectorAll('input').forEach(input => {
+    		user += input.previousElementSibling.textContent + ': ' + input.value + '\n'
+    	})
+    	document.getElementById('users').textContent += (user + '-----------------\n')
+    })
+    this.submit()
+
 });
 </script>
 
@@ -93,13 +94,13 @@ Per gebruiker
 
 {{< layout/column3 >}}
 
-€ 5,00 excl. BTW
+€ 7,99 excl. BTW
 
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
 
-€ 25,00 excl. BTW
+€ 15,00 excl. BTW
 
 {{</ layout/column3 >}}
 
