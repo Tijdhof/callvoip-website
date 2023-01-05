@@ -76,7 +76,7 @@ function addUser(el) {
 	el.parentElement.insertAdjacentHTML('beforebegin', fields)
 }
 
-document.querySelector('[name="aanvragen-voipcti"]').addEventListener("submit", function (event) {
+document.querySelector('[name="aanvragen-voipcti-extra-user"]').addEventListener("submit", function (event) {
 	event.preventDefault();
 
 	document.querySelectorAll('#userfields > .mb-6').forEach((e, i) => {
