@@ -1,5 +1,5 @@
 ---
-title: Nieuw jaar, nieuw kleurenpallet
+title: Nieuw jaar, nieuw kleurenpalet
 description: ''
 images:
 - "/v1672328835/6046936_cnzgbg.png"
