@@ -59,8 +59,9 @@ Maak de MS Teams integratie op maat zodat hij aansluit bij jouw situatie. Is een
 • De Realtime API en de Operator Console werken alleen voor inkomende / uitgaande oproepen, interne oproepen (MS Teams) worden niet weergegeven<br>
 • Het persoonlijke belplan van een gebruiker werkt alleen voor inkomende oproepen, niet voor interne MS Teams gesprekken<br>
 <br>
-Geinteresseerd? Je kunt deze koppeling kostenloos testen. Wil je meer informatie dan kun je ook onze speciale whitepaper downloaden.<br>Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
-<div>
+Geinteresseerd? Je kunt deze koppeling kostenloos testen.<br>
+<b>Wil je meer informatie dan kun je ook onze speciale MS Teams whitepaper downloaden</b><br>Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
+<div style="width:60%;">
           <form class="mb-6" name="whitepaper" action="/bedank/whitepaper/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="whitepaper" />
               <p> <input type="hidden" id="formlayout" name="formlayout" value="d-8b49c21d95ab4559a59613773a179695"
