@@ -11,13 +11,13 @@ aliases:
 hero:
   title: Koppel Callvoip met Microsoft Teams
   content: 'Met de gewenning aan het MS Teams systeem en de grote footprint van Microsoft is het niet onlogisch dat bedrijven zoeken naar een <b>integratie</b> van hun vaste zakelijke <b>telefonie</b> met Microsoft Teams.<br><br>Maar wat komt er allemaal bij kijken? Hoeveel tijd kost het om een koppeling te maken? En hoe ziet de integratie er dan uit?<br><br>Om antwoord te geven op deze vragen hebben we een whitepaper geschreven. Deze whitepaper is bedoeld voor iedereen die geïnteresseerd is een verrijking van MS Teams met een zakelijk telefoonnummer.<br><br><a href="#formulier" class="button">MS Teams Whitepaper aanvragen</a>'
-  image: "/v1571655384/msteams_xpwzzm.png"
+  image: "/v1571655384/ms_teams_callvoip_jnwado.jpg"
   image_position: center
   disable_image_on_mobile: false
 blocks:
 - content: Microsoft Teams is een veel gebruikt communicatiesysteem. Daarnaast kan MS Teams gebruikt worden op elke PC, Mac of mobiel apparaat, en dat voegt flexibiliteit en plaats-onafhankelijkheid toe aan jouw team. Iedereen kan nu nog eenvoudiger inkomend en uitgaand zakelijk bellen met de koppeling tussen MS Teams en de callvoip telefooncentrale- waar dan ook en met welke apparatuur dan ook.<br><br><a href="https://www.callvoip.nl/marketplace/teams/"
     class="button">Hoe werkt het?</a>
-  image: "/v1572861318/teams_ojza3v.png"
+  image: "/v1571655384/msteams_xpwzzm.png"
   position: image_left
   title: Jouw team nog flexibeler
 textblocksfooter:
