@@ -34,7 +34,7 @@ textblocksfooter:
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_limit,h_512,w_512/v1593694950/MSteams_beeuzx.png">
   title1: MS Teams apparatuur
   title2: ''
-textblocksfooter2:
+intro::
 - title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
