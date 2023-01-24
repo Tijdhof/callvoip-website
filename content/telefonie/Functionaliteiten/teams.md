@@ -1,5 +1,5 @@
 ---
-title: Koppel Callvoip met MS Teams en integreer jouw zakelijke nummer
+title: Alles over MS Teams & Callvoip
 description: Iedereen kan nu nog eenvoudiger inkomend en uitgaand zakelijk bellen met de koppeling tussen MS Teams en de Callvoip telefooncentrale.
 type: page
 layout: default
@@ -60,5 +60,11 @@ images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
+menu:
+  main:
+    weight: 6
+    parent: Telefonie
+    pre: De meest moderne online telefooncentrale in de wereld
+    post: fa-cloud
 
 ---
