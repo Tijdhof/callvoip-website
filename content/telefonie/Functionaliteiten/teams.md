@@ -37,8 +37,7 @@ intro:
       <br><br><div>
           <form class="mb-6" name="whitepaper" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="whitepaper" />
-              <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
-              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-8b49c21d95ab4559a59613773a179695 "
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-8b49c21d95ab4559a59613773a179695"
                       class="hidden"> </p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
               <div class="layout-split">
@@ -50,7 +49,7 @@ intro:
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
               </div>
               <br>
-              <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
+              button type="submit" class="button">Neem contact met mij op</button>
           </form>
       </div>
   </div>'
