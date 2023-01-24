@@ -10,7 +10,7 @@ aliases:
 - "/telefonie/functionaliteiten/msteams/"
 hero:
   title: Koppel Callvoip met Microsoft Teams
-  content: 'telefoonnummer.<br><br><a href="#formulier" class="button">MS Teams Whitepaper aanvragen</a>'
+  content: 'Microsoft Teams kan heel veel en wordt binnen organisaties voor veel zaken gebruikt.  Met de gewenning aan het MS Teams systeem en de grote footprint van Microsoft is het niet onlogisch dat bedrijven zoeken naar een integratie van hun vaste zakelijke telefonie met Microsoft Teams.<br><br>Maar wat komt er allemaal bij kijken? Hoeveel tijd kost het om een koppeling te maken? En hoe ziet zo'n integratie er dan uit? <br><br>Om antwoord te geven op deze vragen hebben we een whitepaper geschreven. Deze whitepaper is bedoeld voor iedereen die geïnteresseerd is een verrijking van MS Teams met een zakelijk telefoonnummer.<br><br><a href="#formulier" class="button">MS Teams Whitepaper aanvragen</a>'
   image: "/v1571655384/msteams_xpwzzm.png"
   image_position: center
   disable_image_on_mobile: false
