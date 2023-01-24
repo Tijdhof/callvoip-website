@@ -59,5 +59,23 @@ Maak de MS Teams integratie op maat zodat hij aansluit bij jouw situatie. Is een
 • De Realtime API en de Operator Console werken alleen voor inkomende / uitgaande oproepen, interne oproepen (MS Teams) worden niet weergegeven<br>
 • Het persoonlijke belplan van een gebruiker werkt alleen voor inkomende oproepen, niet voor interne MS Teams gesprekken<br>
 <br>
-Geinteresseerd? Je kunt deze koppeling kostenloos testen!<br>
-<br><br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
+Geinteresseerd? Je kunt deze koppeling kostenloos testen. Wil je meer informatie dan kun je ook onze speciale whitepaper downloaden.<br>Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
+<div>
+          <form class="mb-6" name="whitepaper" action="/bedank/whitepaper/" accept-charset="UTF-8" method="POST" data-netlify="true">
+              <input type="hidden" name="form-name" value="whitepaper" />
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-8b49c21d95ab4559a59613773a179695"
+                      class="hidden"> </p>
+              <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
+              <div class="layout-split">
+                  <div class="mb-4"> <label for="naam" class="block">Naam</label> <input type="text"
+                          id="naam" name="naam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
+                  </div>
+                  <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
+                          type="email" id="email" name="email"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
+              </div>
+              <br>
+              <button type="submit" class="button">Whitepaper aanvragen</button>
+          </form>
+      </div>
+  </div>
