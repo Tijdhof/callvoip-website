@@ -76,7 +76,7 @@ Geinteresseerd? Je kunt deze koppeling kostenloos testen.<br><br>
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
               </div>
               <br>
-              <button type="submit" class="button">Whitepaper aanvragen</button><br><p>Je ontvangt eenmalig een email met de link om de whitepaper te downloaden</p>
+              <button type="submit" class="button">Whitepaper aanvragen</button><br>
           </form>
       </div>
   </div>
