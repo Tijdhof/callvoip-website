@@ -64,7 +64,7 @@ menu:
   main:
     weight: 6
     parent: Telefonie
-    pre: De meest moderne online telefooncentrale in de wereld
-    post: fa-cloud
+    pre: Integreer Microsoft Teams met Callvoip
+    post: fa-users
 
 ---
