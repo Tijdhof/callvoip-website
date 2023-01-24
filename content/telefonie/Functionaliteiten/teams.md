@@ -32,9 +32,8 @@ textblocksfooter:
   title1: MS Teams apparatuur
   title2: ''
 intro:
-  title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
-  content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
-  00 00</a>. Wij maken altijd tijd voor je!
+  title: '<div id="formulier">Vraag nu de whitepaper "Koppel MS Teams met Callvoip" aan</div>'
+  content: 'Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
       <br><br><div>
           <form class="mb-6" name="whitepaper" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="whitepaper" />
@@ -43,20 +42,12 @@ intro:
                       class="hidden"> </p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
               <div class="layout-split">
-                  <div class="mb-4"> <label for="bedrijfsnaam" class="block">Bedrijfsnaam</label> <input type="text"
-                          id="bedrijfsnaam" name="bedrijfsnaam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
+                  <div class="mb-4"> <label for="naam" class="block">Naam</label> <input type="text"
+                          id="naam" name="naam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
                   </div>
                   <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
                           type="email" id="email" name="email"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
-              </div>
-              <div class="layout-split">
-                  <div class="mb-4"> <label for="telefoonnummer" class="block">Telefoonnummer</label> <input type="text"
-                          id="telefoonnummer" name="telefoonnummer"
-                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
-                  <div class="mb-4"> <label for="terugbelmoment" class="block">Wensen of vragen</label> <input type="text"
-                          id="wensenvragen" name="wensenvragen"
-                          class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
               <br>
               <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
