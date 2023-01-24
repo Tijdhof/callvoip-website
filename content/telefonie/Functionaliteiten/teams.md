@@ -1,6 +1,6 @@
 ---
 title: Alles over MS Teams & Callvoip
-description: Iedereen kan nu nog eenvoudiger inkomend en uitgaand zakelijk bellen met de koppeling tussen MS Teams en de Callvoip telefooncentrale.
+description: Integreer de Callvoip telefooncentrale met MS Teams om zakelijk zakelijk in- en uit te bellen via Microsoft teams. Download de whitepaper voor meer informatie.
 type: page
 layout: default
 logos: true
