@@ -49,7 +49,7 @@ intro:
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
               </div>
               <br>
-              button type="submit" class="button">Whitepaper aanvragen</button>
+              <button type="submit" class="button">Whitepaper aanvragen</button>
           </form>
       </div>
   </div>'
