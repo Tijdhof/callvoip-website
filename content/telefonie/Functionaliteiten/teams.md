@@ -10,13 +10,10 @@ aliases:
 - "/telefonie/functionaliteiten/msteams/"
 hero:
   title: Koppel Callvoip met Microsoft Teams
-  content: 'Microsoft Teams kan heel veel en wordt binnen organisaties voor veel zaken gebruikt. Communicatie komt ook uit allerlei hoeken. Denk aan Vaste en Mobiele telefonie, e-mail, chat, (video)calls etc… Met de gewenning aan het MS Teams systeem en de grote footprint van Microsoft is het niet onlogisch dat bedrijven zoeken naar een integratie van hun vaste zakelijke telefonie met Microsoft Teams.'
+  content: 'Microsoft Teams kan heel veel en wordt binnen organisaties voor veel zaken gebruikt. Communicatie komt ook uit allerlei hoeken. Denk aan Vaste en Mobiele telefonie, e-mail, chat, (video)calls etc… Met de gewenning aan het MS Teams systeem en de grote footprint van Microsoft is het niet onlogisch dat bedrijven zoeken naar een integratie van hun vaste zakelijke telefonie met Microsoft Teams.<br><br><a href="#formulier" class="button">MS Teams Whitepaper aanvragen</a>'
   image: "/v1571655384/msteams_xpwzzm.png"
   image_position: center
   disable_image_on_mobile: false
-  button:
-    content: Direct aanvragen
-    link: "/aanvragen/ms-teams/"
 blocks:
 - content: Microsoft Teams is een veel gebruikt communicatiesysteem. Daarnaast kan MS Teams gebruikt worden op elke PC, Mac of mobiel apparaat, en dat voegt flexibiliteit en plaats-onafhankelijkheid toe aan jouw team. Iedereen kan nu nog eenvoudiger inkomend en uitgaand zakelijk bellen met de koppeling tussen MS Teams en de callvoip telefooncentrale- waar dan ook en met welke apparatuur dan ook.<br><br><a href="https://www.callvoip.nl/marketplace/teams/"
     class="button">Hoe werkt het?</a>
@@ -39,10 +36,10 @@ intro:
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
-          <form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
-              <input type="hidden" name="form-name" value="tourformulier" />
+          <form class="mb-6" name="whitepaper" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
+              <input type="hidden" name="form-name" value="whitepaper" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
-              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-8b49c21d95ab4559a59613773a179695 "
                       class="hidden"> </p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
               <div class="layout-split">
@@ -61,7 +58,6 @@ intro:
                           id="wensenvragen" name="wensenvragen"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
-              <center><div data-netlify-recaptcha="true"></div></center>
               <br>
               <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
           </form>
