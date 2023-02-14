@@ -46,6 +46,6 @@ Wijzigingen in meldteksten kun je zo vaak doen als je wilt
 
 ![Scherm­afbeelding 2023-02-14 om 11.00.31.png](https://mail.google.com/mail/u/0?ui=2&ik=53cdbca233&attid=0.1&permmsgid=msg-f:1757803208442882443&th=1864f8b47047a98b&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9xIZxz-lADhUEW5ZhJO9cUxV8NrqDRiPSxfzE48hzEHAWxPqtHiKuP6BLB8UEKjOGdzuJ2cYAZ7ugjh0RStWEZXni6VkFicKSr-hB9vHmSciNdoyzzQ3MDWfY&disp=emb&realattid=ii_le42q8bw0 =542x250)
 
-Wanneer je een dynamisch opgenomen mededeling hebt ingesproken en gebruikt is deze zichtbaar in de bijbehorende Aankondigingsapp in het Belplan. Daar kun je luisteren naar de aankondiging, het bericht downloaden of verwijderen.
+Wanneer je een dynamisch opgenomen mededeling hebt ingesproken en gebruikt is deze zichtbaar in de bijbehorende meldteksten sapp in het Belplan. Daar kun je luisteren naar de meldtekst, het bericht downloaden of verwijderen.
 
-Wil je meer informatie over het gebruik van dynamische aankondigingen, bel dan even met Marieke of Arjan via [**050 - 820 00 00**](tel:+31508200000). Ze vertellen je er graag meer over.
+Wil je meer informatie over het gebruik van dynamische meldteksten, bel dan even met Marieke of Arjan via [**050 - 820 00 00**](tel:+31508200000). Ze vertellen je er graag meer over.
