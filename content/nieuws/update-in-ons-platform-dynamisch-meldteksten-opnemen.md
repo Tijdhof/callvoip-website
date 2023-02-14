@@ -25,7 +25,7 @@ tags: []
 
 Afgelopen week heeft ons platform een kleine update gehad. Vanaf nu kun je aangepaste meldingen vanaf elk apparaat inspreken en direct in het menu plaatsen. Handig als je bijvoorbeeld tijdelijk afwezig bent, ineens veel telefoonverkeer krijgt met dezelfde vraagstukken of door werkzaamheden tijdelijk niet bereikbaar bent. We leggen je graag uit hoe het werkt.
 
-<b>Shortcode</b>
+<b>Shortcode</b><br>
 Het voordeel van deze update is dat je veel flexibeler bent om boodschappen en berichten aan te passen. Dit kan van tijdelijke aard zijn maar ook permanent. De uitvoering zit hem in een shortcode die je kunt toevoegen aan een aankondiging. Deze shortcode kun je bellen met je toestel (vast, qaller of webcalls).
 
 <b>Wanneer gebruik je dit?  
