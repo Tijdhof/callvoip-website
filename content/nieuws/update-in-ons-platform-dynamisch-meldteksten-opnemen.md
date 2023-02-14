@@ -19,6 +19,7 @@ url: "/nieuws/dynamisch-meldtekst"
 contactpersoon: []
 categories: []
 tags: []
+type: ''
 
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1676372622/callvoip-news_hwesl5.png)
@@ -44,7 +45,7 @@ Wijzigingen in meldteksten kun je zo vaak doen als je wilt
 4\. stel een shortcode in  
 5\. sla de wijzigingen op.
 
-![Scherm­afbeelding 2023-02-14 om 11.00.31.png](https://mail.google.com/mail/u/0?ui=2&ik=53cdbca233&attid=0.1&permmsgid=msg-f:1757803208442882443&th=1864f8b47047a98b&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9xIZxz-lADhUEW5ZhJO9cUxV8NrqDRiPSxfzE48hzEHAWxPqtHiKuP6BLB8UEKjOGdzuJ2cYAZ7ugjh0RStWEZXni6VkFicKSr-hB9vHmSciNdoyzzQ3MDWfY&disp=emb&realattid=ii_le42q8bw0 =542x250)
+![](https://res.cloudinary.com/callvoip/image/upload/v1676373905/unnamed_1_i1qs78.png)
 
 Wanneer je een dynamisch opgenomen mededeling hebt ingesproken en gebruikt is deze zichtbaar in de bijbehorende meldteksten sapp in het Belplan. Daar kun je luisteren naar de meldtekst, het bericht downloaden of verwijderen.
 
