@@ -25,18 +25,18 @@ tags: []
 
 Afgelopen week heeft ons platform een kleine update gehad. Vanaf nu kun je aangepaste meldingen vanaf elk apparaat inspreken en direct in het menu plaatsen. Handig als je bijvoorbeeld tijdelijk afwezig bent, ineens veel telefoonverkeer krijgt met dezelfde vraagstukken of door werkzaamheden tijdelijk niet bereikbaar bent. We leggen je graag uit hoe het werkt.
 
-**Shortcode  
-**Het voordeel van deze update is dat je veel flexibeler bent om boodschappen en berichten aan te passen. Dit kan van tijdelijke aard zijn maar ook permanent. De uitvoering zit hem in een shortcode die je kunt toevoegen aan een aankondiging. Deze shortcode kun je bellen met je toestel (vast, qaller of webcalls).
+<b>Shortcode</b>
+Het voordeel van deze update is dat je veel flexibeler bent om boodschappen en berichten aan te passen. Dit kan van tijdelijke aard zijn maar ook permanent. De uitvoering zit hem in een shortcode die je kunt toevoegen aan een aankondiging. Deze shortcode kun je bellen met je toestel (vast, qaller of webcalls).
 
-**Wanneer gebruik je dit?  
-**Het grote voordeel van deze wijziging is dat je veel flexibeler bent waar je wijzigingen opneemt. Je bent niet meer gebonden aan het inloggen in de centrale.
+<b>Wanneer gebruik je dit?  
+</b>Het grote voordeel van deze wijziging is dat je veel flexibeler bent waar je wijzigingen opneemt. Je bent niet meer gebonden aan het inloggen in de centrale.
 
 Stel je voor dat door werkzaamheden er een kabel is geraakt en je geen internet hebt. De werkzaamheden gaan even duren. Je kunt dan bellen met de shortcode via qaller+, de boodschap aanpassen dat je bereikbaarheid slecht is en dit vervolgens op te slaan. Wanneer de werkzaamheden klaar zijn en je weer internet hebt, bel je opnieuw en zet je de originele boodschap weer terug.
 
 Wijzigingen in meldteksten kun je zo vaak doen als je wilt
 
-**Hoe ziet dat er uit in het belplan?  
-**zoals aangegeven zit dynamisch opnemen al verwerkt in de nieuwe update. Je kunt er dus direct gebruik van maken. Om er gebruik van te maken ga je als volgt te werk:
+<b>Hoe ziet dat er uit in het belplan?  
+</b>zoals aangegeven zit dynamisch opnemen al verwerkt in de nieuwe update. Je kunt er dus direct gebruik van maken. Om er gebruik van te maken ga je als volgt te werk:
 
 1\. Voeg dynamische meldteksten toe aan je meldtekst  
 2\. Selecteer de gewenste aankondiging  
