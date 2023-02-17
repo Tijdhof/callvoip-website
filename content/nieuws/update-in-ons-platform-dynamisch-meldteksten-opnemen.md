@@ -14,7 +14,7 @@ hero:
   link: ''
   disable_image_on_mobile: false
 author: ''
-date: 
+date: 2023-02-16T23:00:00+00:00
 url: "/nieuws/dynamisch-meldtekst"
 contactpersoon: []
 categories: []
