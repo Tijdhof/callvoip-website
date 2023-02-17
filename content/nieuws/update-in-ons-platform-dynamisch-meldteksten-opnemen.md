@@ -1,5 +1,5 @@
 ---
-title: 'Platform Update: Slim meldteksten plaatsen'
+title: 'Callvoip Update: Slimme meldteksten'
 description: ''
 images:
 - "/v1676631789/meldtekst-nieuws_utlitw.png"
