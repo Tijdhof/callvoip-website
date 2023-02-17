@@ -2,7 +2,7 @@
 title: 'Update in ons platform: Dynamisch meldteksten opnemen'
 description: ''
 images:
-- "/v1676372622/callvoip-news_hwesl5.png"
+- "/v1676631789/meldtekst-nieuws_utlitw.png"
 featured: false
 hideinsearch: false
 hideingoogle: false
@@ -22,7 +22,7 @@ tags: []
 type: ''
 
 ---
-![](https://res.cloudinary.com/callvoip/image/upload/v1676372622/callvoip-news_hwesl5.png)
+![](https://res.cloudinary.com/callvoip/image/upload/v1676631789/meldtekst-nieuws_utlitw.png)
 
 Afgelopen week heeft ons platform een kleine update gehad. Vanaf nu kun je aangepaste meldingen vanaf elk apparaat inspreken en direct in het menu plaatsen. Handig als je bijvoorbeeld tijdelijk afwezig bent, ineens veel telefoonverkeer krijgt met dezelfde vraagstukken of door werkzaamheden tijdelijk niet bereikbaar bent. We leggen je graag uit hoe het werkt.
 
