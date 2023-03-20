@@ -52,9 +52,8 @@ const renderMonthlyTotal = function () {
   </div>
   <div class="flex-1 px-2 text-right font-medium">Totaal:</div>
   <div class="">${formatter.format(getMonthlyTotal())}</div>
-  
-  <div class="text-center mt-4 p-4 rounded-md border-2 border-grey-dark" id='single-person-price'><span class='font-medium'>Totaal per gebruiker:</span> ${totalMaxValue} </div>
   </div>
+  <div class="text-center mt-4 p-4 rounded-md border-2 border-grey-dark" id='single-person-price'> ${totalMaxValue} <span class='font-medium'>per gebruiker per maand</span></div>
   `;
 
   totalFieldsMonthly.innerHTML = MonthlyTotal;
