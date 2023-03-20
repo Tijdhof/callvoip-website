@@ -97,7 +97,7 @@ const renderTemplateRow = function (fields, type) {
   ${item.value > 0
             ? `
   <div class="flex mb-1">
-    <div class="w-6">${item.value}x</div>
+    <div class="w-6">${item.value} x</div>
     <div class="flex-1 px-2">${item.name}</div>
     ${type === "monthly"
               ? `
