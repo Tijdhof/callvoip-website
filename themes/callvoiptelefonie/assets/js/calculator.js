@@ -41,7 +41,11 @@ const getOnetimeTotal = function () {
 const renderMonthlyTotal = function () {
   const totalFieldsMonthly = document.getElementById("total-fields-monthly");
 
+  const maxValue = Math.max(...['toestelaccounts', 'webcall-accounts', 'qaller-plus-accounts'].map(e => document.getElementById(e).valueAsNumber))
+
   const MonthlyTotal = `
+  <div class="text-right" id='single-person-price'><span class='font-medium'>Totaal per gebruiker:</span> €${getMonthlyTotal() / maxValue} </div>
+
   <div class="flex mb-">
   <div class="w-6">
     &nbsp;
@@ -87,29 +91,27 @@ const addOnetimeTotalToInput = function () {
 const renderTemplateRow = function (fields, type) {
   const rows = `
   ${fields
-    .map(
-      (item) => `
-  ${
-    item.value > 0
-      ? `
+      .map(
+        (item) => `
+  ${item.value > 0
+            ? `
   <div class="flex mb-1">
     <div class="w-6">${item.value}x</div>
     <div class="flex-1 px-2">${item.name}</div>
-    ${
-      type === "monthly"
-        ? `
+    ${type === "monthly"
+              ? `
     <div class="">${formatter.format(item.value * item.price_monthly)}</div>
     `
-        : `
+              : `
     <div class="">${formatter.format(item.value * item.price_onetime)}</div>
     `
-    }
+            }
   </div>
   `
-      : ""
-  }`
-    )
-    .join("")}
+            : ""
+          }`
+      )
+      .join("")}
   `;
 
   return rows;
@@ -118,29 +120,27 @@ const renderTemplateRow = function (fields, type) {
 const renderTemplateCrmRow = function (fields, type) {
   const rows = `
   ${fields
-    .map(
-      (item) => `
-  ${
-    item.value > 0
-      ? `
+      .map(
+        (item) => `
+  ${item.value > 0
+            ? `
   <div class="flex mb-1">
     <div class="w-6">1x</div>
     <div class="flex-1 px-2">${item.name}</div>
-    ${
-      type === "monthly"
-        ? `
+    ${type === "monthly"
+              ? `
     <div class="">${formatter.format(item.value * item.price_monthly)}</div>
     `
-        : `
+              : `
     <div class="">${formatter.format(item.price_onetime)}</div>
     `
-    }
+            }
   </div>
   `
-      : ""
-  }`
-    )
-    .join("")}
+            : ""
+          }`
+      )
+      .join("")}
   `;
 
   return rows;
@@ -382,7 +382,7 @@ const renderCrmFields = function (fields) {
   // ? CRM changes
   const totalkeppeling =
     document.getElementById("gebruikers-crm-koppeling").value *
-      25 +
+    25 +
     150;
 
   /* loop over all basic fields */
