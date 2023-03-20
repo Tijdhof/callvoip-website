@@ -41,10 +41,11 @@ const getOnetimeTotal = function () {
 const renderMonthlyTotal = function () {
   const totalFieldsMonthly = document.getElementById("total-fields-monthly");
 
-  const maxValue = Math.max(...['toestelaccounts', 'webcall-accounts', 'qaller-plus-accounts'].map(e => document.getElementById(e).valueAsNumber))
+  const maxValue = Math.max(...['toestelaccounts', 'webcall-accounts', 'qaller-plus-accounts'].map(e => document.getElementById(e).valueAsNumber)) || 1
+  const totalMaxValue = formatter.format(getMonthlyTotal() / maxValue)
 
   const MonthlyTotal = `
-  <div class="text-right" id='single-person-price'><span class='font-medium'>Totaal per gebruiker:</span> €${getMonthlyTotal() / maxValue} </div>
+  <div class="text-right" id='single-person-price'><span class='font-medium'>Totaal per gebruiker:</span> €${totalMaxValue} </div>
 
   <div class="flex mb-">
   <div class="w-6">
