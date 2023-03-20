@@ -45,7 +45,7 @@ const renderMonthlyTotal = function () {
   const totalMaxValue = formatter.format(getMonthlyTotal() / maxValue)
 
   const MonthlyTotal = `
-  <div class="text-right" id='single-person-price'><span class='font-medium'>Totaal per gebruiker:</span> €${totalMaxValue} </div>
+  <div class="text-right" id='single-person-price'><span class='font-medium'>Totaal per gebruiker:</span> ${totalMaxValue} </div>
 
   <div class="flex mb-">
   <div class="w-6">
