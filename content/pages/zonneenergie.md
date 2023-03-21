@@ -31,7 +31,7 @@ blocks:
   image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
   zooming: true
   position: image_left
-  title: Altijd bereikbaar
+  title: Planning en nog eens planning
   image_position: center
 textblocksfooter:
 - title1: Koppeling met 2Solar
