@@ -1,12 +1,12 @@
 ---
 title: 'Hosted telefonie voor de Zonne-energie branche'
-description: Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Zonne-energie branche.
+description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Zonne-energie branche.'
 type: page
 layout: branche
 logos: false
 url: "/branches/zonne-energie/"
 hero:
-  title: Hosted telefonie voor de Zonne-energie branche
+  title: 'Hosted telefonie voor de Zonne-energie branche'
   content: 'Zonlicht. De motor van groei en bloei, en tegenwoordig basis-ingrediënt voor ons energievraagstuk. 
   De Solar-branche kent een reusachtige groe: er zijn steeds meer bedrijven in de zonne-energie-branche en deze bedrijven groeien zelf als kool. 
   Van webshop tot installateur groei is het codewoord! Een dynamische branche dus, en dat brengt zo haar eigen bereikbaarheidsuitdagingen mee. 
