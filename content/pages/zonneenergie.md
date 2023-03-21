@@ -86,7 +86,7 @@ usps:
       class="button">Check het overzicht</a>
 intro:
   title: Wat kost bellen met Callvoip?
-  content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
+  content: "<img src="https://res.cloudinary.com/callvoip/image/upload/v1679411204/zonne-kosten_liuqwk.png" style="float:left;">Hier zie je een praktijkvoorbeeld van de kosten per maand. Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
     gelijk is. <br> Benieuwd wat de kosten zijn voor jouw situatie? \nBel met <b><u><a
     href=\"tel:+31508200000\">050 820 0000</a></u></b> of bereken het via onze <b><u><a
     href=\"/calculator\">calculator</a></u></b>."
