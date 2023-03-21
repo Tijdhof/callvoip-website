@@ -1,6 +1,6 @@
 ---
-title: Telefonie voor tandartsen
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+title: 'Hosted telefonie voor de Zonne-energie branche'
+description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Zonne-energie branche.'
 type: page
 layout: branche
 logos: false
