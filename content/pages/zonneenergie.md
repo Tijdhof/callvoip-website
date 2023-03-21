@@ -21,7 +21,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
   title: Planning en nog eens planning
-- content: 'Marieke van Callvoip vertelt: “Onze klanten in de Solar-markt herkennen het allemaal: 
+- content: 'Marieke van Callvoip vertelt: Onze klanten in de Solar-markt herkennen het allemaal: 
   de planningsafdelingen kent een hoge telefoondruk: elke klant wil graag frequent weten waar hij aan toe is. 
   Wij bieden tools om het telefoonverkeer te splitsen en de bellers voor afdeling Planning efficiënt te helpen: 
   met een keuzemenu en wachtrij ben je goed uitgerust om piekdrukte goed te kanaliseren. Klant blij, medewerker blij, ondernemer blij. 
@@ -37,7 +37,7 @@ blocks:
 textblocksfooter:
 - title1: Koppeling met 2Solar
   content1: 'Een bijzonder waardevolle toevoeging is de mogelijkheid om de telefonie te koppelen met het Solar-klantsysteem 2Solar. 
-  Marieke vervolgt: “2Solar is het meest gebruikte CRM-pakket in de zonne-energie-branche. 
+  Marieke vervolgt: 2Solar is het meest gebruikte CRM-pakket in de zonne-energie-branche. 
   De koppeling tussen Callvoip en 2Solar maakt dat je van elke beller gelijk de gewenste gegevens van de klant ziet, 
   en met één klik de klantenkaart van 2Solar op je scherm hebt. Bovendien bel je met één klik uit naar de klanten in 2Solar. 
   Geen tijdverlies, geen dubbele navraag, geen fouten: gewoon fijn, snel en doeltreffend werken! Na een halve dag wíl je niet meer zonder.<br><br><a href="/marketplace/2solar/" class="button">Lees meer over integratie</a>'
