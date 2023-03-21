@@ -14,8 +14,7 @@ hero:
   <br>
   Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
   Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
-  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/testimonials/"
-    class="button">Bekijk onze testimonials</a>'
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg"
   zooming: true
   image_position: center
@@ -85,7 +84,7 @@ usps:
       class="button">Lees meer</a>'
   - icon: fa-microphone-alt
     title: Spreek je eigen teksten in
-    content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je
+    content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenus geef je
       een persoonlijke teint aan jouw telefonie. Bovendien komt het professioneel
       over als je je eigen 'stem' laat horen. Met onze dienst is het zelf inspreken zo geregeld! <br><br><a
       href="/telefonie/functionaliteiten/meldtekst/" class="button">Lees meer</a>
