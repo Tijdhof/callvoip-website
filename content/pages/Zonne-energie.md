@@ -1,5 +1,5 @@
 ---
-title: 'Hosted telefonie voor de Zonne-energie branche'
+title: 'Hosted telefonie voor de Zonneenergie branche'
 description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Zonne-energie branche.'
 type: page
 layout: branche
