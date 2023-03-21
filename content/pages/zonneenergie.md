@@ -22,11 +22,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppeling met 2Solar
-  content1: 'Een bijzonder waardevolle toevoeging is de mogelijkheid om de telefonie te koppelen met het Solar-klantsysteem 2Solar. 
-  Marieke vervolgt: “2Solar is het meest gebruikte CRM-pakket in de zonne-energie-branche. 
-  De koppeling tussen Callvoip en 2Solar maakt dat je van elke beller gelijk de gewenste gegevens van de klant ziet, 
-  en met één klik de klantenkaart van 2Solar op je scherm hebt. Bovendien bel je met één klik uit naar de klanten in 2Solar. 
-  Geen tijdverlies, geen dubbele navraag, geen fouten: gewoon fijn, snel en doeltreffend werken! Na een halve dag wíl je niet meer zonder.<br><br><a href="/marketplace/2solar/" class="button">Lees meer over integratie</a>'
+  content1: 'test'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/solar_cloud-3_rtk2oy.png">
   show_vshape: false
