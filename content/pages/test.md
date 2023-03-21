@@ -23,7 +23,7 @@ blocks:
   title: Planning en nog eens planning
 - content: 'Marieke van Callvoip vertelt Onze klanten in de Solar-markt herkennen het allemaal
   de planningsafdelingen kent een hoge telefoondruk elke klant wil graag frequent weten waar hij aan toe is. 
-  Wij bieden tools om het telefoonverkeer te splitsen en de bellers voor afdeling Planning efficiënt te helpen
+  Wij bieden tools om het telefoonverkeer te splitsen en de bellers voor afdeling Planning efficient te helpen
   met een keuzemenu en wachtrij ben je goed uitgerust om piekdrukte goed te kanaliseren. Klant blij, medewerker blij, ondernemer blij. 
   Ook wordt de Solar branche gekenmerkt door accountmanagers en installateurs onderweg. 
   Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie simkaart maak je van je mobiele telefoon je kantoortoestel 
