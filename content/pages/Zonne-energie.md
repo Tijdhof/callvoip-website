@@ -13,7 +13,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-  title: Planning en nog eens planning
+  title: 'Planning en nog eens planning'
 - content: 'Marieke van Callvoip vertelt: “Onze klanten in de Solar-markt herkennen het allemaal: 
   de planningsafdelingen kent een hoge telefoondruk: elke klant wil graag frequent weten waar hij aan toe is. 
   Wij bieden tools om het telefoonverkeer te splitsen en de bellers voor afdeling Planning efficiënt te helpen: 
