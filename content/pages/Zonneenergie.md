@@ -1,12 +1,12 @@
 ---
-title: Hosted telefonie voor de Zonne-energie branche
-description: Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Zonne-energie branche.
+title: 'Hosted telefonie voor de Zonne-energie branche'
+description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Zonne-energie branche.'
 type: page
 layout: branche
 logos: false
 url: "/branches/zonne-energie/"
 hero:
-  title: Hosted telefonie voor de Zonne-energie branche
+  title: 'Hosted telefonie voor de Zonne-energie branche'
   content: 'Zonlicht. De motor van groei en bloei, en tegenwoordig basis-ingrediënt voor ons energievraagstuk. 
   De Solar-branche kent een reusachtige groei: er zijn steeds meer bedrijven in de zonne-energie-branche en deze bedrijven groeien zelf als kool. 
   Van webshop tot installateur: groei is het codewoord! Een dynamische branche dus, en dat brengt zo haar eigen bereikbaarheidsuitdagingen mee. 
@@ -14,8 +14,7 @@ hero:
   <br>
   Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
   Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
-  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid..<br><br><a href="/testimonials/"
-    class="button">Bekijk onze testimonials</a>'
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid..<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg"
   zooming: true
   image_position: center
@@ -28,9 +27,8 @@ blocks:
   met een keuzemenu en wachtrij ben je goed uitgerust om piekdrukte goed te kanaliseren. Klant blij, medewerker blij, ondernemer blij. 
   Ook wordt de Solar branche gekenmerkt door accountmanagers en installateurs onderweg. 
   Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie (simkaart) maak je van je mobiele telefoon je kantoortoestel 
-  en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collega’s. 
-  Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer: dat straalt de gewenste professionaliteit uit.”.<br><br><a href="#1" class="button">Lees
-    meer over bereikbaarheid</a>'
+  en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collegas. 
+  Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer: dat straalt de gewenste professionaliteit uit.”.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
   image: "/v1572861318/zonne-energie_werk_u6tr56.jpg"
   zooming: true
   position: image_left
@@ -42,8 +40,7 @@ textblocksfooter:
   Marieke vervolgt: “2Solar is het meest gebruikte CRM-pakket in de zonne-energie-branche. 
   De koppeling tussen Callvoip en 2Solar maakt dat je van elke beller gelijk de gewenste gegevens van de klant ziet, 
   en met één klik de klantenkaart van 2Solar op je scherm hebt. Bovendien bel je met één klik uit naar de klanten in 2Solar. 
-  Geen tijdverlies, geen dubbele navraag, geen fouten: gewoon fijn, snel en doeltreffend werken! Na een halve dag wíl je niet meer zonder..<br><br><a href="/marketplace/2solar/" class="button">Lees
-    meer over integratie</a>'
+  Geen tijdverlies, geen dubbele navraag, geen fouten: gewoon fijn, snel en doeltreffend werken! Na een halve dag wíl je niet meer zonder.<br><br><a href="/marketplace/2solar/" class="button">Lees meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/solar_cloud-3_rtk2oy.png">
   show_vshape: false
