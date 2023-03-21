@@ -20,6 +20,14 @@ hero:
   disable_image_on_mobile: false
   mobile: ''
 blocks:
+- title: Alles voor de Zonne-energie branche
+  image: "/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg"
+  content: |-
+    Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
+  Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<BR><BR><a href="/branches/zonne-energie/" class="button">Hosted telefonie voor de zonne-energie branche</a>
+  position: image_right
+  image_position: ''
 - title: Alles voor tandartsen
   image: "/v1565855183/tandartsen_mc4has.png"
   content: |-
