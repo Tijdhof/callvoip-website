@@ -20,13 +20,20 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een
-    toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende
-    online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden
-    rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools
-    van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze
-    cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees
-    meer over bereikbaarheid</a>'
+  title: Planning en nog eens planning
+- content: 'Marieke van Callvoip vertelt: Onze klanten in de Solar-markt herkennen het allemaal: 
+  de planningsafdelingen kent een hoge telefoondruk: elke klant wil graag frequent weten waar hij aan toe is. 
+  Wij bieden tools om het telefoonverkeer te splitsen en de bellers voor afdeling Planning efficiënt te helpen: 
+  met een keuzemenu en wachtrij ben je goed uitgerust om piekdrukte goed te kanaliseren. Klant blij, medewerker blij, ondernemer blij. 
+  Ook wordt de Solar branche gekenmerkt door accountmanagers en installateurs onderweg. 
+  Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie (simkaart) maak je van je mobiele telefoon je kantoortoestel 
+  en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collegas. 
+  Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer: dat straalt de gewenste professionaliteit uit.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
+  image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
+  zooming: true
+  position: image_left
+  title: Altijd bereikbaar
+  image_position: center
   image: "/v1572861318/tandartsCRM_u8kddl.png"
   zooming: true
   position: image_left
