@@ -82,9 +82,9 @@ usps:
       class="button">Lees meer</a>'
   - icon: fa-microphone-alt
     title: Spreek je eigen teksten in
-    content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je
+    content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenus geef je
       een persoonlijke teint aan jouw telefonie. Bovendien komt het professioneel
-      over als je je eigen 'stem' laat horen. Met onze dienst is het zelf inspreken zo geregeld! <br><br><a
+      over als je je eigen stem laat horen. Met onze dienst is het zelf inspreken zo geregeld! <br><br><a
       href="/telefonie/functionaliteiten/meldtekst/" class="button">Lees meer</a>
   - icon: fa-comment-dots
     title: Mis je iets?
