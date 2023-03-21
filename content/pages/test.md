@@ -4,17 +4,18 @@ description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. 
 type: page
 layout: branche
 logos: false
-url: "/branches/tandarts/"
+url: '/branches/zonne-energie/'
 hero:
-  title: Telefonie voor tandartsen
-  content: Telefonie voor een tandartsenpraktijk vraagt specifieke kennis en toepassingen
-    om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden.
-    Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen
-    van spoeddiensten en handige koppelingen met alle veelvoorkomende CRM systemen
-    voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental). Dit vind
-    je allemaal bij ons en vele tandartsen gingen je voor.<br><br><a href="/testimonials/"
-    class="button">Bekijk onze testimonials van tandartspraktijken</a>
-  image: "/v1571655384/dentist_w87pke.png"
+  title: 'Hosted telefonie voor de Zonne-energie branche'
+  content: 'Zonlicht. De motor van groei en bloei, en tegenwoordig basis-ingrediënt voor ons energievraagstuk. 
+  De Solar-branche kent een reusachtige groei: er zijn steeds meer bedrijven in de zonne-energie-branche en deze bedrijven groeien zelf als kool. 
+  Van webshop tot installateur: groei is het codewoord! Een dynamische branche dus, en dat brengt zo haar eigen bereikbaarheidsuitdagingen mee. 
+  Een ding hebben alle bedrijven met elkaar gemeen: een professionele bereikbaarheid vormt de basis voor succes.
+  <br>
+  Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
+  Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  image: '/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
