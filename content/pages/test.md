@@ -22,10 +22,9 @@ hero:
 blocks:
   title: Planning en nog eens planning
 - content: 'hoi'
-  image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
+  image: '/v1572861318/zonneenergie_werk_u6tr56.jpg'
   zooming: true
   position: image_left
-  title: Altijd bereikbaar
   image_position: center
 textblocksfooter:
 - title1: Koppel jouw eigen praktijksoftware
