@@ -6,12 +6,12 @@ layout: branche
 logos: false
 url: '/branches/zonne-energie/'
 hero:
-  title: 'Hosted telefonie voor de Zonne-energie branche'
+  title: 'Hosted telefonie voor de<br>Zonne-energie branche'
   content: 'Zonlicht. De motor van groei en bloei, en tegenwoordig basis-ingrediënt voor ons energievraagstuk. 
   De Solar-branche kent een reusachtige groei: er zijn steeds meer bedrijven in de zonne-energie-branche en deze bedrijven groeien zelf als kool. 
   Van webshop tot installateur: groei is het codewoord! Een dynamische branche dus, en dat brengt zo haar eigen bereikbaarheidsuitdagingen mee. 
   Een ding hebben alle bedrijven met elkaar gemeen: een professionele bereikbaarheid vormt de basis voor succes.
-  <br>
+  <br><br>
   Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
   Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
   ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/overstappen/" class="button">Stap nu over naar Callvoip</a>'
