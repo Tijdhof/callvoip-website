@@ -29,7 +29,7 @@
   <div class="absolute top-0 left-0 right-0 bottom-0 text-white" {{ if .overlay}} style="background: rgba(32, 52, 118, 0.25);" {{ end }}>
       <div class="container px-4 py-4 h-full flex flex-col items-{{.align}} justify-center">
             <h2 class="text-3xl lg:text-4xl font-medium leading-tight mb-4">{{ .title | markdownify }}</h2>
-            {{ with .text }}
+            {{ with .text | markdownify }}
             <div class="font-medium lg:text-lg xxl:text-xl max-w-lg  mb-4 md:mb-8 lg:leading-loose">{{ . | markdownify }}</div>
             {{ end }}
         </div>
