@@ -94,7 +94,7 @@ usps:
 intro:
   title: Wat kost bellen met Callvoip?
   content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
-    gelijk is. <br> Benieuwd wat de kosten zijn voor uw situatie? \nBel met <b><u><a
+    gelijk is. <br> Benieuwd wat de kosten zijn voor jouw situatie? \nBel met <b><u><a
     href=\"tel:+31508200000\">050 820 0000</a></u></b> of bereken het via onze <b><u><a
     href=\"/calculator\">calculator</a></u></b>."
 images: []
