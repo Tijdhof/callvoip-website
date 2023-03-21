@@ -4,7 +4,7 @@ description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. 
 type: page
 layout: branche
 logos: false
-url: "/branches/zonne-energie/"
+url: '/branches/zonne-energie/'
 hero:
   title: 'Hosted telefonie voor de Zonne-energie branche'
   content: 'Zonlicht. De motor van groei en bloei, en tegenwoordig basis-ingrediënt voor ons energievraagstuk. 
@@ -14,8 +14,8 @@ hero:
   <br>
   Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
   Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
-  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid..<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
-  image: "/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg"
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  image: '/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -29,7 +29,7 @@ blocks:
   Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie (simkaart) maak je van je mobiele telefoon je kantoortoestel 
   en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collegas. 
   Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer: dat straalt de gewenste professionaliteit uit.”.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
-  image: "/v1572861318/zonne-energie_werk_u6tr56.jpg"
+  image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
   zooming: true
   position: image_left
   title: Altijd bereikbaar
