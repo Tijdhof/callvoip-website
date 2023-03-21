@@ -14,7 +14,7 @@ hero:
   <br>
   Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
   Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
-  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid..<br><br><a href="/testimonials/"
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/testimonials/"
     class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg"
   zooming: true
@@ -28,7 +28,7 @@ blocks:
   met een keuzemenu en wachtrij ben je goed uitgerust om piekdrukte goed te kanaliseren. Klant blij, medewerker blij, ondernemer blij. 
   Ook wordt de Solar branche gekenmerkt door accountmanagers en installateurs onderweg. 
   Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie (simkaart) maak je van je mobiele telefoon je kantoortoestel 
-  en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collega’s. 
+  en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collegas. 
   Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer: dat straalt de gewenste professionaliteit uit.”.<br><br><a href="#1" class="button">Lees
     meer over bereikbaarheid</a>'
   image: "/v1572861318/zonne-energie_werk_u6tr56.jpg"
