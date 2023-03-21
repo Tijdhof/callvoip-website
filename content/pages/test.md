@@ -20,7 +20,6 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-  title: Planning en nog eens planning
 - content: 'hoi'
   image: '/v1572861318/zonneenergie_werk_u6tr56.jpg'
   zooming: true
