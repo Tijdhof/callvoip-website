@@ -14,7 +14,7 @@ hero:
   <br>
   Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
   Met een uitgekiende telefooncentrale, een prachtige CRM-koppeling met het branchepakket 2Solar en je vaste, zakelijke telefoonnummers 
-  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/overstappen/" class="button">Stap nu over naar Callvoip</a>'
   image: '/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg'
   zooming: true
   image_position: center
