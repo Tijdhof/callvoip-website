@@ -27,7 +27,7 @@ blocks:
   Ook wordt de Solar branche gekenmerkt door accountmanagers en installateurs onderweg. 
   Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie (simkaart) maak je van je mobiele telefoon je kantoortoestel 
   en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collega's. 
-  Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer: dat straalt de gewenste professionaliteit uit.</i><br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>
+  Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer. Dat straalt de gewenste professionaliteit uit.</i><br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>
   image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
   zooming: true
   position: image_left
