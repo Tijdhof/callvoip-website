@@ -91,47 +91,12 @@ usps:
       je om samen jouw eigen centrale in te richten, zodat je een vliegende start
       kunt maken. Weten wat er nog meer mogelijk is? <br><br><br><br><a href="/telefonie/functionaliteiten/"
       class="button">Check het overzicht</a>
-bottom:
-- title1: ''
-  content1: <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
-    px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
-    kostenoverzicht per praktijk per maand </div> <div class="px-6 clearfix"> <div
-    class="flex justify-between clearfix items-end"> <span class="text-base md:text-lg
-    font-medium opacity-50 flex-1">1x Hosted telefooncentrale in de cloud</span> <span
-    class="text-lg md:text-2xl font-medium opacity-75">€7,50</span> </div> <div class="flex
-    justify-between clearfix items-end"> <span class="text-base md:text font-medium
-    opacity-50 flex-1" style="margin-left:20px">- Zelf meldteksten inspreken en plaatsen</span>
-    <span class="text-lg md:text font-medium opacity-75">Inclusief</span> </div> <div
-    class="flex justify-between clearfix items-end"> <span class="text-base md:text
-    font-medium opacity-50 flex-1" style="margin-left:20px">- Tijdscondities toevoegen
-    en wijzigen</span> <span class="text-lg md:text font-medium opacity-75">Inclusief</span>
-    </div> <div class="flex justify-between clearfix items-end"> <span class="text-base
-    md:text font-medium opacity-50 flex-1" style="margin-left:20px">- Aan-/uitschakelaar
-    met indicatielampje op toestel</span> <span class="text-lg md:text font-medium
-    opacity-75">Inclusief</span> </div> <div class="flex justify-between mb-3 clearfix
-    items-end"> <span class="text-base md:text font-medium opacity-50 flex-1" style="margin-left:20px">-
-    Afstandsbediening op de smartphone</span> <span class="text-lg md:text font-medium
-    opacity-75">Inclusief</span> </div> <div class="flex justify-between mb-3 clearfix
-    items-end"> <span class="text-base md:text-lg font-medium opacity-50 flex-1">1x
-    Telefoonnummer</span> <span class="text-lg md:text-2xl font-medium opacity-75">€2,-</span>
-    </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">3x Gebruikersaccount telefonie (toestel,
-    PC of smartphone)</span> <span class="text-lg md:text-2xl font-medium opacity-75">€12,-</span>
-    </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Wachtrij</span> <span class="text-lg
-    md:text-2xl font-medium opacity-75">€4,-</span> </div> <div class="flex justify-between
-    mb-3 clearfix items-end"> <span class="text-base md:text-lg font-medium opacity-50
-    flex-1">1x Keuzemenu</span> <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
-    </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Exquise, Simplex, Oase,
-    etc. per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
-    </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-75 flex-1">Totaal</span> <span class="text-lg md:text-2xl
-    font-medium opacity-75">€34,50</span> </div> </div> <div class="text-right px-6
-    text-sm pb-6 italic"> Prijzen per maand,  excl. belkosten en excl. BTW </div>
-    </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>
-  title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png">
+intro:
+  title: Wat kost bellen met Callvoip?
+  content: "Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
+    gelijk is. <br> Benieuwd wat de kosten zijn voor uw situatie? \nBel met <b><u><a
+    href=\"tel:+31508200000\">050 820 0000</a></u></b> of bereken het via onze <b><u><a
+    href=\"/calculator\">calculator</a></u></b>."
 images: []
 hideinsearch: false
 hideingoogle: false
