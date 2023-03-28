@@ -14,13 +14,13 @@ hero:
   <br><br>
   Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
   Met een uitgekiende telefooncentrale, een prachtige <b>CRM-koppeling met het branchepakket 2Solar</b> en je vaste, zakelijke telefoonnummers 
-  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/overstappen/" class="button">Stap nu over naar Callvoip</a>'
+  ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/tour/" class="button">Vraag een demonstratie aan</a>'
   image: '/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: <b>Marieke van Callvoip vertelt;</b> <i>Onze klanten in de Solar-markt herkennen het allemaal. de planningsafdelingen kennen een hoge telefoondruk, elke klant wil graag frequent weten waar hij aan toe is. Wij bieden tools om het telefoonverkeer te splitsen en de bellers voor afdeling Planning efficiënt te helpen. Met een keuzemenu en wachtrij ben je goed uitgerust om piekdrukte goed te kanaliseren. Klant blij, medewerker blij, ondernemer blij. <br><br>Ook wordt de Solar branche gekenmerkt door accountmanagers en installateurs onderweg. Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie (simkaart) maak je van je mobiele telefoon je kantoortoestel en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collega's. Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer. Dat straalt de gewenste professionaliteit uit.</i><br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>
+- content: <b>Marieke van Callvoip vertelt;</b> <i>Onze klanten in de Solar-markt herkennen het allemaal. de planningsafdelingen kennen een hoge telefoondruk, elke klant wil graag frequent weten waar hij aan toe is. Wij bieden tools om het telefoonverkeer te splitsen en de bellers voor afdeling Planning efficiënt te helpen. Met een keuzemenu en wachtrij ben je goed uitgerust om piekdrukte goed te kanaliseren. Klant blij, medewerker blij, ondernemer blij. <br><br>Ook wordt de Solar branche gekenmerkt door accountmanagers en installateurs onderweg. Met onze smartphone app Qaller en onze VAMOS Vast Mobiel integratie (simkaart) maak je van je mobiele telefoon je kantoortoestel en ben je zakelijk overal en altijd zo bereikbaar als je wenst, voor klanten en collega's. Je belt gewoon met het vaste zakelijke nummer en niet met je 06 nummer. Dat straalt de gewenste professionaliteit uit.</i><br><br><a href="/calculator/" class="button">Bereken jouw kosten</a>
   image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
   zooming: true
   position: image_left
