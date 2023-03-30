@@ -88,7 +88,8 @@ intro:
   title: Wat kost bellen met Callvoip?
   content: 'Hier zie je een praktijkvoorbeeld van de kosten per maand.<br>Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
     gelijk is.<br>Benieuwd wat de kosten zijn voor jouw situatie? Bereken het via onze <b><u><a
-    href="/calculator\">calculator</a></u></b>.<center><img src="https://res.cloudinary.com/callvoip/image/upload/v1679411204/zonne-kosten_liuqwk.png"></center>'
+    href="/calculator\">calculator</a></u></b>.<center><a
+    href="/calculator\"><img src="https://res.cloudinary.com/callvoip/image/upload/v1679411204/zonne-kosten_liuqwk.png"></a></center>'
 images: []
 hideinsearch: false
 hideingoogle: false
