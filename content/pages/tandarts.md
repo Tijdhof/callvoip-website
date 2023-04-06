@@ -7,7 +7,7 @@ logos: false
 url: "/branches/tandarts/"
 hero:
   title: Telefonie voor tandartsen
-  content: 'Telefonie voor een tandartsenpraktijk vraagt om specifieke kennis en toepassingen. Callvoip is o.a. specialist op het gebied van slimme telefonie voor tandartsen.<br><br>Wij kunnen je er natuurlijk heel veel over vertellen, maar het is veel sterker als onze klanten dit doen. Speciaal voor de tandartsbranche hebben we een whitepaper geschreven waarin we herkenbare situaties en problemen uiteenzetten alsmede de oplossingen ervoor.<br><br>Download nu de special: telefonie voor tandartsen, geschreven door onze collega Marieke.'
+  content: 'Telefonie voor een tandartsenpraktijk vraagt om specifieke kennis en toepassingen. Callvoip is o.a. specialist op het gebied van slimme telefonie voor tandartsen.<br><br>Wij kunnen je er natuurlijk heel veel over vertellen, maar het is veel sterker als onze klanten dit doen. Speciaal voor de tandartsbranche hebben we een whitepaper geschreven waarin we herkenbare situaties en problemen uiteenzetten alsmede de oplossingen ervoor.<br><br>Download nu de special: telefonie voor tandartsen, geschreven door onze collega Marieke.<br><br><a href="#formulier" class="button">Whitepaper downloaden</a>'
   image: "/v1571655384/dentist_w87pke.png"
   zooming: true
   image_position: center
@@ -128,6 +128,29 @@ bottom:
     </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png">
+  
+intro:
+  title: '<div id="formulier">Vraag nu de whitepaper "Slimme telefonie voor tandartsen" aan</div>'
+  content: 'Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
+      <br><br><div>
+          <form class="mb-6" name="whitepaper" action="/bedank/whitepaper/" accept-charset="UTF-8" method="POST" data-netlify="true">
+              <input type="hidden" name="form-name" value="whitepaper" />
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-a41b62fdc5c6464294843f0100c91821 "
+                      class="hidden"> </p>
+              <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
+              <div class="layout-split">
+                  <div class="mb-4"> <label for="naam" class="block">Naam</label> <input type="text"
+                          id="naam" name="naam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
+                  </div>
+                  <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
+                          type="email" id="email" name="email"
+                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
+              </div>
+              <br>
+              <button type="submit" class="button">Whitepaper aanvragen</button>
+          </form>
+      </div>
+  </div>'
 images: []
 hideinsearch: false
 hideingoogle: false
