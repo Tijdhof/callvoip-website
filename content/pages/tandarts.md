@@ -7,13 +7,8 @@ logos: false
 url: "/branches/tandarts/"
 hero:
   title: Telefonie voor tandartsen
-  content: Telefonie voor een tandartsenpraktijk vraagt specifieke kennis en toepassingen
-    om ervoor te zorgen dat alle aspecten van een praktijk optimaal bediend worden.
-    Denk aan een geavanceerde wachtrij voor de drukke momenten, slimme op maat inrichtingen
-    van spoeddiensten en handige koppelingen met alle veelvoorkomende CRM systemen
-    voor tandartspraktijken (o.a. Bytegear, Exquise, Simplex, Oase Dental). Dit vind
-    je allemaal bij ons en vele tandartsen gingen je voor.<br><br><a href="/testimonials/"
-    class="button">Bekijk onze testimonials van tandartspraktijken</a>
+  content: Telefonie voor een tandartsenpraktijk vraagt om specifieke kennis en toepassingen. Callvoip is o.a. specialist op het gebied van slimme telefonie voor tandartsen.<br><br>Wij kunnen je er natuurlijk heel veel over vertellen, maar het is veel sterker als onze klanten dit doen. Speciaal voor de tandartsbranche hebben we een whitepaper geschreven waarin we herkenbare situaties en problemen uiteenzetten alsmede de oplossingen ervoor.<br><br>Download nu de special: telefonie voor tandartsen, geschreven door onze collega Marieke..<br><br><a href="/testimonials/"
+    class="Download de whitepaper">Bekijk onze testimonials van tandartspraktijken</a>
   image: "/v1571655384/dentist_w87pke.png"
   zooming: true
   image_position: center
