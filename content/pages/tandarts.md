@@ -135,7 +135,7 @@ intro:
       <br><br><div>
           <form class="mb-6" name="whitepaper-tandarts" action="/bedank/whitepaper/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="whitepaper-tandarts" />
-              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-a41b62fdc5c6464294843f0100c91821 "
+              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-a41b62fdc5c6464294843f0100c91821"
                       class="hidden"> </p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
               <div class="layout-split">
