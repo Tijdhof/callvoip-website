@@ -2,13 +2,10 @@
 title: Callvoip - Succes begint met slimme telefonie
 hero:
   title: Succes begint met slimme telefonie
-  content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop.
-    Ervaar het gebruiksgemak van de modernste telefooncentrale in de cloud! Neem zelf
-    plaats achter het stuur of laat je rijden door ons enthousiaste supportteam.<br><br>
-    <a href="https://www.callvoip.nl/telefonie/slim-telefoonboek/">Nieuw: Slim Telefoonboek koppelt jouw CRM met jouw telefonie!</a>'
+  content: 'Met hosted telefonie van Callvoip bereik je dat met één druk op de knop. Ervaar het <b>ongeëvenaarde gebruiksgemak</b> van de modernste telefooncentrale in de cloud!<br><br>Nog meer gemak? We kunnen inmiddels <b>ruim 100 CRM pakketten koppelen</b> aan onze telefonie zodat bij inkomende gesprekken een naam wordt getoond, een klantenkaart kan worden geopend, met 1 klik vanuit het CRM kan worden gebeld en nog veel meer.'
   button:
-    content: 'Ons aanbod: de Callvoip Toolkit'
-    link: "/toolkit/"
+    content: 'Ontdek de slimme koppeling met jouw CRM'
+    link: "/marketplace/"
   items:
   - icon: fa-cloud
     title: Zakelijke telefonie
