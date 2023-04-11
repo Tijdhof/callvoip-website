@@ -25,6 +25,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Bouw
 weight: 10
 url: /marketplace/logic4/
 aliases: /program-shop/logic4/
