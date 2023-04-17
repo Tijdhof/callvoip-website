@@ -48,6 +48,7 @@ intro:
                           type="email" id="email" name="email"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
               </div>
+            <p style="font-size:12px;">*Wij zullen éénmalig contact opnemen via e-mail voor terugkoppeling over de whitepaper.</p>
               <br>
               <button type="submit" class="button">Whitepaper aanvragen</button>
           </form>
