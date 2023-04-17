@@ -1,5 +1,5 @@
 ---
-title: Algemene voorwaarden
+title: Algemene Voorwaarden
 menu:
   footer:
     weight: 3
