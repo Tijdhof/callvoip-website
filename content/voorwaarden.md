@@ -14,7 +14,7 @@ Deze Algemene Voorwaarden zijn van toepassing op alle activiteiten en aanbod van
 #### 1.2
 
 Naast deze algemene voorwaarden kunnen, indien nadrukkelijk aangegeven, aanvullende voorwaarden van toepassing zijn op een bepaald type product c.q. transactie.  
-Voor de telefoniediensten <a href="https://www.callvoip.nl/Callvoip_telefoondienst_alg-lever-en-betaalvoorwaarden.pdf" target="_blank">gelden deze algemene lever- en betaalvoorwaarden</a>. Mochten er verschillen bestaan tussen de aanvullende voorwaarden en de algemene voorwaarden, dan gelden in beginsel de bepalingen uit de aanvullende voorwaarden boven de algemene voorwaarden, tenzij anders bepaald.
+Voor de telefoniediensten gelden <a href="https://www.callvoip.nl/Callvoip_telefoondienst_alg-lever-en-betaalvoorwaarden.pdf" target="_blank">deze algemene lever- en betaalvoorwaarden</a>. Mochten er verschillen bestaan tussen de aanvullende voorwaarden en de algemene voorwaarden, dan gelden in beginsel de bepalingen uit de aanvullende voorwaarden boven de algemene voorwaarden, tenzij anders bepaald.
 
 #### 1.3
 
