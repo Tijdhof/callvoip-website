@@ -64,10 +64,14 @@ collections:
               - {label: "Disable image on mobile", name: "disable_image_on_mobile", widget: "boolean", default: false}
           - label: "Items"
             name: "items"
-            widget: "object"
-            fields: 
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Status", name: "status", widget: "boolean", default: false}
+            widget: "list"
+            field: 
+              label: "Tests"
+              name: "tests"
+              widget: "object"
+              fields:
+                - {label: "Title", name: "title", widget: "string"}
+                - {label: "Status", name: "status", widget: "boolean", default: false}
           - label: "Tests"
             name: "tests"
             widget: "object"
