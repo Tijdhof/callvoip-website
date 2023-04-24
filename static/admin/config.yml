@@ -4,7 +4,6 @@ backend:
 
 media_library:
   name: cloudinary
-  # output_filename_only: true
   config:
     cloud_name: callvoip
     api_key: 755977546423949
@@ -32,9 +31,9 @@ collections:
         widget: "object"
         required: false
         fields: 
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Mobile", name: "mobile", widget: "image"}
-          - {label: "Link", name: "link", widget: "string"}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Mobile", name: "mobile", widget: "image", required: false}
+          - {label: "Link", name: "link", widget: "string", required: false}
           - {label: "Disable image on mobile", name: "disable_image_on_mobile", widget: "boolean", default: false}
       - {label: "Author", name: "author", widget: "string", required: false}
       - {label: "Date", name: "date", widget: "datetime"}
