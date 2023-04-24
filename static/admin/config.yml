@@ -47,31 +47,31 @@ collections:
     label: "Single Pages"
     files: 
       - label: Status
-          name: "status"
-          file: content/status/_index.md
-          fields:
-            - {label: "Title", name: "title", widget: "string",default: "Status"}
-            - {label: "Aliases", name: "alias", widget: "string",default: "/storing"}
-            - {label: "URL", name: "url", widget: "string",default: "/status"}
-            - {label: "Content Top", name: "contentTop", widget: "string"}
-            - {label: "Content Middle", name: "contentMiddle", widget: "string"}
-            - {label: "Hide social share", name: "hidesocialshare", widget: "boolean", default: false}
-            - label: "Hero"
-              name: "hero" 
-              widget: "object"
-              fields: 
-                - {label: "Image", name: "image", widget: "image"}
-                - {label: "Disable image on mobile", name: "disable_image_on_mobile", widget: "boolean", default: false}
-            - label: "Items"
-              name: "items"
-              widget: "object"
-              fields: 
-                - {label: "Title", name: "title", widget: "string"}
-                - {label: "Status", name: "status", widget: "boolean", default: false}
-            - label: "Tests"
-              name: "tests"
-              widget: "object"
-              fields:
-                - {label: "Title", name: "title", widget: "string"}
-                - {label: "Error", name: "error", widget: "boolean", default: false}
-                - {label: "Text", name: "text", widget: "markdown"}
+        name: "status"
+        file: content/status/_index.md
+        fields:
+          - {label: "Title", name: "title", widget: "string",default: "Status"}
+          - {label: "Aliases", name: "alias", widget: "string",default: "/storing"}
+          - {label: "URL", name: "url", widget: "string",default: "/status"}
+          - {label: "Content Top", name: "contentTop", widget: "string"}
+          - {label: "Content Middle", name: "contentMiddle", widget: "string"}
+          - {label: "Hide social share", name: "hidesocialshare", widget: "boolean", default: false}
+          - label: "Hero"
+            name: "hero" 
+            widget: "object"
+            fields: 
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Disable image on mobile", name: "disable_image_on_mobile", widget: "boolean", default: false}
+          - label: "Items"
+            name: "items"
+            widget: "object"
+            fields: 
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Status", name: "status", widget: "boolean", default: false}
+          - label: "Tests"
+            name: "tests"
+            widget: "object"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Error", name: "error", widget: "boolean", default: false}
+              - {label: "Text", name: "text", widget: "markdown"}
