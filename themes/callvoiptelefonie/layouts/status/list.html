@@ -15,24 +15,24 @@
       {{ end }}
 
       <div class="mb-4">
-        {{ $paginator := .Paginate (where .Data.Pages.ByWeight "Type" "status")  12 }}
 
-        {{ if (eq ($paginator.Pages | len) 0) }}
+        {{if eq .Params.testserror false}}
         <div class="bg-green text-white py-3 px-4 rounded-lg font-medium">Alle systemen zijn operationeel</div>
         {{ else }}
-        {{ range $i, $item := $paginator.Pages }}
+
+        {{ range $i, $item := .Params.tests }}
         <div class="border-2 border-grey-lightest mb-4 rounded-lg">
           <div class="flex flex-col md:flex-row-reverse justify-between pt-6 px-4 ">
-            {{ if .Params.error }}
+            {{ if $item.error }}
             <div class="bg-red py-2 px-4 text-white rounded text-sm mb-4 md:mb-0">Storing</div>
             {{ else }}
             <div class="bg-orange py-2 px-4 text-white rounded text-sm mb-4 md:mb-0">Melding</div>
             {{ end }}
-            <h4 class="text-lg lg:text-xl font-medium">{{.Params.title}}</h4>
+            <h4 class="text-lg lg:text-xl font-medium">{{$item.title}}</h4>
 
           </div>
           <div class="user-content text-grey-medium lg:text-lg font-medium leading-loose pt-2 pb-1 px-4">
-            {{ .Content }}
+            {{ markdownify $item.text }}
           </div>
         </div>
         {{ end }}
