@@ -69,13 +69,10 @@ collections:
           - label: "Items"
             name: "items"
             widget: "list"
-            field: 
-              label: "Tests"
-              name: "singletests"
-              widget: "object"
-              fields:
-                - {label: "Title", name: "title", widget: "string"}
-                - {label: "Status", name: "status", widget: "boolean", default: false}
+            summary: '{{fields.title}} - {{fields.status}}'
+            fields: 
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Status", name: "status", widget: "boolean", default: false}
           - label: "Tests"
             name: "tests"
             widget: "object"
