@@ -75,8 +75,9 @@ collections:
               - {label: "Status", name: "status", widget: "boolean", default: false}
           - label: "Tests"
             name: "tests"
-            widget: "object"
+            widget: "list"
+            summary: '{{fields.title}} - {{fields.error}}'
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "Error", name: "error", widget: "boolean", default: false}
-              - {label: "Text", name: "text", widget: "markdown"}
+              - {label: "Title", name: "title", widget: "string", required: false}
+              - {label: "Error", name: "error", widget: "boolean", default: false, required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
