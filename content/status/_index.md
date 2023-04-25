@@ -35,6 +35,7 @@ contentTop: Op deze pagina vindt u de status van de verschillende onderdelen van
 contentMiddle: ''
 hidesocialshare: false
 
+testserror: true
 tests:
   - title: Meldingen
     error: false
