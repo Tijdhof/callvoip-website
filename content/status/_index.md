@@ -11,7 +11,7 @@ hero:
   disable_image_on_mobile: false
 items:
   - title: Online telefooncentrale
-    status: false
+    status: true
   - title: Inkomende gesprekken
     status: true
   - title: Uitgaande gesprekken
