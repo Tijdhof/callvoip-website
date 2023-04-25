@@ -70,13 +70,16 @@ collections:
             name: "items"
             widget: "list"
             summary: '{{fields.title}} - {{fields.status}}'
+            collapsed: true
             fields: 
               - {label: "Title", name: "title", widget: "string"}
               - {label: "Status", name: "status", widget: "boolean", default: false}
-          - label: "Tests"
+          - {label: "If any test error", name: "testserror", widget: "boolean", default: false}
+          - label: "Tests Errors"
             name: "tests"
             widget: "list"
             summary: '{{fields.title}} - {{fields.error}}'
+            collapsed: true
             fields:
               - {label: "Title", name: "title", widget: "string", required: false}
               - {label: "Error", name: "error", widget: "boolean", default: false, required: false}
