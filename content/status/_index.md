@@ -34,11 +34,11 @@ items:
     status: true
   - title: Callvoip Internet
     status: true
-testserror: false
+testserror: true
 tests:
   - title: Meldingen
     error: false
-    text: "**Geen melding - de telefoondienst werkt naar behoren**"
+    text: "**Geen melding - de telefoondienst werkt naar behoren x**"
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
