@@ -11,7 +11,7 @@ hero:
   disable_image_on_mobile: false
 items:
   - title: Online telefooncentrale
-    status: true
+    status: false
   - title: Inkomende gesprekken
     status: true
   - title: Uitgaande gesprekken
@@ -38,7 +38,7 @@ testserror: true
 tests:
   - title: Meldingen
     error: false
-    text: "**Geen melding - de telefoondienst werkt naar behoren x**"
+    text: "**Geen melding - de telefoondienst werkt naar behoren**"
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
