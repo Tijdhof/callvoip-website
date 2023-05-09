@@ -95,4 +95,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "/branches/advocaten/"
   status = 301
   force = true
+[[redirects]]
+  from = "/bubble"
+  to = "https://www.youtube.com/watch?v=FnfKlULG3SA&feature=youtu.be"
+  status = 301
+  force = true
 
