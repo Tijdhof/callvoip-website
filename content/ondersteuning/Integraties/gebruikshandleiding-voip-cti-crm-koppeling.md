@@ -18,7 +18,8 @@ Gefeliciteerd met de installatie van de Bubble CRM-koppeling! <br>
 Bubble is een handige set van tools die gemakt biedt bij elk telefoontje - inkomend en uitgaand. In onderstaande infographic zie je de Bubble popup en wat zij je te bieden heeft. Bubble koppelt met veel CRM-systemen en vaak is dat met een automatisch call log. Met één klik bel je elk nummer dat je op je computer hebt staan: in je CRM, in Word, Excel, Outlook of in een ander programma. En je belt gewoon met je bureautelefoon, de Qaller smartphone app, de Webcalls computer-beloplossing of met de Vamos SIM-kaart. Deze tools werken overal en altijd. <br>
 Hieronder lees je hoe Bubble jou dagelijks kan assisteren en welke mogelijkheden er zijn.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<b>Handige instructievideo van de Callvoip bubble software</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br><hr>
 
 ### 1. Bubble – de popup
 
