@@ -29,7 +29,7 @@ items:
   - title: BLF (statuslampjes)
     status: true
   - title: Click-to-Dial
-    status: true
+    status: false
   - title: Trunk
     status: true
   - title: Callvoip Internet
