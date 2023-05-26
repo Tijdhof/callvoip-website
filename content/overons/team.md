@@ -10,7 +10,7 @@ intro:
   title: Het team van Callvoip
 team:
 - content: Heeft veel kennis in huis. Ziet overal oplossingen met handige apparatuur.
-    Altijd op de hoogte van nieuwe ontwikkelingen. Rijdt in een witte auto en drinkt
+    Altijd op de hoogte van nieuwe ontwikkelingen. Rijdt in een grijze auto en drinkt
     de koffie zwart. Heeft niets met favoriete FC te maken, al komt Twente uit dezelfde
     buurt.
   function: Algemeen Directeur
