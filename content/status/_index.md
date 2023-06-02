@@ -21,7 +21,7 @@ items:
   - title: Toestelregistraties
     status: true
   - title: Webcalls
-    status: true
+    status: false
   - title: Qaller Smartphone app
     status: true
   - title: Vamos Vast-Mobiel
