@@ -39,8 +39,14 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **Momenteel ervaren we performance issues met wachtrijen, en is het laden
-      van het panel (webcalls) niet altijd mogelijk.**
+      **U﻿pdate 2 Juni 11:25 - Panel & webcalls functioneren weer naar behoren.
+      Wij houden de situatie in de gaten.**
+
+
+      **\-﻿--------------**
+
+
+      **Momenteel ervaren we performance issues met wachtrijen, en is het laden van het panel (webcalls) niet altijd mogelijk.**
 
 
       Voor het panel en webcalls is ons advies de cookies te verwijderen in de browser. Het performance issue wordt nu door ons onderzocht en opgelost.
