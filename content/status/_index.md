@@ -38,7 +38,7 @@ testserror: true
 tests:
   - title: Meldingen
     error: false
-    text: "**Geen melding - de telefoondienst werkt naar behoren**"
+    text: "**Momenteel is er een storing. Wij geven ZSM een update hierover.**"
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
