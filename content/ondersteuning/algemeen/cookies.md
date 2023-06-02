@@ -14,7 +14,7 @@ hidesocialshare: false
 ---
 <b>Cookies verwijderen uit Chrome</b><br>
 1. Start Chrome.<br>
-2. Klik rechtsboven op het pictogram met drie stipjes .<br>
+2. Klik rechtsboven op het pictogram met drie stipjes .<br><img src="https://files.seniorweb.nl/uploadedimages/wwwseniorwebnl/18-12-18_googlechrome_cookies.png" style="float:right">
 3. Klik op Meer hulpprogramma's > Browsegegevens wissen.<br>
 4. Een venster opent. Zet een vinkje voor Cookies en andere sitegegevens als dat vinkje er nog niet staat.<br>
 5. Klik op Gegevens wissen.<br>
