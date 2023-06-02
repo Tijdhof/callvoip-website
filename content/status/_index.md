@@ -38,7 +38,10 @@ testserror: true
 tests:
   - title: Meldingen
     error: false
-    text: "**Momenteel is er een storing. Wij geven ZSM een update hierover.**"
+    text: "**Momenteel ervaren we performance issues met wachtrijen, en is het laden
+      van het panel (webcalls) niet altijd mogelijk. Voor het panel en webcalls
+      is ons advies de cookies te verwijderen in de browser. Het performance
+      issue wordt nu door ons onderzocht en opgelost.**"
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
