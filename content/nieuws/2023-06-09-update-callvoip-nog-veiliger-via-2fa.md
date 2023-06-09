@@ -1,9 +1,12 @@
 ---
 title: "Update: Callvoip nog veiliger via 2FA"
+images:
+  - image: https://res.cloudinary.com/callvoip/image/upload/v1686299047/use-smartphone-protection-with-2fa-cyber-security-protects-database-internet-online-personal-online-privacy-encrypted-data.jpg
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+image_uitgelicht: https://res.cloudinary.com/callvoip/image/upload/v1686299047/use-smartphone-protection-with-2fa-cyber-security-protects-database-internet-online-personal-online-privacy-encrypted-data.jpg
 hero:
   disable_image_on_mobile: false
   image: https://res.cloudinary.com/callvoip/image/upload/v1686299047/use-smartphone-protection-with-2fa-cyber-security-protects-database-internet-online-personal-online-privacy-encrypted-data.jpg
