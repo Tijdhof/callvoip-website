@@ -13,8 +13,7 @@ url: /veilig/
 
 Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onze aandacht nodig, en steeds meer. In dat kader worden binnenkort een aantal updates uitgevoerd in onze telefoniecentrale:
 
-1. Eenmalig wijzigen wachtwoord 21-06-2023\
-2. Twee Factor Authenticatie 21-06-2023 en 19-07-2023
+![](https://res.cloudinary.com/callvoip/image/upload/v1686299047/2fa.png)
 
 **1. Eenmalig wachtwoord wijzigen**
 
