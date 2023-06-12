@@ -33,4 +33,4 @@ Er zijn 3 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 * via je telefoonnummer
 * via de Google / Microsoft Authenticator
 
-Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen? Neem dan contact met ons op.
+Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" style="button">Neem dan contact met ons op</a>
