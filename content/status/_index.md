@@ -45,7 +45,7 @@ tests:
 
       M﻿ogelijk ontvang je hierover een melding vanuit de telefooncentrale. \
 
-      [Hier](https://www.callvoip.nl/veilig)vind je meer informatie.  
+      [H﻿ier ](https://www.callvoip.nl/veilig)vind je meer informatie. 
 
 
       M﻿ocht je meer vragen hebben, neem dan gerust contact op via de telefoon, e-mail of website chat.
