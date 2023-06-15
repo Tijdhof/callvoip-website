@@ -39,22 +39,16 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **U﻿pdate 2 Juni 11:25 - Panel & webcalls functioneren weer naar behoren.
-      Wij houden de situatie in de gaten.**
+      **Aankondiging veiligheidsupdate:** \
+
+      Vanaf woensdag 21 juni zal 2 Factor Authentication (2FA) platform-breed worden toegepast. \
+
+      M﻿ogelijk ontvang je hierover een melding vanuit de telefooncentrale. \
+
+      [Hier](https://www.callvoip.nl/veilig)vind je meer informatie.  
 
 
-      **\-﻿--------------**
-
-
-      **Momenteel ervaren we performance issues met wachtrijen, en is het laden van het panel (webcalls) niet altijd mogelijk.**
-
-
-      Voor het panel en webcalls is ons advies de cookies te verwijderen in de browser. Het performance issue wordt nu door ons onderzocht en opgelost.
-
-
-      **W﻿eet je niet zeker hoe je cookies moet verwijderen?**\
-
-      [L﻿ees hier hoe je dit kan doen](https://www.callvoip.nl/ondersteuning/algemeen/cookies/)
+      M﻿ocht je meer vragen hebben, neem dan gerust contact op via de telefoon, e-mail of website chat.
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
