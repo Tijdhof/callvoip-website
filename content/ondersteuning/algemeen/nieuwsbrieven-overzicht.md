@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2023</h3>
 <ul>
+<li><a href="https://sh1.sendinblue.com/3ganmuqwy9xpfe.html?t=1686908017" target="_blank">Nieuwsbrief 16-06-2023 | Belangrijke veiligheidsupdate, en meer Callvoip nieuws</a></li>
 <li><a href="https://4hdx3.r.bh.d.sendibt3.com/mk/mr/0OppRFlVuMdFMkT8dA0OCJeiC1TBW8zq4VH6QKh11iyqbFGsdBuc7NIHQfwcNkYNWmi7ff4ljOS6b6IxPnUnHfFf0YNNe4nCMD8R_TuxQ1E-Gyy3133VD6eAm_YAlEOtwmi_aG2ZUg" target="_blank">Nieuwsbrief 14-02-2023 | Callvoip update: Ontdek het gemak van slimme meldteksten</a></li>
 </ul>
 
