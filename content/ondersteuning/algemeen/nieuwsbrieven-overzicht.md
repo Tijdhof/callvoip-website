@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2022</h3>
 <ul>
+<li><a href="https://4hdx3.r.bh.d.sendibt3.com/mk/mr/C1dzgK21CEoz-NWMOiPJLLVjK__f_NGricu9Ie_2i8CHYMmVZsQCVRFeh_w-H3aifGi4R420t_F4YqGrng9pmTrUcWlRMsmDAiD1XkN8mqezSOzCMFRrDG4r0SpjfcEC32dFUPz9jg" target="_blank">Nieuwsbrief 22-12-2022 | Wij wensen je een mooi en kleurrijk nieuwjaar toe!</a></li>
 <li><a href="https://sh1.sendinblue.com/3g5e06qwy9xpfe.html?t=1660716980" target="_blank">Nieuwsbrief 16-08-2022 | Nieuw: updates UC panel en het Slimme Telefoonboek</a></li>
 <li><a href="https://sh1.sendinblue.com/3g4sxo2wy9xpfe.html?t=1660130227" target="_blank">Nieuwsbrief 14-06-2022 | Callvoip en onze MS Teams koppeling</a></li>
 <li><a href="https://sh1.sendinblue.com/3g4c2uqwy9xpfe.html?t=1653378593" target="_blank">Nieuwsbrief 16-05-2022 | Het 1BOX Self Storage totaalpakket!</a></li>
