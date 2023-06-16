@@ -12,6 +12,11 @@ hidesocialshare: false
 aliases: "/nieuwsbrieven"
 
 ---
+<h3>2023</h3>
+<ul>
+<li><a href="https://4hdx3.r.bh.d.sendibt3.com/mk/mr/C1dzgK21CEoz-NWMOiPJLLVjK__f_NGricu9Ie_2i8CHYMmVZsQCVRFeh_w-H3aifGi4R420t_F4YqGrng9pmTrUcWlRMsmDAiD1XkN8mqezSOzCMFRrDG4r0SpjfcEC32dFUPz9jg" target="_blank">Nieuwsbrief 22-12-2022 | Wij wensen je een mooi en kleurrijk nieuwjaar toe!</a></li>
+</ul>
+
 <h3>2022</h3>
 <ul>
 <li><a href="https://4hdx3.r.bh.d.sendibt3.com/mk/mr/C1dzgK21CEoz-NWMOiPJLLVjK__f_NGricu9Ie_2i8CHYMmVZsQCVRFeh_w-H3aifGi4R420t_F4YqGrng9pmTrUcWlRMsmDAiD1XkN8mqezSOzCMFRrDG4r0SpjfcEC32dFUPz9jg" target="_blank">Nieuwsbrief 22-12-2022 | Wij wensen je een mooi en kleurrijk nieuwjaar toe!</a></li>
