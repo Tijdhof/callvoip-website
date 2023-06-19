@@ -29,8 +29,8 @@ Vanaf 21 juni 2023 wordt 2FA automatisch aangezet. Bij elke login wordt je gevra
 
 Er zijn 3 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 
-* via de Qaller app
-* via je telefoonnummer
-* via de Google / Microsoft Authenticator
+via de Qaller app
+via je telefoonnummer
+<img src"https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth.png" style="float:left;">via de Google / Microsoft Authenticator
 
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
