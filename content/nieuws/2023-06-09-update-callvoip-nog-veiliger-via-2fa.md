@@ -31,6 +31,6 @@ Er zijn 3 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 
 via de Qaller app<br>
 via je telefoonnummer<br>
-<img src"https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth.png" style="float:left;">via de Google / Microsoft Authenticator
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth.png" style="float:left;">via de Google / Microsoft Authenticator
 
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
