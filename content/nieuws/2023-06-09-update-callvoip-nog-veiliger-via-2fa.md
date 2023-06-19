@@ -27,7 +27,7 @@ Een punt van aandacht: Indien binnen drie maanden geen nieuw wachtwoord is inges
 
 Vanaf 21 juni 2023 wordt 2FA automatisch aangezet. Bij elke login wordt je gevraagd om de 2FA in te stellen. Tot 19 juli is dit optioneel. Vanaf 19 juli 2023 kun je alleen nog maar inloggen met 2FA.
 
-Er zijn 3 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
+Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png" style="float:left; margin-right:5px;">via de Qaller smartphone app<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth.png" style="float:left; margin-right:5px;">via de Google Authenticator<br><br>
