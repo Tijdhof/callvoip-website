@@ -32,7 +32,7 @@ Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png" style="float:left; margin-right:5px;">via de Qaller smartphone app<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth.png" style="float:left; margin-right:5px;">via de Google Authenticator<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png" style="float:left; margin-right:5px;">via de Microsoft Authenticator<br><br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth.png" style="float:left; margin-right:5px;">via je telefoonnummer<br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/phone2fa.png" style="float:left; margin-right:5px;">via je telefoonnummer<br>
 
 
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
