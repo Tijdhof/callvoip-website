@@ -17,13 +17,13 @@ Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onz
 
 **1. Eenmalig wachtwoord wijzigen**
 
-Vanaf 21 juni 2023 wordt elke gebruiker gevraagd om het inlogwachtwoord te wijzigen. Het wijzigen van het wachtwoord heeft geen gevolgen voor de Qaller app, Vamos app of de API koppelingen.
+Vanaf 21 juni 2023 wordt elke gebruiker bij de eerstvolgende login op de Callvoip beheerpagina gevraagd om het inlogwachtwoord te wijzigen. Het wijzigen van het wachtwoord heeft geen gevolgen voor de Qaller app, Vamos app of de API koppelingen. Je telefoontoestel blijft ook gewoon werken. Alleen als je op de beheerpagina wilt inloggen en/of als je met WEBCALLS belt, dan wordt je na het inloggen gevraagd om je wachtwoord te wijzigen. 
 
-Een punt van aandacht: Indien binnen drie maanden geen nieuw wachtwoord is ingesteld, zullen wij automatisch een nieuw wachtwoord genereren. Vanaf dat moment zal je oude wachtwoord niet meer werken en kun je een nieuw wachtwoord opvragen via de knop 'wachtwoord vergeten' op de inlogpagina. Ook indien wij na drie maanden een nieuw wachtwoord hebben gegenereerd, word je niet uitgelogd uit de mobiele apps en api koppelingen. 
+Een punt van aandacht: Indien binnen drie maanden geen nieuw wachtwoord is ingesteld, zullen wij automatisch een nieuw wachtwoord genereren. Vanaf dat moment zal je oude wachtwoord niet meer werken en kun je een nieuw wachtwoord opvragen via de knop 'wachtwoord vergeten' op de inlogpagina. Ook indien wij na drie maanden een nieuw wachtwoord hebben gegenereerd, word je niet uitgelogd uit de mobiele apps en api koppelingen, en blijft je telefoontoestel gewoon werken. 
 
-**2. Optionele twee-factor authenticatie**
+**2. Twee-factor authenticatie binnenkort standaard**
 
-2FA is een extra verificatie van de identiteit van degene die inlogt en dient als extra veiligheidslaag voor het inloggen op de Callvoip-centrale. Je logt in met je inlognaam, wachtwoord én een extra tijdelijke code die je via je mobiele telefoon krijgt. Deze extra code is noodzakelijk om in te loggen.
+2FA is een extra verificatie van de identiteit van degene die inlogt en dient als extra veiligheidslaag voor het inloggen op de Callvoip-centrale. Je logt in met je inlognaam, wachtwoord én een extra code die je via je mobiele telefoon krijgt. Deze extra code is noodzakelijk om in te loggen.
 
 Vanaf 21 juni 2023 wordt 2FA automatisch aangezet. Bij elke login wordt je gevraagd om de 2FA in te stellen. Tot 19 juli is dit optioneel. Vanaf 19 juli 2023 kun je alleen nog maar inloggen met 2FA.
 
