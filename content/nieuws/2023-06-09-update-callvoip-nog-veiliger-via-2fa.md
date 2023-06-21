@@ -37,7 +37,9 @@ Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/phone2fa.png" style="float:left; margin-right:5px;">via je telefoonnummer<br>
 
 **3. Tips**
-Hebben jullie in het bedrijf één login die door meerdere mensen gebruikt wordt? Dat kan lastiger worden als je een account maar aan één toestel koppelt.
+
+Gebruiken jullie in het bedrijf één beheerderslogin die door meerdere mensen gebruikt wordt? 
+Dat kan lastiger worden als je een account maar aan één toestel koppelt.
 Advies: maak voor elke persoon een eigen gebruikersaccount aan op de telefooncentrale. Er zijn geen meerkosten voor een losse gebruiker die wel als beheerder kan inloggen. 
 
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
