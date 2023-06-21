@@ -17,7 +17,9 @@ Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onz
 
 **1. Eenmalig wachtwoord wijzigen**
 
-Vanaf 21 juni 2023 wordt elke gebruiker bij de eerstvolgende login op de Callvoip beheerpagina gevraagd om het inlogwachtwoord te wijzigen. Het wijzigen van het wachtwoord heeft geen gevolgen voor de Qaller app, Vamos app of de API koppelingen. Je telefoontoestel blijft ook gewoon werken. Alleen als je op de beheerpagina wilt inloggen en/of als je met WEBCALLS belt, dan wordt je na het inloggen gevraagd om je wachtwoord te wijzigen. 
+Vanaf 21 juni 2023 wordt elke gebruiker bij de eerstvolgende login op de Callvoip beheerpagina gevraagd om het inlogwachtwoord te wijzigen. 
+Het wijzigen van het wachtwoord heeft geen gevolgen voor de Qaller app, Vamos app, Click to Dial of de API koppeling; je telefoontoestel blijft ook gewoon werken. 
+ALLEEN als je op de beheerpagina wilt inloggen en/of als je met Webcalls belt, dan wordt je na het inloggen gevraagd om je wachtwoord te wijzigen. 
 
 Een punt van aandacht: Indien binnen drie maanden geen nieuw wachtwoord is ingesteld, zullen wij automatisch een nieuw wachtwoord genereren. Vanaf dat moment zal je oude wachtwoord niet meer werken en kun je een nieuw wachtwoord opvragen via de knop 'wachtwoord vergeten' op de inlogpagina. Ook indien wij na drie maanden een nieuw wachtwoord hebben gegenereerd, word je niet uitgelogd uit de mobiele apps en api koppelingen, en blijft je telefoontoestel gewoon werken. 
 
@@ -34,5 +36,8 @@ Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png" style="float:left; margin-right:5px;">via de Microsoft Authenticator<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/phone2fa.png" style="float:left; margin-right:5px;">via je telefoonnummer<br>
 
+**3. Tips**
+Hebben jullie in het bedrijf één login die door meerdere mensen gebruikt wordt? Dat kan lastiger worden als je een account maar aan één toestel koppelt.
+Advies: maak voor elke persoon een eigen gebruikersaccount aan op de telefooncentrale. Er zijn geen meerkosten voor een losse gebruiker die wel als beheerder kan inloggen. 
 
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
