@@ -35,7 +35,7 @@ Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png" style="float:left; margin-right:5px;">via de Google Authenticator<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png" style="float:left; margin-right:5px;">via de Microsoft Authenticator<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/phone2fa.png" style="float:left; margin-right:5px;">via je telefoonnummer<br>
-
+<br><br>
 
 
 **3. Tips**
