@@ -43,9 +43,16 @@ hidesocialshare: false
 <br><br>
 <b>Cookies verwijderen uit Safari</b><br>
 1. Start Safari<br>
-2. Klik links in de menubalk op Safari.<br>
-3. Klik op Wis geschiedenis.<br>
-4. Verwijder de geschiedenis van een bepaalde periode. Klik daarvoor achter 'Wis' op het keuzemenu.<br>
-5. Klik op de gewenste periode, bijvoorbeeld hele geschiedenis.<br>
-6. Klik tot slot op Wis geschiedenis.<br>
-7. Sluit het tabblad en/of de browser.<br>
+2. Ga naar menu Safari > Preferences > Settings > Voorkeuren > Instellingen.<br>
+3. Klik op Privacy.<br>
+4. Klik op Manage Website Data > Beheer Website gegevens. <br>
+5. Type in het zoekveld "callvoip".<br>
+6. Selecteer en klik Remove / Verwijder.<br>
+7. Fefresh of klik Cmd-R. <br>
+<br>
+1. Start Safari, klik links in de menubalk op Safari. <br>
+2. Klik op Wis geschiedenis.<br>
+3. Verwijder de geschiedenis van een bepaalde periode. Klik daarvoor achter 'Wis' op het keuzemenu.<br>
+4. Klik op de gewenste periode, bijvoorbeeld hele geschiedenis.<br>
+5. Klik tot slot op Wis geschiedenis.<br>
+6. Sluit het tabblad en/of de browser.<br>
