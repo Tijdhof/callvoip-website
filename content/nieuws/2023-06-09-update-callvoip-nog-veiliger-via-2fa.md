@@ -38,7 +38,7 @@ Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 <br><br>
 
 
-**3. Tips**
+**3. FAQ**
 
 1. Gebruiken jullie in het bedrijf één beheerderslogin die door meerdere mensen gebruikt wordt? 
 Dat kan lastiger worden als je een account maar aan één toestel koppelt.
