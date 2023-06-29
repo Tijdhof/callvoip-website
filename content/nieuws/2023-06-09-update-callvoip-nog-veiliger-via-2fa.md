@@ -16,7 +16,7 @@ Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onz
 ![](https://res.cloudinary.com/callvoip/image/upload/v1686299047/2fa.png)
 
 <div id="1"><b>1. Eenmalig wachtwoord wijzigen</b></div>
-
+<br>
 Vanaf 21 juni 2023 wordt elke gebruiker bij de eerstvolgende login op de Callvoip beheerpagina gevraagd om het inlogwachtwoord te wijzigen. 
 Het wijzigen van het wachtwoord heeft geen gevolgen voor de Qaller app, Vamos app, Click to Dial of de API koppeling; je telefoontoestel blijft ook gewoon werken. 
 ALLEEN als je op de beheerpagina wilt inloggen en/of als je met Webcalls belt, dan wordt je na het inloggen gevraagd om je wachtwoord te wijzigen. 
