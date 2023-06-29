@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: 'Een kenmerk van piket- of spoeddienst is dat de dienst wordt ingevuld door verschillende collega’s die op wisselende roulatiebasis worden ingepland. Vaak hebben deze mensen dienst met hun eigen mobiele nummer.<br>Dit vereist een telefoonsysteem:<ul><li>waarin je gemakkelijk nummers kunt toevoegen</li><li>waar je snel mensen kunt in- en uitschakelen</li><li>waarin verschillende spoeddiensten elkaar niet in de weg zitten</li><li>waarin meerdere mensen moeten kunnen zien wat er is ingesteld</li></ul>De Callvoip oplossing blinkt uit in haar flexibiliteit om een piket- en spoeddienstnummer in te regelen én te bedienen, zodat de juiste mensen op de juiste momenten dienst hebben.'
-  image: "/v1600956804/internet-max_p0ugq5.png"
+  image: "/v1600956804/belplan-piket.png"
   zooming: true
   position: image_left
   title: 'Wisselende dienst op roulatiebasis'
