@@ -22,8 +22,8 @@ Het wijzigen van het wachtwoord heeft geen gevolgen voor de Qaller app, Vamos ap
 ALLEEN als je op de beheerpagina wilt inloggen en/of als je met Webcalls belt, dan wordt je na het inloggen gevraagd om je wachtwoord te wijzigen. 
 
 Een punt van aandacht: Indien binnen drie maanden geen nieuw wachtwoord is ingesteld, zullen wij automatisch een nieuw wachtwoord genereren. Vanaf dat moment zal je oude wachtwoord niet meer werken en kun je een nieuw wachtwoord opvragen via de knop 'wachtwoord vergeten' op de inlogpagina. Ook indien wij na drie maanden een nieuw wachtwoord hebben gegenereerd, word je niet uitgelogd uit de mobiele apps en api koppelingen, en blijft je telefoontoestel gewoon werken. 
-
-<div id="2"><b>2. Twee-factor authenticatie binnenkort standaard</b></div>
+<div id="2"><br></div><br>
+<b>2. Twee-factor authenticatie binnenkort standaard</b>
 <br>
 2FA is een extra verificatie van de identiteit van degene die inlogt en dient als extra veiligheidslaag voor het inloggen op de Callvoip-centrale. Je logt in met je inlognaam, wachtwoord én een extra code die je via je mobiele telefoon krijgt. Deze extra code is noodzakelijk om in te loggen.
 
