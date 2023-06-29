@@ -20,10 +20,10 @@ blocks:
   title: 'Wisselende dienst op roulatiebasis'
   image_position: center
 textblocksfooter:
-- title1: Extra title nummer 1
-  content1: 'Content'
-- title2: Extra title nummer 2
-  content2: 'Content'
+- title1: Spoeddienstschakelaar
+  content1: 'Callvoip biedt een spoeddienstschakelaar. Hierbij kun je verschillende medewerkers in één groep plaatsen. Binnen deze groep is er maximaal één medewerker actief. De overige medewerkers staan automatisch op inactief. Je kunt meerdere groepen maken zodat je ook een gelaagde bereikbaarheid hebt. Er zijn veel handige tools om de bereikbaarheid van een spoednummer te optimaliseren. Denk bv aan:<ul><li>een emailnotificatie van elk inkomend gesprek en/of gemist gesprek</li><li>gelaagde doorschakeling naar meerdere (mobiele) nummer</li><il>externe doorschakeling</li><li>voicemail</li></ul>'
+- title2: Bediening via smartphone app
+  content2: 'Het instellen van een spoednummer is snel geregeld, en het bedienen ervan is nóg eenvoudiger. Met de gratis smartphone app van ons systeem kunnen de geselecteerde personen zien wie er dienst heeft en de diensten met éen klik veranderen. Zijn er meerdere bedieners, dan ziet iedereen realtime wie er dienst heeft. Moet er snel iets worden gewijzigd? Dan doe je dat dus met één klik vanaf je eigen smartphone.'
 images: []
 hideinsearch: false
 hideingoogle: false
