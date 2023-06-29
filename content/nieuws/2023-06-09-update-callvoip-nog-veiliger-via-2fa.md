@@ -31,9 +31,9 @@ Vanaf 21 juni 2023 wordt 2FA automatisch aangezet. Bij elke login wordt je gevra
 
 Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png" style="float:left; margin-right:5px;">via de Qaller smartphone app -  Download voor: <a href="https://apps.apple.com/nl/app/qaller/id1140548146">IOS</a> of <a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl&pli=1">Anddroid</a><br><br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png" style="float:left; margin-right:5px;">via de Google Authenticator -  Download voor: <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">IOS</a> of <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US">Anddroid</a><br><br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png" style="float:left; margin-right:5px;">via de Microsoft Authenticator -  Download voor: <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">IOS</a> of <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Anddroid</a><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png" style="float:left; margin-right:5px;">via de Qaller smartphone app -  Download voor: <a href="https://apps.apple.com/nl/app/qaller/id1140548146">IOS</a> of <a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl&pli=1">Android</a><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png" style="float:left; margin-right:5px;">via de Google Authenticator -  Download voor: <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">IOS</a> of <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US">Android</a><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png" style="float:left; margin-right:5px;">via de Microsoft Authenticator -  Download voor: <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">IOS</a> of <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Android</a><br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/phone2fa.png" style="float:left; margin-right:5px;">via je telefoonnummer<div id="3"><br></div>
 <br><br>
 
