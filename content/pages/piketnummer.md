@@ -6,9 +6,9 @@ layout: default2
 logos: false
 url: /telefonie/piketnummer/
 hero:
-  title: 'Alles over piketnummers'
+  title: 'Piketdienst, spoeddienst en noodnummer'
   content: |-
-    In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>
+    Veel organisaties hebben er één: een piketdienst, spoeddienst of noodnummer. Zo’n nummer biedt klanten de mogelijkheid om een medewerker aan de lijn te krijgen ingeval van calamiteiten en andere onvoorziene situaties, bijvoorbeeld buiten werktijd. Callvoip biedt ongekende tools om dit type nummer eenvoudig flexibel in te richten.
   image: "/v1604049415/company-employee-answering-landline-phone-call-corporate-job-talking-manager-office-cord-telephone-line-having-remote-conversation-with-phone-number-work-business-call_hipcte.jpg"
   image_position: center
   disable_image_on_mobile: false
