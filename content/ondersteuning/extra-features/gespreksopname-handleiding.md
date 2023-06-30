@@ -49,4 +49,3 @@ Bij een bewaartijd van 180 of 365 dagen kun je opgenomen gesprekken als batch pe
 Bij het gebruik van de gespreksopname-feature zijn juridische aspecten van kracht.  
 Zo dient u te allen tijde aan de beller aan te geven dat u gesprekken opneemt.  
 Ook als u deze enkel gebruikt voor eigen (trainings-)doeleinden.  
-<a href="http://www.auditio.nl/auditio-paul-harts-juridische-aspecten-van-kwaliteitsmonitoring2007.html" target="_blank">Meer informatie</a>
