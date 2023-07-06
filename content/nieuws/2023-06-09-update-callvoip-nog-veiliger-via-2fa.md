@@ -47,7 +47,7 @@ Advies: maak voor elke persoon een eigen gebruikersaccount aan op de telefooncen
 2. Welke authenticator is het handigst?
 Dat hangt natuurlijk af van je eigen voorkeuren, maar veel gebruikers vinden de Qaller app het handigst: je krijgt gelijk een code, deze staat direct op het scherm van je mobiel en evt op je smartwatch. Je hoeft niets te openen of te doen.
 
-3. Waar kan ik de pincode vinden die doro Qaller wordt gegenereerd? 
+3. Waar kan ik de pincode vinden die door Qaller wordt gegenereerd? 
 Als je Qaller UIT hebt staan, dan vind je de authenticatie pincode in het berichtencentrum van je telefoon (android, iphone).
 Als je Qaller AAN hebt staan, dan wordt de code op het scherm getoond. 
 
