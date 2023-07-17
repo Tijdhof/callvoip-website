@@ -35,7 +35,7 @@ Kies een backup 2FA methode, bv je mobiele nummer of bv de Google of Microsoft A
 Na elke keuze krijg je een code. Vul die in om door te gaan.
 
 **Klaar! Gefeliciteerd!**\
-Je kunt nu door naar de panel. Elke keer dat je inlogt krijg je een code van je primaire 2FA methode<br><br><br><br><br>
+Je kunt nu door naar de panel. Elke keer dat je inlogt krijg je een code van je primaire 2FA methode<br><br><br><br><br><br>
 
 
 
