@@ -4,7 +4,7 @@ weight: 2
 description: ''
 images: []
 hideinsearch: false
-Nieuw: false
+Nieuw: true
 Update: false
 pdf: 'https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf'
 hideingoogle: false
