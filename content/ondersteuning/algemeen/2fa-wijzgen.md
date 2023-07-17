@@ -1,6 +1,6 @@
 ---
 title: 2FA wijzigen
-weight: 11
+weight: 21
 description: ''
 images: []
 hideinsearch: false
