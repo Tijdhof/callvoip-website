@@ -11,7 +11,7 @@ url: /veilig/
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1686299047/use-smartphone-protection-with-2fa-cyber-security-protects-database-internet-online-personal-online-privacy-encrypted-data.jpg)
 
-Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onze aandacht nodig, en steeds meer. In dat kader worden binnenkort een aantal updates uitgevoerd in onze telefoniecentrale.<br><br><b>Ga direct naar:</b><br><a href="#1">1. Eenmalig wachtwoord wijzigen</a><br><a href="#2">2. Twee-factor authenticatie binnenkort standaard</a><br><a href="#3">3. FAQ</a><br><a href="#4">4. 2FA instellen</a><br><a href="#5">5. 2FA wijzigen</a>
+Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onze aandacht nodig, en steeds meer. In dat kader worden binnenkort een aantal updates uitgevoerd in onze telefoniecentrale.<br><br><b>Ga direct naar:</b><br><a href="#1">1. Eenmalig wachtwoord wijzigen</a><br><a href="#2">2. Twee-factor authenticatie binnenkort standaard</a><br><a href="#3">3. FAQ</a><br><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" target="_blank">4. Download handleiding: 2FA instellen</a><br><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen_170723MT.pdf" target="_blank">5. Download handleiding: 2FA instellingen wijzigen</a>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1686299047/2fa.png)
 
@@ -57,10 +57,10 @@ Ja dat kan. Je kunt dit instellen op je eigen 2FA beheerpagina. <br>
 
 <b>4. 2FA instellen</b><br>
 Download de handleiding en stel de 2FA in slechts 3 stappen.
-<div id="5"></div><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" target="_blank" class="button">Download de 2FA instellen handleiding</a>
+<div id="5"></div><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" target="_blank">Download handleiding: 2FA instellen</a>
 <br><br>
 <b>5. 2FA wijzigen</b><br>
 Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
-<a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen_170723MT.pdf" target="_blank" class="button">Download de 2FA wijzigen handleiding</a>
+<a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen_170723MT.pdf" target="_blank">Download handleiding: 2FA instellingen wijzigen</a>
 <br><br><br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
