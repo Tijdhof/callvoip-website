@@ -1,6 +1,6 @@
 ---
 title: Callvoip Shortcodes (overzicht)
-weight: 
+weight: 18
 description: ''
 images: []
 pdf: https://files.callvoip.nl/downloads/Callvoip_overzicht_shortcodes.pdf
