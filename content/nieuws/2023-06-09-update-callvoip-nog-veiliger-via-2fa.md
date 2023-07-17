@@ -57,5 +57,5 @@ Ja dat kan. Je kunt dit instellen op je eigen 2FA beheerpagina.
 - Als je als GEBRUIKER bent ingelogd, klik dan linksbovenaan het menu op je naam. Het instellingenmenu verschijnt. Klikt bovenaan het instellingenmenu nogmaals op je naam. Je persoonlijke instellingen verschijnen. Helemaal onderaan vind je de button [Bewerk 2FA].
 
 <a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" target="_blank" class="button">Download de 2FA handleiding</a>
-
+<br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
