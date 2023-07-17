@@ -60,8 +60,8 @@ Ja dat kan. Je kunt dit instellen op je eigen 2FA beheerpagina.
 Download de handleiding en stel de 2FA in slechts 3 stappen.
 <div id="5"></div><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" target="_blank" class="button">Download de 2FA instellen handleiding</a>
 <br><br>
-<b>5. 2FA wijzigen</b>
-Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?
+<b>5. 2FA wijzigen</b><br>
+Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br>
 <a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen_170723MT.pdf" target="_blank" class="button">Download de 2FA wijzigen handleiding</a>
 <br><br><br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
