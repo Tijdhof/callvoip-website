@@ -1,6 +1,6 @@
 ---
-title: 2FA Handleiding
-weight: 2
+title: 2FA instellen
+weight: 10
 description: ''
 images: []
 hideinsearch: false
