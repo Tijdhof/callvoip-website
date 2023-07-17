@@ -11,7 +11,7 @@ url: /veilig/
 ---
 ![](https://res.cloudinary.com/callvoip/image/upload/v1686299047/use-smartphone-protection-with-2fa-cyber-security-protects-database-internet-online-personal-online-privacy-encrypted-data.jpg)
 
-Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onze aandacht nodig, en steeds meer. In dat kader worden binnenkort een aantal updates uitgevoerd in onze telefoniecentrale.<br><br><b>Ga direct naar:</b><br><a href="#1">1. Eenmalig wachtwoord wijzigen</a><br><a href="#2">2. Twee-factor authenticatie binnenkort standaard</a><br><a href="#3">3. FAQ</a>
+Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onze aandacht nodig, en steeds meer. In dat kader worden binnenkort een aantal updates uitgevoerd in onze telefoniecentrale.<br><br><b>Ga direct naar:</b><br><a href="#1">1. Eenmalig wachtwoord wijzigen</a><br><a href="#2">2. Twee-factor authenticatie binnenkort standaard</a><br><a href="#3">3. FAQ</a><a href="#4">4. 2FA instellen</a>
 
 ![](https://res.cloudinary.com/callvoip/image/upload/v1686299047/2fa.png)
 
@@ -54,8 +54,10 @@ Als je Qaller AAN hebt staan, dan wordt de code op het scherm getoond.
 4. Kun je instellen welke authenticator als default wordt gebruikt? 
 Ja dat kan. Je kunt dit instellen op je eigen 2FA beheerpagina. 
 - Als je als BEHEERDER bent ingelogd, klik dan rechtsboven op je naam en kies [Bewerk 2FA] en vul je wachtwoord in. Hier stel je in welke van de ingestelde authenticators de default is. Deze authenticator zal dan als standaard worden gebruikt. 
-- Als je als GEBRUIKER bent ingelogd, klik dan linksbovenaan het menu op je naam. Het instellingenmenu verschijnt. Klikt bovenaan het instellingenmenu nogmaals op je naam. Je persoonlijke instellingen verschijnen. Helemaal onderaan vind je de button [Bewerk 2FA].
+- Als je als GEBRUIKER bent ingelogd, <div id="4">klik</div> dan linksbovenaan het menu op je naam. Het instellingenmenu verschijnt. Klikt bovenaan het instellingenmenu nogmaals op je naam. Je persoonlijke instellingen verschijnen. Helemaal onderaan vind je de button [Bewerk 2FA].
 
+<b>4. 2FA instellen</b>
+Download de handleiding en stel de 2FA in slechts 3 stappen.
 <a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" target="_blank" class="button">Download de 2FA handleiding</a>
 <br><br><br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
