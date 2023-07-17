@@ -1,6 +1,6 @@
 ---
 title: 2FA instellen
-weight: 10
+weight: 20
 description: ''
 images: []
 hideinsearch: false
