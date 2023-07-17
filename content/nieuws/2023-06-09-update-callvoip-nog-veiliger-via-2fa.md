@@ -56,7 +56,7 @@ Ja dat kan. Je kunt dit instellen op je eigen 2FA beheerpagina.
 - Als je als BEHEERDER bent ingelogd, klik dan rechtsboven op je naam en kies [Bewerk 2FA] en vul je wachtwoord in. Hier stel je in welke van de ingestelde authenticators de default is. Deze authenticator zal dan als standaard worden gebruikt. 
 - Als je als GEBRUIKER bent ingelogd, <div id="4">klik</div> dan linksbovenaan het menu op je naam. Het instellingenmenu verschijnt. Klikt bovenaan het instellingenmenu nogmaals op je naam. Je persoonlijke instellingen verschijnen. Helemaal onderaan vind je de button [Bewerk 2FA].
 
-<b>4. 2FA instellen</b>
+<b>4. 2FA instellen</b><br>
 Download de handleiding en stel de 2FA in slechts 3 stappen.
 <div id="5"></div><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" target="_blank" class="button">Download de 2FA instellen handleiding</a>
 <br><br>
