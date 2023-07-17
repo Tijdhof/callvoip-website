@@ -54,7 +54,7 @@ Als je Qaller AAN hebt staan, dan wordt de code op het scherm getoond.
 4. Kun je instellen welke authenticator als default wordt gebruikt? 
 Ja dat kan. Je kunt dit instellen op je eigen 2FA beheerpagina. 
 - Als je als BEHEERDER bent ingelogd, klik dan rechtsboven op je naam en kies [Bewerk 2FA] en vul je wachtwoord in. Hier stel je in welke van de ingestelde authenticators de default is. Deze authenticator zal dan als standaard worden gebruikt. 
-- Als je als GEBRUIKER bent ingelogd, <div id="4">klik</div> dan linksbovenaan het menu op je naam. Het instellingenmenu verschijnt. Klikt bovenaan het instellingenmenu nogmaals op je naam. Je persoonlijke instellingen verschijnen. Helemaal onderaan vind je de button [Bewerk 2FA].
+- Als je als GEBRUIKER bent ingelogd, klik dan linksbovenaan het menu op je naam. Het instellingenmenu verschijnt. Klikt bovenaan het instellingenmenu nogmaals op je naam. Je persoonlijke instellingen verschijnen. Helemaal onderaan vind je de button [Bewerk 2FA].<div id="4"></div>
 
 <b>4. 2FA instellen</b><br>
 Download de handleiding en stel de 2FA in slechts 3 stappen.
