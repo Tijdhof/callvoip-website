@@ -70,7 +70,7 @@ Vul vervolgens de verificatiecode in die je terugkrijgt.
 Je hebt nu alle factoren ingevuld en kunt nu inloggen op de panel.\
 Voortaan krijg je een code op de 2FA methode die je als primaire 2FA methode hebt ingevuld.
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1689604642/6-2FA-overzicht-ingestelde-factoren.jpg">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1689604642/6-2FA-overzicht-ingestelde-factoren.jpg" style="border: 1px solid;">
 
 **Lukt het niet of heb je vragen?**
 
