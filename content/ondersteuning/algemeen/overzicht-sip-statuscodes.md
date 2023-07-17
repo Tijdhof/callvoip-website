@@ -1,6 +1,6 @@
 ---
 title: Callvoip SIP statuscodes (overzicht)
-weight: 
+weight: 19
 description: ''
 images: []
 pdf: https://files.callvoip.nl/downloads/Callvoip_overzicht_sip-statuscodes.pdf
