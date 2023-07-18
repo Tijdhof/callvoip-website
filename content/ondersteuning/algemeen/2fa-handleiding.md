@@ -12,7 +12,7 @@ hidesocialshare: false
 aliases: "/2fa-support/"
 
 ---
-## Callvoip 2FA instellen in 3 stappen
+<h2>Callvoip 2FA instellen in 3 stappen</h2>
 
 Vanaf 19 juli 2023 is er bij het inloggen op de Callvoip telefooncentrale en webcalls een extra code nodig. Dit heet 2-Factor-Authenticatie (2FA). Deze extra code kun je op verschillende manieren krijgen, hieronder de uitleg in 4 stappen.
 
@@ -35,11 +35,11 @@ Kies een backup 2FA methode, bv je mobiele nummer of bv de Google of Microsoft A
 Na elke keuze krijg je een code. Vul die in om door te gaan.
 
 **Klaar! Gefeliciteerd!**\
-Je kunt nu door naar de panel. Elke keer dat je inlogt krijg je een code van je primaire 2FA methode<br><br><br><br><br><br>
+Je kunt nu door naar de panel. Elke keer dat je inlogt krijg je een code van je primaire 2FA methode<br><br><br><br><br><br><br>
 
 
 
-<h3>Extra toelichting bij de drie 2FA methodes:</h3>
+<h2>Extra toelichting bij de drie 2FA methodes:</h2>
 
 **a. 2FA via de Qaller Smarpthone App:**\
  Had je de Qaller smartphone app al geinstalleerd? Dan krijg je een code, deze vul je in. Heb je de Qaller app nog niet geïnstalleerd? Download Qaller dan in de appstore / playstore, en log in met je gebruikernaam en password, of bel ons voor een koppelcode. Of start met een andere 2FA methode.
