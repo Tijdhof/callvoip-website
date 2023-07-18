@@ -2,7 +2,7 @@
 title: "Update: Callvoip nog veiliger via 2FA"
 images:
 - "/v1686299047/use-smartphone-protection-with-2fa-cyber-security-protects-database-internet-online-personal-online-privacy-encrypted-data.jpg"
-featured: false
+featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
