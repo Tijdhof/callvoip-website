@@ -68,21 +68,21 @@ Download de handleiding en stel de 2FA in slechts 3 stappen.
 Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <a href="https://www.callvoip.nl/ondersteuning/algemeen/2fa-wijzgen/" target="_blank">Download handleiding: 2FA instellingen wijzigen</a><div id="6"></div>\
 <br><br>\
-<b>6. Download Authenticator Apps voor IOS:</b><br><br>
+<b>6. Download Authenticator Apps voor iOS:</b><br><br>
 iOS: Scan de QR-Code voor de Google Authenticator app:<br>
 <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg">
-<br>
+<br><br>
 <b>iOS: Scan de QR-Code voor de Microsoft Authenticator app:</b><br>
 <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_3.jpg">
-<br>
+<br><br>
 <b>Download Authenticator apps voor Android:</b><br><br>
 <b>QR Code voor de Google Authenticator app voor Android:</b><br>
+<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg">
-<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">..of klik hier voor de link</a><br>
 <b>QR Code voor de Microsoft Authenticator app voor Android:</b><br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg">
-<a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">..of klik hier voor de link</a>
-<br><br><br>
+<a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Of klik hier voor de downloadlink</a><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><br>
+<br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
