@@ -22,7 +22,7 @@ Vanaf 21 juni 2023 wordt elke gebruiker bij de eerstvolgende login op de Callvoi
 Het wijzigen van het wachtwoord heeft geen gevolgen voor de Qaller app, Vamos app, Click to Dial of de API koppeling; je telefoontoestel blijft ook gewoon werken. 
 ALLEEN als je op de beheerpagina wilt inloggen en/of als je met Webcalls belt, dan wordt je na het inloggen gevraagd om je wachtwoord te wijzigen. 
 
-Een punt van aandacht: Indien binnen drie maanden geen nieuw wachtwoord is ingesteld, zullen wij automatisch een nieuw wachtwoord genereren. Vanaf dat moment zal je oude wachtwoord niet meer werken en kun je een nieuw wachtwoord opvragen via de knop 'wachtwoord vergeten' op de inlogpagina. Ook indien wij na drie maanden een nieuw wachtwoord hebben gegenereerd, word je niet uitgelogd uit de mobiele apps en api koppelingen, en blijft je telefoontoestel gewoon werken. 
+Een punt van aandacht: Indien binnen drie maanden geen nieuw wachtwoord is ingesteld, zullen wij automatisch een nieuw wachtwoord genereren. Vanaf dat moment zal je oude wachtwoord niet meer werken en kun je een nieuw wachtwoord opvragen via de knop 'wachtwoord vergeten' op de inlogpagina. Ook indien wij na drie maanden een nieuw wachtwoord hebben gegenereerd, word je niet uitgelogd uit de mobiele apps en API koppelingen, en blijft je telefoontoestel gewoon werken. 
 
 <div id="2"><br></div><br>
 <b>2. Twee-factor authenticatie binnenkort standaard</b>
@@ -70,19 +70,19 @@ Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <br><br>\
 <b>6. Download 2FA Authenticator apps</b><br><br>
 <b>Download Authenticator Apps voor IOS:</b><br><br>
-<b>Download Google Authenticator apps voor iOS:</b><br>
+<b>QR Code voor de Google Authenticator apps voor iOS:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg"><br>
-<a href="https://apps.apple.com/us/app/google-authenticator/id388497605">Download</a><br><br>
-<b>Download Microsoft Authenticator app voor iOS:</b><br>
+<a href="https://apps.apple.com/us/app/google-authenticator/id388497605">..of klik hier voor de link</a><br><br>
+<b>QR Code voor de Microsoft Authenticator app voor iOS:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_3.jpg"><br>
-<a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">Download</a>
+<a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">..of klik hier voor de link</a>
 <br><br>
 <b>Download Authenticator apps voor Android:</b><br><br>
-<b>Download Google Authenticator app voor Android:</b><br>
+<b>QR Code voor de Google Authenticator app voor Android:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><br>
-<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">Download</a><br>
-<b>Download Microsoft Authenticator app voor Android:</b><br>
+<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">..of klik hier voor de link</a><br>
+<b>QR Code voor de Microsoft Authenticator app voor Android:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><br>
-<a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Download</a>
+<a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">..of klik hier voor de link</a>
 <br><br><br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
