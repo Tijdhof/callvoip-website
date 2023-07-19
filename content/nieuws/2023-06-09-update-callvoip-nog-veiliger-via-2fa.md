@@ -69,13 +69,14 @@ Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <a href="https://www.callvoip.nl/ondersteuning/algemeen/2fa-wijzgen/" target="_blank">Download handleiding: 2FA instellingen wijzigen</a><div id="6"></div>\
 <br><br>\
 <b>6. Download Authenticator Apps voor IOS:</b><br><br>
-QR Code voor de Google Authenticator apps voor iOS:<br>
+iOS: Scan de QR-Code voor de Google Authenticator app:<br>
+<a href="https://apps.apple.com/us/app/google-authenticator/id388497605">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg">
-<a href="https://apps.apple.com/us/app/google-authenticator/id388497605">..of klik hier voor de link</a><br><br>
-<b>QR Code voor de Microsoft Authenticator app voor iOS:</b><br>
+<br>
+<b>iOS: Scan de QR-Code voor de Microsoft Authenticator app:</b><br>
+<a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_3.jpg">
-<a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">..of klik hier voor de link</a>
-<br><br>
+<br>
 <b>Download Authenticator apps voor Android:</b><br><br>
 <b>QR Code voor de Google Authenticator app voor Android:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg">
