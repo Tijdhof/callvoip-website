@@ -70,13 +70,11 @@ Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <br><br>\
 <b>6. Download Authenticator Apps voor iOS:</b><br><br>
 iOS: Scan de QR-Code voor de Google Authenticator app:<br>
-<a href="https://apps.apple.com/us/app/google-authenticator/id388497605">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg">
-<br><br>
+<a href="https://apps.apple.com/us/app/google-authenticator/id388497605">Of klik hier voor de downloadlink</a><br><br><br>
 <b>iOS: Scan de QR-Code voor de Microsoft Authenticator app:</b><br>
-<a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_3.jpg">
-<br><br>
+<a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">Of klik hier voor de downloadlink</a><br><br><br>
 <b>Download Authenticator apps voor Android:</b><br><br>
 <b>QR Code voor de Google Authenticator app voor Android:</b><br>
 <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">Of klik hier voor de downloadlink</a><br>
