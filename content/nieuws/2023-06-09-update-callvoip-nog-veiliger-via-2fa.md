@@ -68,20 +68,20 @@ Download de handleiding en stel de 2FA in slechts 3 stappen.
 Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <a href="https://www.callvoip.nl/ondersteuning/algemeen/2fa-wijzgen/" target="_blank">Download handleiding: 2FA instellingen wijzigen</a><div id="6"></div>\
 <br><br>\
-<b>6. Download 2FA app</b><br><br>
-<b>Download voor IOS:</b><br><br>
-<b>Google Authenticator</b><br>
+<b>6. Download 2FA Authenticator apps</b><br><br>
+<b>Download Authenticator Apps voor IOS:</b><br><br>
+<b>Download Google Authenticator apps voor iOS:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg"><br>
 <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">Download</a><br><br>
-<b>Microsoft Authenticator</b><br>
+<b>Download Microsoft Authenticator app voor iOS:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_3.jpg"><br>
 <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">Download</a>
 <br><br>
-<b>Download voor Android:</b><br><br>
-<b>Google Authenticator</b><br>
+<b>Download Authenticator apps voor Android:</b><br><br>
+<b>Download Google Authenticator app voor Android:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><br>
 <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">Download</a><br>
-<b>Microsoft Authenticator</b><br>
+<b>Download Microsoft Authenticator app voor Android:</b><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><br>
 <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Download</a>
 <br><br><br>
