@@ -77,10 +77,11 @@ iOS: Scan de QR-Code voor de Google Authenticator app:<br>
 <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">Of klik hier voor de downloadlink</a><br><br><br>
 <b>Download Authenticator apps voor Android:</b><br><br>
 <b>QR Code voor de Google Authenticator app voor Android:</b><br>
-<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg">
+<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1">Of klik hier voor de downloadlink</a><br>
+<br><br>
 <b>QR Code voor de Microsoft Authenticator app voor Android:</b><br>
-<a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Of klik hier voor de downloadlink</a><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><br>
-<br>
+<a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Of klik hier voor de downloadlink</a><br>
+<br><br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
