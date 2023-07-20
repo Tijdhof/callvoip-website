@@ -46,17 +46,17 @@ Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
    Dat kan lastiger worden als je een account maar aan één toestel koppelt.<br>
    Advies: maak voor elke persoon een eigen gebruikersaccount aan op de telefooncentrale. Er zijn geen meerkosten voor een losse gebruiker die wel als beheerder kan inloggen.
    <br><br>
-<b>2. Welke authenticator is het handigst?<</b>br>
+<b>2. Welke authenticator is het handigst?</b><br>
    Dat hangt natuurlijk af van je eigen voorkeuren, maar veel gebruikers vinden de Qaller app het handigst: je krijgt gelijk een code, deze staat direct op het scherm van je mobiel en evt op je smartwatch. Je hoeft niets te openen of te doen.
    <br><br>
 <b>3. Waar kan ik de pincode vinden die door Qaller wordt gegenereerd? </b><br>
    Als je Qaller UIT hebt staan, dan vind je de authenticatie pincode in het berichtencentrum van je telefoon (android, iphone).<br>
    Als je Qaller AAN hebt staan, dan wordt de code op het scherm getoond. 
    <br><br>
-<b>4. Kun je instellen welke authenticator als default wordt gebruikt? </b><br>
+<b>4. Kun je instellen welke authenticator als default wordt gebruikt?</b><br>
    Ja dat kan. Je kunt dit instellen op je eigen 2FA beheerpagina. <br>
 
-* Als je als BEHEERDER bent ingelogd, klik dan rechtsboven op je naam en kies \[Bewerk 2FA] en vul je wachtwoord in. Hier stel je in welke van de ingestelde authenticators de default is. Deze authenticator zal dan als standaard worden gebruikt. <br>
+* Als je als BEHEERDER bent ingelogd, klik dan rechtsboven op je naam en kies \[Bewerk 2FA] en vul je wachtwoord in. Hier stel je in welke van de ingestelde authenticators de default is. Deze authenticator zal dan als standaard worden gebruikt.<br>
 * Als je als GEBRUIKER bent ingelogd, klik dan linksbovenaan het menu op je naam. Het instellingenmenu verschijnt. Klikt bovenaan het instellingenmenu nogmaals op je naam. Je persoonlijke instellingen verschijnen. Helemaal onderaan vind je de button \[Bewerk 2FA].<br><br>
 <a href="https://www.callvoip.nl/ondersteuning/algemeen/2fa-wijzgen/" target="_blank">Klik hier voor de handleiding: 2FA instellingen wijzigen</a><div id="4"></div><br><br>
 
