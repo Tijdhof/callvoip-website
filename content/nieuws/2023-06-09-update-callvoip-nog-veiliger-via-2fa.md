@@ -102,12 +102,12 @@ Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><b>Google Authenticator</b></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg"><a href="https://apps.apple.com/us/app/google-authenticator/id388497605" target="_blank">Of klik hier voor de downloadlink</a></center></td>
-<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><b>Microsoft Authenticator</b></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of klik hier voor de downloadlink</a></center></td>
-<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 </tr>
 </tbody>
 </table>
