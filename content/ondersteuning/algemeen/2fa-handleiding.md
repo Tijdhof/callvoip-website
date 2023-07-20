@@ -6,7 +6,7 @@ images: []
 hideinsearch: false
 Nieuw: true
 Update: false
-pdf: 'https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf'
+pdf: 'https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen.pdf'
 hideingoogle: false
 hidesocialshare: false
 aliases: "/2fa-support/"
@@ -76,4 +76,4 @@ Voortaan krijg je een code op de 2FA methode die je als primaire 2FA methode heb
 
 Of heb je je 2FA app verwijderd en kom je er niet meer in? Neem dan contact met ons op, we helpen je graag verder.
 
-<br><br><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen_170723MT.pdf" class="button" target="_blank">Download de handleiding</a>
+<br><br><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-instellen.pdf" class="button" target="_blank">Download de handleiding</a>
