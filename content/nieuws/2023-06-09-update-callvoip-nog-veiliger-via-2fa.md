@@ -96,7 +96,7 @@ Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
-<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_39.jpg"></td>
 <td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr>
