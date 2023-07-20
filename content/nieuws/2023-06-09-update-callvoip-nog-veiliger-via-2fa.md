@@ -97,7 +97,7 @@ Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_39.jpg"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of klik hier voor de downloadlink</a></center></td>
-<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_40.jpg"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><b>Google Authenticator</b></center></td>
