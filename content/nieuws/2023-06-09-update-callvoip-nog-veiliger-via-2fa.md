@@ -74,8 +74,8 @@ Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <tbody>
 <tr>
 <td>&nbsp;</td>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px"></td>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px"></td>
+<td style="border: 1px solid black;"><center></center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px"></center</td>
+<td style="border: 1px solid black;"><center></center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px"></center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
