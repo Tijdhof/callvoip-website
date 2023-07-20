@@ -91,23 +91,23 @@ Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel
 <tbody>
 <tr>
 <td>&nbsp;</td>
-<td><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png"></td>
-<td><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png"></td>
+<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px"></td>
+<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px"></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
+<td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
