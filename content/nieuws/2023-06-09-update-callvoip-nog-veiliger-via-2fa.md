@@ -86,3 +86,28 @@ Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US">Of klik hier voor de downloadlink</a><br>
 <br><br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
+
+<table border="1" cellpadding="10">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png"></td>
+<td><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png"></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
