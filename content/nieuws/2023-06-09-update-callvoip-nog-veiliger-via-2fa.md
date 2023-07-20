@@ -95,17 +95,17 @@ Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel
 <td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px"></td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><br><b>Qaller app</b></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
 <td style="border: 1px solid black;">&nbsp;</td>
 <td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><br><b>Google Authenticator</b></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><b>Google Authenticator</b></center></td>
 <td style="border: 1px solid black;">&nbsp;</td>
 <td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><br><b>Microsoft Authenticator</b></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><b>Microsoft Authenticator</b></center></td>
 <td style="border: 1px solid black;">&nbsp;</td>
 <td style="border: 1px solid black;">&nbsp;</td>
 </tr>
