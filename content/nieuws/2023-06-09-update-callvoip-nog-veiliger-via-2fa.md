@@ -96,17 +96,17 @@ Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_39.jpg"></td>
+<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_39.jpg"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of klik hier voor de downloadlink</a></td>
 <td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><b>Google Authenticator</b></center></td>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg"></td>
+<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg"><a href="https://apps.apple.com/us/app/google-authenticator/id388497605" target="_blank">Of klik hier voor de downloadlink</a></td>
 <td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><b>Microsoft Authenticator</b></center></td>
-<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"></td>
+<td style="border: 1px solid black;"><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of klik hier voor de downloadlink</a></td>
 <td style="border: 1px solid black;">&nbsp;</td>
 </tr>
 </tbody>
