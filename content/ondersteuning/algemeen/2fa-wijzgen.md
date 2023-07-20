@@ -6,7 +6,7 @@ images: []
 hideinsearch: false
 Nieuw: true
 Update: false
-pdf: 'https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen_170723MT.pdf'
+pdf: 'https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen.pdf'
 hideingoogle: false
 hidesocialshare: false
 aliases: "/2fa-wijzigen/"
@@ -69,4 +69,4 @@ Dan is ons advies om meerdere gebruikers aan te maken, en iedereen een eigen 2FA
 Is dat geen optie, dan is het advies om meerdere mobiele nummers toe te voegen voor 2FA via de telefoon. Wij assisteren graag om dit vorm te geven.
 
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1689604642/2fa-4.png">
-<br><br><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen_170723MT.pdf" class="button" target="_blank">Download de handleiding</a>
+<br><br><a href="https://www.callvoip.nl/docs/Callvoip_technote_2FA-wijzigen.pdf" class="button" target="_blank">Download de handleiding</a>
