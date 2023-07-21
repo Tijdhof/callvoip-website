@@ -27,7 +27,7 @@ hidesocialshare: false
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_40.jpg"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/vamos_fupe0q.png"><b>VAMOS app</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/vamos_fupe0q.png" width="32px"><b>VAMOS app</b></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_41.jpg"><a href="https://apps.apple.com/nl/app/vamos-vast-mobiel/id1449692498" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_42.jpg"><a href="https://play.google.com/store/apps/details?id=com.digifoon.fmc" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 </tr>
