@@ -39,11 +39,11 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **Aankondiging veiligheidsupdate:** \
+      **Inloggen met een extra code (2FA):** 
 
-      Vanaf woensdag 21 juni zal 2 Factor Authentication (2FA) platform-breed worden toegepast. \
+      Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
 
-      M﻿ogelijk ontvang je hierover een melding vanuit de telefooncentrale. \
+      Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. \
 
       [H﻿ier ](https://www.callvoip.nl/veilig)vind je meer informatie. 
 
