@@ -45,6 +45,6 @@ aliases: /apps/
 </tbody>
 </table>
 <br><br>
-<h3>Computer downloads</h3>
+<h3>Computer downloads</h3><br>
 <b>Click to Dial voor Google chrome:</b><br>
-<a href="https://chrome.google.com/webstore/detail/click-to-dial/fcaogjloahcekdejkopjepdjinpngceh?hl=nl" class="button" target="_blank">Download</a>
+<a href="https://chrome.google.com/webstore/detail/click-to-dial/fcaogjloahcekdejkopjepdjinpngceh?hl=nl" class="button" target="_blank">Download Click to Dial</a>
