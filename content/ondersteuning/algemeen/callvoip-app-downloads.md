@@ -1,16 +1,17 @@
 ---
-title: Callvoip app downloads
-weight: 10
+title: Callvoip apps downloads
+weight: 22
 onderdelen:
 - Algemeen
 description: ''
 images: []
 hideinsearch: true
 hideingoogle: true
-Nieuw: false
+Nieuw: true
 Update: false
 pdf: 
 hidesocialshare: false
+aliases: /apps/
 
 ---
 
