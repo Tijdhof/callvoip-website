@@ -25,11 +25,11 @@ ALLEEN als je op de beheerpagina wilt inloggen en/of als je met Webcalls belt, d
 Een punt van aandacht: Indien na drie maanden (21 september 2023) geen nieuw wachtwoord is ingesteld, zullen wij automatisch een nieuw wachtwoord genereren. Vanaf dat moment zal je oude wachtwoord niet meer werken en kun je een nieuw wachtwoord opvragen via de knop 'wachtwoord vergeten' op de inlogpagina. Ook indien wij na drie maanden een nieuw wachtwoord hebben gegenereerd, word je niet uitgelogd uit de mobiele apps en API koppelingen, en blijft je telefoontoestel gewoon werken. 
 
 <div id="2"><br></div><br>
-<b>2. Twee-factor authenticatie binnenkort standaard</b>
+<b>2. Twee-factor authenticatie</b>
 <br>
 2FA is een extra verificatie van de identiteit van degene die inlogt en dient als extra veiligheidslaag voor het inloggen op de Callvoip-centrale. Je logt in met je inlognaam, wachtwoord én een extra code die je via je mobiele telefoon krijgt. Deze extra code is noodzakelijk om in te loggen.
 <br><br>
-Vanaf 21 juni 2023 wordt 2FA automatisch aangezet. Bij elke login wordt je gevraagd om de 2FA in te stellen. Tot 19 juli is dit optioneel. Vanaf 19 juli 2023 kun je alleen nog maar inloggen met 2FA.
+Vanaf 21 juni 2023 wordt 2FA automatisch aangezet. Bij elke login wordt je gevraagd om de 2FA in te stellen. <b>Vanaf 19 juli 2023</b> kun je alleen nog maar inloggen met 2FA.
 <br><br>
 Er zijn 4 mogelijkheden om de 2FA code op je mobiele telefoon te ontvangen:
 <br><br>
