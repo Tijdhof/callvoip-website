@@ -14,7 +14,7 @@ hidesocialshare: false
 aliases: /apps/
 
 ---
-
+<h3>Smartphone app downloads</h3>
 <table border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -44,3 +44,7 @@ aliases: /apps/
 </tr>
 </tbody>
 </table>
+<br><br>
+<h3>Computer downloads</h3>
+<b>Click to Dial voor Google chrome:</b><br>
+<a href="https://chrome.google.com/webstore/detail/click-to-dial/fcaogjloahcekdejkopjepdjinpngceh?hl=nl" class="button" target="_blank">Download</a>
