@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Verzekeringen
   - Relatiebeheer
+  - Verzekeringen
   - Property Management
   - Makelaars
   - Nieuw
