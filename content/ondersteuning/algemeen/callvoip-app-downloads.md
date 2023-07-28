@@ -16,6 +16,13 @@ aliases: /apps/
 ---
 Download direct de tools en apps die te gebruiken zijn in combinatie met de Callvoip dienst.
 <h3>Computer / Browser downloads</h3><br>
+<table border="1" cellpadding="10">
+<tr>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_39.jpg"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of klik hier voor de downloadlink</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_40.jpg"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&amp;hl=nl" target="_blank">Of klik hier voor de downloadlink</a></center></td>
+</tr>
+</table>
 <b>Click to Dial voor Google chrome:</b><br><br>
 <a href="https://chrome.google.com/webstore/detail/click-to-dial/fcaogjloahcekdejkopjepdjinpngceh?hl=nl" class="button" target="_blank">Download Click to Dial</a><br><br>
 <h3>Smartphone app downloads</h3>
