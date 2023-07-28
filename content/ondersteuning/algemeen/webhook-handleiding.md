@@ -50,7 +50,7 @@ De verzoekgegevens die naar de URL komen, zijn de volgende:<br>
 "rta_call_id": "8a5d5db451e9-6bd98ab0066f"<br>
 "sip_call_id": "lsjuf8l09juq1i0a9vai"<br>
 }<br></span><br>
-<h3><b>Combinatie met de voorwaarde-ap</b></h3>
+<h3><b>Combinatie met de voorwaarde-app</b></h3>
 Je kunt een variabele instellen in de Webhook app; deze is dan ook zichtbaar in de voorwaarde-app.
 Afhankelijk van de reactie van de server (ingesteld in de webhook-app) kun je verschillende vervolgbelroutes laten uitvoeren.<br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1690468301/webhook-image2.png">
