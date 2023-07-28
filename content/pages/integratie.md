@@ -38,7 +38,7 @@ textblocksfooter:
   show_vshape: false
 textblocksfooter2:
 - title1: ''
-  content1: '<iframe width="560" height="315" src="https://www.youtube.com/embed/4bVIvLQFzrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  content1: '<iframe width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   title2: 'Customized popups en bubbles'
   content2: 'Elk gesprek weer biedt integratie jou gemak, overzicht en duidelijkheid.
 Afhankelijk van de gekozen integratie kun je de popup customizen met knoppen,
