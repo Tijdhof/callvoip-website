@@ -14,8 +14,8 @@ hidesocialshare: false
 aliases: /apps/
 
 ---
-Download direct de tools en apps die te gebruiken zijn in combinatie met de Callvoip dienst.
-<h3>Computer / Browser downloads</h3><br>
+Download direct de tools en apps die te gebruiken zijn in combinatie met de Callvoip dienst.<br>
+<h3>Computer / Browser downloads</h3>
 <table border="1" cellpadding="10">
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://lh3.googleusercontent.com/fYPOYvaMpiCd14tZF08pDN8l8gY2K_kVTmry5XciPQbygX30jTxax8Bm4Fb4T9Vo5TNl7v8YpiWTrzkMk5lHSPgK88M=w128-h128-e365-rj-sc0x00ffffff" width="32px" height="32px"><b>Click to Dial</b></center></td>
