@@ -16,6 +16,7 @@ button:
 categories:
   - Workflow
   - Planning
+  - Auto Call Log
 weight: 10
 url: /marketplace/Simplicate/
 aliases: /program-shop/Simplicate/
