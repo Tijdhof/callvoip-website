@@ -15,8 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Declaratie
-  - Medisch
   - Zorg
+  - Medisch  
 weight: 10
 url: /marketplace/careweb/
 aliases: /program-shop/careweb/
