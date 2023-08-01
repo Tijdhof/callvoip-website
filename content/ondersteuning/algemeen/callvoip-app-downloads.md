@@ -43,7 +43,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><b>Microsoft Authenticator</b></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/microsoft-apple.png"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of download hier</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/microsoft-apple2.png"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of download hier</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US" target="_blank">Of download hier</a></center></td>
 </tr>
 <tr>
