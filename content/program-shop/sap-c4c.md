@@ -14,8 +14,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customerservice
   - E-Commerce
+  - Customerservice
 weight: 10
 url: /marketplace/sap-c4c/
 aliases: /program-shop/sap-c4c/
