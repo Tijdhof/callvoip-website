@@ -14,9 +14,9 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Auto Call Log
-  - Kinderopvang
   - Planning
+  - Kinderopvang
+  - Auto Call Log  
 weight: 10
 url: /marketplace/kidsvision/
 aliases: /program-shop/kidsvision/
