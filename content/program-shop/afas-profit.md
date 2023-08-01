@@ -16,6 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Auto Call Log
   - Custom fields
 weight: 10
 url: /marketplace/afas
