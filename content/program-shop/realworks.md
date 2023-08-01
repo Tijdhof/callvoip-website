@@ -12,8 +12,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Property Management
   - Makelaars
+  - Property Management  
   - Auto Call Log
   - Integrated Popup
   - Embedded Popup
