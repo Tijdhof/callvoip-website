@@ -16,6 +16,7 @@ button:
 categories:
   - E-Commerce
   - Customerservice
+  - Auto Call Log
 weight: 10
 url: /marketplace/sap-c4c/
 aliases: /program-shop/sap-c4c/
