@@ -25,6 +25,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Auto Call Log
 weight: 10
 url: /marketplace/halopsa/
 aliases: /program-shop/halopsa/
