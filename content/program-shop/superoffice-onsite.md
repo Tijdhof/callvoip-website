@@ -24,8 +24,8 @@ button:
   link: /marketplace/
 categories:
   - Sales
-  - Marketing
   - Klantcontact
+  - Marketing  
 weight: 10
 url: /marketplace/onsite/
 aliases: /program-shop/onsite/
