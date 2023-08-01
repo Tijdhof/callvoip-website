@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customerservice
   - Accountancy
+  - Customerservice
   - Boekhouding
 weight: 10
 url: /marketplace/supportpal/
