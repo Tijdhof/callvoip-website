@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Sales
+  - Auto Call Log
 weight: 10
 url: /marketplace/smarttrade/
 aliases: /program-shop/smarttrade/
