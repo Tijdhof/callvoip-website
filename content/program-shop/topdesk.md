@@ -14,9 +14,9 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customerservice
-  - Klantcontact
   - Relatiebeheer
+  - Klantcontact
+  - Customerservice  
 weight: 10
 url: /marketplace/topdesk/
 aliases: /program-shop/topdesk/
