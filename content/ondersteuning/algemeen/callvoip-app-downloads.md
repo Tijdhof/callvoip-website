@@ -51,6 +51,11 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US" target="_blank">Of klik hier voor de downloadlink</a></center></td>
 </tr>
+  <tr>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1586429448/vamos_fupe0q.png"><b>VAMOS</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><a href="https://apps.apple.com/nl/app/vamos-vast-mobiel/id1449692498" target="_blank">Of klik hier voor de downloadlink</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><a href="https://play.google.com/store/apps/details?id=com.digifoon.fmc&hl=nl&gl=US" target="_blank">Of klik hier voor de downloadlink</a></center></td>
+</tr>
 </tbody>
 </table>
 
