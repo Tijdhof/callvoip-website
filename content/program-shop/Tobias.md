@@ -1,5 +1,5 @@
 ---
-shorttitle: "Tobias AX Aareon Software + auto call log"
+shorttitle: "Tobias AX Aareon Software"
 title: "Wij koppelen jouw CRM Tobias AX Aareon Software aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/tobias_j2ybxp.png"
