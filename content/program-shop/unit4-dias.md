@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Verzekeringen
   - Hypotheken
+  - Verzekeringen  
 weight: 10
 url: /marketplace/unit4-dias/
 aliases: /program-shop/unit4-dias/
