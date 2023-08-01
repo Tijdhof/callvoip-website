@@ -14,6 +14,7 @@ button:
 categories:
   - Workflow
   - Planning
+  - Auto Call Log
 weight: 10
 url: /marketplace/teamleader/
 aliases: /program-shop/teamleader/
