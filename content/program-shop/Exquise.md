@@ -15,8 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
-  - Integrated Popup
   - Medisch
+  - Integrated Popup  
   - Meest populair
 weight: 1
 populair: true
