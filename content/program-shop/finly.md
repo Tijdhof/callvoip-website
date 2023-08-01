@@ -23,9 +23,9 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Hypotheken
-  - Verzekeringen
   - Sales
+  - Verzekeringen
+  - Hypotheken
 weight: 10
 url: /marketplace/finly/
 aliases: /program-shop/finly/
