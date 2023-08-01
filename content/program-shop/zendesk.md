@@ -14,8 +14,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
+  - E-commerce
   - Customerservice
-  - E-Commerce
   - Auto call log
 weight: 10
 url: /marketplace/zendesk/
