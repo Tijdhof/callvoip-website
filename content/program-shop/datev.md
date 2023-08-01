@@ -25,6 +25,7 @@ button:
 categories:
   - Accountancy
   - Boekhouding
+  - Auto Call Log
 weight: 10
 url: /marketplace/datev/
 aliases: /program-shop/datev/
