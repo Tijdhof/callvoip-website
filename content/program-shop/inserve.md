@@ -16,6 +16,7 @@ button:
 categories:
   - Workflow
   - IT-dienstverleners
+  - Auto Call Log
 weight: 10
 url: /marketplace/inserve/
 aliases: /program-shop/inserve/
