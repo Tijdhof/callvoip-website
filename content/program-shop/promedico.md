@@ -15,8 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Huisartsen
-  - Zorg
   - Medisch
+  - Zorg  
 weight: 10
 url: /marketplace/promedico/
 aliases: /program-shop/promedico/
