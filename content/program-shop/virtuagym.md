@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Sportschool
+  - Auto Call Log
 weight: 10
 url: /marketplace/virtuagym/
 aliases: /program-shop/virtuagym/
