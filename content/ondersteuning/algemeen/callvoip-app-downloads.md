@@ -33,7 +33,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_39.jpg"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of download hier</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890155/qaller-apple.png"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of download hier</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_40.jpg"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank">Of download hier</a></center></td>
 </tr>
 <tr>
