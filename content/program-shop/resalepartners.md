@@ -25,6 +25,7 @@ button:
 categories:
   - Declaratie
   - Klantcontact
+  - Auto Call Log
 weight: 10
 url: /marketplace/resalepartners/
 aliases: /program-shop/resalepartners/
