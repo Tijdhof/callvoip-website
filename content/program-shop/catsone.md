@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Recruitment
   - Relatiebeheer
+  - Recruitment
   - Auto Call Log
 weight: 10
 url: /marketplace/catsone/
