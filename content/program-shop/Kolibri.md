@@ -15,7 +15,6 @@ button:
   link: /marketplace/
 categories:
   - Makelaars
-  - Auto Call Log
   - Integrated Popup
   - Embedded Popup
 weight: 10
