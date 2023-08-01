@@ -23,10 +23,11 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Marketing
-  - E-commerce
-  - Sales
   - Workflow
+  - E-Commerce
+  - Auto Call Log
+  - Sales
+  - Marketing
   - Planning
   - Nieuw
 weight: 2
