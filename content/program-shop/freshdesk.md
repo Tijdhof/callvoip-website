@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customerservice
   - E-commerce
+  - Customerservice  
 weight: 10
 new: false
 url: /marketplace/freshdesk/
