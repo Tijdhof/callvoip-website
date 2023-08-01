@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Klantcontact
   - Relatiebeheer
+  - Klantcontact
 weight: 10
 url: /marketplace/efficy/
 aliases: /program-shop/efficy/
