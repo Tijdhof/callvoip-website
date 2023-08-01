@@ -23,13 +23,13 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customerservice
-  - Klantcontact
   - Relatiebeheer
+  - Klantcontact
+  - Customerservice
+  - Auto Call Log
   - Boekhouding
   - Projectbeheer
-  - Auto Call Log
-weight: 10
+  weight: 10
 url: /marketplace/odoo/
 aliases: /program-shop/odoo/
 
