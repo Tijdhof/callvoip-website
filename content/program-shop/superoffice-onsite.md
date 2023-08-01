@@ -25,7 +25,8 @@ button:
 categories:
   - Sales
   - Klantcontact
-  - Marketing  
+  - Auto Call Log
+  - Marketing   
 weight: 10
 url: /marketplace/onsite/
 aliases: /program-shop/onsite/
