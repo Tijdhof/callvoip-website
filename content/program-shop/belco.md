@@ -24,8 +24,7 @@ button:
   link: /marketplace/
 categories:
   - E-commerce
-  - Customerservice
-  - Auto call log
+  - Customerservice  
 weight: 10
 new: false
 url: /marketplace/belco/
