@@ -23,9 +23,9 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Zorg
   - Relatiebeheer
   - Accountancy
+  - Zorg
 weight: 10
 url: /marketplace/king-software/
 aliases: /program-shop/king-software/
