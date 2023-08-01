@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Taxisoftware
+  - Auto Call Log
 weight: 10
 url: /marketplace/wintax/
 aliases: /program-shop/wintax/
