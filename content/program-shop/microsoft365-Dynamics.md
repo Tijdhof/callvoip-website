@@ -23,9 +23,9 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customerservice
-  - Klantcontact
   - Relatiebeheer
+  - Klantcontact
+  - Customerservice
   - Sales
 weight: 10
 url: /marketplace/microsoft365/
