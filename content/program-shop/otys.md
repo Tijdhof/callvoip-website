@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Recruitment
+  - Auto Call Log
 weight: 10
 url: /marketplace/otys/
 aliases: /program-shop/otys/
