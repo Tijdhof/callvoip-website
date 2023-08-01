@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Boekhouding
+  - Auto Call Log
 weight: 10
 url: /marketplace/clientbox/
 aliases: /program-shop/clientbox/
