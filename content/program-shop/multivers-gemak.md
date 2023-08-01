@@ -14,8 +14,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Boekhouding
   - Accountancy
+  - Boekhouding  
 weight: 10
 url: /marketplace/multivers/
 aliases: /program-shop/multivers/
