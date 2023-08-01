@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Hostingbedrijven
   - Accountancy
+  - Hostingbedrijven  
 weight: 10
 url: /marketplace/hostfact/
 aliases: /program-shop/hostfact/
