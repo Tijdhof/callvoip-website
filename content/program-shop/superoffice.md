@@ -16,6 +16,7 @@ button:
 categories:
   - Sales
   - Klantcontact
+  - Auto Call Log
   - Marketing    
 weight: 10
 url: /marketplace/superoffice/
