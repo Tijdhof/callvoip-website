@@ -15,6 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Sierbestratingsbranche
+  - Auto Call Log
 weight: 10
 url: /marketplace/smartstone/
 aliases: /program-shop/smartstone/
