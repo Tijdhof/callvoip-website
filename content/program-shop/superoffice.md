@@ -15,8 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Sales
-  - Marketing
   - Klantcontact
+  - Marketing    
 weight: 10
 url: /marketplace/superoffice/
 aliases: /program-shop/superoffice/
