@@ -25,6 +25,7 @@ button:
 categories:
   - Sales
   - Klantcontact
+  - Auto Call Log
 weight: 10
 url: /marketplace/neoforce/
 aliases: /program-shop/neoforce/
