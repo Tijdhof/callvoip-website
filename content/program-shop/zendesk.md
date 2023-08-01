@@ -14,7 +14,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - E-commerce
+  - E-Commerce
   - Customerservice
   - Auto call log
 weight: 10
