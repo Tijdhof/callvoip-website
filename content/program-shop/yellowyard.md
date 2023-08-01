@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Recruitment
+  - Auto Call Log
 weight: 10
 url: /marketplace/yellowyard/
 aliases: /program-shop/yellowyard/
