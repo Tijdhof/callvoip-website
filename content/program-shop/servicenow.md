@@ -14,8 +14,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Klantcontact
   - Workflow
+  - Klantcontact
 weight: 10
 url: /marketplace/servicenow/
 aliases: /program-shop/servicenow/
