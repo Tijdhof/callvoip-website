@@ -15,8 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
-  - Integrated Popup
   - Medisch
+  - Integrated Popup  
   - Embedded Popup
 weight: 10
 url: /marketplace/Simplex/
