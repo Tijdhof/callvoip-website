@@ -23,8 +23,8 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Customerservice
   - E-Commerce
+  - Customerservice
   - Auto call log
 weight: 10
 url: /marketplace/zendesktalk/
