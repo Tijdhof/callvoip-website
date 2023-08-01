@@ -14,9 +14,9 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Marketing
   - E-commerce
   - Sales
+  - Marketing    
 weight: 10
 url: /marketplace/activecampaign/
 aliases: /program-shop/activecampaign/
