@@ -16,6 +16,7 @@ button:
 categories:
   - E-commerce
   - Custom fields
+  - Auto Call Log
 weight: 10
 url: /marketplace/salesforce/
 aliases: /program-shop/salesforce/
