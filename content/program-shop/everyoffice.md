@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Relatiebeheer
+  - Auto Call Log
   - Nieuw
 weight: 2
 new: true
