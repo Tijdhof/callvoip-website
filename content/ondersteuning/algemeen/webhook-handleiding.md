@@ -63,19 +63,22 @@ Als de variabele niet is ingesteld zal het niet in de conditie app zichtbaar zij
 De variable moet verder uniek zijn in het belplan of in het IVR context/menu.
 <br><br>
 <b>Let op: </b><br>
-• Hoe later de time out si ingesteld, hoe sneller het gesprek naar de volgende actie in het belplan zal
+• Hoe later de time out is ingesteld, hoe sneller het gesprek naar de volgende actie in het belplan zal
 gaan als er geen respons is van de server.<br>
-• De webhook app is alleen beschikbaar i neen bedrijfs-belplan en in de IVRM app, en niet in het
+• De webhook app is alleen beschikbaar in een bedrijfs-belplan en in de IVR app, en niet in het
 persoonlijke belplan.
 <br><br>
 <h3><b>Voorbeelden:</b><br></h3>
 De combinatie van de Webhook-app en de Voorwaarde-app brengt een set van compleet nieuwe
-mogelijkheden van de Callvoip telefooncentrale. Er zijn veel integratiemogelijkheden. Denk bijvoorbeeld
-aan:<br>
+mogelijkheden van de Callvoip telefooncentrale. Er zijn veel integratiemogelijkheden. 
+<br>
+Denk bijvoorbeeld aan:<br>
 • Check in het CRM systeem of de beller facturen heeft openstaan.<br>
-> zo ja, dan routeer het gesprek naar de afdeling Finance<br>
+> zo ja, dan routeer het gesprek naar de afdeling Finance<br><br>
 • Check in het CRM systeem of de beller lopende tickets heeft.<br>
-> zo ja, verbind de beller door met de agent die het ticket in behandeling heeft<br>
+> zo ja, verbind de beller door met de agent die het ticket in behandeling heeft<br><br>
 • Als de beller voor de tweede keer belt, verbind de beller door naar dezelfde collega die het gesprek
-de eerste keer behandelde.
+de eerste keer behandelde.<br><br>
+<b>Meer weten?</b>b><br>
+Neem dan contact met ons op, per telefoon, email of website chat!</b>
 
