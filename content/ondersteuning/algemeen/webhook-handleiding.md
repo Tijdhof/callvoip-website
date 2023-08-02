@@ -79,6 +79,6 @@ Denk bijvoorbeeld aan:<br>
 > zo ja, verbind de beller door met de agent die het ticket in behandeling heeft<br><br>
 • Als de beller voor de tweede keer belt, verbind de beller door naar dezelfde collega die het gesprek
 de eerste keer behandelde.<br><br>
-<b>Meer weten?</b>b><br>
+<b>Meer weten?</b><b><br>
 Neem dan contact met ons op, per telefoon, email of website chat!</b>
 
