@@ -96,5 +96,13 @@ Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 
 </tbody>
 </table>
+<br>
+<b>Authenticator voor de Google Chrome browser:</b>
+<table border="1" cellpadding="10">
+<tr>
+<td style="border: 1px solid black;" width="226px"><center><img src="https://lh3.googleusercontent.com/LEgohRXYMasRoU-SXiJrkH_LsMMMgpKERWbOCpofID-cbbtKm4DjovRnDo2eiyvWBGcOUSjvQmBPOGKJW7g8y1aJCw=w128-h128-e365-rj-sc0x00ffffff" width="32px" height="32px"><b>Browser Authenticator</b></center></td>
+<td style="border: 1px solid black;" width="223px"><center><a href="https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai" target="_blank">Download hier</a></center></td>
+</tr>
+</table>
 <br><br>
 Wil je meer informatie over de 2FA en/of de manieren om de 2FA code op je mobiel te ontvangen?<br><br><a href="/contact/" target="_blank" class="button">Neem dan contact met ons op</a>
