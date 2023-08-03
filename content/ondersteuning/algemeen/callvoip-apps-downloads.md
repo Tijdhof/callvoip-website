@@ -32,7 +32,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <tr>
 <td>&nbsp;</td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px">Downloads voor iPhones:</center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px">Downloads voor Androids:</center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px" style="padding-bottom: 5px;">Downloads voor Androids:</center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
