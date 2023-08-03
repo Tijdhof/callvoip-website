@@ -24,6 +24,10 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <td style="border: 1px solid black;" width="226px"><center><img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff" width="32px" height="32px"><b>Click to Dial</b></center></td>
 <td style="border: 1px solid black;" width="223px"><center><a href="https://chrome.google.com/webstore/detail/callvoip-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Of download hier</a></center></td>
 </tr>
+<tr>
+<td style="border: 1px solid black;" width="226px"><center><img src="https://lh3.googleusercontent.com/LEgohRXYMasRoU-SXiJrkH_LsMMMgpKERWbOCpofID-cbbtKm4DjovRnDo2eiyvWBGcOUSjvQmBPOGKJW7g8y1aJCw=w128-h128-e365-rj-sc0x00ffffff" width="32px" height="32px"><b>Browser based Authenticator</b></center></td>
+<td style="border: 1px solid black;" width="223px"><center><a href="https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai" target="_blank">Of download hier</a></center></td>
+</tr>
 </table>
 <br><br>
 <h3>Smartphone app downloads</h3>
