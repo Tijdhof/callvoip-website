@@ -75,24 +75,25 @@ Wil je jouw Callvoip 2FA (2-factorauthenticatie) instellingen wijzigen?<br><br>
 <tbody>
 <tr>
 <td>&nbsp;</td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px"></center</td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px"></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px">Downloads voor iPhones:</center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px" style="padding-bottom: 5px;">Downloads voor Androids:</center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_39.jpg"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of klik hier voor de downloadlink</a></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_40.jpg"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank">Of klik hier voor de downloadlink</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890155/qaller-apple.png"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of download hier</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/qaller-google.png"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank">Of download hier</a></center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><b>Google Authenticator</b></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_2.jpg"><a href="https://apps.apple.com/us/app/google-authenticator/id388497605" target="_blank">Of klik hier voor de downloadlink</a></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1" target="_blank">Of klik hier voor de downloadlink</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/google-apple.png"><a href="https://apps.apple.com/us/app/google-authenticator/id388497605" target="_blank">Of download hier</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/google-google.png"><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1" target="_blank">Of download hier</a></center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><b>Microsoft Authenticator</b></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_4.jpg"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of klik hier voor de downloadlink</a></center></td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/screenshot_5.jpg"><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US" target="_blank">Of klik hier voor de downloadlink</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/microsoft-apple2.png"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of download hier</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/microsoft-google.png"><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US" target="_blank">Of download hier</a></center></td>
 </tr>
+
 </tbody>
 </table>
 <br><br>
