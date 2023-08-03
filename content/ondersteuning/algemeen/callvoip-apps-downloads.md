@@ -28,8 +28,8 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <tbody>
 <tr>
 <td>&nbsp;</td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px"></center>Downloads voor iPhones:</td>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px"></center>Downloads voor Androids:</td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/App-Stroe.png" width="200px"><br>Downloads voor iPhones:</center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px"><br>Downloads voor Androids:</center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
