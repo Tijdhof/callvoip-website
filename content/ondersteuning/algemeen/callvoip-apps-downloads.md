@@ -56,3 +56,8 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 </tr>
 </tbody>
 </table>
+<br><br>
+<h3>Voorbeeld van de Google Authenticator:</h3>
+<br>
+<b>Tip: Druk op het + icoontje in de app en scan vervolgens de QR code die getoont wordt in de callvoip centrale.</b><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1691051265/Google_Auth-example.png">
