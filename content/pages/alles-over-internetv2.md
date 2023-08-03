@@ -149,7 +149,7 @@ textblocksfooter:
     
     <div class="flex-1 px-2">Bonded VDSL</div>
     
-    <div class="">€&nbsp;45,- per maand</div>
+    <div class="">€&nbsp;55,- per maand</div>
     
   </div>
   <div class="flex mb-1">
