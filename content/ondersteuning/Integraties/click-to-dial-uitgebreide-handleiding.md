@@ -3,7 +3,7 @@ title: Handleiding Click-to-Dial (uitgebreid)
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_handleiding_ClicktoDial.pdf
+pdf: https://files.callvoip.nl/downloads/Callvoip_handleiding_Click-to-Dial.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
