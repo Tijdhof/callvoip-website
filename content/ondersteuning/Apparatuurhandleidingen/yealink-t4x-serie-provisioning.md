@@ -1,6 +1,6 @@
 ---
 title: Yealink T4x/T5x instellen (provisioning)
-pdf: http://www.simmpl.nl/downloads/Simmpl_Provisioninghandleiding_Tiptel_Yealink.pdf
+pdf: https://www.callvoip.nl/docs/Simmpl_configuratiehandleiding_Yealink_Tiptel.pdf
 weight: 70
 description: Yealink T4x/T5x instellen (provisioning)
 
