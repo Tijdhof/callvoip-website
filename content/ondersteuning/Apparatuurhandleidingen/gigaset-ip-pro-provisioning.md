@@ -3,7 +3,7 @@ title: Gigaset IP DECT instellen (provisioning)
 weight: 50
 description: Gigaset IP DECT instellen
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_provisioning_handleiding_Gigaset-Pro_Maxwell.pdf
+pdf: https://www.callvoip.nl/docs/Simmpl_Provisioninghandleiding_Gigaset-Pro_Maxwell.pdf
 hideinsearch: false
 Nieuw: false
 Update: false
