@@ -3,7 +3,7 @@ title: Handleiding Bereikbaarheidsmonitor
 weight: 
 description: ''
 images: []
-pdf: http://www.simmpl.nl/downloads/Simmpl_Snelstart_Bereikbaarheidsmonitor.pdf
+pdf: https://www.callvoip.nl/docs/Callvoip_snelstart_Bereikbaarheidsmonitor.pdf
 Nieuw: false
 
 ---
