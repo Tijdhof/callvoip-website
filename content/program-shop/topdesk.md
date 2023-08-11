@@ -16,7 +16,8 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
-  - Customerservice  
+  - Customerservice
+  - Financieel  
 weight: 10
 url: /marketplace/topdesk/
 aliases: /program-shop/topdesk/
