@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Hypotheken
+  - Financieel
 weight: 10
 url: /marketplace/Accelerate/
 aliases: /program-shop/Accelerate/
