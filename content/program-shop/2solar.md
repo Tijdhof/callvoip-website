@@ -16,6 +16,7 @@ button:
 categories:
   - Workflow
   - Zonnepanelenmarkt
+  - Bouw
   - Meest populair
 weight: 1
 populair: true
