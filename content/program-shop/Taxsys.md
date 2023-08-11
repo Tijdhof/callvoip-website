@@ -1,5 +1,5 @@
 ---
-shorttitle: "TaxSys Pro CRM"
+shorttitle: "TaxSys Pro"
 title: "Wij koppelen jouw CRM TaxSys Pro aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Taxsys_c82zcx.png"
