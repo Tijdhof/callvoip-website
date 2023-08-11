@@ -1,5 +1,5 @@
 ---
-shorttitle: "Stratech RCS"
+shorttitle: "RCS Stratech Enterprise"
 title: "Wij koppelen jouw CRM Stratech RCS aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Stratech_bfrvhb.png"
