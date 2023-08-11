@@ -16,6 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Financieel
 weight: 10
 url: /marketplace/exact-synergy/
 aliases: /program-shop/exact-synergy/
