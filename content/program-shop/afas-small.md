@@ -17,7 +17,12 @@ categories:
   - Relatiebeheer
   - Klantcontact
   - Auto Call Log
-  - Custom fields
+  - Financieel
+  - Accountancy
+  - Bouw
+  - HRM
+  - ERP
+  - Overheid
 weight: 10
 url: /marketplace/afas-small/
 aliases: /program-shop/afas-small/
