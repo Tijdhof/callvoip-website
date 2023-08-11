@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Notariaat
+  - Financieel
 weight: 10
 url: /marketplace/notarisdossier/
 aliases: /program-shop/notarisdossier/
