@@ -27,6 +27,7 @@ categories:
   - Verzekeringen
   - Hypotheken
   - Auto Call Log
+  - Financieel
 weight: 10
 url: /marketplace/finly/
 aliases: /program-shop/finly/
