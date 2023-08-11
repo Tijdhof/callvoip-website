@@ -16,6 +16,7 @@ button:
 categories:
   - Workflow
   - Planning
+  - Bouw
 weight: 10
 url: /marketplace/Outsmart/
 aliases: /program-shop/Outsmart/
