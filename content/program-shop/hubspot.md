@@ -5,6 +5,8 @@ date: 2021-06-03T16:52:17+05:00
 logo: "/hubspot_uo2xhs.png"
 description: Door het koppelen van Hubspot CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
+ontwikkelaar:
+  - title: Via API
 meer_info:
   - title: Support
     url: /ondersteuning/
