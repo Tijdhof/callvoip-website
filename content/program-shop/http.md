@@ -13,6 +13,7 @@ button:
   link: /marketplace/
 categories:
   - Universele koppeling
+  - Auto Call Log
 weight: 11
 url: /marketplace/HTTP/
 aliases: /program-shop/HTTP/
