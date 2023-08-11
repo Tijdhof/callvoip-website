@@ -17,6 +17,7 @@ categories:
   - Accountancy
   - Customerservice
   - Boekhouding
+  - Financieel
 weight: 10
 url: /marketplace/accountview/
 aliases: /program-shop/accountview/
