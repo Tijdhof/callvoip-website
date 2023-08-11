@@ -16,6 +16,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Financieel
   - Meest populair
 weight: 1
 populair: true
