@@ -25,6 +25,7 @@ button:
 categories:
   - Property Management
   - Technische Dienstverlening
+  - Bouw
 weight: 10
 url: /marketplace/syntess/
 aliases: /program-shop/syntess/
