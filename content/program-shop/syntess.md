@@ -1,6 +1,6 @@
 ---
 title: "Wij koppelen jouw CRM Syntess aan onze telefonie"
-shorttitle: "Syntess"
+shorttitle: "Syntess Atrium"
 date: 2021-06-03T16:52:17+05:00
 logo: "/syntess_rl64py.png"
 description: Door het koppelen van Syntess CRM aan onze slimme telefonie werk je een stuk efficienter.
