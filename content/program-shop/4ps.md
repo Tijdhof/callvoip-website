@@ -25,6 +25,7 @@ button:
 categories:
   - Relatiebeheer
   - Klantcontact
+  - Bouw
 weight: 10
 url: /marketplace/4ps/
 aliases: /program-shop/4ps/
