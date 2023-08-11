@@ -25,6 +25,7 @@ button:
 categories:
   - E-commerce
   - Customerservice
+  - Automotive
 weight: 10
 url: /marketplace/kerridge/
 aliases: /program-shop/kerridge/
