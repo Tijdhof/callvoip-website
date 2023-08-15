@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM Regie aan onze telefonie"
 shorttitle: "Regie"
 date: 2021-06-03T16:52:17+05:00
-logo: "https://res.cloudinary.com/callvoip/image/upload/v1692089059/beedr.png"
+logo: "/beedr.png"
 description: Door het koppelen van Regie CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
