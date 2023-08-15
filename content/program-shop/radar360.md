@@ -1,6 +1,6 @@
 ---
-shorttitle: "Radar360 + auto call log"
-title: "Wij koppelen jouw CRM Radar360 aan onze telefonie"
+shorttitle: "Visma Radar360 + auto call log"
+title: "Wij koppelen jouw CRM Visma Radar360 aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/radar360_lml0hk.png"
 description: Door het koppelen van Radar360 CRM aan onze slimme telefonie werk je een stuk efficienter.
@@ -34,10 +34,10 @@ headerside:
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Radar360 CRM<br>
-Radar360: CRM voor de Accountancy**<br>
+Visma Radar360: CRM voor de Accountancy**<br>
 <br>
 **Samenvatting** <br>
-Met de Callvoip Radar360 connector beschik je over een slimme koppeling tussen Callvoip en Radar360. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Radar360 staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip Radar360 connector beschik je over een slimme koppeling tussen Callvoip en Visma Radar360. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Radar360 staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Radar360 en wordt automatisch de klantkaart in Radar360 geopend. Je kunt gelijk informatie noteren in het klant-log; de opgeslagen notities kunnen bij een volgend contactmoment geraadpleegd worden. De popup heeft een aantal unieke eigenschappen:<br>
