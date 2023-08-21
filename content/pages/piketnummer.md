@@ -20,15 +20,34 @@ blocks:
   title: 'Wisselende dienst op roulatiebasis'
   image_position: center
 textblocksfooter:
-- title1: Spoeddienstschakelaar
-  content1: 'Callvoip biedt een spoeddienstschakelaar. Hierbij kun je verschillende medewerkers in één groep plaatsen. Binnen deze groep is er maximaal één medewerker actief. De overige medewerkers staan automatisch op inactief. Je kunt meerdere groepen maken zodat je ook een gelaagde bereikbaarheid hebt. Er zijn veel handige tools om de bereikbaarheid van een spoednummer te optimaliseren. Denk bv aan:<ul><li>een emailnotificatie van elk inkomend gesprek en/of gemist gesprek</li><li>gelaagde doorschakeling naar meerdere (mobiele) nummer</li><il>externe doorschakeling</li><li>voicemail</li></ul>'
-- title2: Bediening via smartphone app
-  content2: 'Het instellen van een spoednummer is snel geregeld, en het bedienen ervan is nóg eenvoudiger. Met de gratis smartphone app van ons systeem kunnen de geselecteerde personen zien wie er dienst heeft en de diensten met éen klik veranderen. Zijn er meerdere bedieners, dan ziet iedereen realtime wie er dienst heeft. Moet er snel iets worden gewijzigd? Dan doe je dat dus met één klik vanaf je eigen smartphone.'
-textblocksfooter2:
-- title2: Bediening via smartphone app
-  content2: 'Het instellen van een spoednummer is snel geregeld, en het bedienen ervan is nóg eenvoudiger. Met de gratis smartphone app van ons systeem kunnen de geselecteerde personen zien wie er dienst heeft en de diensten met éen klik veranderen. Zijn er meerdere bedieners, dan ziet iedereen realtime wie er dienst heeft. Moet er snel iets worden gewijzigd? Dan doe je dat dus met één klik vanaf je eigen smartphone.'
-- title1: Bediening via smartphone app
-  content1: 'Het instellen van een spoednummer is snel geregeld, en het bedienen ervan is nóg eenvoudiger. Met de gratis smartphone app van ons systeem kunnen de geselecteerde personen zien wie er dienst heeft en de diensten met éen klik veranderen. Zijn er meerdere bedieners, dan ziet iedereen realtime wie er dienst heeft. Moet er snel iets worden gewijzigd? Dan doe je dat dus met één klik vanaf je eigen smartphone.'
+- title1: Regionaal of landelijk
+  content1: Een type nummer kiezen hangt af van jouw bedrijfsactiviteiten. Voor lokaal
+    actieve branches, zoals horeca maar ook huisartsen of tandartsen, is een regionaal
+    nummer geschikt. Het biedt herkenning en een prettige uitstraling. Ben je landelijk
+    actief, met bijvoorbeeld een webshop? Dan is een 085 of 088 landelijk nummer wellicht
+    passender. <br><br><a href="/telefonie/nederlandse-nummers/" class="button">Meer
+    informatie</a>
+  title2: Internationaal
+  content2: Is jouw bedrijf ook internationaal actief? Bied jouw klanten een nummer
+    om te bellen in hun eigen land. En dan hoeven de toestellen die rinkelen heus
+    niet daar te staan. Wel is in veel gevallen een adres in het buitenland nodig
+    om een nummer te kunnen aanvragen. Vraag ons naar de voorwaarden voor het land
+    waar jij een nummer wenst.<br><br><a href="/telefonie/internationale-nummers/"
+    class="button">Meer informatie</a>
+textblocks:
+- title1: Servicenummers
+  content1: 'Servicenummers, ook wel informatienummers genoemd, zijn er in 2 soorten:
+    0800 en 0900. Je vraagt ze aan bij de ACM waarna wij ze in de centrale kunnen
+    gebruiken, net als een 088 blok. Dit type nummers wordt bijvoorbeeld veel gebruikt
+    bij grotere klantenservices of callcenters.<br><br><a href="/telefonie/nederlandse-nummers/#service"
+    class="button">Meer informatie</a>'
+  title2: Mobiele nummers met SIM
+  content2: Voor onze uitgekiende vast-mobiel integratie Vamos leveren wij ook SIM
+    kaarten met een 06 nummers. Ook hier is het mogelijk om nummers over te nemen,
+    dus met nummerbehoud. Of een nieuw 06 nummer. Allemaal helemaal geïntegreerd in
+    onze centrale voor maximale bereikbaarheid.<br><br><a href="/telefonie/functionaliteiten/vamos/"
+    class="button">Meer informatie</a>
+  show_vshape: false
 images: []
 hideinsearch: false
 hideingoogle: false
