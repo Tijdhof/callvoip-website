@@ -3,7 +3,7 @@ title: Aanvraag Piketdienst DEMO
 url: "/aanvragen/piketdienst-demo/"
 
 ---
-Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van je opdracht. Wij nemen contact op om je te assisteren bij de ingebruikname van Yealink Meeting. 
+Vul het formulier in voor een piketdienst demo. Wij leggen je uit hoe onze piketdienst/spoednummer werkt in jouw situatie.
 
 {{< form "aanvragen-piketdemo" "/aanvragen/verzonden" >}}  
 {{< form/template "d-bb5785f73c154508a7d4125575855140">}}  
@@ -20,17 +20,14 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Callvoip Yealink Meeting" >}}
+{{< form/fieldset "Algemeen" >}}
 
-{{< form/select "Wilt u eerst gratis de 30 dagen demolicentie van Yealink Meeting enterprise?" >}}
 
-{{< form/option "Ja" >}}
+{{< form/textarea "In welke branche werk je?" >}}
 
-{{< form/option "Nee" >}}
+{{</ form/fieldset >}}
 
-{{</ form/select >}}
-
-{{< form/textarea "Opmerkingen" >}}
+{{< form/textarea "Opmerkingen of situatie beschrijving" >}}
 
 {{</ form/fieldset >}}
 
