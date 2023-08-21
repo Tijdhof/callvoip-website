@@ -8,7 +8,7 @@ url: /telefonie/piketnummer/
 hero:
   title: 'Piketdienst, spoeddienst en noodnummer'
   content: |-
-    Veel organisaties hebben er één: een piketdienst, spoeddienst of noodnummer. Zo’n nummer biedt klanten de mogelijkheid om een medewerker aan de lijn te krijgen ingeval van calamiteiten en andere onvoorziene situaties, bijvoorbeeld buiten werktijd. Callvoip biedt ongekende tools om dit type nummer eenvoudig flexibel in te richten.
+    Veel organisaties hebben er één: een piketdienst, spoeddienst of noodnummer. Zo’n nummer biedt klanten de mogelijkheid om een medewerker aan de lijn te krijgen ingeval van calamiteiten en andere onvoorziene situaties, bijvoorbeeld buiten werktijd. Callvoip biedt ongekende tools om dit type nummer eenvoudig flexibel in te richten.<br><br><a href="https://www.callvoip.nl/aanvragen/piketdienst-demo/" class="button">Vraag een piketdienst demo aan</a>
   image: "/v1604049415/company-employee-answering-landline-phone-call-corporate-job-talking-manager-office-cord-telephone-line-having-remote-conversation-with-phone-number-work-business-call_hipcte.jpg"
   image_position: center
   disable_image_on_mobile: false
@@ -28,7 +28,7 @@ textblocks:
 - title1: 
   content1: <img src="https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto//v1572861318/qaller_uitleg_pijltjes_cmzthl.png">
   title2: Bediening via smartphone app
-  content2: 'Het instellen van een spoednummer is snel geregeld, en het bedienen ervan is nóg eenvoudiger. Met de gratis smartphone app van ons systeem kunnen de geselecteerde personen zien wie er dienst heeft en de diensten met éen klik veranderen. Zijn er meerdere bedieners, dan ziet iedereen realtime wie er dienst heeft. Moet er snel iets worden gewijzigd? Dan doe je dat dus met één klik vanaf je eigen smartphone.'
+  content2: 'Het instellen van een spoednummer is snel geregeld, en het bedienen ervan is nóg eenvoudiger. Met de gratis smartphone app van ons systeem kunnen de geselecteerde personen zien wie er dienst heeft en de diensten met éen klik veranderen. Zijn er meerdere bedieners, dan ziet iedereen realtime wie er dienst heeft. Moet er snel iets worden gewijzigd? Dan doe je dat dus met één klik vanaf je eigen smartphone.<br><br><a href="https://www.callvoip.nl/telefonie/qaller/" class="button">Lees alles over smartphone app</a>'
   show_vshape: false
 images: []
 hideinsearch: false
