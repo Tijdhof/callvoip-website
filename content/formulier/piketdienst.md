@@ -13,7 +13,6 @@ Vul het formulier in voor een piketdienst demo. Wij leggen je uit hoe onze piket
 
 {{< form/input "Bedrijfsnaam" >}}
 
-
 {{< form/input "Telefoonnummer" >}}
 
 {{< form/email "Email" required >}}
@@ -21,7 +20,6 @@ Vul het formulier in voor een piketdienst demo. Wij leggen je uit hoe onze piket
 {{</ form/fieldset >}}
 
 {{< form/fieldset "Algemeen" >}}
-
 
 {{< form/textarea "In welke branche werk je?" >}}
 
