@@ -10,7 +10,8 @@ hero:
   disable_image_on_mobile: true
 date: 2023-06-09T08:22:16.298Z
 url: /veilig/
-excerpt: Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onze aandacht nodig, en steeds meer. In dat kader zijn er een aantal updates uitgevoerd in onze telefoniecentrale.
+excerpt: "Het is ons allemaal bekend: de beveiliging van online systemen heeft continu onze aandacht nodig, en steeds meer. In dat kader zijn er een aantal updates uitgevoerd in onze telefoniecentrale."
+
 ---
 <b>Ga direct naar:</b><br><a href="#1">1. Eenmalig wachtwoord wijzigen</a><br><a href="#2">2. Twee-factor authenticatie standaard</a><br><a href="#3">3. FAQ</a><br><a href="https://www.callvoip.nl/ondersteuning/algemeen/2fa-handleiding/" target="_blank">4. Download handleiding: 2FA instellen</a><br><a href="https://www.callvoip.nl/ondersteuning/algemeen/2fa-wijzgen/" target="_blank">5. Download handleiding: 2FA instellingen wijzigen</a><br><a href="#6">6. QR-Codes en download link naar Authenticator apps (iOS en Android)</a><br><br>
 ![](https://res.cloudinary.com/callvoip/image/upload/v1686299047/use-smartphone-protection-with-2fa-cyber-security-protects-database-internet-online-personal-online-privacy-encrypted-data.jpg)
