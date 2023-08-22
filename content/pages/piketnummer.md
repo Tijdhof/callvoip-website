@@ -9,7 +9,7 @@ hero:
   title: 'Piketdienst, spoeddienst en noodnummer'
   content: |-
     Veel organisaties hebben er één: een piketdienst, spoeddienst of noodnummer. Zo’n nummer biedt klanten de mogelijkheid om een medewerker aan de lijn te krijgen ingeval van calamiteiten en andere onvoorziene situaties, bijvoorbeeld buiten werktijd. Callvoip biedt ongekende tools om dit type nummer eenvoudig flexibel in te richten.<br><br><a href="https://www.callvoip.nl/aanvragen/piketdienst-demo/" class="button">Vraag een piketdienst demo aan</a>
-  image: "/v1604049415/company-employee-answering-landline-phone-call-corporate-job-talking-manager-office-cord-telephone-line-having-remote-conversation-with-phone-number-work-business-call_hipcte.jpg"
+  image: "/v1604049415/piketdienst-tp.png"
   image_position: center
   disable_image_on_mobile: false
 blocks:
