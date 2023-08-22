@@ -22,7 +22,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Piketdienst Demo" >}}
 
-{{< form/textarea "Bedrijfs situatie & Opmerkingen" >}}
+{{< form/textarea "Bedrijfssituatie & Opmerkingen" >}}
 
 {{</ form/fieldset >}}
 
