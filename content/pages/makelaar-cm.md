@@ -28,7 +28,7 @@ meer tijd besteden aan je échte werkzaamheden!'
   title: Speciaal voor makelaars
   image_position: center
 textblocks:
-- title1: 'Alles voor Makelaars
+- title1: 'Alles voor Makelaars'
   content1: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in
 het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare
 tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport
@@ -37,11 +37,11 @@ VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de k
 met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co.
 Dit vind je allemaal bij ons en vele makelaars gingen je voor.'
   title2: 'Altijd bereikbaar'
-  content2: Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
+  content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
 gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke
 situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote
 drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
-ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.
+ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest."
   title3: 'Jouw Telefonie'
   content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
 voor elke makelaar. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
