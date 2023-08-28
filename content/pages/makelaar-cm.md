@@ -8,7 +8,7 @@ url: /branches/makelaars/crm/
 hero:
   title: Koppelen met jouw makelaars-CRM
   content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/mews/">Mews</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><a href="/marketplace/" class="button" target="_blank">Vraag de Makelaar-CRM koppeling demo aan</a>'
-  image: "/v1571655384/popup-generic.png"
+  image: "/v1571655384/crmmakelaars_taormk.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -20,7 +20,7 @@ kiezen.<br>
 en elk ander programma<br>
 ✔ Customize je popup en kies welke onderdelen je wilt zien<br><br>Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog
 meer tijd besteden aan je échte werkzaamheden!'
-  image: "/v1572861318/crmmakelaars_taormk.png"
+  image: "/v1572861318/popup-generic.png"
   zooming: true
   position: image_left
   title: Speciaal voor makelaars
