@@ -14,6 +14,7 @@ aliases: "/nieuwsbrieven"
 ---
 <h3>2023</h3>
 <ul>
+<li><a href="https://sh1.sendinblue.com/3gbcx2qwy9xpfe.html?t=1693213722" target="_blank">Nieuwsbrief 22-08-2023 | 2FA Essentials: de Top 10 meestgestelde vragen</a></li>
 <li><a href="https://sh1.sendinblue.com/3gb09yqwy9xpfe.html?t=1690555953" target="_blank">Nieuwsbrief 13-07-2023 | 2FA verplicht</a></li>
 <li><a href="https://sh1.sendinblue.com/3ganmuqwy9xpfe.html?t=1686908017" target="_blank">Nieuwsbrief 13-06-2023 | Belangrijke veiligheidsupdate, en meer Callvoip nieuws</a></li>
 <li><a href="https://4hdx3.r.bh.d.sendibt3.com/mk/mr/0OppRFlVuMdFMkT8dA0OCJeiC1TBW8zq4VH6QKh11iyqbFGsdBuc7NIHQfwcNkYNWmi7ff4ljOS6b6IxPnUnHfFf0YNNe4nCMD8R_TuxQ1E-Gyy3133VD6eAm_YAlEOtwmi_aG2ZUg" target="_blank">Nieuwsbrief 14-02-2023 | Callvoip update: Ontdek het gemak van slimme meldteksten</a></li>
