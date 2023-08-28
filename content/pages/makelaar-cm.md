@@ -57,7 +57,7 @@ hidesocialshare: true
 
 ---
 
-dialog id="dialog" class="z-50 w-full h-full">
+<dialog id="dialog" class="z-50 w-full h-full">
         <form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
