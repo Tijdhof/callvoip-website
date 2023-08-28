@@ -7,22 +7,26 @@ logos: false
 url: /branches/makelaars/crm/
 hero:
   title: Koppelen met jouw makelaars-CRM
-  content: "Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek.
-  <br>Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer. Wanneer de beller bekend is bij jou kun je:<br>- Zien wie er belt, met naam en toenaam<br>- Direct het dossier erbij pakken vanuit de popup<br>- Historie bekijken van alle contact<br>- Een gespreksverslag maken of terugbelverzoek uitzetten"
+  content: "Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. >Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Wanneer de beller bekend is bij jou kun je:<br>- Zien wie er belt, met naam en toenaam<br>- Direct het dossier erbij pakken vanuit de popup<br>- Historie bekijken van alle contact<br>- Een gespreksverslag maken of terugbelverzoek uitzetten<br><br>Wanneer de beller niet bekend is bij jou:<br>zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon."
   image: "/v1571655384/popup-generic.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Als jouw zakelijke telefonieprovider negeren wij jouw smartphone zeker
-    niet! Vanzelfsprekend kunnen we op enig moment jouw vaste nummer doorschakelen
-    naar mobiel. Maar met onze Qaller app op je mobiel kun je ook overal bepaalde
-    routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
-    Business, op je vaste nummer! We helpen je graag.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button" target="_blank">Vergelijking integraties</a>'
+- content: '- open de popup van een eerder gesprek en bel de relatie met 1 klik terug.<br>
+- Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
+kiezen.<br>
+- Handige Click-to-Dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser
+en elk ander programma<br>
+- Customize je popup en kies welke onderdelen je wilt zien<br><br>Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog
+meer tijd besteden aan je échte werkzaamheden!<br><br>Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor
+Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en
+automatisch gesprekslog.<br><br>Staat jouw CRM pakket er niet tussen? Kijk dan op onze overzichtspagina met alle crm’s
+waarmee we kunnen koppelen'
   image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
   zooming: true
   position: image_left
-  title: Onze standaard
+  title: Nog meeer voordelen van deze koppeling
   image_position: center
 textblocks:
 - title1: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_s4x7ro.png">Wat is dat: Qaller app?</div>'
