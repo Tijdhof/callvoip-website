@@ -13,13 +13,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Grofweg heb je twee type bellers: Of ze staan wel bij je in het systeem, of niet. De koppeling gaat daar als volgt mee om.<br><br><b>Wanneer de beller bekend is bij jou kun je:</b><br>✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon.<br><br><b>Nog meer voordelen van deze koppeling</b><br>✔ open de popup van een eerder gesprek en bel de relatie met 1 klik terug.<br>
-✔ Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
-kiezen.<br>
-✔ Handige Click-to-Dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser
-en elk ander programma<br>
-✔ Customize je popup en kies welke onderdelen je wilt zien<br><br>Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog
-meer tijd besteden aan je échte werkzaamheden!'
+- content: 'Grofweg heb je twee type bellers: Of ze staan wel bij je in het systeem, of niet. De koppeling gaat daar als volgt mee om.<br><br><b>Wanneer de beller bekend is bij jou kun je:</b><br>✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon'
   image: "/v1572861318/popup-generic.png"
   zooming: true
   position: image_left
