@@ -21,7 +21,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Spoeddienstschakelaar
-  content1: 'Callvoip biedt een spoeddienstschakelaar. Hierbij kun je verschillende medewerkers in één groep plaatsen. Binnen deze groep is er maximaal één medewerker actief. De overige medewerkers staan automatisch op inactief. Je kunt meerdere groepen maken zodat je ook een gelaagde bereikbaarheid hebt. Er zijn veel handige tools om de bereikbaarheid van een spoednummer te optimaliseren.<br>Denk bv aan:<ul><li>een emailnotificatie van elk inkomend gesprek en/of gemist gesprek</li><li>gelaagde doorschakeling naar meerdere (mobiele) nummers</li><il>externe doorschakeling</li><li>voicemail</li></ul>'
+  content1: 'Callvoip biedt een spoeddienstschakelaar. Hierbij kun je verschillende medewerkers in één groep plaatsen. Binnen deze groep is er maximaal één medewerker actief. De overige medewerkers staan automatisch op inactief. Je kunt meerdere groepen maken zodat je ook een gelaagde bereikbaarheid hebt. Er zijn veel handige tools om de bereikbaarheid van een spoednummer te optimaliseren.<br>Denk bv aan:<ul><li>een emailnotificatie van elk inkomend gesprek en/of gemist gesprek</li><li>gelaagde doorschakeling naar meerdere (mobiele) nummers</li><li>externe doorschakeling</li><li>Gelaagde doorschakeling naar externe nummers</li><li>doorschakeling naar voicemail</li></ul>'
   title2: 
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto//v1572861318/omleiding_trevq9.png">
 textblocks:
