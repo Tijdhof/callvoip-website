@@ -23,7 +23,7 @@ meer tijd besteden aan je échte werkzaamheden!'
   image: "/v1572861318/popup-generic.png"
   zooming: true
   position: image_left
-  title: Speciaal voor makelaars vervangen voor Alle voordelen op een rij 
+  title: Alle voordelen op een rij 
   image_position: center
 textblocks:
 - title1: 'Alles voor Makelaars'
