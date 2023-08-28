@@ -19,14 +19,16 @@ blocks:
   position: image_left
   title: Alle voordelen op een rij 
   image_position: center
-- content: 'Ontwikkelingen gaan snel en bereikbaarheid is vaak niet meer beperkt tot
-    vaste toestellen. Met Callvoip bepaal je zèlf hoe je bereikbaar bent: op het vaste
-    toestel, op de smartphone of op beide. Dit kan eenvoudig via onze app  <a href="/telefonie/qaller/">Qaller,</a>
-    of <a href="/telefonie/functionaliteiten/vamos/">Vamos</a> (volledige vast- en
-    mobiele integratie).<BR><BR> <a href="/offerte" class="button">Offerte aanvragen</a>'
+- content: 'Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.<br><b>Nog meer gemakt en comfort met:</b><br>✔ open de popup van een eerder gesprek en bel de relatie met 1 klik terug.<br>
+✔ Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
+kiezen.<br>
+✔ Handige Click-to-Dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser
+en elk ander programma<br>
+✔ Customize je popup en kies welke onderdelen je wilt zien<br><br>Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog
+meer tijd besteden aan je échte werkzaamheden!'
   image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
   position: image_right
-  title: Upgrade je smartphone naar IP toestel
+  title: Overtuigd?
   image_position: center
 textblocks:
 - title1: 'Alles voor Makelaars'
