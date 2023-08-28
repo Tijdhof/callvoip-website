@@ -23,7 +23,7 @@ meer tijd besteden aan je échte werkzaamheden!<br><br>Alle bekende namen onders
 Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en
 automatisch gesprekslog.<br><br>Staat jouw CRM pakket er niet tussen? Kijk dan op onze overzichtspagina met alle crm’s
 waarmee we kunnen koppelen'
-  image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
+  image: "/v1572861318/crmmakelaars_taormk.png"
   zooming: true
   position: image_left
   title: Nog meeer voordelen van deze koppeling
