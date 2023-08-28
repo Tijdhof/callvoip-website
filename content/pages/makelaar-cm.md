@@ -21,42 +21,36 @@ kiezen.<br>
 - Handige Click-to-Dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser
 en elk ander programma<br>
 - Customize je popup en kies welke onderdelen je wilt zien<br><br>Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog
-meer tijd besteden aan je échte werkzaamheden!<br><<br>Staat jouw CRM pakket er niet tussen? Kijk dan op onze overzichtspagina met alle crm’s
-waarmee we kunnen koppelen'
+meer tijd besteden aan je échte werkzaamheden!'
   image: "/v1572861318/crmmakelaars_taormk.png"
   zooming: true
   position: image_left
   title: Speciaal voor makelaars
   image_position: center
 textblocks:
-- title1: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_s4x7ro.png">Wat is dat: Qaller app?</div>'
-  content1: 'Onze smartphone app heet Qaller. Hij is zowel voor de iPhone als een
-    Android toestel gratis te downloaden in de desbetreffende app store. Je zou het
-    een afstandsbediening kunnen noemen voor onze centrale: je regelt er doorschakelingen
-    mee, of activeert een storingsbandje. Waar je ook bent. Ideaal toch?<br><br><br><a
-    href="/telefonie/qaller/" class="button">Meer informatie</a>'
-  title2: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qallerplus_tlc4ax.png">Wat is dat: Qaller Plus app?</div>'
-  content2: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
-    tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
-    en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
-    en zie of ze in gesprek zijn. <br><br><br><br><a href="/telefonie/qaller/" class="button">Meer
-    informatie</a>
-  title3: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/vamos32x32_g4akqp.png">Wat is dat: Vamos SIM?</div>'
-  content3: 'Stel je eens voor: alles wat met bellen en gebeld worden te maken heeft,
-    vast en mobiel, samen in 1 smartphone. Bellen met vast nummer zonder app, gewoon
-    met je standaard telefoon functie. Kiezen of je vast, mobiel of anoniem uitbelt,
-    mensen in de wacht zetten, doorverbinden. Alles is mogelijk.<br><br><br><a href="/telefonie/functionaliteiten/vamos/"
-    class="button">Meer informatie</a>'
+- title1: 'Alles voor Makelaars
+  content1: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in
+het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare
+tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport
+(makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de
+VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling
+met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co.
+Dit vind je allemaal bij ons en vele makelaars gingen je voor.'
+  title2: 'Altijd bereikbaar'
+  content2: Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
+gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke
+situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote
+drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
+ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.
+  title3: 'Jouw Telefonie'
+  content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
+voor elke makelaar. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
+de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken. Meer weten over
+de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!'
   show_vshape: false
 images: []
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: true
-menu:
-  main:
-    weight: 3
-    parent: Telefonie
-    pre: 'Jouw smartphone, onze telefooncentrale'
-    post: fa-mobile-alt
 
 ---
