@@ -13,8 +13,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/mews/">Mews</a> en nog veel meer. Voor
-<a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a> bieden we een geweldige geïntegreerde koppeling met popup in Realworks en
+- content: 'Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/mews/">Mews</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en
 automatisch gesprekslog.<br><br><b>Nog meer voordelen van deze koppeling</b><br>✔ open de popup van een eerder gesprek en bel de relatie met 1 klik terug.<br>
 ✔ Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
 kiezen.<br>
