@@ -13,20 +13,20 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: '- open de popup van een eerder gesprek en bel de relatie met 1 klik terug.<br>
+- content: 'Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor
+Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en
+automatisch gesprekslog.<br><br><b>Nog meer voordelen van deze koppeling</b><br>- open de popup van een eerder gesprek en bel de relatie met 1 klik terug.<br>
 - Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
 kiezen.<br>
 - Handige Click-to-Dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser
 en elk ander programma<br>
 - Customize je popup en kies welke onderdelen je wilt zien<br><br>Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog
-meer tijd besteden aan je échte werkzaamheden!<br><br>Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor
-Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en
-automatisch gesprekslog.<br><br>Staat jouw CRM pakket er niet tussen? Kijk dan op onze overzichtspagina met alle crm’s
+meer tijd besteden aan je échte werkzaamheden!<br><<br>Staat jouw CRM pakket er niet tussen? Kijk dan op onze overzichtspagina met alle crm’s
 waarmee we kunnen koppelen'
   image: "/v1572861318/crmmakelaars_taormk.png"
   zooming: true
   position: image_left
-  title: Nog meeer voordelen van deze koppeling
+  title: Speciaal voor makelaars
   image_position: center
 textblocks:
 - title1: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_s4x7ro.png">Wat is dat: Qaller app?</div>'
