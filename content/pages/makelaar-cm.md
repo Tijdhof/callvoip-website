@@ -8,7 +8,7 @@ url: /branches/makelaars/crm/
 hero:
   title: Koppelen met jouw makelaars-CRM
   content: "Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek.
-  <br>Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer. Wanneer de beller bekend is bij jou kun je:<br>- Zien wie er belt, met naam en toenaam<br>- Direct het dossier erbij pakken vanuit de popup<br>- Historie bekijken van alle contact<br>- Een gespreksverslag maken of terugbelverzoek uitzetten
+  <br>Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer. Wanneer de beller bekend is bij jou kun je:<br>- Zien wie er belt, met naam en toenaam<br>- Direct het dossier erbij pakken vanuit de popup<br>- Historie bekijken van alle contact<br>- Een gespreksverslag maken of terugbelverzoek uitzetten"
   image: "/v1571655384/popup-generic.png"
   zooming: true
   image_position: center
