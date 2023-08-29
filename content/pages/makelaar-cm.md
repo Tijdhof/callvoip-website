@@ -57,8 +57,8 @@ blocks:
 kiezen.<br>
 ✔ Handige Click-to-Dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser
 en elk ander programma<br>
-✔ Customize je popup en kies welke onderdelen je wilt zien'
-  image: "/v1566548339/realworks_x5x1tk.png"
+✔ Customize je popup en kies welke onderdelen je wilt zien<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Demo aanvragen</button>'
+  image: "/v1566548339/quote_callvoip_CSS_drrsr7.png"
   position: image_right
   title: Overtuigd?
   image_position: center
