@@ -58,7 +58,7 @@ kiezen.<br>
 ✔ Handige Click-to-Dial functie: bel elk nummer met 1 klik, vanuit je CRM, de browser
 en elk ander programma<br>
 ✔ Customize je popup en kies welke onderdelen je wilt zien'
-  image: "/v1566548339/qaller_en_vamos_ezc5p6.png"
+  image: "/v1566548339/realworks_x5x1tk.png"
   position: image_right
   title: Overtuigd?
   image_position: center
