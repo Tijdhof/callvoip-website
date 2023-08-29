@@ -65,16 +65,16 @@ en elk ander programma<br>
 textblocks:
 - title1: 'Alles voor Makelaars'
   content1: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in
-het vaak dynamische reilen en zijlen van makelaar en team.<br><br>Denk uiteraard aan instelbare
+het vaak dynamische reilen en zijlen van makelaar en team.<br>Denk uiteraard aan instelbare
 tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport
 (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de
-VAMOS SIM-kaart voor de makelaar die veel buiten de deur is.<br>En natuurlijk: <b>de koppeling</b>
+VAMOS SIM-kaart voor de makelaar die veel buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
 met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en Mew.
 Dit vind je allemaal bij ons en vele makelaars gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
 gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke
-situatie van een maatoplossing voorzien.<br><br>We houden rekening met elk scenario: grote
+situatie van een maatoplossing voorzien.<br>We houden rekening met elk scenario: grote
 drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
 ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest."
   title3: 'Jouw Telefonie'
