@@ -47,7 +47,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - content: 'Grofweg heb je twee type bellers: Of ze staan wel bij je in het systeem, of niet. De koppeling gaat daar als volgt mee om.<br><br><b>Wanneer de beller bekend is bij jou kun je:</b><br>✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon'
-  image: "/v1572861318/popup-generic.png"
+  image: "/v1572861318/crm-makelaars-logo.png"
   zooming: true
   position: image_left
   title: Alle voordelen op een rij 
