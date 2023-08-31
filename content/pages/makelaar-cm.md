@@ -7,7 +7,7 @@ logos: false
 url: /branches/makelaars/crm/
 hero:
   title: Koppelen met jouw makelaars-CRM
-  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/mews/">Mews</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de Makelaar-CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
+  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/fasterforward/">FasterForward</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de Makelaar-CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
         <form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
@@ -68,7 +68,7 @@ het vaak dynamische reilen en zijlen van makelaar en team.<br>Denk uiteraard aan
 tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport
 (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de
 VAMOS SIM-kaart voor de makelaar die veel buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
-met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en Mew.
+met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en FasterForward.
 Dit vind je allemaal bij ons en vele makelaars gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
