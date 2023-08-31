@@ -57,7 +57,7 @@ blocks:
 kiezen.<br>
 ✔ Bel met 1 klik, vanuit je browser en elk ander (CRM) programma<br>
 ✔ Customize je popup en kies welke onderdelen je wilt zien<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Demo aanvragen</button><br><br><b>Liever telefonisch contact?</b><br>Bel ons direct op <a href="tel:+31508200000">050 - 820 00 00</a>'
-  image: "/v1566548339/quote-fasterforward.png"
+  image: "/v1566548339/quote-fasterforward2.png"
   position: image_right
   title: Overtuigd?
   image_position: center
