@@ -1,9 +1,9 @@
 ---
-title: "Wij koppelen jouw CRM Unit4 Dias aan onze telefonie"
+title: "Wij koppelen jouw CRM DIAS Assurantie Unit4 aan onze telefonie"
 shorttitle: "DIAS Assurantie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/dias_xbiq34.png"
-description: Door het koppelen van Unit4 Dias CRM aan onze slimme telefonie werk je een stuk efficienter.
+description: Door het koppelen van DIAS Assurantie Unit4 CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
   title: Waarom integreren?
@@ -27,12 +27,12 @@ categories:
   - Verzekeringen
   - Assurantiën  
 weight: 10
-url: /marketplace/unit4-dias/
-aliases: /program-shop/unit4-dias/
+url: /marketplace/dias-unit4/
+aliases: /program-shop/dias-unit4/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Unit4 Dias CRM?**<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Unit4 Dias Assurantie CRM?**<br>
 **Toekomstbestendige softwarevoor verzekeringen & hypotheken**<br>
 <br>
 **Samenvatting**<br>
