@@ -1,9 +1,9 @@
 ---
 shorttitle: "Datto AutoTask PSA"
-title: "Wij koppelen jouw CRM Autotask PSA aan onze telefonie"
+title: "Wij koppelen jouw CRM Datto Autotask PSA aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/autotask_q7kdqa.png"
-description: Door het koppelen van Autotask PSA CRM aan onze slimme telefonie werk je een stuk efficienter.
+description: Door het koppelen van Datto Autotask CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
   - title: Support
@@ -17,8 +17,8 @@ categories:
   - Workflow
   - Planning
 weight: 10
-url: /marketplace/Autotask/
-aliases: /program-shop/Autotask
+url: /marketplace/datto-utotask/
+aliases: /program-shop/datto-autotask
 headerside:
   title: Waarom integreren?
   list:
