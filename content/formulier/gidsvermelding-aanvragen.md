@@ -3,7 +3,7 @@ title: Gidsvermelding aanvragen
 url: "/aanvragen/gidsvermelding/"
 
 ---
-Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.<br><br><b>Let op:</b> Dit kan alleen bij nieuwe nummers. Bestaande nummers kun jezelf wijzigen via: mijnnummer.nl
+Wilt u een vermelding in de telefoongids? Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.<br><br><b>Let op:</b> Dit kan alleen bij nieuwe nummers. Bestaande nummers kun jezelf wijzigen via: <a href="https://mijnnummer.nl/">mijnnummer.nl</a>
 
 
 
