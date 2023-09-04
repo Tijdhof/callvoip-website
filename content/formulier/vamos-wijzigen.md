@@ -62,24 +62,6 @@ Een wijziging wordt in principe binnen 24 uur verwerkt.
 
 {{</ form/select >}}
 
-{{< form/select "Wat voor databundel-wijziging is het: deze maand of structureel?" >}}
-
-{{< form/option "Ik wil alleen DEZE kalendermaand mijn databundel wijzigen" >}}
-
-{{< form/option "Ik wil STRUCTUREEL vanaf nu een ander VAMOS abonnement" >}}
-
-{{</ form/select >}}
-
-{{< form/select "Is jouw 10GB op en heb je deze kalendermaand toch meer data nodig?" >}}
-
-{{< form/option "Nee, ik heb dit niet" >}}
-
-{{< form/option "Ja, ik wil 2GB data bijboeken (€ 60,- ex BTW)" >}}
-
-{{< form/option "Ja en ik wil 4GB data bijboeken (€ 120,- ex BTW)" >}}
-
-{{</ form/select >}}
-
 {{< form/input "Wanneer moet de wijziging ingaan? (leeg = per direct)" >}}
 
 {{< form/textarea "Opmerkingen" >}}
