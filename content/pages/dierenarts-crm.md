@@ -1,6 +1,6 @@
 ---
-title: Koppelen met jouw makelaars-CRM met onze telefonie
-description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek
+title: Koppelen met jouw Praktijk-CRM met onze telefonie
+description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM-pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek
 type: page
 layout: default2
 logos: false
@@ -63,21 +63,21 @@ kiezen.<br>
   title: Overtuigd?
   image_position: center
 textblocks:
-- title1: 'Alles voor Makelaars'
+- title1: 'Alles voor de Praktijk'
   content1: 'Telefonie voor een dierenartsenpraktijk vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van het team.
 Denk uiteraard aan instelbare tijden, meldteksten, spoednummers, weekenddiensten en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de dierenarts die veel buiten de deur is.
-
+<br><br>
 En natuurlijk: de koppeling met Idexx Animana (en andere CRM pakketten) Dit vind je allemaal bij ons en vele dierenartsen gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
 gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke
-situatie van een maatoplossing voorzien.<br>We houden rekening met elk scenario: grote
+situatie van een maatoplossing voorzien.<br><br>We houden rekening met elk scenario: grote
 drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
 ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest."
   title3: 'Jouw Telefonie'
   content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
 voor elke makelaar. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
-de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken. Meer weten over
+de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken.<br><br> Meer weten over
 de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!'
   show_vshape: false
 images: []
