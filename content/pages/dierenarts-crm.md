@@ -1,5 +1,5 @@
 ---
-title: Koppelen met jouw Praktijk-CRM met onze telefonie
+title: Koppel jouw Praktijk-CRM met onze telefonie
 description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM-pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek
 type: page
 layout: default2
