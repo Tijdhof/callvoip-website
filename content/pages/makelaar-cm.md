@@ -1,5 +1,5 @@
 ---
-title: Koppelen met jouw makelaars-CRM met onze telefonie
+title: Koppel jouw makelaars-CRM met onze telefonie
 description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek
 type: page
 layout: default2
