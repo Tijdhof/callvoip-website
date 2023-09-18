@@ -1,10 +1,10 @@
 ---
-title: Koppel jouw makelaars-CRM met onze telefonie
+title: Koppel jouw -CRM met onze telefonie
 description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek
 type: page
 layout: default2
 logos: false
-url: /branches/makelaars/crm/
+url: /branches/notaris/crm/
 hero:
   title: Koppelen met jouw makelaars-CRM
   content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/fasterforward/">FasterForward</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de Makelaar-CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
