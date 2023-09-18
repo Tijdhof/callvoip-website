@@ -1,13 +1,13 @@
 ---
-title: Koppel jouw -CRM met onze telefonie
-description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek
+title: Koppel jouw CRM met onze telefonie
+description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor de notarisbranche met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) of notaris zelf een popup bij elk gesprek.
 type: page
 layout: default2
 logos: false
 url: /branches/notaris/crm/
 hero:
-  title: Koppelen met jouw makelaars-CRM
-  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Realworks</a>, <a href="https://www.callvoip.nl/marketplace/kolibri/">Kolibri</a>, <a href="https://www.callvoip.nl/marketplace/fasterforward/">FasterForward</a> en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de Makelaar-CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
+  title: Koppelen met jouw specifieke CRM
+  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor de notarisbranche met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) of notaris zelf een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/realworks/">Notarisdossier</a>, <a href="https://www.callvoip.nl/marketplace/codex/">Codex van Brug</a>, <a href="https://www.callvoip.nl/marketplace/nextassyst/">NEXTassyst</a> en nog veel meer. We demonstreren graag de mogelijkheden aan je.<br><br>Met onze jarenlange ervaring, uitgekiende online centrale en vele collega notarisklanten kunnen we elke situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor de notarisbranche.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
         <form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
@@ -62,19 +62,18 @@ kiezen.<br>
   title: Overtuigd?
   image_position: center
 textblocks:
-- title1: 'Alles voor Makelaars'
-  content1: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in
-het vaak dynamische reilen en zijlen van makelaar en team.<br>Denk uiteraard aan instelbare
-tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport
-(makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de
-VAMOS SIM-kaart voor de makelaar die veel buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
-met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en FasterForward.
-Dit vind je allemaal bij ons en vele makelaars gingen je voor.'
+- title1: 'Alles voor de Notaris'
+  content1: 'Telefonie voor een notariskantoor vraagt specifieke features om optimaal te kunnen voorzien in
+het reilen en zijlen van een notaris en het team.<br>Denk uiteraard aan instelbare
+tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport, en natuurlijk de Qaller smartphone app en de
+VAMOS SIM-kaart voor de notaris die (veel) buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
+met veelvoorkomende CRM systemen voor de notaris, zoals Notarisdossier, NEXTassyst, Codex van Brug en Quantaris.
+Dit vind je allemaal bij ons en vele notraiskantoren gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
-gebeld wordt. Met onze jarenlange ervaring, uitgekiende online centrale en vele collega makelaars klanten kunnen we elke
-situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor makelaars.<br><br>We houden rekening met elk scenario: grote
-drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
+gebeld wordt. Met onze jarenlange ervaring, uitgekiende online centrale en vele collega notarisklanten kunnen we elke
+situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor de notarisbranche.<br><br>We houden rekening met elk scenario: grote
+drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als notaris maar met één
 ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest. Daarnaast denken we graag met je mee en komen we met oplossingen waar je zelf nog niet eens aan had gedacht."
   title3: 'Jouw Telefonie'
   content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
