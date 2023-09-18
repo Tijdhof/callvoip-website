@@ -73,7 +73,7 @@ Dit vind je allemaal bij ons en vele makelaars gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
 gebeld wordt. Met onze jarenlange ervaring, uitgekiende online centrale en vele collega makelaars klanten kunnen we elke
-situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor makelaars.<br>We houden rekening met elk scenario: grote
+situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor makelaars.<br><br>We houden rekening met elk scenario: grote
 drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
 ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest. Daarnaast denken we graag met je mee en komen we met oplossingen waar je zelf nog niet eens aan had gedacht."
   title3: 'Jouw Telefonie'
