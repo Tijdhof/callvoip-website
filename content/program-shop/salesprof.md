@@ -31,7 +31,7 @@ aliases: /program-shop/salesprof/
 ---
 
 **Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Salesprof?**<br>
-**Salesprof: Bedrijven over de hele wereld vertrouwen op Salesprof om de productiviteit van hun medewerkers te verbeteren**<br>
+**Salesprof: SalesProf is zelfstandig werkende Sales-Software en een Sales-App die ook het optimaal gebruik van CRM-systemen van derden mogelijk maakt.**<br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip Salesprof telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Salesprof. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Salesprof staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
