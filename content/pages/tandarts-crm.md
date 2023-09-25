@@ -1,13 +1,13 @@
 ---
 title: Koppel jouw CRM met onze telefonie
-description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor de advocatuur met onze telefonie. Met zo’n koppeling verschijnt op de computer van de secretaresse of advocaat zelf een popup bij elk gesprek.
+description: Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor tandartspraktijken met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) of tandarts zelf een popup bij elk gesprek.
 type: page
 layout: default2
 logos: false
-url: /branches/advocatuur/crm/
+url: /branches/tandarts/crm/
 hero:
   title: Koppelen met jouw specifieke CRM
-  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor de nadvocatuur met onze telefonie. Met zo’n koppeling verschijnt op de computer van de secretaresse, advocaat-medewerker of advocaat zelf een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/urios/">Urios</a>, <a href="https://www.callvoip.nl/marketplace/dlex/">DLex Wolters Kluwer</a>, <a href="https://www.callvoip.nl/marketplace/nextmatters/">NEXTmatters</a> en nog veel meer. We demonstreren graag de mogelijkheden aan je.<br><br>Met onze jarenlange ervaring, uitgekiende online centrale en vele collega advocaatklanten kunnen we elke situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor de advocatuur.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
+  content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM-pakket voor tandartspraktijken met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) of tandarts zelf een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br>Alle bekende namen ondersteunen we: <a href="https://www.callvoip.nl/marketplace/exquise/">Exquise</a>, <a href="https://www.callvoip.nl/marketplace/bytegear/">Bytegear</a>, <a href="https://www.callvoip.nl/marketplace/oasedental/">OaseDental</a>, <a href="https://www.callvoip.nl/marketplace/simplex/">Simplex</a>, en nog veel meer. We demonstreren graag de mogelijkheden aan je.<br><br>Met onze jarenlange ervaring, uitgekiende online centrale en vele collega tandartsklanten kunnen we elke situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor de tandartsbranche.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
         <form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
@@ -62,22 +62,22 @@ kiezen.<br>
   title: Overtuigd?
   image_position: center
 textblocks:
-- title1: 'Alles voor de Advocatuur'
-  content1: 'Telefonie voor een advocatenkantoor vraagt specifieke features om optimaal te kunnen voorzien in
-het reilen en zijlen van een advocaat en het team.<br>Denk uiteraard aan instelbare
+- title1: 'Alles voor de Tandartspraktijk'
+  content1: 'Telefonie voor een tandartspraktijk vraagt specifieke features om optimaal te kunnen voorzien in
+het reilen en zijlen van een tandarts en het team.<br>Denk uiteraard aan instelbare
 tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport, en natuurlijk de Qaller smartphone app en de
-VAMOS SIM-kaart voor de advocaat die (veel) buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
-met veelvoorkomende CRM systemen voor de advocaat, zoals Urios en vele anderen.
-Dit vind je allemaal bij ons en vele kantoren gingen je voor.'
+VAMOS SIM-kaart voor de tandarts die wel eens buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
+met veelvoorkomende CRM systemen voor de tandarts, zoals Exquise, Bytegear, Novadent Complan, OaseDental, Simplex en vele anderen.
+Dit vind je allemaal bij ons en vele praktijken gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
-gebeld wordt. Met onze jarenlange ervaring, uitgekiende online centrale en vele collega notarisklanten kunnen we elke
-situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor de advocatuur.<br><br>We houden rekening met elk scenario: grote
-drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als advocaat maar met één
+gebeld wordt. Met onze jarenlange ervaring, uitgekiende online centrale en vele collega tandartspraktijken als klant kunnen we elke
+situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor tandartsen.<br><br>We houden rekening met elk scenario: grote
+drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als tandarts maar met één
 ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest. Daarnaast denken we graag met je mee en komen we met oplossingen waar je zelf nog niet eens aan had gedacht."
   title3: 'Jouw Telefonie'
   content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
-voor elke advocaat. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
+voor elke tandarts. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
 de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken. Meer weten over
 de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!'
   show_vshape: false
