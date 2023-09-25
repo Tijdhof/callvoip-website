@@ -68,7 +68,7 @@ het reilen en zijlen van een notaris en het team.<br>Denk uiteraard aan instelba
 tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport, en natuurlijk de Qaller smartphone app en de
 VAMOS SIM-kaart voor de notaris die (veel) buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
 met veelvoorkomende CRM systemen voor de notaris, zoals Notarisdossier, NEXTassyst, Codex van Brug en Quantaris.
-Dit vind je allemaal bij ons en vele notraiskantoren gingen je voor.'
+Dit vind je allemaal bij ons en vele notariskantoren gingen je voor.'
   title2: 'Altijd bereikbaar'
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
 gebeld wordt. Met onze jarenlange ervaring, uitgekiende online centrale en vele collega notarisklanten kunnen we elke
@@ -77,7 +77,7 @@ drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als notaris ma
 ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest. Daarnaast denken we graag met je mee en komen we met oplossingen waar je zelf nog niet eens aan had gedacht."
   title3: 'Jouw Telefonie'
   content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
-voor elke makelaar. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
+voor elke notaris. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
 de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken. Meer weten over
 de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!'
   show_vshape: false
