@@ -41,7 +41,7 @@ hero:
           <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
         </form>
       </dialog>'
-  image: "/v1571655384/solar-crm-logos.png"
+  image: "/v1571655384/crm-logos-branches_zonneenergies.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
