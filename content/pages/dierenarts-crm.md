@@ -72,11 +72,11 @@ En natuurlijk: de koppeling met Idexx Animana (en andere CRM pakketten) Dit vind
   content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
 gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke
 situatie van een maatoplossing voorzien.<br><br>We houden rekening met elk scenario: grote
-drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
+drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als dierenarts maar met één
 ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest."
   title3: 'Jouw Telefonie'
   content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
-voor elke makelaar. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
+voor elke dierenarts. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
 de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken.<br><br> Meer weten over
 de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!'
   show_vshape: false
