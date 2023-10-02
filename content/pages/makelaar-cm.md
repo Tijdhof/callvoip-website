@@ -52,6 +52,7 @@ blocks:
   position: image_left
   title: Alle voordelen op een rij 
   image_position: center
+blocks2:
 - content: 'Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.<br><br><b>Nog meer gemakt en comfort met:</b><br>✔ open de popup en bel de relatie met 1 klik terug.<br>
 ✔ Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
 kiezen.<br>
