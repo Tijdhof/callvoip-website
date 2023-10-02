@@ -52,28 +52,6 @@ blocks:
   position: image_left
   title: Alle voordelen op een rij 
   image_position: center
-textblocks3:
-- title1: 'Alles voor Makelaars'
-  content1: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in
-het vaak dynamische reilen en zijlen van makelaar en team.<br>Denk uiteraard aan instelbare
-tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport
-(makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de
-VAMOS SIM-kaart voor de makelaar die veel buiten de deur is.<br><br>En natuurlijk: <b>de koppeling</b>
-met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en FasterForward.
-Dit vind je allemaal bij ons en vele makelaars gingen je voor.'
-  title2: 'Altijd bereikbaar'
-  content2: "Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je
-gebeld wordt. Met onze jarenlange ervaring, uitgekiende online centrale en vele collega makelaars klanten kunnen we elke
-situatie van een maatoplossing voorzien en oprecht zeggen dat we specialist zijn in telefonie voor makelaars.<br><br>We houden rekening met elk scenario: grote
-drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als makelaar maar met één
-ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest. Daarnaast denken we graag met je mee en komen we met oplossingen waar je zelf nog niet eens aan had gedacht."
-  title3: 'Jouw Telefonie'
-  content3: 'Het hart van jouw telefonie is onze online centrale. En die kan een aantal erg handige zaken
-voor elke makelaar. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
-de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken. Meer weten over
-de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!'
-  show_vshape: false
-images: []
 extracontent:
 - content: 'Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.<br><br><b>Nog meer gemakt en comfort met:</b><br>✔ open de popup en bel de relatie met 1 klik terug.<br>
 ✔ Meerdere relaties met één nummer? Handige bladerfunctie om juiste relatie te
