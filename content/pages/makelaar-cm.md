@@ -81,6 +81,13 @@ ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet 
 voor elke makelaar. Denk hierbij aan een geavanceerde wachtrij voor de piekmomenten. Of
 de mogelijkheid om voor elke gelegenheid je eigen teksten in te spreken. Meer weten over
 de vele functionaliteiten? Neem contact met ons op, we vertellen je er alles over!'
+blocks:
+- content: 'Wij zijn Callvoip, VoIP-provider voor de zakelijke markt. We voorzien professionele telefonie-oplossingen voor kleine en grote bedrijven. Daarbij leveren we de producten en internetverbindingen die nodig zijn om optimaal gebruik te kunnen maken van onze telefoniedienst. Dankzij meer dan 10 jaar ervaring en een uitgebreid netwerk van betrouwbare partners, kunnen wij dit complexe traject uitstekend begeleiden en managen. Verder hebben we uitgebreide kennis van de apparatuur die we leveren, zodat we iedere klant goed en snel van dienst kunnen zijn.'
+  image: "//v1571655384/makelaar-crm.png"
+  zooming: true
+  position: image_left
+  title: Alle voordelen op een rij 
+  image_position: center
   show_vshape: false
 images: []
 hideinsearch: false
