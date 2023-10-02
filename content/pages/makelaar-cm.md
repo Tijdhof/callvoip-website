@@ -62,11 +62,6 @@ kiezen.<br>
   position: image_right
   title: Overtuigd?
   image_position: center
-textblocks2:
-  title1: test
-  content1: test
-  title2: test
-  content2: test
 textblocks:
 - title1: 'Alles voor Makelaars'
   content1: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in
