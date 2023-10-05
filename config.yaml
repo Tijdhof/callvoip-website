@@ -21,10 +21,13 @@ menu:
     - pre: external
       url: https://panel.callvoip.nl/login/panel
       name: Login
-      weight: 5
+      weight: 6
     - url: "/status"
       name: Status
       weight: 1
+    - url: "/apps"
+      name: Apps
+      weight: 5
   footer:
     - pre: external
       url: http://files.callvoip.nl/downloads/CallVoip_telefonie_aanvraagformulier.pdf
