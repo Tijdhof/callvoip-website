@@ -21,7 +21,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <h3>Computer / Browser downloads</h3>
 <table border="1" cellpadding="10">
 <tr>
-<td style="border: 1px solid black;" width="226px"><center><img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff" width="32px" height="32px"><b>Click to Dial</b></center></td>
+<td style="border: 1px solid black;" width="226px"><center><img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff" width="32px" height="32px"><b>Click to Dial</b></center><br><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/">Lees de handleiding</a></td>
 <td style="border: 1px solid black;" width="223px"><center><a href="https://chrome.google.com/webstore/detail/callvoip-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Download hier</a></center></td>
 </tr>
 <tr>
