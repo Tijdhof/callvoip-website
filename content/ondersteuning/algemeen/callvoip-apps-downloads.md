@@ -39,7 +39,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleplay_zhcnme.png" width="200px" style="padding-bottom: 5px;">Downloads voor Androids:</center></td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/qaller2fa.png"><b>Qaller app</b><br><a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/">Handleiding</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890155/qaller-apple.png"><a href="https://apps.apple.com/nl/app/qaller/id1140548146" target="_blank">Of download hier</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/qaller-google.png"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank">Of download hier</a></center></td>
 </tr>
