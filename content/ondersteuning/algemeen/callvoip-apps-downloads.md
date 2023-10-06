@@ -44,12 +44,12 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/qaller-google.png"><a href="https://play.google.com/store/apps/details?id=com.digifoon.qaller&hl=nl" target="_blank">Of download hier</a></center></td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><b>Google Authenticator</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/googleauth2.png"><b>Google Authenticator</b><br><a href="https://www.callvoip.nl/2fa-tips/">Lees meer over 2FA</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/google-apple.png"><a href="https://apps.apple.com/us/app/google-authenticator/id388497605" target="_blank">Of download hier</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/google-google.png"><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US&pli=1" target="_blank">Of download hier</a></center></td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><b>Microsoft Authenticator</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/micro2fa.png"><b>Microsoft Authenticator</b><br><a href="https://www.callvoip.nl/2fa-tips/">Lees meer over 2FA</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/microsoft-apple2.png"><a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">Of download hier</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/microsoft-google.png"><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US" target="_blank">Of download hier</a></center></td>
 </tr>
