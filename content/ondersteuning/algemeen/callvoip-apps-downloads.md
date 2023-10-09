@@ -54,7 +54,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/microsoft-google.png"><a href="https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US" target="_blank">Of download hier</a></center></td>
 </tr>
 <tr>
-<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/vamos_fupe0q.png" width="32px"><b>VAMOS app</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1686299047/vamos_fupe0q.png" width="32px"><b>VAMOS app</b><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/vast-mobiel-handleiding/">Handleiding</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/vamos-apple.png"><a href="https://apps.apple.com/nl/app/vamos-vast-mobiel/id1449692498" target="_blank">Of download hier</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/vamos-google.png"><a href="https://play.google.com/store/apps/details?id=com.digifoon.fmc" target="_blank">Of download hier</a></center></td>
 </tr>
