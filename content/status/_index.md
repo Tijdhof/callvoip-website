@@ -39,6 +39,29 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      **Let op: geplande onderhoudswerkzaamheden**
+
+      Hierbij informeren we je over gepland onderhoud van ons telefoonsysteem: \
+
+      Start: vrijdag 27 oktober 2023 om 23.00 uur \
+
+      Eind: zaterdag 28 oktober om 06.00 uur\
+
+      \
+
+      Tijdens het onderhoudsinterval is het mogelijk dat er lichte hinder ontstaat:\
+
+      * Telefonie: actieve gesprekken kunnen worden onderbroken\
+
+      * Web: de webpagina's van ons systeem kunnen hinder ondervinden, max. duur 15 minuten.\
+
+      \
+
+      Onze excuses voor de eventuele hinder, bedankt voor je begrip! \
+
+      [\_\_\_\__](https://www.callvoip.nl/veilig)
+
+
       **Inloggen met een extra code (2FA):** 
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
