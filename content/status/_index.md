@@ -55,7 +55,7 @@ tests:
 
       * Telefonie: actieve gesprekken kunnen worden onderbroken\
 
-      * Web: de webpagina's van ons systeem kunnen hinder ondervinden, max. duur 15 minuten.\
+      * Web: de webpagina's van ons systeem kunnen hinder ondervinden, max. duur 15 minuten\
 
       \
 
