@@ -41,6 +41,8 @@ tests:
     text: >-
       **Let op: geplande onderhoudswerkzaamheden**
 
+      \
+
       Hierbij informeren we je over gepland onderhoud van ons telefoonsysteem: \
 
       Start: vrijdag 27 oktober 2023 om 23.00 uur \
