@@ -39,8 +39,6 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      \
-
       **Inloggen met een extra code (2FA):** 
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
