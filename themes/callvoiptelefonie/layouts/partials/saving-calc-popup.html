@@ -1,3 +1,4 @@
+
   <div class="fixed left-0 top-0 z-50 h-full w-full overflow-y-auto overflow-x-hidden p-4 hidden" id="saving-calc-popup"
     style="background-color: rgba(0, 0, 0, 0.195);">
     <div class="max-w-screen-lg mx-auto">
@@ -62,8 +63,7 @@
                     jaar
                   </p>
                   <p class="text-lg font-medium text-gray-700" id="textTotalSavings">Mogelijke besparing per jaar</p>
-                  <p class="block text-lg font-semibold whitespace-nowrap text-green-500">€ <span
-                      id="totalSavings">0</span>
+                  <p class="block text-lg font-semibold whitespace-nowrap text-green">€ <span id="totalSavings">0</span>
                   </p>
                 </div>
               </div>
@@ -179,7 +179,7 @@
       const monthlyCosts = parseFloat(inputBubbleCostsElement.value) * parseInt(usersValue) * 12;
       const toggleAppearance = savings - monthlyCosts < 0
 
-      totalSavingsElement.parentElement.classList.toggle("text-green-500", !toggleAppearance);
+      totalSavingsElement.parentElement.classList.toggle("text-green", !toggleAppearance);
       textTotalInvestmentElement.classList.toggle("hidden", !toggleAppearance);
       textTotalSavingsElement.classList.toggle("hidden", toggleAppearance);
 
