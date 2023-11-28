@@ -1,12 +1,10 @@
-
-  <div class="bg-black bg-opacity-20 fixed left-0 top-0 z-50 h-full w-full overflow-y-auto overflow-x-hidden p-4 hidden"
-    id="saving-calc-popup">
+  <div class="fixed left-0 top-0 z-50 h-full w-full overflow-y-auto overflow-x-hidden p-4 hidden" id="saving-calc-popup"
+    style="background-color: rgba(0, 0, 0, 0.195);">
     <div class="max-w-screen-lg mx-auto">
       <div class="bg-white rounded-lg shadow-2xl inline-block overflow-hidden space-y-6 p-4">
         <div class="flex justify-between items-center">
           <h3 class="font-bold text-3xl">Wat levert Bubble jouw organisatie op?</h3>
-          <button class="border p-2 flex" onclick="document.getElementById('saving-calc-popup').classList.add('hidden')"
-            type="button">
+          <button class="border p-2 flex" onclick="showSavingCalc(false)" type="button">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
               stroke="currentColor" class="w-6 h-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
@@ -195,4 +193,8 @@
     [numberOfUsersElement, callPerHourElement, hourlyWageElement, timeGainElement].forEach(input => {
       input.addEventListener("change", calculateSavings);
     });
+    function showSavingCalc(show) {
+      document.getElementById('saving-calc-popup').classList.toggle('hidden', !show);
+      document.body.classList.toggle('overflow-hidden', show);
+    }
   </script>
