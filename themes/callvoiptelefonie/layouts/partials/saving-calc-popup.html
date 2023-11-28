@@ -1,0 +1,198 @@
+
+  <div class="bg-black bg-opacity-20 fixed left-0 top-0 z-50 h-full w-full overflow-y-auto overflow-x-hidden p-4 hidden"
+    id="saving-calc-popup">
+    <div class="max-w-screen-lg mx-auto">
+      <div class="bg-white rounded-lg shadow-2xl inline-block overflow-hidden space-y-6 p-4">
+        <div class="flex justify-between items-center">
+          <h3 class="font-bold text-3xl">Wat levert Bubble jouw organisatie op?</h3>
+          <button class="border p-2 flex" onclick="document.getElementById('saving-calc-popup').classList.add('hidden')"
+            type="button">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+              stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+            </svg>&nbsp;
+            <b>CLOSE</b>
+          </button>
+        </div>
+        <div class="lg:flex space-y-8 lg:space-y-0 lg:space-x-8">
+          <div class="lg:w-1/2">
+            <div class="space-y-4">
+              <!-- fields -->
+              <input type="hidden" name="costsBubble" id="inputBubbleCosts" value="5">
+              <input type="hidden" name="numerator" id="numeratorRatio" value="1800">
+              <label class="flex flex-col space-y-1">
+                <span class="block text-sm font-medium text-gray-700">Aantal medewerkers</span>
+                <input type="number" name="number-of-users" id="number-of-users"
+                  class="w-full border border-grey-light bg-white px-3 py-2 text-base" required
+                  placeholder="Gebruik gemiddelde: 10" min="0" step="1">
+              </label>
+              <label class="flex flex-col space-y-1">
+                <span class="block text-sm font-medium text-gray-700">Aantal gesprekken medewerker per uur</span>
+                <input type="number" name="call-per-hour" id="call-per-hour"
+                  class="w-full border border-grey-light bg-white px-3 py-2 text-base" required
+                  placeholder="Gebruik gemiddelde: 5" min="0" step="0.01">
+              </label>
+              <label class="flex flex-col space-y-1">
+                <span class="block text-sm font-medium text-gray-700">Uurloon per medewerker</span>
+                <input type="number" name="hourly-wage" id="hourly-wage"
+                  class="w-full border border-grey-light bg-white px-3 py-2 text-base" required
+                  placeholder="Gebruik gemiddelde: € 15,00" min="0" step="0.01">
+              </label>
+              <label class="flex flex-col space-y-1">
+                <span class="block text-sm font-medium text-gray-700">Tijdsbesparing per gesprek</span>
+                <input type="number" name="time-gain" id="time-gain"
+                  class="w-full border border-grey-light bg-white px-3 py-2 text-base" required
+                  placeholder="Gebruik gemiddelde: 8 Seconden" min="0" step="0.01">
+              </label>
+              <!-- /fields -->
+              <div class="text-left space-y-2">
+                <p class="block text-sm font-medium text-gray-700">Berekening</p>
+                <div class="flex justify-between">
+                  <p class="block text-sm font-normal text-gray-700">Bespaarde tijd per jaar</p>
+                  <p class="block text-sm font-medium text-gray-700 whitespace-nowrap">€ <span
+                      id="timeGainYear">3.000,00</span>
+                  </p>
+                </div>
+                <div class="flex justify-between">
+                  <p class="block text-sm font-normal text-gray-700">Investering Bubble per jaar</p>
+                  <p class="relative block text-sm font-medium text-gray-700 whitespace-nowrap">€ <span
+                      id="costsBubble">600,00</span></p>
+                </div>
+                <hr class="my-2 border">
+                <div class="flex justify-between">
+                  <p class="text-lg font-medium text-gray-700 hidden" id="textTotalInvestment">Totale investering per
+                    jaar
+                  </p>
+                  <p class="text-lg font-medium text-gray-700" id="textTotalSavings">Mogelijke besparing per jaar</p>
+                  <p class="block text-lg font-semibold whitespace-nowrap text-green-500">€ <span
+                      id="totalSavings">0</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <br>
+            <p class="italic text-xs">Disclaimer: Deze berekening is gebaseerd op 45 werkbare weken (8 uur
+              per dag).
+              Er is in deze berekening geen rekening gehouden met eenmalige investeringen of eventuele licentiekosten
+              die in
+              rekening
+              worden gebracht door de CRM leverancier. Aan deze berekening kunnen geen rechten worden ontleend.</p>
+          </div>
+          <div class="lg:w-1/2">
+            <ul class="space-y-2 bg-grey-lightest p-4 rounded-lg">
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Tijdswinst door niet te hoeven vragen naar de klantnaam</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Klantvriendelijk en persoonlijk de telefoon opnemen</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Verbeter de samenwerking in het team door meteen te kunnen zien met welke collega er contact is
+                  geweest</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Geen handmatige en foutieve invoer van klantgegevens</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Direct zien wie en waarom iemand belt</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Meer tijd en aandacht voor de klant wat leidt tot betere klanttevredenheid</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Rechtstreeks uitbellen vanuit de klantgegevens van jouw pakket</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Meerdere software pakketten binnen de organisatie koppelen? Met Bubble geen probleem!</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Alle functionaliteiten die deze integratie te bieden heeft</div>
+              </li>
+              <li class="flex items-start space-x-2">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                  stroke="#203476" class="w-5 h-5 flex-shrink-0 mt-1">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                <div>Bij doorverbinden naar je collega verhuizen de klantgegevens mee</div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    const formatter = new Intl.NumberFormat("nl-NL", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    const numberOfUsersElement = document.getElementById("number-of-users");
+    const callPerHourElement = document.getElementById("call-per-hour");
+    const hourlyWageElement = document.getElementById("hourly-wage");
+    const timeGainElement = document.getElementById("time-gain");
+    const timeGainYearElement = document.getElementById("timeGainYear");
+    const costsBubbleElement = document.getElementById("costsBubble");
+    const inputBubbleCostsElement = document.getElementById("inputBubbleCosts");
+    const numeratorRatioElement = document.getElementById("numeratorRatio");
+    const totalSavingsElement = document.getElementById("totalSavings");
+    const textTotalSavingsElement = document.getElementById("textTotalSavings");
+    const textTotalInvestmentElement = document.getElementById("textTotalInvestment");
+    // Calculate savings
+    const calculateSavings = () => {
+      const usersValue = numberOfUsersElement.value === "" ? "10" : numberOfUsersElement.value;
+      const timeGainValue = timeGainElement.value === "" ? "8" : timeGainElement.value;
+      const callsPerHourValue = callPerHourElement.value === "" ? "5" : callPerHourElement.value;
+      const hourlyWageValue = hourlyWageElement.value === "" ? "15" : hourlyWageElement.value;
+
+      const savings = parseInt(usersValue) * parseInt(numeratorRatioElement.value) * parseFloat(timeGainValue) * parseFloat(callsPerHourValue) * parseFloat(hourlyWageValue) / 3600;
+      const monthlyCosts = parseFloat(inputBubbleCostsElement.value) * parseInt(usersValue) * 12;
+      const toggleAppearance = savings - monthlyCosts < 0
+
+      totalSavingsElement.parentElement.classList.toggle("text-green-500", !toggleAppearance);
+      textTotalInvestmentElement.classList.toggle("hidden", !toggleAppearance);
+      textTotalSavingsElement.classList.toggle("hidden", toggleAppearance);
+
+      timeGainYearElement.innerText = formatter.format(savings);
+      costsBubbleElement.innerText = formatter.format(monthlyCosts);
+      totalSavingsElement.innerText = formatter.format(Math.abs(savings - monthlyCosts));
+    };
+    // Run function on page load
+    calculateSavings();
+    // Run when input changes
+    [numberOfUsersElement, callPerHourElement, hourlyWageElement, timeGainElement].forEach(input => {
+      input.addEventListener("change", calculateSavings);
+    });
+  </script>
