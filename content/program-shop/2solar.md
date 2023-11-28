@@ -93,4 +93,4 @@ De Callvoip telefoon-integratie met 2Solar CRM kan worden gebruikt op zowel Wind
 
 <br><br>
 
-<button type="button" class="button" onclick="showSavingCalc(true)">Open popup</button> 
+<button type="button" class="button" onclick="showSavingCalc(true)">Bereken je besparing met Bubble</button> 
