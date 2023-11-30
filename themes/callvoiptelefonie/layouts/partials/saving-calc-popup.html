@@ -18,13 +18,13 @@
               <input type="hidden" name="costsBubble" id="inputBubbleCosts" value="5">
               <input type="hidden" name="numerator" id="numeratorRatio" value="1800">
               <label class="flex flex-col space-y-1">
-                <span class="block text-sm font-medium text-gray-700">Aantal medewerkers</span>
+                <span class="block text-sm font-medium text-gray-700">Aantal gebruikers met slimme CRM koppeling</span>
                 <input type="number" name="number-of-users" id="number-of-users"
                   class="w-full border border-grey-light bg-white px-3 py-2 text-base" required
                   placeholder="Gebruik gemiddelde: 10" min="0" step="1">
               </label>
               <label class="flex flex-col space-y-1">
-                <span class="block text-sm font-medium text-gray-700">Aantal gesprekken medewerker per uur</span>
+                <span class="block text-sm font-medium text-gray-700">Aantal gesprekken per medewerker/uur</span>
                 <input type="number" name="call-per-hour" id="call-per-hour"
                   class="w-full border border-grey-light bg-white px-3 py-2 text-base" required
                   placeholder="Gebruik gemiddelde: 5" min="0" step="0.01">
@@ -36,7 +36,7 @@
                   placeholder="Gebruik gemiddelde: € 15,00" min="0" step="0.01">
               </label>
               <label class="flex flex-col space-y-1">
-                <span class="block text-sm font-medium text-gray-700">Tijdsbesparing per gesprek</span>
+                <span class="block text-sm font-medium text-gray-700">Tijdsbesparing in seconden per gesprek</span>
                 <input type="number" name="time-gain" id="time-gain"
                   class="w-full border border-grey-light bg-white px-3 py-2 text-base" required
                   placeholder="Gebruik gemiddelde: 8 Seconden" min="0" step="0.01">
@@ -181,8 +181,8 @@
     const textTotalInvestmentElement = document.getElementById("textTotalInvestment");
     // Calculate savings
     const calculateSavings = () => {
-      const usersValue = numberOfUsersElement.value === "" ? "10" : numberOfUsersElement.value;
-      const timeGainValue = timeGainElement.value === "" ? "8" : timeGainElement.value;
+      const usersValue = numberOfUsersElement.value === "" ? "5" : numberOfUsersElement.value;
+      const timeGainValue = timeGainElement.value === "" ? "15" : timeGainElement.value;
       const callsPerHourValue = callPerHourElement.value === "" ? "5" : callPerHourElement.value;
       const hourlyWageValue = hourlyWageElement.value === "" ? "15" : hourlyWageElement.value;
 
