@@ -1,5 +1,5 @@
 <div class="fixed left-0 top-0 z-50 h-full w-full overflow-y-auto overflow-x-hidden p-4 hidden" id="saving-calc-popup"
-    style="background-color: rgba(0, 0, 0, 0.195);" onclick="closePopup(event)">
+    style="background-color: rgba(0, 0, 0, 0.195);" onmousedown="closePopup(event)">
     <div class="max-w-screen-lg mx-auto">
       <div class="bg-white rounded-lg shadow-2xl inline-block overflow-hidden space-y-6 p-4">
         <div class="flex justify-between items-center">
@@ -159,11 +159,6 @@
     if (event.target.id === 'saving-calc-popup') {
       showSavingCalc(false); // Call the function to close the pop-up
     }
-  }
-
-  function showSavingCalc(isVisible) {
-    var popup = document.getElementById('saving-calc-popup');
-    popup.style.display = isVisible ? 'block' : 'none';
   }
 </script>
   <script>
