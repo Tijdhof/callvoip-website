@@ -90,7 +90,3 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket 2Solar CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met 2Solar CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><a onclick="dialog.show();" class="button">Vraag nu deze koppeling aan</a>
-
-<br><br>
-
-<button type="button" class="button" onclick="showSavingCalc(true)">Bereken je besparing met Bubble</button> 
