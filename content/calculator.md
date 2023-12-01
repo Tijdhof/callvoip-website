@@ -37,7 +37,7 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen via de computer
+- name: Bellen met de smartphone
   description: Aantal gebruikers dat via de smartphone app gaat bellen
   min: 0
   max: 999
