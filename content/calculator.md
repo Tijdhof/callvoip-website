@@ -8,7 +8,7 @@ hero:
 outputs:
 - HTML
 - JSON
-basic:
+basic2:
 - name: Telefooncentrale
   description: De Callvoip online telefooncentrale
   min: 1
@@ -16,6 +16,7 @@ basic:
   price_monthly: 7.5
   price_onetime: 15
   required: true
+basic:
 - name: Telefoonnummer
   description: Aantal telefoon- en faxnummers
   min: 0
