@@ -37,7 +37,7 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Qaller-Plus-accounts
+- name: Bellen via de computer
   description: Aantal gebruikers dat via de smartphone app gaat bellen
   min: 0
   max: 999
