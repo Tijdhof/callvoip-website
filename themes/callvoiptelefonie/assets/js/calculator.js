@@ -41,7 +41,7 @@ const getOnetimeTotal = function () {
 const renderMonthlyTotal = function () {
   const totalFieldsMonthly = document.getElementById("total-fields-monthly");
 
-  const maxValue = Math.max(...['toestelaccounts', 'webcall-accounts', 'qaller-plus-accounts'].map(e => document.getElementById(e).valueAsNumber)) || 1
+  const maxValue = Math.max(...['toestelaccounts', 'webcall-accounts', 'bellen-via-de-computer'].map(e => document.getElementById(e).valueAsNumber)) || 1
   const totalMaxValue = formatter.format(getMonthlyTotal() / maxValue)
 
   const MonthlyTotal = `
@@ -197,7 +197,7 @@ const renderCallminutesFields = function (fields) {
   );
 
   const numberOfDevices = document.getElementById("toestelaccounts").value,
-    qallerPlus = document.getElementById("qaller-plus-accounts").value,
+    qallerPlus = document.getElementById("bellen-via-de-computer").value,
     webcallAccounts = document.getElementById("webcall-accounts").value;
 
   const largest = Math.max(
