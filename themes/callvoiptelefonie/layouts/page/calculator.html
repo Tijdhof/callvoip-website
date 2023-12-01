@@ -43,7 +43,7 @@
                   <input type="number" data-name={{$item.name}} autocomplete="false" value="{{ $item.min }}"
                     data-price_monthly="{{$item.price_monthly}}" {{ if eq $item.min $item.max }} disabled {{ end }}
                     data-price_onetime="{{$item.price_onetime}}" id="{{ $item.name | urlize }}" max="{{ $item.max }}"
-                    class="w-full border border-grey-light bg-grey-lightest px-4 py-2 rounded" min="{{ $item.min }}"
+                    class="w-full border border-grey-light px-4 py-2 rounded" min="{{ $item.min }}"
                     name="{{ $item.name | urlize }}" {{ if $item.required }} required {{ end }}>
                 </div>
               </div>
