@@ -30,7 +30,7 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Webcall-accounts
+- name: Bellen via de computer
   description: Aantal gebruikers dat via de computer gaat bellen 
   min: 0
   max: 999
