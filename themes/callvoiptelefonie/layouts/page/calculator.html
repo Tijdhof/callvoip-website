@@ -165,7 +165,6 @@
                   <label for="{{ $item.name | urlize }}" class="block text-base lg:text-xl font-medium mb-2 ">
                     {{ $item.name }} {{ if $item.required }} <span class="text-red">*</span> {{ end }}</label>
                   {{ with $item.description | markdownify }}
-                  {{ partial "saving-calc-popup.html" . -}}
                   <p class="opacity-75 -mt-3 mb-2">{{ . }}</p>
                   {{ end }}
                 </div>
