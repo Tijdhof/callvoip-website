@@ -122,8 +122,7 @@ callrecording:
     required: false
 crm:
 - name: Gebruikers CRM-koppeling
-  description: 'Met gespreksopname neem je al jouw inkomende & uitgaande gesprekken
-    op. '
+  description: 'Benieuwd wat de koppeling jou kan besparen? <b style="cursor: pointer; color: #0000cc;" onclick="showSavingCalc(true)">Klik hier!</b>'
   min: 0
   max: 999
   price_monthly: 5
