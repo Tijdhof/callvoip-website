@@ -95,7 +95,7 @@ options:
     price_onetime: 5
     required: false
   - name: Keuzemenu
-    description: Begeleid de beller meteen naar de juiste persoon en/of afdeling?
+    description: Begeleid de beller meteen naar de juiste persoon en/of afdeling.
     min: 0
     max: 999
     price_monthly: 4
@@ -122,6 +122,8 @@ callrecording:
     required: false
 crm:
 - name: Gebruikers CRM-koppeling
+  description: 'Met gespreksopname neem je al jouw inkomende & uitgaande gesprekken
+    op. '
   min: 0
   max: 999
   price_monthly: 5
