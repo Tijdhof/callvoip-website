@@ -162,7 +162,6 @@
   }
 </script>
   <script>
-    const formatter = new Intl.NumberFormat("nl-NL", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
     const numberOfUsersElement = document.getElementById("number-of-users");
     const callPerHourElement = document.getElementById("call-per-hour");
     const hourlyWageElement = document.getElementById("hourly-wage");
@@ -176,6 +175,7 @@
     const textTotalInvestmentElement = document.getElementById("textTotalInvestment");
     // Calculate savings
     const calculateSavings = () => {
+      const formatter = new Intl.NumberFormat("nl-NL", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       const usersValue = numberOfUsersElement.value === "" ? "5" : numberOfUsersElement.value;
       const timeGainValue = timeGainElement.value === "" ? "15" : timeGainElement.value;
       const callsPerHourValue = callPerHourElement.value === "" ? "5" : callPerHourElement.value;
