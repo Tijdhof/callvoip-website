@@ -164,7 +164,7 @@
                 <div class="xl:w-1/2 xl:px-4">
                   <label for="{{ $item.name | urlize }}" class="block text-base lg:text-xl font-medium mb-2 ">
                     {{ $item.name }} {{ if $item.required }} <span class="text-red">*</span> {{ end }}</label>
-                  {{ with $item.description }}
+                  {{ with $item.description | markdownify }}
                   <p class="opacity-75 -mt-3 mb-2">{{ . }}</p>
                   {{ end }}
                 </div>
@@ -321,5 +321,5 @@
 <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"
   crossorigin="anonymous" defer></script>
 {{ end }}
-
+{{ partial "saving-calc-popup.html" . -}}
 {{ end }}
