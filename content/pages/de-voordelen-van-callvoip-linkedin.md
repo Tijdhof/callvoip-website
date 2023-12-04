@@ -30,7 +30,7 @@ textblocks:
   content3: 'We koppelen ruim <a href="/marketplace" target="_blank"><b>150 CRM pakketten</b></a> aan onze telefonie zodat bij inkomende gesprekken een naam wordt getoond, een klantenkaart kan worden geopend, met 1 klik vanuit het CRM kan worden gebeld en nog veel meer.'
   show_vshape: false
 intro:
-  title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
+  title: '<div id="formulier">Neem zelf weer de regie over je telefonie en maak kennis met Callvoip.</div>'
   content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
