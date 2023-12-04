@@ -23,7 +23,7 @@ blocks:
   position: image_left
 textblocks:
 - title1: 'Altijd gratis ondersteuning'
-  content1: 'Bij Callvoip hanteren we geen 'uurtje-factuurtje' principe. Wanneer je hulp nodig hebt, staat ons team van deskundige medewerkers klaar om je gratis te ondersteunen. Je hebt direct contact met een expert die je helpt, zonder verborgen kosten.'
+  content1: "Bij Callvoip hanteren we geen 'uurtje-factuurtje' principe. Wanneer je hulp nodig hebt, staat ons team van deskundige medewerkers klaar om je gratis te ondersteunen. Je hebt direct contact met een expert die je helpt, zonder verborgen kosten."
   title2: 'Altijd een goede onboarding'
   content2: 'Daarnaast zorgt ons uitgebreide onboardingsproces ervoor dat je volledig uitgerust bent om de centrale zelf te beheren en te bedienen. En mocht je toch ergens niet uitkomen, dan zijn wij slechts een telefoontje verwijderd om je persoonlijk te assisteren.'
   title3: 'Nog meer gemak?'
