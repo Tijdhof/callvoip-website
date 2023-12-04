@@ -7,6 +7,7 @@ hero:
   title: Tour in de online centrale
   mobile: "/v1570097106/mobile_tour_qwvurb.png"
   link: ''
+  image-link: '#formulier'
 description: Ben je op zoek naar de beste zakelijke telefonie? Wil je dit gratis uitproberen?
   Vraag dan een rondleiding aan bij Callvoip en ontvang binnen 1 dag een uitnodiging.
 images:
