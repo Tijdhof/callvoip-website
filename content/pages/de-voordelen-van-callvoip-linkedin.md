@@ -13,35 +13,21 @@ images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
 blocks:
-- title: 'Zakelijke telefonie, veilig in de cloud'
-  content: 'Met de online centrale van Callvoip heb je zelf de volledige controle over jouw telefonie. Even doorzetten naar je mobiel? Zo geregeld! Elke dag een lunchbandje? Gaat vanzelf! Je kunt onze centrale zonder beperkingen helemaal gratis uitproberen. En onze deskundige hulp krijg je er ook bij!<br><br>
-  <a href="#formulier" class="button">Ontdek Hosted VoIP</a>'
+- title: 'Herkent je je hier in?'
+  content: 'Je wilt een, in jouw ogen, eenvoudige wijziging doorvoeren in je telefooncentrale en komt er na een kwartier achter dat je dat niet zelf kunt doen. Je moet vervolgens een ticket indienen bij je provider om er vervolgens te worden geconfronteerd met een wachttijd tot wel 48 uur. Wanneer alles uiteindelijk is ingesteld, komt er als klap op de vuurpijl een factuur voor de geleverde "service".<br><br>Deze inefficiëntie en verborgen kosten kunnen frustrerend zijn en de bedrijfsvoering behoorlijk vertragen. “Een rigide telefoonsysteem dat weinig ruimte biedt voor aanpassingen” is dan ook een van de meest gehoorde “klachten” die we horen aan de lijn wanneer bedrijven van plan zijn naar ons over te stappen.<br><br>Het gebrek aan controle en transparantie kan een constante bron van irritatie zijn. Je accepteert het, maar liever zie je het anders. Maar ja, overstappen doe je ook niet snel want dat is zoveel gedoe, nieuw systeem, lastig, liggen we zeker weer een week eruit met de telefonie?'
   position: image_right
   image: "/v1570098498/wolk_pklb2v.png"
-- title: 'Altijd bereikbaar met Vast Mobiel integratie'
-  content: 'Onze slimme Smartphone App om altijd en overal mobiel bereikbaar te zijn. Want wij weten dat sommige telefoontjes net even te belangrijk zijn om te missen. Bedien jouw online centrale of bel met je vaste, zakelijke nummer op je smartphone.  Mooi werk toch?<br><br>
-  <a href="#formulier" class="button">Word fan van onze app</a>'
-  image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
+- title: 'De voordelen van Callvoip'
+  content: 'Wij vinden dat het anders kan en ook anders moet. Callvoip biedt een revolutionair telefoonsysteem dat je volledige vrijheid en controle geeft. In tegenstelling tot veel concurrenten, stelt ons systeem je in staat om zelfstandig en onmiddellijk wijzigingen door te voeren in je belplan. Je hoeft geen tickets in te dienen of te wachten op goedkeuring. Je hebt de touwtjes zelf in handen.'
+  image: "/v1570098498/wolk_pklb2v.png"
   position: image_left
 textblocks:
-- title1: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_s4x7ro.png">Wat is dat: Qaller app?</div>'
-  content1: 'Onze smartphone app heet Qaller. Hij is zowel voor de iPhone als een
-    Android toestel gratis te downloaden in de desbetreffende app store. Je zou het
-    een afstandsbediening kunnen noemen voor onze centrale: je regelt er doorschakelingen
-    mee, of activeert een storingsbandje. Waar je ook bent. Ideaal toch?<br><br><br><a
-    href="/telefonie/qaller/" class="button">Meer informatie</a>'
-  title2: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qallerplus_tlc4ax.png">Wat is dat: Qaller Plus app?</div>'
-  content2: De Qaller app als afstandsbediening is met één druk op de knop om te toveren
-    tot een volwaardig kantoortoestel. Bel met jouw smartphone uit met je vaste nummer
-    en ontvang telefoontjes. Verbind gesprekken door, bel intern gratis met collega’s
-    en zie of ze in gesprek zijn. <br><br><br><br><a href="/telefonie/qaller/" class="button">Meer
-    informatie</a>
-  title3: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/vamos32x32_g4akqp.png">Wat is dat: Vamos SIM?</div>'
-  content3: 'Stel je eens voor: alles wat met bellen en gebeld worden te maken heeft,
-    vast en mobiel, samen in 1 smartphone. Bellen met vast nummer zonder app, gewoon
-    met je standaard telefoon functie. Kiezen of je vast, mobiel of anoniem uitbelt,
-    mensen in de wacht zetten, doorverbinden. Alles is mogelijk.<br><br><br><a href="/telefonie/functionaliteiten/vamos/"
-    class="button">Meer informatie</a>'
+- title1: 'Altijd gratis ondersteuning'
+  content1: 'Bij Callvoip hanteren we geen 'uurtje-factuurtje' principe. Wanneer je hulp nodig hebt, staat ons team van deskundige medewerkers klaar om je gratis te ondersteunen. Je hebt direct contact met een expert die je helpt, zonder verborgen kosten.'
+  title2: 'Altijd een goede onboarding'
+  content2: 'Daarnaast zorgt ons uitgebreide onboardingsproces ervoor dat je volledig uitgerust bent om de centrale zelf te beheren en te bedienen. En mocht je toch ergens niet uitkomen, dan zijn wij slechts een telefoontje verwijderd om je persoonlijk te assisteren.'
+  title3: 'Nog meer gemak?'
+  content3: 'We koppelen ruim <a href="/marketplace" target="_blank"><b>150 CRM pakketten</b></a> aan onze telefonie zodat bij inkomende gesprekken een naam wordt getoond, een klantenkaart kan worden geopend, met 1 klik vanuit het CRM kan worden gebeld en nog veel meer.'
   show_vshape: false
 intro:
   title: '<div id="formulier">Wedden dat we ook jou in die 30 minuten fan maken?</div>'
