@@ -13,7 +13,7 @@ images:
 - "/v1567165784/icon_hwk0eh.png"
 layout: landing
 blocks:
-- title: 'Herkent je je hier in?'
+- title: 'Herken je je hier in?'
   content: 'Je wilt een, in jouw ogen, eenvoudige wijziging doorvoeren in je telefooncentrale en komt er na een kwartier achter dat je dat niet zelf kunt doen. Je moet vervolgens een ticket indienen bij je provider om er vervolgens te worden geconfronteerd met een wachttijd tot wel 48 uur. Wanneer alles uiteindelijk is ingesteld, komt er als klap op de vuurpijl een factuur voor de geleverde "service".<br><br>Deze inefficiëntie en verborgen kosten kunnen frustrerend zijn en de bedrijfsvoering behoorlijk vertragen. Het gebrek aan controle en transparantie kan een constante bron van irritatie zijn. Je accepteert het, maar liever zie je het anders. Maar ja, overstappen doe je ook niet snel want dat is zoveel gedoe, nieuw systeem, lastig, liggen we zeker weer een week eruit met de telefonie?'
   position: image_right
   image: "/v1570098498/man-phone.png"
