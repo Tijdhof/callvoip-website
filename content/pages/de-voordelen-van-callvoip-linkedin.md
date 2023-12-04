@@ -18,7 +18,7 @@ blocks:
   position: image_right
   image: "/v1570098498/wolk_pklb2v.png"
 - title: 'De voordelen van Callvoip'
-  content: 'Wij vinden dat het anders kan en ook anders moet. Callvoip biedt een revolutionair telefoonsysteem dat je volledige vrijheid en controle geeft. In tegenstelling tot veel concurrenten, stelt ons systeem je in staat om zelfstandig en onmiddellijk wijzigingen door te voeren in je belplan. Je hoeft geen tickets in te dienen of te wachten op goedkeuring. Je hebt de touwtjes zelf in handen.'
+  content: 'Wij vinden dat het anders kan en ook anders moet. Callvoip biedt een revolutionair telefoonsysteem dat je volledige vrijheid en controle geeft. In tegenstelling tot veel concurrenten, stelt ons systeem je in staat om zelfstandig en onmiddellijk wijzigingen door te voeren in je belplan. Onze hosted telefooncentrale biedt standaard alle belangrijke functies voor optimale bereikbaarheid én een professionele uitstraling. En dat met een ongekend bedieningsgemak. Van automatische meldteksten tot slimme doorschakelingen, instelling hiervan is een fluitje van een cent. Je hoeft geen tickets in te dienen of te wachten op goedkeuring. Je hebt de touwtjes zelf in handen.'
   image: "/v1570098498/wolk_pklb2v.png"
   position: image_left
 textblocks:
