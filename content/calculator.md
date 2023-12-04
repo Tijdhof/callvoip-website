@@ -8,7 +8,7 @@ hero:
 outputs:
 - HTML
 - JSON
-basic2:
+basic:
 - name: Telefooncentrale
   description: De Callvoip online telefooncentrale
   min: 1
@@ -16,7 +16,6 @@ basic2:
   price_monthly: 7.5
   price_onetime: 15
   required: true
-basic:
 - name: Telefoonnummer
   description: Aantal telefoon- en faxnummers
   min: 0
@@ -25,21 +24,21 @@ basic:
   price_onetime: 15
   required: true
 - name: Toestelaccounts
-  description: Aantal vaste toestellen (bureau of draadloos)
+  description: Aantal gebruikers met een vast toestel
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen-via-de-computer
-  description: Aantal gebruikers dat via de computer gaat bellen 
+- name: Webcall-accounts
+  description: Aantal gebruikers met browser based bellen
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen-met-de-smartphone
-  description: Aantal gebruikers dat via de app gaat bellen
+- name: Qaller-Plus-accounts
+  description: Aantal gebruikers met een mobiele app (Qaller Plus)
   min: 0
   max: 999
   price_monthly: 4
@@ -96,7 +95,7 @@ options:
     price_onetime: 5
     required: false
   - name: Keuzemenu
-    description: Begeleid de beller meteen naar de juiste persoon en/of afdeling.
+    description: Begeleid de beller meteen naar de juiste persoon en/of afdeling?
     min: 0
     max: 999
     price_monthly: 4
@@ -123,7 +122,6 @@ callrecording:
     required: false
 crm:
 - name: Gebruikers CRM-koppeling
-  description: 'Benieuwd wat de koppeling jou kan besparen?<br><b style="cursor: pointer; color: #0000cc;" onclick="showSavingCalc(true)">Klik hier!</b>'
   min: 0
   max: 999
   price_monthly: 5
