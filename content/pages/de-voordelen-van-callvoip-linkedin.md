@@ -1,6 +1,6 @@
 ---
 title: 'De voordelen van Callvoip'
-url: linkedin
+url: voordelen-van-callvoip
 type: page
 hero:
   image: "/v1570097106/tour_banner_bgnzw2.png"
@@ -31,7 +31,7 @@ textblocks:
   show_vshape: false
 intro:
   title: '<div id="formulier">Neem zelf weer de regie over je telefonie en maak kennis met Callvoip.</div>'
-  content: 'Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
+  content: 'Laat je gegevens achter, dan plannen we geheel vrijblijvend een afspraak voor een demonstratie. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
           <form class="mb-6" name="linkedin-form" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
