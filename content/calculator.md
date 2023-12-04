@@ -24,21 +24,21 @@ basic:
   price_onetime: 15
   required: true
 - name: Toestelaccounts
-  description: Aantal gebruikers met een vast toestel
+  description: Aantal vaste toestellen (bureau of draadloos)
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Webcall-accounts
-  description: Aantal gebruikers met browser based bellen
+  description: Aantal gebruikers dat via de computer gaat bellen 
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Qaller-Plus-accounts
-  description: Aantal gebruikers met een mobiele app (Qaller Plus)
+  description: Aantal gebruikers dat via de app gaat bellen
   min: 0
   max: 999
   price_monthly: 4
