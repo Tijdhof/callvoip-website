@@ -1,9 +1,7 @@
 ---
 title: 'De voordelen van Callvoip'
-url: Tour
+url: linkedin
 type: page
-searchtags:
-    - tour
 hero:
   image: "/v1570097106/tour_banner_bgnzw2.png"
   title: Tour in de online centrale
