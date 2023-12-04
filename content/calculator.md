@@ -31,14 +31,14 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen via de computer
+- name: Bellen-via-de-computer
   description: Aantal gebruikers dat via de computer gaat bellen 
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen met de smartphone
+- name: Bellen-met-de-smartphone
   description: Aantal gebruikers dat via de app gaat bellen
   min: 0
   max: 999
