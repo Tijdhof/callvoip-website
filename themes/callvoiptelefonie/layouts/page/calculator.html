@@ -29,27 +29,6 @@
             <input type="hidden" id="totaalpermaand" name="Totaal per maand" class="hidden">
             <input type="hidden" id="totaaleenmalig" name="Totaal éénmalig" class="hidden">
 
-              <div id="basic-fields">
-              {{ range $index, $item := .Params.basic2 }}
-              <div class="mb-4 xl:flex xl:items-center xl:-mx-4">
-                <div class="xl:w-1/2 xl:px-4">
-                  <label for="{{ $item.name | urlize }}" class="block text-base lg:text-xl font-medium mb-2 ">
-                    {{$item.name }} {{ if $item.required }} <span class="text-red">*</span> {{ end }}</label>
-                  {{ with $item.description }}
-                  <p class="opacity-75 -mt-3 mb-2">{{ . }}</p>
-                  {{ end }}
-                </div>
-                <div class="xl:w-1/2 xl:px-4">
-                  <input type="number" data-name={{$item.name}} autocomplete="false" value="{{ $item.min }}"
-                    data-price_monthly="{{$item.price_monthly}}" {{ if eq $item.min $item.max }} disabled {{ end }}
-                    data-price_onetime="{{$item.price_onetime}}" id="{{ $item.name | urlize }}" max="{{ $item.max }}"
-                    class="w-full bg-white px-4 py-2 rounded" min="{{ $item.min }}"
-                    name="{{ $item.name | urlize }}" {{ if $item.required }} required {{ end }}>
-                </div>
-              </div>
-              {{ end}}
-            </div>
-
             <div id="basic-fields">
               {{ range $index, $item := .Params.basic }}
               <div class="mb-4 xl:flex xl:items-center xl:-mx-4">
@@ -185,7 +164,7 @@
                 <div class="xl:w-1/2 xl:px-4">
                   <label for="{{ $item.name | urlize }}" class="block text-base lg:text-xl font-medium mb-2 ">
                     {{ $item.name }} {{ if $item.required }} <span class="text-red">*</span> {{ end }}</label>
-                  {{ with $item.description | markdownify }}
+                  {{ with $item.description }}
                   <p class="opacity-75 -mt-3 mb-2">{{ . }}</p>
                   {{ end }}
                 </div>
@@ -342,4 +321,5 @@
 <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"
   crossorigin="anonymous" defer></script>
 {{ end }}
+
 {{ end }}
