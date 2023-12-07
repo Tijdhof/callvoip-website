@@ -2,7 +2,7 @@
 shorttitle: "Whatsapp"
 title: "Wij koppelen WhatsApp Business aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/Google_vednx4.png"
+logo: "/whatsapp-crm.png"
 description: Door het koppelen van WhatsApp Business aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Algemene koppeling
 meer_info:
