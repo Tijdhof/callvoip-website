@@ -15,7 +15,8 @@ button:
   link: /marketplace/
 categories:
   - Universele koppeling
-weight: 11
+weight: 2
+new: true
 url: /marketplace/whatsapp
 aliases: /program-shop/whatsapp/
 headerside:
