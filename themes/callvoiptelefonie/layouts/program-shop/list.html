@@ -86,9 +86,9 @@
         {{ $title := .Title }}
         <a href="{{.Permalink}}"
           class="block border border-grey-lightest rounded-md overflow-hidden md:w-64 mb-4 md:mb-12 text-grey item-card mx-6 xl:mx-2 {{- range $item.Params.categories }} {{urlize .}}{{ end }}"
-          style="transition: border 0.3s ease; border: 1px solid #ddd;"
-          onmouseover="this.style.border='3px solid #333';"
-          onmouseout="this.style.border='1px solid #ddd';">
+   style="transition: box-shadow 0.3s ease; box-shadow: 0 0 0 1px #ddd;"
+   onmouseover="this.style.boxShadow='inset 0 0 0 3px #333';"
+   onmouseout="this.style.boxShadow='0 0 0 1px #ddd';">
           <div class="bg-grey-lightest flex items-center justify-center p-4 h-40 relative">
             {{ with .Params.logo -}}
             <img src="{{ $cloudinary }}/c_scale,f_auto,q_auto{{.}}" class="cld-responsiveb h-24"
