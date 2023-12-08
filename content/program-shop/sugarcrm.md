@@ -30,8 +30,6 @@ categories:
   - Marketing
   - Planning
   - Nieuw
-weight: 2
-new: true
 url: /marketplace/sugarcrm/
 aliases: /program-shop/sugarcrm/
 
