@@ -8,7 +8,7 @@ url: "/branches/marketingbureau/"
 hero:
   title: Telefonie voor Marketeers
   content: 'Als marketingbureau weet je hoe essentieel communicatie is voor het succes van je projecten en klantrelaties. Of het nu gaat om het coördineren van campagnes, het bespreken van strategieën met klanten, of het intern afstemmen van taken, jouw team moet altijd bereikbaar en verbonden zijn. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van marketing.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
-  image: "/v1571655384/Assurantiekantoor-callvoip.png"
+  image: "/v1571655384/marketing-callvoip.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -97,7 +97,7 @@ bottom:
     md:text-lg font-medium opacity-50 flex-1">3x Gebruikersaccount telefonie (toestel,
     PC of smartphone)</span> <span class="text-lg md:text-2xl font-medium opacity-75">€12,-</span>
     </div><div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met MS Teams, Act!, ActiveCampaign 
+    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Teams, Act!, ActiveCampaign 
     etc. per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Totaal</span> <span class="text-lg md:text-2xl
