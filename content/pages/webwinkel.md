@@ -13,7 +13,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef jij maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
+- content: 'Bereikbaarheid is meer dan alleen een telefoon die rinkelt. Met onze jarenlange ervaring en geavanceerde online centrale, zorgen we ervoor dat je elk scenario aankan: van piekmomenten tijdens uitverkoop tot onverwachte vragen. Beheer je complete telefonie vanuit één plek en pas deze aan waar nodig. Met de slimme tools van Callvoip hoef jij maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
@@ -21,13 +21,13 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppel jouw eigen CRM Software
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. We bieden integraties met populaire CRM-systemen zoals ANVA, Assistent, ASSU assurantiesoftware en DIAS maar we kunnen koppelen met meer dan 150 pakketten. Wij zorgen voor een naadloze integratie. . Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
+  content1: 'Efficiëntie is cruciaal in de e-commerce. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. We bieden integraties met populaire CRM-systemen zoals LightspeedHQ, Magento 2 en Sherpaan, maar we kunnen koppelen met meer dan 150 pakketten. Wij zorgen voor een naadloze integratie. . Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/recruiterCRM_ox8oau.png">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou</div>
-  content: Onze online centrale biedt tal van handige functies voor jouw assurantiekantoor. Denk aan geavanceerde wachtrijen voor drukke momenten en de mogelijkheid om je eigen teksten in te spreken voor een persoonlijke touch. We helpen je graag om jouw centrale in te richten voor een optimale klantbeleving. Meer weten over de vele functionaliteiten? Neem <a
+  content: Onze online centrale biedt tal van handige functies specifiek voor webwinkels. Denk aan geavanceerde wachtrijen voor drukke momenten en de mogelijkheid om je eigen teksten in te spreken voor een persoonlijke touch. We helpen je graag om jouw centrale in te richten voor een optimale klantbeleving. Meer weten over de vele functionaliteiten? Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
   items:
@@ -35,7 +35,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals ANVA, Assistent, ASSU assurantiesoftware en DIAS, maar ook jouw eigen software.<br><br><a href="/marketplace/"
+      eens koppelen met lange lijst pakketten, zoals LightspeedHQ, Magento 2 en Sherpaan, maar ook jouw eigen software.<br><br><a href="/marketplace/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
@@ -55,7 +55,7 @@ usps:
     title: Slimme schakelaars
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
-      Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel bij de kassa. Handig!<br><br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
+      Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel in je magazijn. Handig!<br><br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
   - icon: fa-microphone-alt
     title: Spreek je eigen teksten in
@@ -97,7 +97,7 @@ bottom:
     md:text-lg font-medium opacity-50 flex-1">3x Gebruikersaccount telefonie (toestel,
     PC of smartphone)</span> <span class="text-lg md:text-2xl font-medium opacity-75">€12,-</span>
     </div><div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Bullhorn, RecruitNow, 
+    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Lightspeedhq, Magento 2, 
     etc. per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Totaal</span> <span class="text-lg md:text-2xl
