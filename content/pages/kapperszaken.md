@@ -21,7 +21,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppel jouw eigen CRM Software
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Of je nu gebruik maakt van 1kapper, een eigen CRM-systeem, of een ander pakket, wij zorgen voor een naadloze integratie. . Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
+  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Of je nu gebruik maakt van 1kapper, een eigen CRM-systeem, of een ander pakket, wij zorgen voor een naadloze integratie. Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/recruiterCRM_ox8oau.png">
   show_vshape: false
