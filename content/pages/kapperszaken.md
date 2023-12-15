@@ -19,12 +19,6 @@ blocks:
   position: image_left
   title: Altijd bereikbaar
   image_position: center
-textblocksfooter:
-- title1: Koppel jouw eigen CRM Software
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Of je nu gebruik maakt van 1kapper, een eigen CRM-systeem, of een ander pakket, wij zorgen voor een naadloze integratie. Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
-  title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/recruiterCRM_ox8oau.png">
-  show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als Kapper</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
@@ -38,7 +32,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals bekende kapperssoftware 1Kapper, maar ook jouw eigen software.<br><br><a href="/marketplace/"
+      eens koppelen met lange lijst pakketten, zoals bekende klantbeheer software, maar ook jouw eigen software.<br><br><a href="/marketplace/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
@@ -100,7 +94,7 @@ bottom:
     md:text-lg font-medium opacity-50 flex-1">3x Gebruikersaccount telefonie (toestel,
     PC of smartphone)</span> <span class="text-lg md:text-2xl font-medium opacity-75">€12,-</span>
     </div><div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Bullhorn, RecruitNow, 
+    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met jouw klantsysteem 
     etc. per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Totaal</span> <span class="text-lg md:text-2xl
