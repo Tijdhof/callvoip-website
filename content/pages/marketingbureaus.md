@@ -1,26 +1,26 @@
 ---
 title: Telefonie voor Marketingbureaus
-description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als Kapperszaak. Van Chrome integratie tot volledige koppeling met jouw CRM.'
+description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als Marketingbureau. Van Chrome integratie tot volledige koppeling met jouw CRM.'
 type: page
 layout: branche
 logos: false
-url: "/branches/kapperszaken/"
+url: "/branches/marketingbureaus/"
 hero:
-  title: Telefonie voor Kappers
-  content: 'In de drukke wereld van kapperszaken is vlotte en effectieve communicatie essentieel. Of het nu gaat om het beheren van afspraken, het beantwoorden van klantvragen of het bieden van uitstekende klantenservice, Callvoip biedt op maat gemaakte telefonieoplossingen die perfect aansluiten bij de behoeften van uw kapperszaak.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  title: Telefonie voor Marketeers
+  content: 'Als marketingbureau weet je hoe essentieel communicatie is voor het succes van je projecten en klantrelaties. Of het nu gaat om het coördineren van campagnes, het bespreken van strategieën met klanten, of het intern afstemmen van taken, jouw team moet altijd bereikbaar en verbonden zijn. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van marketing.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/kapper-callvoip.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als kapper maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
+- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. In de snel veranderende wereld van marketing is flexibiliteit cruciaal. Met onze jarenlange ervaring en geavanceerde online centrale, zorgen we ervoor dat je elk scenario aankan: van drukke campagnelanceringen tot onverwachte klantvragen. Beheer je complete telefonie vanuit één plek en pas deze aan waar nodig.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
   title: Altijd bereikbaar
   image_position: center
 usps:
-  title: <div id="1">Handig voor jou als Kapper</div>
+  title: <div id="1">Handig voor jou als Marketeer</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
     erg handige zaken voor elke kapper. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
