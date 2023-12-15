@@ -1,34 +1,34 @@
 ---
 title: Telefonie voor Kapperszaken
-description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als Recruitment bureau. Van Chrome integratie tot volledige koppeling met jouw CRM.'
+description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als Kapperszaak. Van Chrome integratie tot volledige koppeling met jouw CRM.'
 type: page
 layout: branche
 logos: false
 url: "/branches/kapperszaken/"
 hero:
-  title: Telefonie voor Recruitment
-  content: 'Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we belbundels zodat de maandelijkse kosten voor belverkeer naar vast en mobiel binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis click to dial app ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek via de browser en de naam van de beller direct in beeld. En daarnaast koppelen we jouw CRM pakket (zoals CatsOne, Bullhorn, Carerix, Recruitenow en Yellow Yard) met ons platform. Jouw voordeel: direct alle gegevens van jouw kandidaten in beeld<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  title: Telefonie voor Kappers
+  content: 'In de drukke wereld van kapperszaken is vlotte en effectieve communicatie essentieel. Of het nu gaat om het beheren van afspraken, het beantwoorden van klantvragen of het bieden van uitstekende klantenservice, Callvoip biedt op maat gemaakte telefonieoplossingen die perfect aansluiten bij de behoeften van uw kapperszaak.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/recruiter-small_tkmp0n.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als recruiter maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
+- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als kapper maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
   title: Altijd bereikbaar
   image_position: center
 textblocksfooter:
-- title1: Koppel jouw eigen recruitmentsoftware
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: CatsOne, Bullhorn, Carerix, Recruitenow en Yellow Yard. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
+- title1: Koppel jouw eigen CRM Software
+  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Of je nu gebruik maakt van 1kapper, een eigen CRM-systeem, of een ander pakket, wij zorgen voor een naadloze integratie. . Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/recruiterCRM_ox8oau.png">
   show_vshape: false
 usps:
-  title: <div id="1">Handig voor jou als recruiter</div>
+  title: <div id="1">Handig voor jou als Kapper</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
-    erg handige zaken voor elke recruiter. Denk hierbij aan een geavanceerde
+    erg handige zaken voor elke kapper. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten? Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
@@ -38,8 +38,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals bekende recruitmentsoftwaresystemen
-      als Bullhorn, RecruitNow en vele anderen.<br><br><a href="/marketplace/"
+      eens koppelen met lange lijst pakketten, zoals bekende kapperssoftware 1Kapper, maar ook jouw eigen software.<br><br><a href="/marketplace/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
@@ -59,15 +58,14 @@ usps:
     title: Slimme schakelaars
     content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
       in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
-      Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
-      bureau. Handig!<br><br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
+      Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel bij de kassa. Handig!<br><br><br><a href="/telefonie/functionaliteiten/omleiding-flow-control/"
       class="button">Lees meer</a>'
   - icon: fa-microphone-alt
     title: Spreek je eigen teksten in
     content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je
       een persoonlijke teint aan jouw telefonie. Bovendien komt het professioneel
       over als je je eigen 'stem' laat horen in alle aspecten van de telefoonervaring
-      van jouw patienten. Met onze dienst is het zelf inspreken zo geregeld! <br><br><a
+      van jouw klanten. Met onze dienst is het zelf inspreken zo geregeld! <br><br><a
       href="/telefonie/functionaliteiten/meldtekst/" class="button">Lees meer</a>
   - icon: fa-comment-dots
     title: Mis je iets?
