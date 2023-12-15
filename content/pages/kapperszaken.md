@@ -95,7 +95,7 @@ bottom:
     PC of smartphone)</span> <span class="text-lg md:text-2xl font-medium opacity-75">€12,-</span>
     </div><div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-50 flex-1">1x Koppeling met jouw klantsysteem 
-    etc. per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
+    per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Totaal</span> <span class="text-lg md:text-2xl
     font-medium opacity-75">€26,50</span> </div> </div> <div class="text-right px-6
