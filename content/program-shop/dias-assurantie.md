@@ -25,7 +25,7 @@ button:
 categories:
   - Hypotheken
   - Verzekeringen
-  - Assurantiën  
+  - Assurantien  
 weight: 10
 url: /marketplace/dias-unit4/
 aliases: /program-shop/dias-unit4/
