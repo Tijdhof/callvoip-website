@@ -1,13 +1,13 @@
 ---
-title: Telefonie voor een Assurantiekantoor
-description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als Assurantiekantoor. Van Chrome integratie tot volledige koppeling met jouw CRM.'
+title: Telefonie voor jouw Webwinkel
+description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als webwinkel. Van Chrome integratie tot volledige koppeling met jouw CRM.'
 type: page
 layout: branche
 logos: false
-url: "/branches/assurantiekantoor/"
+url: "/branches/webwinkel/"
 hero:
-  title: Telefonie voor op een Assurantiekantoor
-  content: 'Als assurantiekantoor weet je hoe belangrijk het is om altijd bereikbaar te zijn voor je klanten. Of het nu gaat om vragen over polissen, schadeclaims of nieuwe verzekeringsopties, jouw klanten rekenen op snelle en betrouwbare communicatie. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij jouw behoeften.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  title: Telefonie voor jouw Webwinkel
+  content: 'Als eigenaar van een webwinkel weet je hoe belangrijk het is om altijd bereikbaar te zijn voor je klanten. Of het nu gaat om vragen over producten, bestellingen of leveringen, jouw klanten verwachten snelle en betrouwbare communicatie. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van e-commerce.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/kapper-callvoip.png"
   zooming: true
   image_position: center
