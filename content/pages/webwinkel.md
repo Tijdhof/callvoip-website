@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor jouw Webwinkel
-description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als webwinkel. Van Chrome integratie tot volledige koppeling met jouw CRM.'
+description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als webshop. Van Chrome integratie tot volledige koppeling met jouw CRM.'
 type: page
 layout: branche
 logos: false
