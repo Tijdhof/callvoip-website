@@ -8,7 +8,7 @@ url: "/branches/webwinkel/"
 hero:
   title: Telefonie voor jouw Webwinkel
   content: 'Als eigenaar van een webwinkel weet je hoe belangrijk het is om altijd bereikbaar te zijn voor je klanten. Of het nu gaat om vragen over producten, bestellingen of leveringen, jouw klanten verwachten snelle en betrouwbare communicatie. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van e-commerce.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
-  image: "/v1571655384/kapper-callvoip.png"
+  image: "/v1571655384/webwinkel-callvoip.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -23,7 +23,7 @@ textblocksfooter:
 - title1: Koppel jouw eigen CRM Software
   content1: 'Efficiëntie is cruciaal in de e-commerce. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. We bieden integraties met populaire CRM-systemen zoals LightspeedHQ, Magento 2 en Sherpaan, maar we kunnen koppelen met meer dan 150 pakketten. Wij zorgen voor een naadloze integratie. Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/recruiterCRM_ox8oau.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/webshop-crm.png">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou</div>
