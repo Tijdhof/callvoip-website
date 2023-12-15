@@ -8,7 +8,7 @@ url: "/branches/kapperszaken/"
 hero:
   title: Telefonie voor Kappers
   content: 'In de drukke wereld van kapperszaken is vlotte en effectieve communicatie essentieel. Of het nu gaat om het beheren van afspraken, het beantwoorden van klantvragen of het bieden van uitstekende klantenservice, Callvoip biedt op maat gemaakte telefonieoplossingen die perfect aansluiten bij de behoeften van uw kapperszaak.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
-  image: "/v1571655384/recruiter-small_tkmp0n.png"
+  image: "/v1571655384/kapper-callvoip.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
