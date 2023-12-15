@@ -1,19 +1,19 @@
 ---
-title: Telefonie voor Kapperszaken
-description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als Kapperszaak. Van Chrome integratie tot volledige koppeling met jouw CRM.'
+title: Telefonie voor een Assurantiekantoor
+description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als Assurantiekantoor. Van Chrome integratie tot volledige koppeling met jouw CRM.'
 type: page
 layout: branche
 logos: false
-url: "/branches/kapperszaken/"
+url: "/branches/assurantiekantoor/"
 hero:
-  title: Telefonie voor Kappers
-  content: 'In de drukke wereld van kapperszaken is vlotte en effectieve communicatie essentieel. Of het nu gaat om het beheren van afspraken, het beantwoorden van klantvragen of het bieden van uitstekende klantenservice, Callvoip biedt op maat gemaakte telefonieoplossingen die perfect aansluiten bij de behoeften van uw kapperszaak.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  title: Telefonie voor op een Assurantiekantoor
+  content: 'Als assurantiekantoor weet je hoe belangrijk het is om altijd bereikbaar te zijn voor je klanten. Of het nu gaat om vragen over polissen, schadeclaims of nieuwe verzekeringsopties, jouw klanten rekenen op snelle en betrouwbare communicatie. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij jouw behoeften.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/kapper-callvoip.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef je als kapper maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
+- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools van Callvoip hoef jij maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees meer over bereikbaarheid</a>'
   image: "/v1572861318/cti-small2_bvq2lx.png"
   zooming: true
   position: image_left
@@ -21,16 +21,13 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppel jouw eigen CRM Software
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. Of je nu gebruik maakt van 1kapper, een eigen CRM-systeem, of een ander pakket, wij zorgen voor een naadloze integratie. . Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
+  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw pakket. We bieden integraties met populaire CRM-systemen zoals ANVA, Assistent, ASSU assurantiesoftware en DIAS maar we kunnen koppelen met meer dan 150 pakketten. Wij zorgen voor een naadloze integratie. . Heb je een CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/recruiterCRM_ox8oau.png">
   show_vshape: false
 usps:
-  title: <div id="1">Handig voor jou als Kapper</div>
-  content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
-    erg handige zaken voor elke kapper. Denk hierbij aan een geavanceerde
-    wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
-    eigen teksten in te spreken. Meer weten over de vele functionaliteiten? Neem <a
+  title: <div id="1">Handig voor jou</div>
+  content: Onze online centrale biedt tal van handige functies voor jouw assurantiekantoor. Denk aan geavanceerde wachtrijen voor drukke momenten en de mogelijkheid om je eigen teksten in te spreken voor een persoonlijke touch. We helpen je graag om jouw centrale in te richten voor een optimale klantbeleving. Meer weten over de vele functionaliteiten? Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
   items:
@@ -38,7 +35,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals bekende kapperssoftware 1Kapper, maar ook jouw eigen software.<br><br><a href="/marketplace/"
+      eens koppelen met lange lijst pakketten, zoals ANVA, Assistent, ASSU assurantiesoftware en DIAS, maar ook jouw eigen software.<br><br><a href="/marketplace/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
