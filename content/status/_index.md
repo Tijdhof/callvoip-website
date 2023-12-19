@@ -34,6 +34,8 @@ items:
     status: true
   - title: Callvoip Internet
     status: true
+  - title: Callvoip Bubble
+    status: false
 testserror: true
 tests:
   - title: Meldingen
