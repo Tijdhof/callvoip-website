@@ -41,7 +41,7 @@ tests:
     text: >-
       **19-12-2023 - 11:32** <br>
 
-      Op dit moment is er een verstoring bij uitgaand bellen vanuit Click To Dial & Callvoip Bubble.
+      Op dit moment is er een verstoring bij uitgaand bellen vanuit Click To Dial & Callvoip Bubble.<br>
       Er is geen probleem met uitgaand bellen via toetsel, webcalls of qaller.
 
     
