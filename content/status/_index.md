@@ -29,7 +29,7 @@ items:
   - title: BLF (statuslampjes)
     status: true
   - title: Click-to-Dial
-    status: false
+    status: true
   - title: Trunk
     status: true
   - title: Callvoip Internet
@@ -39,9 +39,11 @@ items:
 testserror: true
 tests:
   - title: Meldingen
-    error: true
+    error: false
     text: >-
-      **19-12-2023 - 11:32** <br>
+    **19-12-2023 - 11:51** <br>
+    De verstoring van Click to Dial & Bubble zijn opgelost.<br><br>
+    **19-12-2023 - 11:32** <br>
 
       Op dit moment is er een verstoring bij uitgaand bellen vanuit Click To Dial & Callvoip Bubble.<br>
       Er is geen probleem met uitgaand bellen via toetsel, webcalls of qaller.
