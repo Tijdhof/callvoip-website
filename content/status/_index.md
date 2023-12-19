@@ -41,9 +41,9 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-    **19-12-2023 - 11:51** <br>
-    De verstoring van Click to Dial & Bubble zijn opgelost.<br><br>
-    **19-12-2023 - 11:32** <br>
+      **19-12-2023 - 11:51** <br>
+      De verstoring van Click to Dial & Bubble zijn opgelost.<br><br>
+      **19-12-2023 - 11:32** <br>
 
       Op dit moment is er een verstoring bij uitgaand bellen vanuit Click To Dial & Callvoip Bubble.<br>
       Er is geen probleem met uitgaand bellen via toetsel, webcalls of qaller.
