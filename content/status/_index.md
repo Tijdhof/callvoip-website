@@ -2,7 +2,7 @@
 title: Status
 url: /status
 contentTop: Op deze pagina vindt u de status van de verschillende onderdelen van
-  Simmpl, de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen
+  de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen
   en incidenten.
 contentMiddle: ""
 hidesocialshare: false
