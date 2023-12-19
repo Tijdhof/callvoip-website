@@ -29,16 +29,24 @@ items:
   - title: BLF (statuslampjes)
     status: true
   - title: Click-to-Dial
-    status: true
+    status: false
   - title: Trunk
     status: true
   - title: Callvoip Internet
     status: true
+  - title: Callvoip Bubble
+    status: false
 testserror: true
 tests:
   - title: Meldingen
-    error: false
+    error: true
     text: >-
+    **19-12-2023 - 11:32**
+
+    Op dit moment is er een verstoring bij uitgaand bellen vanuit Click To Dial & Callvoip Bubble.
+    Er is geen probleem met uitgaand bellen via toetsel, webcalls of qaller.
+
+    
       **Inloggen met een extra code (2FA):** 
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
