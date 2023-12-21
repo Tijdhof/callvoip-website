@@ -21,7 +21,7 @@ items:
   - title: Toestelregistraties
     status: true
   - title: Webcalls
-    status: true
+    status: false
   - title: Qaller Smartphone app
     status: true
   - title: Vamos Vast-Mobiel
@@ -39,15 +39,10 @@ items:
 testserror: true
 tests:
   - title: Meldingen
-    error: false
+    error: true
     text: >-
-      **19-12-2023 - 11:51** <br>
-      De verstoring van Click to Dial & Bubble zijn opgelost.<br><br>
-      **19-12-2023 - 11:32** <br>
-
-      Op dit moment is er een verstoring bij uitgaand bellen vanuit Click To Dial & Callvoip Bubble.<br>
-      Er is geen probleem met uitgaand bellen via toetsel, webcalls of qaller.
-
+      **21-12-2023 - 10:10** <br>
+      Op dit moment is er een verstoring met Webcalls, we werken aan een oplossing.<br><br>
     
       **Inloggen met een extra code (2FA):** <br>
 
