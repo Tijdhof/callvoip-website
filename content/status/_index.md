@@ -21,7 +21,7 @@ items:
   - title: Toestelregistraties
     status: true
   - title: Webcalls
-    status: false
+    status: true
   - title: Qaller Smartphone app
     status: true
   - title: Vamos Vast-Mobiel
@@ -39,8 +39,10 @@ items:
 testserror: true
 tests:
   - title: Meldingen
-    error: true
+    error: false
     text: >-
+      **21-12-2023 - 13:50** <br>
+      De verstoring van Webcalls is opgelost.<br><br>
       **21-12-2023 - 11:25** <br>
       Op dit moment is er een verstoring met Webcalls, we werken aan een oplossing.<br><br>
     
