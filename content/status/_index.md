@@ -42,7 +42,7 @@ tests:
     error: true
     text: >-
       **21-12-2023 - 11:25** <br>
-      Op dit moment is er een verstoring met Webcalls, we werken aan een oplossing.br><br>
+      Op dit moment is er een verstoring met Webcalls, we werken aan een oplossing.<br><br>
     
       **Inloggen met een extra code (2FA):** <br>
 
