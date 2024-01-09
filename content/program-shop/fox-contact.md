@@ -23,7 +23,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Woningcooperatiesoftware
+  - Woningcorporatiesoftware
 weight: 10
 url: /marketplace/fox-contact/
 aliases: /program-shop/fox-contact/
