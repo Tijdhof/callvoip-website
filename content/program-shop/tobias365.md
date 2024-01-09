@@ -23,7 +23,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Woningcooperatiesoftware
+  - Woningcorporatiesoftware
 weight: 10
 url: /marketplace/tobias365/
 aliases: /program-shop/tobias365/
