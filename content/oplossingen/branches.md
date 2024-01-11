@@ -79,27 +79,27 @@ usps:
   - icon: fa-cut
     title: Ik heb een kapsalon
     content: Bellen en knippen gaan vaak niet samen. Slimme bereikbaarheid is de oplossing.<BR><BR><a
-      href="/oplossingen/branches/kapsalon/" class="button">Ik wil ook slim bereikbaar
+      href="/branches/kapperszaken/" class="button">Ik wil ook slim bereikbaar
       zijn</a>
   - icon: fa-ad
     title: Voor de toppers in marketing
     content: Je kunt thuis werken, bij een klant of op kantoor. Flexibiliteit is het
-      toverwoord.<BR><BR><a href="/oplossingen/branches/marketing/" class="button">Ja,
+      toverwoord.<BR><BR><a href="/branches/marketingbureau/" class="button">Ja,
       flexibiliteit past bij ons</a>
   - icon: fa-tooth
     content: Een rooster aanpassen? Stel eenvoudig de juiste boodschap op het juiste
-      moment in.<BR><BR><a href="/oplossingen/branches/tandarts/" class="button">Oplossing
+      moment in.<BR><BR><a href="/branches/tandarts/" class="button">Oplossing
       voor tandartspraktijken</a>
     title: Speciaal voor tandartsen
   - title: Assurantiekantoor
     content: Telefonie en betrouwbaar internet piekfijn in orde maar meer verstand
-      van verzekeren?<BR><BR><a href="/oplossingen/branches/assurantie/" class="button">Ontdek
+      van verzekeren?<BR><BR><a href="/branches/assurantiekantoor/" class="button">Ontdek
       hoe we dit regelen</a>
     icon: fa-abacus
   - icon: fa-shopping-cart
     title: Wij hebben een webwinkel
     content: Met een slim keuzemenu komt de klant direct terecht bij de juiste persoon.<BR><BR><a
-      href="/oplossingen/branches/webshop/" class="button">Bekijk onze E-commerce
+      href="/branches/webwinkel/" class="button">Bekijk onze E-commerce
       oplossing</a>
 intro:
   title: ''
