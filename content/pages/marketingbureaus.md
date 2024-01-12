@@ -7,7 +7,8 @@ logos: false
 url: "/branches/marketingbureau/"
 hero:
   title: Telefonie voor Marketeers
-  content: 'Als marketingbureau weet je hoe essentieel communicatie is voor het succes van je projecten en klantrelaties. Of het nu gaat om het coördineren van campagnes, het bespreken van strategieën met klanten, of het intern afstemmen van taken, jouw team moet altijd bereikbaar en verbonden zijn. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van marketing.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag een telefooncentrale demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
+  content: 'Als marketingbureau weet je hoe essentieel communicatie is voor het succes van je projecten en klantrelaties. Of het nu gaat om het coördineren van campagnes, het bespreken van strategieën met klanten, of het intern afstemmen van taken, jouw team moet altijd bereikbaar en verbonden zijn. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van marketing.<br><br>
+<button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag een demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
         <form name="demo-aanvraag" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
@@ -18,7 +19,7 @@ hero:
             <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
           </p>
 
-          <h3 class="text-2xl">Informatie over onze dienst en een demo ontvangen?</h3><br>
+          <h3 class="text-2xl">Ontvang informatie en een demo over onze oplossing voor marketeers</h3><br>
 
           <div class="space-y-4">
             <div class="space-y-2 flex flex-col">
