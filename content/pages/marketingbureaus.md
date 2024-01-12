@@ -23,7 +23,7 @@ hero:
 
           <div class="space-y-4">
             <div class="space-y-2 flex flex-col">
-              <label for="Bedrijfsnaam">Naam</label>
+              <label for="Bedrijfsnaam">Bedrijfsnaam</label>
               <input name="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3">
             </div>
             <div class="space-y-2 flex flex-col">
