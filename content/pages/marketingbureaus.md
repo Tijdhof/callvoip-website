@@ -19,7 +19,7 @@ hero:
             <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
           </p>
 
-          <h3 class="text-2xl">Ontvang informatie en een demo over onze oplossing voor marketeers</h3><br>
+          <h3 class="text-2xl">Ontvang een demo over onze telefonie oplossing voor marketeers</h3><br>
 
           <div class="space-y-4">
             <div class="space-y-2 flex flex-col">
