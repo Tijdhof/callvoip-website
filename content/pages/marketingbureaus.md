@@ -7,7 +7,40 @@ logos: false
 url: "/branches/marketingbureau/"
 hero:
   title: Telefonie voor Marketeers
-  content: 'Als marketingbureau weet je hoe essentieel communicatie is voor het succes van je projecten en klantrelaties. Of het nu gaat om het coördineren van campagnes, het bespreken van strategieën met klanten, of het intern afstemmen van taken, jouw team moet altijd bereikbaar en verbonden zijn. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van marketing.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  content: 'Als marketingbureau weet je hoe essentieel communicatie is voor het succes van je projecten en klantrelaties. Of het nu gaat om het coördineren van campagnes, het bespreken van strategieën met klanten, of het intern afstemmen van taken, jouw team moet altijd bereikbaar en verbonden zijn. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij de dynamische wereld van marketing.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag een telefooncentrale demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
+        <form name="demo-aanvraag" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
+          class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
+         
+          <p class="hidden">
+            <input type="hidden" name="CRM Item" value="demo-aanvraag" />
+            <label>Don’t fill this out if human <input name="bot-field"> </label>
+            <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
+            <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
+          </p>
+
+          <h3 class="text-2xl">Informatie over onze dienst en een demo ontvangen?</h3><br>
+
+          <div class="space-y-4">
+            <div class="space-y-2 flex flex-col">
+              <label for="Bedrijfsnaam">Naam</label>
+              <input name="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Email">Email</label>
+              <input type="email" name="Email" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Telefoonnummer">Telefoonnummer</label>
+              <input type="tel" name="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <p>
+              <button class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
+              <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
+            </p>
+          </div>
+          <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
+        </form>
+      </dialog>'
   image: "/v1571655384/marketing-callvoip.png"
   zooming: true
   image_position: center
