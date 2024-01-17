@@ -13,7 +13,7 @@ hidesocialshare: true
 ---
 Heeft u hulp nodig bij het instellen van uw telefoons of andere apparatuur? Laat Team Callvoip dan met u meekijken via onze remote software. Wij nemen dan uw scherm en muis over. 
 
-<a href="http://support.callvoip.nl:8040/" target=_blank class="button">Start de sessie</a>  
+<a href="https://support.callvoip.nl/" target=_blank class="button">Start de sessie</a>  
 <br>
 
 ### Hoe werkt het?
