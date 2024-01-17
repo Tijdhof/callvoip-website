@@ -18,7 +18,7 @@ Heeft u hulp nodig bij het instellen van uw telefoons of andere apparatuur? Laat
 
 ### Hoe werkt het?
 
-Stap 1: <a href="http://support.callvoip.nl:8040/" target=_blank>Klik hier en start de sessie</a>.  
+Stap 1: <a href="https://support.callvoip.nl/" target=_blank>Klik hier en start de sessie</a>.  
 Stap 2: **Vul de** **code in** die de Callvoip-medewerker u geeft.  
 Stap 3: **Download** de software en voer deze uit.  
 Stap 4: Team Callvoip kijkt met u mee en gaat voor u aan de slag!
