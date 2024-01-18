@@ -34,7 +34,7 @@ menu:
       name: Direct klant worden
       weight: 2
     - pre: external
-      url: http://support.callvoip.nl:8040/
+      url: http://support.callvoip.nl/
       name: Help
       post: fa-window-restore
       weight: 1
