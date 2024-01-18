@@ -1,8 +1,8 @@
 # Redirects from what the browser requests to what we serve
 /login            https://panel.callvoip.nl/login/panel
 /review           https://search.google.com/local/writereview?placeid=ChIJf9BEWcbSyUcRUZsaQLzFikk
-/help            http://support.callvoip.nl:8040/
-/hulp            http://support.callvoip.nl:8040/
+/help            http://support.callvoip.nl/
+/hulp            http://support.callvoip.nl/
 /linkedin             https://www.linkedin.com/company/callvoip-telefonie
 /email-whatsapp            https://mailchi.mp/callvoip/dec19-tijdlijn-eindejaar-317281
 /ondersteuning/algemeen/storing/            https://www.callvoip.nl/status/
