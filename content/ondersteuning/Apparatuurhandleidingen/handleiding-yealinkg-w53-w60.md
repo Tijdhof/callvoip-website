@@ -1,6 +1,6 @@
 ---
 weight: 20
-title: Yealink W53 / W60 DECT handleiding
+title: Yealink handleiding DECT telefoons (o.a. W53, W78 icm W60, W70)
 description: ''
 images: []
 hideinsearch: false
