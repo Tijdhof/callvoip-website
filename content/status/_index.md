@@ -35,16 +35,14 @@ items:
   - title: Callvoip Internet
     status: true
   - title: Callvoip Bubble
-    status: true
+    status: false
 testserror: true
 tests:
   - title: Meldingen
-    error: false
+    error: true
     text: >-
-      **21-12-2023 - 13:50** <br>
-      De verstoring van Webcalls is opgelost.<br><br>
-      **21-12-2023 - 11:25** <br>
-      Op dit moment is er een verstoring met Webcalls, we werken aan een oplossing.<br><br>
+      **30-1-2024 - 9:50** <br>
+      Er is een verstoring met de dienst van Bubble. Momenteel ontvang je geen pop-up bij een inkomend gesprek. Er wordt gewerkt aan een oplossing.<br>
     
       **Inloggen met een extra code (2FA):** <br>
 
