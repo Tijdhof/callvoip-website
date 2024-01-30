@@ -42,7 +42,7 @@ tests:
     error: true
     text: >-
       **30-1-2024 - 9:50** <br>
-      Er is een verstoring met de dienst van Bubble. Momenteel ontvang je geen pop-up bij een inkomend gesprek. Er wordt gewerkt aan een oplossing.<br>
+      Er is een verstoring met de dienst van Bubble. Momenteel ontvang je geen pop-up bij een inkomend gesprek. Er wordt gewerkt aan een oplossing.<br><br>
     
       **Inloggen met een extra code (2FA):** <br>
 
