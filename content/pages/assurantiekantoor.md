@@ -7,7 +7,41 @@ logos: false
 url: "/branches/assurantiekantoor/"
 hero:
   title: Telefonie voor op een Assurantiekantoor
-  content: 'Als assurantiekantoor weet je hoe belangrijk het is om altijd bereikbaar te zijn voor je klanten. Of het nu gaat om vragen over polissen, schadeclaims of nieuwe verzekeringsopties, jouw klanten rekenen op snelle en betrouwbare communicatie. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij jouw behoeften.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  content: 'Als assurantiekantoor weet je hoe belangrijk het is om altijd bereikbaar te zijn voor je klanten. Of het nu gaat om vragen over polissen, schadeclaims of nieuwe verzekeringsopties, jouw klanten rekenen op snelle en betrouwbare communicatie. Bij Callvoip begrijpen we dat en bieden we telefonieoplossingen die perfect aansluiten bij jouw behoeften.<br><br>
+  <button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag een demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
+        <form name="demo-aanvraag" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
+          class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
+         
+          <p class="hidden">
+            <input type="hidden" name="CRM Item" value="demo-aanvraag" />
+            <label>Don’t fill this out if human <input name="bot-field"> </label>
+            <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
+            <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
+          </p>
+
+          <h3 class="text-2xl">Ontvang een demo over onze telefonie oplossing voor assurantiekantoren</h3><br>
+
+          <div class="space-y-4">
+            <div class="space-y-2 flex flex-col">
+              <label for="Bedrijfsnaam">Bedrijfsnaam</label>
+              <input name="Bedrijfsnaam" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Email">Email</label>
+              <input type="email" name="Email" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <div class="space-y-2 flex flex-col">
+              <label for="Telefoonnummer">Telefoonnummer</label>
+              <input type="tel" name="Telefoonnummer" required class="w-full bg-grey-lightest rounded-full p-3">
+            </div>
+            <p>
+              <button class="w-full p-3 bg-blue text-white rounded-full">Versturen</button>
+              <small>Gegevens worden gebruikt om éénmalig contact met je op te nemen.</small>
+            </p>
+          </div>
+          <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
+        </form>
+      </dialog>'
   image: "/v1571655384/Assurantiekantoor-callvoip.png"
   zooming: true
   image_position: center
