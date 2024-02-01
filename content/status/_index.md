@@ -39,7 +39,7 @@ items:
 testserror: true
 tests:
   - title: Meldingen
-    error: true
+    error: false
     text: >-
       **Aankondiging gepland onderhoud**<br> Er staat onderhoud gepland aan ons
       telefoonsysteem op: <br>Start: vrijdag 2 februari 2024 om 21.00
