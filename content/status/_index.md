@@ -47,7 +47,7 @@ tests:
       onderhoud zullen de telefonie, de webinterface, de Realtime API en de
       Qaller App gedurende max. 30 minuten verminderd beschikbaar zijn.<br>\
 
-      Bij voorbeed onze excuses voor het eventuele ongemak. <br><br>
+      Bij voorbaat onze excuses voor het eventuele ongemak. <br><br><br>
 
       **Inloggen met een extra code (2FA):** <br>
 
