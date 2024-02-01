@@ -2,8 +2,8 @@
 title: Status
 url: /status
 contentTop: Op deze pagina vindt u de status van de verschillende onderdelen van
-  de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen
-  en incidenten.
+  de online telefooncentrale van Callvoip, inclusief onderhoudsmeldingen en
+  incidenten.
 contentMiddle: ""
 hidesocialshare: false
 hero:
@@ -41,9 +41,14 @@ tests:
   - title: Meldingen
     error: true
     text: >-
-      **30-1-2024 - 9:50** <br>
-      Er is een verstoring met de dienst van Bubble. Momenteel ontvang je geen pop-up bij een inkomend gesprek. Er wordt gewerkt aan een oplossing.<br><br>
-    
+      **Aankondiging gepland onderhoud**<br> Er staat onderhoud gepland aan ons
+      telefoonsysteem op: <br>Start: vrijdag 2 februari 2024 om 21.00
+      uur<br>Eind: zaterdag 3 februari om 06.00 uur<br><br>Gedurende het
+      onderhoud zullen de telefonie, de webinterface, de Realtime API en de
+      Qaller App gedurende max. 30 minuten verminderd beschikbaar zijn.<br>\
+
+      Bij voorbeed onze excuses voor het eventuele ongemak. <br><br>
+
       **Inloggen met een extra code (2FA):** <br>
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
