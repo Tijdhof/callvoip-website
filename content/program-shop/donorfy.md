@@ -26,8 +26,8 @@ categories:
   - Klantcontact
   - Relatiebeheer
 weight: 10
-url: /marketplace/sonorfy/
-aliases: /program-shop/sonorfy/
+url: /marketplace/donorfy/
+aliases: /program-shop/donorfy/
 
 ---
 
