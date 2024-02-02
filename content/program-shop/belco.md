@@ -24,7 +24,8 @@ button:
   link: /marketplace/
 categories:
   - E-commerce
-  - Customerservice  
+  - Customerservice
+  - Webshop software
 weight: 10
 new: false
 url: /marketplace/belco/
