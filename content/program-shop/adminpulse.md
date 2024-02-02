@@ -25,7 +25,6 @@ button:
 categories:
   - Accountancy
   - Boekhouding
-  - Tijdsregistratie
   - Urenregistratie
 weight: 10
 url: /marketplace/adminpulse/
