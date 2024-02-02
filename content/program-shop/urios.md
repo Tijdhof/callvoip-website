@@ -15,7 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Advocatuur
-  - Tijdsregistratie
+  - Urenregistratie
   - Declaratie
 weight: 10
 url: /marketplace/Urios/
