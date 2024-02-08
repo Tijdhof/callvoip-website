@@ -41,13 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **Aankondiging gepland onderhoud**<br> Er staat onderhoud gepland aan ons
-      telefoonsysteem op: <br>Start: vrijdag 2 februari 2024 om 21.00
-      uur<br>Eind: zaterdag 3 februari 2024 om 06.00 uur<br><br>Gedurende het
-      onderhoud zullen de telefonie, de webinterface, de Realtime API en de
-      Qaller App gedurende max. 30 minuten verminderd beschikbaar zijn.<br>\
-
-      Bij voorbaat onze excuses voor het eventuele ongemak. <br><br><br>
+      <br><br>
 
       **Inloggen met een extra code (2FA):** <br>
 
