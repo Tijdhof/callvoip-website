@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <br><br>
+      <br>
 
       **Inloggen met een extra code (2FA):** <br>
 
