@@ -25,6 +25,7 @@ button:
 categories:
   - Workflow
   - Planning
+  - Woningcorporatiesoftware
 weight: 10
 url: /marketplace/itris-viewpoint/
 aliases: /program-shop/itris-viewpoint/
