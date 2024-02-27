@@ -9,9 +9,9 @@
     {{ $post := printf "%s" .Post }}
 
     <a href="{{.URL}}" {{ if eq $pre "external" }} target="_blank" {{ end }}
-        style="display: inline-block; padding: 4px 10px; background-color: rgb(240, 240, 240); color: #203476; text-decoration: none; border-radius: 20px; transition: color 0.3s ease 0s, text-shadow 0.3s ease 0s; font-size: 0.75rem; font-weight: 500; margin-right: 6px; text-transform: uppercase;"
-        class="uppercase text-xs font-medium text-grey-dark no-underline mr-3 md:mr-0 md:ml-6 hover:text-blue"
-        onmouseover="this.style.color='#203476';"
+        style="display: inline-block; padding: 4px 10px; background-color: rgb(240, 240, 240); color: #203476; text-decoration: none; border-radius: 20px; transition: color 0.3s ease 0s, text-shadow 0.3s ease 0s; font-size: 0.75rem; font-weight: 500; margin-right: 6px; margin-bottom: 6px; text-transform: uppercase;"
+        class="uppercase text-xs font-medium text-grey-dark no-underline hover:text-blue"
+        onmouseover="this.style.color='#2069f3';"
         onmouseout="this.style.color='#203476';">
         {{ if $post }}
             <i class="fal {{ $post }}"></i>
@@ -19,7 +19,7 @@
         {{ .Name }}
     </a>
     {{ end }}
-    <a href="/zoeken" class=" mr-3 md:mr-0 md:ml-6">
+    <a href="/zoeken" class="mr-3 md:mr-0 md:ml-6">
         <i class="fal fa-search relative" style="top: -2px;"></i>
     </a>
 </nav>
