@@ -23,8 +23,8 @@ blocks:
   title: 'Precies de internetverbinding die jij nodig hebt'
   image_position: center
 textblocksfooter:
-- title1: Callvoip Glasvezel
-  content1: 'Met een (FTTH - Fiber to the Home) glasvezelverbinding bieden we een eigen lijn en een stabiele snelheid die klaar is voor de toekomst. De upload- en downloadsnelheid zijn gelijk en hoge snelheden tot 1 Gbps zijn mogelijk. Met de combinatie van onze telefonie en een internetverbinding profiteer je van 1 aanspreekpunt dat alles voor je regelt.
+- title1: Callvoip Data-SIMs
+  content1: 'Internet via een data-SIM werkt overal en vaak net zo snel als de internetverbinding die je gewend bent thuis!
   <div class="mb-8 bg-white rounded-lg py-8 px-6">
             <h4 class="text-lg lg:text-2xl font-medium mb-2">Data SIM</h4>
 
