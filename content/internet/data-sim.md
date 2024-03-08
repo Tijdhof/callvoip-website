@@ -5,7 +5,9 @@ type: page
 layout: default2
 logos: false
 url: /internet/data-sim/
-aliases: /data-sim/
+aliases:
+ - /data-sim/
+ - /datasim/
 hero:
   title: 'Callvoip internet: snel en betrouwbaar'
   content: |-
