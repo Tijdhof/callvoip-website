@@ -16,7 +16,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Internet via een data-SIM werkt overal en vaak net zo snel als de internetverbinding die je gewend bent thuis! Dat maakt een data-SIM een fijne oplossing als je onverwachts wordt geplaagd door een internetstoring. Vooral als die wat langer duurt! We kunnen je snel voorzien van een complete oplossing: een SIM kaart met het gewenste abonnement. Fijn is dat je geen lange looptijd hebt, je kunt het abonnement dus weer opzeggen als het niet meer nodig is. Naast de SIM kunnen we je ook voorzien van een FRITZBox waar we de SIM al in plaatsen. Je hoeft dan alleen nog maar de stekker in het stopcontact te doen en je kunt weer aan de slag.'
+- content: 'Internet via een data-SIM werkt overal en vaak net zo snel als de internetverbinding die je gewend bent thuis!<br>Dat maakt een data-SIM een fijne oplossing als je onverwachts wordt geplaagd door een internetstoring. Vooral als die wat langer duurt!<br>We kunnen je snel voorzien van een complete oplossing: een SIM kaart met het gewenste abonnement. Fijn is dat je geen lange looptijd hebt, je kunt het abonnement dus weer opzeggen als het niet meer nodig is. Naast de SIM kunnen we je ook voorzien van een FRITZBox waar we de SIM al in plaatsen. Je hoeft dan alleen nog maar de stekker in het stopcontact te doen en je kunt weer aan de slag.'
   image: "/v1600956804/internet-max_p0ugq5.png"
   zooming: true
   position: image_left
