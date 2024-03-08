@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip DATA SIM'
-description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service of internationaal.'
+description: 'Storing, backup, buitengebied of 4G op je tablet? Snel (tijdelijk) internet met een data-SIM van Callvoip.'
 type: page
 layout: default2
 logos: false
@@ -24,7 +24,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Callvoip Data-SIMs
-  content1: 'Internet via een data-SIM werkt overal en vaak net zo snel als de internetverbinding die je gewend bent thuis!
+  content1: 'Storing, backup, buitengebied of 4G op je tablet? Snel (tijdelijk) internet met een data-SIM.
   <div class="mb-8 bg-white rounded-lg py-8 px-6">
             <h4 class="text-lg lg:text-2xl font-medium mb-2">Data SIM</h4>
 
