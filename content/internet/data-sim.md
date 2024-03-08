@@ -104,13 +104,13 @@ textblocksfooter:
             </div>
           </div>'
   title2: Overige punten
-  content2: 'Betaling:<br>
+  content2: '<b>Betaling:</b><br>
 Is altijd per volle kalendermaand, gefactureerd aan het begin van de maand.<br><br>
 
-Opzegtermijn:<br>
+<b>Opzegtermijn:</b><br>
 Een data simkaart loopt per kalendermaand. Koop je deze op de 20ste, dan betaal je een volle maand vanaf de 20ste tot het einde van die maand. Opzeggen kan gedurende de gehele maand.
 <br><br>
-Meerverbruik:<br>
+<b>Meerverbruik:</b><br>
 € 1,50 per GB buiten je bundel (excl. BTW)'
 images: []
 hideinsearch: false
