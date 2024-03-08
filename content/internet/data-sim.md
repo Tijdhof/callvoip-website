@@ -9,18 +9,18 @@ aliases:
  - /data-sim/
  - /datasim/
 hero:
-  title: 'Callvoip internet: snel en betrouwbaar'
+  title: 'Callvoip data-SIMs: direct een tijdelijke internetoplossing'
   content: |-
-    In elk bedrijf is een stabiele internetverbinding noodzakelijk. Om überhaupt te werken is het simpelweg onmisbaar met de vele cloud toepassingen, e-mail, videovergaderen en natuurlijk om te bellen.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>
+    Heb je een internetstoring die niet snel kan worden opgelost, en zoek je een tijdelijk alternatief? Callvoip kan je voorzien van een data-SIM zodat je snel weer online bent. Een ideale match met bv de FRITZBox 6850.<br><br><a href="https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf" target="_blank" class="button">Internet aanvragen</a>
   image: "/v1604049415/internet-happy_pfics8.png"
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'De internetverbinding van nu en de toekomst loopt door een glasvezelkabel. Snel, betrouwbaar en up- en downloadsnelheden zijn gelijk. Maar met Callvoip internet bieden we op elk adres een goede verbinding, ook als bij jou de glasvezelkabel nog niet ligt. De beproefde DSL is vrijwel altijd beschikbaar en biedt veelal ook voldoende snelheid. Liever via de Ziggo kabel online? Regelen we voor je. En voor locaties in het buitengebied hebben we zelfs een 4G verbindingen die overal en altijd werken.'
+- content: 'Internet via een data-SIM werkt overal en vaak net zo snel als de internetverbinding die je gewend bent thuis! Dat maakt een data-SIM een fijne oplossing als je onverwachts wordt geplaagd door een internetstoring. Vooral als die wat langer duurt! We kunnen je snel voorzien van een complete oplossing: een SIM kaart met het gewenste abonnement. Fijn is dat je geen lange looptijd hebt, je kunt het abonnement dus weer opzeggen als het niet meer nodig is. Naast de SIM kunnen we je ook voorzien van een FRITZBox waar we de SIM al in plaatsen. Je hoeft dan alleen nog maar de stekker in het stopcontact te doen en je kunt weer aan de slag.'
   image: "/v1600956804/internet-max_p0ugq5.png"
   zooming: true
   position: image_left
-  title: 'Compleet aanbod: DSL, glasvezel, 4g en kabel'
+  title: 'Precies de internetverbinding die jij nodig hebt'
   image_position: center
 textblocksfooter:
 - title1: Callvoip Glasvezel
