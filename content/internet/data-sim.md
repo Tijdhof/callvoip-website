@@ -1,5 +1,5 @@
 ---
-title: 'Callvoip DATA Sim'
+title: 'Callvoip DATA SIM'
 description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service of internationaal.'
 type: page
 layout: default2
@@ -26,9 +26,9 @@ textblocksfooter:
 - title1: Callvoip Glasvezel
   content1: 'Met een (FTTH - Fiber to the Home) glasvezelverbinding bieden we een eigen lijn en een stabiele snelheid die klaar is voor de toekomst. De upload- en downloadsnelheid zijn gelijk en hoge snelheden tot 1 Gbps zijn mogelijk. Met de combinatie van onze telefonie en een internetverbinding profiteer je van 1 aanspreekpunt dat alles voor je regelt.
   <div class="mb-8 bg-white rounded-lg py-8 px-6">
-            <h4 class="text-lg lg:text-2xl font-medium mb-2">Glasvezel</h4>
+            <h4 class="text-lg lg:text-2xl font-medium mb-2">Data SIM</h4>
 
-            <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Snelheden</h5>
+            <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Databundel p/mnd</h5>
 
             <div id="monthly">
               <div id="basic-fields-monthly">
@@ -36,9 +36,9 @@ textblocksfooter:
   
   <div class="flex mb-1">
     
-    <div class="flex-1 px-2">tot 50 Mb/s</div>
+    <div class="flex-1 px-2">1 GB</div>
     
-    <div class="">€&nbsp;45,- per maand</div>
+    <div class="">€&nbsp;10,- per maand</div>
     
   </div>
   
@@ -46,33 +46,33 @@ textblocksfooter:
   
   
   
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">tot 100 Mb/s</div>
-    
-    <div class="">€&nbsp;49,- per maand</div>
-    
   </div>
 <div class="flex mb-1">
     
-    <div class="flex-1 px-2">tot 200 Mb/s</div>
+    <div class="flex-1 px-2">10 GB</div>
     
-    <div class="">€&nbsp;55,- per maand</div>
+    <div class="">€&nbsp;19,- per maand</div>
+    
+  </div>
+<div class="flex mb-1">
+    
+    <div class="flex-1 px-2">25 GB</div>
+    
+    <div class="">€&nbsp;30,- per maand</div>
     
   </div>
 
 <div class="flex mb-1">
     
-    <div class="flex-1 px-2">tot 500 Mb/s</div>
+    <div class="flex-1 px-2">50 GB</div>
     
-    <div class="">€&nbsp;65,- per maand</div>
+    <div class="">€&nbsp;35,- per maand</div>
     
   </div><div class="flex mb-1">
     
-    <div class="flex-1 px-2">tot 1 Gb/s</div>
+    <div class="flex-1 px-2">100 GB</div>
     
-    <div class="">€&nbsp;69,- per maand</div>
+    <div class="">€&nbsp;50,- per maand</div>
     
   </div>
   <div class="flex mb-1">
