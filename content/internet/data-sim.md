@@ -24,7 +24,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Callvoip Data-SIMs
-  content1: 'Storing, backup, buitengebied of 4G op je tablet? Snel (tijdelijk) internet met een data-SIM.
+  content1: 'Storing, backup, buitengebied of 4G op je tablet?<br>Snel (tijdelijk) internet met een data-SIM.
   <div class="mb-8 bg-white rounded-lg py-8 px-6">
             <h4 class="text-lg lg:text-2xl font-medium mb-2">Data SIM</h4>
 
