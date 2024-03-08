@@ -103,82 +103,15 @@ textblocksfooter:
               </a>
             </div>
           </div>'
-  title2: Callvoip DSL
-  content2: 'De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.<br><br>
-    <div class="mb-8 bg-white rounded-lg py-8 px-6">
-            <h4 class="text-lg lg:text-2xl font-medium mb-2">DSL</h4>
+  title2: Overige punten
+  content2: 'Betaling:<br>
+Is altijd per volle kalendermaand, gefactureerd aan het begin van de maand.<br><br>
 
-            <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Techniek soort</h5>
-
-            <div id="monthly">
-              <div id="basic-fields-monthly">
-  
-  
-  <div class="flex mb-1">
-    
-    <div class="flex-1 px-2">ADSL</div>
-    
-    <div class="">€&nbsp;30,- per maand</div>
-    
-  </div>
-  
-  
-  
-  
-  
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">VDSL</div>
-    
-    <div class="">€&nbsp;35,- per maand</div>
-    
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">VVDSL</div>
-    
-    <div class="">€&nbsp;35,- per maand</div>
-    
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">VPLUS</div>
-    
-    <div class="">€&nbsp;45,- per maand</div>
-    
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">Bonded VDSL</div>
-    
-    <div class="">€&nbsp;55,- per maand</div>
-    
-  </div>
-  <div class="flex mb-1">
-<div class="flex-1 px-2"></div>
-<div class="">Prijzen zijn excl. BTW</div>
-</div>
-              
-              <div id="total-fields-monthly">
-  <div class="flex mb-">
-  <div class="w-6">
-    &nbsp;
-  </div>
-  
-  
-  </div>
-  </div>
-            </div>
-
-            
-            
-            <div class="mt-4">
-              <a href="/offerte" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                Offerte aanvragen
-              </a>
-            </div>
-          </div>'
+Opzegtermijn:<br>
+Een data simkaart loopt per kalendermaand. Koop je deze op de 20ste, dan betaal je een volle maand vanaf de 20ste tot het einde van die maand. Opzeggen kan gedurende de gehele maand.
+<br><br>
+Meerverbruik:<br>
+€ 1,50 per GB buiten je bundel (excl. BTW)'
 images: []
 hideinsearch: false
 hideingoogle: false
