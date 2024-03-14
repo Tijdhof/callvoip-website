@@ -115,7 +115,7 @@ textblocksfooter:
           </div>'
   title2: Overige punten
   content2: '<div class="usp-list">
-  <ul>
+  <ul style="font-size: smaller;">
     <li>Het data-SIM abonnement start en eindigt per hele kalendermaand.</li>
     <li>
       Het data-SIM abonnement heeft een opzegtermijn van 1 maand.<br>
