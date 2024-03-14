@@ -108,7 +108,7 @@ textblocksfooter:
             
             
             <div class="mt-4">
-              <a href="/offerte" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
+              <a href="https://www.callvoip.nl/aanvragen/data-sim/" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
                 Offerte aanvragen
               </a>
             </div>
