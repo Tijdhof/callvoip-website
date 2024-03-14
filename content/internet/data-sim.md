@@ -13,7 +13,7 @@ menu:
     name: Callvoip data-SIM
     weight: 4
     parent: Internet
-    pre: Storing, backup, buitengebied of 4G op je tablet? Snel (tijdelijk) internet met een data-SIM
+    pre: Storing, backup of buitengebied? Direct internet via een data-SIM
     post: fa-wifi
 
 hero:
