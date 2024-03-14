@@ -144,7 +144,7 @@ textblocksfooter:
       Bij gebruik van data buiten de bundel geldt een prijs van €2,50 ex BTW per GB buiten de bundel.
     </li>
     <li>
-      Het is mogelijk om tussentijds de databundel te wijzigen, gebruik het wijzigingsformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a><p style="margin-left:10px;margin-bottom:0px;">De wijziging wordt dan naar verwachting dezelfde of dezelfde werkdag uitgevoerd.</p>
+      Het is mogelijk om tussentijds de databundel te wijzigen, gebruik het wijzigingsformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.<p style="margin-left:10px;margin-bottom:0px;">De wijziging wordt dan naar verwachting dezelfde of dezelfde werkdag uitgevoerd.</p>
     </li>
     <li>
       Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.
