@@ -64,6 +64,14 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
+{{< form/select "Wilt u een vast IP adres?" >}}
+
+{{< form/option "Ja, met vast IP" >}}
+
+{{< form/option "Nee, zonder vast IP" >}}
+
+{{</ form/select >}}
+
 {{< form/input "Wensdatum" >}}
 
 {{< form/textarea "Opmerkingen" >}}
