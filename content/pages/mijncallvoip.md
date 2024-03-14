@@ -105,6 +105,8 @@ usps:
     items:
     - title:  Callvoip Business internet
       link: "/opzeggen/internet-callvoip/"
+    - title:  Callvoip Data-SIM
+      link: "/opzeggen/data-sim/"
   - title: Integratie
     items:
     - title: Vast Mobiel (Vamos)
