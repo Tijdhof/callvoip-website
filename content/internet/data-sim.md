@@ -28,7 +28,10 @@ textblocksfooter:
   <div class="mb-8 bg-white rounded-lg py-8 px-6">
             <h4 class="text-lg lg:text-2xl font-medium mb-2">Data SIM</h4>
 
-            <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Databundel p/mnd</h5>
+            <div class="flex mb-1">
+<div class="flex-1"><h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Databundel p/mnd</h5></div>
+<div class=""><h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Prijzen p/mnd</h5></div>
+</div>
 
             <div id="monthly">
               <div id="basic-fields-monthly">
@@ -38,7 +41,7 @@ textblocksfooter:
     
     <div class="flex-1 px-2">1 GB</div>
     
-    <div class="">€&nbsp;10,- per maand</div>
+    <div class="">€&nbsp;10,-</div>
     
   </div>
   
@@ -51,14 +54,14 @@ textblocksfooter:
     
     <div class="flex-1 px-2">10 GB</div>
     
-    <div class="">€&nbsp;19,- per maand</div>
+    <div class="">€&nbsp;19,-</div>
     
   </div>
 <div class="flex mb-1">
     
     <div class="flex-1 px-2">25 GB</div>
     
-    <div class="">€&nbsp;30,- per maand</div>
+    <div class="">€&nbsp;30,-</div>
     
   </div>
 
@@ -66,13 +69,20 @@ textblocksfooter:
     
     <div class="flex-1 px-2">50 GB</div>
     
-    <div class="">€&nbsp;35,- per maand</div>
+    <div class="">€&nbsp;35,-</div>
     
   </div><div class="flex mb-1">
     
     <div class="flex-1 px-2">100 GB</div>
     
-    <div class="">€&nbsp;50,- per maand</div>
+    <div class="">€&nbsp;50,-</div>
+    
+  </div>
+<div class="flex mb-1">
+    
+    <div class="flex-1 px-2">200 GB</div>
+    
+    <div class="">€&nbsp;60,-</div>
     
   </div>
   <div class="flex mb-1">
