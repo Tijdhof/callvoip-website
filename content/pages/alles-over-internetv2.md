@@ -185,7 +185,7 @@ menu:
     name: Callvoip internet
     weight: 1
     parent: Internet
-    pre: Snel en betrouwbaar internet via glasvezel of DSL
+    pre: Storing, backup, buitengebied of 4G op je tablet? Snel (tijdelijk) internet met een data-SIM
     post: fa-wifi
 
 ---
