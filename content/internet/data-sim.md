@@ -114,14 +114,33 @@ textblocksfooter:
             </div>
           </div>'
   title2: Overige punten
-  content2: '<b>Betaling:</b><br>
-Is altijd per volle kalendermaand, gefactureerd aan het begin van de maand.<br><br>
-
-<b>Opzegtermijn:</b><br>
-Een data simkaart loopt per kalendermaand. Koop je deze op de 20ste, dan betaal je een volle maand vanaf de 20ste tot het einde van die maand. Opzeggen kan gedurende de gehele maand.
-<br><br>
-<b>Meerverbruik:</b><br>
-€ 1,50 per GB buiten je bundel (excl. BTW)'
+  content2: '<div class="usp-list">
+  <ul>
+    <li>Het data-SIM abonnement start en eindigt per hele kalendermaand.</li>
+    <li>
+      Het data-SIM abonnement heeft een opzegtermijn van 1 maand.<br>
+      <ul class="sub-list">
+        <p style="margin-left:10px">Na opzegging eindigt het abonnement aan het einde van de daarop volgende kalendermaand.</p>
+      </ul>
+    </li>
+    <li>
+      Bij gebruik van data buiten de bundel geldt een prijs van €2,50 ex BTW per GB buiten de bundel.
+    </li>
+    <li>
+      Het is mogelijk om tussentijds de databundel te wijzigen, gebruik het wijzigingsformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a><p style="margin-left:10px">De wijziging wordt dan naar verwachting dezelfde of dezelfde werkdag uitgevoerd.</p>
+    </li>
+    <li>
+      Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.
+<p style="margin-left:10px">U ontvangt een bevestiging.</p>
+    </li>
+    <li>Het data-SIM abonnement wordt geleverd met fysieke SIM-kaart.</li>
+    <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
+    <li>De APN settings voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
+    <li>
+      Klik <a href="https://www.odido.nl/netwerk/dekking" target="_blank">hier</a> om de Odido 4G dekkingskaart te bezoeken.
+    </li>
+  </ul>
+</div>'
 images: []
 hideinsearch: false
 hideingoogle: false
