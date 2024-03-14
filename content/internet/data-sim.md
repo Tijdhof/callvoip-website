@@ -8,6 +8,14 @@ url: /internet/data-sim/
 aliases:
  - /data-sim/
  - /datasim/
+menu:
+  main:
+    name: Callvoip data-SIM
+    weight: 4
+    parent: Internet
+    pre: Storing, backup, buitengebied of 4G op je tablet? Snel (tijdelijk) internet met een data-SIM
+    post: fa-wifi
+
 hero:
   title: 'Callvoip data-SIMs: direct een tijdelijke internetoplossing'
   content: |-
