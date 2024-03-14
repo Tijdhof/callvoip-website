@@ -136,7 +136,6 @@ textblocksfooter:
     <li>Het data-SIM abonnement start en eindigt per hele kalendermaand.</li>
     <li>
       Het data-SIM abonnement heeft een opzegtermijn van 1 maand.<br>Na opzegging eindigt het abonnement aan het einde van de daarop volgende kalendermaand.
-      </ul>
     </li>
     <li>
       Bij gebruik van data buiten de bundel geldt een prijs van €2,50 ex BTW per GB buiten de bundel.
