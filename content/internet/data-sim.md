@@ -93,6 +93,15 @@ textblocksfooter:
     <div class="">€&nbsp;60,-</div>
     
   </div>
+
+  <div class="flex mb-1">
+    
+    <div class="flex-1 px-2">Vast IP adres</div>
+    
+    <div class="">€&nbsp;10,-</div>
+    
+  </div>
+  
   <div class="flex mb-1">
 <div class="flex-1 px-2"></div>
 <div class="">Prijzen zijn excl. BTW</div>
