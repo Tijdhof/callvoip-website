@@ -135,20 +135,17 @@ textblocksfooter:
   <ul style="font-size: smaller;">
     <li>Het data-SIM abonnement start en eindigt per hele kalendermaand.</li>
     <li>
-      Het data-SIM abonnement heeft een opzegtermijn van 1 maand.<br>
-      <ul class="sub-list" style="margin-bottom:0px;">
-        <p style="margin-left:10px;margin-bottom:0px;">Na opzegging eindigt het abonnement aan het einde van de daarop volgende kalendermaand.</p>
+      Het data-SIM abonnement heeft een opzegtermijn van 1 maand.<br>Na opzegging eindigt het abonnement aan het einde van de daarop volgende kalendermaand.
       </ul>
     </li>
     <li>
       Bij gebruik van data buiten de bundel geldt een prijs van €2,50 ex BTW per GB buiten de bundel.
     </li>
     <li>
-      Het is mogelijk om tussentijds de databundel te wijzigen, gebruik het wijzigingsformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.<p style="margin-left:10px;margin-bottom:0px;">De wijziging wordt dan naar verwachting dezelfde of dezelfde werkdag uitgevoerd.</p>
+      Het is mogelijk om tussentijds de databundel te wijzigen, gebruik het wijzigingsformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.<br>De wijziging wordt dan naar verwachting dezelfde of dezelfde werkdag uitgevoerd.
     </li>
     <li>
-      Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.
-<p style="margin-left:10px;margin-bottom:0px;">U ontvangt een bevestiging.</p>
+      Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>. U ontvangt een bevestiging.
     </li>
     <li>Het data-SIM abonnement wordt geleverd met fysieke SIM-kaart.</li>
     <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
