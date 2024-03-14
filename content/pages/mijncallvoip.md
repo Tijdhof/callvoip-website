@@ -28,7 +28,7 @@ usps:
     - title: Splitsing 10-blok
       link: "/aanvragen/splitsing-10-blok/"
   - title: Internet
-    items:
+    items: 
     - title: Callvoip Business DSL
       link: https://files.callvoip.nl/downloads/callvoip-adsl-vdsl_aanvraagformulier.pdf
     - title: Callvoip FTTH Glasvezel
@@ -39,6 +39,8 @@ usps:
       link: https://www.ziggo.nl/zakelijk/stel-samen
     - title: Ziggo Zakelijk Internet Pro - Portal
       link: https://www.ziggo.nl/zakelijk/internet/pro/bestellen
+    - title: Callvoip Data-SIM
+      link: "/aanvragen/data-sim/"
   - title: <div id="wijzigen">Integratie</div>
     items:
     - title: Vast Mobiel (Vamos)
