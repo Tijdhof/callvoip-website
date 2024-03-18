@@ -48,19 +48,19 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Welke data bundel heb je nodig?" >}}
 
-{{< form/select "Databundel in Gb's" >}}
+{{< form/select "Databundel in Gb's (prijs ex BTW per maand)" >}}
 
-{{< form/option "1 Gb (10,- ex BTW per maand)" >}}
+{{< form/option "1 Gb (10,-)" >}}
 
-{{< form/option "10 Gb (19,- ex BTW per maand)" >}}
+{{< form/option "10 Gb (19,-)" >}}
 
-{{< form/option "25 Gb (30,- ex BTW per maand)" >}}
+{{< form/option "25 Gb (30,-)" >}}
 
-{{< form/option "50 Gb (35,- ex BTW per maand)" >}}
+{{< form/option "50 Gb (35,-)" >}}
 
-{{< form/option "100 Gb (50,- ex BTW per maand)" >}}
+{{< form/option "100 Gb (50,-)" >}}
 
-{{< form/option "200 Gb (60,- ex BTW per maand)" >}}
+{{< form/option "200 Gb (60,-)" >}}
 
 {{</ form/select >}}
 
