@@ -46,7 +46,7 @@ textblocksfooter:
   
   <div class="flex mb-1">
     
-    <div class="flex-1 px-2">1 GB</div>
+    <div class="flex-1 px-2">1 Gb</div>
     
     <div class="">€&nbsp;10,-</div>
     
@@ -59,14 +59,14 @@ textblocksfooter:
   </div>
 <div class="flex mb-1">
     
-    <div class="flex-1 px-2">10 GB</div>
+    <div class="flex-1 px-2">10 Gb</div>
     
     <div class="">€&nbsp;19,-</div>
     
   </div>
 <div class="flex mb-1">
     
-    <div class="flex-1 px-2">25 GB</div>
+    <div class="flex-1 px-2">25 Gb</div>
     
     <div class="">€&nbsp;30,-</div>
     
@@ -74,20 +74,20 @@ textblocksfooter:
 
 <div class="flex mb-1">
     
-    <div class="flex-1 px-2">50 GB</div>
+    <div class="flex-1 px-2">50 Gb</div>
     
     <div class="">€&nbsp;35,-</div>
     
   </div><div class="flex mb-1">
     
-    <div class="flex-1 px-2">100 GB</div>
+    <div class="flex-1 px-2">100 Gb</div>
     
     <div class="">€&nbsp;50,-</div>
     
   </div>
 <div class="flex mb-1">
     
-    <div class="flex-1 px-2">200 GB</div>
+    <div class="flex-1 px-2">200 Gb</div>
     
     <div class="">€&nbsp;60,-</div>
     
@@ -125,7 +125,7 @@ textblocksfooter:
             
             <div class="mt-4">
               <a href="https://www.callvoip.nl/aanvragen/data-sim/" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                Bestel jouw Data-SIM
+                Gelijk jouw Data-SIM bestellen
               </a>
             </div>
           </div>'
@@ -140,7 +140,7 @@ textblocksfooter:
       Bij gebruik van data buiten de bundel geldt een prijs van €2,50 ex BTW per GB buiten de bundel.
     </li>
     <li>
-      Het is mogelijk om tussentijds de databundel te wijzigen, gebruik het wijzigingsformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.<br>De wijziging wordt dan naar verwachting dezelfde of dezelfde werkdag uitgevoerd.
+      Het is mogelijk om tussentijds de databundel te wijzigen, gebruik het wijzigingsformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>.<br>De wijziging wordt dan naar verwachting dezelfde of de volgende werkdag uitgevoerd.
     </li>
     <li>
       Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>. U ontvangt een bevestiging.
