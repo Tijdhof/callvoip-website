@@ -1,5 +1,5 @@
 ---
-title: Data-SIM (offerte) aanvragen
+title: Data-SIM aanvragen
 url: "/aanvragen/data-sim/"
 hideinsearch: false
 hideingoogle: false
