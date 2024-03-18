@@ -68,7 +68,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/option "Nee, zonder vast IP-adres" >}}
 
-{{< form/option "Ja, met vast IP-adres" >}}
+{{< form/option "Ja, met vast IP-adres (meerprijs 10,- ex BTW p/mnd)" >}}
 
 {{</ form/select >}}
 
