@@ -46,33 +46,33 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Welke data bundel heeft u nodig?" >}}
+{{< form/fieldset "Welke data bundel heb je nodig?" >}}
 
-{{< form/select "Databundel in GB's" >}}
+{{< form/select "Databundel in Gb's" >}}
 
-{{< form/option "1 GB" >}}
+{{< form/option "1 Gb" >}}
 
-{{< form/option "10 GB" >}}
+{{< form/option "10 Gb" >}}
 
-{{< form/option "25 GB" >}}
+{{< form/option "25 Gb" >}}
 
-{{< form/option "50 GB" >}}
+{{< form/option "50 Gb" >}}
 
-{{< form/option "100 GB" >}}
+{{< form/option "100 Gb" >}}
 
-{{< form/option "Unlimitted" >}}
-
-{{</ form/select >}}
-
-{{< form/select "Wilt u een vast IP adres?" >}}
-
-{{< form/option "Ja, met vast IP" >}}
-
-{{< form/option "Nee, zonder vast IP" >}}
+{{< form/option "Unlimited" >}}
 
 {{</ form/select >}}
 
-{{< form/input "Wensdatum" >}}
+{{< form/select "Wilt je een data-SIM abonnement met een vast IP adres?" >}}
+
+{{< form/option "Nee, zonder vast IP-adres" >}}
+
+{{< form/option "Ja, met vast IP-adres" >}}
+
+{{</ form/select >}}
+
+{{< form/input "Startdatum (NB: het abonnement loopt per gehele kalendermaand of deel daarvan)" >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
