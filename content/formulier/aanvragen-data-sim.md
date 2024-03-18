@@ -72,7 +72,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/input "Startdatum (NB: het abonnement loopt per gehele kalendermaand of deel daarvan)" >}}
+{{< form/input "Startdatum (NB: abonnement wordt gefactureerd per hele kalendermaand)" >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
