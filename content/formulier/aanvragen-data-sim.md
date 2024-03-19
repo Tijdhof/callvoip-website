@@ -50,7 +50,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/select "Databundel in Gb's (prijs ex BTW per maand)" >}}
 
-{{< form/option "1 Gb (10,-)" >}}
+{{< form/option "1 Gb (10.50)" >}}
 
 {{< form/option "10 Gb (19,-)" >}}
 
@@ -72,7 +72,16 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
+
 {{< form/input "Startdatum (NB: abonnement wordt gefactureerd per hele kalendermaand)" >}}
+
+{{</ form/select >}}
+
+{{< form/select "Er zijn eenmalige kosten verbonden bij het aanvragen van een Data-SIM" >}}
+
+{{< form/option "De eenmalige kosten bedraagd 25,-" >}}
+
+{{</ form/select >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
