@@ -50,7 +50,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/select "Databundel in Gb's (prijs ex BTW per maand)" >}}
 
-{{< form/option "1 Gb (10.50)" >}}
+{{< form/option "1 Gb (10,-)" >}}
 
 {{< form/option "10 Gb (19,-)" >}}
 
