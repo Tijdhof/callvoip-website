@@ -75,9 +75,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Startdatum (NB: abonnement wordt gefactureerd per hele kalendermaand)" >}}
 
-{{< form/select name="agree" label="Er zijn eenmalige kosten verbonden bij het aanvragen van een Data-SIM" required="true" >}}
-  {{< form/option value="agree" selected="true" >}}Ik ga akkoord met de eenmalige kosten van €25,-{{< /form/option >}}
-{{< /form/select >}}
+{{< form/checkbox name="agree" label="Ik ga akkoord met de eenmalige kosten van €25,-" required >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
