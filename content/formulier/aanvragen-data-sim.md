@@ -77,7 +77,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/radiogroup "De eenmalige kosten van een Data-SIM bedraagd 25,- ex BTW" "inline" required >}} {{< form/radio "Ik ga akkoord met de eenmalige kosten (25,- ex BTW)" "De eenmalige kosten van een Data-SIM bedraagd 25,- ex BTW" >}} {{</ form/radiogroup >}}
 
-{{< form/radiogroup "Wil je extra informatie ontvangen over het combineren van de Data-SIM met een voor ingestelde FRITZ!Box 6850?" "inline" required >}} {{< form/radio "Ja vertel mij meer" "Wil je extra informatie ontvangen over het combineren van de Data-SIM met een voor ingestelde FRITZ!Box 6850?" >}} {{< form/radio "Nee, geen interesse" "Wil je extra informatie ontvangen over het combineren van de Data-SIM met een voor ingestelde FRITZ!Box 6850?" >}} {{</ form/radiogroup >}}
+{{< form/radiogroup "Wil je meer weten over het gebruik van een Data-SIM met een FRITZ!Box 6850?" "inline" required >}} {{< form/radio "Ja vertel mij meer" "Wil je meer weten over het gebruik van een Data-SIM met een FRITZ!Box 6850?" >}} {{< form/radio "Nee, geen interesse" "Wil je meer weten over het gebruik van een Data-SIM met een FRITZ!Box 6850?" >}} {{</ form/radiogroup >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
