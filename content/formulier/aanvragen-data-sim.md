@@ -75,7 +75,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/input "Startdatum (NB: abonnement wordt gefactureerd per hele kalendermaand)" >}}
 
-{{< form/checkbox name="agree" label="Ik ga akkoord met de eenmalige kosten van €25,-" required >}}
+{{< form/radiogroup "De eenmalige kosten van een Data-SIM bedraagd 25,- ex BTW" "inline" required >}} {{< form/radio "Ik ga akkoord met de eenmalige kosten (25,- ex BTW)" "De eenmalige kosten van een Data-SIM bedraagd 25,- ex BTW" >}} {{</ form/radiogroup >}}
 
 {{< form/textarea "Opmerkingen" >}}
 
