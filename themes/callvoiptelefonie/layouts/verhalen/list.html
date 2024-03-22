@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article>
-  {{ range first 1 (where (where .Site.Pages.ByDate.Reverse "Type" "nieuws") "Params.featured" true) }}
+  {{ range first 1 (where (where .Site.Pages.ByDate.Reverse "Type" "verhaal") "Params.featured" true) }}
   {{- partial "components/post-featured.html" . -}}
   {{ end }}
   <div class="flex flex-col-reverse md:flex-col">
