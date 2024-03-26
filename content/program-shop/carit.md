@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM CarIT aan onze telefonie"
 shorttitle: "CarIT"
 date: 2021-06-03T16:52:17+05:00
-logo: "/carit.png"
+logo: "/carit-logo.png"
 description: Door het koppelen van CarIT CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
