@@ -24,6 +24,8 @@ button:
   link: /marketplace/
 categories:
   - Zorg
+  - Huisartsen
+  - Medisch
 weight: 10
 url: /marketplace/pharmacom/
 aliases: /program-shop/pharmacom/
