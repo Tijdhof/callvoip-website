@@ -1,12 +1,12 @@
 ---
 title: Hoe Callvoip rust brengt op de winkelvloer bij EP Heerlen
 images:
-  - image: https://res.cloudinary.com/callvoip/image/upload/v1711445809/EP-zijlstra.png
+  - image: /v1711445809/EP-zijlstra.png
 featured: true
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: https://res.cloudinary.com/callvoip/image/upload/v1711445432/EP-heerlen.png
+image_uitgelicht: /v1711445432/EP-heerlen.png
 hero:
   disable_image_on_mobile: false
 date: 2024-03-26T09:29:05.611Z
