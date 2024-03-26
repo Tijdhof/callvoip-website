@@ -10,7 +10,7 @@ hero:
   title: Simplicate + slimme telefonie
   content: '<div class="usp-list"><ul><li>Slimme pop-up van elk gesprek</li><li>Direct
     de klantgegevens in beeld</li><li>Werk efficiënter</li></ul></div>Het CRM platform Simplicate is een systeem gericht op workflow en planning. Meer specifiek op excellente communicatie met hun klanten. Email, chat, Whatsapp en natuurlijk hoort daar ook telefonie bij! En daar komt Callvoip om de hoek kijken: koppel jouw Simplicate nu aan onze telefonie en profiteer van het gemak en de efficiëntie.<br><br><a href="/marketplace/Simplicate/" class="button">Meer informatie</a>'
-  image: "/v1622801300/simplicatelogo_gz71le.png"
+  image: "/v1622801300/simplicate-new.png"
   zooming: true
   image_position: center
   disable_image_on_mobile: false
