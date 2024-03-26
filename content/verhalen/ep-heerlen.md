@@ -12,6 +12,7 @@ hero:
 date: 2024-03-26T09:29:05.611Z
 url: /succesverhalen/ep-heerlen/
 type: verhaal
+
 ---
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1711445809/EP-zijlstra.png"><br><br>
 In het centrum van Heerlen ligt EP Heerlen, een elektronicawinkel die bekend staat om zijn uitstekende klantenservice en kwaliteitsproducten. Tijdens een recent gesprek met Sam, een ambassadeur van Callvoip en bevriend met 1 van de managers, ontdekten wij hoe ze bij EP Heerlen een bron van rust en efficiëntie hebben gevonden in de drukte van de winkelvloer, dankzij de implementatie van Callvoip.
