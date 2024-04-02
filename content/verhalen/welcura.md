@@ -9,7 +9,8 @@ hidesocialshare: false
 hero:
   disable_image_on_mobile: false
 date: 2024-03-26T09:29:05.611Z
-url: /succesverhalen/welcure/
+url: /succesverhalen/welcura/
+aliases: /succesverhalen/welcure/
 type: verhaal
 
 ---
