@@ -2,7 +2,7 @@
 shorttitle: "Afas Profit"
 title: "Wij koppelen jouw CRM Afas Profit aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/afas_profit_krjfq7.png"
+logo: "/afas-profit.png"
 description: Door het koppelen van Afas Profit CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 ontwikkelaar:
