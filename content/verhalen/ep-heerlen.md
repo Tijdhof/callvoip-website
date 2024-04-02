@@ -1,7 +1,7 @@
 ---
 title: Hoe Callvoip rust brengt op de winkelvloer bij EP Zijlstra
 images:
-- "/v1711445809/EP-zijlstra.png"
+- "/v1711445809/ep_zijlstra_heerlerheide.jpg"
 featured: true
 hideinsearch: false
 hideingoogle: false
