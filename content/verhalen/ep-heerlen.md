@@ -37,7 +37,7 @@ Links staan de apps die je met drag and drop naar rechts kunt slepen.
 Rechts staat het belplan, dat in één oogopslag kan worden gelezen.
 Er is een automatisch feestdagenfilter met een gepersonaliseerde gesloten-tekst
 Gedurende werkdagen en -tijden wordt de beller begroet, aangenomen aan de toestellen en bij geen gehoor in de wachtrij geplaatst
-Buiten werktijden is er een gesloten tekst met een emailnotificatie met de datum, tijd en nummers van de bellers<br>
+Buiten werktijden is er een gesloten tekst met een emailnotificatie met de datum, tijd en nummers van de bellers<br><br>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1712042017/belplan-EP.png">
 
 
