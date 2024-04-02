@@ -26,5 +26,14 @@ Het systeem bood meer dan ze aanvankelijk dachten. Met Callvoip konden ze eenvou
 Sam was al eerder enthousiast over Callvoip vanuit zijn eigen bedrijf en stichting waarvoor hij werkzaam is. Het systeem begroet klanten netjes, begeleidt hen door een keuzemenu en informeert hen over wachttijden. 
 
 Voor Sam was het vooral betaalbaarheid en structuur dat Callvoip onderscheidde van andere systemen. "Als je ziet wat je ervoor terugkrijgt, zei hij, is het de investering meer dan waard."
+Het systeem dat voorheen werd gebruikt voorzag niet in de juiste gereedschappen voor het belverkeer bij EP Zijlstra.
+De onrust ontstond door:
+- piekmomenten in het belverkeer
+- langere gesprekken met klanten
+- momenten waarin de telefooncapaciteit even minder is omdat het druk is met fysieke klanten in de winkel
+Toestellen bleven continu rinkelen, zonder duidelijke tekst of instructie voor de klanten, met als resultaat onrust en frustratie bij beide partijen.
+Met de juiste gereedschappen, zoals een slimme wachtrij en de juiste meldingen op de juiste momenten, keerde de rust terug, bij de beller en bij het Team van EP Zijlstra.
 
 Voor EP Heerlen heeft de overstap naar Callvoip niet alleen de efficiëntie verbeterd, maar ook de klantervaring sterk verbeterd. In een omgeving waar tijd en aandacht kostbaar zijn, heeft Callvoip rust gebracht op de winkelvloer. En voor Sam en het team van EP Heerlen is dat een verademing.
+
+
