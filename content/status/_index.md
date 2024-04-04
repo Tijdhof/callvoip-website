@@ -42,23 +42,23 @@ tests:
     error: false
     text: >-
       
-      \*\*Aankondiging ingepland onderhoud:\*\* <br>
+      **Aankondiging ingepland onderhoud:**<br>
 
       Er zal onderhoud worden uitgevoerd op:\
 
       \
 
-      START: vrijadg 05 april 2024 om 23 uur\
+      **START**: vrijdag 5 april 2024 om 23 uur\
 
-      EIND: zaterdag 6 april 2024 om 06 uur\
+      **EIND**: zaterdag 6 april 2024 om 6 uur\
 
       \
 
-      Gedurende het onderhoud kunnen zich korte interrupties van het telefoonverkeer voordoen, en kan het voorkomen dat de toegang tot het beheerpaneel kort niet toegankelijk is. \\
+      Gedurende het onderhoud kunnen zich korte interrupties van het telefoonverkeer voordoen. Ook kan het voorkomen dat de toegang tot het beheerpaneel kort niet toegankelijk is. \\
 
-      <br>
+      <br><br>
 
-      \*\*Inloggen met een extra code (2FA):\*\* <br>
+      **Inloggen met een extra code (2FA):** <br>
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
 
