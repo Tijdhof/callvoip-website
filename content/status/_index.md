@@ -42,9 +42,6 @@ tests:
     error: false
     text: >-
       
-
-      <br>
-
       \*\*Aankondiging ingepland onderhoud:\*\* <br>
 
       Er zal onderhoud worden uitgevoerd op:\
