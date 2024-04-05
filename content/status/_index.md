@@ -64,7 +64,7 @@ tests:
 
       Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. \
 
-      \[H﻿ier ](https://www.callvoip.nl/veilig)vind je meer informatie. 
+      <a href="https://www.callvoip.nl/veilig">H﻿ier</a> vind je meer informatie. 
 
 
       M﻿ocht je meer vragen hebben, neem dan gerust contact op via de telefoon, e-mail of website chat.
