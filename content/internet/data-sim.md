@@ -19,7 +19,7 @@ menu:
 hero:
   title: 'Callvoip data-SIMs: direct een tijdelijke internetoplossing'
   content: |-
-    Heb je een internetstoring die niet snel kan worden opgelost, en zoek je een tijdelijk alternatief? Callvoip kan je voorzien van een data-SIM zodat je snel weer online bent. Een ideale match met bv de FRITZBox 6850.<br><br><a href="https://callvoip.nl/aanvragen/data-sim/" target="_blank" class="button">Data-SIM aanvragen</a>
+    Heb je een internetstoring die niet snel kan worden opgelost, en zoek je een tijdelijk alternatief? Callvoip kan je voorzien van een data-SIM zodat je snel weer online bent. Een ideale match met bv <a href="https://callvoip.shop/lte-modem-router/1105-fritzbox-6850-lte.html" target="_blank">de FRITZBox 6850.</a><br><br><a href="https://callvoip.nl/aanvragen/data-sim/" target="_blank" class="button">Data-SIM aanvragen</a>
   image: "/v1604049415/datasim.png"
   image_position: center
   disable_image_on_mobile: false
