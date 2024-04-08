@@ -52,17 +52,17 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/select "Databundel in Gb's (prijs ex BTW per maand)" >}}
 
-{{< form/option "1 Gb (10,-)" >}}
+{{< form/option "1 Gb (10 EUR)" >}}
 
-{{< form/option "10 Gb (19,-)" >}}
+{{< form/option "10 Gb (19 EUR)" >}}
 
-{{< form/option "25 Gb (30,-)" >}}
+{{< form/option "25 Gb (30 EUR)" >}}
 
-{{< form/option "50 Gb (35,-)" >}}
+{{< form/option "50 Gb (35 EUR)" >}}
 
-{{< form/option "100 Gb (50,-)" >}}
+{{< form/option "100 Gb (50 EUR)" >}}
 
-{{< form/option "200 Gb (60,-)" >}}
+{{< form/option "200 Gb (60 EUR)" >}}
 
 {{</ form/select >}}
 
