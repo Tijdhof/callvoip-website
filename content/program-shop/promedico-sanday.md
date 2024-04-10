@@ -1,6 +1,6 @@
 ---
-title: "Wij koppelen jouw CRM Promedico Sanday aan onze telefonie"
-shorttitle: "Promedico Sanday"
+title: "Wij koppelen jouw CRM Sanday aan onze telefonie"
+shorttitle: "Sanday"
 date: 2021-06-03T16:52:17+05:00
 logo: "/sanday.png"
 description: Door het koppelen van Promedico Sanday CRM aan onze slimme telefonie werk je een stuk efficienter.
@@ -12,7 +12,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Bel automatisch uit vanuit elk programma
   btn:
-    text: Promedico Sanday-koppeling gratis testen?
+    text: Sanday-koppeling gratis testen?
     url: /aanvragen/voip-cti/
 meer_info:
   - title: Support
