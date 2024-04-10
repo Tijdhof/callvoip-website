@@ -1,5 +1,5 @@
 ---
-shorttitle: "Microsoft Power Automate"
+shorttitle: "Power Automate"
 title: "Wij koppelen Microsoft Power Automate gebaseerde CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/MSpower.png"
