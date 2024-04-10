@@ -1,9 +1,9 @@
 ---
-title: "Wij koppelen jouw CRM CarIT aan onze telefonie"
-shorttitle: "CarIT"
+title: "Wij koppelen jouw CRM Audev CarIT aan onze telefonie"
+shorttitle: "Audev CarIT"
 date: 2021-06-03T16:52:17+05:00
 logo: "/carit-logo.png"
-description: Door het koppelen van CarIT CRM aan onze slimme telefonie werk je een stuk efficienter.
+description: Door het koppelen van Audev CarIT CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
   title: Waarom integreren?
@@ -12,7 +12,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Bel automatisch uit vanuit elk programma
   btn:
-    text: CarIT-koppeling gratis testen?
+    text: Audev CarIT-koppeling gratis testen?
     url: /aanvragen/voip-cti/
 meer_info:
   - title: Support
@@ -30,11 +30,11 @@ aliases: /program-shop/carit/
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket CarIT?**<br>
-**CarIT: Dé ERP-Backbone van het moderne autodealerbedrijf.**<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en CRM-pakket Audev CarIT?**<br>
+**Audev CarIT: Dé ERP-Backbone van het moderne autodealerbedrijf.**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip CarIT telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CarIT. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in CarIT staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
+Met de Callvoip Audev CarIT telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CarIT. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in CarIT staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit CarITen kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
