@@ -42,20 +42,6 @@ tests:
     error: false
     text: >-
       
-      **Aankondiging ingepland onderhoud:**<br>
-
-      Er zal onderhoud worden uitgevoerd op:\
-
-      \
-
-      **START**: vrijdag 5 april 2024 om 23 uur\
-
-      **EIND**: zaterdag 6 april 2024 om 6 uur\
-
-      \
-
-      Gedurende het onderhoud kunnen zich korte interrupties van het telefoonverkeer voordoen. Ook kan het voorkomen dat de toegang tot het beheerpaneel kort niet toegankelijk is. \\
-
       <br><br>
 
       **Inloggen met een extra code (2FA):** <br>
