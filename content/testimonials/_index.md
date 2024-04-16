@@ -7,12 +7,5 @@ intro:
     mogen daarbij niet ontbreken.
 hero:
   image: ''
-menu:
-  main:
-    weight: 4
-    parent: Over ons
-  overons:
-    weight: 4
-    Name: Succesverhalen
 
 ---
