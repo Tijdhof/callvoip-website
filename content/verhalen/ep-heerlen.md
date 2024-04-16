@@ -40,7 +40,7 @@ Voor EP Zijlstra heeft de overstap naar Callvoip niet alleen de efficiëntie ver
 ● Buiten werktijden is er een gesloten tekst met een emailnotificatie met de datum, tijd en nummers van de bellers<br><br>
 <br><br><br><br>
 <center><hr width="70%"><h2>Ook meer rust op de werkvloer?</h2>
-Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
+Laat je gegevens achter, dan bellen wij je om meer informatie te geven.<br>Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
           <form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
