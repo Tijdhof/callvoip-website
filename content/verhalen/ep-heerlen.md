@@ -38,12 +38,12 @@ Voor EP Zijlstra heeft de overstap naar Callvoip niet alleen de efficiëntie ver
 ● Er is een automatisch feestdagenfilter met een gepersonaliseerde gesloten-tekst. <br><br>
 ● Gedurende werkdagen en -tijden wordt de beller begroet, aangenomen aan de toestellen en bij geen gehoor in de wachtrij geplaatst.<br><br>
 ● Buiten werktijden is er een gesloten tekst met een emailnotificatie met de datum, tijd en nummers van de bellers<br><br>
-
-<h2>Info</h2>
+<br><br><br><br>
+<center><h2>Info</h2>
 Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
-          <form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+          <form class="mb-6" name="tourformulier" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="tourformulier" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
               <p> <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
@@ -65,10 +65,9 @@ Laat je gegevens achter, dan bellen wij wanneer het jou uitkomt. Of bel ons nu m
                           id="wensenvragen" name="wensenvragen"
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
-              <center><div data-netlify-recaptcha="true"></div></center>
               <br>
               <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
           </form>
       </div>
-  </div>
+  </div></center>
 
