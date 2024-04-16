@@ -32,7 +32,7 @@ Met de juiste gereedschappen, zoals een slimme wachtrij en de juiste meldingen o
 
 Voor EP Zijlstra heeft de overstap naar Callvoip niet alleen de efficiëntie verbeterd, maar ook de klantervaring sterk verbeterd. In een omgeving waar tijd en aandacht kostbaar zijn, heeft Callvoip rust gebracht op de winkelvloer. En voor Sám en het team van EP Zijlstra is dat een verademing.
 
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1712042017/belplan-EP.png" style="float:right;" width="450px"><strong>EP Zijlstra Belplan:</strong><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1712042017/belplan-EP.png" style="float:right;" width="420px"><strong>EP Zijlstra Belplan:</strong><br>
 - Links staan de apps die je met drag and drop naar rechts kunt slepen.<br>
 - Rechts staat het belplan, dat in één oogopslag kan worden gelezen.<br>
 - Er is een automatisch feestdagenfilter met een gepersonaliseerde gesloten-tekst. <br>
