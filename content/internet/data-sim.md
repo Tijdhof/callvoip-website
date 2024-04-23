@@ -93,15 +93,9 @@ textblocksfooter:
     <div class="">€&nbsp;10,-</div>
     
   </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">Eénmalige kosten: 25,- ex BTW</div>
-    
-    <div class="">&nbsp;</div>
-    
-  </div>  
+ 
   <div class="flex mb-1">
-<div class="flex-1 px-2"></div>
+<div class="flex-1 px-2">Eénmalige kosten: 25,- </div>
 <div class="">Prijzen zijn excl. BTW</div>
 </div>
               
