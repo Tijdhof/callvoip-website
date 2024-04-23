@@ -64,21 +64,7 @@ textblocksfooter:
     <div class="">€&nbsp;19,-</div>
     
   </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">25 Gb</div>
-    
-    <div class="">€&nbsp;30,-</div>
-    
-  </div>
-
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">50 Gb</div>
-    
-    <div class="">€&nbsp;35,-</div>
-    
-  </div><div class="flex mb-1">
+  <div class="flex mb-1">
     
     <div class="flex-1 px-2">100 Gb</div>
     
@@ -92,6 +78,13 @@ textblocksfooter:
     <div class="">€&nbsp;60,-</div>
     
   </div>
+<div class="flex mb-1">
+    
+    <div class="flex-1 px-2">500 Gb</div>
+    
+    <div class="">€&nbsp;100,-</div>
+    
+  </div>
 
   <div class="flex mb-1">
     
@@ -100,7 +93,13 @@ textblocksfooter:
     <div class="">€&nbsp;10,-</div>
     
   </div>
-  
+<div class="flex mb-1">
+    
+    <div class="flex-1 px-2">Eénmalige kosten: 25,- ex BTW</div>
+    
+    <div class="">&nbsp;</div>
+    
+  </div>  
   <div class="flex mb-1">
 <div class="flex-1 px-2"></div>
 <div class="">Prijzen zijn excl. BTW</div>
