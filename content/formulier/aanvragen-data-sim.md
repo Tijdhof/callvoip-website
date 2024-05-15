@@ -56,13 +56,11 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/option "10 Gb (19 EUR)" >}}
 
-{{< form/option "25 Gb (30 EUR)" >}}
-
-{{< form/option "50 Gb (35 EUR)" >}}
-
 {{< form/option "100 Gb (50 EUR)" >}}
 
 {{< form/option "200 Gb (60 EUR)" >}}
+
+{{< form/option "500 Gb (100 EUR)" >}}
 
 {{</ form/select >}}
 
