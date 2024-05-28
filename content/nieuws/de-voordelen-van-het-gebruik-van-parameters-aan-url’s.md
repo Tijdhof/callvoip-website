@@ -1,15 +1,18 @@
 ---
 title: "Callvoip Bubble: Creatief met paramaters"
+images:
+  - image: https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
+image_uitgelicht: https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png
 hero:
   disable_image_on_mobile: false
 date: 2024-05-28T08:52:16.894Z
 url: /nieuws/bubble-custom-action
-
 ---
+<img src="[https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png>](https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png)
 
 Door creatief om te gaan met aangepaste URL’s kun je (bedrijfs)processen eenvoudiger maken en versnellen. Of je nu een adres zoekt op Google Maps, een meeting plant via Google Calendar, of klantgegevens zoekt in social media, de mogelijkheden zijn eindeloos. Dit doe je door specifieke parameters aan URL's toe te voegen vanuit je eigen CRM. We vertellen je er graag meer over.\
 \
@@ -39,8 +42,7 @@ Of plan direct een route vanaf je bedrijfspand naar je klant met deze link:<br>h
 <https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email>\
 \
 SMS: Stuur een sms naar het telefoonnummer van een klant.\
-sms:$crm_phonenumber?body=Beste%20$crm_firstname *\
-*Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).\
+sms:$crm_phonenumber?body=Beste%20$crm_firstname Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).\
 \
 Google Translate: Vertaal notities naar een andere taal.\
 <https://translate.google.com/?sl=auto&tl=en&text=$crm_notities>\
