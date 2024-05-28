@@ -29,12 +29,13 @@ Met deze URL kun je automatisch zoeken naar een persoon op LinkedIn door hun voo
 \
 Door de URL en de paramaters te combineren in "Custom Action" van bubble kun je op een creatieve manier knoppen maken die passen bij jouw bedrijf.\
 \
-Andere Voorbeelden\
+<b>Andere Voorbeelden</b>\
 \
 Naast LinkedIn zijn er tal van andere toepassingen waarbij aangepaste URL's nuttig kunnen zijn. Hier zijn enkele voorbeelden:\
 \
-Google Maps: Zoek eenvoudig een bedrijfsadres of andere relevante gegevens.\
+Google Maps: Zoek eenvoudig een bedrijfsadres in Google maps.\
 <https://www.google.com/maps/search/?api=1&query=$crm_address>\
+of gebruik https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_addres zo kan je direct een route plannen vanaf je bedrijfspand naar je klant.
 \
 Google Calendar: Maak een Google Meet aan en nodig de klant direct uit.\
 <https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email>\
