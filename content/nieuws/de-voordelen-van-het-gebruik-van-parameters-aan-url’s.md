@@ -6,7 +6,7 @@ hideingoogle: false
 hidesocialshare: false
 hero:
   disable_image_on_mobile: false
-date: 2024-05-28T08:52:16.894Z
+date: 
 url: /nieuws/bubble-custom-action
 
 ---
