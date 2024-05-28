@@ -41,8 +41,8 @@ Of plan direct een route vanaf je bedrijfspand naar je klant met deze link:<br>h
 <https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email>\
 \
 SMS: Stuur een sms naar het telefoonnummer van een klant.\
-Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).\
-sms:$crm_phonenumber?body=Beste%20$crm_firstname\
+sms:$crm_phonenumber?body=Beste%20$crm_firstname *\
+*Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).\
 \
 Google Translate: Vertaal notities naar een andere taal.\
 <https://translate.google.com/?sl=auto&tl=en&text=$crm_notities>\
