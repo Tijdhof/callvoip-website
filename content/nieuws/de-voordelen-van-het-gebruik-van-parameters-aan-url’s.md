@@ -19,13 +19,13 @@ Door creatief om te gaan met aangepaste URL’s kun je (bedrijfs)processen eenvo
 <b>Een Voorbeeld: LinkedIn Zoekopdracht</b> \
 Een van de functies die we als voorbeeld willen uitlichten, is het zoeken naar klantgegevens binnen LinkedIn, met één druk op de knop. Door klantgegevens uit een CRM-systeem zoals HubSpot te integreren in een URL, kun je snel en eenvoudig relevante profielen op LinkedIn vinden.\
 \
-Een standaard link uit Linkedin ziet er zo uit: <br><https://www.linkedin.com/search/results/all/?keywords=>\
+Een standaard link uit Linkedin ziet er zo uit: <span style="background-color: #f0f0f0;">https://www.linkedin.com/search/results/all/?keywords=</span>\
 \
 Wanneer je handmatig zoekt op LinkedIn, voeg je de zoektermen toe aan deze URL.\
 \
 Wanneer je de parameters vanuit bijvoorbeeld Hubspot zou inladen, ziet de link er als volgt uit:\
 \
-<https://www.linkedin.com/search/results/all/?keywords=$hubspot_firstname%20$hubspot_lastname%20$hubspot_company_name>\
+<span style="background-color: #f0f0f0;">https://www.linkedin.com/search/results/all/?keywords=$hubspot_firstname%20$hubspot_lastname%20$hubspot_company_name</span>\
 \
 Met deze URL kun je automatisch zoeken naar een persoon op LinkedIn door hun voornaam, achternaam en bedrijfsnaam uit HubSpot in te vullen.\
 \
@@ -35,17 +35,16 @@ Door de URL en de paramaters te combineren in "Custom Action" van bubble kun je 
 Naast LinkedIn zijn er tal van andere toepassingen waarbij aangepaste URL's nuttig kunnen zijn. Hier zijn enkele voorbeelden:\
 \
 Google Maps: Zoek eenvoudig een bedrijfsadres in Google Maps.<br>
-Gebruik deze link om een adres te zoeken:<br>https://www.google.com/maps/search/?api=1&query=$crm_address<br>
-Of plan direct een route vanaf je bedrijfspand naar je klant met deze link:<br>https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_address.
-\
+Gebruik deze link om een adres te zoeken:<br><span style="background-color: #f0f0f0;">https://www.google.com/maps/search/?api=1&query=$crm_address</span><br>
+Of plan direct een route vanaf je bedrijfspand naar je klant met deze link:<br><span style="background-color: #f0f0f0;">https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_address</span>.\
 <br>Google Calendar: Maak een Google Meet aan en nodig de klant direct uit.\
-<https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email>\
+<span style="background-color: #f0f0f0;">https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email</span>\
 \
 SMS: Stuur een sms naar het telefoonnummer van een klant.\
-sms:$crm_phonenumber?body=Beste%20$crm_firstname Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).\
+<span style="background-color: #f0f0f0;">sms:$crm_phonenumber?body=Beste%20$crm_firstname</span> Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).\
 \
 Google Translate: Vertaal notities naar een andere taal.\
-<https://translate.google.com/?sl=auto&tl=en&text=$crm_notities>\
+<span style="background-color: #f0f0f0;">https://translate.google.com/?sl=auto&tl=en&text=$crm_notities</span>\
 \
 <b>Zoeken op Social Media</b>\
 Voor het zoeken naar gebruikersnamen op verschillende sociale mediaplatforms kun je aangepaste URL's gebruiken zo kun je zoeken op voor en achternaam. Dit bespaart tijd en verhoogt de efficiëntie door directe toegang te bieden tot de benodigde informatie.\
