@@ -1,5 +1,5 @@
 ---
-title: Callvoip Bubble: Creatief met paramaters
+title: "Callvoip Bubble: Creatief met paramaters"
 featured: false
 hideinsearch: false
 hideingoogle: false
