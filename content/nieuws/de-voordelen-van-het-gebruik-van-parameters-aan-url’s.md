@@ -17,7 +17,7 @@ Door creatief om te gaan met aangepaste URL’s kun je (bedrijfs)processen eenvo
 \
 Een van de functies die we als voorbeeld willen uitlichten, is het zoeken naar klantgegevens binnen LinkedIn, met één druk op de knop. Door klantgegevens uit een CRM-systeem zoals HubSpot te integreren in een URL, kun je snel en eenvoudig relevante profielen op LinkedIn vinden.\
 \
-Een standaard link uit Linkedin ziet er zo uit: <br>https://www.linkedin.com/search/results/all/?keywords=\
+Een standaard link uit Linkedin ziet er zo uit: <br><https://www.linkedin.com/search/results/all/?keywords=>\
 \
 Om er vervolgens een zoekopdracht achter te zien, wanneer je handmatig zoekt op linkedin.\
 \
