@@ -18,7 +18,7 @@ Een van de functies die we als voorbeeld willen uitlichten, is het zoeken naar k
 \
 Een standaard link uit Linkedin ziet er zo uit: <br><https://www.linkedin.com/search/results/all/?keywords=>\
 \
-Om er vervolgens een zoekopdracht achter te zien, wanneer je handmatig zoekt op linkedin.\
+Wanneer je handmatig zoekt op LinkedIn, voeg je de zoektermen toe aan deze URL.\
 \
 Wanneer je de parameters vanuit bijvoorbeeld Hubspot zou inladen, ziet de link er als volgt uit:\
 \
