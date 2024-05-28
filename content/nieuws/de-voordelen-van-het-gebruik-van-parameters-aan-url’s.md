@@ -8,10 +8,12 @@ hero:
   disable_image_on_mobile: false
 date: 2024-05-28T08:52:16.894Z
 url: /nieuws/bubble-custom-action
+
 ---
+
 Door creatief om te gaan met aangepaste URL’s kun je (bedrijfs)processen eenvoudiger maken en versnellen. Of je nu een adres zoekt op Google Maps, een meeting plant via Google Calendar, of klantgegevens zoekt in social media, de mogelijkheden zijn eindeloos. Dit doe je door specifieke parameters aan URL's toe te voegen vanuit je eigen CRM. We vertellen je er graag meer over.\
 \
-Een Voorbeeld: LinkedIn Zoekopdracht\
+<b>Een Voorbeeld: LinkedIn Zoekopdracht</b> \
 \
 Een van de functies die we als voorbeeld willen uitlichten, is het zoeken naar klantgegevens binnen LinkedIn, met één druk op de knop. Door klantgegevens uit een CRM-systeem zoals HubSpot te integreren in een URL, kun je snel en eenvoudig relevante profielen op LinkedIn vinden.\
 \
