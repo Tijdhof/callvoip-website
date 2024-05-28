@@ -53,10 +53,12 @@ Google Translate: Vertaal notities naar een andere taal.<br>
 Voor het zoeken naar gebruikersnamen op verschillende sociale mediaplatforms kun je aangepaste URL's gebruiken zo kun je zoeken op voor en achternaam. Dit bespaart tijd en verhoogt de efficiëntie door directe toegang te bieden tot de benodigde informatie.
 
 <b>Voordelen van Aangepaste URL's</b><br>
-Efficiënt: Snel toegang tot informatie en functionaliteiten zonder handmatige invoer.
-Consistent: Vermindert de kans op fouten door automatische gegevensinvoer.
-Productief: Versnelt dagelijkse taken en bespaart kostbare tijd.
-Integratie: Naadloze integratie met verschillende CRM-systemen en andere bedrijfsapplicaties.
+<ul class="usp-list">
+<li>Efficiënt: Snel toegang tot informatie en functionaliteiten zonder handmatige invoer.</li>
+<li>Consistent: Vermindert de kans op fouten door automatische gegevensinvoer.</li>
+<li>Productief: Versnelt dagelijkse taken en bespaart kostbare tijd.</li>
+<li>Integratie: Naadloze integratie met verschillende CRM-systemen en andere bedrijfsapplicaties.</li>
+</ul>
 
 Nu hebben we hier enkele voorbeelden gegeven. Het staat je natuurlijk helemaal vrij om zelf ook URL’s te bedenken die jou nog meer kunnen helpen.
 
