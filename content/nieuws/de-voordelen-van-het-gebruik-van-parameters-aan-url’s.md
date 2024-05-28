@@ -33,9 +33,9 @@ Door de URL en de paramaters te combineren in "Custom Action" van bubble kun je 
 \
 Naast LinkedIn zijn er tal van andere toepassingen waarbij aangepaste URL's nuttig kunnen zijn. Hier zijn enkele voorbeelden:\
 \
-Google Maps: Zoek eenvoudig een bedrijfsadres in Google maps.\
-<https://www.google.com/maps/search/?api=1&query=$crm_address>\
-of gebruik https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_addres zo kan je direct een route plannen vanaf je bedrijfspand naar je klant.
+Google Maps: Zoek eenvoudig een bedrijfsadres in Google Maps.<br>
+Gebruik deze link om een adres te zoeken: https://www.google.com/maps/search/?api=1&query=$crm_address<br>
+Of plan direct een route vanaf je bedrijfspand naar je klant met deze link: https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_address.
 \
 Google Calendar: Maak een Google Meet aan en nodig de klant direct uit.\
 <https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email>\
