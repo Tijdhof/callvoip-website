@@ -16,7 +16,7 @@ url: /nieuws/bubble-custom-action
 
 Door creatief om te gaan met aangepaste URL’s kun je (bedrijfs)processen eenvoudiger maken en versnellen. Of je nu een adres zoekt op Google Maps, een meeting plant via Google Calendar, of klantgegevens zoekt in social media, de mogelijkheden zijn eindeloos. Dit doe je door specifieke parameters aan URL's toe te voegen vanuit je eigen CRM. We vertellen je er graag meer over.
 
-<b>Een Voorbeeld: LinkedIn Zoekopdracht</b>
+<b>Een Voorbeeld: LinkedIn Zoekopdracht</b><br>
 Een van de functies die we als voorbeeld willen uitlichten, is het zoeken naar klantgegevens binnen LinkedIn, met één druk op de knop. Door klantgegevens uit een CRM-systeem zoals HubSpot te integreren in een URL, kun je snel en eenvoudig relevante profielen op LinkedIn vinden.
 
 Een standaard link uit Linkedin ziet er zo uit:<br>
@@ -31,7 +31,7 @@ Met deze URL kun je automatisch zoeken naar een persoon op LinkedIn door hun voo
 
 Door de URL en de parameters te combineren in "Custom Action" van bubble kun je op een creatieve manier knoppen maken die passen bij jouw bedrijf.
 
-<b>Andere Voorbeelden</b>
+<b>Andere Voorbeelden</b><br>
 Naast LinkedIn zijn er tal van andere toepassingen waarbij aangepaste URL's nuttig kunnen zijn. Hier zijn enkele voorbeelden:
 
 Google Maps: Zoek eenvoudig een bedrijfsadres in Google Maps.
@@ -49,10 +49,10 @@ SMS: Stuur een sms naar het telefoonnummer van een klant.
 Google Translate: Vertaal notities naar een andere taal.
 `https://translate.google.com/?sl=auto&tl=en&text=$crm_notities`
 
-<b>Zoeken op Social Media</b>
+<b>Zoeken op Social Media</b><br>
 Voor het zoeken naar gebruikersnamen op verschillende sociale mediaplatforms kun je aangepaste URL's gebruiken zo kun je zoeken op voor en achternaam. Dit bespaart tijd en verhoogt de efficiëntie door directe toegang te bieden tot de benodigde informatie.
 
-<b>Voordelen van Aangepaste URL's</b>
+<b>Voordelen van Aangepaste URL's</b><br>
 Efficiënt: Snel toegang tot informatie en functionaliteiten zonder handmatige invoer.
 Consistent: Vermindert de kans op fouten door automatische gegevensinvoer.
 Productief: Versnelt dagelijkse taken en bespaart kostbare tijd.
