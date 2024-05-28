@@ -1,12 +1,12 @@
 ---
 title: "Callvoip Bubble: Creatief met parameters"
 images:
-  - image: https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png
+  - image: /v1716898773/linkedin-popup.png
 featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png
+image_uitgelicht: /v1716898773/linkedin-popup.png
 hero:
   disable_image_on_mobile: false
 date: 2024-05-28T08:52:16.894Z
