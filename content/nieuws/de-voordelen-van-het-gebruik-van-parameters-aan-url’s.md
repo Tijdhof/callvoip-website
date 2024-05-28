@@ -12,7 +12,7 @@ hero:
 date: 2024-05-28T08:52:16.894Z
 url: /nieuws/bubble-custom-action
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png">
+<center><img src="https://res.cloudinary.com/callvoip/image/upload/v1716898773/linkedin-popup.png"></center>
 
 Door creatief om te gaan met aangepaste URL’s kun je (bedrijfs)processen eenvoudiger maken en versnellen. Of je nu een adres zoekt op Google Maps, een meeting plant via Google Calendar, of klantgegevens zoekt in social media, de mogelijkheden zijn eindeloos. Dit doe je door specifieke parameters aan URL's toe te voegen vanuit je eigen CRM. We vertellen je er graag meer over.\
 \
