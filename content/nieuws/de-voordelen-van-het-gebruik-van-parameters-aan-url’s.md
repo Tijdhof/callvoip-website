@@ -34,10 +34,10 @@ Door de URL en de paramaters te combineren in "Custom Action" van bubble kun je 
 Naast LinkedIn zijn er tal van andere toepassingen waarbij aangepaste URL's nuttig kunnen zijn. Hier zijn enkele voorbeelden:\
 \
 Google Maps: Zoek eenvoudig een bedrijfsadres in Google Maps.<br>
-Gebruik deze link om een adres te zoeken: https://www.google.com/maps/search/?api=1&query=$crm_address<br>
-Of plan direct een route vanaf je bedrijfspand naar je klant met deze link: https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_address.
+Gebruik deze link om een adres te zoeken:<br>https://www.google.com/maps/search/?api=1&query=$crm_address<br>
+Of plan direct een route vanaf je bedrijfspand naar je klant met deze link:<br>https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_address.
 \
-Google Calendar: Maak een Google Meet aan en nodig de klant direct uit.\
+<br>Google Calendar: Maak een Google Meet aan en nodig de klant direct uit.\
 <https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email>\
 \
 SMS: Stuur een sms naar het telefoonnummer van een klant.\
@@ -49,7 +49,7 @@ Google Translate: Vertaal notities naar een andere taal.\
 \
 Zoeken op Social Media\
 \
-Voor het zoeken naar gebruikersnamen op verschillende sociale mediaplatforms kun je aangepaste URL's gebruiken zoals hierboven beschreven staan. Dit bespaart tijd en verhoogt de efficiëntie door directe toegang te bieden tot de benodigde informatie.\
+Voor het zoeken naar gebruikersnamen op verschillende sociale mediaplatforms kun je aangepaste URL's gebruiken zo kun je zoeken op voor en achternaam. Dit bespaart tijd en verhoogt de efficiëntie door directe toegang te bieden tot de benodigde informatie.\
 \
 Voordelen van Aangepaste URL's\
 \
