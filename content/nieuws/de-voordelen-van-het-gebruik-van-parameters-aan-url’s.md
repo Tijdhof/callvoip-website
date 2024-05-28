@@ -34,19 +34,19 @@ Door de URL en de parameters te combineren in "Custom Action" van bubble kun je 
 <b>Andere Voorbeelden</b><br>
 Naast LinkedIn zijn er tal van andere toepassingen waarbij aangepaste URL's nuttig kunnen zijn. Hier zijn enkele voorbeelden:
 
-<b>Google Maps:</b> Zoek eenvoudig een bedrijfsadres in Google Maps.
+Google Maps: Zoek eenvoudig een bedrijfsadres in Google Maps.
 Gebruik deze link om een adres te zoeken:<br>
 `https://www.google.com/maps/search/?api=1&query=$crm_address`<br><br>
 Of plan direct een route vanaf je bedrijfspand naar je klant met deze link:<br>
 `https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_address`
 
-<b>Google Calendar:</b> Maak een Google Meet aan en nodig de klant direct uit.<br>
+Google Calendar: Maak een Google Meet aan en nodig de klant direct uit.<br>
 `https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email`
 
-<b>SMS:</b> Stuur een sms naar het telefoonnummer van een klant.<br>
-`sms:$crm_phonenumber?body=Beste%20$crm_firstname`<br>Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).
+SMS: Stuur een sms naar het telefoonnummer van een klant*.<br>
+`sms:$crm_phonenumber?body=Beste%20$crm_firstname`<br>*Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).
 
-<b>Google Translate:</b> Vertaal notities naar een andere taal.<br>
+Google Translate: Vertaal notities naar een andere taal.<br>
 `https://translate.google.com/?sl=auto&tl=en&text=$crm_notities`
 
 <b>Zoeken op Social Media</b><br>
