@@ -1,5 +1,5 @@
 ---
-title: De Voordelen van het Gebruik van Parameters aan URL’s
+title: Callvoip Bubble: Creatief met paramaters
 featured: false
 hideinsearch: false
 hideingoogle: false
