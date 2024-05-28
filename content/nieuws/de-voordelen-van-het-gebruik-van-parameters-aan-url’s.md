@@ -47,12 +47,10 @@ sms:$crm_phonenumber?body=Beste%20$crm_firstname *\
 Google Translate: Vertaal notities naar een andere taal.\
 <https://translate.google.com/?sl=auto&tl=en&text=$crm_notities>\
 \
-Zoeken op Social Media\
-\
+<b>Zoeken op Social Media</b>\
 Voor het zoeken naar gebruikersnamen op verschillende sociale mediaplatforms kun je aangepaste URL's gebruiken zo kun je zoeken op voor en achternaam. Dit bespaart tijd en verhoogt de efficiëntie door directe toegang te bieden tot de benodigde informatie.\
 \
-Voordelen van Aangepaste URL's\
-\
+<b>Voordelen van Aangepaste URL's</b>\
 Efficiënt: Snel toegang tot informatie en functionaliteiten zonder handmatige invoer.\
 Consistent: Vermindert de kans op fouten door automatische gegevensinvoer.\
 Productief: Versnelt dagelijkse taken en bespaart kostbare tijd.\
