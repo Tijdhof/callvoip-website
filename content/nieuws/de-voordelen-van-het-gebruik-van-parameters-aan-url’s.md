@@ -31,22 +31,22 @@ Met deze URL kun je automatisch zoeken naar een persoon op LinkedIn door hun voo
 
 Door de URL en de parameters te combineren in "Custom Action" van bubble kun je op een creatieve manier knoppen maken die passen bij jouw bedrijf.
 
-<b>Andere Voorbeelden</b><br>
+<b>Alvast 4 Voorbeelden</b><br>
 Naast LinkedIn zijn er tal van andere toepassingen waarbij aangepaste URL's nuttig kunnen zijn. Hier zijn enkele voorbeelden:
 
-Google Maps: Zoek eenvoudig een bedrijfsadres in Google Maps.
+1. Google Maps:<br>Zoek eenvoudig een bedrijfsadres in Google Maps.
 Gebruik deze link om een adres te zoeken:<br>
 `https://www.google.com/maps/search/?api=1&query=$crm_address`<br><br>
 Of plan direct een route vanaf je bedrijfspand naar je klant met deze link:<br>
 `https://www.google.com/maps/dir/?api=1&origin=EIGEN_ADRES&destination=crm_address`
 
-Google Calendar: Maak een Google Meet aan en nodig de klant direct uit.<br>
+2. Google Calendar:<br>Maak een Google Meet aan en nodig de klant direct uit.<br>
 `https://calendar.google.com/calendar/render?action=TEMPLATE&text=Meeting%20met%20$crm_firstname&add=$crm_email`
 
-SMS: Stuur een sms naar het telefoonnummer van een klant*.<br>
+3. SMS:<br>Stuur een sms naar het telefoonnummer van een klant*.<br>
 `sms:$crm_phonenumber?body=Beste%20$crm_firstname`<br>*Hiervoor is een desktop programma nodig waarmee je een SMS kan sturen zoals [Apple Continuity](https://support.apple.com/en-us/102418) of de [Windows telefoonkoppeling](ms-windows-store://pdp/?productid=9NMPJ99VJBWV).
 
-Google Translate: Vertaal notities naar een andere taal.<br>
+4. Google Translate:<br>Vertaal notities naar een andere taal.<br>
 `https://translate.google.com/?sl=auto&tl=en&text=$crm_notities`
 
 <b>Zoeken op Social Media</b><br>
