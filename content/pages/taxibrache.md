@@ -12,7 +12,7 @@ hero:
   Callvoip is specialist in het leveren van telefonie aan taxibedrijven. 
   Met een uitgekiende telefooncentrale, prachtige <b>CRM-koppelingen met het branchepakket Regie, WinTax of TaxSys</b> en je vaste, zakelijke telefoonnummers 
   ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/tour/" class="button">Vraag een demonstratie aan</a>'
-  image: '/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg'
+  image: '/v1571655384/2149184262.jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -51,7 +51,7 @@ blocks:
           <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
         </form>
       </dialog>'
-  image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
+  image: '/v1572861318/2149184255.jpg'
   zooming: true
   position: image_left
   title: Planning en nog eens planning
