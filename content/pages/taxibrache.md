@@ -60,7 +60,7 @@ textblocksfooter:
 - title1: De voordelen op een rij
   content1: 'Grofweg heb je twee type bellers: Of ze staan wel bij je in het systeem, of niet. De koppeling gaat daar als volgt mee om.<br><br><b>Wanneer de beller bekend is bij jou kun je:</b><br>✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/solar_cloud-3_rtk2oy.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/taxiwolk.png">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als Taxibedrijf</div>
