@@ -17,7 +17,7 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel dierenartsen gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/regie/">regie</a>, <a href=" https://www.callvoip.nl/marketplace/taxsys/">Taxsys</a> of <a href=" https://www.callvoip.nl/marketplace/wintax/">Wintax</a>. We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full"
+- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel dierenartsen gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/regie/">regie</a>, <a href=" https://www.callvoip.nl/marketplace/taxsys/">Taxsys</a> of <a href=" https://www.callvoip.nl/marketplace/wintax/">Wintax</a>. We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">'
   image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
   zooming: true
   position: image_left
