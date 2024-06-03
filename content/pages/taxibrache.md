@@ -17,24 +17,20 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel dierenartsen gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/regie/">regie</a>, <a href=" https://www.callvoip.nl/marketplace/taxsys/">Taxsys</a> of <a href=" https://www.callvoip.nl/marketplace/wintax/">Wintax</a>. We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">'
+- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de telefonist een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel taxibedrijven gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/regie/">regie</a>, <a href=" https://www.callvoip.nl/marketplace/taxsys/">Taxsys</a> of <a href=" https://www.callvoip.nl/marketplace/wintax/">Wintax</a>. We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">'
   image: '/v1572861318/zonne-energie_werk_u6tr56.jpg'
   zooming: true
   position: image_left
   title: Planning en nog eens planning
   image_position: center
 textblocksfooter:
-- title1: Koppeling met 2Solar
-  content1: 'Een bijzonder waardevolle toevoeging is de mogelijkheid om de telefonie te koppelen met het Solar-klantsysteem 2Solar. 
-  Marieke vervolgt: 2Solar is het meest gebruikte CRM-pakket in de zonne-energie-branche. 
-  De koppeling tussen Callvoip en 2Solar maakt dat je van elke beller gelijk de gewenste gegevens van de klant ziet, 
-  en met één klik de klantenkaart van 2Solar op je scherm hebt. <br><br>Bovendien bel je met één klik uit naar de klanten in 2Solar. 
-  Geen tijdverlies, geen dubbele navraag, geen fouten: gewoon fijn, snel en doeltreffend werken! Na een halve dag wíl je niet meer zonder.<br><br><a href="/marketplace/2solar/" class="button">Lees meer over integratie</a>'
+- title1: De voordelen op een rij
+  content1: 'Grofweg heb je twee type bellers: Of ze staan wel bij je in het systeem, of niet. De koppeling gaat daar als volgt mee om.<br><br><b>Wanneer de beller bekend is bij jou kun je:</b><br>✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon'
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/solar_cloud-3_rtk2oy.png">
   show_vshape: false
 usps:
-  title: <div id="1">Handig voor jou als leverancier</div>
+  title: <div id="1">Handig voor jou als Taxibedrijf</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
     erg handige zaken voor elke leverancier. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
@@ -46,7 +42,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals 2Solar. Maar ook vele anderen.<br><br><a href="/marketplace/"
+      eens koppelen met lange lijst pakketten, zoals TaxSys, regie en Wintax. Maar ook vele anderen.<br><br><a href="/marketplace/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
