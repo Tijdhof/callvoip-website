@@ -1,19 +1,16 @@
 ---
-title: 'Hosted telefonie voor de Zonne-energie branche'
-description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Zonne-energie branche.'
+title: 'Telefonie voor de Taxibranche'
+description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor de Taxibranche.'
 type: page
 layout: branche
 logos: false
 url: '/branches/taxibedrijven/'
 hero:
-  title: 'Hosted telefonie voor de<br>Zonne-energie branche'
-  content: 'Zonlicht. De motor van groei en bloei, en tegenwoordig basis-ingrediënt voor ons energievraagstuk. 
-  De Solar-branche kent een reusachtige groei: er zijn steeds meer bedrijven in de zonne-energie-branche en deze bedrijven groeien zelf als kool. 
-  Van webshop tot installateur: groei is het codewoord! Een dynamische branche dus, en dat brengt zo haar eigen bereikbaarheidsuitdagingen mee. 
-  Een ding hebben alle bedrijven met elkaar gemeen: een <b>professionele bereikbaarheid</b> vormt de basis voor succes.
+  title: 'Telefonie voor de Taxibranche'
+  content: 'Als taxibedrijf is het cruciaal om altijd bereikbaar te zijn voor klanten en chauffeurs. Je hebt te maken met rittenplanningen, noodoproepen en je klantenservice. Met de telefonieoplossingen van Callvoip blijft je bedrijf altijd bereikbaar, waar je ook bent.
   <br><br>
-  Callvoip is specialist in het leveren van telefonie aan bedrijven in de zonne-energie branche. 
-  Met een uitgekiende telefooncentrale, een prachtige <b>CRM-koppeling met het branchepakket 2Solar</b> en je vaste, zakelijke telefoonnummers 
+  Callvoip is specialist in het leveren van telefonie aan taxibedrijven. 
+  Met een uitgekiende telefooncentrale, prachtige <b>CRM-koppelingen met het branchepakket Regie, WinTax of TaxSys</b> en je vaste, zakelijke telefoonnummers 
   ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/tour/" class="button">Vraag een demonstratie aan</a>'
   image: '/v1571655384/engineer-working-with-laptop-by-solar-panels-talking-cell-phone_whqdrh.jpg'
   zooming: true
