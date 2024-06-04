@@ -12,7 +12,7 @@ hero:
   Callvoip is specialist in het leveren van telefonie aan Volvodealers. 
   Met een uitgekiende telefooncentrale, prachtige <b>CRM-koppeling met het branchepakket iDas BeesdA2</b> en je vaste, zakelijke telefoonnummers 
   ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/tour/" class="button">Vraag een demonstratie aan</a>'
-  image: '/v1571655384/volvo-695419_1280jpg'
+  image: '/v1571655384/volvo-695419_1280.jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
