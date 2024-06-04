@@ -51,7 +51,7 @@ blocks:
           <button type="button" onclick="dialog.close();" class="absolute top-0 right-0 text-3xl leading-none mr-2 text-red">×</button>
         </form>
       </dialog>'
-  image: '/v1572861318/idas-scherm.png'
+  image: '/v1572861318/idas-scherm2.png'
   zooming: true
   position: image_left
   title: Planning en nog eens planning
