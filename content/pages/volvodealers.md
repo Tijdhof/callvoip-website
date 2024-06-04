@@ -12,7 +12,7 @@ hero:
   Callvoip is specialist in het leveren van telefonie aan Volvodealers. 
   Met een uitgekiende telefooncentrale, prachtige <b>CRM-koppeling met het branchepakket iDas BeesdA2</b> en je vaste, zakelijke telefoonnummers 
   ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/tour/" class="button">Vraag een demonstratie aan</a>'
-  image: '/v1571655384/2149184262.jpg'
+  image: '/v1571655384/volvo-695419_1280jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -22,7 +22,7 @@ blocks:
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
           <p class="hidden">
-            <input type="hidden" name="CRM Item" value="crm-lp-dierenarts" />
+            <input type="hidden" name="CRM Item" value="crm-lp-volvo" />
             <label>Don’t fill this out if human <input name="bot-field"> </label>
             <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
             <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
@@ -60,7 +60,7 @@ textblocksfooter:
 - title1: De voordelen op een rij
   content1: 'Grofweg heb je twee type bellers: Of ze staan wel bij je in het systeem, of niet. De koppeling gaat daar als volgt mee om.<br><br><b>Wanneer de beller bekend is bij jou kun je:</b><br>✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/2149184255.jpg">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/5007.jpg">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als Garagebedrijf</div>
@@ -115,7 +115,7 @@ intro:
   content: 'Hier zie je een praktijkvoorbeeld van de kosten per maand.<br>Iedere klant is anders en dat betekent dus ook dat geen telefooncentrale
     gelijk is.<br>Benieuwd wat de kosten zijn voor jouw situatie? Bereken het via onze <b><u><a
     href="/calculator\">calculator</a></u></b>.<center><a
-    href="/calculator\" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1679411204/zonne-kosten_liuqwk.png"></a></center>'
+    href="/calculator\" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1679411204/kosten-garage.png"></a></center>'
 images: []
 hideinsearch: false
 hideingoogle: false
