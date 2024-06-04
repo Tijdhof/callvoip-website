@@ -12,7 +12,7 @@ hero:
   Callvoip is specialist in het leveren van telefonie aan Garagebedrijven. 
   Met een uitgekiende telefooncentrale, prachtige <b>CRM-koppelingen met het branchepakket Audev CarIT, CSS Car System, Keyloop en iDas BeesdA2</b> en je vaste, zakelijke telefoonnummers 
   ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/tour/" class="button">Vraag een demonstratie aan</a>'
-  image: '/v1571655384/2149184262.jpg'
+  image: '/v1571655384/3918.jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
@@ -60,7 +60,7 @@ textblocksfooter:
 - title1: De voordelen op een rij
   content1: 'Grofweg heb je twee type bellers: Of ze staan wel bij je in het systeem, of niet. De koppeling gaat daar als volgt mee om.<br><br><b>Wanneer de beller bekend is bij jou kun je:</b><br>✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie je het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website. Zo weet je toch meer dan enkel het nummer in het display van je telefoon'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/2149184255.jpg">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/7041.jpg">
   show_vshape: false
 usps:
   title: <div id="1">Handig voor jou als Garagebedrijf</div>
