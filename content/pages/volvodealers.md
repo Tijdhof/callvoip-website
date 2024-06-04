@@ -1,23 +1,23 @@
 ---
 title: 'Telefonie voor Volvodealers'
-description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor Garagebedrijven.'
+description: 'Een professionele bereikbaarheid vormt de basis voor jouw succes. Wij zijn expert in telefonie voor Volvodealers.'
 type: page
 layout: branche
 logos: false
 url: '/branches/volvodealers/'
 hero:
-  title: 'Telefonie voor Garagebedrijven'
+  title: 'Telefonie voor Volvodealers'
   content: 'Als autogarage is het cruciaal om altijd bereikbaar te zijn voor klanten en leveranciers. Je hebt te maken met afspraken, bestellingen en klantenservice. Met de telefonieoplossingen van Callvoip blijft je bedrijf altijd bereikbaar, waar je ook bent.
   <br><br>
-  Callvoip is specialist in het leveren van telefonie aan Garagebedrijven. 
-  Met een uitgekiende telefooncentrale, prachtige <b>CRM-koppelingen met het branchepakket Audev CarIT, CSS Car System, Keyloop en iDas BeesdA2</b> en je vaste, zakelijke telefoonnummers 
+  Callvoip is specialist in het leveren van telefonie aan Volvodealers. 
+  Met een uitgekiende telefooncentrale, prachtige <b>CRM-koppeling met het branchepakket iDas BeesdA2</b> en je vaste, zakelijke telefoonnummers 
   ook op je mobiel heb je alles onder één dak voor optimale bereikbaarheid.<br><br><a href="/tour/" class="button">Vraag een demonstratie aan</a>'
   image: '/v1571655384/2149184262.jpg'
   zooming: true
   image_position: center
   disable_image_on_mobile: false
 blocks:
-- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van degene die de telefoon aanneemt een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel Garagebedrijven gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/carit/">Audev CarIT</a>, <a href=" https://www.callvoip.nl/marketplace/css/">CSS Car System</a> of <a href=" https://www.callvoip.nl/marketplace/keyloop/">Keyloop</a>. Veel Volvo Garages maken gebruik van <a href=" https://www.callvoip.nl/marketplace/idas/">iDAS BeesdA2</a> We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
+- content: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw specifieke CRM pakket voor Volvodealers met onze telefonie. Met zo’n koppeling verschijnt op de computer van degene die de telefoon aanneemt een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.<br><br> Veel volvodealers gebruiken het CRM pakket van <a href=" https://www.callvoip.nl/marketplace/idas/">iDAS BeesdA2</a> We kunnen koppelen met meer dan 170 verschillende pakketten.<br><br><button class="button text-sm lg:text-normal" onclick="dialog.show();">Vraag de CRM koppeling demo aan</button><dialog id="dialog" class="z-50 top-0 w-full h-full">
         <form name="crm-info" action="/bedank/crm-demo/" accept-charset="UTF-8" method="POST" data-netlify-honeypot="true" data-netlify="true"
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
@@ -75,7 +75,7 @@ usps:
     title: Integratie
     content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
       opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals Audev CarIT, CSS Car System of Keyloop. Maar ook vele anderen.<br><br><a href="/marketplace/"
+      eens koppelen met lange lijst pakketten, zoals iDAS BeesdA2. Maar ook vele anderen.<br><br><a href="/marketplace/"
       class="button">Lees meer</a>
   - icon: fa-users
     title: Wachtrij
