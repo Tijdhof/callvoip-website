@@ -12,7 +12,7 @@ hero:
           class="max-w-screen-sm bg-white p-8 rounded-lg shadow-xl relative mx-auto">
          
           <p class="hidden">
-            <input type="hidden" name="CRM Item" value="crm-lp" />
+            <input type="hidden" name="CRM Item" value="crm-lp-webwinkel" />
             <label>Don’t fill this out if human <input name="bot-field"> </label>
             <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826">
             <input type="hidden" id="formto" name="formto" value="offerte" class="hidden">
