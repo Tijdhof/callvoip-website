@@ -9,7 +9,7 @@ hidesocialshare: false
 image_uitgelicht: "/v1711445432/hq720.jpg"
 hero:
   disable_image_on_mobile: false
-date: 2024-03-26T09:29:05.611Z
+date: 2024-06-25T09:29:05.611Z
 url: /succesverhalen/uw-s/
 type: verhaal
 
