@@ -37,7 +37,7 @@ Voor meer informatie over UW-S verwijzen we graag naar de website: https://www.u
 Laat je gegevens achter, dan bellen wij je om meer informatie te geven.<br>Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
-          <form class="mb-6" name="epheerlen-verhaal" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
+          <form class="mb-6" name="uws-verhaal" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
               <input type="hidden" name="form-name" value="epheerlen-verhaal" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
               <p> <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
