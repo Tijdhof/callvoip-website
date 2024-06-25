@@ -1,5 +1,5 @@
  ---
-title: Van Vaste Toestellen naar Flexibele Oplossingen: De ervaringen van UW-S
+title: "Van Vaste Toestellen naar Flexibele Oplossingen: De ervaringen van UW-S"
 images:
 - "/v1711445809/hq720.jpg"
 featured: false
