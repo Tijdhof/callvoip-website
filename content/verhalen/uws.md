@@ -32,8 +32,8 @@ Krijn merkte op dat de software van Callvoip heel soepel werkt. Zijn organisatie
 In conclusie heeft de overstap naar Callvoip Krijn's organisatie geholpen om niet alleen de kwaliteit en betrouwbaarheid van hun communicatie te verbeteren, maar ook hun professionaliteit te vergroten.
 <br><br>
 Voor meer informatie over UW-S verwijzen we graag naar de website: https://www.uw-s.nl/
-<br><br><br><br>
-<center><hr width="70%"><h2>Ook meer rust op de werkvloer?</h2>
+<br><br>
+<center><hr width="70%"><h2>Meer weten over de mogelijkheden?</h2>
 Laat je gegevens achter, dan bellen wij je om meer informatie te geven.<br>Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
