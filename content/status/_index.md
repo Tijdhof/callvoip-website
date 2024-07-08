@@ -41,10 +41,14 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      **8-7-2024 11:45** <br> De verstoring van Bubble is opgelost. Werkt Bubble
+      nog niet naar behoren, sluit hem dan af en start opnieuw. Lukt dit ook
+      niet, neem dan contact met ons op. <Br>\
 
-      **8-7-2024 11:00** <br>
-      Er is momenteel een storing met bubble, er wordt gewerkt aan een oplossing.
-      
+      <br>\
+
+      08-07-2024 11.00 uur: Er is momenteel een storing met Bubble, er wordt gewerkt aan een oplossing.
+
       <br><br>
 
       **Inloggen met een extra code (2FA):** <br>
