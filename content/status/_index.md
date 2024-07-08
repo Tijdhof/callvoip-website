@@ -35,12 +35,15 @@ items:
   - title: Callvoip Internet
     status: true
   - title: Callvoip Bubble
-    status: true
+    status: false
 testserror: true
 tests:
   - title: Meldingen
     error: false
     text: >-
+
+    **8-7-2024 11:00** <br>
+    Er is momenteel een storing met bubble, er wordt gewerkt aan een oplossing.
       
       <br><br>
 
