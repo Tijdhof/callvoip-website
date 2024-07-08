@@ -42,8 +42,8 @@ tests:
     error: false
     text: >-
 
-    **8-7-2024 11:00** <br>
-    Er is momenteel een storing met bubble, er wordt gewerkt aan een oplossing.
+      **8-7-2024 11:00** <br>
+      Er is momenteel een storing met bubble, er wordt gewerkt aan een oplossing.
       
       <br><br>
 
