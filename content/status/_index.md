@@ -41,9 +41,14 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **8-7-2024 12:00 uur** <br> Bubble kent helaas nog steeds verstoringen. We
-      vragen je nog even te wachten totdat alles weer goed draait. Onze excuses
-      voor het ongemak. \
+      **8-7-2024 12:30 uur** <br> Bubble werkt weer naar behoren. Ervaar je nog
+      een probleem, sluti Bubble dan af en start hem opnieuw op. Werkt het dan
+      nog niet goed, neem dan even contact met ons op. Onze welgemeende excuses
+      voor het ongemak!\
+
+      \
+
+      **8-7-2024 12:00 uur** <br> Bubble kent helaas nog steeds verstoringen. We vragen je nog even te wachten totdat alles weer goed draait. Onze excuses voor het ongemak. \
 
       \
 
