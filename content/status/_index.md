@@ -45,11 +45,11 @@ tests:
       vragen je nog even te wachten totdat alles weer goed draait. Onze excuses
       voor het ongemak. \
 
-      <br>\
+      \
 
       **8-7-2024 11:45 uur** <br> De verstoring van Bubble is opgelost. Werkt Bubble nog niet naar behoren, sluit hem dan af en start opnieuw. Lukt dit ook niet, neem dan contact met ons op. \
 
-      <br>\
+      \
 
       08-07-2024 11.00 uur: Er is momenteel een storing met Bubble, er wordt gewerkt aan een oplossing.
 
