@@ -35,15 +35,21 @@ items:
   - title: Callvoip Internet
     status: true
   - title: Callvoip Bubble
-    status: true
+    status: false
 testserror: true
 tests:
   - title: Meldingen
     error: false
     text: >-
-      **8-7-2024 11:45** <br> De verstoring van Bubble is opgelost. Werkt Bubble
-      nog niet naar behoren, sluit hem dan af en start opnieuw. Lukt dit ook
-      niet, neem dan contact met ons op. <Br>\
+      **8-7-2024 12:00 uur** <br> Bubble kent helaas nog steeds verstoringen. We
+      vragen je nog even te wachten totdat alles weer goed draait. Onze excuses
+      voor het ongemak. <br>\
+
+      <br>\
+
+      <br>\
+
+      **8-7-2024 11:45 uur** <br> De verstoring van Bubble is opgelost. Werkt Bubble nog niet naar behoren, sluit hem dan af en start opnieuw. Lukt dit ook niet, neem dan contact met ons op. <Br>\
 
       <br>\
 
