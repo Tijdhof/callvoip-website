@@ -85,6 +85,14 @@ En daarnaast: customized knoppen met: <br>
 • Kopie-functie (bv telefoonnummer of parameter)<br>
 • Email-functie (bv terugbelverzoek of leadnotitie)<br>
 • Actie-button (bv open URL of website, evt met parameter)<br>
+• Direct een Whatsapp bericht sturen (via het zakelijke nummer d.m.v. Whatsapp Business)<br>
+• Direct een bericht sturen in Microsoft Teams<br>
+• Zoekbalk openen<br>
+• Terugbelverzoek<br>
+
+<br>
+**Maatwerk**<br>
+Om aan jouw specifieke maatwerk wensen te kunnen voldoen, is Bubble voorzien van de module Automations. Met deze module is het mogelijk om je eigen If-This-Then-That flows toe te voegen. Denk bijvoorbeeld aan het uitvoeren van een script of het automatisch open van het callnotitie scherm in plaats van dat je die open moet klikken.
 <br>
 **Technische gegevens:**<br>
 Het softwarepakket 2Solar CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
