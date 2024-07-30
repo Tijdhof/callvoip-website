@@ -93,7 +93,7 @@ En daarnaast: customized knoppen met: <br>
 <br>
 **Maatwerk**<br>
 Om aan jouw specifieke maatwerk wensen te kunnen voldoen, is Bubble voorzien van de module Automations. Met deze module is het mogelijk om je eigen If-This-Then-That flows toe te voegen. Denk bijvoorbeeld aan het uitvoeren van een script of het automatisch open van het callnotitie scherm in plaats van dat je die open moet klikken.
-<br>
+<br><br>
 **Technische gegevens:**<br>
 Het softwarepakket 2Solar CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met 2Solar CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
