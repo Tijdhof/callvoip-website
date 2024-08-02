@@ -69,7 +69,7 @@ Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad
 <br>
 **Details van de popup in combinatie met 2Solar:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit 2Solar gebruiken, denk hierbij aan gegevens zoals: <br><iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Je kunt dan de klantgegevens uit 2Solar gebruiken, denk hierbij aan gegevens zoals: <br><iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 • Telefoonnummer<br>
 • Klantnaam<br>
 • Bedrijfsnaam<br>
