@@ -66,7 +66,7 @@ Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad
 <br>
 **Details van de popup in combinatie met SAP Business One:**<br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Je kunt dan de klantgegevens uit SAP Business One gebruiken, denk hierbij aan gegevens zoals: <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
+Je kunt dan de klantgegevens uit SAP Business One gebruiken, denk hierbij aan gegevens zoals: <br><iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 • Telefoonnummer<br>
 • Klantnaam<br>
 • Bedrijfsnaam<br>

@@ -69,7 +69,7 @@ Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daar
 • Naam<br>
 • Bedrijfsnaam<br>
 <br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br><img src="https://res.cloudinary.com/callvoip/image/upload/v1651516324/Bubble_infographic_beknopt-4_020522MT_et5ctn.jpg" style="float:right">
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br><iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Denk hierbij aan:<br>
 • Open relatie in Clientbox<br>
 • Open relatie-adres in Clientbox<br>
