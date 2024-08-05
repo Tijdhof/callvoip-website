@@ -95,13 +95,13 @@ En daarnaast: customized knoppen met: <br>
 Het softwarepakket 2Solar CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
 De Callvoip telefoon-integratie met 2Solar CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
 
-**Word klant bij Callvoip en ontdek onze voordelen**
-De koppeling met 2Solar is een uitbreiding op de telefoondienst van Callvoip. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen. Bijvoorbeeld door efficiënt te bellen via je computer of met vast-mobiel integratie (zakelijk bellen en gebeld worden op je mobiele telefoon). Denk ook aan professionele instrumenten als een wachtrij, keuzemenu, gespreksopname, slimme tijdscondities, schakelaars, meldteksten en nog veel meer. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem.  
+**Word klant bij Callvoip en ontdek onze voordelen**<br>
+De koppeling met 2Solar is een uitbreiding op de telefoondienst van Callvoip. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen.<br>Bijvoorbeeld door efficiënt te bellen via je computer of met vast-mobiel integratie (zakelijk bellen en gebeld worden op je mobiele telefoon). Denk ook aan professionele instrumenten als een wachtrij, keuzemenu, gespreksopname, slimme tijdscondities, schakelaars, meldteksten en nog veel meer. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem.  
 
 Wil je meer weten over de CRM-koppeling dan krijg je vrijblijvend uitgebreide uitleg over hoe de koppeling werkt.
 Bovendien laten we je dan ook zien hoe ons telefoonsysteem werkt, hoe het optimaal kan aansluiten bij jullie communicatie-wensen, en hoe je naadloos kunt overstappen.
 
 Uiteraard heb je alle ruimte om met ons te sparren over jouw telefonie- en communicatiewensen, vooral als jouw bestaande oplossing niet optimaal werkt.
-Neem vandaag nog contact met ons op, dan plannen we een moment in
+Neem vandaag nog contact met ons op, dan plannen we een moment in.<br>
 <br><a onclick="dialog.show();" class="button">Ja, ik wil meer weten over de koppeling</a>
 
