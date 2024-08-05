@@ -61,7 +61,7 @@ Dankzij de connector kun je de nummers in IDEXX Animana aanklikken en automatisc
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met IDEXX Animana:**<br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1634307324/popup_crm_jmr7fc.png" style="float:right">
+<iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Standaard is er de telefoonkoppeling van IDEXX die het nummer naar Animana stuurt en de bijbehorende klantekaart opent.<br>
 Als optie kan er een export worden gemaakt van één van de tabellen waarin het telefoonnummer staat en klantinformatie; deze informatie kan dan als velden in de popup worden opgenomen. <br>

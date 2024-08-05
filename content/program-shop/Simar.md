@@ -54,7 +54,7 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 Dankzij de connector kun je de nummers in Simar aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Simar:**<br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+<iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Door de connector wordt de klantenkaart gelijk en automatisch in het Simar  geopend, en kun je gelijk notities typen in het klantlog. Omdat de popup van Simar zelf wordt geopend, is het een optie om de Bubble popup uit te schakelen; je kunt er ook voor kiezen deze aan te laten staan zodat je extra knoppen van de Bubble popup tot je beschikking hebt. En is het nummer niet bekend in Simar dan wordt het nummer verrijkt door Google gegevens. <br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen met de beschikbare informatievelden, en je kunt de popup voorzien van 4 knoppen om direct de juiste actie uit te voeren tijdens een telefoongesprek.<br>
 <br>

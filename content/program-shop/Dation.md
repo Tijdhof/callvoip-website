@@ -71,7 +71,7 @@ Je kunt dan de klantgegevens uit de Dation Rijlesplanner, denk hierbij aan gegev
 • Student CBR lidmaatschap<br>
 • Wel of geen Code 95<br>
 • etc. <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1634307324/popup_crm_jmr7fc.png" style="float:right">
+<iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 Kijk voor meer informatie over Dation Rijschoolsoftware op www.dation.nl.
 <br>

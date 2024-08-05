@@ -68,7 +68,7 @@ Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad
 **Details van de popup in combinatie met Realworks:**<br>
 Als het nummmer van de beller in Realworks staat, dan verzorgt Realworks de popup.<br>
 Als het nummer van de beller niet in Realworks staat, dan kun je zelf de popup van de connector vormgeven. Deze omvat het nummer van de beller, de gegevens die Google over het nummer kan vinden (naam, adres, woonplaats, website). <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+<iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
 En daarnaast: customized knoppen met: <br>

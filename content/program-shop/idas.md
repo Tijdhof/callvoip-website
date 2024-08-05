@@ -89,7 +89,7 @@ Je kunt dan de klantgegevens uit iDAS–BeesdA2 gebruiken, denk hierbij aan gege
 &bull; Klantnummer <br>
 &bull; etc.<br>
 <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+<iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
 • Open autokaart in het iDAS BeesdA2 systeem<br>
 • Open relatiekaart in het iDAS BeesdA2 systeem <br>

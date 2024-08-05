@@ -63,7 +63,7 @@ Met de OaseDental Callvoip connector verschijnt er bij een inkomende en/of uitga
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in Oase Dental aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken. Tel uit je tijdwinst! <br>    
 <br>**Details van de popup in combinatie met Oase Dental:**<br>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br><iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
 • Open klant in Oase Dental<br>

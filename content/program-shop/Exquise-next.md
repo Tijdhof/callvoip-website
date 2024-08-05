@@ -67,7 +67,7 @@ Dankzij de connector kun je de nummers in Exquise Next Generation aanklikken en 
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Exquise Next Generation:**<br>
-De popup van de koppeling toont het nummer van de beller. <br><img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right">
+De popup van de koppeling toont het nummer van de beller. <br><iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Daarnaast kun je in pop-up tot 4 knoppen aanmaken om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
 Denk hierbij aan:<br>
 • Open klant in Exquise (gaat ook automatisch als je aanneemt, maar je kunt dit ook handmatig doen als je nog niet hebt aangenomen)<br>

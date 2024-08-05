@@ -66,7 +66,7 @@ Standaard is de RobinHQ Callvoip connector voorzien van de functie om automatisc
 **Uitgaande gesprekken**<br>
 Dankzij de connector kun je de nummers in RobinHQ aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
-<img src="https://res.cloudinary.com/callvoip/image/upload/popup_crm_jmr7fc.png" style="float:right"><br>
+<iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 **Details van de popup in combinatie met RobinHQ:**<br>
 De popup binnen RobinHQ speelt de hoofdrol, de popup van de koppeling voegt daar bv de Google verrijking van nummers die NIET in RobinHQ staan, aan toe, en een viertal handige toetsen. <br>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit RobinHQ, zoals: <br>
