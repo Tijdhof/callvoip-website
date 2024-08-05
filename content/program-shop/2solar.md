@@ -96,12 +96,13 @@ Het softwarepakket 2Solar CRM wordt gekoppeld met telefonie van Callvoip op basi
 De Callvoip telefoon-integratie met 2Solar CRM kan worden gebruikt op zowel Windows als Apple Mac.<br>
 
 **Word klant bij Callvoip en ontdek onze voordelen**<br>
-De koppeling met 2Solar is een uitbreiding op de telefoondienst van Callvoip. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen.<br>Bijvoorbeeld door efficiënt te bellen via je computer of met vast-mobiel integratie (zakelijk bellen en gebeld worden op je mobiele telefoon). Denk ook aan professionele instrumenten als een wachtrij, keuzemenu, gespreksopname, slimme tijdscondities, schakelaars, meldteksten en nog veel meer. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem.  
+De koppeling met 2Solar is een uitbreiding op de telefoondienst van Callvoip. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen.<br>Bijvoorbeeld door efficiënt te <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">bellen via je computer</a> of met <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">vast-mobiel integratie</a> (zakelijk bellen en gebeld worden op je mobiele telefoon). Denk ook aan professionele instrumenten als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
+keuzemenu</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/gespreksopname/" target="_blank">gespreksopname</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/tijdsconditie/" target="_blank">slimme tijdscondities</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/omleiding-flow-control/" target="_blank">schakelaars</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/meldtekst/" target="_blank">meldteksten</a> en nog veel meer. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem.  
 
 Wil je meer weten over de CRM-koppeling dan krijg je vrijblijvend uitgebreide uitleg over hoe de koppeling werkt.
 Bovendien laten we je dan ook zien hoe ons telefoonsysteem werkt, hoe het optimaal kan aansluiten bij jullie communicatie-wensen, en hoe je naadloos kunt overstappen.
 
 Uiteraard heb je alle ruimte om met ons te sparren over jouw telefonie- en communicatiewensen, vooral als jouw bestaande oplossing niet optimaal werkt.
 Neem vandaag nog contact met ons op, dan plannen we een moment in.<br>
-<br><a onclick="dialog.show();" class="button">Ja, ik wil meer weten over de koppeling</a>
+<br><a onclick="dialog.show();" class="button">Ja, ik wil meer weten over de 2solar-koppeling</a>
 
