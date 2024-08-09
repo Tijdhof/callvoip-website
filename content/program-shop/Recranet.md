@@ -24,6 +24,7 @@ button:
   link: /marketplace/
 categories:
   - Recreatie
+  - Klantcontact
 weight: 10
 url: /marketplace/recranet/
 aliases: /program-shop/recranet/
