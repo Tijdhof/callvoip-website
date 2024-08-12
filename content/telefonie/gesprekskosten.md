@@ -296,7 +296,7 @@ Hier vindt u een overzicht van de gesprekskosten van Callvoip. Bij Callvoip beta
 <a href="http://files.callvoip.nl/downloads/Callvoip_tarievenlijst.pdf" class="button" target="_blank">Download volledig tariefoverzicht</a>
 <br><br><br><br>
 
-## Belbundels (NL vast + mobiel)
+## Belbundels (NL vaste + mobiele nrs)
 
 {{< layout/columns >}}
 
