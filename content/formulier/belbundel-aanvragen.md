@@ -7,7 +7,7 @@ searchtags:
 - use
 
 ---
-Wilt u zekerheid over uw maandelijkse telefoniekosten? Kies dan voor onze belbundels voor bellen naar vaste en mobiele nummers binnen Nederland (nb gesprekken naar 09xx servicenumerms vallen hierbuiten). Kies de bundel die bij uw belgedrag past; de bundel is een uitbreiding van uw telefonieabonnement.
+Wilt u zekerheid over uw maandelijkse telefoniekosten? Kies dan voor onze belbundels voor bellen naar vaste en mobiele nummers binnen Nederland<br> (nb gesprekken naar 09xx servicenummers vallen hierbuiten). Kies de bundel die bij uw belgedrag past; de bundel is een uitbreiding van uw telefonieabonnement.
 
 Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akkoord per mail, naar ons ter bevestiging van uw opdracht.
 
