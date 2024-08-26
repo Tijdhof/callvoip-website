@@ -1,5 +1,5 @@
 ---
-title: Handleiding Qaller iOS 5.0 app
+title: Handleiding Qaller 5.0.0 voor iPhone / iOS
 weight: 1
 description: ''
 images: []
