@@ -33,7 +33,7 @@ Een korte uitleg én een overzicht van de pluspunten.
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1724680239/qaller-Screenshot_7.png" width="80%">
 <br><br>
 
-<h3>Qaller app als telefoon: overzicht van schermen en functies</h3>
+<h3>Qaller App als telefoon: overzicht van schermen en functies</h3>
 De focus van de app ligt op de belfunctie, zodat bellen nog gemakkelijker wordt.
 De belfunctie heb je alleen maar als je Qaller Plus hebt.
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1724680239/qaller-Screenshot_8.png" width="80%">
