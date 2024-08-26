@@ -58,7 +58,7 @@ tests:
 
       Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. \
 
-      <a href="https://www.callvoip.nl/veilig" target="_blank">H﻿ier</a> vind je meer informatie. 
+      &bull; <a href="https://www.callvoip.nl/veilig" target="_blank">H﻿ier</a> vind je meer informatie. 
 
 
       M﻿ocht je meer vragen hebben, neem dan gerust contact op via de telefoon, e-mail of website chat.
