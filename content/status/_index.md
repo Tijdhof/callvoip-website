@@ -41,22 +41,16 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **8-7-2024 12:30 uur** <br> Bubble werkt weer naar behoren. Ervaar je nog
-      een probleem, sluti Bubble dan af en start hem opnieuw op. Werkt het dan
-      nog niet goed, neem dan even contact met ons op. Onze welgemeende excuses
-      voor het ongemak!\
+      **15 augustus 2024**<br><b>Nieuw design Qaller Smartphone app voor
+      iPhones</b><br>\
+
+      Qaller voor de iPhone heeft een nieuw jasje! De app biedt dezelfde mogelijkheden maar werkt nog intuitiever en heef teen paar handige nieuwe mogelijkheden, en ziet er heel mooi uit. <br>\
+
+      <br>\
+
+      <a href="https://www.callvoip.nl/qallerios">Klik hier voor meer informatie over de nieuwe Qaller-app</a><br> \
 
       \
-
-      **8-7-2024 12:00 uur** <br> Bubble kent helaas nog steeds verstoringen. We vragen je nog even te wachten totdat alles weer goed draait. Onze excuses voor het ongemak. \
-
-      \
-
-      **8-7-2024 11:45 uur** <br> De verstoring van Bubble is opgelost. Werkt Bubble nog niet naar behoren, sluit hem dan af en start opnieuw. Lukt dit ook niet, neem dan contact met ons op. \
-
-      \
-
-      08-07-2024 11.00 uur: Er is momenteel een storing met Bubble, er wordt gewerkt aan een oplossing.
 
       <br><br>
 
