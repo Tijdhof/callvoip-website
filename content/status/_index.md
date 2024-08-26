@@ -41,16 +41,12 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **15 augustus 2024**<br><b>Nieuw design Qaller Smartphone app voor
-      iPhones</b><br>\
+      **15 augustus 2024  |**<b>Nieuw design Qaller Smartphone app voor
+      iPhones</b>\
 
-      Qaller voor de iPhone heeft een nieuw jasje! De app biedt dezelfde mogelijkheden maar werkt nog intuitiever en heef teen paar handige nieuwe mogelijkheden, en ziet er heel mooi uit. <br>\
+      Qaller voor de iPhone heeft een nieuw jasje! De app biedt dezelfde mogelijkheden maar werkt nog intuitiever en heef teen paar handige nieuwe mogelijkheden, en ziet er heel mooi uit. \
 
-      <br>\
-
-      <a href="https://www.callvoip.nl/qallerios">Klik hier voor meer informatie over de nieuwe Qaller-app</a><br> \
-
-      \
+      &bull; <a href="https://www.callvoip.nl/qallerios">Klik hier voor meer informatie over de nieuwe Qaller-app</a>\
 
       <br><br>
 
@@ -60,7 +56,7 @@ tests:
 
       Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. \
 
-      <a href="https://www.callvoip.nl/veilig">H﻿ier</a> vind je meer informatie. 
+      <a href="https://www.callvoip.nl/veilig" target="_blank">H﻿ier</a> vind je meer informatie. 
 
 
       M﻿ocht je meer vragen hebben, neem dan gerust contact op via de telefoon, e-mail of website chat.
