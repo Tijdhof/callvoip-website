@@ -12,6 +12,9 @@ hidesocialshare: false
 aliases: 
  - /qallerios/
  - /qaller-ios/
+ - /qaller5/
+ - /qaller500/
+ - /qaller5.00/
 
 ---
 <div class="md:flex flex-row-reverse justify-between items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1579161600/image_here3_sruedv.png" alt=""></div>
