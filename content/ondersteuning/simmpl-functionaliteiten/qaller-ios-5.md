@@ -9,6 +9,9 @@ Update: false
 pdf: 
 hideingoogle: false
 hidesocialshare: false
+aliases: 
+ - /qallerios/
+ - /qaller-ios/
 
 ---
 <div class="md:flex flex-row-reverse justify-between items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1579161600/image_here3_sruedv.png" alt=""></div>
@@ -22,7 +25,7 @@ Qaller is een gratis Smartphone app en de afstandsbediening bij de Callvoip tele
 Je hebt het misschien al gemerkt; de Qaller App voor de iPhone heeft een nieuw ontwerp!<br>
 Dezelfde mogelijkheden plus nieuwe features in een nieuw gebruiksvriendelijk jasje.<br>
 Een korte uitleg én een overzicht van de pluspunten.
-<br>
+<br><br>
 <h3>Waar vind je jouw vertrouwde Qaller functies?</h3>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1724680239/qaller-Screenshot_7.png" width="80%">
 <br><br>
