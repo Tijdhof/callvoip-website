@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **15 augustus 2024  |**<b>Nieuw design Qaller Smartphone app voor
+      **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor
       iPhones</b>\
 
       Qaller voor de iPhone heeft een nieuw jasje! De app biedt dezelfde mogelijkheden maar werkt nog intuitiever en heef teen paar handige nieuwe mogelijkheden, en ziet er heel mooi uit. \
