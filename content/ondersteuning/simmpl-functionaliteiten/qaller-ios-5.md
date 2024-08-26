@@ -19,10 +19,10 @@ Qaller is een gratis Smartphone app en de afstandsbediening bij de Callvoip tele
 <h3>Op Qaller inloggen met een koppelcode?</h3>
 <a href="http://files.callvoip.nl/downloads/Callvoip_handleiding_Qaller_inloggen-met-koppelcode.pdf" target="_blank">Handleiding: op Qaller inloggen met een koppelcode</a><br><br>
 <b>De nieuwe Qaller App 5.0</b><br>
-Je hebt het misschien al gemerkt; de Qaller App voor de iPhone heeft een nieuw ontwerp!
-Dezelfde mogelijkheden plus nieuwe features in een nieuw gebruiksvriendelijk jasje.
+Je hebt het misschien al gemerkt; de Qaller App voor de iPhone heeft een nieuw ontwerp!<br>
+Dezelfde mogelijkheden plus nieuwe features in een nieuw gebruiksvriendelijk jasje.<br>
 Een korte uitleg én een overzicht van de pluspunten.
-
+<br>
 <h3>Waar vind je jouw vertrouwde Qaller functies?</h3>
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1724680239/qaller-Screenshot_7.png" width="80%">
 <br><br>
