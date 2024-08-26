@@ -1,11 +1,11 @@
 ---
-title: Handleiding Qaller iOS 5.0 Smartphone app
+title: Handleiding Qaller iOS 5.0 app
 weight: 1
 description: ''
 images: []
 hideinsearch: false
 Nieuw: true
-Update: true
+Update: false
 pdf: 
 hideingoogle: false
 hidesocialshare: false
