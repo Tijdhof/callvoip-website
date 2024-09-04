@@ -93,6 +93,13 @@ textblocksfooter:
     <div class="">€&nbsp;10,-</div>
     
   </div>
+  <div class="flex mb-1">
+    
+    <div class="flex-1 px-2">APN</div>
+    
+    <div class="">wireless.internet</div>
+    
+  </div>
  
   <div class="flex mb-1">
 <div class="flex-1 px-2">Eénmalige kosten: 25,- </div>
