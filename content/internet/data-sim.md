@@ -1,5 +1,5 @@
 ---
-title: 'Callvoip DATA SIM'
+title: 'Callvoip Data-SIM'
 description: 'Storing, backup, buitengebied of 4G op je tablet? Snel (tijdelijk) internet met een data-SIM van Callvoip.'
 type: page
 layout: default2
@@ -93,13 +93,6 @@ textblocksfooter:
     <div class="">€&nbsp;10,-</div>
     
   </div>
-  <div class="flex mb-1">
-    
-    <div class="flex-1 px-2">APN</div>
-    
-    <div class="">wireless.internet</div>
-    
-  </div>
  
   <div class="flex mb-1">
 <div class="flex-1 px-2">Eénmalige kosten: 25,- </div>
@@ -147,7 +140,7 @@ textblocksfooter:
     </li>
     <li>Het data-SIM abonnement wordt geleverd met fysieke SIM-kaart.</li>
     <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
-    <li>De APN settings voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
+    <li>De Acces Point Name (APN) voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
     <li>
       Klik <a href="https://www.odido.nl/netwerk/dekking" target="_blank">hier</a> om de Odido 4G dekkingskaart te bezoeken.
     </li>
