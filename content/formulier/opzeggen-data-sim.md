@@ -35,6 +35,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Opzeggegevens" >}}
 
+{{< form/input "Wensdatum opzegging" >}}
+
 {{< form/input "Straatnaam en huisnummer" >}}
 
 {{< form/input "Postcode en woonplaats" >}}
