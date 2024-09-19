@@ -28,4 +28,4 @@ Ook financieel ga je er op vooruit als je kiest voor Callvoip. Hieronder zie je 
 Voor veel bedrijven betekent overstappen naar Callvoip dat er geen nieuwe apparatuur hoeft te worden aangeschaft. Onze VoIP-oplossingen werken namelijk prima met je bestaande apparatuur, waardoor de overstap snel en zonder extra kosten kan plaatsvinden.
 
 <b>Start vandaag nog met Callvoip</b><br>
-Wil je meer weten over hoe Callvoip je kan helpen bij de overstap? Neem dan vandaag nog contact met ons op. We zorgen ervoor dat je bedrijf altijd bereikbaar blijft, zonder onderbrekingen. Vul het contactformulier in en een van onze specialisten neemt zo snel mogelijk contact met je op om kennis met je te maken en je wensen in kaart te brengen.
+Wil je meer weten over hoe Callvoip je kan helpen bij de overstap? Neem dan vandaag nog contact met ons op. We zorgen ervoor dat je bedrijf altijd bereikbaar blijft, zonder onderbrekingen.<br><br>Vul het contactformulier in en een van onze specialisten neemt zo snel mogelijk contact met je op om kennis met je te maken en je wensen in kaart te brengen.
