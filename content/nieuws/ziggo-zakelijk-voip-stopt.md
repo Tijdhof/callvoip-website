@@ -58,7 +58,7 @@ Laat je gegevens achter, dan bellen wij je om vrijblijvend meer informatie te ge
                           class="w-full border border-grey-light bg-white px-3 py-2 text-base"> </div>
               </div>
               <br>
-              <p> <button type="submit" class="button">Neem contact met mij op</button> </p>
+              <p> <button type="submit" class="button">Neem vrijblijvend contact met mij op</button> </p>
           </form>
       </div>
   </div></center>
