@@ -29,7 +29,7 @@ Voor veel bedrijven betekent overstappen naar Callvoip dat er geen nieuwe appara
 
 <b>Start vandaag nog met Callvoip</b><br>
 Wil je meer weten over hoe Callvoip je kan helpen bij de overstap? Neem dan vandaag nog contact met ons op. We zorgen ervoor dat je bedrijf altijd bereikbaar blijft, zonder onderbrekingen.<br><br>Vul het contactformulier in en een van onze specialisten neemt zo snel mogelijk contact met je op om kennis met je te maken en je wensen in kaart te brengen.
-<center><hr width="70%"><h2>Goed geregeld overstappen naar Callvoip??</h2>
+<center><hr width="70%"><h3>Goed geregeld overstappen naar Callvoip?</h3>
 Laat je gegevens achter, dan bellen wij je om vrijblijvend meer informatie te geven.<br>Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
