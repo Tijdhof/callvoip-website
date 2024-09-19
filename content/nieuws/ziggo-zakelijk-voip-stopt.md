@@ -15,7 +15,7 @@ url: /nieuws/ziggo-zakelijk-stopt
 ---
 
 <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1726749619/ziggo-zakelijk-stopt-banner.png"></center>
-Aan het einde van 2024 stopt Ziggo Zakelijk met het aanbieden van telefoniediensten voor bedrijven. Dit betekent dat bedrijven die gebruik maken van Ziggo Zakelijk Bellen op zoek moeten naar een betrouwbare oplossing om bereikbaar te blijven. Bij Callvoip begrijpen we dat telefonie van cruciaal belang is voor de continuïteit van je bedrijf, het is immers onze business. Gelukkig is overstappen naar Callvoip eenvoudig en zorgeloos, zodat je bedrijfsvoering ongestoord doorgaat.
+Aan het einde van 2024 stopt Ziggo Zakelijk met het aanbieden van telefoniediensten voor bedrijven. Dit betekent dat bedrijven die gebruik maken van Ziggo Zakelijk Bellen op zoek moeten naar een betrouwbare oplossing om bereikbaar te blijven. Bij Callvoip begrijpen we dat telefonie van cruciaal belang is voor de continuïteit van je bedrijf, het is immers onze business. Gelukkig is overstappen naar Callvoip eenvoudig en zorgeloos, zodat je bedrijfsvoering ongestoord doorgaat.<br>
 
 <b>Naadloze overstap zonder zorgen</b><br>
 Bij Callvoip zorgen we ervoor dat bedrijven die momenteel gebruikmaken van Ziggo Zakelijk, soepel kunnen overstappen naar onze VoIP-oplossingen. Dit kan zonder onderbrekingen en in veel gevallen zonder dat nieuwe apparatuur nodig is. We nemen de volledige overstap uit handen en zorgen ervoor dat je huidige telefoonnummer behouden blijft, zodat je klanten je blijven bereiken zoals ze gewend zijn.
