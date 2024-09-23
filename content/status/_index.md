@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **23 september2024  |**  <b>Verstoring van het telefonieverkeer</b>\
+      **23 september 2024  |**  <b>Verstoring van het telefonieverkeer</b>\
 
       13.20 uur - op dit moment ervaren we een verstoring van onze dienstverlening. \
 
