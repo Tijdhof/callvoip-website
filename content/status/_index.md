@@ -41,11 +41,14 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **23 september 2024  |**  <b>Verstoring van het telefonieverkeer</b>\
+      **23 september 2024  |**  <b>OPGELOST | Verstoring van het
+      telefonieverkeer</b>\
 
       \
 
-      13.38 uur - telefoonverkeer komt weer op gang. \
+      13.38 uur - storing is opgelost. \
+
+      Het probleem is gevonden en verholpen; telefonie en toegang tot de panel zijn weer hersteld. \
 
       \
 
