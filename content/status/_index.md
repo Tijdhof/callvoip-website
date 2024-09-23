@@ -43,6 +43,12 @@ tests:
     text: >-
       **23 september 2024  |**  <b>Verstoring van het telefonieverkeer</b>\
 
+      \
+
+      13.38 uur - telefoonverkeer komt weer op gang. \
+
+      \
+
       13.20 uur - op dit moment ervaren we een verstoring van onze dienstverlening. \
 
       Bij een deel van onze klanten is het inkomende en uitgaande belverkeer verstoord. \
