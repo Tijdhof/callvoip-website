@@ -41,8 +41,22 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor
-      iPhones</b>\
+      **23 september2024  |**  <b>Verstoring van het telefonieverkeer</b>\
+
+      13.20 uur - op dit moment ervaren we een verstoring van onze dienstverlening. \
+
+      Bij een deel van onze klanten is het inkomende en uitgaande belverkeer verstoord. \
+
+      Ook kan het een probleem zijn om de beheerpanel te bereiken. \
+
+      Technici zijn op de hoogte en werken aan een oplossing. \
+
+      \
+
+      Onze welgemeende excuses voor het ongemak. 
+
+
+      **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
       Qaller voor de iPhone heeft een prachtig nieuw jasje! \
 
