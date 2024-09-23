@@ -56,6 +56,9 @@ tests:
       Onze welgemeende excuses voor het ongemak. 
 
 
+      \------
+
+
       **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
       Qaller voor de iPhone heeft een prachtig nieuw jasje! \
