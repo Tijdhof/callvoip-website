@@ -41,32 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      **23 september 2024  |**  <b>OPGELOST | Verstoring van het
-      telefonieverkeer</b>\
-
       \
-
-      13.38 uur - storing is opgelost. \
-
-      Het probleem is gevonden en verholpen; telefonie en toegang tot de panel zijn weer hersteld. \
-
-      \
-
-      13.20 uur - op dit moment ervaren we een verstoring van onze dienstverlening. \
-
-      Bij een deel van onze klanten is het inkomende en uitgaande belverkeer verstoord. \
-
-      Ook kan het een probleem zijn om de beheerpanel te bereiken. \
-
-      Technici zijn op de hoogte en werken aan een oplossing. \
-
-      \
-
-      Onze welgemeende excuses voor het ongemak. 
-
-
-      \------
-
 
       **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
