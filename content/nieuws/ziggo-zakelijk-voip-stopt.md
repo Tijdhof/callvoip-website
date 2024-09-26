@@ -24,7 +24,8 @@ Bij Callvoip zorgen we ervoor dat bedrijven die momenteel gebruikmaken van Ziggo
 Callvoip biedt flexibele en toekomstbestendige zakelijke telefonie-oplossingen. Onze VoIP-diensten zijn ontworpen met de behoeften van bedrijven in gedachten, zoals schaalbaarheid, betrouwbare connectiviteit en eenvoudig beheer. Daarnaast profiteren onze klanten van <a href="https://www.callvoip.nl/telefonie/functionaliteiten/" target="_blank">geavanceerde functies</a> zoals doorschakeling, gespreksbeheer, rapportage en beveiligde communicatie. Onze klantenservice bestaat uit mensen en niet uit AI of een chatbot. Tickets indienen kennen wij niet, je wordt gewoon direct geholpen. Ze staan klaar om ervoor te zorgen dat jouw overstap vlekkeloos verloopt. We helpen je bij elke stap, van de initiële overstap tot de dagelijkse ondersteuning.
 <br><br>
 Ook financieel ga je er op vooruit als je kiest voor Callvoip. Hieronder zie je een prijsvergelijk tussen Ziggo Zakelijke, Rinkel, KPN Zakelijk en Callvoip telefonie:
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1726748250/prijsvergelijking-zakelijke-telefonie.png">
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1726748250/prijsvergelijking-zakelijke-telefonie.png" style="width: 140% !important; max-width: none;">
+
 
 <b>Geen nieuwe apparatuur nodig</b><br>
 Voor veel bedrijven betekent overstappen naar Callvoip dat er geen nieuwe apparatuur hoeft te worden aangeschaft. Onze VoIP-oplossingen werken namelijk prima met je bestaande apparatuur, waardoor de overstap snel en zonder extra kosten kan plaatsvinden.
