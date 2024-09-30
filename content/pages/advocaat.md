@@ -7,7 +7,7 @@ logos: false
 url: "/branches/advocaten/"
 hero:
   title: Telefonie voor Advocaten
-  content: 'Als advocatenpraktijk is het belangrijk dat je altijd bereikbaar bent voor cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax. Echter, als advocaat ben je veel onderweg en daardoor zoek je een passende manier om goed bereikbaar te zijn.<br><br>Met de slimme tools van Callvoip hoef je als Advocaat maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br>En met de integratie van jouw CRM software (bijvoorbeeld <a href="https://www.callvoip.nl/marketplace/basenet/" target="_blank">Basenet</a> en <a href="https://www.callvoip.nl/marketplace/urios/" target="_blank">Urios</a>) geef je de client net dat beetje extra. Jouw voordeel: direct alle gegevens van jouw client in beeld.<br><br><a href="#2" class="button">Bekijk onze testimonials</a>'
+  content: 'Als advocatenpraktijk is het belangrijk dat je altijd bereikbaar bent voor cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax. Echter, als advocaat ben je veel onderweg en daardoor zoek je een passende manier om goed bereikbaar te zijn.<br><br>Met de slimme tools van Callvoip hoef je als Advocaat maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br>En met de integratie van jouw CRM software (bijvoorbeeld <a href="https://www.callvoip.nl/marketplace/basenet/" target="_blank">Basenet</a> en <a href="https://www.callvoip.nl/marketplace/urios/" target="_blank">Urios</a>) geef je de client net dat beetje extra. Jouw voordeel: direct alle gegevens van jouw client in beeld.<br><br><a href="#2" class="button">Bereken jouw kosten</a>'
   image: "/v1571655384/advocaat_fttblf.png"
   zooming: true
   image_position: center
@@ -83,9 +83,9 @@ usps:
       class="button">Check het overzicht</a>
 bottom:
 - title1: ''
-  content1: <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
+  content1: <div id="2"></div><div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
-    kostenoverzicht per maand </div><div id="2"></div> <div class="px-6 clearfix"> <div
+    kostenoverzicht per maand </div> <div class="px-6 clearfix"> <div
     class="flex justify-between clearfix items-end"> <span class="text-base md:text-lg
     font-medium opacity-50 flex-1">1x Hosted telefooncentrale in de cloud</span> <span
     class="text-lg md:text-2xl font-medium opacity-75">€7,50</span> </div> <div class="flex
