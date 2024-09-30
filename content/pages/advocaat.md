@@ -7,7 +7,7 @@ logos: false
 url: "/branches/advocaten/"
 hero:
   title: Telefonie voor Advocaten
-  content: 'Als advocatenpraktijk is het belangrijk dat je altijd bereikbaar bent voor cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax. Echter, als advocaat ben je veel onderweg en daardoor zoek je een passende manier om goed bereikbaar te zijn.<br><br>Met de slimme tools van Callvoip hoef je als Advocaat maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br>En met de integratie van jouw CRM software (bijvoorbeeld DLex Wolter Kluwer en Urios) geef je de client net dat beetje extra. Jouw voordeel: direct alle gegevens van jouw client in beeld.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
+  content: 'Als advocatenpraktijk is het belangrijk dat je altijd bereikbaar bent voor cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax. Echter, als advocaat ben je veel onderweg en daardoor zoek je een passende manier om goed bereikbaar te zijn.<br><br>Met de slimme tools van Callvoip hoef je als Advocaat maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br>En met de integratie van jouw CRM software (bijvoorbeeld Basenet en Urios) geef je de client net dat beetje extra. Jouw voordeel: direct alle gegevens van jouw client in beeld.<br><br><a href="/testimonials/" class="button">Bekijk onze testimonials</a>'
   image: "/v1571655384/advocaat_fttblf.png"
   zooming: true
   image_position: center
@@ -21,9 +21,9 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Koppel jouw eigen CRM Software
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Hiermee wordt degene die belt verrijkt met gegevens uit je database. Met 1 klik open je de bijbehorende gegevens in jouw pakket.<br><br>Alle bekende CRM paketten voor de advocatuur ondersteunen we. Denk dan aan DLex Wolter Kluwer en Urios. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
+  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek. Hiermee wordt degene die belt verrijkt met gegevens uit je database. Met 1 klik open je de bijbehorende gegevens in jouw pakket.<br><br>Alle bekende CRM paketten voor de advocatuur ondersteunen we. Denk dan aan BaseNet, DLex Wolter Kluwer en Urios. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.<br><br><a href="/marketplace/" class="button">Lees meer over integratie</a>'
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/advocaatcrm_ftnpwd.png">
+  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/advocaat-crm.png">
   show_vshape: false
 textblocksfooter2:
 - title1: ''
