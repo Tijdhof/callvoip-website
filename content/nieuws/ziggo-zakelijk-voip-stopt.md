@@ -18,6 +18,9 @@ url: /nieuws/ziggo-zakelijk-stopt
 <center><img src="https://res.cloudinary.com/callvoip/image/upload/v1726749619/ziggo-zakelijk-stopt-banner.png"></center>
 Aan het einde van 2024 stopt Ziggo Zakelijk met het aanbieden van telefoniediensten voor bedrijven. Dit betekent dat bedrijven die gebruik maken van Ziggo Zakelijk Bellen op zoek moeten naar een betrouwbare oplossing om bereikbaar te blijven. Bij Callvoip begrijpen we dat telefonie van cruciaal belang is voor de continuïteit van je bedrijf, het is immers onze business. Gelukkig is overstappen naar Callvoip eenvoudig en zorgeloos, zodat je bedrijfsvoering ongestoord doorgaat.<br><br>
 
+<b>Heb je Ziggo zakelijk en doet je telefoon het niet meer?</b><br>
+Ziggo is al begonnen met het uitfaseren van hun zakelijke telefoniediensten. Dit betekent dat je op elk moment onbereikbaar kunt worden als je nog gebruik maakt van Ziggo Zakelijk Bellen. Bij Callvoip kun je direct overstappen met behoud van je huidige telefoonnummer. Voor veel bedrijven betekent overstappen naar Callvoip ook dat er geen nieuwe apparatuur hoeft te worden aangeschaft. Onze VoIP-oplossingen werken namelijk prima met je bestaande apparatuur, waardoor de overstap snel en zonder extra kosten kan plaatsvinden.
+
 <b>Naadloze overstap zonder zorgen</b><br>
 Bij Callvoip zorgen we ervoor dat bedrijven die momenteel gebruikmaken van Ziggo Zakelijk, soepel kunnen overstappen naar onze VoIP-oplossingen. Dit kan zonder onderbrekingen en in veel gevallen zonder dat nieuwe apparatuur nodig is. We nemen de volledige overstap uit handen en zorgen ervoor dat je huidige telefoonnummer behouden blijft, zodat je klanten je blijven bereiken zoals ze gewend zijn.
 
@@ -38,11 +41,6 @@ Ook financieel ga je er op vooruit als je kiest voor Callvoip. Hieronder zie je 
   }
 </style>
 
-
-
-
-<b>Geen nieuwe apparatuur nodig</b><br>
-Voor veel bedrijven betekent overstappen naar Callvoip dat er geen nieuwe apparatuur hoeft te worden aangeschaft. Onze VoIP-oplossingen werken namelijk prima met je bestaande apparatuur, waardoor de overstap snel en zonder extra kosten kan plaatsvinden.
 
 <b>Start vandaag nog met Callvoip</b><br>
 Wil je meer weten over hoe Callvoip je kan helpen bij de overstap? Neem dan vandaag nog contact met ons op. We zorgen ervoor dat je bedrijf altijd bereikbaar blijft, zonder onderbrekingen.<br><br>Vul het contactformulier in en een van onze specialisten neemt zo snel mogelijk contact met je op om kennis met je te maken en je wensen in kaart te brengen.
