@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip internet: snel en betrouwbaar'
-description: 'Callvoip levert alle soorten nummers: regionaal, landelijk, service of internationaal.'
+description: ''
 type: page
 layout: default2
 logos: false
@@ -75,6 +75,7 @@ textblocksfooter:
   <div class="flex mb-1">
 <div class="flex-1 px-2"></div>
 <div class="">Prijzen zijn excl. BTW</div>
+    
 </div>
               
               
@@ -93,7 +94,7 @@ textblocksfooter:
             </div>
 
             
-            
+            <div>*Op sommige locaties is sprake van een meerprijs op basis van een afwijkende infrastructuur. Wij kunnen dit voor u checken en laten dit weten voordat u uw order plaatst.</div>
             <div class="mt-4">
               <a href="/offerte" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
                 Offerte aanvragen
