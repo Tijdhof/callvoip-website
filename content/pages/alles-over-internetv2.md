@@ -177,7 +177,8 @@ textblocksfooter:
               </a>
             </div>
           </div>
-          <div>*Op sommige locaties is sprake van een meerprijs op basis van een afwijkende infrastructuur. Wij kunnen dit voor u checken en laten dit weten voordat u uw order plaatst.</div>'
+          </div>
+          <p>*Op sommige locaties is sprake van een meerprijs op basis van een afwijkende infrastructuur. Wij kunnen dit voor u checken en laten dit weten voordat u uw order plaatst.</p>'
 images: []
 hideinsearch: false
 hideingoogle: false
