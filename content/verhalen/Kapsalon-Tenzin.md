@@ -10,7 +10,7 @@ hidesocialshare: false
 image_uitgelicht: "/v1711445432/kapsalon-tenzin.jpg"
 hero:
   disable_image_on_mobile: false
-date: 2024-10-08T09:29:05.611Z
+date: 2024-10-07T09:29:05.611Z
 url: /succesverhalen/ep-heerlen/
 type: verhaal
 
