@@ -1,6 +1,6 @@
 ---
-title: "Ziggo Zakelijk stopt in 2024 met telefoniediensten: Callvoip heeft een naadloze oplossing"
-description: Ziggo Zakelijk stopt okt 2024 met telefoniediensten. Callvoip biedt een naadloze overstap naar betrouwbare VoIP-oplossingen, zonder onderbrekingen of nieuwe apparatuur. Ontdek meer!
+title: "Ziggo Zakelijk stopt in 2024 met telefoniediensten"
+description: Ziggo Zakelijk stopt met VoIP telefonie. Werkt jouw Yealink of Gigaset toestel niet meer met Ziggo? Stap over naar Callvoip met behoud van je nummer en je bestaande apparatuur.
 images:
   - /v1716898773/ziggo-zakelijk-stopt.png
 featured: false
