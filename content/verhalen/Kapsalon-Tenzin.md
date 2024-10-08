@@ -2,20 +2,20 @@
  ---
 title: Ik zou wel een kopje thee willen drinken met Marieke
 images:
-- "/v1711445809/ep_zijlstra_heerlerheide.jpg"
-featured: true
+- "/v1711445809/kapsalon-tenzin.jpg"
+featured: false
 hideinsearch: false
 hideingoogle: false
 hidesocialshare: false
-image_uitgelicht: "/v1711445432/ep_zijlstra_heerlerheide.jpg"
+image_uitgelicht: "/v1711445432/kapsalon-tenzin.jpg"
 hero:
   disable_image_on_mobile: false
-date: 2024-03-26T09:29:05.611Z
+date: 2024-10-08T09:29:05.611Z
 url: /succesverhalen/ep-heerlen/
 type: verhaal
 
 ---
-<img src="https://res.cloudinary.com/callvoip/image/upload/v1711445809/ep_zijlstra_heerlerheide.jpg"><br><br>
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1728373531/kapsalon-tenzin.jpg"><br><br>
 Bij Kapsalon Tenzin in Groningen is harmonie, rust en sfeer de sleutel tot succes. Onlangs spraken we met Nynke, eigenaresse van de salon, over hun overstap van KPN naar Callvoip. Ze vertelde hoe die overgang is verlopen en wat hen heeft overtuigd om voor Callvoip te kiezen.
 
 <strong>Waarom overstappen?</strong><br>
@@ -38,8 +38,8 @@ Voor ondernemers zoals Nynke biedt Callvoip niet alleen technische oplossingen, 
 Laat je gegevens achter, dan bellen wij je om meer informatie te geven.<br>Of bel ons nu meteen: <a href="tel:+31508200000">050 - 820
   00 00</a>. Wij maken altijd tijd voor je!
       <br><br><div>
-          <form class="mb-6" name="epheerlen-verhaal" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
-              <input type="hidden" name="form-name" value="epheerlen-verhaal" />
+          <form class="mb-6" name="Tenzin-verhaal" action="/bedank/tour/" accept-charset="UTF-8" method="POST" data-netlify="true">
+              <input type="hidden" name="form-name" value="Tenzin-verhaal" />
               <p class="hidden"> <label>Don’t fill this out if human <input name="bot-field"> </label> </p>
               <p> <input type="hidden" id="formlayout" name="formlayout" value="d-948a1897e5e645e5b41ed33ccdd3d8bb"
                       class="hidden"> </p>
