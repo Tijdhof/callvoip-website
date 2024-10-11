@@ -16,7 +16,7 @@ type: verhaal
 
 ---
 <img src="https://res.cloudinary.com/callvoip/image/upload/v1728373531/kapsalon-tenzin.jpg"><br><br>
-Bij Kapsalon Tenzin in Groningen is harmonie, rust en sfeer de sleutel tot succes. Onlangs spraken we met Nynke, eigenaresse van de salon, over hun overstap van KPN naar Callvoip. Ze vertelde hoe die overgang is verlopen en wat hen heeft overtuigd om voor Callvoip te kiezen.
+Bij <a href="https://www.tenzin.nl/">Kapsalon Tenzin</a> in Groningen is harmonie, rust en sfeer de sleutel tot succes. Onlangs spraken we met Nynke, eigenaresse van de salon, over hun overstap van KPN naar Callvoip. Ze vertelde hoe die overgang is verlopen en wat hen heeft overtuigd om voor Callvoip te kiezen.
 
 <strong>Waarom overstappen?</strong><br>
 Nynke begint haar verhaal met een duidelijke reden: ze wilden van KPN af. "We werden vaak lastiggevallen met aanbiedingen waar we totaal geen behoefte aan hadden, zoals voor televisie en internet. Het voelde alsof we betaalden voor diensten die we niet nodig hadden," legt ze uit. Toen ze besloten te verhuizen, was het tijd voor een frisse start. "We wilden alles slanker en makkelijker maken, en de aansluiting van KPN paste daar niet bij." Het advies van hun verhuurder gaf de doorslag: hij had goede ervaringen met Callvoip en raadde het hen aan. Nynke had zelf ook al wat onderzoek gedaan, maar het positieve advies van hun verhuurder (en ook omdat Callvoip ook in Groningen zit) maakte de keuze uiteindelijk makkelijk. 
