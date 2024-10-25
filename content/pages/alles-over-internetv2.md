@@ -74,7 +74,7 @@ textblocksfooter:
   </div>
 
   <div class="flex mb-1">
-<div class="flex-1 px-2">Opslag Delta kosten</div>
+<div class="flex-1 px-2">Meerprijs voor Delta-verbindingen</div>
 <div class="">€&nbsp;5,- per maand/div>
     
 </div>
