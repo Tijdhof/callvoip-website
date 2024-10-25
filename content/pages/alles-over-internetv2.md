@@ -100,7 +100,7 @@ textblocksfooter:
                 Offerte aanvragen
               </a>
             </div>
-          </div>'
+          </div><p>*Op sommige locaties is sprake van een meerprijs op basis van een afwijkende infrastructuur. Wij kunnen dit voor u checken en laten dit weten voordat u uw order plaatst.</p>'
   title2: Callvoip DSL
   content2: 'De beproefde DSL-verbindingen zijn er in vele soorten en snelheden. De meestvoorkomende zijn ADSL, VDSL en VVDSL. Ook DSL kan heel snel zijn; op basis van jouw adres kunnen we zien wat er mogelijk is en alles voor je regelen. Benieuwd naar de mogelijkheden? Samen bekijken wat voor jouw adres de beste oplossing is.<br><br>
     <div class="mb-8 bg-white rounded-lg py-8 px-6">
@@ -177,8 +177,7 @@ textblocksfooter:
               </a>
             </div>
           </div>
-          </div>
-          <p>*Op sommige locaties is sprake van een meerprijs op basis van een afwijkende infrastructuur. Wij kunnen dit voor u checken en laten dit weten voordat u uw order plaatst.</p>'
+          </div>'
 images: []
 hideinsearch: false
 hideingoogle: false
