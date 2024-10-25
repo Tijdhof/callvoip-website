@@ -69,7 +69,7 @@ textblocksfooter:
     
     <div class="flex-1 px-2">tot 1 Gb/s</div>
     
-    <div class="">€&nbsp;69,- per maand</div>
+    <div class="">€&nbsp;79,- per maand</div>
     
   </div>
   <div class="flex mb-1">
