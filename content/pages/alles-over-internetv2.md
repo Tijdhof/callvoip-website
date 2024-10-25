@@ -72,6 +72,13 @@ textblocksfooter:
     <div class="">€&nbsp;79,- per maand</div>
     
   </div>
+
+  <div class="flex mb-1">
+<div class="flex-1 px-2">Opslag Delta kosten</div>
+<div class="">€&nbsp;5,- per maand/div>
+    
+</div>
+
   <div class="flex mb-1">
 <div class="flex-1 px-2"></div>
 <div class="">Prijzen zijn excl. BTW</div>
