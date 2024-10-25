@@ -140,7 +140,7 @@ textblocksfooter:
     </li>
     <li>Het data-SIM abonnement wordt geleverd met fysieke SIM-kaart.</li>
     <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
-    <li>De Acces Point Name (APN) voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
+    <li>De Access Point Name (APN) voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
     <li>
       Klik <a href="https://www.odido.nl/netwerk/dekking" target="_blank">hier</a> om de Odido 4G dekkingskaart te bezoeken.
     </li>
