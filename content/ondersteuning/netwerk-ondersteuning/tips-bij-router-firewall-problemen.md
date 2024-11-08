@@ -18,6 +18,7 @@ Veel problemen worden opgelost als je de router zo instelt dat er vrij verkeer v
 
 * UDP **van** bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)
 * UDP **naar** bereik 185.19.236.0/22 (=185.19.236.0 t/m 185.19.239.255)
+* 52.29.124.181, 3.124.165.251 en subnet 93.95.7.0/24 (nodig voor auto-provisioning van Yealink toestellen)
 * 5060 UDP > SIP (nodig om te registeren)
 * 10000 - 60000 UDP > RTP (nodig voor 2-zijdige audio)
 
