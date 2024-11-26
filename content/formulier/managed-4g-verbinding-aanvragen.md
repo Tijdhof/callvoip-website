@@ -70,7 +70,7 @@ Ca € 600,00
 Ca € 600,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-€ 119,00
+€ 199,00
 {{</ layout/column3 >}}
 {{</ layout/columns >}}
 {{< layout/columns >}}
