@@ -86,13 +86,13 @@ Ca € 600,00
 {{</ layout/columns >}}
 {{< layout/columns >}}
 {{< layout/column3 >}}
-Tijdelijk internet, daarna backup
+Tijdelijk daarna backup
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
 Ca € 600,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-€ 219,00 en 89,00 als backup
+€ 219,00/89,00 tijdelijk/backup
 {{</ layout/column3 >}}
 {{</ layout/columns >}}
 <br><br>
