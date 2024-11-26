@@ -1,5 +1,5 @@
 ---
-title: Vraag Managed 4G internet aan
+title: Vraag Managed 5G internet aan
 url: "/aanvragen/managed-4g/"
 hideinsearch: false
 hideingoogle: false
@@ -24,10 +24,10 @@ Vul het formulier in, controleer de bevestigingsmail en geef daarop een reply na
 {{< form/email "Email" required >}}
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Aanvraag Managed 4G" >}}
+{{< form/fieldset "Aanvraag Managed 5G" >}}
 {{< form/select "Type verbinding" >}}
-{{< form/option "Snel 4G internet 100GB data" >}}
-{{< form/option "Snel 4G internet met onbeperkte data" >}}
+{{< form/option "Snel 5G internet 100GB data" >}}
+{{< form/option "Snel 5G internet met onbeperkte data" >}}
 {{< form/option "Snelle back-up voor glas/kabelinternet" >}}
 {{< form/option "Tijdelijke internet op locatie" >}}
 {{</ form/select >}}
@@ -56,10 +56,10 @@ Maandelijks
 4G internet, 100GB data/mnd
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-Ca € 450,00
+Ca € 600,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-€ 99,00
+€ 119,00
 {{</ layout/column3 >}}
 {{</ layout/columns >}}
 {{< layout/columns >}}
@@ -67,10 +67,10 @@ Ca € 450,00
 4G internet met onbeperkt data
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-Ca € 450,00
+Ca € 600,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-€ 199,00
+€ 119,00
 {{</ layout/column3 >}}
 {{</ layout/columns >}}
 {{< layout/columns >}}
@@ -78,10 +78,10 @@ Ca € 450,00
 Snelle back-up voor glas-/kabelinternet
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-Ca € 450,00
+Ca € 600,00
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
-€ 69,00
+€ 89,00
 {{</ layout/column3 >}}
 {{</ layout/columns >}}
 {{< layout/columns >}}
