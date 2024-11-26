@@ -29,7 +29,7 @@ Vul het formulier in, controleer de bevestigingsmail en geef daarop een reply na
 {{< form/option "Snel 5G internet 100GB data" >}}
 {{< form/option "Snel 5G internet met onbeperkte data" >}}
 {{< form/option "Snelle back-up voor glas/kabelinternet" >}}
-{{< form/option "Tijdelijke internet op locatie" >}}
+{{< form/option "Tijdelijk internet, daarna backupverbinding" >}}
 {{</ form/select >}}
 {{< form/textarea "Opmerkingen" >}}
 {{</ form/fieldset >}}
