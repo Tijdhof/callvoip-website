@@ -53,7 +53,7 @@ Maandelijks
 {{</ layout/columns >}}
 {{< layout/columns >}}
 {{< layout/column3 >}}
-4G internet, 100GB data/mnd
+5G internet, 100GB data/mnd
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
 Ca € 600,00
@@ -64,7 +64,7 @@ Ca € 600,00
 {{</ layout/columns >}}
 {{< layout/columns >}}
 {{< layout/column3 >}}
-4G internet met onbeperkt data
+5G internet met onbeperkt data
 {{</ layout/column3 >}}
 {{< layout/column3 >}}
 Ca € 600,00
