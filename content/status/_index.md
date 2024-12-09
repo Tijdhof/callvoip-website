@@ -13,7 +13,7 @@ items:
   - title: Online telefooncentrale
     status: true
   - title: Inkomende gesprekken
-    status: true
+    status: false
   - title: Uitgaande gesprekken
     status: true
   - title: (Extern) Doorschakelen
@@ -42,6 +42,7 @@ tests:
     error: false
     text: >-
       \
+      **9 december 2024  |**  <b>Momenteel ervaring wij een storing met inkomende gesprekken, we werken actief aan een spoedige oplossing.<br>Uitgaande gesprekken ervaring geen problemen.</b>
 
       **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
