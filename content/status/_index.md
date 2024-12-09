@@ -83,7 +83,7 @@ tests:
       We zijn ons ervan bewust hoe belangrijk jouw bereikbaarheid is. \
 
       Onze welgemeende excuses voor het ongemak!\
-       <br><br>
+       <br><hr><br>
       <b>15 augustus 2024  |</b>  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
       Qaller voor de iPhone heeft een prachtig nieuw jasje! \
