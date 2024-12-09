@@ -46,7 +46,7 @@ tests:
 
       Momenteel ervaren we een verstoring van het inkomende en uitgaande belverkeer.<br>\
 
-      Update 10.40 uur:<br>\
+      Update 10.40 uur:\
 
       &bull; gesprekken komen binnen maar er is geen audio. \
 
@@ -58,7 +58,7 @@ tests:
 
       <br>\
 
-      Update 10.20 uur:<br>\
+      Update 10.20 uur:\
 
       &bull; inkomende gesprekken komt wel weer binnen op het systeem maar nog niet op toestellen. <br>\
 
