@@ -48,7 +48,7 @@ tests:
 
       &bull; inkomende gesprekken komt wel weer binnen op het systeem maar nog niet op toestellen. \
 
-      <b>U kunt gesprekken via de beheerinterface wel doorschaken naar bv een mobiel nummer</b>\
+      <b>Je kunt gesprekken via de beheerinterface wel doorschaken naar bv een mobiel nummer</b>\
 
       &bull; uitgaande gesprekken zijn soms niet mogelijk\
 
@@ -62,7 +62,7 @@ tests:
 
       Technici zijn op de hoogte en werken hard aan een oplossing. \
 
-      We zijn ons ervan bewust hoe belangrijk uw bereikbaarheid is. \
+      We zijn ons ervan bewust hoe belangrijk jouw bereikbaarheid is. \
 
       Onze welgemeende excuses voor het ongemak!\
        <br><br>
