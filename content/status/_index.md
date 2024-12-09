@@ -41,8 +41,9 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      
-      **9 december 2024 9:49  |**  <b>Momenteel ervaring wij een storing met inkomende en uitgaande gesprekken, we werken actief aan een spoedige oplossing.</b><br><br>
+
+      <p style="font-size:25px;"><b>Storing inkomende & uitgaande gesprekken</b></p>
+      **9 december 2024 9:49  |**  Momenteel ervaring wij een storing met inkomende en uitgaande gesprekken, we werken actief aan een spoedige oplossing.<br><br>
 
       **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
