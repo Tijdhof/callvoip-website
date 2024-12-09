@@ -66,9 +66,7 @@ tests:
 
       Als u hulp nodig heeft, laat ons dan per email of whatsapp weten wat er moet gebeuren. \
 
-      We hopen dat alles snel weer helemaal operationeel is. \
-
-      <br>\
+      We hopen dat alles snel weer helemaal operationeel is. <br>\
 
       Update 10.20 uur:\
 
