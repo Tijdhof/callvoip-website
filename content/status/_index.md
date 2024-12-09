@@ -41,11 +41,26 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      <p style="font-size:25px;"><b>Storing inkomende & uitgaande
+      gesprekken</b></p> \*\*9 december 2024 9:49  | Verstoring van een deel van
+      het belverkeer\*\*<br>Momenteel ervaren we een verstoring van het
+      inkomende en uitgaande belverkeer:\
 
-      <p style="font-size:25px;"><b>Storing inkomende & uitgaande gesprekken</b></p>
-      **9 december 2024 9:49  |**  Momenteel ervaring wij een storing met inkomende en uitgaande gesprekken, we werken actief aan een spoedige oplossing.<br><br>
+      &bull; inkomende gesprekken komen niet altijd binnen\
 
-      **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
+      &bull; uitgaande gesprekken zijn soms niet mogelijk\
+
+      &bull; webcalls geeft zo nu en dan een fout\
+
+      \
+
+      Technici zijn op de hoogte en werken hard aan een oplossing. \
+
+      We zijn ons ervan bewust hoe belangrijk uw bereikbaarheid is. \
+
+      Onze welgemeende excuses voor het ongemak!\
+       <br><br>
+      \*\*15 augustus 2024  |\*\*  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
       Qaller voor de iPhone heeft een prachtig nieuw jasje! \
 
@@ -55,7 +70,7 @@ tests:
 
       <br><br>
 
-      **Inloggen met een extra code (2FA):** <br>
+      \*\*Inloggen met een extra code (2FA):\*\* <br>
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
 
