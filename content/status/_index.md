@@ -46,9 +46,21 @@ tests:
 
       Momenteel ervaren we een verstoring van het inkomende en uitgaande belverkeer.<br>\
 
+      Update 10.50 uur:\
+
+      &bull; we zien een groeiend aantal geslaagde uitbel-acties.  \
+
+      &bull; gesprekken komen en in veel gevallen is er alweer audio, maar nog niet in alle gevallen. \
+
+      U kunt gesprekken wel doorschakelen naar mobiel of voicemail of een meldtekst. \
+
+      Als u hulp nodig heeft, laat ons dan per email of whatsapp weten wat er moet gebeuren. \
+
+      &bull; NB: de BLF-lampjes (beschikbaarheids-status) zijn tijdelijk uitgeschakeld. <br>\
+
       Update 10.40 uur:\
 
-      &bull; gesprekken komen binnen maar er is geen audio. \
+      &bull; gesprekken komen binnen maar er is audio. \
 
       U kunt gesprekken wel doorschakelen naar mobiel of voicemail of een meldtekst. \
 
