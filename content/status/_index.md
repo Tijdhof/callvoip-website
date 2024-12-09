@@ -52,19 +52,13 @@ tests:
 
       De BLF lampjes (= ingespreks-indicator voor collega-s en de omleidingen) zijn nog uitgeschakeld\
 
-      &bull; de meeste inkomende gesprekken gaan weer goed, nog een enkel gesprek is zonder audio of lukt niet. \
-
-      &bull; De BLF-lampjes (beschikbaarheids-status) is nog steeds tijdelijk uitgeschakeld. \
-
-      De onderbrekening van de telefoniedienst is nog niet volledig opgelost, waardoor er zich nog steeds problemen kunnen voordoen met bellen en gebeld worden. \
-
-      Onze team werkt met de hoogste prioriteit aan het zo spoedig mogelijk volledig oplossen van de problemen. <br>\
+      &bull; de meeste inkomende gesprekken gaan weer goed, nog een enkel gesprek is zonder audio of lukt niet. <br>\
 
       Update 11.20 uur:\
 
       &bull; de meeste inkomende gesprekken gaan weer goed, nog een enkel gesprek is zonder audio of lukt niet. \
 
-      &bull; De BLF-lampjes (beschikbaarheids-status) is nog steeds tijdelijk uitgeschakeld. \
+      &bull; De BLF-lampjes (beschikbaarheids-status) zijn tijdelijk nog uitgeschakeld. \
 
       De onderbrekening van de telefoniedienst is nog niet volledig opgelost, waardoor er zich nog steeds problemen kunnen voordoen met bellen en gebeld worden. \
 
