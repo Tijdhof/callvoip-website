@@ -52,7 +52,7 @@ tests:
 
       &bull; gesprekken komen binnen maar er is geen audio. \
 
-      U kunt gesprekken wel doroschakelen naar mobiel of voicemail of een meldtekst. \
+      U kunt gesprekken wel doorschakelen naar mobiel of voicemail of een meldtekst. \
 
       We hopen dat alles snel weer helemaal operationeel is. \
 
