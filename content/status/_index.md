@@ -42,7 +42,7 @@ tests:
     error: false
     text: >-
       
-      **9 december 2024  |**  <b>Momenteel ervaring wij een storing met inkomende en uitgaande gesprekken, we werken actief aan een spoedige oplossing.</b><br><br>
+      **9 december 2024 9:49  |**  <b>Momenteel ervaring wij een storing met inkomende en uitgaande gesprekken, we werken actief aan een spoedige oplossing.</b><br><br>
 
       **15 augustus 2024  |**  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
