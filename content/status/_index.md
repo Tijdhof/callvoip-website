@@ -54,6 +54,8 @@ tests:
 
       U kunt gesprekken wel doorschakelen naar mobiel of voicemail of een meldtekst. \
 
+      Als u hulp nodig heeft, laat ons dan per email of whatsapp weten wat er moet gebeuren. \
+
       We hopen dat alles snel weer helemaal operationeel is. \
 
       <br>\
