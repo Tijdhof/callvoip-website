@@ -41,12 +41,32 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <p style="font-size:25px;"><b>Storing inkomende & uitgaande
-      gesprekken</b></p>\
+      <b>9 december 2024 9:49  | Verstoring van een deel van het
+      belverkeer</b><br>\
 
-      <br>9 december 2024 9:49  | Verstoring van een deel van het belverkeer</b><br>Momenteel ervaren we een verstoring van het inkomende en uitgaande belverkeer:\
+      Momenteel ervaren we een verstoring van het inkomende en uitgaande belverkeer.\
+
+      <br>\
+
+      Update 10.40 uur:<br>\
+
+      &bull; gesprekken komen binnen maar er is geen audio. \
+
+      U kunt gesprekken wel doroschakelen naar mobiel of voicemail of een meldtekst. \
+
+      We hopen dat alles snel weer helemaal operationeel is. \
+
+      <br>\
+
+      <br>\
+
+      Update 10.20 uur:<br>\
 
       &bull; inkomende gesprekken komt wel weer binnen op het systeem maar nog niet op toestellen. \
+
+      <br>\
+
+      <br>\
 
       <b>Je kunt gesprekken via de beheerinterface wel doorschaken naar bv een mobiel nummer</b>\
 
