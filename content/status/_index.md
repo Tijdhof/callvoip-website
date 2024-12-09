@@ -58,13 +58,9 @@ tests:
 
       <br>\
 
-      <br>\
-
       Update 10.20 uur:<br>\
 
       &bull; inkomende gesprekken komt wel weer binnen op het systeem maar nog niet op toestellen. \
-
-      <br>\
 
       <br>\
 
