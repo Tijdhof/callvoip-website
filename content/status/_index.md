@@ -41,8 +41,8 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>9 december 2024 9:49  | Verstoring van een deel van het
-      belverkeer</b><br>\
+      <b>9 december 2024 9:49  | Verstoring van een deel van het belverkeer:
+      opgelost</b><br>\
 
       Momenteel ervaren we een verstoring van het inkomende en uitgaande belverkeer.<br>\
 
