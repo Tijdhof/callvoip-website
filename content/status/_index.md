@@ -76,7 +76,7 @@ tests:
 
       <br><br>
 
-      <br>Inloggen met een extra code (2FA):</b> <br>
+      <b>Inloggen met een extra code (2FA):</b> <br>
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
 
