@@ -80,7 +80,7 @@ tests:
 
       Update 10.20 uur:\
 
-      &bull; inkomende gesprekken komt wel weer binnen op het systeem maar nog niet op toestellen. <br>\
+      &bull; inkomende gesprekken komen wel  binnen op het systeem maar nog niet op de toestellen. <br>\
 
       <b>Je kunt gesprekken via de beheerinterface wel doorschaken naar bv een mobiel nummer</b>\
 
