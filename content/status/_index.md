@@ -48,7 +48,7 @@ tests:
 
       Update 12.00 uur:\
 
-      Het inkomende en uitgaande gespreksverkeer werkt weer naar behoren.\
+      Het inkomende en uitgaande gespreksverkeer werkt weer (wel kan er in een enkel geval nog sprake zijn van wegvallende audio of een verbroken lijn).\
 
       De BLF lampjes (= ingespreks-indicator voor collega-s en de omleidingen) zijn nog uitgeschakeld\
 
