@@ -44,8 +44,8 @@ tests:
       <b>Geen meldingen</b>  |  alle telefoniesystemen werken naar behoren
       </b><br>\
 
-      \
-       <br><hr><br>
+      <hr><br>
+
       <b>15 augustus 2024  |</b>  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
       Qaller voor de iPhone heeft een prachtig nieuw jasje! \
