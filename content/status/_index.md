@@ -41,70 +41,10 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>9 december 2024 9:49  | Verstoring van een deel van het belverkeer:
-      opgelost</b><br>\
-
-      Update 12.00 uur:\
-
-      Het inkomende en uitgaande gespreksverkeer werkt weer (wel kan er in een enkel geval nog sprake zijn van wegvallende audio of een verbroken lijn).\
-
-      De BLF lampjes (= ingespreks-indicator voor collega-s en de omleidingen) zijn nog uitgeschakeld\
-
-      &bull; de meeste inkomende gesprekken gaan weer goed, nog een enkel gesprek is zonder audio of lukt niet. <br>\
-
-      Update 11.20 uur:\
-
-      &bull; de meeste inkomende gesprekken gaan weer goed, nog een enkel gesprek is zonder audio of lukt niet. \
-
-      &bull; De BLF-lampjes (beschikbaarheids-status) zijn tijdelijk nog uitgeschakeld. \
-
-      De onderbrekening van de telefoniedienst is nog niet volledig opgelost, waardoor er zich nog steeds problemen kunnen voordoen met bellen en gebeld worden. \
-
-      Onze team werkt met de hoogste prioriteit aan het zo spoedig mogelijk volledig oplossen van de problemen. <br>\
-
-      Update 10.50 uur:\
-
-      &bull; we zien een groeiend aantal geslaagde uitbel-acties.  \
-
-      &bull; gesprekken komen en in veel gevallen is er alweer audio, maar nog niet in alle gevallen. \
-
-      U kunt gesprekken wel doorschakelen naar mobiel of voicemail of een meldtekst. \
-
-      Als u hulp nodig heeft, laat ons dan per email of whatsapp weten wat er moet gebeuren. \
-
-      &bull; NB: de BLF-lampjes (beschikbaarheids-status) zijn tijdelijk uitgeschakeld. <br>\
-
-      Update 10.40 uur:\
-
-      &bull; gesprekken komen binnen maar er is audio. \
-
-      U kunt gesprekken wel doorschakelen naar mobiel of voicemail of een meldtekst. \
-
-      Als u hulp nodig heeft, laat ons dan per email of whatsapp weten wat er moet gebeuren. \
-
-      We hopen dat alles snel weer helemaal operationeel is. <br>\
-
-      Update 10.20 uur:\
-
-      &bull; inkomende gesprekken komen wel  binnen op het systeem maar nog niet op de toestellen. <br>\
-
-      <b>Je kunt gesprekken via de beheerinterface wel doorschaken naar bv een mobiel nummer</b>\
-
-      &bull; uitgaande gesprekken zijn soms niet mogelijk\
-
-      &bull; webcalls geeft zo nu en dan een fout\
+      <b>Geen meldingen</b>  |  alle telefoniesystemen werken naar behoren
+      </b><br>\
 
       \
-
-      NB: De panels zijn wel bereikbaar voor het instellen van doorschakelingen naar bv een mobiel nummer. \
-
-      \
-
-      Technici zijn op de hoogte en werken hard aan een oplossing. \
-
-      We zijn ons ervan bewust hoe belangrijk jouw bereikbaarheid is. \
-
-      Onze welgemeende excuses voor het ongemak!\
        <br><hr><br>
       <b>15 augustus 2024  |</b>  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
 
