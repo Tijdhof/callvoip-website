@@ -41,7 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>Geen meldingen</b>  |  alle telefoniesystemen werken naar behoren
+      <br><b>Geen meldingen</b>  |  alle telefoniesystemen werken naar behoren
       </b><br>\
 
       <hr><br>
