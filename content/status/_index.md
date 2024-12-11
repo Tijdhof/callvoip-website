@@ -41,8 +41,9 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <br><b>Geen meldingen</b>  |  alle telefoniesystemen werken naar behoren
-      </b><br>\
+      <br><b>Storingsmelding 11 dec 2024 08.50 uur</b>  |  Problemen audio op
+      vaste toestellen</b><br>\
+
 
       <hr><br>
 
