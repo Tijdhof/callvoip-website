@@ -46,7 +46,7 @@ tests:
 
       Update 10.15 uur: we zien dat de meeste vaste telefoons weer naar behoren werken. \
 
-      De BLF functie (zien of een collega in gesprek is / omleiding aan of uit is) is nog uitgeschakeld.\
+      De BLF functie (statuslampjes, status collega-s en status van omleidingen) is nog uitgeschakeld.\
 
       De audio werkt weer naar behoren, inkomend en uitgaand.\
 
@@ -62,30 +62,18 @@ tests:
 
       We raden je met klem aan om te zorgen dat:\
 
-      - je op de panel kunt inloggen zodat je daar bandjes of doorschakelingen kunt instellen, als nodig\
 
-      - een of meer mensen in het team de Qaller app op hun mobiel hebben om snel te kunnen doorschakelen.     \
+      * je op de panel kunt inloggen zodat je daar bandjes of doorschakelingen kunt instellen, als nodig\
 
-      \
-
-      <br> \
-       <br>Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
-      Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
-
-      Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
-
-      Indien je hierbij hulp nodig hebt, laat het gerust weten. \
-
-      \
-
-      Technici zijn op de hoogte en werken aan een oplossing. \
-
-      Onze excuses voor het ongemak!\
-
-      \
-
-      <br>\
-
+      * een of meer mensen in het team de Qaller app op hun mobiel hebben om snel te kunnen doorschakelen.     \
+        <br>\
+         <br>Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
+        Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
+        Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
+        Indien je hierbij hulp nodig hebt, laat het gerust weten. \
+        \
+        Technici zijn op de hoogte en werken aan een oplossing. \
+        Onze excuses voor het ongemak!
 
       <hr><br>
 
