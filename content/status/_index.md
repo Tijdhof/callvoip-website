@@ -46,7 +46,11 @@ tests:
 
       Update 11.30 uur: alles werkt weer naar behoren. \
 
-      Als zich toch nog problemen voordoen met telefoontoestellen (problemen met audio, rinkelen, doorverbinden) dan is het advies om het toestel te herstarten. <br>\
+      Als zich toch nog problemen voordoen met telefoontoestellen \
+
+      (problemen met audio, rinkelen, doorverbinden) dan is het advies om het toestel te herstarten. \
+
+      Indien problemen blijven bestaan, neem dan gerust even contact met ons op!<br>\
 
       Update 10.15 uur: we zien dat de meeste vaste telefoons weer naar behoren werken. \
 
