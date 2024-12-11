@@ -75,7 +75,9 @@ tests:
       Je kunt dan snel schakelaars bedienen. Bv schakelaars naar mobiele nummers, voicemail of teksten. We helpen je graag dit voor te bereiden! \
 
       <br>\
-       <br>Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
+
+      Update 08.55 uur: Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
+
       Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
 
       Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
