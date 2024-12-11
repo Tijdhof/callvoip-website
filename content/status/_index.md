@@ -42,7 +42,23 @@ tests:
     error: false
     text: >-
       <br><b>Storingsmelding 11 dec 2024 08.50 uur</b>  |  Problemen audio op
-      vaste toestellen</b><br>\
+      vaste toestellen</b>\
+
+      Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
+
+      Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
+
+      Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
+
+      Indien je hierbij hulp nodig hebt, laat het gerust weten. \
+
+      \
+
+      Technici zijn op de hoogte en werken aan een oplossing. \
+
+      \
+
+      <br>\
 
 
       <hr><br>
