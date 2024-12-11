@@ -41,8 +41,12 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <br><b>Storingsmelding 11 dec 2024 08.50 uur</b>  |  Problemen audio op
-      vaste toestellen</b><br>\
+      <br><b>Storingsmelding 11 dec 2024 08.50 uur: opgelost</b>  |  Problemen
+      audio op vaste toestellen</b><br>\
+
+      Update 11.30 uur: alles werkt weer naar behoren. \
+
+      Als zich toch nog problemen voordoen met telefoontoestellen (problemen met audio, rinkelen, doorverbinden) dan is het advies om het toestel te herstarten. \
 
       Update 10.15 uur: we zien dat de meeste vaste telefoons weer naar behoren werken. \
 
@@ -66,28 +70,18 @@ tests:
 
       Daarom raden we je met klem aan om te zorgen dat:\
 
+
       1. jij en/of een collega op het beheerpanel kan inloggen. \
-
-      Daar kun je meldteksten of doorschakelingen  instellen\\
-
+         Daar kun je meldteksten of doorschakelingen  instellen\
       2. jij en/of een collega de Qaller app (gratis) op hun mobiel hebben. \
-
-      Je kunt dan snel schakelaars bedienen. Bv schakelaars naar mobiele nummers, voicemail of teksten. We helpen je graag dit voor te bereiden! <br>\
-
-      <b>Update 08.55 uur:</b> Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
-
-      Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
-
-      Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
-
-      Indien je hierbij hulp nodig hebt, laat het gerust weten. \
-
-      \
-
-      Technici zijn op de hoogte en werken aan een oplossing. \
-
-      Onze excuses voor het ongemak!
-
+         Je kunt dan snel schakelaars bedienen. Bv schakelaars naar mobiele nummers, voicemail of teksten. We helpen je graag dit voor te bereiden! <br>\
+         <b>Update 08.55 uur:</b> Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
+         Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
+         Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
+         Indien je hierbij hulp nodig hebt, laat het gerust weten. \
+         \
+         Technici zijn op de hoogte en werken aan een oplossing. \
+         Onze excuses voor het ongemak!
 
       <hr><br>
 
