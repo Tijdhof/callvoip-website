@@ -62,20 +62,32 @@ tests:
 
       Voor jouw bedrijfscontinuïteit is het belangrijk dat je op dit soort momenten snel zelf je bereikbaarheid kunt aanpassen en daarin niet afhankelijk bent van bv onze assistentie. \
 
+      \
+
       Daarom raden we je met klem aan om te zorgen dat:\
 
+      1. jij en/of een collega op het beheerpanel kan inloggen. \
 
-      * jij en/of een collega op het beheerpanel kan inloggen. Daar kun je meldteksten of doorschakelingen  instellen\
+      Daar kun je meldteksten of doorschakelingen  instellen\\
 
-      * jij en/of een collega de Qaller app (gratis) op hun mobiel hebben. Je kunt dan snel schakelaars bedienen. Bv schakelaars naar mobiele nummers, voicemail of teksten. We helpen je graag dit voor te bereiden.     \
-        <br>\
-         <br>Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
-        Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
-        Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
-        Indien je hierbij hulp nodig hebt, laat het gerust weten. \
-        \
-        Technici zijn op de hoogte en werken aan een oplossing. \
-        Onze excuses voor het ongemak!
+      2. jij en/of een collega de Qaller app (gratis) op hun mobiel hebben. \
+
+      Je kunt dan snel schakelaars bedienen. Bv schakelaars naar mobiele nummers, voicemail of teksten. We helpen je graag dit voor te bereiden! \
+
+      <br>\
+       <br>Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
+      Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
+
+      Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
+
+      Indien je hierbij hulp nodig hebt, laat het gerust weten. \
+
+      \
+
+      Technici zijn op de hoogte en werken aan een oplossing. \
+
+      Onze excuses voor het ongemak!
+
 
       <hr><br>
 
