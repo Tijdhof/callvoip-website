@@ -46,7 +46,7 @@ tests:
 
       Update 10.15 uur: we zien dat de meeste vaste telefoons weer naar behoren werken. \
 
-      De BLF functie (statuslampjes, status collega-s en status van omleidingen) is nog uitgeschakeld.\
+      De BLF lampjes (statuslampjes op het toestel die de status van collega-s enomleidingen aangeven) is nog uitgeschakeld.\
 
       De audio werkt weer naar behoren, inkomend en uitgaand.\
 
