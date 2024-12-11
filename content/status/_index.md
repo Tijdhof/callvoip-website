@@ -58,14 +58,16 @@ tests:
 
       \
 
-      Dit soort vervelende storingssituaties laten zich nietlaten voorspellen.\
+      Dit soort vervelende storings-situaties laten zich niet voorspellen.\
 
-      We raden je met klem aan om te zorgen dat:\
+      Voor jouw bedrijfscontinuïteit is het belangrijk dat je op dit soort momenten snel zelf je bereikbaarheid kunt aanpassen en daarin niet afhankelijk bent van bv onze assistentie. \
+
+      Daarom raden we je met klem aan om te zorgen dat:\
 
 
-      * je op de panel kunt inloggen zodat je daar bandjes of doorschakelingen kunt instellen, als nodig\
+      * jij en/of een collega op het beheerpanel kan inloggen. Daar kun je meldteksten of doorschakelingen  instellen\
 
-      * een of meer mensen in het team de Qaller app op hun mobiel hebben om snel te kunnen doorschakelen.     \
+      * jij en/of een collega de Qaller app (gratis) op hun mobiel hebben. Je kunt dan snel schakelaars bedienen. Bv schakelaars naar mobiele nummers, voicemail of teksten. We helpen je graag dit voor te bereiden.     \
         <br>\
          <br>Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
         Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
