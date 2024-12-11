@@ -44,7 +44,7 @@ tests:
       <br><b>Storingsmelding 11 dec 2024 08.50 uur: opgelost</b>  |  Problemen
       audio op vaste toestellen</b><br>\
 
-      Update 11.30 uur: alles werkt weer naar behoren. \
+      <b>Update 11.30 uur:</b> alles werkt weer naar behoren. \
 
       Als zich toch nog problemen voordoen met telefoontoestellen \
 
@@ -52,7 +52,7 @@ tests:
 
       Indien problemen blijven bestaan, neem dan gerust even contact met ons op!<br>\
 
-      Update 10.15 uur: we zien dat de meeste vaste telefoons weer naar behoren werken. \
+      <b>Update 10.15 uur:</b> we zien dat de meeste vaste telefoons weer naar behoren werken. \
 
       De BLF lampjes (statuslampjes op het toestel die de status van collega-s enomleidingen aangeven) is nog uitgeschakeld.\
 
