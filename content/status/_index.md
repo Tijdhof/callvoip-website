@@ -42,10 +42,34 @@ tests:
     error: false
     text: >-
       <br><b>Storingsmelding 11 dec 2024 08.50 uur</b>  |  Problemen audio op
-      vaste toestellen</b>\
+      vaste toestellen</b><br>\
 
-      Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
+      Update 10.15 uur: we zien dat de meeste vaste telefoons weer naar behoren werken. \
 
+      De BLF functie (zien of een collega in gesprek is / omleiding aan of uit is) is nog uitgeschakeld.\
+
+      De audio werkt weer naar behoren, inkomend en uitgaand.\
+
+      Gesprekken komen niet meer vertraagd binnen. \
+
+      Intern bellen en doorverbinden werkt naar behoren.  \
+
+      Webcalls, Qaller, Vamos hebben en doorschakelingen hebben de gehele tijd goed gewerkt. \
+
+      \
+
+      Dit soort vervelende storingssituaties laten zich nietlaten voorspellen.\
+
+      We raden je met klem aan om te zorgen dat:\
+
+      - je op de panel kunt inloggen zodat je daar bandjes of doorschakelingen kunt instellen, als nodig\
+
+      - een of meer mensen in het team de Qaller app op hun mobiel hebben om snel te kunnen doorschakelen.     \
+
+      \
+
+      <br> \
+       <br>Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
       Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
 
       Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
