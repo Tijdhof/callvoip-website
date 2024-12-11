@@ -56,6 +56,8 @@ tests:
 
       Technici zijn op de hoogte en werken aan een oplossing. \
 
+      Onze excuses voor het ongemak!\
+
       \
 
       <br>\
