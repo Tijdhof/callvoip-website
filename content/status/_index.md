@@ -76,76 +76,18 @@ tests:
 
       \
 
-      Heeft u hier assistentie bij nodig, bel of mail gerust. \
-
-      \
-
-      <hr>\
-
-      \
-
-      11 dec 2024 08.50 uur: opgelost</b>  |  Problemen audio op vaste toestellen</b><br>\
-
-      <b>Update 11.30 uur:</b> alles werkt weer naar behoren. \
-
-      Als zich toch nog problemen voordoen met telefoontoestellen \
-
-      (problemen met audio, rinkelen, doorverbinden) dan is het advies om het toestel te herstarten. \
-
-      Indien problemen blijven bestaan, neem dan gerust even contact met ons op!<br>\
-
-      <b>Update 10.15 uur:</b> we zien dat de meeste vaste telefoons weer naar behoren werken. \
-
-      De BLF lampjes (statuslampjes op het toestel die de status van collega-s enomleidingen aangeven) is nog uitgeschakeld.\
-
-      De audio werkt weer naar behoren, inkomend en uitgaand.\
-
-      Gesprekken komen niet meer vertraagd binnen. \
-
-      Intern bellen en doorverbinden werkt naar behoren.  \
-
-      Webcalls, Qaller, Vamos hebben en doorschakelingen hebben de gehele tijd goed gewerkt. \
-
-      \
-
-      Dit soort vervelende storings-situaties laten zich niet voorspellen.\
-
-      Voor jouw bedrijfscontinuïteit is het belangrijk dat je op dit soort momenten snel zelf je bereikbaarheid kunt aanpassen en daarin niet afhankelijk bent van bv onze assistentie. \
-
-      \
-
-      Daarom raden we je met klem aan om te zorgen dat:\
-
-
-      1. jij en/of een collega op het beheerpanel kan inloggen. \
-         Daar kun je meldteksten of doorschakelingen  instellen\
-      2. jij en/of een collega de Qaller app (gratis) op hun mobiel hebben. \
-         Je kunt dan snel schakelaars bedienen. Bv schakelaars naar mobiele nummers, voicemail of teksten. We helpen je graag dit voor te bereiden! <br>
-
-      <b>Update 08.55 uur:</b> Op dit moment ervaren we een verstoring van de audio bij de verbinding op vaste toestellen. \
-
-      Bij gesprekken via webcalls (computer) is de audio wel aanwezig. \
-
-      Ook de panel is beschikbaar zodat u een doorschakeling kunt instellen naar bv een melding of ander (mobiel) nummer. \
-
-      Indien je hierbij hulp nodig hebt, laat het gerust weten. \
-
-      \
-
-      Technici zijn op de hoogte en werken aan een oplossing. \
-
-      Onze excuses voor het ongemak!
+      Heeft u hier assistentie bij nodig, bel of mail gerust. 
 
 
       <hr><br>
 
-      <b>15 augustus 2024  |</b>  <b>Nieuw design Qaller Smartphone app voor iPhones</b>\
+      <b>15 augustus 2024  |</b>  <b>Nieuw design Qaller Smartphone app voor iPhones</b>
 
-      Qaller voor de iPhone heeft een prachtig nieuw jasje! \
+      Qaller voor de iPhone heeft een prachtig nieuw jasje! 
 
-      De app biedt dezelfde mogelijkheden, werkt nóg intuitiever en heeft een paar handige nieuwe mogelijkheden. \
+      De app biedt dezelfde mogelijkheden, werkt nóg intuitiever en heeft een paar handige nieuwe mogelijkheden. 
 
-      &bull; <a href="https://www.callvoip.nl/qallerios">Klik hier voor meer informatie over de nieuwe Qaller-app</a>\
+      &bull; <a href="https://www.callvoip.nl/qallerios">Klik hier voor meer informatie over de nieuwe Qaller-app</a>
 
       <br><br>
 
@@ -153,7 +95,7 @@ tests:
 
       Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
 
-      Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. \
+      Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. 
 
       &bull; <a href="https://www.callvoip.nl/veilig" target="_blank">H﻿ier</a> vind je meer informatie. 
 
