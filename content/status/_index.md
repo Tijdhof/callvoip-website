@@ -48,15 +48,15 @@ tests:
 
       Helaas ontvangt u dit moment geen code via de telefoon. \
 
-      Kies onderin het inlogscherm voor: gebruiker andere methode. \
+      Kies onderin het inlogscherm voor: \[gebruik andere methode]\
 
-      U kunt dan een code via Qaller krjigen of via de authenticator. \
+      U kunt dan een code via Qaller krjigen of via een authenticator. \
 
       \
 
-      Als u geen alternatieve opties heeft ingesteld, stuurt u dan een email naar callvoip@callvoip.nl.\
+      Heeft u geen alternatieve optie ingesteld?\
 
-      Geef uw bedrijfsnaam en verkort nummer door. \
+      Stuur dan een email naar callvoip@callvoip.nl met uw bedrijfsnaam en uw verkorte nummer. \
 
       Wij kunnen dan uw authenticatiemethode resetten zodat u kunt inloggen met de Qaller app en een Authenticator app (Google of Microsoft Authenticator), die u vermoedelijk al op uw mobiel heeft staan. \
 
@@ -64,7 +64,7 @@ tests:
 
       \
 
-      Heeft u hier assistentie bij nodig, bel of mil gerust. \
+      Heeft u hier assistentie bij nodig, bel of mail gerust. \
 
       \
 
