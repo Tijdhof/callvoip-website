@@ -64,21 +64,23 @@ tests:
 
       - log op de gebruikelijke manier in op webcalls\
 
-      - in het User Panel, klik linksboven op je naam.\
+      - in het User Panel, klik linksboven op je naam\
 
       - klik bovenaan de zwarte balk nogmaals op je naam\
 
       - je krijgt het instellingenscherm, helemaal onderaan staat \[Bewerk 2FA]\
 
-      - klik hierop en log in met je wachtwoord. Hier kun je je 2FA methoden instellen/beheren. \
+      - klik hierop en log in met je wachtwoord. Hier kun je je 2FA methoden instellen/beheren\
 
-      - in het beheerdersscherm kun je rechtsboven op \[Bewerk 2FA] klikken en dezelfde stappen volgen. \
+      - in het beheerdersscherm kun je rechtsboven op \[Bewerk 2FA] klikken en dezelfde stappen volgen\
 
-      - zie www.callvoip.nl/apps voor handige links. \
+      - zie www.callvoip.nl/apps voor handige links\
 
       \
 
-      Heeft u hier assistentie bij nodig, bel of mail gerust. 
+      Heb je hier assistentie bij nodig? \
+
+      Bel of mail gerust. 
 
 
       <hr><br>
