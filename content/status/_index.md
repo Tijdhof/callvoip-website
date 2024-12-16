@@ -50,7 +50,7 @@ tests:
 
       * telefonisch: ontvang een code op je mobiele telefoon\
 
-      * app: ontvang een code op Qaller op je smarpthone \
+      * app: ontvang een code op Qaller op je smartphone \
 
       * authenticator: ontvang een code op de Authenticator op smartphone of browser\
 
@@ -64,13 +64,15 @@ tests:
 
       - log op de gebruikelijke manier in op webcalls\
 
-      - in uet User Panel, klik linksboven op je naam.\
+      - in het User Panel, klik linksboven op je naam.\
 
       - klik bovenaan de zwarte balk nogmaals op je naam\
 
       - je krijgt het instellingenscherm, helemaal onderaan staat \[Bewerk 2FA]\
 
       - klik hierop en log in met je wachtwoord. Hier kun je je 2FA methoden instellen/beheren. \
+
+      - in het beheerdersscherm kun je rechtsboven op \[Bewerk 2FA] klikken en dezelfde stappen volgen. \
 
       - zie www.callvoip.nl/apps voor handige links. \
 
