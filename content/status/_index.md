@@ -41,26 +41,38 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <br><b>16-12-2024: Geen inlogcode op uw telefoon bij het inloggen op
-      webcalls</b><br>\
+      <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
+      inlogmethoden</b><br>\
 
-      Wilt u inloggen op het telefoonsysteem?\
+      Wil je inloggen op webcalls of de telefooncentrale?\
 
-      Helaas ontvangt u dit moment geen code via de telefoon. \
+      Ons advies is om hiervoor alle drie methoden in te stellen: \
 
-      Kies onderin het inlogscherm voor: \[gebruik andere methode]\
+      * telefonisch: ontvang een code op je mobiele telefoon\
 
-      U kunt dan een code via Qaller krjigen of via een authenticator. \
+      * app: ontvang een code op Qaller op je smarpthone \
+
+      * authenticator: ontvang een code op de Authenticator op smartphone of browser\
 
       \
 
-      Heeft u geen alternatieve optie ingesteld?\
+      Mocht er zich een probleem voordoen met één van de methoden, dan heb je 2 backup-methoden.\
 
-      Stuur dan een email naar callvoip@callvoip.nl met uw bedrijfsnaam en uw verkorte nummer. \
+      \
 
-      Wij kunnen dan uw authenticatiemethode resetten zodat u kunt inloggen met de Qaller app en een Authenticator app (Google of Microsoft Authenticator), die u vermoedelijk al op uw mobiel heeft staan. \
+      Je kunt het aantal authenticatie-methoden eenvoudig uitbreiden of aanpassen als volgt: \
 
-      Op www.callvoip.nl/apps kunt u een browser authenticator vinden. \
+      - log op de gebruikelijke manier in op webcalls\
+
+      - in uet User Panel, klik linksboven op je naam.\
+
+      - klik bovenaan de zwarte balk nogmaals op je naam\
+
+      - je krijgt het instellingenscherm, helemaal onderaan staat \[Bewerk 2FA]\
+
+      - klik hierop en log in met je wachtwoord. Hier kun je je 2FA methoden instellen/beheren. \
+
+      - zie www.callvoip.nl/apps voor handige links. \
 
       \
 
