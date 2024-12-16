@@ -41,8 +41,38 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <br><b>Storingsmelding 11 dec 2024 08.50 uur: opgelost</b>  |  Problemen
-      audio op vaste toestellen</b><br>\
+      <br><b>16-12-2024: Geen inlogcode op uw telefoon bij het inloggen op
+      webcalls</b><br>\
+
+      Wilt u inloggen op het telefoonsysteem?\
+
+      Helaas ontvangt u dit moment geen code via de telefoon. \
+
+      Kies onderin het inlogscherm voor: gebruiker andere methode. \
+
+      U kunt dan een code via Qaller krjigen of via de authenticator. \
+
+      \
+
+      Als u geen alternatieve opties heeft ingesteld, stuurt u dan een email naar callvoip@callvoip.nl.\
+
+      Geef uw bedrijfsnaam en verkort nummer door. \
+
+      Wij kunnen dan uw authenticatiemethode resetten zodat u kunt inloggen met de Qaller app en een Authenticator app (Google of Microsoft Authenticator), die u vermoedelijk al op uw mobiel heeft staan. \
+
+      Op www.callvoip.nl/apps kunt u een browser authenticator vinden. \
+
+      \
+
+      Heeft u hier assistentie bij nodig, bel of mil gerust. \
+
+      \
+
+      <hr>\
+
+      \
+
+      11 dec 2024 08.50 uur: opgelost</b>  |  Problemen audio op vaste toestellen</b><br>\
 
       <b>Update 11.30 uur:</b> alles werkt weer naar behoren. \
 
