@@ -23,7 +23,7 @@ hero:
   disable_image_on_mobile: false
 blocks:
 - title: Hoe werkt het?
-  image: "/v1566554585/4g_antenne_vf6z4r.png"
+  image: "/v1737037230/5g-internet.png"
   content: |-
     Helaas is nog niet overal (snel en stabiel) internet mogelijk. Mobiel internet via 5G is dan dé perfecte oplossing. 5G staat voor de vijfde generatie mobiele telecommunicatie en maakt snel internet door de lucht mogelijk. De Managed 5G-oplossing van Callvoip biedt een gebruiksklare verbinding: apparatuur, installatie, en de gewenste hoeveelheid data. Ook wordt je verbinding 24/7 beheerd om storingen snel op te lossen.
 
@@ -31,7 +31,7 @@ blocks:
   position: image_left
   image_position: center
 - title: 'Jouw 5G draadloze internetoplossing in 4 stappen:'
-  image: "https://res.cloudinary.com/callvoip/image/upload/v1737037230/5g-internet.png"
+  image: "/v1565860150/4g2_lv0lkl.png"
   content: |-
     1. <a href="/aanvragen/managed-4g/">Klik hier</a> en vraag Managed 5G internet aan
     2. Er volgt een locatie-scan om wensen en mogelijkheden te bespreken
