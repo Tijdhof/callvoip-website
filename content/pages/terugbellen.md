@@ -22,7 +22,7 @@ Benieuwd wat we voor jouw specifieke situatie qua telefonie kunnen doen? Laten w
 
 {{< form "Terugbellen" "/terugbellen/verzonden" >}}  
 {{< form/template "d-5f1602c68c8a42919ddf340e285386e3">}}  
-{{< form/to "terugbellen">}}
+{{< form/to "aanvragen">}}
 
 {{< layout/split >}}
 
