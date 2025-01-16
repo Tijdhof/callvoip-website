@@ -5,7 +5,7 @@ description: Met de managed 5G-oplossing van Callvoip ben je altijd en overal be
 images: []
 type: page
 aliases:
-- "/4g"
+- "/5g"
 - "/guezenet"
 layout: default
 logos: false
@@ -25,13 +25,13 @@ blocks:
 - title: Hoe werkt het?
   image: "/v1566554585/4g_antenne_vf6z4r.png"
   content: |-
-    Helaas is nog niet overal (snel en stabiel) internet mogelijk. Mobiel internet via 4G is dan dé perfecte oplossing. 5G staat voor de vierde generatie mobiele telecommunicatie en maakt snel internet door de lucht mogelijk. De Managed 5G-oplossing van Callvoip biedt een gebruiksklare verbinding: apparatuur, installatie, en de gewenste hoeveelheid data. Ook wordt je verbinding 24/7 beheerd om storingen snel op te lossen.
+    Helaas is nog niet overal (snel en stabiel) internet mogelijk. Mobiel internet via 5G is dan dé perfecte oplossing. 5G staat voor de vijfde generatie mobiele telecommunicatie en maakt snel internet door de lucht mogelijk. De Managed 5G-oplossing van Callvoip biedt een gebruiksklare verbinding: apparatuur, installatie, en de gewenste hoeveelheid data. Ook wordt je verbinding 24/7 beheerd om storingen snel op te lossen.
 
     Voor ons 5G internet-aanbod werken wij samen met Geuzenet, specialist in aanleg en beheer van 5G verbindingen. Veel bedrijven in heel Nederland werden reeds door hen van 5G internet voorzien.
   position: image_left
   image_position: center
-- title: 'Jouw 4G draadloze internetoplossing in 4 stappen:'
-  image: "/v1565860150/4g2_lv0lkl.png"
+- title: 'Jouw 5G draadloze internetoplossing in 4 stappen:'
+  image: "https://res.cloudinary.com/callvoip/image/upload/v1737037230/5g-internet.png"
   content: |-
     1. <a href="/aanvragen/managed-4g/">Klik hier</a> en vraag Managed 5G internet aan
     2. Er volgt een locatie-scan om wensen en mogelijkheden te bespreken
