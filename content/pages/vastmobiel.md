@@ -26,7 +26,6 @@ blocks:
     routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
     Business, op je vaste nummer! We helpen je graag.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button" target="_blank">Vergelijking integraties</a>'
   image: "/v1572861318/qaller-new_xyvfcs.png"
-  zooming: true
   position: image_left
   title: Onze standaard
   image_position: center
