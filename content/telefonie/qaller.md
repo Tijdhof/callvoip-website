@@ -12,7 +12,7 @@ hero:
     fungeert jouw smartphone als volwaardig kantoortoestel. Je kunt bellen en gebeld
     worden op het vaste telefoonnummer, ziet of collega's in gesprek zijn en zelfs
     doorverbinden is mogelijk.
-  image: "/v1571655384/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
+  image: "/v1571655384/qaller-new_xyvfcs.png"
   image_position: center
   disable_image_on_mobile: false
   button:
