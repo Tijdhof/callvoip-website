@@ -28,8 +28,8 @@ categories:
   - Auto call log
   - Embedded Popup
 weight: 10
-url: /marketplace/zendesktalk/
-aliases: /program-shop/zendesktalk/
+url: /marketplace/zendesktalk-embedded/
+aliases: /program-shop/zendesktalk-embedded/
 
 ---
 
