@@ -1,5 +1,5 @@
 ---
-shorttitle: "Hubspot [Embedded]"
+shorttitle: "Hubspot Embedded"
 title: "Wij koppelen jouw CRM Hubspot aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/hubspot-embedded_puy8af.png"
@@ -16,11 +16,8 @@ button:
 categories:
   - E-commerce
   - Custom Fields
-  - Auto call log  
-  - Meest populair
-  - Embedded
+  - Embedded Popup
 weight: 10
-populair: true
 url: /marketplace/hubspot-embedded/
 aliases: /program-shop/hubspot-embedded/
 headerside:
