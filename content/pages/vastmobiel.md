@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4edb2e30-daf4-49b3-9b9f-e8044ceedb0b)---
+---
 title: Alles over vast mobiel
 description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
   Vast en mobiel dichter bij elkaar
