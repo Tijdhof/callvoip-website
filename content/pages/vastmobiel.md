@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/4edb2e30-daf4-49b3-9b9f-e8044ceedb0b)---
 title: Alles over vast mobiel
 description: Integratie van je smartphone met de VoIP centrale op verschillende manieren.
   Vast en mobiel dichter bij elkaar
@@ -25,7 +25,7 @@ blocks:
     naar mobiel. Maar met onze Qaller app op je mobiel kun je ook overal bepaalde
     routes in je belplan wijzigen. En niet van ons, maar wel warm aanbevolen: Whatsapp
     Business, op je vaste nummer! We helpen je graag.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button" target="_blank">Vergelijking integraties</a>'
-  image: "/v1572861318/qaller_nieuw_mobiel_laptop_mock_up_rgz8nt.png"
+  image: "/v1572861318/qaller-new_xyvfcs.png"
   zooming: true
   position: image_left
   title: Onze standaard
