@@ -5,11 +5,6 @@
 {{ $content := .top_content }}
 <div
     class="{{if (modBool $index 2)}} bg-grey-lightest {{ end }} py-12 lg:pt-20  {{ if .show_vshape}} lg:pb-0 {{ else }} lg:pb-12  {{ end }}">
-        {{ if .overlapping_title }}
-        <div class="text-center pb-8 md:pb-12">
-            <h2 class="text-4xl font-bold leading-tight relative -mt-6 md:-mt-8 bg-white inline-block px-4">{{ .overlapping_title | markdownify }}</h2>
-        </div>
-        {{ end }}
     <div class="container px-4">
         {{ if $title }}
         <div class="text-center pb-8 md:pb-12  -mt-8  ">
