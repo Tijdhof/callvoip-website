@@ -5,7 +5,7 @@ type: page
 layout: default2
 logos: false
 aliases: "/naamherkenning"
-url: automatische/naamherkenning/
+url: /ondersteuning/howto/callvoip-en-automatische-naamherkenning/
 hero:
   title: Automatische naamherkenning
   content: Nummerherkenning zorgt ervoor dat jouw bedrijfsnaam wordt getoond wanneer je iemand belt, zelfs als je niet in het adresboek van de ontvanger staat. Dit gebeurt automatisch op veel Android- en Google-smartphones, zoals Samsung, waar een [smart]-label in de gesprekslijst kan verschijnen. Hoewel handig, kan automatische naam-herkenning soms verouderde of onjuiste informatie tonen. In sommige gevallen wordt zelfs een SPAM-label aan een nummer gekoppeld, waardoor oproepen mogelijk worden genegeerd. De gegevens komen niet van ons, maar van bronnen zoals het KvK-register. Ervaar je problemen met nummerherkenning? Ontdek hoe je dit kunt aanpassen.
@@ -19,7 +19,6 @@ blocks:
   title: Gidsvermelding indienen
   image_position: center
 textblocks3:
-- top_title_nospace: 'Onze manieren van nummerherkenning'
 - title1: '1: KVK-register'
   content1: 'Controleer of jouw telefoonnummer correct is gekoppeld aan de naam in het KvK-register. Soms kun je de gegevens aanpassen of een ander nummer kiezen dat beter aansluit bij de inschrijving. Een nieuw nummer aanvragen is eenvoudig en voordelig, waardoor je snel de juiste vermelding kunt regelen.<br><br><a
     href="https://www.kvk.nl/" target="_blank" class="button">Meer informatie</a>'
