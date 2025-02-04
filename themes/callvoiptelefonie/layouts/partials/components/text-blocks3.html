@@ -1,4 +1,4 @@
-{{ with .Params.textblocks3 }}
+{{ with .Params.textblocks }}
 
 {{ range $index, $item := . }}
 {{ $title := .top_title }}
@@ -6,6 +6,11 @@
 <div
     class="{{if (modBool $index 2)}} bg-grey-lightest {{ end }} py-12 lg:pt-20  {{ if .show_vshape}} lg:pb-0 {{ else }} lg:pb-12  {{ end }}">
     <div class="container px-4">
+        {{ if .overlapping_title }}
+        <div class="text-center pb-8 md:pb-12">
+            <h2 class="text-4xl font-bold leading-tight relative -mt-12 md:-mt-16 bg-white inline-block px-4">{{ .overlapping_title | markdownify }}</h2>
+        </div>
+        {{ end }}
         {{ if $title }}
         <div class="text-center pb-8 md:pb-12  -mt-8  ">
             {{ with $title }}
@@ -16,6 +21,34 @@
             {{ end }}
         </div>
         {{ end }}
+        {{ if .title4 }}
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:-mx-8">
+            <div class="md:px-4">
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title1 | markdownify }}</h2>
+                <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
+                    {{ .content1 | markdownify }}
+                </div>
+            </div>
+            <div class="md:px-4">
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title2 | markdownify }}</h2>
+                <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
+                    {{ .content2 | markdownify }}
+                </div>
+            </div>
+            <div class="md:px-4">
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title3 | markdownify }}</h2>
+                <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
+                    {{ .content3 | markdownify }}
+                </div>
+            </div>
+            <div class="md:px-4">
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title4 | markdownify }}</h2>
+                <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
+                    {{ .content4 | markdownify }}
+                </div>
+            </div>
+        </div>
+        {{ else }}
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:-mx-8">
             {{ if .title1 }}
             <div class="md:px-4">
@@ -41,15 +74,8 @@
                 </div>
             </div>
             {{ end }}
-            {{ if .title4 }}
-            <div class="md:px-4">
-                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title4 | markdownify }}</h2>
-                <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
-                    {{ .content4 | markdownify }}
-                </div>
-            </div>
-            {{ end }}
         </div>
+        {{ end }}
     </div>
 </div>
 {{ if .show_vshape}}
