@@ -21,7 +21,6 @@ blocks:
   title: Onze standaard
   image_position: center
 textblocks3:
-- overlapping_title: Onze manieren van nummerherkenning
 - title1: '1: KVK-register'
   content1: 'Controleer of jouw telefoonnummer correct is gekoppeld aan de naam in het KvK-register. Soms kun je de gegevens aanpassen of een ander nummer kiezen dat beter aansluit bij de inschrijving. Een nieuw nummer aanvragen is eenvoudig en voordelig, waardoor je snel de juiste vermelding kunt regelen.<br><br><a
     href="https://www.kvk.nl/" class="button">Meer informatie</a>'
