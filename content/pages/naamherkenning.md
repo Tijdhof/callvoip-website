@@ -10,8 +10,7 @@ url: automatische/naamherkenning/
 hero:
   title: Automatische naamherkenning
   content: Nummerherkenning zorgt ervoor dat jouw bedrijfsnaam wordt getoond wanneer je iemand belt, zelfs als je niet in het adresboek van de ontvanger staat. Dit gebeurt automatisch op veel Android- en Google-smartphones, zoals Samsung, waar een [smart]-label in de gesprekslijst kan verschijnen. Hoewel handig, kan automatische naam-herkenning soms verouderde of onjuiste informatie tonen. In sommige gevallen wordt zelfs een SPAM-label aan een nummer gekoppeld, waardoor oproepen mogelijk worden genegeerd. De gegevens komen niet van ons, maar van bronnen zoals het KvK-register. Ervaar je problemen met nummerherkenning? Ontdek hoe je dit kunt aanpassen.
-  image: "/v1571655384/calling_os7r1h.png"
-  zooming: true
+  image: "/v1571655384/incomingcall_keswyr.png"
   image_position: center
   disable_image_on_mobile: false
 blocks:
