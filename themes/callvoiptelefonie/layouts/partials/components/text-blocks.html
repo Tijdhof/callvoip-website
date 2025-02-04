@@ -16,55 +16,44 @@
             {{ end }}
         </div>
         {{ end }}
-        {{ $content4 := .content4 }}
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:-mx-8">
+            {{ if .title1 }}
             <div class="md:px-4">
-                {{ with .title1 }}
-                <h2 class="text-3xl  font-medium mb-2 xxl:mb-6 leading-tight">{{ . | markdownify }}</h2>
-                {{ end }}
-                {{ with .content1 }}
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title1 | markdownify }}</h2>
                 <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
-                    {{ . | markdownify }}
+                    {{ .content1 | markdownify }}
                 </div>
-                {{ end }}
             </div>
+            {{ end }}
+            {{ if .title2 }}
             <div class="md:px-4">
-                {{ with .title2 }}
-                <h2 class="text-3xl  font-medium mb-2 xxl:mb-6 leading-tight">{{ . | markdownify }}</h2>
-                {{ end }}
-                {{ with .content2 }}
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title2 | markdownify }}</h2>
                 <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
-                    {{ . | markdownify }}
+                    {{ .content2 | markdownify }}
                 </div>
-                {{ end }}
             </div>
+            {{ end }}
+            {{ if .title3 }}
             <div class="md:px-4">
-                {{ with .title3 }}
-                <h2 class="text-3xl  font-medium mb-2 xxl:mb-6 leading-tight">{{ . | markdownify }}</h2>
-                {{ end }}
-                {{ with .content3 }}
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title3 | markdownify }}</h2>
                 <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
-                    {{ . | markdownify }}
+                    {{ .content3 | markdownify }}
                 </div>
-                {{ end }}
             </div>
-            {{ if $content4 }}
+            {{ end }}
+            {{ if .title4 }}
             <div class="md:px-4">
-                {{ with .title4 }}
-                <h2 class="text-3xl  font-medium mb-2 xxl:mb-6 leading-tight">{{ . | markdownify }}</h2>
-                {{ end }}
-                {{ with .content4 }}
+                <h2 class="text-3xl font-medium mb-2 xxl:mb-6 leading-tight">{{ .title4 | markdownify }}</h2>
                 <div class="lg:text-lg xl:text-xl mb-4 font-medium leading-loose user-content ">
-                    {{ . | markdownify }}
+                    {{ .content4 | markdownify }}
                 </div>
-                {{ end }}
             </div>
             {{ end }}
         </div>
     </div>
 </div>
 {{ if .show_vshape}}
-<div class="bg-white  flex justify-center overflow-hidden">
+<div class="bg-white flex justify-center overflow-hidden">
     <div class="triangle-down"></div>
 </div>
 {{ end }}
