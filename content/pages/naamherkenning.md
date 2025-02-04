@@ -20,7 +20,7 @@ blocks:
   position: image_left
   title: Onze standaard
   image_position: center
-textblocks:
+textblocks3:
 - title1: '1: KVK-register'
   content1: 'Controleer of jouw telefoonnummer correct is gekoppeld aan de naam in het KvK-register. Soms kun je de gegevens aanpassen of een ander nummer kiezen dat beter aansluit bij de inschrijving. Een nieuw nummer aanvragen is eenvoudig en voordelig, waardoor je snel de juiste vermelding kunt regelen.<br><br><br><a
     href="/telefonie/qaller/" class="button">Meer informatie</a>'
