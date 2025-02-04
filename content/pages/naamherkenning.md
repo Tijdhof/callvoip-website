@@ -22,15 +22,15 @@ blocks:
   image_position: center
 textblocks3:
 - title1: '1: KVK-register'
-  content1: 'Controleer of jouw telefoonnummer correct is gekoppeld aan de naam in het KvK-register. Soms kun je de gegevens aanpassen of een ander nummer kiezen dat beter aansluit bij de inschrijving. Een nieuw nummer aanvragen is eenvoudig en voordelig, waardoor je snel de juiste vermelding kunt regelen.<br><br><br><a
+  content1: 'Controleer of jouw telefoonnummer correct is gekoppeld aan de naam in het KvK-register. Soms kun je de gegevens aanpassen of een ander nummer kiezen dat beter aansluit bij de inschrijving. Een nieuw nummer aanvragen is eenvoudig en voordelig, waardoor je snel de juiste vermelding kunt regelen.<br><br><a
     href="https://www.kvk.nl/" class="button">Meer informatie</a>'
   title2: '2: Samsung Hiya'
-  content2: Samsung gebruikt de Hiya-service om telefoonnummers te herkennen en een naam te koppelen. Dit systeem informeert gebruikers en markeert soms nummers als ‘Spam’. Wordt jouw bedrijfsnummer onterecht als spam weergegeven of klopt de informatie niet? Dien een ticket in bij Hiya met bewijs dat het nummer van jou is.<br><br><br><br><a href="https://hiyahelp.zendesk.com/hc/en-us/p/request_hub" class="button">Meer informatie</a>'
+  content2: Samsung gebruikt de Hiya-service om telefoonnummers te herkennen en een naam te koppelen. Dit systeem informeert gebruikers en markeert soms nummers als ‘Spam’. Wordt jouw bedrijfsnummer onterecht als spam weergegeven of klopt de informatie niet? Dien een ticket in bij Hiya met bewijs dat het nummer van jou is.<br><br><br><a href="https://hiyahelp.zendesk.com/hc/en-us/p/request_hub" class="button">Meer informatie</a>'
   title3: '3: Click to Dial'
   content3: 'Stel je eens voor: alles wat met bellen en gebeld worden te maken heeft,
     vast en mobiel, samen in 1 smartphone. Bellen met vast nummer zonder app, gewoon
     met je standaard telefoon functie. Kiezen of je vast, mobiel of anoniem uitbelt,
-    mensen in de wacht zetten, doorverbinden. Alles is mogelijk.<br><br><br><a href="https://www.callvoip.nl/telefonie/clicktodial/"
+    mensen in de wacht zetten, doorverbinden. Alles is mogelijk.<br><br><a href="https://www.callvoip.nl/telefonie/clicktodial/"
     class="button">Meer informatie</a>'
   title4: '4: Met jouw CRM'
   content4: 'De meest uitgebreide manier van nummerherkenning opbouwen met jouw klanten: koppel jouw CRM aan onze centrale.  In onze Marketplace vind je een uitgebreid aanbod aan compatibele CRM-pakketten, dus de kans is groot dat jouw systeem erbij zit. Optimaliseer je telefonie en werk efficiënter met een geïntegreerde oplossing.<br><br><a href="https://www.callvoip.nl/marketplace"
