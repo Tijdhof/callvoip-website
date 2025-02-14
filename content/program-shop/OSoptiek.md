@@ -24,7 +24,6 @@ button:
   link: /marketplace/
 categories:
   - Opticiens
-  - Bezoekplanning 
 weight: 10
 url: /marketplace/osoptiek/
 aliases: /program-shop/osoptiek/
