@@ -20,7 +20,6 @@ categories:
   - Financieel
   - Accountancy
   - Bouw
-  - HRM
   - ERP
   - Overheid
 weight: 10
