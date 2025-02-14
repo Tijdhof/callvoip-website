@@ -15,7 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Workflow
-  - R&D
+  - ERP
   - Engineering
 weight: 10
 url: /marketplace/ridder-iq/
