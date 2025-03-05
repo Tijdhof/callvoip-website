@@ -118,7 +118,7 @@ textblocksfooter:
             
             <div class="mt-4">
               <a href="https://www.callvoip.nl/aanvragen/data-sim/" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                Gelijk jouw Data-SIM bestellen
+                Gelijk jouw 5G Data-SIM bestellen
               </a>
             </div>
           </div>'
