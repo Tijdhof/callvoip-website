@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip Data-SIM'
-description: 'Storing, backup, buitengebied of 4G/5G op je tablet? Snel (tijdelijk) internet met een data-SIM van Callvoip.'
+description: 'Storing, backup, buitengebied of 5G op je tablet? Snel (tijdelijk) internet met een data-SIM van Callvoip.'
 type: page
 layout: default2
 logos: false
