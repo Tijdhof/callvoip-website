@@ -1,6 +1,6 @@
 ---
 title: 'Callvoip Data-SIM'
-description: 'Storing, backup, buitengebied of 4G 5G op je tablet? Snel (tijdelijk) internet met een data-SIM van Callvoip.'
+description: 'Storing, backup, buitengebied of 4G/5G op je tablet? Snel (tijdelijk) internet met een data-SIM van Callvoip.'
 type: page
 layout: default2
 logos: false
@@ -19,7 +19,7 @@ menu:
 hero:
   title: 'Callvoip data-SIMs: direct een tijdelijke internetoplossing'
   content: |-
-    Heb je een internetstoring die niet snel kan worden opgelost, en zoek je een tijdelijk alternatief? Callvoip kan je voorzien van een data-SIM zodat je snel weer online bent. Een ideale match met bv <a href="https://callvoip.shop/lte-modem-router/1105-fritzbox-6850-lte.html" target="_blank">de FRITZBox 6850.</a><br><br><a href="https://callvoip.nl/aanvragen/data-sim/" target="_blank" class="button">Data-SIM aanvragen</a>
+    Heb je een internetstoring die niet snel kan worden opgelost, en zoek je een tijdelijk alternatief? Callvoip kan je voorzien van een data-SIM zodat je snel weer online bent. Een ideale match met bv de <a href="https://callvoip.shop/lte-modem-router/1105-fritzbox-6850-lte.html" target="_blank">FRITZBox 6850</a> of 6860 5G.<br><br><a href="https://callvoip.nl/aanvragen/data-sim/" target="_blank" class="button">Data-SIM aanvragen</a>
   image: "/v1604049415/datasim.png"
   image_position: center
   disable_image_on_mobile: false
@@ -31,7 +31,7 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Callvoip Data-SIMs
-  content1: 'Storing, backup, buitengebied of 4G op je tablet?<br>Snel (tijdelijk) internet met een data-SIM.
+  content1: 'Storing, backup, buitengebied of 4G 5G op je tablet?<br>Snel (tijdelijk) internet met een data-SIM.
   <div class="mb-8 bg-white rounded-lg py-8 px-6">
             <h4 class="text-lg lg:text-2xl font-medium mb-2">Data SIM</h4>
 
@@ -142,7 +142,7 @@ textblocksfooter:
     <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
     <li>De Access Point Name (APN) voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
     <li>
-      Klik <a href="https://www.odido.nl/netwerk/dekking" target="_blank">hier</a> om de Odido 4G dekkingskaart te bezoeken.
+      Klik <a href="https://www.odido.nl/netwerk/dekking" target="_blank">hier</a> om de Odido 4G 5G dekkingskaart te bezoeken.
     </li>
   </ul>
 </div>'
