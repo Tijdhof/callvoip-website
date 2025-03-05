@@ -33,7 +33,7 @@ textblocksfooter:
 - title1: Callvoip Data-SIMs
   content1: 'Storing, backup, buitengebied of 4G/5G op je tablet?<br>Snel (tijdelijk) internet met een data-SIM.
   <div class="mb-8 bg-white rounded-lg py-8 px-6">
-            <h4 class="text-lg lg:text-2xl font-medium mb-2">Data SIM</h4>
+            <h4 class="text-lg lg:text-2xl font-medium mb-2">5G Data SIM</h4>
 
             <div class="flex mb-1">
 <div class="flex-1"><h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Databundel p/mnd</h5></div>
