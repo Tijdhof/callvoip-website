@@ -40,9 +40,9 @@ aliases: /program-shop/microsoft365-embedded/
 **Samenvatting**<br><iframe width="560" height="315" src="https://www.youtube.com/embed/eZB5U2XXmvA?si=IMLdWwJDc-HlHkq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="float:right;" allowfullscreen></iframe>
 Met de Callvoip Microsoft Dynamics 365 telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Microsoft Dynamics 365. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken van contacten die in Microsoft Dynamics 365 staan, als bellers die er niet instaan. Bovendien maakt de koppeling het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen en kun je nog meer tijd besteden aan je andere werkzaamheden!<br>
 <br>
-**Embedded pop-up notificatie**
+**Embedded pop-up notificatie** <br>
 Bubble heeft een aantal unieke eigenschappen. Deze integratie zorgt ervoor dat je direct alle relevante klantgegevens in beeld krijgt bij een telefonische oproep. Vanuit het overzicht wat verschijnt, wat ook nog eens volledig naar wens van de gebruiker, afdeling of bedrijf is aan te passen, kun je direct de gewenste actie uitvoeren. De informatie die je kunt weergeven in de pop-up kun je vinden onder tab parameters en de beschikbare knoppen onder tab knoppen. Bij het doorverbinden van een gesprek naar een collega verhuist de klantinformatie mee. Standaard is de pop-up notificatie in Microsoft Dynamics zichtbaar vanaf het moment dat je webcalls, bureautoestel of ander device rinkelt tot het moment dat het gesprek wordt beëindigd.
-<br>
+<br><br>
 **Inkomende gesprekken**<br>
 Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Microsoft Dynamics 365en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen. <br>
 <div class="usp-list">
