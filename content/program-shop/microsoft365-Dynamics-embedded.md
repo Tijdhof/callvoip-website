@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM Microsoft Dynamics 365 aan onze telefonie"
 shorttitle: "Embedded - Microsoft Dynamics 365"
 date: 2021-06-03T16:52:17+05:00
-logo: "/dynamics_vqqemg.png"
+logo: "/365-embedded_ivqpjc.png"
 description: Door het koppelen van Microsoft Dynamics 365 CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
