@@ -34,7 +34,7 @@ blocks:
     Met Qaller Plus wordt vast mobiel integratie wel heel eenvoudig: met het vaste nummer uitbellen en intern kunnen doorverbinden is erg handig. Als belangrijk extra voordeel wordt vaak genoemd dat zakelijk en privé belverkeer op één telefoon goed kan worden gescheiden.<BR><BR> Inmiddels is deze app op ruim 1.000 smartphones geïnstalleerd. In sommige gevallen wordt Qaller Plus gebruikt als vervanger van een vast toestel, in andere gevallen als extra toestel voor onderweg. Meer informatie over Qaller Plus vind je <a href="https://www.callvoip.nl/ondersteuning/simmpl-functionaliteiten/qaller-app/" >hier</a>.<br>
     <br><br>
     <a target="_blank" href="/telefonie/qaller/" class="button">Hoe werkt Qaller?</a>
-  image: "/v1572860761/mock_up_phone_oneplus_duxzvn.png"
+  image: "/v1572860761/qaller-phone-new_hgogow.png"
   position: image_right
   title: 'Qaller Plus: de gulden middenweg'
   image_position: center
