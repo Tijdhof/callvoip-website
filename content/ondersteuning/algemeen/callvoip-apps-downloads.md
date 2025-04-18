@@ -30,7 +30,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 </tr>
 <tr>
 <td style="border: 1px solid black;" width="226px"><center><img src="https://files.callvoip.nl/downloads/ico-blue.ico" width="32px" height="32px"><b>Callvoip Desktop Icons</b></center></td>
-<td style="border: 1px solid black;" width="223px"><center><a href="https://callvoip.nl/ico1" target="_blank">Download Blauw</a> | <a href="https://callvoip.nl/ico2" target="_blank">Download Oranje</a> | <a href="https://callvoip.nl/ico3" target="_blank">Download Groen</a></center></td>
+<td style="border: 1px solid black;" width="223px"><center><a href="https://callvoip.nl/ico1" target="_blank">Blauw</a> | <a href="https://callvoip.nl/ico2" target="_blank">Oranje</a> | <a href="https://callvoip.nl/ico3" target="_blank">Groen</a></center></td>
 </tr>
 </table>
 <br><br>
