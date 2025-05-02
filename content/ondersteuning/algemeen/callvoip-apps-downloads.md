@@ -37,7 +37,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <td style="border: 1px solid black;" width="223px"><center><a href="https://callvoip.nl/ico1" target="_blank">Blauw</a> | <a href="https://callvoip.nl/ico2" target="_blank">Oranje</a> | <a href="https://callvoip.nl/ico3" target="_blank">Groen</a></center></td>
 </tr>
 </table>
-<br><br>
+<br>
 <h3>Smartphone app downloads</h3>
 <table border="1" cellpadding="10">
 <tbody>
