@@ -30,7 +30,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 </tr>
 <tr>
 <td style="border: 1px solid black;" width="226px"><center><img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32px" height="32px"><b>Bubble365 Browser App</b></center></td>
-<td style="border: 1px solid black;" width="223px"><center><a href="https://chromewebstore.google.com/detail/bubble365/ccgmdckiocfdmiapdcknbnmgokjkedkg" target="_blank">Download hier</a></center></td>
+<td style="border: 1px solid black;" width="223px"><center>Download hier:<br><a href="https://chromewebstore.google.com/detail/bubble365/ccgmdckiocfdmiapdcknbnmgokjkedkg" target="_blank">Voor Chrome</a>of <a href="https://microsoftedge.microsoft.com/addons/detail/bubble365/ofglgfkijflldmmldabogfodljicagbj" target="_blank">Voor Edge</a></center></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;" width="226px"><center><img src="https://files.callvoip.nl/downloads/ico-blue.ico" width="32px" height="32px"><b>Callvoip Desktop Icons</b></center></td>
