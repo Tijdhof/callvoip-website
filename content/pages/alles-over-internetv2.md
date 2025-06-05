@@ -187,7 +187,7 @@ textblocksfooter:
   </div>
             </div>
 
-            
+            <br>
             
             <div class="mt-4">
               <a href="/offerte" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
