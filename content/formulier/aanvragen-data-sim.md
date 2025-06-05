@@ -62,6 +62,8 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/option "500 Gb (100 EUR)" >}}
 
+{{< form/option "Backup SIM unlimited GB bij noodgeval (15 EUR)" >}}
+
 {{</ form/select >}}
 
 {{< form/select "Wilt je een data-SIM abonnement met een vast IP adres?" >}}
