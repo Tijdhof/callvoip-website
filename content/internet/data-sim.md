@@ -88,7 +88,7 @@ textblocksfooter:
 
 <div class="flex mb-1">
     
-    <div class="flex-1 px-2">Backup SIM unlimited GB</div>
+    <div class="flex-1 px-2">Backup SIM unlimited Gb</div>
     
     <div class="">€&nbsp;15,-</div>
     
@@ -147,6 +147,7 @@ textblocksfooter:
       Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>. U ontvangt een bevestiging.
     </li>
     <li>Het data-SIM abonnement wordt geleverd met fysieke SIM-kaart.</li>
+<li>De backup SIM kan ook worden geleverd met een vast IP adres</li>
     <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
     <li>De Access Point Name (APN) voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
     <li>
