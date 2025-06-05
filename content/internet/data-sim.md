@@ -147,7 +147,7 @@ textblocksfooter:
       Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>. U ontvangt een bevestiging.
     </li>
     <li>Het data-SIM abonnement wordt geleverd met fysieke SIM-kaart.</li>
-<li>De backup SIM kan ook worden geleverd met een vast IP adres</li>
+<li>De Backup SIM kan ook worden geleverd met een vast IP adres</li>
     <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
     <li>De Access Point Name (APN) voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
     <li>
