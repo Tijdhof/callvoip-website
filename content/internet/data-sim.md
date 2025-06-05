@@ -86,6 +86,14 @@ textblocksfooter:
     
   </div>
 
+<div class="flex mb-1">
+    
+    <div class="flex-1 px-2">Backup SIM unlimited GB</div>
+    
+    <div class="">€&nbsp;15,-</div>
+    
+  </div>
+
   <div class="flex mb-1">
     
     <div class="flex-1 px-2">Vast IP adres</div>
