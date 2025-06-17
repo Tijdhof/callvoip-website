@@ -76,7 +76,7 @@ textblocksfooter:
 
       <!-- Sectie 3: Eenmalige kosten -->
       <div class="border rounded p-3 mb-2">
-        <div class="flex mb-1"><div class="flex-1 px-2">Eénmalige kosten: 25,-</div><div>Prijzen zijn excl. BTW</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">Eénmalige kosten:</div><div>€&nbsp;25,-/div></div>
       </div>
 
     </div>
