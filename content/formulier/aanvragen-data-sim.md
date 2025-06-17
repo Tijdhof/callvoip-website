@@ -1,5 +1,5 @@
 ---
-title: Data-SIM aanvragen
+title: Callvoip Data-SIM aanvragen
 url: "/aanvragen/data-sim/"
 hideinsearch: false
 hideingoogle: false
@@ -71,6 +71,16 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 {{< form/option "Nee, zonder vast IP-adres" >}}
 
 {{< form/option "Ja, met vast IP-adres (meerprijs 10,- ex BTW p/mnd)" >}}
+
+{{</ form/select >}}
+
+{{</ form/select >}}
+
+{{< form/select "Wilt je een data-SIM abonnement met 4G of 5G internet?" >}}
+
+{{< form/option "4G internet" >}}
+
+{{< form/option "Upgrade naar 5G internet (meerprijs 4,- ex BTW p/mnd)" >}}
 
 {{</ form/select >}}
 
