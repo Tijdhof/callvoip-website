@@ -41,7 +41,7 @@ textblocksfooter:
       <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">4G databundel p/mnd</h5>
     </div>
     <div>
-      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Per/mnd (exc. btw)</h5>
+      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Per/mnd (excl. btw)</h5>
     </div>
   </div>
 
@@ -66,7 +66,7 @@ textblocksfooter:
           <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Opties</h5>
         </div>
         <div>
-          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Per/mnd (exc. btw)</h5>
+          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Per/mnd (excl. btw)</h5>
         </div>
       </div>
 
