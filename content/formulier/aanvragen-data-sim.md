@@ -74,7 +74,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/select "Wilt je 4G of 5G internet?" >}}
+{{< form/select "Wil je 4G of 5G internet?" >}}
 
 {{< form/option "4G internet" >}}
 
