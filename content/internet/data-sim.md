@@ -32,104 +32,54 @@ blocks:
 textblocksfooter:
 - title1: Callvoip Data-SIMs
   content1: 'Storing, backup, buitengebied of 4G/5G op je tablet?<br>Snel (tijdelijk) internet met een data-SIM.
-  <div class="mb-8 bg-white rounded-lg py-8 px-6">
-            <h4 class="text-lg lg:text-2xl font-medium mb-2">Callvoip Data SIM</h4>
+<div class="mb-8 bg-white rounded-lg py-8 px-6">
+  <h4 class="text-lg lg:text-2xl font-medium mb-2">Callvoip Data SIM</h4>
 
-            <div class="flex mb-1">
-<div class="flex-1"><h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Databundel p/mnd</h5></div>
-<div class=""><h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Prijzen p/mnd</h5></div>
+  <div class="flex mb-1">
+    <div class="flex-1">
+      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Databundel p/mnd</h5>
+    </div>
+    <div>
+      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Prijzen p/mnd</h5>
+    </div>
+  </div>
+
+  <div id="monthly">
+    <div id="basic-fields-monthly">
+
+      <!-- Sectie 1: Normale GB bundels -->
+      <div class="border rounded p-3 mb-2">
+        <div class="flex mb-1"><div class="flex-1 px-2">1 Gb</div><div>€&nbsp;10,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">10 Gb</div><div>€&nbsp;19,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">100 Gb</div><div>€&nbsp;50,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">200 Gb</div><div>€&nbsp;60,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;100,-</div></div>
+      </div>
+
+      <!-- Sectie 2: Extra opties -->
+      <div class="border rounded p-3 mb-2">
+        <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM*</div><div>€&nbsp;15,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">5G internet</div><div>€&nbsp;4,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">Vast IP adres</div><div>€&nbsp;10,-</div></div>
+      </div>
+
+      <!-- Sectie 3: Eenmalige kosten -->
+      <div class="border rounded p-3 mb-2">
+        <div class="flex mb-1"><div class="flex-1 px-2">Eénmalige kosten: 25,-</div><div>Prijzen zijn excl. BTW</div></div>
+      </div>
+
+    </div>
+
+    <div id="total-fields-monthly"></div>
+  </div>
+
+  <div class="mt-4">
+    <a href="https://www.callvoip.nl/aanvragen/data-sim/" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
+      Gelijk jouw Callvoip Data-SIM bestellen
+    </a>
+  </div>
 </div>
-
-            <div id="monthly">
-              <div id="basic-fields-monthly">
-  
-  
-  <div class="flex mb-1">
-    
-    <div class="flex-1 px-2">1 Gb</div>
-    
-    <div class="">€&nbsp;10,-</div>
-    
-  </div>
-  
-  
-  
-  
-  
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">10 Gb</div>
-    
-    <div class="">€&nbsp;19,-</div>
-    
-  </div>
-  <div class="flex mb-1">
-    
-    <div class="flex-1 px-2">100 Gb</div>
-    
-    <div class="">€&nbsp;50,-</div>
-    
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">200 Gb</div>
-    
-    <div class="">€&nbsp;60,-</div>
-    
-  </div>
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">500 Gb</div>
-    
-    <div class="">€&nbsp;100,-</div>
-    
-  </div>
-
-<div class="flex mb-1">
-    
-    <div class="flex-1 px-2">Backup SIM unlimited Gb</div>
-    
-    <div class="">€&nbsp;15,-</div>
-    
-  </div>
-
-  <div class="flex mb-1">
-    
-    <div class="flex-1 px-2">Vast IP adres</div>
-    
-    <div class="">€&nbsp;10,-</div>
-    
-  </div>
- 
-  <div class="flex mb-1">
-<div class="flex-1 px-2">Eénmalige kosten: 25,- </div>
-<div class="">Prijzen zijn excl. BTW</div>
-</div>
-              
-              
-              
-              
-              
-              <div id="total-fields-monthly">
-  <div class="flex mb-">
-  <div class="w-6">
-    &nbsp;
-  </div>
-  
-  
-  </div>
-  </div>
-            </div>
-
-            
-            
-            <div class="mt-4">
-              <a href="https://www.callvoip.nl/aanvragen/data-sim/" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
-                Gelijk jouw Callvoip Data-SIM bestellen
-              </a>
-            </div>
-          </div>'
+'
   title2: Overige punten
   content2: '<div class="usp-list">
   <ul style="font-size: smaller;">
