@@ -81,7 +81,14 @@ textblocksfooter:
 
     </div>
   </div>
-
+<div class="flex mb-1 mt-4">
+        <div class="flex-1">
+          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75"></h5>
+        </div>
+        <div>
+          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Prijzen zijn excl. BTW</h5>
+        </div>
+      </div>
   <div class="mt-4">
     <a href="https://www.callvoip.nl/aanvragen/data-sim/" class="bg-grey-dark hover:shadow-lg text-white rounded-md block text-center w-full px-4 py-2">
       Gelijk jouw Callvoip Data-SIM bestellen
