@@ -74,6 +74,14 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
+{{< form/select "Wilt je 4G of 5G internet?" >}}
+
+{{< form/option "4G internet" >}}
+
+{{< form/option "Upgrade naar 5G internet (meerprijs 4,- ex BTW p/mnd)" >}}
+
+{{</ form/select >}}
+
 {{< form/input "Startdatum (NB: abonnement wordt gefactureerd per hele kalendermaand)" >}}
 
 {{< form/radiogroup "De eenmalige kosten van een data-SIM bedragen 25,- ex BTW" "inline" required >}} {{< form/radio "Ik ga akkoord met de eenmalige kosten (25,- ex BTW)" "De eenmalige kosten van een data-SIM bedragen 25,- ex BTW" >}} {{</ form/radiogroup >}}
