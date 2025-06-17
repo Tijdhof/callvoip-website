@@ -38,7 +38,7 @@ textblocksfooter:
   <!-- Eerste titelrij voor databundels -->
   <div class="flex mb-1">
     <div class="flex-1">
-      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">4G Databundel p/mnd</h5>
+      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">4G databundel p/mnd</h5>
     </div>
     <div>
       <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Prijzen p/mnd</h5>
@@ -55,6 +55,7 @@ textblocksfooter:
         <div class="flex mb-1"><div class="flex-1 px-2">100 Gb</div><div>€&nbsp;50,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">200 Gb</div><div>€&nbsp;60,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;100,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM*</div><div>€&nbsp;15,-</div></div>
       </div>
 
       <!-- Tweede titelrij voor overige opties -->
@@ -69,7 +70,6 @@ textblocksfooter:
 
       <!-- Sectie 2: Extra opties -->
       <div class="border rounded p-3 mb-2">
-        <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM onder 500 Gb</div><div>€&nbsp;15,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">Upgrade naar 5G internet</div><div>€&nbsp;4,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">Vast IP adres</div><div>€&nbsp;10,-</div></div>
       </div>
