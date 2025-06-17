@@ -55,7 +55,9 @@ textblocksfooter:
         <div class="flex mb-1"><div class="flex-1 px-2">100 Gb</div><div>€&nbsp;50,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">200 Gb</div><div>€&nbsp;60,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;100,-</div></div>
-        <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM*</div><div>€&nbsp;15,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM altijd online*</div><div>€&nbsp;15,-</div></div>
+<br>
+<div class="flex mb-1"><div class="flex-1 px-2">*Een backup SIM kent geen datalimiet en kan ca. 4 dagen per jaar worden gebruik in geval van een storing met de primaire internetverbinding via glasvezel, kabel of dsl.</div><div></div></div>
       </div>
 
       <!-- Tweede titelrij voor overige opties -->
@@ -64,7 +66,7 @@ textblocksfooter:
           <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Opties</h5>
         </div>
         <div>
-          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">er/mnd (exc. btw)</h5>
+          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Per/mnd (exc. btw)</h5>
         </div>
       </div>
 
@@ -76,7 +78,7 @@ textblocksfooter:
 
       <!-- Sectie 3: Eenmalige kosten -->
       <div class="border rounded p-3 mb-2">
-        <div class="flex mb-1"><div class="flex-1 px-2">Eénmalige kosten:</div><div>€&nbsp;25,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">Eénmalige kosten</div><div>€&nbsp;25,-</div></div>
       </div>
 
     </div>
