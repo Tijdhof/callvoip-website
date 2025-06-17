@@ -35,6 +35,7 @@ textblocksfooter:
 <div class="mb-8 bg-white rounded-lg py-8 px-6">
   <h4 class="text-lg lg:text-2xl font-medium mb-2">Callvoip Data SIM</h4>
 
+  <!-- Eerste titelrij voor databundels -->
   <div class="flex mb-1">
     <div class="flex-1">
       <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Databundel p/mnd</h5>
@@ -56,6 +57,16 @@ textblocksfooter:
         <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;100,-</div></div>
       </div>
 
+      <!-- Tweede titelrij voor overige opties -->
+      <div class="flex mb-1 mt-4">
+        <div class="flex-1">
+          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Overige opties</h5>
+        </div>
+        <div>
+          <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Prijzen p/mnd</h5>
+        </div>
+      </div>
+
       <!-- Sectie 2: Extra opties -->
       <div class="border rounded p-3 mb-2">
         <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM*</div><div>€&nbsp;15,-</div></div>
@@ -69,8 +80,6 @@ textblocksfooter:
       </div>
 
     </div>
-
-    <div id="total-fields-monthly"></div>
   </div>
 
   <div class="mt-4">
@@ -79,6 +88,7 @@ textblocksfooter:
     </a>
   </div>
 </div>
+
 '
   title2: Overige punten
   content2: '<div class="usp-list">
