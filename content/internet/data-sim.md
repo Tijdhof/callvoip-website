@@ -31,9 +31,8 @@ blocks:
   image_position: center
 textblocksfooter:
 - title1: Callvoip Data-SIMs
-  content1: 'Storing, backup, buitengebied of 4G/5G op je tablet?<br>Snel (tijdelijk) internet met een data-SIM.
+  content1: 'Storing, backup, buitengebied of 4G/5G op je tablet? Regel snel (tijdelijk) internet met een Callvoip data-SIM.<br>
 <div class="mb-8 bg-white rounded-lg py-8 px-6">
-  <h4 class="text-lg lg:text-2xl font-medium mb-2">Callvoip Data SIM</h4>
 
   <!-- Eerste titelrij voor databundels -->
   <div class="flex mb-1">
@@ -56,7 +55,7 @@ textblocksfooter:
         <div class="flex mb-1"><div class="flex-1 px-2">200 Gb</div><div>€&nbsp;60,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;100,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM altijd online*</div><div>€&nbsp;15,-</div></div>
-        <div class="flex mb-1"><div class="flex-1 px-2" style="font-size:11px; padding-top:5px;">*Een backup SIM kent geen datalimiet en kan ca. 4 dagen per jaar worden gebruik in geval van een storing met de primaire internetverbinding via glasvezel, kabel of dsl.</div><div></div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2" style="font-size:11px; padding-top:5px;">e eenmalige kosten bedragen € 25<br><br>*Een backup SIM kent geen datalimiet en kan ca. 4 dagen per jaar worden gebruik in geval van een storing met de primaire internetverbinding via glasvezel, kabel of dsl.</div><div></div></div>
       </div>
 
       <!-- Tweede titelrij voor overige opties -->
@@ -73,11 +72,6 @@ textblocksfooter:
       <div class="border rounded p-3 mb-2">
         <div class="flex mb-1"><div class="flex-1 px-2">Upgrade naar 5G internet</div><div>€&nbsp;4,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">Vast IP adres</div><div>€&nbsp;10,-</div></div>
-      </div>
-
-      <!-- Sectie 3: Eenmalige kosten -->
-      <div class="border rounded p-3 mb-2">
-        <div class="flex mb-1"><div class="flex-1 px-2">Eénmalige kosten</div><div>€&nbsp;25,-</div></div>
       </div>
 
     </div>
@@ -108,7 +102,7 @@ textblocksfooter:
       Het opzeggen van het data-SIM abonnement kan met het opzegformulier op <a href="https://www.callvoip.nl/mijncallvoip" target="_blank">mijncallvoip</a>. U ontvangt een bevestiging.
     </li>
     <li>Het data-SIM abonnement wordt geleverd met fysieke SIM-kaart.</li>
-<li>De Backup SIM kan ook worden geleverd met een vast IP adres</li>
+<li>Alle  SIMs kan ook worden geleverd met een vast IP adres</li>
     <li>Het data-SIM abonnement loopt over het netwerk van Odido.</li>
     <li>De Access Point Name (APN) voor de Callvoip Data-SIM is: <b>wireless.internet</b></li>
     <li>
