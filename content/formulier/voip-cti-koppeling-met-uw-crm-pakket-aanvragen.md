@@ -226,4 +226,27 @@ Per gebruiker
 
 {{</ layout/columns >}}
 
+{{< layout/columns >}}
+
+{{< layout/column3 >}}
+
+Per gebruiker (cloud*)
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 7,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{< layout/column3 >}}
+
+€ 25,00 excl. BTW
+
+{{</ layout/column3 >}}
+
+{{</ layout/columns >}}
+
+<p>*Voor de Bubble cloud-omgeving geldt een minimum van 5 gebruikers</p>
+
 {{</ form >}}
