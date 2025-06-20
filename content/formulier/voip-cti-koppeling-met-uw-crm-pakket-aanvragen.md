@@ -251,6 +251,8 @@ Per gebruiker (cloud*)
 
 {{</ form >}}
 
+</div></div></div></div>
+
 <div class="mb-8 bg-white rounded-lg py-8 px-6">
 
   <!-- Eerste titelrij voor databundels -->
