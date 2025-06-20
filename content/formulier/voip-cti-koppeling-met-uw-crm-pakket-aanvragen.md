@@ -251,9 +251,7 @@ Per gebruiker (cloud*)
 
 {{</ form >}}
 
-</div></div></div></div>
-
-<div class="mb-8 bg-white rounded-lg py-8 px-6">
+'<div class="mb-8 bg-white rounded-lg py-8 px-6">
 
   <!-- Eerste titelrij voor databundels -->
   <div class="flex mb-1">
@@ -303,4 +301,4 @@ Per gebruiker (cloud*)
       Gelijk jouw Callvoip Data-SIM bestellen
     </a>
   </div>
-</div>
+</div>'
