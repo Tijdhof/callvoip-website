@@ -119,7 +119,7 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-Per gebruiker
+Per gebruiker (Windows, Apple)
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -209,7 +209,7 @@ Per organisatie
 
 {{< layout/column3 >}}
 
-Per gebruiker
+Per gebruiker (Windows, Apple)
 {{</ layout/column3 >}}
 
 {{< layout/column3 >}}
@@ -246,7 +246,7 @@ Per gebruiker (cloud*)
 {{</ layout/column3 >}}
 
 {{</ layout/columns >}}
-
-<p>*Voor de Bubble cloud-omgeving geldt een minimum van 5 gebruikers</p>
+<br>
+<b><p>*Voor de Bubble cloud-omgeving geldt een minimum van 5 gebruikers</p></b>
 
 {{</ form >}}
