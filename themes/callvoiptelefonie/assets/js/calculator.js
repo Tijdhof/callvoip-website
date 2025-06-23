@@ -10,7 +10,6 @@ const state = {
   securityFields: [],
   callrecordingFields: [],
   crmFields: [],
-  vamosFields: [],
   monthly: {
     basicFields: 0,
     callminutesFields: 0,
@@ -18,7 +17,6 @@ const state = {
     securityFields: 0,
     callrecordingFields: 0,
     crmFields: 0,
-    vamosFields: 0,
   },
   onetime: {
     basicFields: 0,
@@ -27,7 +25,6 @@ const state = {
     securityFields: 0,
     callrecordingFields: 0,
     crmFields: 0,
-    vamosFields: 0,
   },
 };
 
@@ -415,52 +412,6 @@ const renderCrmFields = function (fields) {
   crmFieldsOnetime.innerHTML = renderTemplateCrmRow(state.crmFields, "onetime");
 };
 
-
-const renderVamosFields = function () {
-  const vamosFieldsMonthly = document.getElementById("vamos-fields")
-    ? document.getElementById("monthly")
-    : null;
-  const vamosFieldsOnetime = document.getElementById("vamos-fields")
-    ? document.getElementById("onetime")
-    : null;
-
-  if (!vamosFieldsMonthly || !vamosFieldsOnetime) return;
-
-  let monthly = 0;
-  let onetime = 0;
-  const field = document.getElementById("vamos");
-  const obj = {};
-
-  obj.name = field.options[field.selectedIndex].dataset.name;
-  obj.price_monthly = parseFloat(field.options[field.selectedIndex].dataset.price_monthly);
-  obj.price_onetime = parseFloat(field.options[field.selectedIndex].dataset.price_onetime);
-  obj.value = 1;
-
-  monthly = obj.price_monthly;
-  onetime = obj.price_onetime;
-
-  const html = `
-    <div class="flex mb-1">
-      <div class="w-8">1x</div>
-      <div class="flex-1 px-2">${obj.name}</div>
-      <div class="">${formatter.format(monthly)}</div>
-    </div>`;
-
-  const htmlOnetime = `
-    <div class="flex mb-1">
-      <div class="w-8">1x</div>
-      <div class="flex-1 px-2">${obj.name}</div>
-      <div class="">${formatter.format(onetime)}</div>
-    </div>`;
-
-  document.getElementById("total-fields-monthly").insertAdjacentHTML("beforebegin", html);
-  document.getElementById("total-fields-onetime").insertAdjacentHTML("beforebegin", htmlOnetime);
-
-  state.monthly.vamosFields = monthly;
-  state.onetime.vamosFields = onetime;
-};
-
-
 const renderTotals = function () {
   renderMonthlyTotal();
   renderOnetimeTotal();
@@ -509,7 +460,6 @@ const renderRows = function () {
       .getElementById("crm-fields")
       .getElementsByTagName("input");
     renderCrmFields(fields);
-  if (document.getElementById('vamos-fields')) { renderVamosFields(); }
   }
 };
 
