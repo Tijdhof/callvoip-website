@@ -128,6 +128,28 @@ crm:
   price_monthly: 5
   price_onetime: 0
   required: false
+
+vamos:
+  title: Vast Mobiel integratie (vamos)
+  description: Een telefooncentrale geïntegreerde SIM kaart
+  items:
+    - name: 0 GB data + Onbeperkt bellen in EU
+      value: 0
+      price_monthly: 29
+      price_onetime: 25
+    - name: 2 GB data + Onbeperkt bellen in EU
+      value: 2
+      price_monthly: 39
+      price_onetime: 25
+    - name: 5 GB data + Onbeperkt bellen in EU
+      value: 5
+      price_monthly: 45
+      price_onetime: 25
+    - name: 10 GB data + Onbeperkt bellen in EU
+      value: 10
+      price_monthly: 49
+      price_onetime: 25
+
 offerte:
   title: Vrijblijvende offerte ontvangen?
   description: Vul hier onder je gegevens in en ontvang van onze medewerkers een vrijblijvende
