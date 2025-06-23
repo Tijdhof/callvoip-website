@@ -250,3 +250,5 @@ Per gebruiker (cloud*)
 <b><p>*Voor de Bubble cloud-omgeving geldt een minimum van 5 gebruikers</p></b>
 
 {{</ form >}}
+
+<img src="https://res.cloudinary.com/callvoip/image/upload/v1750682066/kostenoverzicht_aksd2v.png">
