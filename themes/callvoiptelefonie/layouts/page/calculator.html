@@ -159,7 +159,26 @@
             </div>
             {{ end }}
 
-            <div id="crm-fields">
+            
+            {{ with .Params.vamos }}
+            <div id="vamos-fields">
+              <div class="mb-4 xl:flex xl:items-center xl:-mx-4">
+                <div class="xl:w-1/2 xl:px-4">
+                  <label for="vamos" class="block text-base lg:text-xl font-medium mb-2 ">{{.title}}</label>
+                  <p class="opacity-75 -mt-3 mb-2">{{ .description }}</p>
+                </div>
+                <div class="xl:w-1/2 xl:px-4">
+                  <select name="vamos" id="vamos" class="w-full border border-grey-light bg-grey-lightest px-4 py-2 rounded">
+                    {{ range $index, $item := .items }}
+                      <option data-name="{{ $item.name }}" data-price_monthly="{{ $item.price_monthly }}" data-price_onetime="{{ $item.price_onetime }}" value="{{ $item.value }}">{{ $item.name }}</option>
+                    {{ end }}
+                  </select>
+                </div>
+              </div>
+            </div>
+            {{ end }}
+
+<div id="crm-fields">
               {{ range $index, $item := .Params.crm }}
               <div class="mb-4 xl:flex xl:items-center xl:-mx-4">
                 <div class="xl:w-1/2 xl:px-4">
