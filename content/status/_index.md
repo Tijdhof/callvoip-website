@@ -44,7 +44,7 @@ tests:
       <b>Er staat onderhoud aan onze servers gepland:</b><br>
       <b>START:</b> vrijdag 4 juli om 21 uur<br>
       <b>EIND:</b> zaterdag 5 juli om 6 uur<br>
-      <br><br>
+      <br>
       <b>Impact:</b> het onderhoud kan ervoor zorgen dat de volgende diensten maximaal 30 minuten in totaal minder goed of niet bereikbaar zijn:
       <ul>
       <li>Telefonieregistraties en telefoonverkeer</li>
@@ -52,7 +52,7 @@ tests:
       <li>Realtime API</li>
       <li>Qaller App</li>
       </ul>
-      <br><br>
+      <br>
       Onze welgemeende excuses voor het eventuele ongemak dat je hiervan ondervindt.
 
 
