@@ -41,21 +41,70 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>Er staat onderhoud aan onze servers gepland:</b><br>
-      <b>START:</b> vrijdag 4 juli om 21 uur<br>
-      <b>EIND:</b> zaterdag 5 juli om 6 uur<br>
-      <br>
-      <b>Impact:</b> het onderhoud kan ervoor zorgen dat de volgende diensten maximaal 30 minuten in totaal minder goed of niet bereikbaar zijn:
-      <ul>
-      <li>Telefonieregistraties en telefoonverkeer</li>
-      <li>Webservices</li>
-      <li>Realtime API</li>
-      <li>Qaller App</li>
-      </ul>
-      <br>
-      Onze welgemeende excuses voor het eventuele ongemak dat je hiervan ondervindt.
+      <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
+      inlogmethoden</b><br>\
+
+      Wil je inloggen op webcalls of de telefooncentrale?\
+
+      Ons advies is om hiervoor alle drie methoden in te stellen: \
+
+      * telefonisch: ontvang een code op je mobiele telefoon\
+
+      * app: ontvang een code op Qaller op je smartphone \
+
+      * authenticator: ontvang een code op de Authenticator op smartphone of browser\
+
+      \
+
+      Mocht er zich een probleem voordoen met één van de methoden, dan heb je 2 backup-methoden.\
+
+      \
+
+      Je kunt het aantal authenticatie-methoden eenvoudig uitbreiden of aanpassen als volgt: \
+
+      - log op de gebruikelijke manier in op webcalls\
+
+      - in het User Panel, klik linksboven op je naam\
+
+      - klik bovenaan de zwarte balk nogmaals op je naam\
+
+      - je krijgt het instellingenscherm, helemaal onderaan staat \[Bewerk 2FA]\
+
+      - klik hierop en log in met je wachtwoord. Hier kun je je 2FA methoden instellen/beheren\
+
+      - in het beheerdersscherm kun je rechtsboven op \[Bewerk 2FA] klikken en dezelfde stappen volgen\
+
+      - zie www.callvoip.nl/apps voor handige links\
+
+      \
+
+      Heb je hier assistentie bij nodig? \
+
+      Bel of mail gerust. 
 
 
+      <hr><br>
+
+      <b>15 augustus 2024  |</b>  <b>Nieuw design Qaller Smartphone app voor iPhones</b>
+
+      Qaller voor de iPhone heeft een prachtig nieuw jasje! 
+
+      De app biedt dezelfde mogelijkheden, werkt nóg intuitiever en heeft een paar handige nieuwe mogelijkheden. 
+
+      &bull; <a href="https://www.callvoip.nl/qallerios">Klik hier voor meer informatie over de nieuwe Qaller-app</a>
+
+      <br><br>
+
+      <b>Inloggen met een extra code (2FA):</b> <br>
+
+      Voortaan is er voor het inloggen op de beheerpanel / webcalls een extra code nodig. 
+
+      Deze code kun je op je mobiel ontvangen en daarvoor hebben we meerdere opties. 
+
+      &bull; <a href="https://www.callvoip.nl/veilig" target="_blank">H﻿ier</a> vind je meer informatie. 
+
+
+      M﻿ocht je meer vragen hebben, neem dan gerust contact op via de telefoon, e-mail of website chat.
 aliases: /storing
 ---
 Als u een niet-vermeld probleem met één van onze services wilt melden, neemt u dan rechtstreeks contact met ons op via <a href="tel:+31508200000">050 820 0000</a> of [callvoip@callvoip.nl](mailto:callvoip@callvoip.nl)
