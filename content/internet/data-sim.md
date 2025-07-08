@@ -53,7 +53,8 @@ textblocksfooter:
         <div class="flex mb-1"><div class="flex-1 px-2">10 Gb</div><div>€&nbsp;19,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">100 Gb</div><div>€&nbsp;50,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">200 Gb</div><div>€&nbsp;60,-</div></div>
-        <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;100,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;75,-</div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2">Unlimited (1000 Gb)</div><div>€&nbsp;90,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM altijd online*</div><div>€&nbsp;15,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2" style="font-size:11px; padding-top:5px;">De eenmalige kosten bedragen € 25,-<br><br>*Een backup SIM kent geen datalimiet en kan ca. 4 dagen per jaar worden gebruik in geval van een storing met de primaire internetverbinding via glasvezel, kabel of dsl.</div><div></div></div>
       </div>
