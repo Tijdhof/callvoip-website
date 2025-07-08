@@ -59,7 +59,6 @@ textblocksfooter:
         <div class="flex mb-1"><div class="flex-1 px-2" style="font-size:11px; padding-top:5px;">De eenmalige kosten bedragen € 25,-<br><br>*Een backup SIM kent geen datalimiet en kan ca. 4 dagen per jaar worden gebruik in geval van een storing met de primaire internetverbinding via glasvezel, kabel of dsl.</div><div></div></div>
       </div>
 
-      <!-- Tweede titelrij voor overige opties -->
       <div class="flex mb-1 mt-4">
         <div class="flex-1">
           <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Opties</h5>
