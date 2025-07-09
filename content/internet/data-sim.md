@@ -37,7 +37,7 @@ textblocksfooter:
   <!-- Eerste titelrij voor databundels -->
   <div class="flex mb-1">
     <div class="flex-1">
-      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">4G Databundels</h5>
+      <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">4G-Bundels</h5>
     </div>
     <div>
       <h5 class="text-base lg:text-xl font-medium mb-2 opacity-75">Per/mnd (excl. BTW)</h5>
@@ -56,7 +56,7 @@ textblocksfooter:
         <div class="flex mb-1"><div class="flex-1 px-2">500 Gb</div><div>€&nbsp;75,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">Unlimited (1000 Gb)</div><div>€&nbsp;90,-</div></div>
         <div class="flex mb-1"><div class="flex-1 px-2">Backup SIM altijd online*</div><div>€&nbsp;15,-</div></div>
-        <div class="flex mb-1"><div class="flex-1 px-2" style="font-size:11px; padding-top:5px;">De eenmalige kosten bedragen € 25,- ex BTW<br><br>De abonnementen zijn per per kalendermaand opzegbaar met een opzegtermijn van één maand.<br><br>*Een backup SIM kent geen datalimiet en kan ca. 4 dagen per jaar worden gebruik in geval van een storing met de primaire internetverbinding via glasvezel, kabel of dsl.</div><div></div></div>
+        <div class="flex mb-1"><div class="flex-1 px-2" style="font-size:11px; padding-top:5px;">De eenmalige kosten bedragen € 25,- ex BTW<br>De abonnementen hebben een contractduur van 1 kalendermaand en zijn daarna opzegbaar per hele kalendermaand met een opzegtermijn van één maand.<br><br>*Een backup SIM kent geen datalimiet en kan ca. 4 dagen per jaar worden gebruik in geval van een storing met de primaire internetverbinding via glasvezel, kabel of dsl.</div><div></div></div>
       </div>
 
       <div class="flex mb-1 mt-4">
