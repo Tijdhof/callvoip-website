@@ -36,7 +36,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/fieldset "Afleveradres (voor de SIM-kaart)" >}}
 
-{{< form/input "Bedrijfsnaam (indien afwijkend van de Bedrijfsgegevens)" >}}
+{{< form/input "Bedrijfsnaam (indien anders dan de bedrijfsgegevens)" >}}
 
 {{< form/input "Straat" required >}}
 
@@ -48,7 +48,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/fieldset >}}
 
-{{< form/fieldset "Welke data bundel heb je nodig?" >}}
+{{< form/fieldset "Welk product heb je nodig?" >}}
 
 {{< form/select "Databundel in Gb's (prijs ex BTW per maand)" >}}
 
@@ -60,7 +60,9 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{< form/option "200 Gb (60 EUR)" >}}
 
-{{< form/option "500 Gb (100 EUR)" >}}
+{{< form/option "500 Gb (75 EUR)" >}}
+
+{{< form/option "Unlimited - 1000Gb (90 EUR)" >}}
 
 {{< form/option "Backup SIM unlimited GB bij noodgeval (15 EUR)" >}}
 
@@ -74,7 +76,7 @@ Vul het formulier in, controleer de bevestigingsmail en stuur een reply, met akk
 
 {{</ form/select >}}
 
-{{< form/select "Wil je 4G of 5G internet?" >}}
+{{< form/select "Wil je 4G of een upgrade naar 5G internet?" >}}
 
 {{< form/option "4G internet" >}}
 
