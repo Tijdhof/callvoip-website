@@ -43,7 +43,7 @@ exports.handler =  async (event, context, callback) => {
   }
 
   if (data.formto == 'vacature') {
-    fromEmail = 'vacature@callvoip.nl'
+    fromEmail = 'robert@callvoiptelefonie.nl'
   }
 
   let clientFieldsTemp = fields.filter(function( obj ) {
