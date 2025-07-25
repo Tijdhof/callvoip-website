@@ -44,6 +44,13 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
+- name: Bellen Vamos SIM (0 GB Data)
+  description: Aantal gebruikers dat via de Vamos SIM gaat bellen
+  min: 0
+  max: 999
+  price_monthly: 29
+  price_onetime: 25
+  required: false
 callminutes:
   title: Belbundel
   description: Geen verrassingen, kies een belbundel
