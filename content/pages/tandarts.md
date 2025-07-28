@@ -134,7 +134,7 @@ intro:
   content: 'Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
       <br><br><div>
           <form class="mb-6" name="whitepaper-tandarts" action="/bedank/whitepaper/" accept-charset="UTF-8" method="POST" data-netlify="true">
-              <input type="hidden" name="form-name" value="whitepaper-tandarts" />
+              <input type="hidden" id="formlayout" name="formlayout" value="214" class="hidden">
               <p> <input type="hidden" id="formlayout" name="formlayout" value="d-a41b62fdc5c6464294843f0100c91821"
                       class="hidden"> </p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
