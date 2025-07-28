@@ -24,27 +24,31 @@ exports.handler = async (event, context, callback) => {
     return fieldsArray.map(field => `<p><strong>${field.name}:</strong> ${field.value}</p>`).join('');
   };
 
+  const params = {
+    form_name: form_name,
+    last_name: data.achternaam,
+    fields: generateHtmlFromFields(clientFields)
+  };
+
+  const templateId = parseInt(data.formlayout); // Should be numeric Brevo template ID
+
   // Email to client
   const clientEmail = {
+    templateId: templateId,
     sender: { name: "Callvoip", email: fromEmail },
     to: [{ email: data.email }],
-    subject: `Inzending formulier: ${form_name}`,
-    htmlContent: `
-      <h2>Bedankt voor je inzending</h2>
-      <p>We hebben je formulier succesvol ontvangen:</p>
-      ${generateHtmlFromFields(clientFields)}
-    `
+    params: params
   };
 
   // Email to internal recipient
   const internalEmail = {
-    sender: { name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`, email: data.email },
+    templateId: templateId,
+    sender: {
+      name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`,
+      email: data.email
+    },
     to: [{ email: fromEmail }],
-    subject: `Nieuwe inzending formulier: ${form_name}`,
-    htmlContent: `
-      <h2>Nieuwe formulierinzending ontvangen</h2>
-      ${generateHtmlFromFields(clientFields)}
-    `
+    params: params
   };
 
   try {
@@ -71,6 +75,6 @@ exports.handler = async (event, context, callback) => {
 
   return callback(null, {
     statusCode: 200,
-    body: JSON.stringify({ message: "Message sent via Brevo!" })
+    body: JSON.stringify({ message: "Message sent via Brevo using template." })
   });
 };
