@@ -26,11 +26,11 @@ exports.handler = async (event, context, callback) => {
 
   const params = {
     form_name: form_name,
-    last_name: data.achternaam,
+    last_name: data.achternaam || '',
     fields: generateHtmlFromFields(clientFields)
   };
 
-  const templateId = parseInt(data.formlayout); // Should be numeric Brevo template ID
+  const templateId = parseInt(data.formlayout); // numeric Brevo template ID
 
   // Email to client
   const clientEmail = {
@@ -43,15 +43,13 @@ exports.handler = async (event, context, callback) => {
   // Email to internal recipient
   const internalEmail = {
     templateId: templateId,
-    sender: {
-      name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`,
-      email: data.email
-    },
+    sender: { name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`, email: data.email },
     to: [{ email: fromEmail }],
     params: params
   };
 
   try {
+    console.log("Sending to client with params:", clientEmail.params);
     await axios.post("https://api.brevo.com/v3/smtp/email", clientEmail, {
       headers: {
         "api-key": brevoApiKey,
@@ -63,6 +61,7 @@ exports.handler = async (event, context, callback) => {
   }
 
   try {
+    console.log("Sending to internal with params:", internalEmail.params);
     await axios.post("https://api.brevo.com/v3/smtp/email", internalEmail, {
       headers: {
         "api-key": brevoApiKey,
@@ -75,6 +74,6 @@ exports.handler = async (event, context, callback) => {
 
   return callback(null, {
     statusCode: 200,
-    body: JSON.stringify({ message: "Message sent via Brevo using template." })
+    body: JSON.stringify({ message: "Message sent via Brevo template!" })
   });
 };
