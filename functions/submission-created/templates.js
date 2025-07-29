@@ -1,3 +1,65 @@
+function template_d_bb5785f73c154508a7d4125575855140(data) {
+  const fields = Object.entries(data).filter(e => !['formto','form_name','formlayout'].includes(e[0]))
+    
+  return `
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+      <style type="text/css">
+        body, p, div {
+          font-family: arial,helvetica,sans-serif;
+          font-size: 14px;
+          color: #203476;
+        }
+        a {
+          color: #2069f3;
+          text-decoration: none;
+        }
+        .wrapper {
+          width: 100% !important;
+          table-layout: fixed;
+          background-color: #ebf2f7;
+        }
+        img.max-width {
+          max-width: 100% !important;
+        }
+        @media screen and (max-width:480px) {
+          .columns, .column {
+            width: 100% !important;
+            display: block !important;
+          }
+        }
+      </style>
+    </head>
+    <body style="margin: 0; padding: 0;" bgcolor="#ebf2f7">
+      <center class="wrapper">
+        <div>
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ebf2f7">
+            <tr>
+              <td>
+                <table align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;" bgcolor="#f9f9f9">
+                  <tr>
+                    <td style="padding: 20px;">
+  
+                      <div style="text-align: center;">
+                        <img src="https://marketing-image-production.s3.amazonaws.com/uploads/53d49e27d5100311eb23f95e1e185f45848d3b15b8f6231c2d13735a640a17d614102bdb1a3e4031e0196a46638a4b095801c8cc46996aa71dd02959379add34.png" width="300" alt="Callvoip logo" style="max-width: 50%; height: auto;" />
+                      </div>
+
+                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`)}
+                      
+                    </td>
+                  </tr>
+                </table>
+
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    </body>
+  `
+}
 function template_214(data) {
   const fields = Object.entries(data).filter(e => !['formto','form_name','formlayout'].includes(e[0]))
     
@@ -96,9 +158,14 @@ function template_214(data) {
 }
 
 function htmlString(data) {
-  let content='';
+  let content='Hi, no template ';
+
   if (data.formlayout==='214'){
     content=template_214(data)
+  }
+
+  if (data.formlayout==="d-bb5785f73c154508a7d4125575855140"){
+    content=template_d_bb5785f73c154508a7d4125575855140(data)
   }
 
   return `
