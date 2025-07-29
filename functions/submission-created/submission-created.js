@@ -9,27 +9,27 @@ exports.handler = async (event, context, callback) => {
   const fields = payload.ordered_human_fields;
   const brevoApiKey = process.env.BREVO_API_KEY;
 
-  let senderEmail = 'aanvragen@callvoip.nl';
+  let senderEmail = 'callvoip@callvoip.nl';
   let internalRecipient = 'aanvragen@callvoip.nl';
 
   if (data.formto === 'dev') {
-    senderEmail = 'info@spinme.nl';
+    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'info@spinme.nl';
   }
   if (data.formto === 'info') {
-    senderEmail = 'info@callvoip.nl';
+    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'info@callvoip.nl';
   }
   if (data.formto === 'offerte') {
-    senderEmail = 'offerte@callvoip.nl';
+    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'offerte@callvoip.nl';
   }
   if (data.formto === 'aanvragen') {
-    senderEmail = 'aanvragen@callvoip.nl';
+    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'aanvragen@callvoip.nl';
   }
   if (data.formto === 'vacature') {
-    senderEmail = 'robert@callvoiptelefonie.nl';
+    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'robert@callvoiptelefonie.nl';
   }
 
