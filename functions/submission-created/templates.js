@@ -45,7 +45,18 @@ function template_d_bb5785f73c154508a7d4125575855140(data) {
                       <div style="text-align: center;">
                         <img src="https://marketing-image-production.s3.amazonaws.com/uploads/53d49e27d5100311eb23f95e1e185f45848d3b15b8f6231c2d13735a640a17d614102bdb1a3e4031e0196a46638a4b095801c8cc46996aa71dd02959379add34.png" width="300" alt="Callvoip logo" style="max-width: 50%; height: auto;" />
                       </div>
-
+<p>Geachte heer/mevrouw,
+<br><br>
+Hartelijk dank voor uw aanvraag.
+<br><br>
+Controleer onderstaande aanvraag zorgvuldig. Indien akkoord, ontvangen wij graag een reply op dit bericht met uw akkoord.
+<br><br>
+Na ontvangst van uw akkoord zullen wij de aanvraag verwerken.
+<br><br>
+Met vriendelijke groet,<br>
+Team Callvoip
+<br><br>
+<b>Uw ingezonden formulier:</b><br>
                       ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`)}
                       
                     </td>
