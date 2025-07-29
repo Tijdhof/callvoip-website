@@ -32,6 +32,7 @@
     "tailwindcss": "^1.8.10",
     "tailwindcss-alpha": "^0.1.4",
     "webpack": "^5.94.0",
+    "@getbrevo/brevo": "^2.5.0",
     "webpack-cli": "^5.1.4"
   }
 }
