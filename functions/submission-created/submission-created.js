@@ -1,39 +1,37 @@
-const axios = require('axios');
+const brevo = require('@getbrevo/brevo');
 
 exports.handler = async (event, context, callback) => {
   console.log('📨 Form submission received');
 
   const payload = JSON.parse(event.body).payload;
   const data = payload.data;
-
-  // 🔍 New log line here
-  console.log('🧾 Full form data:', JSON.stringify(data, null, 2));
-
   const form_name = payload.form_name;
   const fields = payload.ordered_human_fields;
   const brevoApiKey = process.env.BREVO_API_KEY;
+
+  // Initialize Brevo client
+  let defaultClient = brevo.ApiClient.instance;
+  let apiKey = defaultClient.authentications['api-key'];
+  apiKey.apiKey = brevoApiKey;
+
+  let apiInstance = new brevo.TransactionalEmailsApi();
 
   let senderEmail = 'callvoip@callvoip.nl';
   let internalRecipient = 'aanvragen@callvoip.nl';
 
   if (data.formto === 'dev') {
-    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'info@spinme.nl';
   }
   if (data.formto === 'info') {
-    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'info@callvoip.nl';
   }
   if (data.formto === 'offerte') {
-    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'offerte@callvoip.nl';
   }
   if (data.formto === 'aanvragen') {
-    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'aanvragen@callvoip.nl';
   }
   if (data.formto === 'vacature') {
-    senderEmail = 'callvoip@callvoip.nl';
     internalRecipient = 'robert@callvoiptelefonie.nl';
   }
 
@@ -56,52 +54,54 @@ exports.handler = async (event, context, callback) => {
     console.error('❌ Invalid template ID:', data.formlayout);
     return callback(null, {
       statusCode: 400,
-      body: JSON.stringify({ message: 'Invalid template ID' }),
+      body: JSON.stringify({message: 'Invalid template ID'}),
     });
   }
 
+  // Helper function to send email using Brevo SDK
+  const sendBrevoEmail = async (emailConfig) => {
+    let sendSmtpEmail = new brevo.SendSmtpEmail();
+    
+    sendSmtpEmail.templateId = emailConfig.templateId;
+    sendSmtpEmail.sender = emailConfig.sender;
+    sendSmtpEmail.to = emailConfig.to;
+    sendSmtpEmail.params = emailConfig.params;
+
+    return apiInstance.sendTransacEmail(sendSmtpEmail);
+  };
+
   const clientEmail = {
     templateId,
-    sender: { name: "Callvoip", email: senderEmail },
-    to: [{ email: data.email }],
+    sender: {name: "Callvoip", email: senderEmail},
+    to: [{email: data.email}],
     params
   };
 
   const internalEmail = {
     templateId,
-    sender: { name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`, email: data.email },
-    to: [{ email: internalRecipient }],
+    sender: {name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`, email: data.email},
+    to: [{email: internalRecipient}],
     params
   };
 
   try {
     console.log('📤 Sending email to client:', data.email);
-    await axios.post("https://api.brevo.com/v3/smtp/email", clientEmail, {
-      headers: {
-        "api-key": brevoApiKey,
-        "Content-Type": "application/json"
-      }
-    });
+    await sendBrevoEmail(clientEmail);
     console.log('✅ Client email sent');
   } catch (err) {
-    console.error("❌ Error sending client email:", err.response?.data || err);
+    console.error("❌ Error sending client email:", err);
   }
 
   try {
     console.log('📤 Sending email to internal:', internalRecipient);
-    await axios.post("https://api.brevo.com/v3/smtp/email", internalEmail, {
-      headers: {
-        "api-key": brevoApiKey,
-        "Content-Type": "application/json"
-      }
-    });
+    await sendBrevoEmail(internalEmail);
     console.log('✅ Internal email sent');
   } catch (err) {
-    console.error("❌ Error sending internal email:", err.response?.data || err);
+    console.error("❌ Error sending internal email:", err);
   }
 
   return callback(null, {
     statusCode: 200,
-    body: JSON.stringify({ message: "Emails sent via Brevo template!" })
+    body: JSON.stringify({message: "Emails sent via Brevo template!"})
   });
 };
