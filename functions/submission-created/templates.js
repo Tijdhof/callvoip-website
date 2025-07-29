@@ -1,4 +1,6 @@
-function template_214(form_name,fields) {
+function template_214(data) {
+  const fields = Object.entries(data).filter(e => !['formto','form_name','formlayout'].includes(e[0]))
+    
   return `
     <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -60,9 +62,9 @@ function template_214(form_name,fields) {
   
                       <p><strong>Je formuliergegevens:</strong></p>
 
-                      ${fields.map(f => `<p><strong>${f.key}:</strong> ${f.value}</p>`)}
+                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`)}
                       
-                      <p><em>Formulier:</em> ${form_name}</p>
+                      <p><em>Formulier:</em> ${data.form_name}</p>
                     </td>
                   </tr>
                 </table>
@@ -96,10 +98,7 @@ function template_214(form_name,fields) {
 function htmlString(data) {
   let content='';
   if (data.formlayout==='214'){
-    const fields=[]
-    if (data.naam) fields.push({key: 'Naam', value: data.naam})
-    if (data.email) fields.push({key: 'Email', value: data.email})
-    content=template_214(data.form_name,fields)
+    content=template_214(data)
   }
 
   return `
