@@ -1,0 +1,97 @@
+export function template214(form_name,fields) {
+  return `
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <style type="text/css">
+          body, p, div {
+            font-family: arial,helvetica,sans-serif;
+            font-size: 14px;
+            color: #203476;
+          }
+          a {
+            color: #2069f3;
+            text-decoration: none;
+          }
+          .wrapper {
+            width: 100% !important;
+            table-layout: fixed;
+            background-color: #ebf2f7;
+          }
+          img.max-width {
+            max-width: 100% !important;
+          }
+          @media screen and (max-width:480px) {
+            .columns, .column {
+              width: 100% !important;
+              display: block !important;
+            }
+          }
+        </style>
+      </head>
+      <body style="margin: 0; padding: 0;" bgcolor="#ebf2f7">
+        <center class="wrapper">
+          <div>
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ebf2f7">
+              <tr>
+                <td>
+                  <table align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;" bgcolor="#f9f9f9">
+                    <tr>
+                      <td style="padding: 20px;">
+    
+                        <div style="text-align: center;">
+                          <img src="https://marketing-image-production.s3.amazonaws.com/uploads/53d49e27d5100311eb23f95e1e185f45848d3b15b8f6231c2d13735a640a17d614102bdb1a3e4031e0196a46638a4b095801c8cc46996aa71dd02959379add34.png" width="300" alt="Callvoip logo" style="max-width: 50%; height: auto;" />
+                        </div>
+    
+                        <p>Beste,</p>
+    
+                        <p>Bedankt voor je interesse in onze whitepaper <strong>"Slimme telefonie voor tandartsen"</strong>.</p>
+    
+                        <p><a href="https://www.callvoip.nl/slimme-telefonie-voor-tandartsen-whitepaper.pdf">Download hier</a> jouw whitepaper.</p>
+    
+                        <p>Mocht je naar aanleiding van alle informatie vragen hebben, neem dan contact op met Marieke. Ze kan je alles vertellen over de koppeling en de werking. Je kunt Marieke bereiken op <a href="tel:+31508200000">050 - 820 00 00</a> of via <a href="mailto:callvoip@callvoip.nl">callvoip@callvoip.nl</a>.</p>
+    
+                        <p>We houden contact!</p>
+    
+                        <p>Team Callvoip</p>
+    
+                        <hr style="margin: 20px 0;" />
+    
+                        <p><strong>Je formuliergegevens:</strong></p>
+    
+                        ${fields}
+                        
+                        <p><em>Formulier:</em> ${form_name}</p>
+                      </td>
+                    </tr>
+                  </table>
+    
+                  <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top: 20px;">
+                    <tr>
+                      <td style="padding: 0 5px;">
+                        <a href="https://twitter.com/callvoip" target="_blank">
+                          <img src="https://marketing-image-production.s3.amazonaws.com/social/white/twitter.png" alt="Twitter" width="30" height="30" style="display:block;" />
+                        </a>
+                      </td>
+                      <td style="padding: 0 5px;">
+                        <a href="https://www.linkedin.com/company/1112063" target="_blank">
+                          <img src="https://marketing-image-production.s3.amazonaws.com/social/white/linkedin.png" alt="LinkedIn" width="30" height="30" style="display:block;" />
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+    
+                  <p style="text-align:center; font-size:12px; color:#666;">Wil je geen e-mails meer ontvangen? <a href="<%asm_group_unsubscribe_raw_url%>">Klik hier om je af te melden</a>.</p>
+    
+                </td>
+              </tr>
+            </table>
+          </div>
+        </center>
+      </body>
+    </html>
+  `
+}
