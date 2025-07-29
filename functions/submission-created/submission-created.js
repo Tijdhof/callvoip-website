@@ -9,6 +9,8 @@ exports.handler = async (event, context, callback) => {
     const data = payload.data;
     const brevoApiKey = process.env.BREVO_API_KEY;
 
+    console.log("🟢🟢🟢🟢🟢 ",data);
+
     // Check if required fields exist
     if (!data.email) {
       console.error("❌ Missing email field");
