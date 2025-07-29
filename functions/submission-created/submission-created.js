@@ -5,6 +5,10 @@ exports.handler = async (event, context, callback) => {
 
   const payload = JSON.parse(event.body).payload;
   const data = payload.data;
+
+  // 🔍 New log line here
+  console.log('🧾 Full form data:', JSON.stringify(data, null, 2));
+
   const form_name = payload.form_name;
   const fields = payload.ordered_human_fields;
   const brevoApiKey = process.env.BREVO_API_KEY;
