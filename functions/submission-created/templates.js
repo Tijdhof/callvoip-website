@@ -1,3 +1,84 @@
+function template_d_126942c712c44ec98eb3f158d6b2c826(data) {
+  const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
+  const fields = Object.entries(data).filter(([key]) => !excludedKeys.includes(key))
+    
+  return `
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+      <style type="text/css">
+        body, p, div {
+          font-family: arial,helvetica,sans-serif;
+          font-size: 14px;
+          color: #203476;
+        }
+        a {
+          color: #2069f3;
+          text-decoration: none;
+        }
+        .wrapper {
+          width: 100% !important;
+          table-layout: fixed;
+          background-color: #ebf2f7;
+        }
+        img.max-width {
+          max-width: 100% !important;
+        }
+        @media screen and (max-width:480px) {
+          .columns, .column {
+            width: 100% !important;
+            display: block !important;
+          }
+        }
+      </style>
+    </head>
+    <body style="margin: 0; padding: 0;" bgcolor="#ebf2f7">
+      <center class="wrapper">
+        <div>
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ebf2f7">
+            <tr>
+              <td>
+                <table align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;" bgcolor="#f9f9f9">
+                  <tr>
+                    <td style="padding: 20px;">
+  
+                      <div style="text-align: center;">
+                        <img src="https://marketing-image-production.s3.amazonaws.com/uploads/53d49e27d5100311eb23f95e1e185f45848d3b15b8f6231c2d13735a640a17d614102bdb1a3e4031e0196a46638a4b095801c8cc46996aa71dd02959379add34.png" width="300" alt="Callvoip logo" style="max-width: 50%; height: auto;" />
+                      </div>
+<p>Geachte heer/mevrouw,
+<br><br>
+Je hebt ons via onze contactpagina onderstaande gegevens gestuurd en/of vraag gesteld.
+<br><br>
+Heb je in de tussentijd nog vragen en/of opmerkingen? Bel ons dan op nummer 050 820 00 00.
+<br><br>
+Met vriendelijke groet,<br>
+Team Callvoip
+<br><br>
+<b>Uw ingezonden formulier:</b><br>
+                      ${fields.map(([k, v]) => {
+    if (typeof v === 'object' && v !== null && v.url) {
+      return `<p><strong>${k}:</strong> <a href="${v.url}" target="_blank">${v.name || 'Download bestand'}</a></p>`;
+    } else {
+      return `<p><strong>${k}:</strong> ${v}</p>`;
+    }
+  }).join("")}
+                      
+                    </td>
+                  </tr>
+                </table>
+
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    </body>
+  `
+}
+
+
+
 function template_d_9f9d59454d29461697d5e1d428ab9ef8(data) {
   const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
   const fields = Object.entries(data).filter(([key]) => !excludedKeys.includes(key))
@@ -57,6 +138,90 @@ Na ontvangst van uw akkoord zullen wij de opzegging verwerken.
 Met vriendelijke groet,<br>
 Team Callvoip
 <br><br>
+<b>Uw ingezonden formulier:</b><br>
+                      ${fields.map(([k, v]) => {
+    if (typeof v === 'object' && v !== null && v.url) {
+      return `<p><strong>${k}:</strong> <a href="${v.url}" target="_blank">${v.name || 'Download bestand'}</a></p>`;
+    } else {
+      return `<p><strong>${k}:</strong> ${v}</p>`;
+    }
+  }).join("")}
+                      
+                    </td>
+                  </tr>
+                </table>
+
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    </body>
+  `
+}
+
+
+function template_d_f81edba681b54d4f86440455bce665d0(data) {
+  const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
+  const fields = Object.entries(data).filter(([key]) => !excludedKeys.includes(key))
+    
+  return `
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+      <style type="text/css">
+        body, p, div {
+          font-family: arial,helvetica,sans-serif;
+          font-size: 14px;
+          color: #203476;
+        }
+        a {
+          color: #2069f3;
+          text-decoration: none;
+        }
+        .wrapper {
+          width: 100% !important;
+          table-layout: fixed;
+          background-color: #ebf2f7;
+        }
+        img.max-width {
+          max-width: 100% !important;
+        }
+        @media screen and (max-width:480px) {
+          .columns, .column {
+            width: 100% !important;
+            display: block !important;
+          }
+        }
+      </style>
+    </head>
+    <body style="margin: 0; padding: 0;" bgcolor="#ebf2f7">
+      <center class="wrapper">
+        <div>
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ebf2f7">
+            <tr>
+              <td>
+                <table align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;" bgcolor="#f9f9f9">
+                  <tr>
+                    <td style="padding: 20px;">
+  
+                      <div style="text-align: center;">
+                        <img src="https://marketing-image-production.s3.amazonaws.com/uploads/53d49e27d5100311eb23f95e1e185f45848d3b15b8f6231c2d13735a640a17d614102bdb1a3e4031e0196a46638a4b095801c8cc46996aa71dd02959379add34.png" width="300" alt="Callvoip logo" style="max-width: 50%; height: auto;" />
+                      </div>
+<div>Na een klik op één van onze advertenties liet je je e-mail en telefoonnummer achter omdat je benieuwd was geworden naar ons aanbod. Daarom krijg je deze mail. </div>
+
+<div>&nbsp;</div>
+
+<div>Natuurlijk gaan we zo snel mogelijk contact met je opnemen om al je vragen te beantwoorden. In de tussentijd nodigen we je uit om een kijkje te nemen op onze website, bijvoorbeeld naar onze <a href="https://www.callvoip.nl/toolkit/">Telefonie Toolkit.</a></div>
+<br>
+<div>En kun je niet wachten? Dan kun je ons natuurlijk ook bellen: 050 820 00 00.</div>
+
+
+<div>&nbsp;</div>
+
+<div>Tot snel!<br />
+Team Callvoip</div>
 <b>Uw ingezonden formulier:</b><br>
                       ${fields.map(([k, v]) => {
     if (typeof v === 'object' && v !== null && v.url) {
@@ -386,6 +551,14 @@ function htmlString(data) {
 
   if (data.formlayout==="d-8b49c21d95ab4559a59613773a179695"){
     content=template_d_8b49c21d95ab4559a59613773a179695(data)
+  }
+
+  if (data.formlayout==="d-f81edba681b54d4f86440455bce665d0"){
+    content=template_d_f81edba681b54d4f86440455bce665d0(data)
+  }
+
+  if (data.formlayout==="d-126942c712c44ec98eb3f158d6b2c826"){
+    content=template_d_126942c712c44ec98eb3f158d6b2c826(data)
   }
 
   return `
