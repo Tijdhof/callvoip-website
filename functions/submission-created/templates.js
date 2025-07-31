@@ -58,7 +58,13 @@ Met vriendelijke groet,<br>
 Team Callvoip
 <br><br>
 <b>Uw ingezonden formulier:</b><br>
-                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`).join("")}
+                      ${fields.map(([k, v]) => {
+    if (typeof v === 'object' && v !== null && v.url) {
+      return `<p><strong>${k}:</strong> <a href="${v.url}" target="_blank">${v.name || 'Download bestand'}</a></p>`;
+    } else {
+      return `<p><strong>${k}:</strong> ${v}</p>`;
+    }
+  }).join("")}
                       
                     </td>
                   </tr>
@@ -137,7 +143,13 @@ function template_214(data) {
   
                       <p><strong>Je formuliergegevens:</strong></p>
 
-                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`).join("")}
+                      ${fields.map(([k, v]) => {
+    if (typeof v === 'object' && v !== null && v.url) {
+      return `<p><strong>${k}:</strong> <a href="${v.url}" target="_blank">${v.name || 'Download bestand'}</a></p>`;
+    } else {
+      return `<p><strong>${k}:</strong> ${v}</p>`;
+    }
+  }).join("")}
                       
                       <p><em>Formulier:</em> ${data.form_name}</p>
                     </td>
