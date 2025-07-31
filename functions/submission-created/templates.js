@@ -1,5 +1,6 @@
 function template_d_bb5785f73c154508a7d4125575855140(data) {
-  const fields = Object.entries(data).filter(e => !['formto','form_name','formlayout'].includes(e[0]))
+  const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
+  const fields = Object.entries(data).filter(([key]) => !excludedKeys.includes(key))
     
   return `
     <head>
@@ -57,7 +58,7 @@ Met vriendelijke groet,<br>
 Team Callvoip
 <br><br>
 <b>Uw ingezonden formulier:</b><br>
-                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`)}
+                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`).join("")}
                       
                     </td>
                   </tr>
@@ -72,7 +73,8 @@ Team Callvoip
   `
 }
 function template_214(data) {
-  const fields = Object.entries(data).filter(e => !['formto','form_name','formlayout'].includes(e[0]))
+  const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
+  const fields = Object.entries(data).filter(([key]) => !excludedKeys.includes(key))
     
   return `
     <head>
@@ -135,7 +137,7 @@ function template_214(data) {
   
                       <p><strong>Je formuliergegevens:</strong></p>
 
-                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`)}
+                      ${fields.map(([k,v]) => `<p><strong>${k}:</strong> ${v}</p>`).join("")}
                       
                       <p><em>Formulier:</em> ${data.form_name}</p>
                     </td>
