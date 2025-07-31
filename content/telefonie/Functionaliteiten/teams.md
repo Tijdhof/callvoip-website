@@ -36,9 +36,8 @@ intro:
   content: 'Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
       <br><br><div>
           <form class="mb-6" name="whitepaper-teams" action="/bedank/whitepaper/" accept-charset="UTF-8" method="POST" data-netlify="true">
-              <input type="hidden" name="form_name" value="whitepaper-teams" />
-              <p> <input type="hidden" id="formlayout" name="formlayout" value="d-8b49c21d95ab4559a59613773a179695"
-                      class="hidden"> </p>
+              <p><input type="hidden" name="form_name" value="whitepaper-teams" class="hidden"></p>
+              <p><input type="hidden" id="formlayout" name="formlayout" value="d-8b49c21d95ab4559a59613773a179695" class="hidden"></p>
               <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
               <div class="layout-split">
                   <div class="mb-4"> <label for="naam" class="block">Naam</label> <input type="text"
