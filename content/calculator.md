@@ -31,21 +31,21 @@ basic:
   price_onetime: 5
   required: false
 - name: Bellen via de computer
-  description: Aantal gebruikers dat via de computer gaat bellen 
+  description: Aantal gebruikers dat via de computer belt
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Bellen met de smartphone (VaMo, app)
-  description: Aantal gebruikers dat via de smartphone app gaat bellen
+  description: Aantal gebruikers dat via de smartphone app belt
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
 - name: Bellen met de smartphone (VaMo, SIM-kaart)
-  description: Aantal gebruikers dat met een SIM-kaart gaat bellen
+  description: Aantal gebruikers dat met een SIM-kaart belt
   min: 0
   max: 999
   price_monthly: 29
