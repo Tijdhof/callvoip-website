@@ -37,15 +37,15 @@ basic:
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen met de smartphone
-  description: Aantal gebruikers dat via de app gaat bellen
+- name: Bellen met de smartphone (VaMo, app)
+  description: Aantal gebruikers dat via de smartphone app gaat bellen
   min: 0
   max: 999
   price_monthly: 4
   price_onetime: 5
   required: false
-- name: Bellen Vamos SIM (0 GB Data)
-  description: Aantal gebruikers dat via de Vamos SIM gaat bellen
+- name: Bellen met de smartphone (VaMo, SIM-kaart)
+  description: Aantal gebruikers dat met een SIM-kaart gaat bellen
   min: 0
   max: 999
   price_monthly: 29
