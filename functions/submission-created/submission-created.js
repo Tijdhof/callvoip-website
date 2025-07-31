@@ -34,7 +34,7 @@ exports.handler = async (event, context, callback) => {
     const clientEmail = {
       sender: { name: "Callvoip", email: "callvoip@callvoip.nl" },
       to: [{ email: data.email }, { email: internalRecipient }],
-      subject: `Inzending formulier: ${data.form_name || 'Onbekend formulier'}`,
+      subject: `Inzending formulier: ${data.form_name || data.referrer}`,
       htmlContent
     };
 
