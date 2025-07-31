@@ -78,6 +78,90 @@ Team Callvoip
 }
 
 
+function template_d_23f3cd981aa749f793cc16353039c3e3(data) {
+  const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
+  const fields = Object.entries(data).filter(([key]) => !excludedKeys.includes(key))
+    
+  return `
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+      <style type="text/css">
+        body, p, div {
+          font-family: arial,helvetica,sans-serif;
+          font-size: 14px;
+          color: #203476;
+        }
+        a {
+          color: #2069f3;
+          text-decoration: none;
+        }
+        .wrapper {
+          width: 100% !important;
+          table-layout: fixed;
+          background-color: #ebf2f7;
+        }
+        img.max-width {
+          max-width: 100% !important;
+        }
+        @media screen and (max-width:480px) {
+          .columns, .column {
+            width: 100% !important;
+            display: block !important;
+          }
+        }
+      </style>
+    </head>
+    <body style="margin: 0; padding: 0;" bgcolor="#ebf2f7">
+      <center class="wrapper">
+        <div>
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ebf2f7">
+            <tr>
+              <td>
+                <table align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;" bgcolor="#f9f9f9">
+                  <tr>
+                    <td style="padding: 20px;">
+  
+                      <div style="text-align: center;">
+                        <img src="https://marketing-image-production.s3.amazonaws.com/uploads/53d49e27d5100311eb23f95e1e185f45848d3b15b8f6231c2d13735a640a17d614102bdb1a3e4031e0196a46638a4b095801c8cc46996aa71dd02959379add34.png" width="300" alt="Callvoip logo" style="max-width: 50%; height: auto;" />
+                      </div>
+<p>Hallo,
+<br><br>
+Leuk dat je kennis met ons wil maken.
+<br><br>
+We zijn dol op bellen en zullen dan ook snel contact met je opnemen om te kijken wat voor moois we jou en jouw organisatie kunnen bieden. We gaan dan ons best doen om je in de tijd die jij daarvoor kunt vrijmaken een zo goed mogelijk beeld te geven van onze dienst.
+<br><br>
+Wedden dat je onder de indruk bent hoe eenvoudig, snel en compleet ons telefoonsysteem is?
+<br><br>
+Dus hou je telefoon in de gaten!
+<br><br>
+Met vriendelijke groet,<br>
+Team Callvoip
+<br><br>
+<b>Uw ingezonden formulier:</b><br>
+                      ${fields.map(([k, v]) => {
+    if (typeof v === 'object' && v !== null && v.url) {
+      return `<p><strong>${k}:</strong> <a href="${v.url}" target="_blank">${v.name || 'Download bestand'}</a></p>`;
+    } else {
+      return `<p><strong>${k}:</strong> ${v}</p>`;
+    }
+  }).join("")}
+                      
+                    </td>
+                  </tr>
+                </table>
+
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    </body>
+  `
+}
+
+
 
 function template_d_9f9d59454d29461697d5e1d428ab9ef8(data) {
   const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
@@ -559,6 +643,10 @@ function htmlString(data) {
 
   if (data.formlayout==="d-126942c712c44ec98eb3f158d6b2c826"){
     content=template_d_126942c712c44ec98eb3f158d6b2c826(data)
+  }
+
+  if (data.formlayout==="d-23f3cd981aa749f793cc16353039c3e3"){
+    content=template_d_23f3cd981aa749f793cc16353039c3e3(data)
   }
 
   return `
