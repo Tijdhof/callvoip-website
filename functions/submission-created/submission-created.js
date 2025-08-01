@@ -47,13 +47,40 @@ if (data.formto === "vacature") {
 
 const htmlContent = htmlString(data);
 
-    // Email payloads
-    const clientEmail = {
-      sender: { name: "Callvoip", email: senderEmail },
-      to: [{ email: data.email }, { email: internalRecipient }],
-      subject: `Inzending formulier: ${data.form_name || data.referrer}`,
-      htmlContent
-    };
+// Email to the person who submitted the form
+const clientEmail = {
+  sender: { name: "Callvoip", email: senderEmail },
+  to: [{ email: data.email }],
+  subject: `Inzending formulier: ${data.form_name || data.referrer}`,
+  htmlContent
+};
+
+// Email to internal recipient, coming *from* the person who submitted the form
+const internalEmail = {
+  sender: {
+    name: data.bedrijfsnaam || `${data.voornaam} ${data.achternaam}`,
+    email: data.email
+  },
+  to: [{ email: internalRecipient }],
+  subject: `Nieuwe inzending formulier: ${data.form_name || data.referrer}`,
+  htmlContent
+};
+
+// Send both emails
+try {
+  await apiInstance.sendTransacEmail(clientEmail);
+  await apiInstance.sendTransacEmail(internalEmail);
+  return {
+    statusCode: 200,
+    body: JSON.stringify({ message: "✅ Emails sent successfully" })
+  };
+} catch (error) {
+  console.error("❌ Email sending failed", error.response?.body || error);
+  return {
+    statusCode: 500,
+    body: JSON.stringify({ error: "Failed to send one or both emails" })
+  };
+}
 
     const headers = {"api-key": brevoApiKey,"Content-Type": "application/json"};
 
