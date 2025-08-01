@@ -20,15 +20,32 @@ exports.handler = async (event, context, callback) => {
       };
     }
 
-    // Determine internal recipient based on formto
-    let internalRecipient = "aanvragen@callvoip.nl";
-    if (data.formto === "dev") internalRecipient = "info@spinme.nl";
-    if (data.formto === "info") internalRecipient = "info@callvoip.nl";
-    if (data.formto === "offerte") internalRecipient = "offerte@callvoip.nl";
-    if (data.formto === "aanvragen") internalRecipient = "aanvragen@callvoip.nl";
-    if (data.formto === "vacature") internalRecipient = "robert@callvoiptelefonie.nl";
+// Determine internal recipient and sender based on formto
+let internalRecipient = "aanvragen@callvoip.nl";
+let senderEmail = "callvoip@callvoip.nl";
 
-    const htmlContent = htmlString(data);
+if (data.formto === "dev") {
+  internalRecipient = "info@spinme.nl";
+  senderEmail = "info@spinme.nl";
+}
+if (data.formto === "info") {
+  internalRecipient = "info@callvoip.nl";
+  senderEmail = "info@callvoip.nl";
+}
+if (data.formto === "offerte") {
+  internalRecipient = "offerte@callvoip.nl";
+  senderEmail = "offerte@callvoip.nl";
+}
+if (data.formto === "aanvragen") {
+  internalRecipient = "aanvragen@callvoip.nl";
+  senderEmail = "aanvragen@callvoip.nl";
+}
+if (data.formto === "vacature") {
+  internalRecipient = "robert@callvoiptelefonie.nl";
+  senderEmail = "robert@callvoiptelefonie.nl";
+}
+
+const htmlContent = htmlString(data);
 
     // Email payloads
     const clientEmail = {
