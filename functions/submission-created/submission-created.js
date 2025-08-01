@@ -32,7 +32,7 @@ exports.handler = async (event, context, callback) => {
 
     // Email payloads
     const clientEmail = {
-      sender: { name: "Callvoip", email: "callvoip@callvoip.nl" },
+      sender: { name: "Callvoip", email: senderEmail },
       to: [{ email: data.email }, { email: internalRecipient }],
       subject: `Inzending formulier: ${data.form_name || data.referrer}`,
       htmlContent
