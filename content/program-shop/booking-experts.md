@@ -2,7 +2,7 @@
 title: "Wij koppelen jouw CRM Booking Experts aan onze telefonie"
 shorttitle: "Booking Experts"
 date: 2021-06-03T16:52:17+05:00
-logo: "/bookingexperts.png"
+logo: "/bookingexperts-nieu_jt79p5.png"
 description: Door het koppelen van Booking Experts CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
