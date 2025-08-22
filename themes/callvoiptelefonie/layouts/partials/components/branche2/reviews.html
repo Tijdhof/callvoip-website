@@ -1,0 +1,44 @@
+{{ with .Params.reviews }}
+<div class="container px-4 md:py-8 lg:py-16">
+    <div class="text-center">
+        {{ with .title }}
+        <h2 class="text-3xl lg:text-4xl font-medium mb-2 leading-tight">{{ . | markdownify }}</h2>
+        {{ end }}
+        {{ with .subtitle }}
+        <strong class="text-lg">{{ . }}</strong>
+        {{ end }}
+        <p class="mx-auto max-w-md mt-4">{{ .text | markdownify }}</p>
+    </div>
+    <div class="grid lg:grid-cols-2 mt-8 gap-8 lg:w-4/5 mx-auto">
+        {{ range first 2 (where site.Pages "Type" "verhaal") }}
+        {{ if not .Params.hidden }}
+        {{ $permalink := .Permalink }}
+        <div class="flex flex-col items-start bg-white font-medium overflow-hidden rounded-lg text-grey-dark shadow-md">
+            {{ with .Params.images }}
+            {{ range first 1 . }}
+            <a href="{{$permalink}}">
+                <img data-src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto{{ . }}"
+                    class="w-full h-64 lg:h-96 object-cover cld-responsive" alt="">
+            </a>
+            {{ end }}
+            {{ end }}
+            <div class="p-4 lg:p-8">
+                {{ with .Params.title }}
+                <h2 class="font-medium text-lg xxl:text-2xl">{{ . | markdownify }}</h2>
+                {{ end }}
+                <p class="mt-2">
+                    {{ with .Params.excerpt }}
+                    {{ . }}
+                    {{ else }}{{.Summary | markdownify }}
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ with .link }}
+    <p class="text-center mt-16"><a href="{{ .url }}" class="button lg:text-lg">{{ .text }}</a></p>
+    {{ end }}
+</div>
+{{ end }}
