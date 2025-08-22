@@ -1,0 +1,44 @@
+{{ with .Params.usps }}
+{{ $img := .image }}
+<div class="container px-4 md:py-8 lg:py-16">
+    <div class="text-center mb-8">
+        {{ with .title }}
+        <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">{{ . | markdownify }}</h2>
+        {{ end }}
+        <p class="mx-auto max-w-xl lg:text-lg xl:text-xl font-medium opacity-75 mb-10">{{ .content | markdownify }}
+        </p>
+        {{ with .button }}
+        <p><a href="{{ .link }}" class="button lg:text-lg">{{ .content }}</a></p>
+        {{ end }}
+    </div>
+    <div class="grid lg:grid-cols-3 lg:w-4/5 mx-auto">
+        {{ range $i,$d := .items }}
+        {{ if eq $i 3 }}
+        <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{$img}}"
+            class="cld-responsive lg:col-span-3 lg:w-3/5 mx-auto" alt="{{ .title }}" />
+        {{ if .image}}
+        {{ end }}
+        {{ end }}
+        <div class="bg-white min-h-full w-full py-6 sm:py-8 px-4 sm:px-8 rounded-lg text-grey-dark flex flex-col">
+            <div
+                class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4 mr-8">
+                <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
+            </div>
+            <div class="pt-2 flex justify-between flex-col flex-1">
+                <div class="">
+                    {{ with .title }}
+                    <h4 class="text-lg lg:text-2xl font-medium mb-2">{{ . }}</h4>
+                    {{ end }}
+                    {{ with .content }}
+                    <p class="font-medium opacity-75 leading-large lg:text-lg mb-4">{{ . | markdownify }} </p>
+                    {{ end }}
+                </div>
+                {{ with .link }}
+                <p><a href="{{.url}}" class="button">{{ .text }}</a></p>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
