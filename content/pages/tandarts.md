@@ -12,31 +12,7 @@ hero:
   zooming: true
   image_position: center
   disable_image_on_mobile: false
-blocks:
-- content: 'Altijd bereikbaar zijn betekent voor ons veel meer dan dat er ergens een
-    toestel rinkelt als je gebeld wordt. Met onze jarenlange ervaring én uitgekiende
-    online centrale kunnen we elke situatie van een maatoplossing voorzien. We houden
-    rekening met elk scenario: grote drukte, ziekte, storing. Met de slimme tools
-    van Callvoip hoef je als tandarts maar met één ding bezig te zijn; je vak. Onze
-    cloud-oplossing en toegewijd support team doet de rest.<br><br><a href="#1" class="button">Lees
-    meer over bereikbaarheid</a>'
-  image: "/v1572861318/tandartsCRM_u8kddl.png"
-  zooming: true
-  position: image_left
-  title: Altijd bereikbaar
-  image_position: center
-textblocksfooter:
-- title1: Koppel jouw eigen praktijksoftware
-  content1: 'Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt
-    aan bijdraagt is het koppelen van jouw praktijksoftware/CRM met onze telefonie.
-    Met zo’n koppeling verschijnt op de computer van de assistente / praktijkondersteuner
-    een popup van elk gesprek. Met 1 klik open je de bijbehorende gegevens in jouw
-    pakket. Alle bekende namen ondersteunen we: Bytegear, Oase Dental, Exquise, Simplex
-    en nog veel meer.<br><br><a href="/marketplace/" class="button">Lees
-    meer over integratie</a>'
-  title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1601302814/exquise_llmfrz.png">
-  show_vshape: false
+  
 usps:
   title: <div id="1">Handig voor jou als tandarts</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
@@ -99,9 +75,27 @@ usps:
     link: 
       url: /telefonie/functionaliteiten
       text: Check het overzicht
+bgimg:
+  image: v1601302814/exquise_llmfrz.png
+  left:
+    title: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk.
+    text:
+      - Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon. Door het slim inrichten van een keuzemenu zorg je voor een efficiënte en klantvriendelijke afhandeling van alle inkomende telefoongesprekken.
+      - We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen je om samen jouw eigen centrale in te richten, zodat je een vliegende start kunt maken. Weten wat er nog meer mogelijk is? 
+    link: 
+      url: /telefonie/functionaliteiten
+      text: Check het overzicht
+  right: 
+    bold: Vang de drukke piekmomenten van bellers gemakkelijk op met onze geavanceerde
+      wachtrij eens koppelen met lange lijst pakketten.
+    text: Daarom hebben wij een standaard Chrome integratie en kunnen ook nog.
+
 bottom:
 - title1: ''
-  content1: <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
+  content1: <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">Wat kost het?</h2>
+    <p class="text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, eligendi illum sunt id tempora quia odio accusamus. Assumenda magnam nam dignissimos, ipsum vitae cupiditate ut pariatur aperiam recusandae tenetur sapiente.</p>
+    <p class="text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+    <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
     kostenoverzicht per praktijk per maand </div> <div class="px-6 clearfix"> <div
     class="flex justify-between clearfix items-end"> <span class="text-base md:text-lg
@@ -139,30 +133,10 @@ bottom:
     text-sm pb-6 italic"> Prijzen per maand,  excl. belkosten en excl. BTW </div>
     </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>
   title2: ''
-  content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png">
-  
-intro:
-  title: '<div id="formulier">Vraag nu de whitepaper "Slimme telefonie voor tandartsen" aan</div>'
-  content: 'Je ontvangt eenmalig een e-mail met daarin een link om de whitepaper te downloaden.
-      <br><br><div>
-          <form class="mb-6" name="whitepaper-tandarts" action="/bedank/whitepaper/" accept-charset="UTF-8" method="POST" data-netlify="true">
-              <p><input type="hidden" name="form_name" value="whitepaper-tandarts" class="hidden"></p>
-              <p><input type="hidden" id="formlayout" name="formlayout" value="214" class="hidden"></p>
-              <p> <input type="hidden" id="formto" name="formto" value="offerte" class="hidden"> </p>
-              <div class="layout-split">
-                  <div class="mb-4"> <label for="naam" class="block">Naam</label> <input type="text"
-                          id="naam" name="naam" class="w-full border border-grey-light bg-white px-3 py-2 text-base">
-                  </div>
-                  <div class="mb-4"> <label for="email" class="block">Email <span class="text-red">*</span></label> <input
-                          type="email" id="email" name="email"
-                          class="w-full border border-grey-light bg-white px-3 py-2 text-base" required=""> </div>
-              </div>
-            <p style="font-size:12px;">*Wij zullen éénmalig contact opnemen via e-mail voor terugkoppeling over de whitepaper.</p>
-              <br>
-              <button type="submit" class="button">Whitepaper aanvragen</button>
-          </form>
-      </div>
-  </div>'
+  content2: <p><a href="/calculator/" class="button mb-4" style="border-radius:6px">Call Voip al vanaf €34 per maand</a></p>
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png" loading="lazy" alt="device">
+
+
 images: []
 hideinsearch: false
 hideingoogle: false
