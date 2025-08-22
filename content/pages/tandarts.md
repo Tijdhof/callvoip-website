@@ -136,6 +136,32 @@ bottom:
   content2: <p><a href="/calculator/" class="button mb-4" style="border-radius:6px">Call Voip al vanaf €34 per maand</a></p>
     <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png" loading="lazy" alt="device">
 
+reviews:
+  title: Succesverhalen
+  subtitle: Daarom hebben wij een standaard 
+  text: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, eligendi illum sunt id tempora quia odio accusamus.
+  link: 
+    url: /succesverhalen
+    text: Click here
+
+cta:
+  title: Kies voor zekerheid, bereikbaarheid en rust
+  right: 
+    text:
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, sunt reprehenderit tempore provident ipsa in, adipisci autem deserunt aliquam veritatis amet quisquam doloribus quae quibusdam odit dolor necessitatibus esse recusandae.
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, sunt reprehenderit tempore provident ipsa in, adipisci autem deserunt.
+  left:
+    img: v1571655384/dentist_w87pke.png
+    options:
+      - heading: Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+        text: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, sunt reprehenderit tempore provident ipsa in, adipisci autem deserunt.
+      - heading: Lorem elit.
+        text: Adipisci autem deserunt
+    links:
+      - url: /
+        text: Click here
+      - url: /
+        text: Click here 2
 
 images: []
 hideinsearch: false

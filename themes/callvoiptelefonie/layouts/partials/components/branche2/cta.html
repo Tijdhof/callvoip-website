@@ -1,0 +1,38 @@
+{{ with .Params.cta }}
+<div class="bg-blue text-white">
+    <div class="container p-4 py-8">
+        {{ with .title }}
+        <h2 class="text-3xl lg:text-4xl font-medium text-center mb-4 md:mb-6 leading-tight">{{ . | markdownify }}</h2>
+        {{ end }}
+        <div class="grid lg:grid-cols-2 gap-8">
+            {{ with .right }}
+            <div class="space-y-6">
+                {{ range .text }}
+                <p>{{.}}</p>
+                {{ end }}
+            </div>
+            {{ end }}
+            {{ with .left }}
+            <div class="grid grid-cols-3 gap-4">
+                <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto,w_220,h_220/{{.img}}" alt="face"
+                    class="rounded-full lg:order-2">
+                <div class="space-y-4 lg:col-span-2 lg:order-1">
+                    {{ range .options }}
+                    <h5 class="text-lg font-bold">{{ .heading }}</h5>
+                    <p class="">{{.text}}</p>
+                    {{ end }}
+                </div>
+                <p class="col-span-3 lg:order-3 flex items-center gap-4">
+                    {{ range .links }}
+                    <a href="{{ .url }}"
+                        class="bg-white px-6 py-3 rounded-full lg:w-4/5 w-full font-bold text-center hover:bg-grey-lightest hover:no-underline">
+                        {{ .text }}
+                    </a>
+                    {{ end }}
+                </p>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
