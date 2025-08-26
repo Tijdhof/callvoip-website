@@ -144,10 +144,10 @@ cta:
       - heading: Marieke Timmer
         text: Business Operations
     links:
+      - url: /contact/
+        text: Neem contact op per e-mail
       - url: /
-        text: Click here
-      - url: /
-        text: Click here 2
+        text: Terugbelverzoek
 
 images: []
 hideinsearch: false
