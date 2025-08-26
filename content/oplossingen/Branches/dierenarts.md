@@ -7,7 +7,7 @@ logos: false
 url: "/branches/dierenarts/"
 hero:
   title: Altijd bereikbaar, zonder gedoe
-  content: 'In een dierenartsenpraktijk draait alles om aandacht en zorg. Niet alleen voor de dieren in de behandelkamer, maar ook voor hun baasjes aan de telefoon. Eigenaren willen snel terecht kunnen voor het maken van afspraken, het doorgeven van klachten of met vragen over de gezondheid van hun huisdier. Een betrouwbare telefonieoplossing is daarbij onmisbaar. En daar helpen wij je graag bij.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: 050 – 820 00 00'
+  content: 'In een dierenartsenpraktijk draait alles om aandacht en zorg. Niet alleen voor de dieren in de behandelkamer, maar ook voor hun baasjes aan de telefoon. Eigenaren willen snel terecht kunnen voor het maken van afspraken, het doorgeven van klachten of met vragen over de gezondheid van hun huisdier. Een betrouwbare telefonieoplossing is daarbij onmisbaar. En daar helpen wij je graag bij.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
   image: "/v1571655384/dentist_w87pke.png"
   zooming: false
   image_position: center
@@ -16,7 +16,7 @@ hero:
 usps:
   title: <div id="1">Handig voor jou als Dierenarts:</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
-    erg handige zaken voor elke tandartspraktijk. Denk hierbij aan een geavanceerde
+    erg handige zaken voor elke dierenarts. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten? Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
