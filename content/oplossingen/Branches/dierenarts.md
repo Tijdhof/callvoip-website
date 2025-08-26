@@ -30,8 +30,8 @@ usps:
       url: /marketplace
       text: Lees meer
   - icon: fa-users
-    title: Altijd bereikbaar met een piketnummer
-    content: Met Callvoip heb je de mogelijkheid om een piketnummer aan te vragen: één nummer dat automatisch doorverbindt naar de dienstdoende dierenarts buiten kantooruren. Zo ben je ook ’s avonds of in het weekend bereikbaar voor spoedgevallen, zonder dat eigenaren verschillende nummers hoeven te onthouden. Werk je op meerdere locaties? Geen probleem. Wij koppelen alle vestigingen samen in één overzichtelijk systeem.
+    title: 'Altijd bereikbaar met een piketnummer'
+    content: 'Met Callvoip heb je de mogelijkheid om een piketnummer aan te vragen: één nummer dat automatisch doorverbindt naar de dienstdoende dierenarts buiten kantooruren. Zo ben je ook ’s avonds of in het weekend bereikbaar voor spoedgevallen, zonder dat eigenaren verschillende nummers hoeven te onthouden. Werk je op meerdere locaties? Geen probleem. Wij koppelen alle vestigingen samen in één overzichtelijk systeem.'
     link: 
       url: /telefonie/functionaliteiten/wachtrij
       text: Lees meer
