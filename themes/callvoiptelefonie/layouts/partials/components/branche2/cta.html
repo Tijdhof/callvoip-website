@@ -7,8 +7,8 @@
         <div class="grid lg:grid-cols-2 gap-8">
             {{ with .right }}
             <div class="space-y-6">
-                {{ . | markdownify }}
-                <p>{{.}}</p>
+                {{ range .text }}
+                <p>{{. | markdownify }}</p>
                 {{ end }}
             </div>
             {{ end }}
@@ -37,4 +37,5 @@
 </div>
 
 {{ end }}
+
 
