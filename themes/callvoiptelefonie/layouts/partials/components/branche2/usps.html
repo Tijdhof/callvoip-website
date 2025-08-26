@@ -14,8 +14,9 @@
     <div class="grid lg:grid-cols-3 lg:w-4/5 mx-auto">
         {{ range $i,$d := .items }}
         {{ if eq $i 3 }}
-        <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{$img}}"
-            class="cld-responsive lg:col-span-3 lg:w-3/5 mx-auto" alt="{{ .title }}" />
+<img src="{{ $.Site.Params.cloudinary_base_url }}/c_limit,h_250,dpr_auto,f_auto,q_auto/{{$img}}"
+     class="cld-responsive lg:col-span-3 mx-auto max-h-[250px] w-auto h-auto object-contain"
+     alt="{{ .title }}" />
         {{ if .image}}
         {{ end }}
         {{ end }}
@@ -41,4 +42,5 @@
         {{ end }}
     </div>
 </div>
+
 {{ end }}
