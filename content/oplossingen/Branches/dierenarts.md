@@ -21,7 +21,7 @@ usps:
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten? Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
-  image: "/v1756214526/dierenarts-crm_yzwopx.png"
+  image: "/v1756215136/dierenarts-crm_qsbzfr.png"
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
