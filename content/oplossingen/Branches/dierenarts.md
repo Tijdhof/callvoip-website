@@ -62,7 +62,7 @@ usps:
       url: /telefonie/functionaliteiten
       text: Check het overzicht
 bgimg:
-  image: v1601302814/exquise_llmfrz.png
+  image: /v1756215818/vet_banner_blurred_yih9h7.jpg
   left:
     title: Waarom kiezen dierenartsenpraktijken voor Callvoip?
     text:
