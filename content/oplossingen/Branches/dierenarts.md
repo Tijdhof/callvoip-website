@@ -6,15 +6,15 @@ layout: branche2
 logos: false
 url: "/branches/dierenarts/"
 hero:
-  title: Telefonie voor Dierenartsen
-  content: 'Telefonie voor een dierenartsenpraktijk vraagt om specifieke kennis en toepassingen. Callvoip is o.a. specialist op het gebied van slimme telefonie voor dierenartsen.<br><br>Wij kunnen je er natuurlijk heel veel over vertellen, maar het is veel sterker als onze klanten dit doen. Speciaal voor de tandartsbranche hebben we een whitepaper geschreven waarin we herkenbare situaties en problemen uiteenzetten alsmede de oplossingen ervoor.<br><br>Download nu de special: telefonie voor tandartsen, geschreven door onze collega Marieke.<br><br><a href="#formulier" class="button">CTA</a>'
+  title: Altijd bereikbaar, zonder gedoe
+  content: 'In een dierenartsenpraktijk draait alles om aandacht en zorg. Niet alleen voor de dieren in de behandelkamer, maar ook voor hun baasjes aan de telefoon. Eigenaren willen snel terecht kunnen voor het maken van afspraken, het doorgeven van klachten of met vragen over de gezondheid van hun huisdier. Een betrouwbare telefonieoplossing is daarbij onmisbaar. En daar helpen wij je graag bij.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: 050 – 820 00 00'
   image: "/v1571655384/dentist_w87pke.png"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
   
 usps:
-  title: <div id="1">Handig voor jou als tandarts</div>
+  title: <div id="1">Handig voor jou als Dierenarts:</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
     erg handige zaken voor elke tandartspraktijk. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
@@ -24,20 +24,14 @@ usps:
   image: "/v1572861318/tandartsCRM_u8kddl.png"
   items:
   - icon: fa-cog
-    title: Integratie
-    content: Het met elkaar koppelen van de systemen waarmee je werkt kan veel tijdswinst
-      opleveren. Daarom hebben wij een standaard Chrome integratie en kunnen ook nog
-      eens koppelen met lange lijst pakketten, zoals bekende praktijksoftwaresystemen
-      als Oase Dental, Exquise en vele anderen.
+    title: Koppeling met jouw praktijksoftware
+    content: Wij koppelen moeiteloos met pakketten zoals IDEXX Animana en andere veelgebruikte systemen. Zo zie je bij een inkomend gesprek direct welke eigenaar belt, open je in één klik het juiste patiëntendossier en werk je efficiënter. Dankzij onze standaard Chrome-integratie bespaar je bovendien veel onnodig klikwerk.
     link: 
       url: /marketplace
       text: Lees meer
   - icon: fa-users
-    title: Wachtrij
-    content: Vang de drukke piekmomenten van bellers gemakkelijk op met onze geavanceerde
-      wachtrij. Bellers worden opgevangen in de wachtrij met muziek en horen steeds
-      hoeveel wachtenden nog voor ze zijn. Dit zorgt voor effectiviteit op een druk
-      nummer.
+    title: Altijd bereikbaar met een piketnummer
+    content: Met Callvoip heb je de mogelijkheid om een piketnummer aan te vragen: één nummer dat automatisch doorverbindt naar de dienstdoende dierenarts buiten kantooruren. Zo ben je ook ’s avonds of in het weekend bereikbaar voor spoedgevallen, zonder dat eigenaren verschillende nummers hoeven te onthouden. Werk je op meerdere locaties? Geen probleem. Wij koppelen alle vestigingen samen in één overzichtelijk systeem.
     link: 
       url: /telefonie/functionaliteiten/wachtrij
       text: Lees meer
@@ -50,51 +44,42 @@ usps:
       url: /telefonie/functionaliteiten/keuzemenu-ivr
       text: Lees meer
   - icon: fa-toggle-on
-    title: Slimme schakelaars
-    content: 'De lichtknopjes van onze centrale: zet met 1 druk op de knop een afslag
-      in jouw belroute aan of weer uit. Bijvoorbeeld een doorschakeling naar je mobiel.
-      Of een storingsbandje. En dat dus ook ook met je mobiel, of je toestel op je
-      bureau. Handig!'
+    title: Wachtrijbeheer bij drukte
+    content: 'Bellers krijgen rust en duidelijkheid dankzij onze wachtrij met muziek en meldingen over hun positie in de rij. Zo voorkom je frustratie aan de lijn én onnodige drukte aan de balie.'
     link: 
       url: /telefonie/functionaliteiten/omleiding-flow-control
       text: Lees meer
   - icon: fa-microphone-alt
-    title: Spreek je eigen teksten in
-    content: Met zelf ingesproken welkomsteksten, voicemails en keuzemenu's geef je
-      een persoonlijke teint aan jouw telefonie. Bovendien komt het professioneel
-      over als je je eigen 'stem' laat horen in alle aspecten van de telefoonervaring
-      van jouw patienten. Met onze dienst is het zelf inspreken zo geregeld! 
+    title: Slim keuzemenu
+    content: Stel eenvoudig een menu in waarmee je bellers direct naar de juiste persoon of afdeling doorverbindt. Handig om spoedgevallen snel door te zetten naar de dienstdoende dierenarts, afspraken rechtstreeks bij de balie te laten binnenkomen en administratieve vragen apart af te handelen.
     link: 
       url: /telefonie/functionaliteiten/meldtekst
       text: Lees meer
   - icon: fa-comment-dots
-    title: Mis je iets?
-    content: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen
-      je om samen jouw eigen centrale in te richten, zodat je een vliegende start
-      kunt maken. Weten wat er nog meer mogelijk is? 
+    title: Eigen teksten inspreken
+    content: Laat een vertrouwde stem horen. Spreek zelf je welkomstboodschap, keuzemenu of voicemail in. Professioneel én persoonlijk – precies zoals het bij jouw praktijk past. 
     link: 
       url: /telefonie/functionaliteiten
       text: Check het overzicht
 bgimg:
   image: v1601302814/exquise_llmfrz.png
   left:
-    title: We noemen er 5, maar er zijn meer functionaliteiten natuurlijk.
+    title: Waarom kiezen dierenartsenpraktijken voor Callvoip?
     text:
-      - Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon. Door het slim inrichten van een keuzemenu zorg je voor een efficiënte en klantvriendelijke afhandeling van alle inkomende telefoongesprekken.
-      - We noemen er 5, maar er zijn meer functionaliteiten natuurlijk. We bellen je om samen jouw eigen centrale in te richten, zodat je een vliegende start kunt maken. Weten wat er nog meer mogelijk is? 
+      - Wij zijn geen generieke telefonie-leverancier. Wij zijn gespecialiseerd in VoIP-oplossingen voor dierenartsenpraktijken en dat merk je aan alles. We begrijpen de dynamiek aan de balie, weten wanneer de telefoon roodgloeiend staat en herkennen het belang van rust in de praktijk.
+      - We kennen je werkprocessen, we snappen de noodzaak van piekverkeer, en we denken met je mee over hoe je communicatie met diereneigenaren én collega’s slimmer kan. Wij leveren geen standaardpakket, maar een op maat gemaakte oplossing die meegroeit met jouw praktijk. Of je nu net start of meerdere vestigingen hebt, wij zorgen dat jouw telefonie het altijd doet.
     link: 
       url: /telefonie/functionaliteiten
       text: Check het overzicht
   right: 
-    bold: Vang de drukke piekmomenten van bellers gemakkelijk op met onze geavanceerde
-      wachtrij eens koppelen met lange lijst pakketten.
-    text: Daarom hebben wij een standaard Chrome integratie en kunnen ook nog.
+    bold: • Expertise in de veterinaire sector<br>• Ervaring met praktijksoftware en dagelijkse workflows<br>• Heldere service: vaste contactpersoon en korte lijnen<br>• Meedenkend in plaats van alleen uitvoerend
+    text: Je kunt ons zien als een verlengstuk van jouw team. Samen zorgen we ervoor dat de communicatie met diereneigenaren én collega’s professioneel, persoonlijk én stressvrij verloopt.
 
 bottom:
 - title1: ''
   content1: <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">Wat kost het?</h2>
-    <p class="text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, eligendi illum sunt id tempora quia odio accusamus. Assumenda magnam nam dignissimos, ipsum vitae cupiditate ut pariatur aperiam recusandae tenetur sapiente.</p>
-    <p class="text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+    <p class="text-sm">We houden het graag duidelijk. Geen ingewikkelde pakketten, maar een overzichtelijk model dat meegroeit met je praktijk. Al vanaf €34,50 per maand ben je professioneel bereikbaar met Callvoip.</p>
+    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een dierenartsenpraktijk.</p>
     <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
     kostenoverzicht per praktijk per maand </div> <div class="px-6 clearfix"> <div
@@ -148,7 +133,7 @@ cta:
   title: Kies voor zekerheid, bereikbaarheid en rust
   right: 
     text:
-      - Bij Callvoip begeleiden we jouw overstap van begin tot eind. Zo heb je de zekerheid dat alles naadloos in elkaar overloopt en blijf je altijd bereikbaar. Desgewenst helpen we je met het instellen van je belplan, het instellen van voicemailberichten en wachtrijen. Ook zorgen we (uiteraard) voor nummerbehoud en kunnen we de juiste toestellen leveren.
+      - Bij Callvoip begeleiden we jouw overstap van begin tot eind. Zo heb je de zekerheid dat alles naadloos in elkaar overloopt en blijf je altijd bereikbaar.<br>Desgewenst helpen we je met het instellen van je belplan, het instellen van voicemailberichten en wachtrijen. Ook zorgen we (uiteraard) voor nummerbehoud en kunnen we de juiste toestellen leveren.
       - Je krijgt een vaste contactpersoon en directe ondersteuning. En als je belt, dan krijg je direct een medewerker aan de lijn.
 
   left:
