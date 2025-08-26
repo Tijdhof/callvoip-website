@@ -72,8 +72,8 @@ bgimg:
       url: /telefonie/functionaliteiten
       text: Check het overzicht
   right: 
-    bold: • Expertise in de veterinaire sector<br>• Ervaring met praktijksoftware en dagelijkse workflows<br>• Heldere service: vaste contactpersoon en korte lijnen<br>• Meedenkend in plaats van alleen uitvoerend
-    text: Je kunt ons zien als een verlengstuk van jouw team. Samen zorgen we ervoor dat de communicatie met diereneigenaren én collega’s professioneel, persoonlijk én stressvrij verloopt.
+    bold: '• Expertise in de veterinaire sector<br>• Ervaring met praktijksoftware en dagelijkse workflows<br>• Heldere service: vaste contactpersoon en korte lijnen<br>• Meedenkend in plaats van alleen uitvoerend'
+    text: 'Je kunt ons zien als een verlengstuk van jouw team. Samen zorgen we ervoor dat de communicatie met diereneigenaren én collega’s professioneel, persoonlijk én stressvrij verloopt.'
 
 bottom:
 - title1: ''
