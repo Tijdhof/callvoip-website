@@ -8,7 +8,7 @@ url: "/branches/dierenarts/"
 hero:
   title: Altijd bereikbaar, zonder gedoe
   content: 'In een dierenartsenpraktijk draait alles om aandacht en zorg. Niet alleen voor de dieren in de behandelkamer, maar ook voor hun baasjes aan de telefoon. Eigenaren willen snel terecht kunnen voor het maken van afspraken, het doorgeven van klachten of met vragen over de gezondheid van hun huisdier. Een betrouwbare telefonieoplossing is daarbij onmisbaar. En daar helpen wij je graag bij.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
-  image: "/v1571655384/dentist_w87pke.png"
+  image: "/v1756206339/dierenarts-telefonie_jeikux.png"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
