@@ -123,11 +123,11 @@ bottom:
 
 reviews:
   title: Succesverhalen
-  subtitle: Daarom hebben wij een standaard 
-  text: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, eligendi illum sunt id tempora quia odio accusamus.
+  subtitle: Wil jij ook zorgeloos bereikbaar zijn?
+  text: 95% van onze klanten beveelt ons aan bij collega’s en vrienden. Bekijk de testimonials van onze klanten.
   link: 
     url: /succesverhalen
-    text: Click here
+    text: Lees al onze succesverhalen
 
 cta:
   title: Kies voor zekerheid, bereikbaarheid en rust
