@@ -33,7 +33,7 @@ usps:
     title: 'Altijd bereikbaar met een piketnummer'
     content: 'Met Callvoip heb je de mogelijkheid om een piketnummer aan te vragen: één nummer dat automatisch doorverbindt naar de dienstdoende dierenarts buiten kantooruren. Zo ben je ook ’s avonds of in het weekend bereikbaar voor spoedgevallen, zonder dat eigenaren verschillende nummers hoeven te onthouden. Werk je op meerdere locaties? Geen probleem. Wij koppelen alle vestigingen samen in één overzichtelijk systeem.'
     link: 
-      url: /telefonie/functionaliteiten/wachtrij
+      url: /telefonie/piketnummer/
       text: Lees meer
   - icon: fa-SortNumericDown
     title: Keuzemenu
@@ -53,13 +53,13 @@ usps:
     title: Slim keuzemenu
     content: Stel eenvoudig een menu in waarmee je bellers direct naar de juiste persoon of afdeling doorverbindt. Handig om spoedgevallen snel door te zetten naar de dienstdoende dierenarts, afspraken rechtstreeks bij de balie te laten binnenkomen en administratieve vragen apart af te handelen.
     link: 
-      url: /telefonie/functionaliteiten/meldtekst
+      url: /telefonie/functionaliteiten/keuzemenu-ivr
       text: Lees meer
   - icon: fa-comment-dots
     title: Eigen teksten inspreken
     content: Laat een vertrouwde stem horen. Spreek zelf je welkomstboodschap, keuzemenu of voicemail in. Professioneel én persoonlijk – precies zoals het bij jouw praktijk past. 
     link: 
-      url: /telefonie/functionaliteiten
+      url: /telefonie/functionaliteiten/meldtekst
       text: Check het overzicht
 bgimg:
   image: /v1756215818/vet_banner_blurred_yih9h7.jpg
