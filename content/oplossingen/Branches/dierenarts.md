@@ -25,42 +25,40 @@ usps:
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
-    content: Wij koppelen moeiteloos met pakketten zoals IDEXX Animana en andere veelgebruikte systemen. Zo zie je bij een inkomend gesprek direct welke eigenaar belt, open je in één klik het juiste patiëntendossier en werk je efficiënter. Dankzij onze standaard Chrome-integratie bespaar je bovendien veel onnodig klikwerk.
+    content: Wij koppelen moeiteloos met pakketten zoals IDEXX Animana en andere veelgebruikte systemen.
     link: 
       url: /marketplace
       text: Lees meer
   - icon: fa-users
     title: 'Altijd bereikbaar met een piketnummer'
-    content: 'Met Callvoip heb je de mogelijkheid om een piketnummer aan te vragen: één nummer dat automatisch doorverbindt naar de dienstdoende dierenarts buiten kantooruren. Zo ben je ook ’s avonds of in het weekend bereikbaar voor spoedgevallen, zonder dat eigenaren verschillende nummers hoeven te onthouden. Werk je op meerdere locaties? Geen probleem. Wij koppelen alle vestigingen samen in één overzichtelijk systeem.'
+    content: 'Een speciaal telefoonnummer waarop je buiten normale werktijden direct bereikbaar bent voor spoed of noodgevallen.'
     link: 
       url: /telefonie/piketnummer/
       text: Lees meer
   - icon: fa-SortNumericDown
     title: Keuzemenu
-    content: Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al
-      bij de juiste persoon. Door het slim inrichten van een keuzemenu zorg je voor
-      een efficiënte en klantvriendelijke afhandeling van alle inkomende telefoongesprekken.   
+    content: Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.   
     link: 
       url: /telefonie/functionaliteiten/keuzemenu-ivr
       text: Lees meer
   - icon: fa-toggle-on
     title: Wachtrijbeheer bij drukte
-    content: 'Bellers krijgen rust en duidelijkheid dankzij onze wachtrij met muziek en meldingen over hun positie in de rij. Zo voorkom je frustratie aan de lijn én onnodige drukte aan de balie.'
+    content: 'Rust en duidelijkheid dankzij onze wachtrij met muziek en meldingen over positie in de wachtrij bij drukte.'
     link: 
       url: /telefonie/functionaliteiten/omleiding-flow-control
       text: Lees meer
-  - icon: fa-microphone-alt
-    title: Slim keuzemenu
-    content: Stel eenvoudig een menu in waarmee je bellers direct naar de juiste persoon of afdeling doorverbindt. Handig om spoedgevallen snel door te zetten naar de dienstdoende dierenarts, afspraken rechtstreeks bij de balie te laten binnenkomen en administratieve vragen apart af te handelen.
-    link: 
-      url: /telefonie/functionaliteiten/keuzemenu-ivr
-      text: Lees meer
   - icon: fa-comment-dots
     title: Eigen teksten inspreken
-    content: Laat een vertrouwde stem horen. Spreek zelf je welkomstboodschap, keuzemenu of voicemail in. Professioneel én persoonlijk – precies zoals het bij jouw praktijk past. 
+    content: Met zelf ingesproken welkomstteksten, voicemails en keuzemenu’s geef je een persoonlijke teint aan jouw telefonie.
     link: 
       url: /telefonie/functionaliteiten/meldtekst
       text: Check het overzicht
+  - icon: fa-microphone-alt
+    title: Mis je iets?
+    content: We bellen je om samen je eigen centrale in te richten. Weten wat er nog meer mogelijk is?
+    link: 
+      url: /telefonie/functionaliteiten/keuzemenu-ivr
+      text: Lees meer
 bgimg:
   image: /v1756215818/vet_banner_blurred_yih9h7.jpg
   left:
