@@ -7,7 +7,7 @@
         {{ with .left }}
         <div class="space-y-6">
             {{ with .title }}
-            <h4 class="text-lg lg:text-2xl font-bold">{{ . }}</h4>
+            <h4 class="text-lg lg:text-2xl font-bold">{{ . | markdownify }}</h4>
             {{ end }}
             {{ range .text }}
             <p class="font-medium leading-large">{{ . | markdownify }} </p>
@@ -20,11 +20,12 @@
         {{ with .right }}
         <div class="p-4 lg:p-8 space-y-4 bg-blue bg-opacity-25 flex justify-center flex-col">
             <p class="text-xl font-bold lg:w-5/5">{{.bold | markdownify}}</p>
-            <p class=" lg:w-4/5">{{.text}}</p>
+            <p class=" lg:w-4/5">{{ . | markdownify }}</p>
         </div>
         {{ end }}
     </div>
 </div>
 
 {{ end }}
+
 
