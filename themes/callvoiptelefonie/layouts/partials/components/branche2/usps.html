@@ -1,16 +1,30 @@
 {{ with .Params.usps }}
-{{ $img := .image }}
 <div class="container px-4 md:py-8 lg:py-16">
-    <div class="text-center mb-8">
-        {{ with .title }}
-        <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">{{ . | markdownify }}</h2>
-        {{ end }}
-        <p class="mx-auto max-w-xl lg:text-lg xl:text-xl font-medium opacity-75 mb-10">{{ .content | markdownify }}
-        </p>
-        {{ with .button }}
-        <p><a href="{{ .link }}" class="button lg:text-lg">{{ .content }}</a></p>
+    <div class="grid grid-cols-1 lg:grid-cols-5 gap-8 items-center">
+        <!-- TEXT SECTION -->
+        <div class="lg:col-span-3">
+            {{ with .title }}
+            <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">{{ . | markdownify }}</h2>
+            {{ end }}
+            <p class="mx-auto lg:mx-0 max-w-xl lg:max-w-none lg:text-lg xl:text-xl font-medium opacity-75 mb-6">
+                {{ .content | markdownify }}
+            </p>
+            {{ with .button }}
+            <p>
+                <a href="{{ .link }}" class="button lg:text-lg">{{ .content }}</a>
+            </p>
+            {{ end }}
+        </div>
+
+        <!-- IMAGE SECTION -->
+        {{ with .image }}
+        <div class="lg:col-span-2 flex justify-center">
+            <img src="{{ . }}" alt="USP image" class="rounded-lg w-full h-auto object-contain max-h-[400px]" />
+        </div>
         {{ end }}
     </div>
+</div>
+{{ end }}
     <div class="grid lg:grid-cols-3 lg:w-4/5 mx-auto">
         {{ range $i,$d := .items }}
         {{ if eq $i 3 }}
@@ -44,3 +58,4 @@
 </div>
 
 {{ end }}
+
