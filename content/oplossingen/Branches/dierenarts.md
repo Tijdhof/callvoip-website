@@ -18,7 +18,7 @@ usps:
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
     erg handige zaken voor elke dierenarts. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
-    eigen teksten in te spreken. Meer weten over de vele functionaliteiten? Neem <a
+    eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
   image: "/v1756215136/dierenarts-crm_qsbzfr.png"
