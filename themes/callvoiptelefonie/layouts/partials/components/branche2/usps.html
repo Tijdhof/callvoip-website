@@ -1,7 +1,7 @@
 {{ with .Params.usps }}
-{{ $img := .image }}
+{{ $img := .image }} <!-- keeps working for the Cloudinary USP image -->
 <div class="container px-4 md:py-8 lg:py-16">
-    <!-- Top section: text + image side by side -->
+    <!-- Top section: text + side image -->
     <div class="grid grid-cols-1 lg:grid-cols-5 gap-8 items-center mb-12">
         <!-- TEXT -->
         <div class="lg:col-span-3">
@@ -20,10 +20,10 @@
             {{ end }}
         </div>
 
-        <!-- IMAGE -->
-        {{ with .image }}
+        <!-- SIDE IMAGE -->
+        {{ with .side_image }}
         <div class="lg:col-span-2 flex justify-center">
-            <img src="{{ . }}" alt="USP image"
+            <img src="{{ . }}" alt="USP side image"
                  class="rounded-lg w-full h-auto object-contain max-h-[400px]" />
         </div>
         {{ end }}
