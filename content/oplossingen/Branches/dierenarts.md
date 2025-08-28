@@ -22,7 +22,7 @@ usps:
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
   image: "/v1756215136/dierenarts-crm_qsbzfr.png"
-  side-image: "https://img001.prntscr.com/file/img001/MtKk3c42TL-uNLLsE2EfHg.png"
+  side_image: "https://img001.prntscr.com/file/img001/MtKk3c42TL-uNLLsE2EfHg.png"
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
