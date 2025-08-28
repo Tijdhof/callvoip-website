@@ -62,16 +62,16 @@ usps:
 bgimg:
   image: /v1756215818/vet_banner_blurred_yih9h7.jpg
   left:
-    title: Waarom kiezen dierenartsenpraktijken voor Callvoip?
+    title: Koppel jouw praktijksoftware met onze telefonie!
     text:
-      - Wij zijn geen generieke telefonie-leverancier. Wij zijn gespecialiseerd in VoIP-oplossingen voor dierenartsenpraktijken en dat merk je aan alles. We begrijpen de dynamiek aan de balie, weten wanneer de telefoon roodgloeiend staat en herkennen het belang van rust in de praktijk.
-      - We kennen je werkprocessen, we snappen de noodzaak van piekverkeer, en we denken met je mee over hoe je communicatie met diereneigenaren én collega’s slimmer kan. Wij leveren geen standaardpakket, maar een op maat gemaakte oplossing die meegroeit met jouw praktijk. Of je nu net start of meerdere vestigingen hebt, wij zorgen dat jouw telefonie het altijd doet.
+      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.
+      - Veel dierenartsen gebruiken het CRM pakket van Idexx Animana. We kunnen koppelen met meer dan 150 verschillende pakketten.
     link: 
-      url: /telefonie/functionaliteiten
-      text: Check het overzicht
+      url: /marketplace
+      text: Bekijk ons CRM-koppeling aanbod
   right: 
-    bold: '• Expertise in de veterinaire sector<br>• Ervaring met praktijksoftware en dagelijkse workflows<br>• Heldere service: vaste contactpersoon en korte lijnen<br>• Meedenkend in plaats van alleen uitvoerend'
-    text: 'Je kunt ons zien als een verlengstuk van jouw team. Samen zorgen we ervoor dat de communicatie met diereneigenaren én collega’s professioneel, persoonlijk én stressvrij verloopt.'
+    bold: 'Wanneer de beller bekend is bij jou kun je:'
+    text: '✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
 
 bottom:
 - title1: ''
