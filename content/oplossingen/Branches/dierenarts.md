@@ -53,13 +53,13 @@ usps:
     content: Met zelf ingesproken welkomstteksten, voicemails en keuzemenu’s geef je een persoonlijke teint aan jouw telefonie.
     link: 
       url: /telefonie/functionaliteiten/meldtekst
-      text: Check het overzicht
+      text: Lees meer
   - icon: fa-microphone-alt
     title: Mis je iets?
     content: We bellen je om samen je eigen centrale in te richten. Weten wat er nog meer mogelijk is?
     link: 
-      url: /telefonie/functionaliteiten/keuzemenu-ivr
-      text: Lees meer
+      url: /tour
+      text: Neem een tour
 bgimg:
   image: /v1756215818/vet_banner_blurred_yih9h7.jpg
   left:
