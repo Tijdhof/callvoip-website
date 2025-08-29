@@ -120,7 +120,7 @@ bottom:
     text-sm pb-6 italic"> Prijzen per maand,  excl. belkosten en excl. BTW </div>
     </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>
   title2: ''
-  content2: <p><a href="/calculator/" class="button mb-4" style="border-radius:6px">Wat levert het op?</a></p>
+  content2: <p><a href="[/calculator/](https://www.callvoip.nl/marketplace/?showcalc=true)" class="button mb-4" style="border-radius:6px">Wat levert de CRM koppeling op?</a></p>
     <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png" loading="lazy" alt="device">
 
 reviews:
