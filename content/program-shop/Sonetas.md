@@ -23,7 +23,7 @@ headerside:
     - Direct de klantgegevens in beeld
     - Bel automatisch uit vanuit elk programma
   btn:
-    text: Animana-koppeling kostenloos testen?
+    text: Sonetas-koppeling kostenloos testen?
     url: /aanvragen/voip-cti/
 search_words:
   - Dierenartsen
@@ -63,7 +63,6 @@ Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad
 **Details van de popup in combinatie met Sonetas Fug:**<br>
 <iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Standaard is er de telefoonkoppeling van IDEXX die het nummer naar Animana stuurt en de bijbehorende klantekaart opent.<br>
 Als optie kan er een export worden gemaakt van één van de tabellen waarin het telefoonnummer staat en klantinformatie; deze informatie kan dan als velden in de popup worden opgenomen. <br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
