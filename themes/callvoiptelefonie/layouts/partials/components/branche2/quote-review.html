@@ -1,15 +1,18 @@
 {{ with .Params.quoteReview }}
-<div class="w-full bg-gray-800">
+<div class="w-full bg-gray-700">
   <div class="max-w-screen-xl mx-auto px-4 py-8">
-    <div class="flex items-center gap-4 sm:gap-6">
-      <span aria-hidden="true" class="text-6xl lg:text-7xl leading-none text-gray-500 select-none">“</span>
+    <div class="flex items-center gap-3">
+      <!-- Big quote mark -->
+      <div class="text-6xl leading-none text-gray-400 font-serif select-none">“</div>
 
-      <div class="flex-1 italic text-gray-100">
+      <!-- Review text -->
+      <div class="flex-1 text-lg italic text-gray-100">
         {{ .text | markdownify }}
       </div>
 
+      <!-- Signer -->
       {{ with .signer }}
-      <div class="flex-shrink-0 whitespace-nowrap text-gray-200 font-medium">— {{ . }}</div>
+      <div class="text-gray-200 font-medium ml-2">— {{ . }}</div>
       {{ end }}
     </div>
   </div>
