@@ -12,6 +12,10 @@ hero:
   zooming: false
   image_position: center
   disable_image_on_mobile: false
+
+quote-review:
+  title: Altijd bereikbaar, zonder gedoe cht en zorg. Niet alleen voor de dieren in de behandelkame
+  signer: dierenarts iemand
   
 usps:
   title: <div id="1">Handig voor jou als Dierenarts:</div>
