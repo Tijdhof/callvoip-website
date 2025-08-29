@@ -1,5 +1,6 @@
+{{ with .Params.quoteReview }}
 <div class="w-full bg-gray-700">
-  <div class="max-w-screen-xl mx-auto px-4 py-2">
+  <div class="max-w-screen-xl mx-auto px-4 py-2"> <!-- reduced vertical padding -->
     <div class="flex items-center gap-3 whitespace-nowrap">
       <!-- Big quote mark -->
       <div class="text-6xl text-gray-400 leading-none font-serif">“</div>
@@ -16,3 +17,4 @@
     </div>
   </div>
 </div>
+{{ end }}
