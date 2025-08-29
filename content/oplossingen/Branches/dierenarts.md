@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
 
 quote-review:
-  title: Altijd bereikbaar, zonder gedoe cht en zorg. Niet alleen voor de dieren in de behandelkame
+  text: Altijd bereikbaar, zonder gedoe cht en zorg. Niet alleen voor de dieren in de behandelkame
   signer: dierenarts iemand
   
 usps:
