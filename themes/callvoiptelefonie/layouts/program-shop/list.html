@@ -150,5 +150,13 @@
     }
   });
 </script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("showcalc") === "true") {
+      showSavingCalc(true);
+    }
+  });
+</script>
 {{ partial "saving-calc-popup.html" . -}}
 {{ end }}
