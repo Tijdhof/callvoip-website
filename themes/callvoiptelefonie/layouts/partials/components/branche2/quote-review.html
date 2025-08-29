@@ -1,41 +1,13 @@
-<div class="quote-review">
-  <div class="quote-review-inner">
-    <div class="quote-icon">“</div>
-    <div class="quote-text">{{ .Get "text" | markdownify }}</div>
-    <div class="quote-signer">— {{ .Get "signer" }}</div>
+{{ with .Params.quoteReview }}
+<div class="w-full bg-gray-100 py-12 px-4">
+  <div class="max-w-3xl mx-auto text-center font-serif">
+    <div class="text-6xl text-gray-400 leading-none mb-4">“</div>
+    <div class="text-xl italic mb-4">
+      {{ .text | markdownify }}
+    </div>
+    {{ with .signer }}
+    <div class="text-gray-700 font-medium">— {{ . }}</div>
+    {{ end }}
   </div>
 </div>
-
-<style>
-.quote-review {
-  width: 100%;
-  background-color: #f2f2f2; /* light grey */
-  padding: 2rem 1rem;
-  margin: 2rem 0;
-}
-
-.quote-review-inner {
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: center;
-  font-family: Georgia, serif;
-}
-
-.quote-icon {
-  font-size: 4rem;
-  line-height: 1;
-  color: #999;
-}
-
-.quote-text {
-  font-size: 1.25rem;
-  margin: 1rem 0;
-  font-style: italic;
-}
-
-.quote-signer {
-  font-size: 1rem;
-  color: #555;
-  margin-top: 0.5rem;
-}
-</style>
+{{ end }}
