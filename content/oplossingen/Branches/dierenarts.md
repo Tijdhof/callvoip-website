@@ -22,7 +22,6 @@ usps:
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
   image: "v1756383117/dierenarts-clouds_wko62v.png"
-  side_image: "https://res.cloudinary.com/callvoip/image/upload/v1756383107/dierenart-review_dd3gom.png"
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
