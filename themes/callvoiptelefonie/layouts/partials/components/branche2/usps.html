@@ -1,6 +1,6 @@
 {{ with .Params.usps }}
 {{ $img := .image }}
-<div class="container px-4 md:py-8 lg:py-16">
+<div class="container px-4 md:py-8">
     <div class="text-center mb-8">
         {{ with .title }}
         <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">{{ . | markdownify }}</h2>
@@ -44,3 +44,4 @@
 </div>
 
 {{ end }}
+
