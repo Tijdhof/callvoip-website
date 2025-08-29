@@ -14,8 +14,8 @@ hero:
   disable_image_on_mobile: false
 
 quoteReview:
-  text: Altijd bereikbaar, zonder gedoe cht en zorg. Niet alleen voor de dieren in de behandelkame
-  signer: dierenarts iemand
+  text: Ze leveren zeer gebruiksvriendelijke telefonie systemen en bieden een hele goede nazorg.
+  signer: Dierenartsenpraktijk Kudelstaart
   
 usps:
   title: <div id="1">Handig voor jou als Dierenarts:</div>
