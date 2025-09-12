@@ -65,7 +65,7 @@ bgimg:
     title: Waarom kiezen makelaars voor Callvoip?
     text:
       - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup van elk gesprek.
-      - Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.
+      - 'Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
     link: 
       url: /marketplace
       text: Bekijk ons CRM-koppeling aanbod
