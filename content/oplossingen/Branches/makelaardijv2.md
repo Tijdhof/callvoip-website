@@ -8,7 +8,7 @@ url: "/branches/makelaarsv2/"
 hero:
   title: Altijd professioneel bereikbaar, zonder gedoe
   content: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
-  image: "/v1756206339/dierenarts-telefonie_jeikux.png"
+  image: "/v1756206339/makelaar_dbcjt4.png"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
@@ -62,10 +62,10 @@ usps:
 bgimg:
   image: /v1756215818/vet_banner_blurred_yih9h7.jpg
   left:
-    title: Koppel jouw praktijksoftware met onze telefonie!
+    title: Waarom kiezen makelaars voor Callvoip?
     text:
-      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.
-      - Veel dierenartsen gebruiken het CRM pakket van Idexx Animana, Line-Up, Plainwise of Sonetas Fuga. We kunnen koppelen met meer dan 150 verschillende pakketten.
+      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup van elk gesprek.
+      - Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.
     link: 
       url: /marketplace
       text: Bekijk ons CRM-koppeling aanbod
