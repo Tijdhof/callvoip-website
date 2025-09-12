@@ -60,7 +60,7 @@ usps:
       url: /tour
       text: Neem een tour
 bgimg:
-  image: /v1756215818/vet_banner_blurred_yih9h7.jpg
+  image: /v1756215818/makelaarBG_blurred_fb1whu.png
   left:
     title: Waarom kiezen makelaars voor Callvoip?
     text:
