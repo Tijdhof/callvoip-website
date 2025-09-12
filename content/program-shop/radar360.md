@@ -2,7 +2,7 @@
 shorttitle: "Visma Radar + auto call log"
 title: "Wij koppelen jouw CRM Visma Radar aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
-logo: "/v1757665241/radarsoftware_nkqz8m.png"
+logo: "/v1757665241/radarsoftware_o2xtpk.png"
 description: Door het koppelen van Radar CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
