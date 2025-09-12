@@ -7,7 +7,7 @@ logos: false
 url: "/branches/makelaarsv2/"
 hero:
   title: Altijd professioneel bereikbaar, zonder gedoe
-  content: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
+  content: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en Mew. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
   image: "/v1756206339/makelaar_dbcjt4.png"
   zooming: false
   image_position: center
@@ -25,7 +25,7 @@ usps:
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
-    content: Wij koppelen moeiteloos met pakketten zoals Realworks, Kolibri, YES-Co en nog veel meer.
+    content: Wij koppelen moeiteloos met pakketten zoals Realworks, Kolibri, Mew en nog veel meer.
     link: 
       url: /marketplace
       text: Lees meer
@@ -65,7 +65,7 @@ bgimg:
     title: Waarom kiezen makelaars voor Callvoip?
     text:
       - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup van elk gesprek.
-      - 'Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
+      - 'Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, Mew en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
     link: 
       url: /marketplace
       text: Bekijk ons CRM-koppeling aanbod
@@ -108,7 +108,7 @@ bottom:
     mb-3 clearfix items-end"> <span class="text-base md:text-lg font-medium opacity-50
     flex-1">1x Keuzemenu</span> <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Realworks, Kolibri of YES-Co
+    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Realworks, Kolibri of Mew
     per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Voor de gehele organisatie</span> <span class="text-lg md:text-2xl
