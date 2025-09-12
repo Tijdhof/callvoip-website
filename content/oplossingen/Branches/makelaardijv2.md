@@ -13,9 +13,12 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 
+quoteReview:
+  text: Ze leveren zeer gebruiksvriendelijke telefonie systemen en bieden een hele goede nazorg.
+  signer: Dierenartsenpraktijk Kudelstaart
   
 usps:
-  title: <div id="1">Handig voor jou als Makelaar:</div>
+  title: <div id="1">Handig voor jou als Dierenarts:</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
     erg handige zaken voor elke dierenarts. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
@@ -26,25 +29,25 @@ usps:
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
-    content: Onze telefonie koppelt moeiteloos met Realworks, Kolibri, YES-Co en nog veel meer.. Bij een inkomend gesprek zie je direct wie er belt en open je met één klik het juiste dossier. Zo werk je sneller en voorkom je dubbel werk. Dankzij onze standaard Chrome-integratie bespaar je bovendien veel tijd.
+    content: Wij koppelen moeiteloos met pakketten zoals IDEXX Animana, Line-up, Plainwise en Sonetas Fuga.
     link: 
       url: /marketplace
       text: Lees meer
   - icon: fa-users
-    title: 'Wachtrijbeheer bij drukte'
-    content: 'Bellers krijgen rust en duidelijkheid dankzij onze wachtrij (met muziek) en een melding van hun plek in de rij. Zo voorkom je ongeduld en behoud je de rust op kantoor.'
+    title: 'Altijd bereikbaar met een piketnummer'
+    content: 'Een speciaal telefoonnummer waarop je buiten normale werktijden direct bereikbaar bent voor spoed of noodgevallen.'
     link: 
       url: /telefonie/piketnummer/
       text: Lees meer
   - icon: fa-SortNumericDown
-    title: Slim keuzemenu
-    content: Stuur bellers direct naar de juiste afdeling of medewerker. Denk aan keuzemenu voor makelaardij, hypotheken en/of verzekeringen, afspraken rechtstreeks naar het secretariaat of administratieve vragen apart afhandelen.
+    title: Keuzemenu
+    content: Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.   
     link: 
       url: /telefonie/functionaliteiten/keuzemenu-ivr
       text: Lees meer
   - icon: fa-toggle-on
-    title: Eigen teksten inspreken
-    content: 'Laat je kantoor direct professioneel overkomen met een eigen welkomstboodschap, keuzemenu of voicemail. Persoonlijk en herkenbaar, precies zoals jij wilt dat jouw cliënten je ervaren.'
+    title: Wachtrijbeheer bij drukte
+    content: 'Rust en duidelijkheid dankzij onze wachtrij met muziek en meldingen over positie in de wachtrij bij drukte.'
     link: 
       url: /telefonie/functionaliteiten/omleiding-flow-control
       text: Lees meer
@@ -63,10 +66,10 @@ usps:
 bgimg:
   image: /v1756215818/vet_banner_blurred_yih9h7.jpg
   left:
-    title: Waarom kiezen makelaars voor Callvoip?
+    title: Koppel jouw praktijksoftware met onze telefonie!
     text:
-      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup van elk gesprek.
-      - Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, YES-Co en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog.. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.
+      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw CRM pakket met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent(e) een popup bij elk gesprek. Deze popup biedt een waardevolle toevoeging aan al het telefoonverkeer.
+      - Veel dierenartsen gebruiken het CRM pakket van Idexx Animana, Line-Up, Plainwise of Sonetas Fuga. We kunnen koppelen met meer dan 150 verschillende pakketten.
     link: 
       url: /marketplace
       text: Bekijk ons CRM-koppeling aanbod
