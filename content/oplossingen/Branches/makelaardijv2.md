@@ -12,10 +12,6 @@ hero:
   zooming: false
   image_position: center
   disable_image_on_mobile: false
-
-quoteReview:
-  text: Ze leveren zeer gebruiksvriendelijke telefonie systemen en bieden een hele goede nazorg.
-  signer: Dierenartsenpraktijk Kudelstaart
   
 usps:
   title: <div id="1">Handig voor jou als Dierenarts:</div>
