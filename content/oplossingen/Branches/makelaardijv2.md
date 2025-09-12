@@ -14,7 +14,7 @@ hero:
   disable_image_on_mobile: false
   
 usps:
-  title: <div id="1">Handig voor jou als Dierenarts:</div>
+  title: <div id="1">Handig voor jou als Makelaar:</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
     erg handige zaken voor elke dierenarts. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
@@ -25,13 +25,13 @@ usps:
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
-    content: Wij koppelen moeiteloos met pakketten zoals IDEXX Animana, Line-up, Plainwise en Sonetas Fuga.
+    content: Wij koppelen moeiteloos met pakketten zoals Realworks, Kolibri, YES-Co en nog veel meer.
     link: 
       url: /marketplace
       text: Lees meer
   - icon: fa-users
-    title: 'Altijd bereikbaar met een piketnummer'
-    content: 'Een speciaal telefoonnummer waarop je buiten normale werktijden direct bereikbaar bent voor spoed of noodgevallen.'
+    title: 'nog invullen'
+    content: 'text'
     link: 
       url: /telefonie/piketnummer/
       text: Lees meer
@@ -71,7 +71,7 @@ bgimg:
       text: Bekijk ons CRM-koppeling aanbod
   right: 
     bold: 'Wanneer de beller bekend is bij jou kun je:'
-    text: '✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
+    text: '✔ Expertise in de sector<br>✔ Ervaring met praktijksoftware en dagelijkse workflows<br>✔ Heldere service: vaste contactpersoon en korte lijnen<br>✔ Meedenkend in plaats van alleen uitvoerend<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
 
 bottom:
 - title1: ''
