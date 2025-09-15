@@ -41,7 +41,7 @@ usps:
     link: 
       url: /telefonie/functionaliteiten/keuzemenu-ivr
       text: Lees meer
-  - icon: fa-toggle-on
+  - icon_url: https://cdn1.iconfinder.com/data/icons/birthday-party-12/1000/person_waiting_queuing_queue_time_queue_store_people-256.png
     title: Wachtrijbeheer bij drukte
     content: 'Rust en duidelijkheid dankzij onze wachtrij met muziek en meldingen over positie in de wachtrij bij drukte.'
     link: 
