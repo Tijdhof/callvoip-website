@@ -26,7 +26,7 @@
     {{ if .icon }}
         <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
     {{ else if .icon_url }}
-        <img src="{{ .icon_url }}" alt="icon" class="h-10 w-10 lg:h-12 lg:w-12 object-contain" style="filter: invert(32%) sepia(96%) saturate(4442%) hue-rotate(214deg) brightness(94%) contrast(101%);" />
+        <img src="{{ .icon_url }}" alt="icon" class="h-8 w-8 lg:h-10 lg:w-10 object-contain" style="filter: invert(32%) sepia(96%) saturate(4442%) hue-rotate(214deg) brightness(94%) contrast(101%);" />
     {{ end }}
 </div>
             <div class="pt-2 flex justify-between flex-col flex-1">
@@ -48,6 +48,7 @@
 </div>
 
 {{ end }}
+
 
 
 
