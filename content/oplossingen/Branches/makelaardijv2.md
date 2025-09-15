@@ -35,7 +35,7 @@ usps:
     link: 
       url: /telefonie/piketnummer/
       text: Lees meer
-  - icon_url: https://cdn-icons-png.flaticon.com/128/151/151917.png
+  - icon_url: https://cdn-icons-png.flaticon.com/128/2099/2099089.png
     title: Keuzemenu
     content: Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.   
     link: 
