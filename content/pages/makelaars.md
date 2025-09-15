@@ -5,7 +5,7 @@ description: Alle mogelijkheden om jouw VoIP telefonie te koppelen.Van Chrome in
 type: page
 layout: branche
 logos: false
-url: "/branches/makelaars/"
+url: "/branches/makelaars-old/"
 hero:
   title: Alles voor Makelaars
   content: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en YES-Co. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br><a href="/testimonials/"
@@ -121,8 +121,8 @@ bottom:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png">
 images: []
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: true
 
 ---
