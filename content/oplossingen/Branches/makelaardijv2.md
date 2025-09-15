@@ -4,7 +4,7 @@ description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome i
 type: page
 layout: branche2
 logos: false
-url: "/branches/makelaarsv2/"
+url: "/branches/makelaars/"
 hero:
   title: Altijd professioneel bereikbaar, zonder gedoe
   content: 'Telefonie voor een makelaar vraagt specifieke features om optimaal te kunnen voorzien in het vaak dynamische reilen en zijlen van makelaar en team. Denk uiteraard aan instelbare tijden, meldteksten, denk aan meerdere nummers voor vaak diverse takken van sport (makelaardij, hypotheken, verzekeringen), en natuurlijk de Qaller smartphone app en de VAMOS SIM-kaart voor de makelaar die veel buiten de deur is. En natuurlijk: de koppeling met veelvoorkomende CRM systemen voor makelaars, zoals Realworks, Kolibri en Mew. Dit vind je allemaal bij ons en vele makelaars gingen je voor.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
@@ -45,7 +45,7 @@ usps:
     title: Wachtrijbeheer bij drukte
     content: 'Rust en duidelijkheid dankzij onze wachtrij met muziek en meldingen over positie in de wachtrij bij drukte.'
     link: 
-      url: /telefonie/functionaliteiten/omleiding-flow-control
+      url: /telefonie/functionaliteiten/wachtrij
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/3138/3138411.png
     title: Eigen teksten inspreken
