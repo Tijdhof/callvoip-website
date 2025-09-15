@@ -31,11 +31,11 @@ usps:
     link: 
       url: /marketplace
       text: Lees meer
-  - icon_url: https://cdn-icons-png.flaticon.com/128/3421/3421951.png
-    title: 'Doorverbinden'
-    content: "Verbind gesprekken automatisch en snel door naar collega's, zowel naar vast als mobiel"
+  - icon_url: https://cdn-icons-png.flaticon.com/128/13208/13208107.png
+    title: 'Faxbox'
+    content: "Door gebruik te maken van de fax-oplossing van Callvoip blijft het kantoor inkomend bereikbaar onder het faxnummer."
     link: 
-      url: /telefonie/functionaliteiten/doorverbinden/
+      url: /telefonie/functionaliteiten/fax/
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/2099/2099089.png
     title: Keuzemenu
