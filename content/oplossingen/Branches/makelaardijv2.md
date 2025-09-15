@@ -31,7 +31,7 @@ usps:
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/3421/3421951.png
     title: 'Doorverbinden'
-    content: 'Verbind gesprekken automatisch en snel door naar collega's, zowel naar vast als mobiel'
+    content: "Verbind gesprekken automatisch en snel door naar collega's, zowel naar vast als mobiel"
     link: 
       url: /telefonie/functionaliteiten/doorverbinden/
       text: Lees meer
