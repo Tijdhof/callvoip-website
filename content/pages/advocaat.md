@@ -4,7 +4,7 @@ description: 'Alle mogelijkheden om jouw VoIP telefonie te koppelen als advocaat
 type: page
 layout: branche
 logos: false
-url: "/branches/advocaten/"
+url: "/branches/advocaten-old/"
 hero:
   title: Telefonie voor Advocaten
   content: 'Als advocatenpraktijk is het belangrijk dat je altijd bereikbaar bent voor cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax. Echter, als advocaat ben je veel onderweg en daardoor zoek je een passende manier om goed bereikbaar te zijn.<br><br>Met de slimme tools van Callvoip hoef je als Advocaat maar met één ding bezig te zijn; je vak. Onze cloud-oplossing en toegewijd support team doet de rest.<br><br>En met de integratie van jouw CRM software (bijvoorbeeld <a href="https://www.callvoip.nl/marketplace/basenet/" target="_blank">Basenet</a> en <a href="https://www.callvoip.nl/marketplace/urios/" target="_blank">Urios</a>) geef je de client net dat beetje extra. Jouw voordeel: direct alle gegevens van jouw client in beeld.<br><br><a href="#2" class="button">Bereken jouw kosten</a>'
@@ -119,8 +119,8 @@ bottom:
   title2: ''
   content2: <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png">
 images: []
-hideinsearch: false
-hideingoogle: false
+hideinsearch: true
+hideingoogle: true
 hidesocialshare: true
 
 ---
