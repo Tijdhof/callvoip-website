@@ -71,7 +71,7 @@ bgimg:
       text: Bekijk ons CRM-koppeling aanbod
   right: 
     bold: 'Wanneer de beller bekend is bij jou kun je:'
-    text: '✔ Expertise in de sector<br>✔ Ervaring met praktijksoftware en dagelijkse workflows<br>✔ Heldere service: vaste contactpersoon en korte lijnen<br>✔ Meedenkend in plaats van alleen uitvoerend<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
+    text: '✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
 
 bottom:
 - title1: ''
