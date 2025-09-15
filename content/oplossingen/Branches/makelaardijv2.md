@@ -29,11 +29,11 @@ usps:
     link: 
       url: /marketplace
       text: Lees meer
-  - icon: fa-users
-    title: 'nog invullen'
-    content: 'text'
+  - icon_url: https://cdn-icons-png.flaticon.com/128/3421/3421951.png
+    title: 'Doorverbinden'
+    content: 'Verbind gesprekken automatisch en snel door naar collega's, zowel naar vast als mobiel'
     link: 
-      url: /telefonie/piketnummer/
+      url: /telefonie/functionaliteiten/doorverbinden/
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/2099/2099089.png
     title: Keuzemenu
@@ -47,7 +47,7 @@ usps:
     link: 
       url: /telefonie/functionaliteiten/omleiding-flow-control
       text: Lees meer
-  - icon: fa-comment-dots
+  - icon_url: https://cdn-icons-png.flaticon.com/128/3138/3138411.png
     title: Eigen teksten inspreken
     content: Met zelf ingesproken welkomstteksten, voicemails en keuzemenu’s geef je een persoonlijke teint aan jouw telefonie.
     link: 
