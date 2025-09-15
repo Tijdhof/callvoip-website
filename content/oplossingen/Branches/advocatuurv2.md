@@ -26,8 +26,8 @@ usps:
   image: "v1756473167/makelaar-crm_hrogbt.png"
   items:
   - icon: fa-cog
-    title: Koppeling met jouw praktijksoftware
-    content: Wij koppelen moeiteloos met pakketten zoals Realworks, Kolibri, Mew en nog veel meer.
+    title: Koppeling met jouw CRM
+    content: Wij koppelen moeiteloos met pakketten zoals Basenet, Urios en nog veel meer.
     link: 
       url: /marketplace
       text: Lees meer
@@ -64,10 +64,10 @@ usps:
 bgimg:
   image: /v1756215818/makelaarBG_blurred_fb1whu.png
   left:
-    title: Waarom kiezen makelaars voor Callvoip?
+    title: Waarom kiezen advocatenkantoren voor Callvoip?
     text:
-      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup van elk gesprek.
-      - 'Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, Mew en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
+      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek.
+      - 'Hiermee wordt degene die belt verrijkt met gegevens uit je database. Met 1 klik open je de bijbehorende gegevens in jouw pakket.<br>Alle bekende CRM paketten voor de advocatuur ondersteunen we. Denk dan aan BaseNet, DLex Wolter Kluwer en Urios. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
     link: 
       url: /marketplace
       text: Bekijk ons CRM-koppeling aanbod
@@ -79,7 +79,7 @@ bottom:
 - title1: ''
   content1: <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">Wat kost het?</h2>
     <p class="text-sm">Wij houden het graag helder. Geen ingewikkelde bundels, maar een overzichtelijk model dat meegroeit met jouw kantoor. Al vanaf €34,50 per maand ben je professioneel bereikbaar met Callvoip.</p>
-    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een makelaar</p>
+    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een advocatenkantoor</p>
     <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
     kostenoverzicht per praktijk per maand </div> <div class="px-6 clearfix"> <div
