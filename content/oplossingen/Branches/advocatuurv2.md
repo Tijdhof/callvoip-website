@@ -4,7 +4,7 @@ description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome i
 type: page
 layout: branche2
 logos: false
-url: "/branches/advocatenv2/"
+url: "/branches/advocaten/"
 hero:
   title: Altijd professioneel bereikbaar, zonder gedoe
   content: 'Als advocatenpraktijk is het belangrijk dat je altijd bereikbaar bent voor cliënten. Daarnaast is er veel contact met de rechtbank, via de telefoon en via de fax. Echter, als advocaat ben je veel onderweg en daardoor zoek je een passende manier om goed bereikbaar te zijn.
