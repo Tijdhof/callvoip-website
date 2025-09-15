@@ -23,7 +23,7 @@ usps:
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
-  image: "v1756473167/makelaar-crm_hrogbt.png"
+  image: "v1756473167/advocaat-crm.png"
   items:
   - icon: fa-cog
     title: Koppeling met jouw CRM
@@ -62,7 +62,7 @@ usps:
       url: /tour
       text: Neem een tour
 bgimg:
-  image: /v1756215818/makelaarBG_blurred_fb1whu.png
+  image: /v1756215818/advocaat_blurred_iq7o3n.png
   left:
     title: Waarom kiezen advocatenkantoren voor Callvoip?
     text:
