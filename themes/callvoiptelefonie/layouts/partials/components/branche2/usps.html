@@ -22,9 +22,13 @@
         {{ end }}
         <div class="bg-white min-h-full w-full py-6 sm:py-8 px-4 sm:px-8 rounded-lg text-grey-dark flex flex-col">
             <div
-                class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4 mr-8">
-                <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
-            </div>
+    class="rounded-full bg-grey-lightest h-16 w-16 lg:h-20 lg:w-20 flex justify-center items-center mb-2 xl:mb-4 mr-8">
+    {{ if .icon }}
+        <i class="fal text-3xl lg:fa-2x {{ .icon }} text-blue"></i>
+    {{ else if .icon_url }}
+        <img src="{{ .icon_url }}" alt="icon" class="h-10 w-10 lg:h-12 lg:w-12 object-contain" />
+    {{ end }}
+</div>
             <div class="pt-2 flex justify-between flex-col flex-1">
                 <div class="">
                     {{ with .title }}
@@ -44,5 +48,6 @@
 </div>
 
 {{ end }}
+
 
 
