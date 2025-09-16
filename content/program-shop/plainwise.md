@@ -12,7 +12,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Dierenartsen
+  - Klantenservice
 weight: 10
 url: /marketplace/plainwise/
 aliases: /program-shop/plainwise/
@@ -25,13 +25,11 @@ headerside:
   btn:
     text: Animana-koppeling kostenloos testen?
     url: /aanvragen/voip-cti/
-search_words:
-  - Dierenartsen
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket Plainwise voor Veterinairs / Dierenartsen?<br>
-Plainwise: Praktijk Management Systeem voor dierenklinieken, dierenartsen en de veterinaire sector.**<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket Plainwise voor uw klantenservice?<br>
+Plainwise: Optimaliseer uw Klantenervaring met AI die zich aanpast aan u**<br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip Plainwise telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Plainwise. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Plainwise staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
