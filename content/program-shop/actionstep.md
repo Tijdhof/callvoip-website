@@ -59,21 +59,24 @@ Dankzij de connector kun je de nummers in Actionstep aanklikken en automatisch b
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
 **Details van de popup in combinatie met Actionstep:**<br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Actionstep, zoals: <br>
 <iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Standaard is er de telefoonkoppeling van IDEXX die het nummer naar Animana stuurt en de bijbehorende klantekaart opent.<br>
-Als optie kan er een export worden gemaakt van één van de tabellen waarin het telefoonnummer staat en klantinformatie; deze informatie kan dan als velden in de popup worden opgenomen. <br>
+• Telefoonnummer<br>
+• Naam<br>
+• Bedrijfsnaam<br>
 <br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
-• Open de cliënt in Actionstep <br>
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
+Denk hierbij aan:<br>
+• Open klant in Actionstep<br>
+<br>
+En daarnaast: customized knoppen met: <br>
 • Kopie-functie (bv telefoonnummer of parameter)<br>
 • Email-functie (bv terugbelverzoek of leadnotitie)<br>
 • Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Actionstep wordt gekoppeld met telefonie van Callvoip op basis van de standaard telefoonkoppeling van IDEXX obv URL.<br>
-Daarnaast kan optioneel (aanvullend) informatie uit een CSV-export worden gebruikt om bv de popup met klantinformatie te verrijken.<br>
-De Callvoip telefoon-integratie met Actionstep kan worden gebruikt op zowel Windows als Apple Mac.<br> 
+Het softwarepakket Actionstep CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+De Callvoip telefoon-integratie met Actionstep CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
 **Word klant bij Callvoip en ontdek onze voordelen**<br>
 De koppeling met Actionstep is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
