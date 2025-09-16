@@ -23,7 +23,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Educatie
+  - Onderwijs
 weight: 10
 new: false
 url: /marketplace/magister/
