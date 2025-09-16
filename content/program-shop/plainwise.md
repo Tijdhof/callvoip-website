@@ -12,7 +12,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Klantenservice
+  - Klantcontact
 weight: 10
 url: /marketplace/plainwise/
 aliases: /program-shop/plainwise/
