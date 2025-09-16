@@ -23,7 +23,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Kinderopvang
+  - Onderwijs
   - Zorg
 weight: 10
 url: /marketplace/Flexkids/
