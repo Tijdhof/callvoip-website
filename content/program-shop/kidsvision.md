@@ -15,7 +15,7 @@ button:
   link: /marketplace/
 categories:
   - Planning
-  - Kinderopvang
+  - Onderwijs
   - Auto Call Log  
 weight: 10
 url: /marketplace/kidsvision/
