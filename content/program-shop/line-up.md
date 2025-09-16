@@ -57,33 +57,36 @@ Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het be
 </div>
 <br>
 **Uitgaande gesprekken**<br>
-Dankzij de connector kun je de nummers in Line-Up aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
+Dankzij de connector kun je de nummers in Line-up aanklikken en automatisch bellen. Maar het gemak is groter: elk telefoonnummer dat van een klik-en-bel-linkje (callto: en tel:) is voorzien kun je voortaan aanklikken en automatisch bellen. En elk telefoonnummer in elk willekeurig programma op je computer kun je selecteren en bellen door op F7 te klikken (Windows). <br>
 Daarnaast is er voor Windows en Mac de **Remote Dialer**: een handige bureaublad-telefoon-app waar je een nummer kunt intoetsen of plakken om het direct te bellen. Tel uit je tijdwinst! <br>
 <br>
-**Details van de popup in combinatie met Line-Up:**<br>
+**Details van de popup in combinatie met Line-up:**<br>
+Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. Gebruik daarvoor de klantgegevens uit Line-up, zoals: <br>
 <iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
-Standaard is er de telefoonkoppeling van IDEXX die het nummer naar Animana stuurt en de bijbehorende klantekaart opent.<br>
-Als optie kan er een export worden gemaakt van één van de tabellen waarin het telefoonnummer staat en klantinformatie; deze informatie kan dan als velden in de popup worden opgenomen. <br>
+• Telefoonnummer<br>
+• Naam<br>
+• Bedrijfsnaam<br>
 <br>
-Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. Denk hierbij aan:<br>
-• Open de cliënt in Line-Up <br>
+Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
+Denk hierbij aan:<br>
+• Open klant in Line-up<br>
+<br>
+En daarnaast: customized knoppen met: <br>
 • Kopie-functie (bv telefoonnummer of parameter)<br>
 • Email-functie (bv terugbelverzoek of leadnotitie)<br>
 • Actie-button (bv open URL of website, evt met parameter) <br>
 <br>
 **Technische gegevens:**<br>
-Het softwarepakket Line-Up wordt gekoppeld met telefonie van Callvoip op basis van de standaard telefoonkoppeling van IDEXX obv URL.<br>
-Daarnaast kan optioneel (aanvullend) informatie uit een CSV-export worden gebruikt om bv de popup met klantinformatie te verrijken.<br>
-De Callvoip telefoon-integratie met Line-Up kan worden gebruikt op zowel Windows als Apple Mac.<br> 
+Het softwarepakket Line-up CRM wordt gekoppeld met telefonie van Callvoip op basis van een API-koppeling.<br>
+De Callvoip telefoon-integratie met Line-up CRM kan worden gebruikt op zowel Windows als Apple Mac.<br> 
 <br><div class="bg-grey-lightest border border-grey-lightest" style="padding:30px;">
 **Word klant bij Callvoip en ontdek onze voordelen**<br>
-De koppeling met Line-Up is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
+De koppeling met Line-up is een uitbreiding op de telefoondienst van <b>Callvoip - slimme telefonie</b> via een toestel, <a href="https://www.callvoip.nl/telefonie/vastmobiel/" target="_blank">smartphone app</a> of <a href="https://www.callvoip.nl/telefonie/bellenmetpc/" target="_blank">via de computer</a>. Een telefonie-abonnement bij Callvoip brengt niet alleen de voordelen van de koppeling met zich mee, maar opent ook de deur naar een breed scala aan mogelijkheden die jouw bedrijf naar een hoger niveau kunnen tillen met professionele instrumenten  als een <a href="https://www.callvoip.nl/telefonie/functionaliteiten/wachtrij/" target="_blank">wachtrij</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/keuzemenu-ivr/" target="_blank">
 keuzemenu</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/gespreksopname/" target="_blank">gespreksopname</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/tijdsconditie/" target="_blank">slimme tijdscondities</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/omleiding-flow-control/" target="_blank">schakelaars</a>, <a href="https://www.callvoip.nl/telefonie/functionaliteiten/meldtekst/" target="_blank">meldteksten</a> en nog <a href="https://www.callvoip.nl/telefonie/functionaliteiten/" target="_blank">veel meer</a>. En alles snel en eenvoudig door jouzelf in te stellen in een overzichtelijk online systeem. 
 <br><br>
 Wil je meer weten over de CRM-koppeling dan krijg je vrijblijvend uitgebreide uitleg over hoe de koppeling werkt.
 Bovendien laten we je dan ook zien hoe ons telefoonsysteem werkt, hoe het optimaal kan aansluiten bij jullie communicatie-wensen, en hoe je naadloos kunt overstappen.
 Uiteraard heb je alle ruimte om met ons te sparren over jouw telefonie- en communicatiewensen, vooral als jouw bestaande oplossing niet optimaal werkt.<br>
 Neem vandaag nog contact met ons op, dan plannen we een moment in.<br>
-<br><a onclick="dialog.show();" class="button" style="cursor: pointer;">Ja, ik wil meer weten over de Line-Up-koppeling</a></div>
+<br><a onclick="dialog.show();" class="button" style="cursor: pointer;">Ja, ik wil meer weten over de Line-up-koppeling</a></div>
 
