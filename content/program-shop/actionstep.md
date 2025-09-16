@@ -28,8 +28,8 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket Actionstep voor Veterinairs / Dierenartsen?<br>
-Actionstep: Praktijk Management Systeem voor dierenklinieken, dierenartsen en de veterinaire sector.**<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket Actionstep voor Advocaten?<br>
+Actionstep: Het moderne en flexibele managementplatform van Actionstep helpt middelgrote advocatenkantoren om hun praktijk om te vormen tot een hoog presterend bedrijf.**<br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip Actionstep telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Actionstep. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Actionstep staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
