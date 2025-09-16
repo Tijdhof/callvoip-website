@@ -28,8 +28,8 @@ headerside:
 
 ---
 
-**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket Aerona Dental voor Veterinairs / Dierenartsen?<br>
-Aerona Dental: Praktijk Management Systeem voor dierenklinieken, dierenartsen en de veterinaire sector.**<br>
+**Welke voordelen biedt een telefoniekoppeling tussen Callvoip en het CRM-pakket Aerona Dental voor Dierenartsen?<br>
+Aerona Dental: Volledig in de cloud gebouwd, AeronaDental is jouw alles-in-één oplossing voor slimmer, eenvoudiger en beter verbonden praktijkbeheer voor tandartsen.**<br>
 <br>
 **Samenvatting**<br>
 Met de Callvoip Aerona Dental telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en Aerona Dental. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Aerona Dental staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
