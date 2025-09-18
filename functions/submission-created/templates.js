@@ -379,7 +379,7 @@ function template_d_9f9d59454d29461697d5e1d428ab9ef8(data) {
 <br><br>
 Hartelijk dank voor uw opzegging.
 <br><br>
-Controleer onderstaande opezgging zorgvuldig. Indien akkoord, ontvangen wij graag een reply op dit bericht met uw akkoord.
+Controleer onderstaande opzegging zorgvuldig. Indien akkoord, ontvangen wij graag een reply op dit bericht met uw akkoord.
 <br><br>
 Na ontvangst van uw akkoord zullen wij de opzegging verwerken.
 <br><br>
