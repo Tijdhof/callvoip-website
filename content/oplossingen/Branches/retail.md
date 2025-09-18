@@ -20,7 +20,7 @@ quoteReview:
 usps:
   title: <div id="1">Handig voor jou als Retailer:</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
-    erg handige zaken voor elke dierenarts. Denk hierbij aan een geavanceerde
+    erg handige zaken voor elke retailer. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
@@ -28,7 +28,7 @@ usps:
   image: "v1756473167/dierenarts-clouds_v60wda.png"
   items:
   - icon: fa-cog
-    title: Koppeling met jouw praktijksoftware
+    title: Koppeling met jouw retailsoftware
     content: Wij koppelen moeiteloos met diverse retail CRM pakketten. Bekijk het gehele overzicht
     link: 
       url: /marketplace
@@ -66,7 +66,7 @@ usps:
 bgimg:
   image: /v1756215818/vet_banner_blurred_yih9h7.jpg
   left:
-    title: Koppel jouw praktijksoftware met onze telefonie!
+    title: Koppel jouw retailsoftware met onze telefonie!
     text:
       - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw kassasysteem of klantCRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup bij elk gesprek.
       - Met 1 klik open je de bijbehorende gegevens in jouw pakket. Neem contact met ons op voor de mogelijkheden.
@@ -80,11 +80,11 @@ bgimg:
 bottom:
 - title1: ''
   content1: <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">Wat kost het?</h2>
-    <p class="text-sm">We houden het graag duidelijk. Geen ingewikkelde pakketten, maar een overzichtelijk model dat meegroeit met je praktijk. Al vanaf €34,50 per maand ben je professioneel bereikbaar met Callvoip.</p>
+    <p class="text-sm">We houden het graag duidelijk. Geen ingewikkelde pakketten, maar een overzichtelijk model dat meegroeit met je bedrijf. Al vanaf €34,50 per maand ben je professioneel bereikbaar met Callvoip.</p>
     <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een retailer.</p>
     <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
-    kostenoverzicht per praktijk per maand </div> <div class="px-6 clearfix"> <div
+    kostenoverzicht per bedrijf per maand </div> <div class="px-6 clearfix"> <div
     class="flex justify-between clearfix items-end"> <span class="text-base md:text-lg
     font-medium opacity-50 flex-1">1x Hosted telefooncentrale in de cloud</span> <span
     class="text-lg md:text-2xl font-medium opacity-75">€7,50</span> </div> <div class="flex
