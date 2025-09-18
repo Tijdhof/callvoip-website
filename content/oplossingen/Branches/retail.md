@@ -8,7 +8,7 @@ url: "/branches/retail/"
 hero:
   title: Altijd bereikbaar, zonder gedoe
   content: 'Telefonie in de retail vraagt om specifieke oplossingen die aansluiten bij de dynamiek van jouw winkel en team. Denk aan instelbare openingstijden, professionele meldteksten, meerdere nummers voor verschillende filialen of afdelingen, en de Qaller smartphone-app en de VAMOS SIM-kaart voor medewerkers die bijvoorbeeld in de bezorgdienst zitten. Ook bieden we koppelingen met veelgebruikte kassasystemen en CRM’s in de retail. Dat maakt ons dé telefoniepartner voor winkeliers, en vele retailers gingen je al voor.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
-  image: "/v1756206339/dierenarts-telefonie_jeikux.png"
+  image: "/v1756206339/retailer_nvy0go.png"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
@@ -64,7 +64,7 @@ usps:
       url: /tour
       text: Neem een tour
 bgimg:
-  image: /v1756215818/vet_banner_blurred_yih9h7.jpg
+  image: /v1756215818/retailer2_yt39tq.png
   left:
     title: Koppel jouw retailsoftware met onze telefonie!
     text:
