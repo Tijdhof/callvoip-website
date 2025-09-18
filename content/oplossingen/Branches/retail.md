@@ -37,7 +37,7 @@ usps:
     title: 'Meerdere filialen, 1 nummer?'
     content: 'Een speciaal telefoonnummer waarop je buiten normale werktijden direct bereikbaar bent voor spoed of noodgevallen.'
     link: 
-      url: /telefonie/piketnummer/
+      url: /telefonie/nummers/
       text: Lees meer
   - icon: fa-SortNumericDown
     title: Keuzemenu
