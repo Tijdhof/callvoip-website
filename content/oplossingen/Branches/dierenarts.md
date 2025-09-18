@@ -39,19 +39,19 @@ usps:
     link: 
       url: /telefonie/piketnummer/
       text: Lees meer
-  - icon: fa-SortNumericDown
+  - icon_url: https://cdn-icons-png.flaticon.com/128/2099/2099089.png
     title: Keuzemenu
     content: Met een keuzemenu breng je jouw klanten voor je ze aan de lijn hebt al bij de juiste persoon.   
     link: 
       url: /telefonie/functionaliteiten/keuzemenu-ivr
       text: Lees meer
-  - icon: fa-toggle-on
+  - icon_url: https://cdn-icons-png.flaticon.com/128/3298/3298952.png
     title: Wachtrijbeheer bij drukte
     content: 'Rust en duidelijkheid dankzij onze wachtrij met muziek en meldingen over positie in de wachtrij bij drukte.'
     link: 
       url: /telefonie/functionaliteiten/omleiding-flow-control
       text: Lees meer
-  - icon: fa-comment-dots
+  - icon_url: https://cdn-icons-png.flaticon.com/128/3138/3138411.png
     title: Eigen teksten inspreken
     content: Met zelf ingesproken welkomstteksten, voicemails en keuzemenu’s geef je een persoonlijke teint aan jouw telefonie.
     link: 
