@@ -21,10 +21,10 @@ usps:
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
-  image: "v1756473167/retailercrm_zvidem.png"
+  image: "v1756473167/crm-horeca_nybhnz.png"
   items:
   - icon: fa-cog
-    title: Koppeling met jouw kassa of boeking CRM
+    title: Koppeling met jouw kassa of booking CRM
     content: Wij koppelen moeiteloos met diverse horeca CRM pakketten. Bekijk het gehele overzicht
     link: 
       url: /marketplace
