@@ -121,7 +121,7 @@ bottom:
     </div><br><br><a href="/calculator/" class="button">Bereken je eigen kosten</a>
   title2: ''
   content2: <p><a href="https://www.callvoip.nl/marketplace/?showcalc=true" class="button mb-4" style="border-radius:6px">Wat levert de CRM koppeling op?</a></p>
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1617013618/blf-new2_glvuie.png" loading="lazy" alt="device">
+    <img src="https://res.cloudinary.com/callvoip/image/upload/v1758634610/3laptops_igs6vc.png" loading="lazy" alt="device">
 
 reviews:
   title: Succesverhalen
