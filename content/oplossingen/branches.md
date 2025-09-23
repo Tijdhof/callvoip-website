@@ -58,7 +58,7 @@ blocks:
   image: "/v1565855183/horecaoverzicht_n12f7l.png"
   content: |-
     Telefonie voor horecaondernemingen moet soepel, flexibel én gastgericht zijn. Denk aan instelbare openingstijden, professionele meldteksten, wachtrijen voor drukke piekmomenten én één nummer dat je gebruik voor meerdere vestigingen of afdelingen. Combineer dat met koppelingen naar kassasystemen of reserverings-CRMs, en je bent altijd professioneel bereikbaar.<BR><BR>
-    <a href="/oplossingen/branches/horeca/" class="button">Ontdek onze oplossing voor de horeca</a>
+    <a href="/branches/horeca/" class="button">Ontdek onze oplossing voor de horeca</a>
   position: image_right
   image_position: ''
 
