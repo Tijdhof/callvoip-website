@@ -40,6 +40,13 @@ blocks:
     <a href="/branches/makelaars/" class="button">Bekijk onze oplossing voor makelaars</a>
   position: image_left
   image_position: ''
+- title: Hosted telefonie voor de dierenartsen
+  image: "/v1565855183/vet_cz0pln.png"
+  content: |-
+    Telefonie voor een dierenartsenpraktijk vraagt om flexibiliteit en slimme functies. Denk aan wachtrijen die zorgen dat spoed altijd prioriteit krijgt, een speciaal spoednummer dat buiten openingstijden direct wordt doorgeschakeld en professionele meldteksten die cliënten geruststellen. Bovendien zijn er koppelingen mogelijk met praktijksoftware zoals IDEXX Animana, zodat alle informatie direct beschikbaar is. Zo blijft je praktijk altijd professioneel bereikbaar.<BR><BR>
+    <a href="/oplossingen/branches/dierenarts/" class="button">Ontdek onze oplossing voor dierenartsen</a>
+  position: image_right
+  image_position: ''
 
 usps:
   title: Mijn branche staat er niet bij
