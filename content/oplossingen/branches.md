@@ -118,7 +118,7 @@ hidesocialshare: false
 menu:
   main:
     name: Branches
-    weight: 4
+    weight: 1
     parent: Oplossingen
     pre: Bekijk onze oplossingen, uitgewerkt voor verschillende branches
     post: fa-globe
