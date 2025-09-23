@@ -46,24 +46,7 @@ blocks:
     <a href="/branches/makelaars/" class="button">Bekijk onze oplossing voor makelaars</a>
   position: image_left
   image_position: ''
-- title: Slimme integratie voor recruitment
-  image: "/v1565857793/recruiter_swtpbu.png"
-  content: |-
-    Werving en selectie is een intensief proces dat gepaard gaat met veel telefonisch contact. Om kosten te besparen bieden we <b>belbundels</b> zodat de maandelijkse kosten voor belverkeer naar vast en mobiel binnen Nederland zijn afgekocht. Binnen recruitment is onze gratis <b>click to dial app</b> ook erg populair. Stel je eens voor: met 1 druk op de knop bellen, een centraal telefoonboek via de browser en de naam van de beller direct in beeld.<BR><BR>
-    <a href="/oplossingen/branches/recruitment/" class="button">Bekijk hier onze recruitment oplossing</a>
-  position: image_right
-  image_position: ''
-- title: Hosted VoIP voor fysiotherapie
-  image: "/v1565858000/fysio_ec1wak.png"
-  content: Binnen een fysiotherapiepraktijk zien we vaak een configuratie met een
-    vast toestel en meerdere draadloze DECT toestellen voor de therapeuten. Voor een
-    professionele bereikbaarheid worden persoonlijke meldteksten gebruikt in combinatie
-    met een <b>wachtrij</b> en/of <b>keuzemenu</b>. Met slimme schakelaars op het
-    toestel of via onze app <b>Qaller</b> kan de bereikbaarheid op elk moment worden
-    aangepast.<BR><BR><a href="/oplossingen/branches/fysiotherapie/" class="button">Onze
-    oplossing voor fysiotherapie</a>
-  position: image_left
-  image_position: ''
+
 usps:
   title: Mijn branche staat er niet bij
   content: Dat is heel goed mogelijk. Dit is slechts een greep uit de branches waarin
