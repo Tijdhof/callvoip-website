@@ -8,7 +8,7 @@ url: "/branches/horeca/"
 hero:
   title: Altijd bereikbaar, zonder gedoe
   content: 'Telefonie in de horeca vraagt om oplossingen die passen bij de dynamiek van een restaurant, café, hotel of bezorgdienst. Denk aan instelbare openingstijden, professionele meldteksten, meerdere nummers voor verschillende vestigingen of afdelingen, en de Qaller smartphone-app of VAMOS SIM-kaart voor medewerkers die onderweg zijn. Daarnaast koppelen we met veelgebruikte reserverings- en kassasystemen in de horeca. Zo ben je altijd professioneel bereikbaar en gingen vele horecaondernemers je al voor.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
-  image: "/v1756206339/retailer_nvy0go.png"
+  image: "/v1756206339/horecaman_sbpshb.png"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
@@ -60,7 +60,7 @@ usps:
       url: /tour
       text: Neem een tour
 bgimg:
-  image: /v1756215818/retailer2_yt39tq.png
+  image: /v1756215818/oreca_blurred_de1dof.png
   left:
     title: Waarom kiezen horecaondernemers voor Callvoip?
     text:
