@@ -40,7 +40,7 @@ blocks:
     <a href="/branches/makelaars/" class="button">Bekijk onze oplossing voor makelaars</a>
   position: image_left
   image_position: ''
-- title: Hosted telefonie voor de dierenartsen
+- title: Hosted telefonie voor dierenartsen
   image: "/v1565855183/vet_cz0pln.png"
   content: |-
     Telefonie voor een dierenartsenpraktijk vraagt om flexibiliteit en slimme functies. Denk aan wachtrijen die zorgen dat spoed altijd prioriteit krijgt, een speciaal spoednummer dat buiten openingstijden direct wordt doorgeschakeld en professionele meldteksten die cliënten geruststellen. Bovendien zijn er koppelingen mogelijk met praktijksoftware zoals IDEXX Animana, zodat alle informatie direct beschikbaar is. Zo blijft je praktijk altijd professioneel bereikbaar.<BR><BR>
@@ -53,6 +53,13 @@ blocks:
     Telefonie voor retail vraagt om slimme tools die passen bij je winkel en team. Denk aan instelbare openingstijden, professionele meldteksten, wachtrijen voor drukke momenten. Ook werken we met meerdere nummers per filiaal of afdeling, plus een handige CRM- of kassasysteemkoppeling zodat je direct alle klantinformatie ziet. Zo blijft je retailorganisatie altijd bereikbaar, georganiseerd en klantgericht.<BR><BR>
     <a href="/branches/retail/" class="button">Bekijk onze oplossing voor retailers</a>
   position: image_left
+  image_position: ''
+- title: Hosted telefonie voor de horeca
+  image: "/v1565855183/horecaoverzicht_n12f7l.png"
+  content: |-
+    Telefonie voor horecaondernemingen moet soepel, flexibel én gastgericht zijn. Denk aan instelbare openingstijden, professionele meldteksten, wachtrijen voor drukke piekmomenten én één nummer dat je gebruik voor meerdere vestigingen of afdelingen. Combineer dat met koppelingen naar kassasystemen of reserverings-CRMs, en je bent altijd professioneel bereikbaar.<BR><BR>
+    <a href="/oplossingen/branches/horeca/" class="button">Ontdek onze oplossing voor de horeca</a>
+  position: image_right
   image_position: ''
 
 usps:
