@@ -47,6 +47,13 @@ blocks:
     <a href="/oplossingen/branches/dierenarts/" class="button">Ontdek onze oplossing voor dierenartsen</a>
   position: image_right
   image_position: ''
+- title: Slimme oplossing voor retailers
+  image: "/v1565857411/retailer-working_zxl70c.png"
+  content: |-
+    Telefonie voor retail vraagt om slimme tools die passen bij je winkel en team. Denk aan instelbare openingstijden, professionele meldteksten, wachtrijen voor drukke momenten. Ook werken we met meerdere nummers per filiaal of afdeling, plus een handige CRM- of kassasysteemkoppeling zodat je direct alle klantinformatie ziet. Zo blijft je retailorganisatie altijd bereikbaar, georganiseerd en klantgericht.<BR><BR>
+    <a href="/branches/retail/" class="button">Bekijk onze oplossing voor retailers</a>
+  position: image_left
+  image_position: ''
 
 usps:
   title: Mijn branche staat er niet bij
