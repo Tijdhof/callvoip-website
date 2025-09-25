@@ -14,7 +14,7 @@ button:
   title: Naar Marketplace
   link: /marketplace/
 categories:
-  - Makelaars
+  - Recreatie
 weight: 10
 url: /marketplace/Mews/
 aliases: /program-shop/Mews/
