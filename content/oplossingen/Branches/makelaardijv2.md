@@ -21,11 +21,11 @@ usps:
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
-  image: "v1756473167/makelaar-crm_hrogbt.png"
+  image: "v1756473167/makelaarcrm_hmh7vi.png"
   items:
   - icon: fa-cog
     title: Koppeling met jouw praktijksoftware
-    content: Wij koppelen moeiteloos met pakketten zoals Realworks, Kolibri, Mew en nog veel meer.
+    content: Wij koppelen moeiteloos met pakketten zoals Realworks, Kolibri en nog veel meer.
     link: 
       url: /marketplace
       text: Lees meer
@@ -65,7 +65,7 @@ bgimg:
     title: Waarom kiezen makelaars voor Callvoip?
     text:
       - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw makelaarssoftware/CRM met onze telefonie. Met zo’n koppeling verschijnt op de computer van de assistent / makelaar een popup van elk gesprek.
-      - 'Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri, Mew en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
+      - 'Met 1 klik open je de bijbehorende gegevens in jouw pakket. Alle bekende namen ondersteunen we: Realworks, Kolibri en nog veel meer. Voor Realworks bieden we een geweldige geïntegreerde koppeling met popup in Realworks en automatisch gesprekslog. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
     link: 
       url: /marketplace
       text: Bekijk ons CRM-koppeling aanbod
@@ -108,7 +108,7 @@ bottom:
     mb-3 clearfix items-end"> <span class="text-base md:text-lg font-medium opacity-50
     flex-1">1x Keuzemenu</span> <span class="text-lg md:text-2xl font-medium opacity-75">€4,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
-    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Realworks, Kolibri of Mew
+    md:text-lg font-medium opacity-50 flex-1">1x Koppeling met Realworks, Kolibri of Eyemove
     per gebruiker</span> <span class="text-lg md:text-2xl font-medium opacity-75">€5,-</span>
     </div> <div class="flex justify-between mb-3 clearfix items-end"> <span class="text-base
     md:text-lg font-medium opacity-75 flex-1">Voor de gehele organisatie</span> <span class="text-lg md:text-2xl
