@@ -53,16 +53,16 @@ usps:
       text: Lees meer
   - icon_url: https://cdn-icons-png.flaticon.com/128/3138/3138411.png
     title: Eigen teksten inspreken
-    content: Met zelf ingesproken welkomstteksten, voicemails en keuzemenu’s geef je een persoonlijke teint aan jouw telefonie.
+    content: Met zelf ingesproken welkomstteksten, voicemails en keuzemenu’s geef je een persoonlijke tint aan jouw telefonie.
     link: 
       url: /telefonie/functionaliteiten/meldtekst
       text: Lees meer
-  - icon: fa-microphone-alt
-    title: Mis je iets?
-    content: We bellen je om samen je eigen centrale in te richten. Weten wat er nog meer mogelijk is?
+  - icon_url: https://cdn-icons-png.flaticon.com/128/17807/17807797.png
+    title: Back-up verbinding
+    content: Een extra internetverbinding die automatisch inschakelt bij een storing, zodat je pinautomaat en andere bedrijfsprocessen gewoon blijven werken.
     link: 
-      url: /tour
-      text: Neem een tour
+      url: /internet/data-sim/
+      text: Lees meer
 bgimg:
   image: /v1756215818/retailer2_yt39tq.png
   left:
