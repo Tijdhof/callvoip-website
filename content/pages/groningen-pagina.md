@@ -19,12 +19,12 @@ quoteReview:
 
 usps:
   title: 'Waarom kiezen Groningse ondernemers voor Callvoip?'
-  content: "Steeds meer bedrijven in Groningen stappen over naar Callvoip. Dat komt omdat we dichtbij zitten, meedenken en snel schakelen.<br>Bij vragen krijg je geen anoniem callcenter aan de lijn, maar een vast team dat jou en je organisatie begrijpt.<br>Of je nu ZZP’er bent of een groter bedrijf runt, wij leveren maatwerk en zorgen dat je telefonie precies aansluit bij jouw manier van werken."
+  content: "Steeds meer bedrijven in Groningen stappen over naar Callvoip. Dat komt omdat we dichtbij zitten, meedenken en snel schakelen. Bij vragen krijg je geen anoniem callcenter aan de lijn, maar een vast team dat jou en je organisatie begrijpt. Of je nu ZZP’er bent of een groter bedrijf runt, wij leveren maatwerk en zorgen dat je telefonie precies aansluit bij jouw manier van werken."
 
 bgimg:
   image: /v1756215818/advocaat_blurred_iq7o3n.png
   left:
-    title: Waarom kiezen advocatenkantoren voor Callvoip?
+    title: Waarom Groningse ondernemers kiezen voor Callvoip
     text:
       - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw software/CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup van elk gesprek.
       - 'Hiermee wordt degene die belt verrijkt met gegevens uit je database. Met 1 klik open je de bijbehorende gegevens in jouw pakket.<br>Alle bekende CRM paketten voor de advocatuur ondersteunen we. Denk dan aan BaseNet, DLex Wolter Kluwer en Urios. Heb je een andere CRM pakket, neem dan contact met ons op voor de mogelijkheden.'
@@ -33,7 +33,8 @@ bgimg:
       text: Bekijk ons CRM-koppeling aanbod
   right: 
     bold: 'Wanneer de beller bekend is bij jou kun je:'
-    text: '✔ Zien wie er belt, met naam en toenaam<br>✔ Direct het dossier erbij pakken vanuit de popup<br>✔ Historie bekijken van alle contact<br>✔ Een gespreksverslag maken of terugbelverzoek uitzetten<br><br><b>Wanneer de beller niet bekend is bij jou:</b><br>✔ Zie het laatste contactmoment of momenten met dit nummer, wanneer en met welke collega.<br>✔ Automatische Google Number Lookup: als Google het nummer kent wordt deze verrijkt met naam, adres, plaats en website.<br><br>Let maar op, al na een halve dag wil je dit gemak en comfort niet meer missen. Je raakt gewend aan het gebruik waardoor je instaat bent efficiënter te werken.'
+    text: '✔ <b>Lokaal aanwezig & snel te bereiken</b><br>Omdat wij zelf in Groningen zitten, kennen we de regio, de infrastructuur én zijn we fysiek bereikbaar als dat nodig is. Mocht je willen, kun je ons zelfs bezoeken.<br>✔ <b>Persoonlijke service met regionaal karakter</b><br>Geen anoniem callcenter maar mensen die luisteren, meedenken en jouw branche begrijpen. Service zoals je van een Gronings bedrijf mag verwachten: direct, betrokken, geen gedoe.✔ <b>Alles onder één dak: telefonie, internet, apparatuur</b><br>Jij hoeft niet bij verschillende leveranciers aan te kloppen. Callvoip verzorgt de telefooncentrale, maar ook (indien gewenst) internetverbindingen, routers, IP-toestellen, headsets etc. Alles wat je nodig hebt voor goede bereikbaarheid.<br>✔ <b>Flexibiliteit & maatwerk</b><br>Voor iedere organisatie, van ZZP'ers,  MKB'ers tot grotere bedrijven – kunnen wij de dienstverlening aanpassen. Schaalbaar, met of zonder hardware, met of zonder extra features (wachtrij, keuzemenu, voicemail, etc.).<br>✔ <b>Gebruiksgemak & slimme functies</b><br>Denk aan: bellen via een app, integratie met jouw CRM, doorverbinden, tijdscondities, keuzemenu’s, wachtrijen, gespreksopname, mobiele bereikbaarheid onder je vaste nummer. 
+Zo blijf je professioneel en bereikbaar, zelfs als je onderweg of thuis werkt.'
 
 bottom:
 - title1: ''
