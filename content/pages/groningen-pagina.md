@@ -40,9 +40,8 @@ cta:
   title: Eenvoudig overstappen naar Callvoip
   right: 
     text:
-      - Klant worden bij Callvoip is heel eenvoudig. Wij regelen de overstap, nemen je huidige nummers over en richten je telefonie volledig in. 
-Van vaste toestellen tot apps en koppelingen met systemen: alles wordt werkend opgeleverd.
-      - Natuurlijk helpen we je persoonlijk op weg en blijven we bereikbaar voor support. Zo heb je er zelf nauwelijks werk van.<br>Wil je weten wat Callvoip voor jouw bedrijf kan betekenen? Bel ons op 050-820 0000 of stuur een mail naar callvoip@callvoip.nl.<br>We plannen graag een gesprek in.
+      - 'Klant worden bij Callvoip is heel eenvoudig. Wij regelen de overstap, nemen je huidige nummers over en richten je telefonie volledig in.<br>Van vaste toestellen tot apps en koppelingen met systemen: alles wordt werkend opgeleverd.'
+      - 'Natuurlijk helpen we je persoonlijk op weg en blijven we bereikbaar voor support. Zo heb je er zelf nauwelijks werk van.<br>Wil je weten wat Callvoip voor jouw bedrijf kan betekenen? Bel ons op 050-820 0000 of stuur een mail naar callvoip@callvoip.nl.<br>We plannen graag een gesprek in.'
   left:
     img: v1756198496/IMG_3259_bqlxmm.jpg
     options:
