@@ -37,12 +37,12 @@ bgimg:
 Zo blijf je professioneel en bereikbaar, zelfs als je onderweg of thuis werkt."
 
 cta:
-  title: Kies voor zekerheid, bereikbaarheid en rust
+  title: Eenvoudig overstappen naar Callvoip
   right: 
     text:
-      - Bij Callvoip begeleiden we jouw overstap van begin tot eind. Zo heb je de zekerheid dat alles naadloos in elkaar overloopt en blijf je altijd bereikbaar.<br>Desgewenst helpen we je met het instellen van je belplan, het instellen van voicemailberichten en wachtrijen. Ook zorgen we (uiteraard) voor nummerbehoud en kunnen we de juiste toestellen leveren.
-      - Je krijgt een vaste contactpersoon en directe ondersteuning. En als je belt, dan krijg je direct een medewerker aan de lijn.
-
+      - Klant worden bij Callvoip is heel eenvoudig. Wij regelen de overstap, nemen je huidige nummers over en richten je telefonie volledig in. 
+Van vaste toestellen tot apps en koppelingen met systemen: alles wordt werkend opgeleverd.
+      - Natuurlijk helpen we je persoonlijk op weg en blijven we bereikbaar voor support. Zo heb je er zelf nauwelijks werk van.<br>Wil je weten wat Callvoip voor jouw bedrijf kan betekenen? Bel ons op 050-820 0000 of stuur een mail naar callvoip@callvoip.nl.<br>We plannen graag een gesprek in.
   left:
     img: v1756198496/IMG_3259_bqlxmm.jpg
     options:
