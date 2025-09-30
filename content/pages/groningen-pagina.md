@@ -4,7 +4,7 @@ description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome i
 type: page
 layout: branche2
 logos: false
-url: "/branches/advocaten/"
+url: "/groningen"
 hero:
   title: Zakelijke telefonie & VoIP in Groningen
   content: 'Ben je een Groningse ondernemer of heb je een bedrijf in Groningen? En zoek je een betrouwbare telefonieoplossing?<br>Maak dan kennis met Callvoip. Gevestigd in Groningen stad (Koldingweg) en wij helpen ondernemers in Stad én provincie met slimme, schaalbare en betaalbare Telefonie-oplossingen.<br>Wij zorgen ervoor dat je altijd professioneel bereikbaar bent, zonder gedoe.'
@@ -18,10 +18,8 @@ quoteReview:
   signer: Bjorn Gerrits, Hotel Miss Blanche / Café de Sigaar
 
 usps:
-  title: Waarom kiezen Groningse ondernemers voor Callvoip?
-  content: Steeds meer bedrijven in Groningen stappen over naar Callvoip. Dat komt omdat we dichtbij zitten, meedenken en snel schakelen. 
-Bij vragen krijg je geen anoniem callcenter aan de lijn, maar een vast team dat jou en je organisatie begrijpt. 
-Of je nu ZZP’er bent of een groter bedrijf runt, wij leveren maatwerk en zorgen dat je telefonie precies aansluit bij jouw manier van werken.
+  title: 'Waarom kiezen Groningse ondernemers voor Callvoip?'
+  content: "Steeds meer bedrijven in Groningen stappen over naar Callvoip. Dat komt omdat we dichtbij zitten, meedenken en snel schakelen.<br>Bij vragen krijg je geen anoniem callcenter aan de lijn, maar een vast team dat jou en je organisatie begrijpt.<br>Of je nu ZZP’er bent of een groter bedrijf runt, wij leveren maatwerk en zorgen dat je telefonie precies aansluit bij jouw manier van werken."
 
 bgimg:
   image: /v1756215818/advocaat_blurred_iq7o3n.png
