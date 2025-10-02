@@ -44,7 +44,7 @@ bgimg2:
       text: Neem contact met ons op
   right:
     title: ' '
-    text: "✔ <b>Flexibiliteit & maatwerk</b><br>Voor iedere organisatie, van ZZP'ers,  MKB'ers tot grotere bedrijven – kunnen wij de dienstverlening aanpassen. Schaalbaar, met of zonder hardware, met of zonder extra features (wachtrij, keuzemenu, voicemail, etc.).<br><br>✔ <b>Gebruiksgemak & slimme functies</b><br>Denk aan: bellen via een app, integratie met jouw CRM, doorverbinden, tijdscondities, keuzemenu’s, wachtrijen, gespreksopname, mobiele bereikbaarheid onder je vaste nummer. 
+    text: "<br>✔ <b>Flexibiliteit & maatwerk</b><br>Voor iedere organisatie, van ZZP'ers,  MKB'ers tot grotere bedrijven – kunnen wij de dienstverlening aanpassen. Schaalbaar, met of zonder hardware, met of zonder extra features (wachtrij, keuzemenu, voicemail, etc.).<br><br>✔ <b>Gebruiksgemak & slimme functies</b><br>Denk aan: bellen via een app, integratie met jouw CRM, doorverbinden, tijdscondities, keuzemenu’s, wachtrijen, gespreksopname, mobiele bereikbaarheid onder je vaste nummer. 
 Zo blijf je professioneel en bereikbaar, zelfs als je onderweg of thuis werkt."
 
 cta:
