@@ -14,7 +14,7 @@
 
         <!-- Signer -->
         {{ with .signer }}
-        <div style="color: #333333; font-weight: 500; margin-top: 0.25rem;">— {{ . }}</div>
+        <div style="color: #333333; font-weight: 500; margin-top: 0.25rem;">— {{ . | markdownify }}</div>
         {{ end }}
       </div>
     </div>
