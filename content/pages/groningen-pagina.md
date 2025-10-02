@@ -7,27 +7,27 @@ logos: false
 url: "/groningen"
 hero:
   title: Zakelijke telefonie & VoIP in Groningen
-  content: 'Ben je een Groningse ondernemer of heb je een bedrijf in Groningen? En zoek je een betrouwbare telefonieoplossing?<br>Maak dan kennis met Callvoip. Gevestigd in Groningen stad (Koldingweg) en wij helpen ondernemers in Stad én provincie met slimme, schaalbare en betaalbare Telefonie-oplossingen.<br><br>Wij zorgen ervoor dat je altijd professioneel bereikbaar bent, zonder gedoe.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
+  content: 'Ben je een Groningse ondernemer of heb je een bedrijf in Groningen? En zoek je een betrouwbare telefonieoplossing?<br>Maak dan kennis met Callvoip. Gevestigd in Groningen stad (Koldingweg) en wij helpen ondernemers in Stad én provincie met slimme, schaalbare en betaalbare Telefonie-oplossingen.<br><br>Wij zorgen ervoor dat je altijd professioneel bereikbaar bent, zonder gedoe.<br><a href="/contact" class="button">Eem contact opneme?'
   image: "/v1756206339/groningen_g540vk.png"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
 
 quoteReview1:
-  text: <img src="https://res.cloudinary.com/callvoip/image/upload/v1759389960/miss_blanche_ubshwq.png" style="float:right; padding-left:10px;">Wij hebben sinds kort een koppeling met ons PMS (Mews) en herkennen nu elke inkomende call en die koppelen we direct aan een gastenprofiel. Dit werkt geweldig en voorkomt veel verwarring met buitenlandse bellers. Een klein detail die dagelijks veel impact maakt. De support was geweldig en Marieke heeft uitgebreid de tijd genomen om de software te installeren op al onze werkplekken!
-  signer: Bjorn Gerrits, Hotel Miss Blanche / Café de Sigaar
+  text: <a href="https://hotelmissblanche.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1759389960/miss_blanche_ubshwq.png" style="float:right; padding-left:10px;"></a>Wij hebben sinds kort een koppeling met ons PMS (Mews) en herkennen nu elke inkomende call en die koppelen we direct aan een gastenprofiel. Dit werkt geweldig en voorkomt veel verwarring met buitenlandse bellers. Een klein detail die dagelijks veel impact maakt. De support was geweldig en Marieke heeft uitgebreid de tijd genomen om de software te installeren op al onze werkplekken!
+  signer: Bjorn Gerrits, <a href="https://hotelmissblanche.nl/" target="_blank">Hotel Miss Blanche / Café de Sigaar</a>
 
 usps1:
   title: 'Waarom kiezen Groningse bedrijven voor Callvoip?'
   content: "Steeds meer bedrijven in Groningen stappen over naar Callvoip. Dat komt omdat we dichtbij zitten, meedenken en snel schakelen. Bij vragen krijg je geen anoniem callcenter aan de lijn, maar een vast team dat jou en je organisatie begrijpt. Of je nu ZZP’er bent of een groter bedrijf runt, wij leveren maatwerk en zorgen dat je telefonie precies aansluit bij jouw manier van werken.<br><br>Of je nu een winkel of restaurant in de binnenstad hebt, een zorgpraktijk runt of een bedrijf met meerdere vestigingen hebt: Callvoip groeit met je mee. <br>Extra gebruikers toevoegen, functies aanpassen of je telefonie uitbreiden? Dat regel je eenvoudig. Alles is schaalbaar en flexibel, zodat je nooit betaalt voor wat je niet gebruikt."
 
 quoteReview2:
-  text: <img src="https://res.cloudinary.com/callvoip/image/upload/v1759389961/dichtbij_3_ogfdbl.png" style="float:left; padding-right:10px; height:150px;">Wij als Coöperatie Dichtbij werken met Callvoip omdat hun telefoniesysteem flexibel en gebruiksvriendelijk is. We kunnen zelf eenvoudig instellingen aanpassen, zien precies op welk nummer er gebeld wordt en gesprekken makkelijk doorschakelen naar onze collega's. De e-mailnotificaties zijn erg handig en dankzij de service weten we dat we altijd snel geholpen worden, ook bij spoed.
-  signer: Brigitte Braam, Coöperatie Dichtbij U.A.
+  text: <a href="https://www.cooperatiedichtbij.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1759389961/dichtbij_3_ogfdbl.png" style="float:left; padding-right:10px; height:150px;"></a>Wij als Coöperatie Dichtbij werken met Callvoip omdat hun telefoniesysteem flexibel en gebruiksvriendelijk is. We kunnen zelf eenvoudig instellingen aanpassen, zien precies op welk nummer er gebeld wordt en gesprekken makkelijk doorschakelen naar onze collega's. De e-mailnotificaties zijn erg handig en dankzij de service weten we dat we altijd snel geholpen worden, ook bij spoed.
+  signer: Brigitte Braam, <a href="https://www.cooperatiedichtbij.nl/" target="_blank">Coöperatie Dichtbij U.A.</a>
 
 quoteReview3:
-  text: <img src="https://res.cloudinary.com/callvoip/image/upload/v1759389960/di_stefano_ameuj8.png" style="float:right; padding-left:10px;">Callvoip is een top bedrijf! De mensen die er werken denken altijd met je mee en ondersteunen je waar het kan. Het is fijn dat je een goed werkende telefoon hebt en daarnaast altijd een backup hebt door middel van een koppeling naar je mobiele telefoon voor het geval dat er een internet of stroomstoring is. Ook werken er lieve mensen bij callvoip waar je graag een telefoontje mee pleegt!
-  signer: Steef Stalman, Pizzaria Di Stefano
+  text: <a href="https://www.pizzeriadistefano.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1759389960/di_stefano_ameuj8.png" style="float:right; padding-left:10px;"></a>Callvoip is een top bedrijf! De mensen die er werken denken altijd met je mee en ondersteunen je waar het kan. Het is fijn dat je een goed werkende telefoon hebt en daarnaast altijd een backup hebt door middel van een koppeling naar je mobiele telefoon voor het geval dat er een internet of stroomstoring is. Ook werken er lieve mensen bij callvoip waar je graag een telefoontje mee pleegt!
+  signer: Steef Stalman, <a href="https://www.pizzeriadistefano.nl/" target="_blank">Pizzaria Di Stefano</a>
 
 bgimg2:
   image: /v1756215818/groningen-breed-blurred-light_z058sf.png
@@ -36,7 +36,7 @@ bgimg2:
     text:
       - '✔ <b>Lokaal aanwezig & snel te bereiken</b><br>Omdat wij zelf in Groningen zitten, kennen we de regio, de infrastructuur én zijn we fysiek bereikbaar als dat nodig is. Mocht je willen, kun je ons zelfs bezoeken.<br><br>✔ <b>Persoonlijke service met regionaal karakter</b><br>Geen anoniem callcenter maar mensen die luisteren, meedenken en jouw branche begrijpen. Service zoals je van een Gronings bedrijf mag verwachten: direct, betrokken, geen gedoe.<br><br>✔ <b>Alles onder één dak: telefonie, internet, apparatuur</b><br>Jij hoeft niet bij verschillende leveranciers aan te kloppen. Callvoip verzorgt de telefooncentrale, maar ook (indien gewenst) internetverbindingen, routers, IP-toestellen, headsets etc. Alles wat je nodig hebt voor goede bereikbaarheid.'
     link: 
-      url: /terugbellen
+      url: /contact
       text: Neem contact met ons op
   right:
     title: ' '
