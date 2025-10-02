@@ -7,7 +7,8 @@ logos: false
 url: "/groningen"
 hero:
   title: Zakelijke telefonie & VoIP in Groningen
-  content: "Ben je een Groningse ondernemer of heb je een bedrijf in Groningen? En zoek je een betrouwbare telefonieoplossing?<br>Maak dan kennis met Callvoip. Gevestigd in Groningen stad (Koldingweg) en wij helpen ondernemers in Stad én provincie met slimme, schaalbare en betaalbare Telefonie-oplossingen.<br><br>Wij zorgen ervoor dat je altijd professioneel bereikbaar bent, zonder gedoe.<br><br><b>Eem bell'n?</b><br><a href="tel:+31508200000">050 – 820 00 00</a>"
+  content: |
+  Ben je een Groningse ondernemer of heb je een bedrijf in Groningen? En zoek je een betrouwbare telefonieoplossing?<br>Maak dan kennis met Callvoip. Gevestigd in Groningen stad (Koldingweg) en wij helpen ondernemers in Stad én provincie met slimme, schaalbare en betaalbare Telefonie-oplossingen.<br><br>Wij zorgen ervoor dat je altijd professioneel bereikbaar bent, zonder gedoe.<br><br><b>Eem bell'n?</b><br><a href="tel:+31508200000">050 – 820 00 00</a>
   image: "/v1756206339/groningen_g540vk.png"
   zooming: false
   image_position: center
