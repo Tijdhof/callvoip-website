@@ -20,8 +20,8 @@
 
 {{ with .right }}
 <div class="space-y-6">
-    <p class="text-xl font-bold lg:w-5/5">{{.bold | markdownify}}</p>
-    <p class="lg:w-4/5">{{.text | markdownify }}</p>
+    <h4 class="text-lg lg:text-2xl font-bold">{{.bold | markdownify}}</h4>
+    <p class="font-medium leading-large lg:w-4/5">{{.text | markdownify }}</p>
 </div>
 {{ end }}
     </div>
