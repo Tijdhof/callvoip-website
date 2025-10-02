@@ -13,23 +13,23 @@ hero:
   image_position: center
   disable_image_on_mobile: false
 
-quoteReview:
+quoteReview1:
   text: Wij hebben sinds kort een koppeling met ons PMS (Mews) en herkennen nu elke inkomende call en die koppelen we direct aan een gastenprofiel. Dit werkt geweldig en voorkomt veel verwarring met buitenlandse bellers. Een klein detail die dagelijks veel impact maakt. De support was geweldig en Marieke heeft uitgebreid de tijd genomen om de software te installeren op al onze werkplekken!
   signer: Bjorn Gerrits, Hotel Miss Blanche / Café de Sigaar
 
-usps:
+usps1:
   title: 'Waarom kiezen Groningse ondernemers voor Callvoip?'
   content: "Steeds meer bedrijven in Groningen stappen over naar Callvoip. Dat komt omdat we dichtbij zitten, meedenken en snel schakelen. Bij vragen krijg je geen anoniem callcenter aan de lijn, maar een vast team dat jou en je organisatie begrijpt. Of je nu ZZP’er bent of een groter bedrijf runt, wij leveren maatwerk en zorgen dat je telefonie precies aansluit bij jouw manier van werken."
 
-quoteReview:
+quoteReview2:
   text: Wij als Coöperatie Dichtbij werken met Callvoip omdat hun telefoniesysteem flexibel en gebruiksvriendelijk is. We kunnen zelf eenvoudig instellingen aanpassen, zien precies op welk nummer er gebeld wordt en gesprekken makkelijk doorschakelen naar onze collega's. De e-mailnotificaties zijn erg handig en dankzij de service weten we dat we altijd snel geholpen worden, ook bij spoed.
   signer: Brigitte Braam, Coöperatie Dichtbij U.A.
 
-usps:
+usps2:
   title: 'Voor iedere ondernemer in Groningen'
   content: "Of je nu een winkel of restaurant in de binnenstad hebt, een zorgpraktijk runt of een bedrijf met meerdere vestigingen hebt: Callvoip groeit met je mee. <br>Extra gebruikers toevoegen, functies aanpassen of je telefonie uitbreiden? Dat regel je eenvoudig. Alles is schaalbaar en flexibel, zodat je nooit betaalt voor wat je niet gebruikt."
 
-quoteReview:
+quoteReview3:
   text: Callvoip is een top bedrijf! De mensen die er werken denken altijd met je mee en ondersteunen je waar het kan. Het is fijn dat je een goed werkende telefoon hebt en daarnaast altijd een backup hebt door middel van een koppeling naar je mobiele telefoon voor het geval dat er een internet of stroomstoring is. Ook werken er lieve mensen bij callvoip waar je graag een telefoontje mee pleegt!
   signer: Steef Stalman, Pizzaria Di Stefano
 
