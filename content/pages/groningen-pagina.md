@@ -40,10 +40,9 @@ bgimg:
     text:
       - '✔ <b>Lokaal aanwezig & snel te bereiken</b><br>Omdat wij zelf in Groningen zitten, kennen we de regio, de infrastructuur én zijn we fysiek bereikbaar als dat nodig is. Mocht je willen, kun je ons zelfs bezoeken.<br><br>✔ <b>Persoonlijke service met regionaal karakter</b><br>Geen anoniem callcenter maar mensen die luisteren, meedenken en jouw branche begrijpen. Service zoals je van een Gronings bedrijf mag verwachten: direct, betrokken, geen gedoe.<br><br>✔ <b>Alles onder één dak: telefonie, internet, apparatuur</b><br>Jij hoeft niet bij verschillende leveranciers aan te kloppen. Callvoip verzorgt de telefooncentrale, maar ook (indien gewenst) internetverbindingen, routers, IP-toestellen, headsets etc. Alles wat je nodig hebt voor goede bereikbaarheid.'
     link: 
-      url: /marketplace
-      text: Bekijk ons CRM-koppeling aanbod
+      url: /terugbellen
+      text: Neem contact met ons op
   right: 
-    bold: 'Waarom Groningse ondernemers kiezen voor Callvoip'
     text: "✔ <b>Flexibiliteit & maatwerk</b><br>Voor iedere organisatie, van ZZP'ers,  MKB'ers tot grotere bedrijven – kunnen wij de dienstverlening aanpassen. Schaalbaar, met of zonder hardware, met of zonder extra features (wachtrij, keuzemenu, voicemail, etc.).<br><br>✔ <b>Gebruiksgemak & slimme functies</b><br>Denk aan: bellen via een app, integratie met jouw CRM, doorverbinden, tijdscondities, keuzemenu’s, wachtrijen, gespreksopname, mobiele bereikbaarheid onder je vaste nummer. 
 Zo blijf je professioneel en bereikbaar, zelfs als je onderweg of thuis werkt."
 
@@ -51,8 +50,8 @@ cta:
   title: Eenvoudig overstappen naar Callvoip
   right: 
     text:
-      - 'Klant worden bij Callvoip is heel eenvoudig. Wij regelen de overstap, nemen je huidige nummers over en richten je telefonie volledig in.<br>Van vaste toestellen tot apps en koppelingen met systemen: alles wordt werkend opgeleverd.'
-      - 'Natuurlijk helpen we je persoonlijk op weg en blijven we bereikbaar voor support. Zo heb je er zelf nauwelijks werk van.<br>Wil je weten wat Callvoip voor jouw bedrijf kan betekenen? Bel ons op 050-820 0000 of stuur een mail naar callvoip@callvoip.nl.<br>We plannen graag een gesprek in.'
+      - Bij Callvoip begeleiden we jouw overstap van begin tot eind. Zo heb je de zekerheid dat alles naadloos in elkaar overloopt en blijf je altijd bereikbaar.<br>Desgewenst helpen we je met het instellen van je belplan, het instellen van voicemailberichten en wachtrijen. Ook zorgen we (uiteraard) voor nummerbehoud en kunnen we de juiste toestellen leveren.
+      - Je krijgt een vaste contactpersoon en directe ondersteuning. En als je belt, dan krijg je direct een medewerker aan de lijn.
   left:
     img: v1756198496/IMG_3259_bqlxmm.jpg
     options:
@@ -63,7 +62,7 @@ cta:
     links:
       - url: /contact/
         text: Neem contact op per e-mail
-      - url: /
+      - url: /terugbellen
         text: Terugbelverzoek
 
 images: []
