@@ -148,7 +148,7 @@ cta:
     links:
       - url: /contact/
         text: Neem contact op per e-mail
-      - url: /
+      - url: /terugbellen
         text: Terugbelverzoek
 
 images: []
