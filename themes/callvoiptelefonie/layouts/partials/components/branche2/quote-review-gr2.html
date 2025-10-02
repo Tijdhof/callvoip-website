@@ -1,0 +1,23 @@
+{{ with .Params.quoteReview2 }}
+<div class="w-full">
+  <div class="max-w-screen-xl mx-auto px-4 py-2">
+    <div class="flex items-start gap-3">
+      <!-- Big quote mark -->
+      <div class="font-serif flex-shrink-0" style="font-size: 8rem; line-height: 1; color: #746d69;">“</div>
+
+      <!-- Review + signer -->
+      <div>
+        <!-- Review text -->
+        <div style="font-size: 1.65rem; font-weight: 600; font-style: italic; color: #746d69;">
+          {{ .text | markdownify }}
+        </div>
+
+        <!-- Signer -->
+        {{ with .signer }}
+        <div style="color: #333333; font-weight: 500; margin-top: 0.25rem;">— {{ . }}</div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
