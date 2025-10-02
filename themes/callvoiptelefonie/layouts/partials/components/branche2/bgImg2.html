@@ -1,0 +1,30 @@
+{{ with .Params.bgimg }}
+<div class="relative my-8">
+    <img src="{{ $.Site.Params.cloudinary_base_url }}/c_scale,f_auto,q_auto/{{.image}}" alt="ignore" aria-hidden="true"
+        class="absolute inset-0 w-full h-full object-cover"
+        style="mask-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3))">
+    <div class="container px-4 md:py-8 lg:py-16 grid lg:grid-cols-2 gap-x-8 relative">
+        {{ with .left }}
+        <div class="space-y-6">
+            {{ with .title }}
+            <h4 class="text-lg lg:text-2xl font-bold">{{ . }}</h4>
+            {{ end }}
+            {{ range .text }}
+            <p class="font-medium leading-large">{{ . | markdownify }} </p>
+            {{ end }}
+            {{ with .link }}
+            <p><a href="{{.url}}" class="button">{{ .text }}</a></p>
+            {{ end }}
+        </div>
+        {{ end }}
+{{ with .right }}
+<div class="space-y-4 flex justify-center flex-col">
+    <p class="text-xl font-bold lg:w-5/5">{{.bold | markdownify}}</p>
+    <p class="lg:w-4/5">{{.text | markdownify }}</p>
+</div>
+{{ end }}
+    </div>
+</div>
+
+{{ end }}
+
