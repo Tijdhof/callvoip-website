@@ -20,7 +20,7 @@ quoteReview:
 usps:
   title: <div id="1">Handig voor jou als Franchiser:</div>
   content: Het hart van jouw telefonie is onze online centrale. En die kan een aantal
-    erg handige zaken voor elke retailer. Denk hierbij aan een geavanceerde
+    erg handige zaken voor alle franchisenemers. Denk hierbij aan een geavanceerde
     wachtrij voor de piekmomenten. Of de mogelijkheid om voor elke gelegenheid je
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
