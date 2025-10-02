@@ -33,7 +33,7 @@ quoteReview3:
   text: Callvoip is een top bedrijf! De mensen die er werken denken altijd met je mee en ondersteunen je waar het kan. Het is fijn dat je een goed werkende telefoon hebt en daarnaast altijd een backup hebt door middel van een koppeling naar je mobiele telefoon voor het geval dat er een internet of stroomstoring is. Ook werken er lieve mensen bij callvoip waar je graag een telefoontje mee pleegt!
   signer: Steef Stalman, Pizzaria Di Stefano
 
-bgimg:
+bgimg2:
   image: /v1756215818/groningen-breed-blurred-light_z058sf.png
   left:
     title: Waarom Groningse ondernemers kiezen voor Callvoip
