@@ -7,16 +7,12 @@ logos: false
 url: "/branches/verloskundigen/"
 hero:
   title: Altijd professioneel bereikbaar, zonder zorgen
-  content: 'Telefonie voor een verloskundigenpraktijk vraagt om oplossingen die passen bij de praktijk. Spoedzorg betekent dat je altijd bereikbaar moet zijn, met hoge uptime en flexibele doorschakelingen. Met Callvoip stel je eenvoudig in welke verloskundige de spoeddienst heeft, rechtstreeks via de Qaller smartphone-app. Zo regel je dit altijd snel en goed, of werk je met een vooraf ingesteld rooster. Ook buiten spreekuren blijf je bereikbaar: cliënten krijgen via een voorloopbandje duidelijk te horen wat wél of niet spoed is, zodat je niet onnodig uit bed wordt gebeld.
+  content: 'Telefonie voor een verloskundigenpraktijk vraagt om oplossingen die passen bij de praktijk. Spoedzorg betekent dat je altijd bereikbaar moet zijn, met hoge uptime en flexibele doorschakelingen. Met Callvoip stel je eenvoudig in welke verloskundige de spoeddienst heeft, rechtstreeks via de <a href="https://www.callvoip.nl/telefonie/qaller/" target="_blank">Qaller smartphone-app</a>. Zo regel je dit altijd snel en goed, of werk je met een vooraf ingesteld rooster. Ook buiten spreekuren blijf je bereikbaar: cliënten krijgen via een voorloopbandje duidelijk te horen wat wél of niet spoed is, zodat je niet onnodig uit bed wordt gebeld.
 Daarnaast bieden we veilige en privacyvriendelijke telefonie, speciaal voor de medische sector. Of je nu werkt vanuit de praktijk, onderweg bent of thuis: je kunt altijd met het praktijknummer uitbellen en inkomende gesprekken professioneel afhandelen.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
-  image: "/v1756206339/franchise_fcat4m.png"
+  image: "/v1756206339/verloskundige_df4dka.png"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
-
-quoteReview:
-  text: We kunnen nu de tijd nemen om onze klanten goed te helpen, zoals we graag willen.
-  signer: Sám, EP Zijlstra, Heerlerheide 
   
 usps:
   title: <div id="1">Handig voor jou als verloskundigen:</div>
@@ -29,7 +25,7 @@ usps:
     title: Spoednummer
     content: Het spoednummer is altijd bereikbaar. Stel eenvoudig in wie bereikbaar is.
     link: 
-      url: /marketplace
+      url: /telefonie/piketnummer/
       text: Lees meer
   - icon: fa-users
     title: 'Meerdere vestigingen, 1 nummer?'
@@ -79,7 +75,7 @@ bottom:
 - title1: ''
   content1: <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">Wat kost het?</h2>
     <p class="text-sm">We houden het graag duidelijk. Geen ingewikkelde pakketten, maar een overzichtelijk model dat meegroeit met je bedrijf. Al vanaf €34,50 per maand ben je professioneel bereikbaar met Callvoip.</p>
-    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een retailer.</p>
+    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een verloskundigenpraktijk.</p>
     <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
     kostenoverzicht per bedrijf per maand </div> <div class="px-6 clearfix"> <div
