@@ -81,7 +81,7 @@ bottom:
 - title1: ''
   content1: <h2 class="text-3xl lg:text-4xl font-medium mb-4 md:mb-6 leading-tight">Wat kost het?</h2>
     <p class="text-sm">We houden het graag duidelijk. Geen ingewikkelde pakketten, maar een overzichtelijk model dat meegroeit met je bedrijf. Al vanaf €34,50 per maand ben je professioneel bereikbaar met Callvoip.</p>
-    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een retailer.</p>
+    <p class="text-sm">Hieronder vind je een indicatie van een veelvoorkomende opzet bij een van de locaties.</p>
     <div class="bg-grey-lightest rounded-lg shadow"> <div class="uppercase
     px-6 py-4 font-medium opacity-75  border-b border-grey-light mb-4"> Indicatie
     kostenoverzicht per bedrijf per maand </div> <div class="px-6 clearfix"> <div
