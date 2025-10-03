@@ -51,18 +51,18 @@ usps:
     link: 
       url: /telefonie/functionaliteiten/meldtekst
       text: Lees meer
-  - icon_url: https://cdn-icons-png.flaticon.com/128/17807/17807797.png
+  - icon_url: none
     title: Mis je iets?
     content: We bellen je om samen je eigen centrale in te richten. Weten wat er nog meer mogelijk is?
     link: 
       url: /contact/
       text: Lees meer
 bgimg:
-  image: /v1756215818/retailer2_yt39tq.png
+  image: /v1756215818/mother-holding-feet-baby-blurred_evaxwi.png
   left:
     title: Koppel jouw planningsoftware met onze telefonie!
     text:
-      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw kassasysteem of klantCRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup bij elk gesprek.
+      - Iedereen werkt natuurlijk graag zo efficiënt mogelijk. Wat daar echt aan bijdraagt is het koppelen van jouw planningsoftware of CRM met onze telefonie. Met zo’n koppeling verschijnt op je computer een popup bij elk gesprek.
       - Met 1 klik open je de bijbehorende gegevens in jouw pakket. Neem contact met ons op voor de mogelijkheden.
     link: 
       url: /marketplace
