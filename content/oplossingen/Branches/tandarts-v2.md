@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor tandartsen
-description: Verbeter de bereikbaarheid van je tandartspraktijk. Callvoip levert integraties met praktijksoftware, een wachtrij, keuzemenu’s, spoednummers en meer via VOIP.
+description: Verbeter de bereikbaarheid van je tandartspraktijk. Callvoip levert integraties met praktijksoftware, een wachtrij, keuzemenu’s, spoednummers en meer via VoIP.
 type: page
 layout: branche2
 logos: false
