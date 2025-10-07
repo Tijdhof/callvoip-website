@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Verloskundigen 
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+description: Veilige VoIP-telefonie voor verloskundigenpraktijken. Altijd professioneel bereikbaar met spoedopties en flexibele doorschakelingen.
 type: page
 layout: branche2
 logos: false
