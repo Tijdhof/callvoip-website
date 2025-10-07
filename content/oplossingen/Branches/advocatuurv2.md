@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Advocaten
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+description: 'Telefonie specifiek voor advocaten: altijd professioneel bereikbaar met een slimme cloud-oplossing, CRM-koppeling, fax mogelijkheden en support van Callvoip.'
 type: page
 layout: branche2
 logos: false
