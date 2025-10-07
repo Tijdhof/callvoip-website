@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Franchisenemers 
-description: 'Telefonie voor franchises: flexibel, professionele  koppelingen met kassasystemen. En schaalbaar, voor elk filiaal een los nummer of juist alles onder 1 nummer.'
+description: 'Telefonie voor franchisen: flexibel, professionele  koppelingen met kassasystemen. En schaalbaar, voor elk filiaal een los nummer of juist alles onder 1 nummer.'
 type: page
 layout: branche2
 logos: false
