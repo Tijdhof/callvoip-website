@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Franchisenemers 
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+description: 'Telefonie voor franchises: flexibel, professionele  koppelingen met kassasystemen. En schaalbaar, voor elk filiaal een los nummer of juist alles onder 1 nummer.'
 type: page
 layout: branche2
 logos: false
