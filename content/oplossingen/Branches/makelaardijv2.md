@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Makelaars
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+description: 'Telefonie voor makelaars: flexibel en professioneel. Bereikbaar op je zakelijke nummer via je eigen mobiel. En met slimme CRM-integraties zoals Realworks en meer'
 type: page
 layout: branche2
 logos: false
