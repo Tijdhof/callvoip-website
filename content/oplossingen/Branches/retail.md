@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Retailers
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+description: Slimme VoIP-telefonie voor retailers. Altijd bereikbaar met de mobiele app of de wachtrij functie. En bespaar tijd met de kassasystemen en CRM integraties.
 type: page
 layout: branche2
 logos: false
