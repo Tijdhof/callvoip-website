@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor tandartsen
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+description: Verbeter de bereikbaarheid van je tandartspraktijk. Callvoip levert integraties met praktijksoftware, een wachtrij, keuzemenu’s, spoednummers en meer via VOIP.
 type: page
 layout: branche2
 logos: false
