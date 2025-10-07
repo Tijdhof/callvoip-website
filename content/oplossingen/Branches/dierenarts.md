@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor Dierenartsen
-description: Alle mogelijkheden om jouw VoIP telefonie te koppelen. Van Chrome integratie tot volledige koppeling met jouw CRM.
+description: Professionele telefonie voor dierenartsenpraktijken. Betrouwbaar, flexibel en gericht op optimale bereikbaarheid. Zoals spoednummers of slimme CRM koppelingen.
 type: page
 layout: branche2
 logos: false
