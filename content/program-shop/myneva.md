@@ -65,12 +65,9 @@ Als gebruiker kun je de te vertonen pop-up volledig zelf ontwerpen. <br>
 Je kunt dan de klantgegevens uit Myneva gebruiken, denk hierbij aan gegevens zoals: <br>
 <iframe style="float:right;" width="560" height="315" src="https://www.youtube.com/embed/FnfKlULG3SA?si=JafrxumUWbQZJ4gb&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 • Telefoonnummer thuis<br>
-• Klantnummer<br>
-• Naam van de klant<br>
-• E-mailadres van de klant<br>
-• Kenteken<br>
-• APK vervaldatum<br>
-• Automerk/model/uitvoering <br>
+• Dossiernummer<br>
+• Naam van de patiënt<br>
+• E-mailadres van de patiënt<br>
 • etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
