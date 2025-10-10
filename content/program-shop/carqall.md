@@ -34,10 +34,10 @@ headerside:
 CarQall: Digital assistent Max neemt altijd de telefoon op. Hij registreert bellers en plant fysieke en telefonische afspraken in voor sales en werkplaats. Ook buiten kantooruren.**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip Car System Software CarQall telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM pakket CarQall. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in CarQall staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip CarQall telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM pakket CarQall. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in CarQall staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit CarQall Car Software en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit CarQall en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
 <li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
