@@ -41,6 +41,7 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      <b>10-10-2025 13:30</b> - De CDR-dienst is hersteld en functioneert zoals verwacht. Alle diensten werken nu normaal.<br>
       <b>10-10-2025 12:40</b> - Alle diensten functioneren nu normaal, met uitzondering van de CDR-dienst. Onze technici werken nog steeds aan het volledig herstellen van deze functionaliteit.<br><br>
       <b>10-10-2025 11:05 - We hebben een probleem vastgesteld in een van onze datacenters dat onderbrekingen heeft veroorzaakt voor meerdere diensten.</b><br>
       De meeste diensten zijn inmiddels automatisch overgeschakeld naar een ander datacenter of zullen dat binnenkort doen. Onze technici zijn momenteel bezig met het volledig herstellen van de stabiliteit van het platform.<br><br>We blijven de situatie nauwlettend volgen en zullen een nieuwe update geven zodra de volledige stabiliteit is bevestigd.
