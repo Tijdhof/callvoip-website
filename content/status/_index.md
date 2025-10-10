@@ -41,8 +41,8 @@ tests:
   - title: Meldingen
     error: false
     text: >-
-      <b>Momenteel ervaren wij een storing met onze dienst</b>
-      Er wordt momenteel gewerkt aan een oplossing.
+      <b>We hebben een probleem vastgesteld in een van onze datacenters dat onderbrekingen heeft veroorzaakt voor meerdere diensten.</b><br>
+      De meeste diensten zijn inmiddels automatisch overgeschakeld naar een ander datacenter of zullen dat binnenkort doen. Onze technici zijn momenteel bezig met het volledig herstellen van de stabiliteit van het platform.<br><br>We blijven de situatie nauwlettend volgen en zullen een nieuwe update geven zodra de volledige stabiliteit is bevestigd.
 
     
       <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
