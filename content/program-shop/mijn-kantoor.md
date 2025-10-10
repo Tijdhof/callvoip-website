@@ -34,10 +34,10 @@ headerside:
 Mijn Kantoor: bewaar het overzicht van alle activiteiten en klantdossiers en maak je nooit meer zorgen over compliance. De enige software gebouwd door accountants, voor accountants.**<br>
 <br>
 **Samenvatting**<br>
-Met de Callvoip Car System Software Mijn Kantoor telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM pakket Mijn Kantoor. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Mijn Kantoor staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
+Met de Callvoip  Mijn Kantoor telefoonconnector beschik je over een slimme koppeling tussen telefonie van Callvoip en CRM pakket Mijn Kantoor. Deze koppeling biedt een waardevolle toevoeging aan al het telefoonverkeer, zowel bij inkomende gesprekken die in Mijn Kantoor staan, als bellers die er niet instaan, én maakt het mogelijk om elk telefoonnummer met één klik automatisch te bellen! Let maar op: al na een halve dag wil je dit gemak en comfort niet meer missen, en kun je nog meer tijd besteden aan je échte werkzaamheden!<br>
 <br>
 **Inkomende gesprekken**<br>
-Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Mijn Kantoor Car Software en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
+Bij elke inkomende en/of uitgaande oproep verschijnt direct een pop-up in het beeldscherm van je PC met de klantinformatie vanuit Mijn Kantoor en kun je direct de klantkaart openen. De popup heeft een aantal unieke eigenschappen: <br>
 <div class="usp-list">
 <ul>
 <li>Popup met nummer van de beller, klantgegevens uit CRM en handige gespreksduur-timer.</li>
@@ -68,9 +68,7 @@ Je kunt dan de klantgegevens uit Mijn Kantoor gebruiken, denk hierbij aan gegeve
 • Klantnummer<br>
 • Naam van de klant<br>
 • E-mailadres van de klant<br>
-• Kenteken<br>
-• APK vervaldatum<br>
-• Automerk/model/uitvoering <br>
+• Dossier<br>
 • etc.<br>
 <br>
 Naast bovenstaande gegevens in je pop-up kun je tot 4 knoppen aanmaken in de pop-up om direct de juiste actie uit te voeren tijdens een telefoongesprek. <br>
