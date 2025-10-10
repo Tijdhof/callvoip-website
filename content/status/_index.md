@@ -13,7 +13,7 @@ items:
   - title: Online telefooncentrale
     status: true
   - title: Inkomende gesprekken
-    status: true
+    status: false
   - title: Uitgaande gesprekken
     status: true
   - title: (Extern) Doorschakelen
@@ -41,6 +41,10 @@ tests:
   - title: Meldingen
     error: false
     text: >-
+      <b>Momenteel ervaren wij een storing met onze dienst</b>
+      Er wordt momenteel gewerkt aan een oplossing.
+
+    
       <br><b>Inloggen op webcalls / telefooncentrale: installeer alle 3
       inlogmethoden</b><br>\
 
