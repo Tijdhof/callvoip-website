@@ -48,7 +48,7 @@ quoteReview4:
   signer: Albert Jonker, <a href="https://rijschoolcity.nl/" target="_blank">Verkeersschool City B.V.</a>
 
 quoteReview5:
-  text: '<a href="https://smitgroningen.nl/" target="_blank"><img src="https://smitgroningen.nl/wp-content/uploads/smit_gereedschap_ijzerwaren_groningen_logo.png" style="float:left; padding-right:10px;"></a>Mogelijkheden zijn eindeloos met Callvoip.<br>Eindeloze mogelijkheden in telecommunicatie, stabiele en heldere verbindingen, korte lijntjes met medewerkers, direct contact met medewerkers, geen lange wachttijden, totale concept service, mogelijkheden en randapparatuur, vriendelijke service maar vooral oplossingsgericht. Randapparatuur via ethernet, dus overal inzetbaar zonder veel aanpassingen.<br>Ik ben 110% vaste gebruiker van Callvoip.'
+  text: '<a href="https://smitgroningen.nl/" target="_blank"><img src="https://smitgroningen.nl/wp-content/uploads/smit_gereedschap_ijzerwaren_groningen_logo.png" style="float:left; padding-right:10px; height:65px;"></a>Mogelijkheden zijn eindeloos met Callvoip.<br>Eindeloze mogelijkheden in telecommunicatie, stabiele en heldere verbindingen, korte lijntjes met medewerkers, direct contact met medewerkers, geen lange wachttijden, totale concept service, mogelijkheden en randapparatuur, vriendelijke service maar vooral oplossingsgericht. Randapparatuur via ethernet, dus overal inzetbaar zonder veel aanpassingen.<br>Ik ben 110% vaste gebruiker van Callvoip.'
   signer: Marcel Smit, <a href="https://smitgroningen.nl/" target="_blank">Smit Entrance Control.</a>
 
 cta:
