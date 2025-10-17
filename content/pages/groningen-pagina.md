@@ -47,6 +47,10 @@ quoteReview4:
   text: '<a href="https://rijschoolcity.nl/" target="_blank"><img src="https://res.cloudinary.com/callvoip/image/upload/v1760691616/rijschoolcity_itqfkx.png" style="float:right; padding-left:10px;"></a>Zeer tevreden, vooral over de support!<br>Ik ben al geruime tijd klant bij Callvoip en ben nog steeds heel blij met de keuze. De systemen werken goed en zijn gebruiksvriendelijk, maar wat voor mij echt het verschil maakt is de supportafdeling. Elke keer dat ik een vraag heb of ergens niet helemaal uitkom, word ik snel, vriendelijk én deskundig geholpen. Je merkt dat ze meedenken en echt begrijpen wat je nodig hebt, dat is tegenwoordig lang niet overal vanzelfsprekend. Kortom: betrouwbare dienstverlening én een team waar je op kunt rekenen. Aanrader!'
   signer: Albert Jonker, <a href="https://rijschoolcity.nl/" target="_blank">Verkeersschool City B.V.</a>
 
+quoteReview5:
+  text: '<a href="https://smitgroningen.nl/" target="_blank"><img src="https://smitgroningen.nl/wp-content/uploads/smit_gereedschap_ijzerwaren_groningen_logo.png" style="float:left; padding-right:10px;"></a>Mogelijkheden zijn eindeloos met Callvoip.<br>Eindeloze mogelijkheden in telecommunicatie, stabiele en heldere verbindingen, korte lijntjes met medewerkers, direct contact met medewerkers, geen lange wachttijden, totale concept service, mogelijkheden en randapparatuur, vriendelijke service maar vooral oplossingsgericht. Randapparatuur via ethernet, dus overal inzetbaar zonder veel aanpassingen.<br>Ik ben 110% vaste gebruiker van Callvoip.'
+  signer: Marcel Smit, <a href="https://smitgroningen.nl/" target="_blank">Smit Entrance Control.</a>
+
 cta:
   title: Eenvoudig overstappen naar Callvoip
   right: 
