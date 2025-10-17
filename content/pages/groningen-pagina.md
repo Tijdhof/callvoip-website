@@ -43,6 +43,11 @@ bgimg2:
     text: "<br>✔ <b>Flexibiliteit & maatwerk</b><br>Voor iedere organisatie, van ZZP'ers,  MKB'ers tot grotere bedrijven – kunnen wij de dienstverlening aanpassen. Schaalbaar, met of zonder hardware, met of zonder extra features (wachtrij, keuzemenu, voicemail, etc.).<br><br>✔ <b>Gebruiksgemak & slimme functies</b><br>Denk aan: bellen via een app, integratie met jouw CRM, doorverbinden, tijdscondities, keuzemenu’s, wachtrijen, gespreksopname, mobiele bereikbaarheid onder je vaste nummer. 
 Zo blijf je professioneel en bereikbaar, zelfs als je onderweg of thuis werkt."
 
+quoteReview4:
+  text: <a href="https://rijschoolcity.nl/" target="_blank"><img src="https://rijschoolcity.nl/wp-content/uploads/2024/11/new-logo.png" style="float:right; padding-left:10px;"></a>Zeer tevreden, vooral over de support!<br>
+Ik ben al geruime tijd klant bij Callvoip en ben nog steeds heel blij met de keuze. De systemen werken goed en zijn gebruiksvriendelijk, maar wat voor mij echt het verschil maakt is de supportafdeling. Elke keer dat ik een vraag heb of ergens niet helemaal uitkom, word ik snel, vriendelijk én deskundig geholpen. Je merkt dat ze meedenken en echt begrijpen wat je nodig hebt, dat is tegenwoordig lang niet overal vanzelfsprekend. Kortom: betrouwbare dienstverlening én een team waar je op kunt rekenen. Aanrader!
+  signer: Albert Jonker, <a href="https://rijschoolcity.nl/" target="_blank">Verkeersschool City B.V.</a>
+
 cta:
   title: Eenvoudig overstappen naar Callvoip
   right: 
