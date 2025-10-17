@@ -64,11 +64,6 @@ cta:
         text: Laat mij of één van mijn collega’s je adviseren. Bel ons of plan direct een adviesgesprek.
       - heading: Marieke Timmer
         text: Business Operations
-    links:
-      - url: /contact/
-        text: Neem contact op per e-mail
-      - url: /terugbellen
-        text: Terugbelverzoek
 
 images: []
 hideinsearch: false
