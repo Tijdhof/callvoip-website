@@ -102,8 +102,8 @@
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" 
            alt="iOS Compatible Apple Logo" class="cursor-pointer"
            onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 min-w-[150px] max-w-[400px] text-center">
-        Apple (iOS) compatible – works on all iPhones and iPads.
+      <div class="tooltip hidden absolute bottom-full left-0 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 w-[400px] text-left">
+        Apple (iOS) compatible – works on all iPhones and iPads with long explanations.
       </div>
     </div>
 
@@ -112,38 +112,37 @@
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" 
            alt="Windows Compatible Logo" class="cursor-pointer"
            onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 min-w-[150px] max-w-[400px] text-center">
-        Windows compatible – works on Windows 10, 11, and other versions.
+      <div class="tooltip hidden absolute bottom-full left-0 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 w-[400px] text-left">
+        Windows compatible – works on Windows 10, 11, and other versions with longer description.
       </div>
     </div>
 
-    <!-- Cloud (optional) -->
+    <!-- Cloud -->
     {{ if .Params.cloud }}
     <div class="relative">
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" 
            alt="Cloud Compatible Logo" class="cursor-pointer"
            onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 min-w-[150px] max-w-[400px] text-center">
-        Cloud compatible – access your data from anywhere in the world.
+      <div class="tooltip hidden absolute bottom-full left-0 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 w-[400px] text-left">
+        Cloud compatible – access your data from anywhere, very long text allowed.
       </div>
     </div>
     {{ end }}
 
-    <!-- Mobile (optional) -->
+    <!-- Mobile -->
     {{ if .Params.mobile }}
     <div class="relative">
       <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" 
            alt="Mobile Phone Compatible Logo" class="cursor-pointer"
            onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 min-w-[150px] max-w-[400px] text-center">
-        Mobile phone compatible – works on all smartphones.
+      <div class="tooltip hidden absolute bottom-full left-0 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg z-50 w-[400px] text-left">
+        Mobile phone compatible – works on all smartphones, very long explanation.
       </div>
     </div>
     {{ end }}
   </div>
 </div>
 
-<!-- JS for tooltips -->
 <script>
 function showTooltip(el) {
   const tooltip = el.nextElementSibling;
@@ -154,6 +153,7 @@ function hideTooltip(el) {
   if (tooltip) tooltip.classList.add('hidden');
 }
 </script>
+
 
 
 
