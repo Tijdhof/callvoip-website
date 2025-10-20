@@ -98,29 +98,35 @@
       <tr>
         {{ with .Params.apple_logo }}{{else}}
         <td>
-          <div class="relative group inline-block">
-            <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png"
-              alt="iOS Compatible Apple Logo" class="cursor-pointer">
+          <a href="LINK_TO_MAC_INFO_OR_DOWNLOAD" class="relative group inline-block">
+            <img
+              src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png"
+              alt="macOS Logo"
+              class="cursor-pointer"
+            >
             <div
               class="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 invisible opacity-0 group-hover:visible group-hover:opacity-100 transition-opacity bg-gray-900 text-white text-xs rounded-lg px-3 py-1 whitespace-nowrap z-10">
               Desktop beschikbaar voor: MacOS
               <div class="absolute top-full left-1/2 -translate-x-1/2 w-2 h-2 bg-gray-900 rotate-45"></div>
             </div>
-          </div>
+          </a>
         </td>
         <td>&nbsp;&nbsp;</td>
         {{ end }}
         {{ with .Params.ws_logo }}{{else}}
         <td>
-          <div class="relative group inline-block">
-            <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png"
-              alt="Windows Compatible Logo" class="cursor-pointer">
+          <a href="LINK_TO_WINDOWS_INFO_OR_DOWNLOAD" class="relative group inline-block">
+            <img
+              src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png"
+              alt="Windows Logo"
+              class="cursor-pointer"
+            >
             <div
               class="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 invisible opacity-0 group-hover:visible group-hover:opacity-100 transition-opacity bg-gray-900 text-white text-xs rounded-lg px-3 py-1 whitespace-nowrap z-10">
               Desktop beschikbaar voor: Windows
               <div class="absolute top-full left-1/2 -translate-x-1/2 w-2 h-2 bg-gray-900 rotate-45"></div>
             </div>
-          </div>
+          </a>
         </td>
         {{ end }}
       </tr>
