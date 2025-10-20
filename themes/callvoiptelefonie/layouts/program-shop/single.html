@@ -91,48 +91,90 @@
                   </ul>
                 </div>
                 {{ end }}
-<div class="flex items-center space-x-4 lg:block lg:space-x-0">
+<!-- Add this right before </body> if Popper isn’t already loaded -->
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+
+<div class="flex items-center space-x-4 lg:block lg:space-x-0 relative">
   <span><b>Beschikbaar voor:</b></span>
   <table>
     <tbody>
       <tr>
-        {{ with .Params.apple_logo }}{{else}}
+        <!-- macOS -->
         <td>
-          <a href="LINK_TO_MAC_INFO_OR_DOWNLOAD" class="relative group inline-block">
+          <button id="btn-macos" type="button">
             <img
               src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png"
               alt="macOS Logo"
               class="cursor-pointer"
             >
-            <div
-              class="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 invisible opacity-0 group-hover:visible group-hover:opacity-100 transition-opacity bg-gray-900 text-white text-xs rounded-lg px-3 py-1 whitespace-nowrap z-10">
-              Desktop beschikbaar voor: MacOS
-              <div class="absolute top-full left-1/2 -translate-x-1/2 w-2 h-2 bg-gray-900 rotate-45"></div>
-            </div>
-          </a>
+          </button>
+          <div id="tooltip-macos"
+            role="tooltip"
+            class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip dark:bg-gray-700"
+          >
+            Desktop beschikbaar voor: MacOS
+            <div class="tooltip-arrow" data-popper-arrow></div>
+          </div>
         </td>
+
         <td>&nbsp;&nbsp;</td>
-        {{ end }}
-        {{ with .Params.ws_logo }}{{else}}
+
+        <!-- Windows -->
         <td>
-          <a href="LINK_TO_WINDOWS_INFO_OR_DOWNLOAD" class="relative group inline-block">
+          <button id="btn-windows" type="button">
             <img
               src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png"
               alt="Windows Logo"
               class="cursor-pointer"
             >
-            <div
-              class="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 invisible opacity-0 group-hover:visible group-hover:opacity-100 transition-opacity bg-gray-900 text-white text-xs rounded-lg px-3 py-1 whitespace-nowrap z-10">
-              Desktop beschikbaar voor: Windows
-              <div class="absolute top-full left-1/2 -translate-x-1/2 w-2 h-2 bg-gray-900 rotate-45"></div>
-            </div>
-          </a>
+          </button>
+          <div id="tooltip-windows"
+            role="tooltip"
+            class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip dark:bg-gray-700"
+          >
+            Desktop beschikbaar voor: Windows
+            <div class="tooltip-arrow" data-popper-arrow></div>
+          </div>
         </td>
-        {{ end }}
       </tr>
     </tbody>
   </table>
 </div>
+
+<script>
+  // Initialize tooltips with Popper.js
+  document.addEventListener("DOMContentLoaded", () => {
+    const createTooltip = (btnId, tooltipId) => {
+      const btn = document.getElementById(btnId);
+      const tooltip = document.getElementById(tooltipId);
+      if (!btn || !tooltip) return;
+
+      const popperInstance = Popper.createPopper(btn, tooltip, {
+        placement: 'top',
+        modifiers: [
+          { name: 'offset', options: { offset: [0, 8] } },
+        ],
+      });
+
+      function show() {
+        tooltip.classList.remove('invisible', 'opacity-0');
+        tooltip.classList.add('visible', 'opacity-100');
+        popperInstance.update();
+      }
+
+      function hide() {
+        tooltip.classList.add('invisible', 'opacity-0');
+        tooltip.classList.remove('visible', 'opacity-100');
+      }
+
+      btn.addEventListener('mouseenter', show);
+      btn.addEventListener('mouseleave', hide);
+    };
+
+    createTooltip('btn-macos', 'tooltip-macos');
+    createTooltip('btn-windows', 'tooltip-windows');
+  });
+</script>
 
               </div>
             </div>
