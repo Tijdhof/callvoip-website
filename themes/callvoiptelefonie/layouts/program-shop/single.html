@@ -91,41 +91,56 @@
                   </ul>
                 </div>
                 {{ end }}
+
 <div class="flex items-center space-x-4 lg:block lg:space-x-0">
   <span><b>Beschikbaar voor:</b></span>
   <table>
     <tbody>
       <tr>
-        <!-- Always show Apple logo -->
-        <td>
+        <!-- Apple logo -->
+        <td class="relative group">
           <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" alt="iOS Compatible Apple Logo">
+          <!-- Tooltip -->
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+            Apple (iOS) compatible
+          </span>
         </td>
         <td>&nbsp;&nbsp;</td>
 
-        <!-- Always show Windows logo -->
-        <td>
+        <!-- Windows logo -->
+        <td class="relative group">
           <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" alt="Windows Compatible Logo">
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+            Windows compatible
+          </span>
         </td>
         <td>&nbsp;&nbsp;</td>
 
-        <!-- Cloud logo: only if cloud is true -->
+        <!-- Cloud logo -->
         {{ if .Params.cloud }}
-        <td>
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760962084/cloudicon_pnabr3.png" alt="Cloud Compatible Logo">
+        <td class="relative group">
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" alt="Cloud Compatible Logo">
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+            Cloud compatible
+          </span>
         </td>
         <td>&nbsp;&nbsp;</td>
         {{ end }}
 
-        <!-- Mobile logo: only if mobile is true -->
+        <!-- Mobile logo -->
         {{ if .Params.mobile }}
-        <td>
+        <td class="relative group">
           <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" alt="Mobile Phone Compatible Logo">
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+            Mobile phone compatible
+          </span>
         </td>
         {{ end }}
       </tr>
     </tbody>
   </table>
 </div>
+
 
               </div>
             </div>
