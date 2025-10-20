@@ -92,6 +92,7 @@
                 </div>
                 {{ end }}
 
+
 <div class="flex items-center space-x-4 lg:block lg:space-x-0">
   <span><b>Beschikbaar voor:</b></span>
   <table>
@@ -100,8 +101,7 @@
         <!-- Apple logo -->
         <td class="relative group">
           <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" alt="iOS Compatible Apple Logo">
-          <!-- Tooltip -->
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
             Apple (iOS) compatible
           </span>
         </td>
@@ -110,28 +110,28 @@
         <!-- Windows logo -->
         <td class="relative group">
           <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" alt="Windows Compatible Logo">
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
             Windows compatible
           </span>
         </td>
         <td>&nbsp;&nbsp;</td>
 
-        <!-- Cloud logo -->
+        <!-- Cloud logo (optional) -->
         {{ if .Params.cloud }}
         <td class="relative group">
           <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" alt="Cloud Compatible Logo">
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
             Cloud compatible
           </span>
         </td>
         <td>&nbsp;&nbsp;</td>
         {{ end }}
 
-        <!-- Mobile logo -->
+        <!-- Mobile logo (optional) -->
         {{ if .Params.mobile }}
         <td class="relative group">
           <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" alt="Mobile Phone Compatible Logo">
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity">
+          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
             Mobile phone compatible
           </span>
         </td>
