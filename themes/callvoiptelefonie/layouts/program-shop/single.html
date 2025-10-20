@@ -93,42 +93,48 @@
                 {{ end }}
 
 
-<div class="flex items-center space-x-4 mt-2">
-  <!-- Apple -->
-  <div class="relative">
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png"
-         alt="iOS Compatible Apple Logo" class="cursor-pointer"
-         onmouseenter="showTooltipBody(this, 'Apple (iOS) compatible – works on all iPhones and iPads with long explanations.')"
-         onmouseleave="hideTooltipBody()">
-  </div>
+<div class="flex flex-col space-y-2">
+  <!-- Title above icons -->
+  <span class="font-bold">Beschikbaar voor:</span>
 
-  <!-- Windows -->
-  <div class="relative">
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png"
-         alt="Windows Compatible Logo" class="cursor-pointer"
-         onmouseenter="showTooltipBody(this, 'Windows compatible – works on Windows 10, 11, and other versions with longer description.')"
-         onmouseleave="hideTooltipBody()">
-  </div>
+  <!-- Icon row -->
+  <div class="flex items-center space-x-4 mt-1">
+    <!-- Apple -->
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png"
+           alt="iOS Compatible Apple Logo" class="cursor-pointer"
+           onmouseenter="showTooltipBody(this, 'Apple (iOS) compatible – works on all iPhones and iPads with long explanations.')"
+           onmouseleave="hideTooltipBody()">
+    </div>
 
-  <!-- Cloud -->
-  {{ if .Params.cloud }}
-  <div class="relative">
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png"
-         alt="Cloud Compatible Logo" class="cursor-pointer"
-         onmouseenter="showTooltipBody(this, 'Cloud compatible – access your data from anywhere, very long text allowed.')"
-         onmouseleave="hideTooltipBody()">
-  </div>
-  {{ end }}
+    <!-- Windows -->
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png"
+           alt="Windows Compatible Logo" class="cursor-pointer"
+           onmouseenter="showTooltipBody(this, 'Windows compatible – works on Windows 10, 11, and other versions with longer description.')"
+           onmouseleave="hideTooltipBody()">
+    </div>
 
-  <!-- Mobile -->
-  {{ if .Params.mobile }}
-  <div class="relative">
-    <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png"
-         alt="Mobile Phone Compatible Logo" class="cursor-pointer"
-         onmouseenter="showTooltipBody(this, 'Mobile phone compatible – works on all smartphones, very long explanation.')"
-         onmouseleave="hideTooltipBody()">
+    <!-- Cloud -->
+    {{ if .Params.cloud }}
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png"
+           alt="Cloud Compatible Logo" class="cursor-pointer"
+           onmouseenter="showTooltipBody(this, 'Cloud compatible – access your data from anywhere, very long text allowed.')"
+           onmouseleave="hideTooltipBody()">
+    </div>
+    {{ end }}
+
+    <!-- Mobile -->
+    {{ if .Params.mobile }}
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png"
+           alt="Mobile Phone Compatible Logo" class="cursor-pointer"
+           onmouseenter="showTooltipBody(this, 'Mobile phone compatible – works on all smartphones, very long explanation.')"
+           onmouseleave="hideTooltipBody()">
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
 </div>
 
 <!-- Tooltip appended to body -->
@@ -149,6 +155,7 @@ function hideTooltipBody() {
   tooltipEl.style.display = 'none';
 }
 </script>
+
 
 
 
