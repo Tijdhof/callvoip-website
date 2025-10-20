@@ -2,6 +2,8 @@
 shorttitle: "Accountview"
 title: "Wij koppelen jouw CRM Accountview aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/accountview.png"
 description: Door het koppelen van Accountview CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
