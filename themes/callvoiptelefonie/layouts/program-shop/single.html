@@ -91,35 +91,42 @@
                   </ul>
                 </div>
                 {{ end }}
-                <div class="flex items-center space-x-4 lg:block lg:space-x-0">
-                  <span><b>Beschikbaar voor:</b></span>
-                  <table>
-                    <tbody>
-                      <tr>
-                        {{ with .Params.apple_logo }}{{else}}
-                        <td><img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" alt="iOS Compatible Apple Logo">
-                        </td>
-                        <td>&nbsp;&nbsp;</td>
-                        {{ end }}
-                        {{ with .Params.ws_logo }}{{else}}
-                        <td><img
-                            src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" alt="Windows Compatible Logo">
-                        </td>
-                        {{ end }}
-                        {{ with .Params.cloud_logo }}{{else}}
-                        <td><img
-                            src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" alt="Cloud Compatible Logo">
-                        </td>
-                        {{ end }}
-                        {{ with .Params.mobile_logo }}{{else}}
-                        <td><img
-                            src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" alt="Mobile Phone Compatible Logo">
-                        </td>
-                        {{ end }}
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
+<div class="flex items-center space-x-4 lg:block lg:space-x-0">
+  <span><b>Beschikbaar voor:</b></span>
+  <table>
+    <tbody>
+      <tr>
+        <!-- Always show Apple logo -->
+        <td>
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" alt="iOS Compatible Apple Logo">
+        </td>
+        <td>&nbsp;&nbsp;</td>
+
+        <!-- Always show Windows logo -->
+        <td>
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" alt="Windows Compatible Logo">
+        </td>
+        <td>&nbsp;&nbsp;</td>
+
+        <!-- Cloud logo: only if cloud is true -->
+        {{ if .Params.cloud }}
+        <td>
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" alt="Cloud Compatible Logo">
+        </td>
+        <td>&nbsp;&nbsp;</td>
+        {{ end }}
+
+        <!-- Mobile logo: only if mobile is true -->
+        {{ if .Params.mobile }}
+        <td>
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" alt="Mobile Phone Compatible Logo">
+        </td>
+        {{ end }}
+      </tr>
+    </tbody>
+  </table>
+</div>
+
               </div>
             </div>
           </div>
