@@ -98,48 +98,65 @@
   <table>
     <tbody>
       <tr>
-        <!-- Apple logo -->
-        <td class="relative group">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" alt="iOS Compatible Apple Logo">
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
+        <!-- Apple logo (always shown) -->
+        <td class="relative">
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" alt="iOS Compatible Apple Logo"
+               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
             Apple (iOS) compatible
-          </span>
+          </div>
         </td>
         <td>&nbsp;&nbsp;</td>
 
-        <!-- Windows logo -->
-        <td class="relative group">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" alt="Windows Compatible Logo">
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
+        <!-- Windows logo (always shown) -->
+        <td class="relative">
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" alt="Windows Compatible Logo"
+               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
             Windows compatible
-          </span>
+          </div>
         </td>
         <td>&nbsp;&nbsp;</td>
 
         <!-- Cloud logo (optional) -->
         {{ if .Params.cloud }}
-        <td class="relative group">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" alt="Cloud Compatible Logo">
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
+        <td class="relative">
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" alt="Cloud Compatible Logo"
+               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
             Cloud compatible
-          </span>
+          </div>
         </td>
         <td>&nbsp;&nbsp;</td>
         {{ end }}
 
         <!-- Mobile logo (optional) -->
         {{ if .Params.mobile }}
-        <td class="relative group">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" alt="Mobile Phone Compatible Logo">
-          <span class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-200 whitespace-nowrap">
+        <td class="relative">
+          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" alt="Mobile Phone Compatible Logo"
+               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
             Mobile phone compatible
-          </span>
+          </div>
         </td>
         {{ end }}
       </tr>
     </tbody>
   </table>
 </div>
+
+<!-- JS for tooltips -->
+<script>
+function showTooltip(el) {
+  const tooltip = el.nextElementSibling;
+  if (tooltip) tooltip.classList.remove('hidden');
+}
+function hideTooltip(el) {
+  const tooltip = el.nextElementSibling;
+  if (tooltip) tooltip.classList.add('hidden');
+}
+</script>
+
 
 
               </div>
