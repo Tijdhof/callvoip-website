@@ -93,57 +93,68 @@
                 {{ end }}
 
 
-<div class="flex items-center space-x-4 lg:block lg:space-x-0">
+<div class="flex items-center space-x-4 lg:block lg:space-x-0 relative">
   <span><b>Beschikbaar voor:</b></span>
-  <table>
-    <tbody>
-      <tr>
-        <!-- Apple logo (always shown) -->
-        <td class="relative">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" alt="iOS Compatible Apple Logo"
-               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
-            Apple (iOS) compatible
-          </div>
-        </td>
-        <td>&nbsp;&nbsp;</td>
 
-        <!-- Windows logo (always shown) -->
-        <td class="relative">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" alt="Windows Compatible Logo"
-               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
-            Windows compatible
-          </div>
-        </td>
-        <td>&nbsp;&nbsp;</td>
+  <div class="flex items-center space-x-4 mt-2">
+    <!-- Apple -->
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/apple28_bbn802.png" 
+           alt="iOS Compatible Apple Logo" class="cursor-pointer"
+           onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg whitespace-nowrap z-50">
+        Apple (iOS) compatible
+      </div>
+    </div>
 
-        <!-- Cloud logo (optional) -->
-        {{ if .Params.cloud }}
-        <td class="relative">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" alt="Cloud Compatible Logo"
-               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
-            Cloud compatible
-          </div>
-        </td>
-        <td>&nbsp;&nbsp;</td>
-        {{ end }}
+    <!-- Windows -->
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1642064239/windows28-small_dhdomb.png" 
+           alt="Windows Compatible Logo" class="cursor-pointer"
+           onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg whitespace-nowrap z-50">
+        Windows compatible
+      </div>
+    </div>
 
-        <!-- Mobile logo (optional) -->
-        {{ if .Params.mobile }}
-        <td class="relative">
-          <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" alt="Mobile Phone Compatible Logo"
-               onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
-          <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-2 py-1 text-xs text-white bg-gray-800 rounded whitespace-nowrap">
-            Mobile phone compatible
-          </div>
-        </td>
-        {{ end }}
-      </tr>
-    </tbody>
-  </table>
+    <!-- Cloud (optional) -->
+    {{ if .Params.cloud }}
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1760959932/cloudicon_akn5ov.png" 
+           alt="Cloud Compatible Logo" class="cursor-pointer"
+           onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg whitespace-nowrap z-50">
+        Cloud compatible
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Mobile (optional) -->
+    {{ if .Params.mobile }}
+    <div class="relative">
+      <img src="https://res.cloudinary.com/callvoip/image/upload/v1760960306/phone-icon_tnwepo.png" 
+           alt="Mobile Phone Compatible Logo" class="cursor-pointer"
+           onmouseover="showTooltip(this)" onmouseout="hideTooltip(this)">
+      <div class="tooltip hidden absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-1 bg-black text-white text-xs rounded shadow-lg whitespace-nowrap z-50">
+        Mobile phone compatible
+      </div>
+    </div>
+    {{ end }}
+  </div>
 </div>
+
+<!-- JS for tooltips -->
+<script>
+function showTooltip(el) {
+  const tooltip = el.nextElementSibling;
+  if (tooltip) tooltip.classList.remove('hidden');
+}
+function hideTooltip(el) {
+  const tooltip = el.nextElementSibling;
+  if (tooltip) tooltip.classList.add('hidden');
+}
+</script>
+
 
 <!-- JS for tooltips -->
 <script>
