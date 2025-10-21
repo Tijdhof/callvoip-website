@@ -1,5 +1,7 @@
 ---
 title: "Wij koppelen jouw CRM Belco aan onze telefonie"
+cloud: true
+mobile: true
 shorttitle: "Belco + auto call log"
 date: 2021-06-03T16:52:17+05:00
 logo: "/belco_yfttbm.png"
