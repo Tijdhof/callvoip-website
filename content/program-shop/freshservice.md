@@ -1,6 +1,8 @@
 ---
 shorttitle: "Freshservice"
 title: "Wij koppelen jouw CRM Freshservice aan onze telefonie"
+mobile: true
+cloud: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/freshservice_lhwnk3.png"
 description: Door het koppelen van Freshservice CRM aan onze slimme telefonie werk je een stuk efficienter.
