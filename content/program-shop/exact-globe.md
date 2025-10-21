@@ -2,6 +2,7 @@
 title: "Wij koppelen jouw CRM Exact Globe aan onze telefonie"
 shorttitle: "Exact Globe"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
 logo: "/exactglobe.png"
 description: Door het koppelen van Exact Globe CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
