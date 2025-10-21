@@ -2,6 +2,7 @@
 title: "Wij koppelen jouw CRM MediKIT aan onze telefonie"
 shorttitle: "MediKIT"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/medikit_lgmrqn.png"
 description: Door het koppelen van MediKIT CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
