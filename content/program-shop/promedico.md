@@ -15,7 +15,6 @@ button:
   link: /marketplace/
 categories:
   - Huisartsen
-  - Medisch
   - Zorg  
 weight: 10
 url: /marketplace/promedico/
