@@ -2,6 +2,8 @@
 shorttitle: "CarQall"
 title: "Wij koppelen jouw CRM CarQall aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
+cloud: true
 logo: "/carqall_f72t1i.png"
 description: Door het koppelen van CarQall CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
