@@ -2,6 +2,7 @@
 title: "Wij koppelen jouw CRM CClaw aan onze telefonie"
 shorttitle: "CClaw"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/cclaw.png"
 description: Door het koppelen van CClaw CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
