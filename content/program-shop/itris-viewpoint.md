@@ -2,6 +2,8 @@
 title: "Wij koppelen jouw CRM Itris Viewpoint aan onze telefonie"
 shorttitle: "Itris Viewpoint"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/itris_zxqlt0.png"
 description: Door het koppelen van Itris Viewpoint CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
