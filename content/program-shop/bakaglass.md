@@ -2,6 +2,7 @@
 title: "Wij koppelen jouw CRM Baka Glass aan onze telefonie"
 shorttitle: "Baka Glass"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/bakaglass.png"
 description: Door het koppelen van Baka Glass CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
