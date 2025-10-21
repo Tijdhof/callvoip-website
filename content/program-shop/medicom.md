@@ -3,6 +3,7 @@ shorttitle: "Medicom + auto call log"
 title: "Wij koppelen jouw CRM Medicom Pharmapartners aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/medicom_badthv.png"
+cloud: true
 description: Door het koppelen van Medicom Pharmapartners CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
