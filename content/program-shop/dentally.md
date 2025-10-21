@@ -1,6 +1,8 @@
 ---
 shorttitle: "Dentally"
 title: "Wij koppelen jouw CRM Dentally aan onze telefonie"
+mobile: true
+cloud: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/v1756472793/dentally_hp3iza.png"
 description: Door het koppelen van Dentally CRM aan onze slimme telefonie werk je een stuk efficienter.
