@@ -2,6 +2,8 @@
 shorttitle: "Exact Synergy"
 title: "Wij koppelen jouw CRM Exact Synergy aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
+cloud: true
 logo: "/exact_synergy_z5ycbt.png"
 description: Door het koppelen van Exact Synergy CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
