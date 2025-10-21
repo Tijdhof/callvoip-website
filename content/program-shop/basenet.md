@@ -1,5 +1,6 @@
 ---
 title: "Wij koppelen jouw CRM BaseNet aan onze telefonie"
+cloud: true
 shorttitle: "BaseNet"
 date: 2021-06-03T16:52:17+05:00
 logo: "/basenet.png"
