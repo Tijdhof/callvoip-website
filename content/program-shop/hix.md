@@ -3,6 +3,7 @@ title: "Wij koppelen jouw CRM HiX ChipSoft aan onze telefonie"
 shorttitle: "HiX ChipSoft"
 date: 2021-06-03T16:52:17+05:00
 logo: "/hix_fsfmnw.png"
+cloud: true
 description: Door het koppelen van HiX ChipSoft CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
