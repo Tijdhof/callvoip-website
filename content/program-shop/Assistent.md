@@ -2,6 +2,7 @@
 title: "Wij koppelen jouw CRM Assistent aan onze telefonie"
 shorttitle: "Assistent"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/assistent_poxwxv.png"
 description: Door het koppelen van Assistent CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
