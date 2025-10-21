@@ -3,6 +3,7 @@ title: "Wij koppelen jouw CRM HaloPSA aan onze telefonie"
 shorttitle: "HaloPSA"
 date: 2021-06-03T16:52:17+05:00
 logo: "/halopsa_bghakn.png"
+cloud: true
 description: Door het koppelen van HaloPSA CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
