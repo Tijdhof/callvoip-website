@@ -15,7 +15,6 @@ button:
   link: /marketplace/
 categories:
   - Zorg
-  - Medisch
 weight: 10
 url: /marketplace/timeff/
 aliases: /program-shop/timeff/
