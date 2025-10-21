@@ -2,6 +2,8 @@
 shorttitle: "Google Nummercheck"
 title: "Wij koppelen Google Nummercheck CRM aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
+cloud: true
 logo: "/Google_vednx4.png"
 description: Door het koppelen van Google Nummercheck CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Algemene koppeling
