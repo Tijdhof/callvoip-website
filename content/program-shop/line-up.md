@@ -1,6 +1,8 @@
 ---
 shorttitle: "Line-Up"
 title: "Wij koppelen jouw CRM Line-Up aan onze telefonie"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/v1756472579/line-up_kylce4.png"
 description: Door het koppelen van Line-Up CRM aan onze slimme telefonie werk je een stuk efficienter.
