@@ -2,6 +2,7 @@
 shorttitle: "Kolibri + auto call log"
 title: "Wij koppelen jouw CRM Kolibri aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/kolibri_b9g8yx.png"
 description: Door het koppelen van Kolibri CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
