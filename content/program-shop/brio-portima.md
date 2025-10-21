@@ -3,6 +3,7 @@ title: "Wij koppelen jouw CRM Brio Portima aan onze telefonie"
 shorttitle: "Brio Portima"
 date: 2021-06-03T16:52:17+05:00
 logo: "/brio_vkw8lg.png"
+cloud: true
 description: Door het koppelen van Brio Portima CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
