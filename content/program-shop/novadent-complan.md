@@ -24,7 +24,6 @@ button:
   link: /marketplace/
 categories:
   - Tandarts
-  - Medisch
 weight: 10
 url: /marketplace/Novadent/
 aliases: /program-shop/Novadent/
