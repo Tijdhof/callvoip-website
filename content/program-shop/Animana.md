@@ -3,6 +3,7 @@ shorttitle: "IDEXX Animana"
 title: "Wij koppelen jouw CRM IDEXX Animana aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/animana-new.png"
+cloud: true
 description: Door het koppelen van IDEXX Animana CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
