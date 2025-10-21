@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM Freshdesk aan onze telefonie"
 shorttitle: "Freshdesk"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/freshdesk_snjx5w.png"
 description: Door het koppelen van Freshdesk CRM aan onze slimme telefonie werk je een stuk efficienter.
