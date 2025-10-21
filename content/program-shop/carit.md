@@ -2,6 +2,8 @@
 title: "Wij koppelen jouw CRM Audev CarIT aan onze telefonie"
 shorttitle: "Audev CarIT"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
+cloud: true
 logo: "/carit-logo.png"
 description: Door het koppelen van Audev CarIT CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
