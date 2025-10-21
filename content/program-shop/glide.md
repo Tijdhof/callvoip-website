@@ -2,6 +2,8 @@
 shorttitle: "Gilde Software HandSoft Pro"
 title: "Wij koppelen jouw CRM Gilde Software HandSoft Pro aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
+cloud: true
 logo: "/v1756472793/glide_bxqczy.png"
 description: Door het koppelen van Gilde Software HandSoft Pro CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
