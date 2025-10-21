@@ -3,6 +3,8 @@ title: "Wij koppelen jouw CRM Compenda aan onze telefonie"
 shorttitle: "Compenda"
 date: 2021-06-03T16:52:17+05:00
 logo: "/compenda.png"
+cloud: true
+mobile: true
 description: Door het koppelen van Compenda CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
