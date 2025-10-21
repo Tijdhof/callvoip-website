@@ -3,6 +3,8 @@ shorttitle: "Bullhorn"
 title: "Wij koppelen jouw CRM Bullhorn aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/bullhorn_zxwwa0.png"
+mobile: true
+cloud: true
 description: Door het koppelen van Bullhorn CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
