@@ -1,6 +1,8 @@
 ---
 shorttitle: "Carerix + auto call log"
 title: "Wij koppelen jouw CRM Carerix aan onze telefonie"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/carerix_hvufri.png"
 description: Door het koppelen van Carerix CRM aan onze slimme telefonie werk je een stuk efficienter.
