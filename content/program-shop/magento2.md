@@ -3,6 +3,7 @@ title: "Wij koppelen jouw CRM Magento 2 aan onze telefonie"
 shorttitle: "Magento 2"
 date: 2021-06-03T16:52:17+05:00
 logo: "/Magento2_i7xl0b.png"
+mobile: true
 description: Door het koppelen van Magento 2 CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
