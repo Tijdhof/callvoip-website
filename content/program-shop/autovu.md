@@ -2,6 +2,8 @@
 shorttitle: "AutoVu"
 title: "Wij koppelen jouw CRM AutoVu aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
+cloud: true
 logo: "/v1756472793/autovu_jjwlf2.png"
 description: Door het koppelen van AutoVu CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
