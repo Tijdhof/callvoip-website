@@ -2,6 +2,7 @@
 title: "Wij koppelen jouw CRM Eyemove aan onze telefonie"
 shorttitle: "Eyemove + auto call log"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/eyemove_gouuru.png"
 description: Door het koppelen van Eyemove CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
