@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM Bloxs aan onze telefonie"
 shorttitle: "Bloxs"
+mobile: true
+cloud: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/bloxs_gbjtrq.png"
 description: Door het koppelen van Bloxs CRM aan onze slimme telefonie werk je een stuk efficienter.
