@@ -3,6 +3,7 @@ title: "Wij koppelen jouw CRM Fox Contact aan onze telefonie"
 shorttitle: "Fox Contact"
 date: 2021-06-03T16:52:17+05:00
 logo: "/fox.png"
+cloud: true
 description: Door het koppelen van Fox Contact CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
