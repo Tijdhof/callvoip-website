@@ -2,6 +2,7 @@
 title: "Wij koppelen jouw CRM DIAS Assurantie Unit4 aan onze telefonie"
 shorttitle: "DIAS Assurantie"
 date: 2021-06-03T16:52:17+05:00
+mobile: true
 logo: "/dias_xbiq34.png"
 description: Door het koppelen van DIAS Assurantie Unit4 CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
