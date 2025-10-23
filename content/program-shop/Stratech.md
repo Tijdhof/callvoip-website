@@ -2,6 +2,8 @@
 shorttitle: "RCS Stratech Enterprise"
 title: "Wij koppelen jouw CRM Stratech RCS aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/Stratech_bfrvhb.png"
 description: Door het koppelen van Stratech RCS CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
