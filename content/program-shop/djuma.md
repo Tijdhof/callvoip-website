@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM Visma Circle Djuma aan onze telefonie"
 shorttitle: "Visma Circle Djuma"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/djuma_llozfx.png"
 description: Door het koppelen van Visma Circle Djuma CRM aan onze slimme telefonie werk je een stuk efficienter.
