@@ -20,6 +20,8 @@ aliases:
 Download direct de tools en apps die te gebruiken zijn in combinatie met de Callvoip dienst.<br><br>
 <h3>Computer / Browser downloads</h3>
 <table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0 5px;width:100%;font-family:Arial,sans-serif;">
+
+  <!-- FIRST SECTION -->
   <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff" width="32" height="32" style="vertical-align:middle;">
@@ -43,6 +45,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
+
   <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://files.callvoip.nl/downloads/ico-blue.ico" width="32" height="32" style="vertical-align:middle;">
@@ -55,9 +58,13 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
-</table>
-<br>
-<table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0 5px;width:100%;font-family:Arial,sans-serif;">
+
+  <!-- SPACER ROW (visual separator) -->
+  <tr>
+    <td colspan="4" style="height:12px;border:none;background-color:transparent;"></td>
+  </tr>
+
+  <!-- SECOND SECTION -->
   <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32" height="32" style="vertical-align:middle;">
@@ -68,16 +75,19 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
-    <tr style="background-color:#f2f2f2;">
+
+  <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32" height="32" style="vertical-align:middle;">
     </td>
     <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Callvoip Bubble365 Edge Plug-in</td>
-    <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;"><a href="https://microsoftedge.microsoft.com/addons/detail/bubble365/ofglgfkijflldmmldabogfodljicagbj" target="_blank">Download</a>
+    <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;">
+      <a href="https://microsoftedge.microsoft.com/addons/detail/bubble365/ofglgfkijflldmmldabogfodljicagbj" target="_blank">Download</a>
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
-    <tr style="background-color:#f2f2f2;">
+
+  <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32" height="32" style="vertical-align:middle;">
     </td>
@@ -88,6 +98,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
 </table>
+
 
 <br>
 <h3>Smartphone app downloads</h3>
