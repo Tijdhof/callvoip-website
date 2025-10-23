@@ -2,6 +2,8 @@
 title: "Wij koppelen jouw CRM Salesprof aan onze telefonie"
 shorttitle: "Salesprof"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/salesprof.png"
 description: Door het koppelen van Salesprof CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
