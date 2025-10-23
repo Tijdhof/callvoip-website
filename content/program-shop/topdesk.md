@@ -3,6 +3,8 @@ shorttitle: "Topdesk"
 title: "Wij koppelen jouw CRM Topdesk aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/topdesk_mmpcu9.png"
+cloud: true
+mobile: true
 description: Door het koppelen van Topdesk CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
