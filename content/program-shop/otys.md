@@ -3,6 +3,8 @@ title: "Wij koppelen jouw CRM OTYS aan onze telefonie"
 shorttitle: "OTYS"
 date: 2021-06-03T16:52:17+05:00
 logo: "/otys_n1gj9u.png"
+cloud: true
+mobile: true
 description: Door het koppelen van OTYS CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
