@@ -2,6 +2,7 @@
 shorttitle: "RobinHQ + auto call log"
 title: "Wij koppelen jouw CRM RobinHQ aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/robinHQ_iuz298.png"
 description: Door het koppelen van RobinHQ CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
