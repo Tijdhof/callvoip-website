@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM NEXTassyst aan onze telefonie"
 shorttitle: "NEXTassyst"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/assyst_suvnox.png"
 description: Door het koppelen van NEXTassyst CRM aan onze slimme telefonie werk je een stuk efficienter.
