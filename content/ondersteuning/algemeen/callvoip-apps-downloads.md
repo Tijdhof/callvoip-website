@@ -72,7 +72,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32" height="32" style="vertical-align:middle;">
     </td>
-    <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">allvoip Bubble365 Edge Plug-in</td>
+    <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Callvoip Bubble365 Edge Plug-in</td>
     <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;"><a href="https://microsoftedge.microsoft.com/addons/detail/bubble365/ofglgfkijflldmmldabogfodljicagbj" target="_blank">Download</a>
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
