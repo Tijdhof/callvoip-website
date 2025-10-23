@@ -129,6 +129,11 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690890485/vamos-apple.png"><a href="https://apps.apple.com/nl/app/vamos-vast-mobiel/id1449692498" target="_blank">Of download hier</a></center></td>
 <td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1690891028/vamos-google.png"><a href="https://play.google.com/store/apps/details?id=com.digifoon.fmc" target="_blank">Of download hier</a></center></td>
 </tr>
+<tr>
+<td style="border: 1px solid black;"><center><img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32px"><b>Callvoip Bubble365 Mobiel App</b></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1761212880/bubble-ios_wjl8sz.png"><a href="https://apps.apple.com/nl/app/bubble365/id6749767778" target="_blank">Of download hier</a></center></td>
+<td style="border: 1px solid black;"><center><img src="https://res.cloudinary.com/callvoip/image/upload/v1761212612/bubble-google_fcg6zt.png"><a href="https://play.google.com/store/apps/details?id=com.bubble365.app&hl=nl" target="_blank">Of download hier</a></center></td>
+</tr>
 </tbody>
 </table>
 <br><br>
