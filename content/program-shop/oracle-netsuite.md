@@ -3,6 +3,8 @@ title: "Wij koppelen jouw CRM Oracle NetSuite aan onze telefonie"
 shorttitle: "Oracle NetSuite"
 date: 2021-06-03T16:52:17+05:00
 logo: "/netSuite.png"
+cloud: true
+mobile: true
 description: Door het koppelen van Oracle NetSuite CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 headerside:
