@@ -3,6 +3,8 @@ shorttitle: "SuperOffice"
 title: "Wij koppelen jouw CRM SuperOffice aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/superoffice_xmp5nu.png"
+cloud: true
+mobile: true
 description: Door het koppelen van SuperOffice CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
 meer_info:
