@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM Recranet aan onze telefonie"
 shorttitle: "Recranet"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/recranet.png"
 description: Door het koppelen van Recranet CRM aan onze slimme telefonie werk je een stuk efficienter.
