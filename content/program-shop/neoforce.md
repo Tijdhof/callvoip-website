@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM Neoforce aan onze telefonie"
 shorttitle: "Neoforce"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/neoforce_zvuvuh.png"
 description: Door het koppelen van Neoforce CRM aan onze slimme telefonie werk je een stuk efficienter.
