@@ -93,7 +93,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     </td>
     <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Callvoip Bubble365 Web Dashboard</td>
     <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;">
-      <a href="https://chromewebstore.google.com/detail/bubble365/ccgmdckiocfdmiapdcknbnmgokjkedkg" target="_blank">Download</a>
+      <a href="https://dashboard.eu.bubble365.app/" target="_blank">Download</a>
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
