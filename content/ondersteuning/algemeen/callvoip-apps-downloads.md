@@ -19,13 +19,13 @@ aliases:
 ---
 Download direct de tools en apps die te gebruiken zijn in combinatie met de Callvoip dienst.<br><br>
 <h3>Computer / Browser downloads</h3>
-<table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0 8px;width:100%;font-family:Arial,sans-serif;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0 5px;width:100%;font-family:Arial,sans-serif;">
   <tr style="background-color:#f2f2f2;">
     <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
       <img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff" width="32" height="32" style="vertical-align:middle;">
     </td>
     <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Click to Dial</td>
-    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
+    <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;">
       <a href="https://chrome.google.com/webstore/detail/callvoip-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Download</a>
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
@@ -38,7 +38,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
       <img src="https://lh3.googleusercontent.com/LEgohRXYMasRoU-SXiJrkH_LsMMMgpKERWbOCpofID-cbbtKm4DjovRnDo2eiyvWBGcOUSjvQmBPOGKJW7g8y1aJCw=w128-h128-e365-rj-sc0x00ffffff" width="32" height="32" style="vertical-align:middle;">
     </td>
     <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Browser Authenticator</td>
-    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
+    <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;">
       <a href="https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai" target="_blank">Download</a>
     </td>
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
@@ -49,7 +49,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
       <img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32" height="32" style="vertical-align:middle;">
     </td>
     <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Bubble365 Browser App</td>
-    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
+    <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;">
       <a href="https://chromewebstore.google.com/detail/bubble365/ccgmdckiocfdmiapdcknbnmgokjkedkg" target="_blank">Chrome</a> /
       <a href="https://microsoftedge.microsoft.com/addons/detail/bubble365/ofglgfkijflldmmldabogfodljicagbj" target="_blank">Edge</a>
     </td>
@@ -61,7 +61,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
       <img src="https://files.callvoip.nl/downloads/ico-blue.ico" width="32" height="32" style="vertical-align:middle;">
     </td>
     <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Callvoip Desktop Icons</td>
-    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
+    <td style="border:none;padding:10px 12px;text-align:left;white-space:nowrap;vertical-align:middle;">
       <a href="https://callvoip.nl/ico1" target="_blank">Blauw</a> |
       <a href="https://callvoip.nl/ico2" target="_blank">Oranje</a> |
       <a href="https://callvoip.nl/ico3" target="_blank">Groen</a>
@@ -69,6 +69,7 @@ Download direct de tools en apps die te gebruiken zijn in combinatie met de Call
     <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
 </table>
+
 
 
 <br>
