@@ -2,6 +2,8 @@
 title: "Wij koppelen jouw CRM Microsoft Dynamics 365 Business Central aan onze telefonie"
 shorttitle: "Microsoft Dynamics 365 Business Central"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/dynamics365business_kudvp1.png"
 description: Door het koppelen van Microsoft Dynamics 365 Business Central CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
