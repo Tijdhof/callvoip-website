@@ -2,6 +2,7 @@
 shorttitle: "SAP C4C"
 title: "Wij koppelen jouw CRM SAP C4C aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
 logo: "/sap_bmdk6l.png"
 description: Door het koppelen van SAP C4C CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
