@@ -5,6 +5,8 @@ date: 2021-06-03T16:52:17+05:00
 logo: "/servicenow_bifq2f.png"
 description: Door het koppelen van ServiceNow CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
+cloud: true
+mobile: true
 meer_info:
   - title: Support
     url: /ondersteuning/
