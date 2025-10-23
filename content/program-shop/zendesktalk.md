@@ -2,6 +2,8 @@
 title: "Wij koppelen jouw CRM Zendesk Talk aan onze telefonie"
 shorttitle: "Zendesk Talk + auto call log"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/zendesktalk_svnehs.png"
 description: Door het koppelen van Zendesk Talk CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
