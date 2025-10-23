@@ -1,6 +1,8 @@
 ---
 shorttitle: "Wintree TSD Software"
 title: "Wij koppelen jouw CRM Wintree TSD Software aan onze telefonie"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/TSD_b9xyrs.png"
 description: Door het koppelen van Wintree TSD Software CRM aan onze slimme telefonie werk je een stuk efficienter.
