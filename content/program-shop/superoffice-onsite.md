@@ -2,6 +2,8 @@
 title: "Wij koppelen jouw CRM SuperOffice On-Site aan onze telefonie"
 shorttitle: "SuperOffice On-Site"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/superoffice-onsite_nz8ijk.png"
 description: Door het koppelen van SuperOffice On-Site CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
