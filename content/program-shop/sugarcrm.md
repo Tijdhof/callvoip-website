@@ -2,6 +2,8 @@
 title: "Wij koppelen jouw CRM SugarCRM aan onze telefonie"
 shorttitle: "SugarCRM"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/sugarcrm_sosd2m.png"
 description: Door het koppelen van SugarCRM CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
