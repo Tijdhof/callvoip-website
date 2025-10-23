@@ -1,6 +1,7 @@
 ---
 shorttitle: "Nedap Ons"
 title: "Wij koppelen jouw CRM Nedap Ons aan onze telefonie"
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/v1756472793/nedap-ons_eq406h.png"
 description: Door het koppelen van Nedap Ons CRM aan onze slimme telefonie werk je een stuk efficienter.
