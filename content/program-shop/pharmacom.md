@@ -1,6 +1,7 @@
 ---
 title: "Wij koppelen jouw CRM Pharmacom aan onze telefonie"
 shorttitle: "Pharmacom"
+cloud: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/pharmacom.png"
 description: Door het koppelen van Pharmacom CRM aan onze slimme telefonie werk je een stuk efficienter.
