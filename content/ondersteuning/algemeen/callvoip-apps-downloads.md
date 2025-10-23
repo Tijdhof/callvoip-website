@@ -19,82 +19,57 @@ aliases:
 ---
 Download direct de tools en apps die te gebruiken zijn in combinatie met de Callvoip dienst.<br><br>
 <h3>Computer / Browser downloads</h3>
-<style>
-.download-table {
-  border-collapse: separate;
-  border-spacing: 0 8px; /* white space between rows */
-  width: 100%;
-  font-family: Arial, sans-serif;
-}
-
-.download-table tr {
-  background-color: #f2f2f2; /* grey row background */
-}
-
-.download-table td {
-  border: none; /* invisible columns */
-  padding: 10px 12px;
-  vertical-align: middle;
-}
-
-.download-table td:first-child {
-  width: 40px; /* logo column */
-  text-align: center;
-}
-
-.download-table td:nth-child(2) {
-  font-weight: bold; /* name column */
-}
-
-.download-table td:nth-child(3),
-.download-table td:nth-child(4) {
-  text-align: center; /* align download/handleiding */
-  white-space: nowrap;
-}
-
-.download-table img {
-  width: 32px;
-  height: 32px;
-  vertical-align: middle;
-}
-</style>
-
-<table class="download-table">
-  <tr>
-    <td><img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff"></td>
-    <td>Click to Dial</td>
-    <td><a href="https://chrome.google.com/webstore/detail/callvoip-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Download</a></td>
-    <td><a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/">Handleiding</a></td>
+<table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0 8px;width:100%;font-family:Arial,sans-serif;">
+  <tr style="background-color:#f2f2f2;">
+    <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
+      <img src="https://lh3.googleusercontent.com/hnPEM81dFb18FlOTGYv54Rnc2i1b5yOVMItuNog4rqduciO8nLhylJ1JuXeSBij7AT1K1owFctZkjI0GRAhEzyjStg=w128-h128-e365-rj-sc0x00ffffff" width="32" height="32" style="vertical-align:middle;">
+    </td>
+    <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Click to Dial</td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
+      <a href="https://chrome.google.com/webstore/detail/callvoip-click-to-dial/hnjepanannlajhppemgdmcjjpimlhkgm?hl=nl" target="_blank">Download</a>
+    </td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
+      <a href="https://www.callvoip.nl/ondersteuning/integraties/click-to-dial/">Handleiding</a>
+    </td>
   </tr>
 
-  <tr>
-    <td><img src="https://lh3.googleusercontent.com/LEgohRXYMasRoU-SXiJrkH_LsMMMgpKERWbOCpofID-cbbtKm4DjovRnDo2eiyvWBGcOUSjvQmBPOGKJW7g8y1aJCw=w128-h128-e365-rj-sc0x00ffffff"></td>
-    <td>Browser Authenticator</td>
-    <td><a href="https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai" target="_blank">Download</a></td>
-    <td>—</td>
+  <tr style="background-color:#f2f2f2;">
+    <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
+      <img src="https://lh3.googleusercontent.com/LEgohRXYMasRoU-SXiJrkH_LsMMMgpKERWbOCpofID-cbbtKm4DjovRnDo2eiyvWBGcOUSjvQmBPOGKJW7g8y1aJCw=w128-h128-e365-rj-sc0x00ffffff" width="32" height="32" style="vertical-align:middle;">
+    </td>
+    <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Browser Authenticator</td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
+      <a href="https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai" target="_blank">Download</a>
+    </td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
 
-  <tr>
-    <td><img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60"></td>
-    <td>Bubble365 Browser App</td>
-    <td>
+  <tr style="background-color:#f2f2f2;">
+    <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
+      <img src="https://lh3.googleusercontent.com/j3tINOvSgcuKInS6UlMjsdtuXQRwnSaYP2i5_2LJ2-Nto5JYdpTDdnVO-R9p7cb2jNmS8qRkJBHzHKwH_Bk8KHOU0w=s60" width="32" height="32" style="vertical-align:middle;">
+    </td>
+    <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Bubble365 Browser App</td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
       <a href="https://chromewebstore.google.com/detail/bubble365/ccgmdckiocfdmiapdcknbnmgokjkedkg" target="_blank">Chrome</a> /
       <a href="https://microsoftedge.microsoft.com/addons/detail/bubble365/ofglgfkijflldmmldabogfodljicagbj" target="_blank">Edge</a>
     </td>
-    <td>—</td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
 
-  <tr>
-    <td><img src="https://files.callvoip.nl/downloads/ico-blue.ico"></td>
-    <td>Callvoip Desktop Icons</td>
-    <td>
+  <tr style="background-color:#f2f2f2;">
+    <td style="border:none;padding:10px 12px;width:40px;text-align:center;vertical-align:middle;">
+      <img src="https://files.callvoip.nl/downloads/ico-blue.ico" width="32" height="32" style="vertical-align:middle;">
+    </td>
+    <td style="border:none;padding:10px 12px;font-weight:bold;vertical-align:middle;">Callvoip Desktop Icons</td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">
       <a href="https://callvoip.nl/ico1" target="_blank">Blauw</a> |
       <a href="https://callvoip.nl/ico2" target="_blank">Oranje</a> |
       <a href="https://callvoip.nl/ico3" target="_blank">Groen</a>
     </td>
-    <td>—</td>
+    <td style="border:none;padding:10px 12px;text-align:center;white-space:nowrap;vertical-align:middle;">—</td>
   </tr>
 </table>
+
 
 <br>
 <h3>Smartphone app downloads</h3>
