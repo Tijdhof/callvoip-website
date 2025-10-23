@@ -1,5 +1,7 @@
 ---
 shorttitle: "Smokeball"
+cloud: true
+mobile: true
 title: "Wij koppelen jouw CRM Smokeball aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
 logo: "/v1756472793/smokeball_c0rzvt.png"
