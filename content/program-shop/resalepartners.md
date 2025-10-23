@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM ResalePartners aan onze telefonie"
 shorttitle: "ResalePartners"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/resalepartners_i1ijbv.png"
 description: Door het koppelen van ResalePartners CRM aan onze slimme telefonie werk je een stuk efficienter.
