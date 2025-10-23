@@ -2,6 +2,8 @@
 shorttitle: "Sherpaan"
 title: "Wij koppelen jouw CRM Sherpaan aan onze telefonie"
 date: 2021-06-03T16:52:17+05:00
+cloud: true
+mobile: true
 logo: "/Sherpaan_vg3pwg.png"
 description: Door het koppelen van Sherpaan CRM aan onze slimme telefonie werk je een stuk efficienter.
 shortdesc: Sync je CRM-contacten en -bedrijven.
