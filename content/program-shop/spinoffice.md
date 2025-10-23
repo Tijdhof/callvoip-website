@@ -1,6 +1,8 @@
 ---
 title: "Wij koppelen jouw CRM SpinOffice aan onze telefonie"
 shorttitle: "SpinOffice"
+cloud: true
+mobile: true
 date: 2021-06-03T16:52:17+05:00
 logo: "/SpinOffice.png"
 description: Door het koppelen van SpinOffice CRM aan onze slimme telefonie werk je een stuk efficienter.
