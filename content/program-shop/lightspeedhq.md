@@ -14,6 +14,8 @@ button:
   link: /marketplace/
 categories:
   - Webshop software
+  - E-commerce
+  - Customerservice
 weight: 10
 url: /marketplace/lightspeed-ecom/
 aliases: /program-shop/lightspeed-ecom/
