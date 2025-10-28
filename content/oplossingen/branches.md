@@ -61,6 +61,14 @@ blocks:
     <a href="/branches/horeca/" class="button">Ontdek onze oplossing voor de horeca</a>
   position: image_right
   image_position: ''
+- title: Hosted telefonie voor de horeca
+  image: "/v1565855183/garage_h1yoou.png"
+  content: |-
+    Een garagebedrijf draait op goede planning én bereikbaarheid. Koppel je telefonie aan je planningssysteem of CRM, zodat je direct ziet wie er belt en alle klant- en voertuiggegevens binnen handbereik hebt. Of je nu aan de balie staat of in de werkplaats werkt, met slimme functies als wachtrijbeheer, keuzemenu’s en mobiele apps blijft je communicatie soepel verlopen. Maak je telefonie slimmer en efficiënter.<BR><BR>
+    <a href="/branches/garagebedrijven/" class="button">Ontdek onze oplossing voor de horeca</a>
+  position: image_right
+  image_position: ''
+
 
 usps:
   title: Mijn branche staat er niet bij
@@ -84,11 +92,10 @@ usps:
     content: Je kunt thuis werken, bij een klant of op kantoor. Flexibiliteit is het
       toverwoord.<BR><BR><a href="/branches/marketingbureau/" class="button">Ja,
       flexibiliteit past bij ons</a>
-  - icon: fa-tooth
-    content: Een rooster aanpassen? Stel eenvoudig de juiste boodschap op het juiste
-      moment in.<BR><BR><a href="/branches/tandarts/" class="button">Oplossing
+  - icon: fa-shopping-cart
+    content: Schaal eenvoudig je franchises met meerdere nummers of juist 1 hoofdnummer.<BR><BR><a href="/branches/franchise/" class="button">Oplossing
       voor tandartspraktijken</a>
-    title: Speciaal voor tandartsen
+    title: Speciaal voor franchises
   - title: Assurantiekantoor
     content: Telefonie en betrouwbaar internet piekfijn in orde maar meer verstand
       van verzekeren?<BR><BR><a href="/branches/assurantiekantoor/" class="button">Ontdek
