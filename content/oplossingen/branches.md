@@ -65,7 +65,7 @@ blocks:
   image: "/v1565855183/garage_h1yoou.png"
   content: |-
     Een garagebedrijf draait op goede planning én bereikbaarheid. Koppel je telefonie aan je planningssysteem of CRM, zodat je direct ziet wie er belt en alle klant- en voertuiggegevens binnen handbereik hebt. Of je nu aan de balie staat of in de werkplaats werkt, met slimme functies als wachtrijbeheer, keuzemenu’s en mobiele apps blijft je communicatie soepel verlopen. Maak je telefonie slimmer en efficiënter.<BR><BR>
-    <a href="/branches/garagebedrijven/" class="button">Ontdek onze oplossing voor de horeca</a>
+    <a href="/branches/garagebedrijven/" class="button">Ontdek onze oplossing voor de garages</a>
   position: image_left
   image_position: ''
 
