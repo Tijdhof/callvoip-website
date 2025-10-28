@@ -1,6 +1,6 @@
 ---
 title: Telefonie voor garagebedrijven
-description: 'Telefonie voor makelaars: flexibel en professioneel. Bereikbaar op je zakelijke nummer via je eigen mobiel. En met slimme CRM-integraties zoals Realworks en meer'
+description: 'Telefonie voor garagebedrijven: direct de klantgegevens inzien via CSS Car Systems met 1 klik op de knop. Zoals de APK vervaldatum of onderhoudshistorie.'
 type: page
 layout: branche2
 logos: false
@@ -60,7 +60,7 @@ usps:
       url: /tour
       text: Neem een tour
 bgimg:
-  image: /v1756215818/makelaarBG_blurred_fb1whu.png
+  image: /v1756215818/garage-blurred_twiais.png
   left:
     title: Waarom kiezen garagebedrijven voor Callvoip?
     text:
