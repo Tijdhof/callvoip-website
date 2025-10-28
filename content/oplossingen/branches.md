@@ -94,7 +94,7 @@ usps:
       flexibiliteit past bij ons</a>
   - icon: fa-shopping-cart
     content: Schaal eenvoudig je franchises met meerdere nummers of juist 1 hoofdnummer.<BR><BR><a href="/branches/franchise/" class="button">Oplossing
-      voor tandartspraktijken</a>
+      voor franchisenemers</a>
     title: Speciaal voor franchises
   - title: Assurantiekantoor
     content: Telefonie en betrouwbaar internet piekfijn in orde maar meer verstand
