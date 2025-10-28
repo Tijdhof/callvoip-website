@@ -8,7 +8,7 @@ url: "/branches/garagebedrijven/"
 hero:
   title: Altijd professioneel bereikbaar, zonder gedoe
   content: 'Telefonie voor een garagebedrijf vraagt om oplossingen die passen bij de dynamiek van de werkplaats, de receptie en jouw team. Denk aan instelbare openingstijden, professionele meldteksten, meerdere nummers voor verschillende afdelingen (zoals werkplaats, verkoop en receptie).<br>Helemaal handig is onze CRM koppeling, met bijvoorbeeld CSS Car System. Wanneer een klant jou belt, heb je direct alle belangrijke data bijdehand.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
-  image: "https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto//v1571655384/3918.jpg"
+  image: "v1571655384/3918.jpg"
   zooming: false
   image_position: center
   disable_image_on_mobile: false
@@ -21,7 +21,7 @@ usps:
     eigen teksten in te spreken. Meer weten over de vele functionaliteiten?<br>Neem <a
     href="https://www.callvoip.nl/contact/">contact</a> met ons op, we vertellen je
     er alles over!
-  image: "https://res.cloudinary.com/callvoip/image/upload/c_scale,f_auto,q_auto//v1572861318/garagecrm.png"
+  image: "v1572861318/garagecrm.png"
   items:
   - icon: fa-cog
     title: Koppeling met jouw plannings- of CRM-systeem
