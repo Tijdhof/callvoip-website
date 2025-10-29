@@ -17,8 +17,6 @@ De afgelopen tijd is er veel....
 
 ![](https://img.mailinblue.com/2631533/images/content_library/original/689b2d2cb5c0be9c851168d2.png)
 
-## \
-
 **Qaller App 5.1 – meer controle, meer overzicht**
 
 De nieuwste update van Qaller is er! Met versie 5.1 wordt het nog makkelijker om bereikbaar te blijven, overzicht te houden én zelf te bepalen wanneer je even niet gestoord wilt worden.
@@ -54,9 +52,7 @@ Moet je je telefoon tijdelijk doorschakelen? Bel *21 en het is direct geregeld. 
 
 ## **Webcalls updates: extra speaker en wisselgesprek**
 
-![](https://img.mailinblue.com/2631533/images/content_library/original/66d6f8be150e2217e33e7b91.png)
-
-\
+<img src="https://img.mailinblue.com/2631533/images/content_library/original/66d6f8be150e2217e33e7b91.png" height="200px">\
 **Ben je thuis aan het werk en zit je even niet achter je computer?** \
 Dan is het handig dat je een inkomende Webcalls-gesprek kunt laten rinkelen op je **Mac-speakers** of de **boxjes van je PC**. \
 \
