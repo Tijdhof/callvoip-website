@@ -37,12 +37,7 @@ Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of he
 
 {{< form "Contact formulier" "/contact/verzonden" >}}
 
-<input
-    type="hidden"
-    id="formlayout"
-    name="formlayout"
-    value="d-bb5785f73c154508a7d4125575855140"
-    class="hidden">
+<input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826" class="hidden">
     
 {{< form/to "aanvragen">}}
 
