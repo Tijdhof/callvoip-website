@@ -11,7 +11,7 @@ url: /updates
 ---
 Welkom!\
 \
-`<hr>`\
+<hr>\
 \
 De afgelopen tijd is er veel....
 
@@ -64,4 +64,4 @@ Dit is ook heel handig voor tijdens de lunchpauze, in grotere ruimtes en als je 
 \
 [Ontdek webcalls](https://www.callvoip.nl/telefonie/bellenmetpc/)
 
-`<hr>`
+<hr>
