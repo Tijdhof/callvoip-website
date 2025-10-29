@@ -9,13 +9,10 @@ hero:
 date: 2025-10-29T09:53:30.403Z
 url: /updates
 ---
-Welkom!\
-\
-<hr>\
-<h1> titles kunnen ook gewoon zo via html </h1>
+Welkom!
 
-enters hoeven niet met een br, kan gewoon enters typen\
-\
+<hr>
+<h2> titles kunnen ook gewoon zo via html </h2><br>\
 De afgelopen tijd is er veel....
 
 ![](https://img.mailinblue.com/2631533/images/content_library/original/689b2d2cb5c0be9c851168d2.png)
@@ -55,12 +52,11 @@ Moet je je telefoon tijdelijk doorschakelen? Bel *21 en het is direct geregeld. 
 
 ## **Webcalls updates: extra speaker en wisselgesprek**
 
-<img src="https://img.mailinblue.com/2631533/images/content_library/original/66d6f8be150e2217e33e7b91.png" width="200px" style="float:right">\
-**Ben je thuis aan het werk en zit je even niet achter je computer?** \
+<img src="https://img.mailinblue.com/2631533/images/content_library/original/66d6f8be150e2217e33e7b91.png" width="200px" style="float:right">**Ben je thuis aan het werk en zit je even niet achter je computer?** \
 Dan is het handig dat je een inkomende Webcalls-gesprek kunt laten rinkelen op je **Mac-speakers** of de **boxjes van je PC**. \
 \
 Dit is ook heel handig voor tijdens de lunchpauze, in grotere ruimtes en als je vaak even niet achter je bureau zit. \
 \
-[Ontdek webcalls](https://www.callvoip.nl/telefonie/bellenmetpc/)
+<a href="/webcalls" class="button">
 
 <hr>
