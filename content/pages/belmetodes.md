@@ -18,7 +18,7 @@ blocks:
 - content: 'Bij Callvoip zijn de oplossingen geen aparte silo’s maar samenwerkende modules. Je kunt bijvoorbeeld:<br>- Je vaste nummer doorschakelen naar je mobiel<br>- Bellen met je vaste nummer vanaf je smartphone<br>- Via de PC inloggen en belacties uitvoeren<br>- Integraties met CRM-systemen en andere software<br><br>Zo creëer je een flexibel, modulair bel­systeem dat past bij en meegroeit met je organisatie.<br><br><a href="https://www.callvoip.nl/ondersteuning/vast-mobiel/overzicht/" class="button" target="_blank">Vergelijking integraties</a>'
   image: "/v1572861318/qaller-new_xyvfcs.png"
   position: image_left
-  title: Combineer en integreer: één geïntegreerd systeem
+  title: 'Combineer en integreer: één geïntegreerd systeem'
   image_position: center
 textblocks:
 - title1: '<div class="md:flex items-center mb-6"><img src="https://res.cloudinary.com/callvoip/image/upload/v1572861318/qaller32x32_s4x7ro.png">Wat is dat: Qaller app?</div>'
