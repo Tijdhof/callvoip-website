@@ -26,7 +26,7 @@ Naast handige verbeteringen introduceert deze versie een aantal nieuwe functies 
 #### **Alle vernieuwingen in één overzicht**
 
 \
-**<img src="**https://img.mailinblue.com/2631533/images/content_library/original/689b1ce0233ad6bcdef71a6d.png" style="float:right">**1. Missed Call Notification**\
+<img src="https://img.mailinblue.com/2631533/images/content_library/original/689b1ce0233ad6bcdef71a6d.png" style="float:right">**1. Missed Call Notification**\
 Nooit meer twijfelen of je iemand terug moet bellen. Met de nieuwe melding voor gemiste oproepen zie je direct wanneer je een gesprek hebt gemist. Zo kun je sneller reageren en voorkom je dat belangrijke gesprekken blijven liggen. Android-gebruikers kennen deze functie al, maar vanaf nu is hij ook beschikbaar voor iOS.
 
 ![](https://img.mailinblue.com/2631533/images/content_library/original/689b2b2cead62cd1502e3783.png)
