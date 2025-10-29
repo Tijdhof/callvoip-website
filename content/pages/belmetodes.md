@@ -21,8 +21,8 @@ blocks:
   title: 'Combineer en integreer: één geïntegreerd systeem'
   image_position: center
 intro_top:
-- tilte: test
-- content: test
+  title: 'Callvoip biedt twee lagen van beveiliging'
+  content: ''
 textblocks:
 - title1: 'Vaste telefonie'
   content1: 'Met onze Hosted VoIP-oplossing gebruik je je vaste telefooncentrale via internet. Geen fysieke centrale meer op locatie. Je krijgt volledige functionaliteit: doorschakelen, voicemail, belplannen, integraties met software, en schaalbaarheid op maat.<br><br><br><a href="/telefonie/hostedvoip/" class="button">Meer informatie</a>'
