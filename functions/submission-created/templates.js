@@ -1,5 +1,5 @@
 function template_d_126942c712c44ec98eb3f158d6b2c826(data) {
-  const excludedKeys = ['formto', 'form_name', 'formlayout', 'ip', 'user_agent', 'referrer'];
+  const excludedKeys = ['formto', 'form_name', 'form', 'formlayout', 'ip', 'user_agent', 'referrer'];
   const fields = Object.entries(data).filter(([key]) => !excludedKeys.includes(key))
     
   return `
