@@ -6,7 +6,7 @@ hideingoogle: false
 hidesocialshare: false
 hero:
   disable_image_on_mobile: false
-date: 
+date: 2025-10-29T09:53:30.403Z
 url: /updates
 ---
 Welkom!
@@ -57,6 +57,6 @@ Dan is het handig dat je een inkomende Webcalls-gesprek kunt laten rinkelen op j
 \
 Dit is ook heel handig voor tijdens de lunchpauze, in grotere ruimtes en als je vaak even niet achter je bureau zit. \
 \
-<a href="/webcalls" class="button">
+<a href="/webcalls" class="button">Ontdek webcalls</a>
 
 <hr>
