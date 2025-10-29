@@ -29,6 +29,7 @@ textblocks:
   title2: 'Bellen via je smartphone'
   content2: Je smartphone hoort bij je communicatiesysteem. Via de Qaller-app regelt je doorschakelingen, pas je belplannen aan en kun je zelfs bellen via je vaste nummer op je mobiel. Met de Vamos SIM-oplossing vervaagt de grens tussen vast en mobiel.<br><br><a href="/telefonie/qaller/" class="button">Meer informatie</a>
   title3: 'Bellen via de PC (Webcalls)'
+  image3: https://res.cloudinary.com/callvoip/image/upload/v1761728671/bellen-smartphone_sursaz.png
   content3: 'Je pc wordt je telefooncentrale. Via Webcalls bel je vanuit je browser zonder extra installatie. Met de Chrome-extensie (click-to-dial), operator dashboard, integraties en realtime inzicht. Perfect voor thuiswerken of flexplekken.<br><br><br><a href="/webcalls/"
     class="button">Meer informatie</a>'
   show_vshape: false
