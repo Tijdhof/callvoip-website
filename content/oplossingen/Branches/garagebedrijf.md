@@ -1,13 +1,13 @@
 ---
 title: Telefonie voor garagebedrijven
-description: 'Telefonie voor garagebedrijven: direct de klantgegevens inzien via CSS Car Systems met 1 klik op de knop. Zoals de APK vervaldatum of onderhoudshistorie.'
+description: 'Telefonie voor garagebedrijven: direct de klantgegevens inzien via CSS CarSys met 1 klik op de knop. Zoals de APK vervaldatum of onderhoudshistorie.'
 type: page
 layout: branche2
 logos: false
 url: "/branches/garagebedrijven/"
 hero:
   title: Altijd professioneel bereikbaar, zonder gedoe
-  content: 'Telefonie voor een garagebedrijf vraagt om oplossingen die passen bij de dynamiek van de werkplaats, de receptie en jouw team. Denk aan instelbare openingstijden, professionele meldteksten, meerdere nummers voor verschillende afdelingen (zoals werkplaats, verkoop en receptie).<br>Helemaal handig is onze CRM koppeling, met bijvoorbeeld CSS Car System. Wanneer een klant jou belt, heb je direct alle belangrijke data bijdehand.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
+  content: 'Telefonie voor een garagebedrijf vraagt om oplossingen die passen bij de dynamiek van de werkplaats, de receptie en jouw team. Denk aan instelbare openingstijden, professionele meldteksten, meerdere nummers voor verschillende afdelingen (zoals werkplaats, verkoop en receptie).<br>Helemaal handig is onze CRM koppeling, met bijvoorbeeld CSS CarSys. Wanneer een klant jou belt, heb je direct alle belangrijke data bijdehand.<br><br>Vraag een gratis adviesgesprek aan of bel direct met een specialist: <a href="tel:+31508200000">050 – 820 00 00</a>'
   image: "v1571655384/3918.jpg"
   zooming: false
   image_position: center
@@ -25,7 +25,7 @@ usps:
   items:
   - icon: fa-cog
     title: Koppeling met jouw plannings- of CRM-systeem
-    content: Wij koppelen eenvoudig met diverse garagesoftwarepakketten zoals CSS Car Systems en meer
+    content: Wij koppelen eenvoudig met diverse garagesoftwarepakketten zoals CSS CarSys en meer
     link: 
       url: /marketplace
       text: Lees meer
