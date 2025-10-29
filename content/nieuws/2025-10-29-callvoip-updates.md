@@ -12,6 +12,9 @@ url: /updates
 Welkom!\
 \
 <hr>\
+<h1> titles kunnen ook gewoon zo via html </h1>
+
+enters hoeven niet met een br, kan gewoon enters typen\
 \
 De afgelopen tijd is er veel....
 
@@ -52,7 +55,7 @@ Moet je je telefoon tijdelijk doorschakelen? Bel *21 en het is direct geregeld. 
 
 ## **Webcalls updates: extra speaker en wisselgesprek**
 
-<img src="https://img.mailinblue.com/2631533/images/content_library/original/66d6f8be150e2217e33e7b91.png" height="200px">\
+<img src="https://img.mailinblue.com/2631533/images/content_library/original/66d6f8be150e2217e33e7b91.png" height="200px" style="float:right">\
 **Ben je thuis aan het werk en zit je even niet achter je computer?** \
 Dan is het handig dat je een inkomende Webcalls-gesprek kunt laten rinkelen op je **Mac-speakers** of de **boxjes van je PC**. \
 \
