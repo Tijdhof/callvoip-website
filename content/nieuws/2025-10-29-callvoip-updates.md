@@ -6,7 +6,7 @@ hideingoogle: false
 hidesocialshare: false
 hero:
   disable_image_on_mobile: false
-date: 2025-10-29T09:53:30.403Z
+date: 
 url: /updates
 ---
 Welkom!
