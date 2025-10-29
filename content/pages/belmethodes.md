@@ -25,6 +25,7 @@ intro_top:
   content: 'Callvoip biedt een compleet pakket aan beloplossingen voor bedrijven: vaste telefonie, mobiele integratie én bellen via de pc. Zo kun je je bereikbaarheid inrichten zoals jij dat wilt. Op kantoor, onderweg of thuis.'
 textblocks:
 - title1: 'Bellen via IP-toestel'
+  image1: https://res.cloudinary.com/callvoip/image/upload/v1761730589/vast-bellen_crfopd.png
   content1: 'Met onze Hosted VoIP-oplossing gebruik je je vaste telefooncentrale via internet. Geen fysieke centrale meer op locatie. Je krijgt volledige functionaliteit: doorschakelen, voicemail, belplannen, integraties met software, en schaalbaarheid op maat.<br><br><a href="/telefonie/hostedvoip/" class="button">Meer informatie</a>'
   title2: 'Bellen via je smartphone'
   image2: https://res.cloudinary.com/callvoip/image/upload/v1761728671/bellen-smartphone_sursaz.png
