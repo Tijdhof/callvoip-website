@@ -35,28 +35,44 @@ Callvoip, Koldingweg 19 -1, 9723 HL Groningen
 
 Wilt u meer informatie over onze diensten ontvangen, wilt u feedback geven of heeft u hulp nodig? Neem dan gerust contact met ons op via onderstaand formulier in. Wij nemen dan spoedig contact met u op.
 
-{{< form "Contact formulier" "/contact/verzonden" >}}
+<form action="/contact/verzonden" method="post">
 
-<input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826" class="hidden">
-    
-{{< form/to "aanvragen">}}
+  <input type="hidden" id="formlayout" name="formlayout" value="d-126942c712c44ec98eb3f158d6b2c826" class="hidden">
 
-{{< layout/split >}}
+  <div class="form-split">
+    <div class="form-group">
+      <label for="voornaam">Voornaam</label>
+      <input type="text" id="voornaam" name="voornaam">
+    </div>
 
-{{< form/input "Voornaam">}}
+    <div class="form-group">
+      <label for="achternaam">Achternaam</label>
+      <input type="text" id="achternaam" name="achternaam">
+    </div>
+  </div>
 
-{{< form/input "Achternaam" >}}
+  <div class="form-group">
+    <label for="bedrijfsnaam">Bedrijfsnaam</label>
+    <input type="text" id="bedrijfsnaam" name="bedrijfsnaam">
+  </div>
 
-{{</ layout/split >}}
+  <div class="form-split">
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+    </div>
 
-{{< form/input "Bedrijfsnaam" >}}
+    <div class="form-group">
+      <label for="telefoonnummer">Telefoonnummer</label>
+      <input type="text" id="telefoonnummer" name="telefoonnummer">
+    </div>
+  </div>
 
-{{< layout/split >}}
+  <div class="form-group">
+    <label for="vraag">Uw vraag/opmerking</label>
+    <textarea id="vraag" name="vraag"></textarea>
+  </div>
 
-{{< form/email "Email" required >}}
+  <button type="submit">Verstuur formulier</button>
+</form>
 
-{{< form/input "Telefoonnummer" >}}
-
-{{</ layout/split >}}
-
-{{< form/textarea "Uw vraag/opmerking" >}} {{< form/button "Verstuur formulier" >}}{{</ form >}}
