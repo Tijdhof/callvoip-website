@@ -9,7 +9,7 @@ aliases: "/belmetodes"
 url: telefonie/belmetodes/
 hero:
   title: Alles over integratie met mobiel
-  content: Met de beloplossingen van Callvoip stel je jouw bereikbaarheid precies in zoals jij dat wilt. Of je nu belt via een vaste lijn, je mobiel of je computer: alles werkt soepel samen binnen één systeem. Zo ben je altijd professioneel bereikbaar; op kantoor, onderweg of thuis. Callvoip biedt flexibele, schaalbare en slimme oplossingen die meegroeien met jouw organisatie. Ontdek hoe vaste telefonie, mobiele integratie en bellen via de pc elkaar versterken en samen zorgen voor een complete oplossin<br><br><a href="/klantworden" class="button">Nog geen Callvoip klant?</a>
+  content: 'Met de beloplossingen van Callvoip stel je jouw bereikbaarheid precies in zoals jij dat wilt. Of je nu belt via een vaste lijn, je mobiel of je computer: alles werkt soepel samen binnen één systeem. Zo ben je altijd professioneel bereikbaar; op kantoor, onderweg of thuis. Callvoip biedt flexibele, schaalbare en slimme oplossingen die meegroeien met jouw organisatie. Ontdek hoe vaste telefonie, mobiele integratie en bellen via de pc elkaar versterken en samen zorgen voor een complete oplossin<br><br><a href="/klantworden" class="button">Nog geen Callvoip klant?</a>'
   image: "/v1571655384/calling_os7r1h.png"
   zooming: true
   image_position: center
