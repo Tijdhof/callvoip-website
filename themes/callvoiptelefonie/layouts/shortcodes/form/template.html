@@ -1,10 +1,10 @@
 {{ $name := default "Provide input name" (.Get 0) }}
 
+<p hidden class="hidden">DEBUG: Input to form/template: {{ $name }}</p>
+
 <input
     type="hidden"
     id="formlayout"
     name="formlayout"
     value="{{ $name | urlize }}"
     class="hidden">
-
-
