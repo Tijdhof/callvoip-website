@@ -31,7 +31,7 @@ Callvoip, Koldingweg 19 -1, 9723 HL Groningen
 {{</ layout/column2 >}}
 {{</ layout/columns >}}<br>
 
-<form class="mb-6" name="contactformulier" action="/contact/verzonden" accept-charset="UTF-8" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+<form class="mb-6" name="contactformulier" action="/contact/verzonden" accept-charset="UTF-8" method="POST" data-netlify="true" netlify-honeypot="bot-field">
   
   <input type="hidden" name="form-name" value="contactformulier">
   
@@ -75,8 +75,6 @@ Callvoip, Koldingweg 19 -1, 9723 HL Groningen
     <label for="vraag" class="block">Uw vraag/opmerking</label>
     <textarea id="vraag" name="vraag" class="w-full border border-grey-light bg-white px-3 py-2 text-base"></textarea>
   </div>
-
-  <div class="mb-4" data-netlify-recaptcha="true"></div>
 
   <p><button type="submit" class="button">Verstuur formulier</button></p>
 </form>
